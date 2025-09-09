@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 12,
+  "n_perm_fracciones": 38,
+  "n_trans_caps": 1,
+  "n_trans_articles": 1,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DE LAS GENERALIDADES Y OBJETO DE LA LEY",
+    "CAPÍTULO II DE LOS DERECHOS DE LOS MIGRANTES",
+    "CAPÍTULO III DE LAS OBLIGACIONES DE LOS MIGRANTES",
+    "CAPÍTULO IV DE LAS POLÍTICAS PÚBLICAS PARA LOS MIGRANTES",
+    "CAPÍTULO V DE LA ADMINISTRACIÓN PÚBLICA ESTATAL",
+    "CAPÍTULO VI DE LA PARTICIPACIÓN SOCIAL EN ATENCIÓN A LOS MIGRANTES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

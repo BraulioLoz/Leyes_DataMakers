@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 21,
+  "n_perm_fracciones": 0,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPITULO I CAMPO DE APLICACIÓN",
+    "Capítulo II De los Peritos Valuadores",
+    "Capítulo III Medición con o sin avalúo y localización",
+    "Capítulo IV Dictámenes emitidos por Profesionistas Especializados",
+    "Capítulo V De los Depositarios e Interventores"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

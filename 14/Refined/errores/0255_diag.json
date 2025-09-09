@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 36,
+  "n_perm_fracciones": 210,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De la Organización del “Escudo Urbano C5”",
+    "Capítulo III De la Junta de Gobierno",
+    "Capítulo IV Del Director General",
+    "Capítulo V Del Funcionamiento del Escudo Urbano C5",
+    "Capítulo VI De las Unidades Administrativas",
+    "Capítulo VII Del Órgano Interno de Control",
+    "Capítulo VIII Del Patrimonio del Organismo",
+    "Capítulo IX De las ausencias temporales"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

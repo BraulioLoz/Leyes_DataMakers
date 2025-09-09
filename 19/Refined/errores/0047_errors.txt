@@ -1,0 +1,8 @@
+Errores y advertencias para: 0047.txt
+==================================================
+
+Ubicación: line 397
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 56 a 58
+Línea: Artículo 58. Los Magistrados del Tribunal, bajo su responsabilidad se excusarán de intervenir en los siguientes casos:
+------------------------------

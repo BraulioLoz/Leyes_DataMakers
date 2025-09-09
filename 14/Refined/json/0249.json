@@ -1,0 +1,867 @@
+{
+  "0249.JSON": {
+    "Decreto": "LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA\nAlberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente\nDECRETO\nNUMERO 17152.- EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": null,
+    "Título": "LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "a presente ley es de orden público y tiene por objeto establecer y organizar al Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, que propicie la práctica y emisión de dictámenes e informes periciales con los avances de la ciencia y la técnica, de carácter imparcial y con autonomía técnica y científica de las autoridades a las que auxilian.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "e establece el organismo público descentralizado con personalidad jurídica y patrimonio propios que se denomina Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza. El cual tendrá su domicilio en el Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "ara los efectos de esta ley, se deberá de entender por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Instituto: Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ciencias forenses: el conjunto de conocimientos aplicados al estudio, análisis e investigación de los hechos jurídicamente controvertidos y la participación en éstos de los probables responsables o las partes intervinientes, a través de los estudios de campo o de gabinete verificados mediante técnicas basadas principalmente en las ciencias naturales, exactas, de la salud y sociales, a efecto de proporcionar la información que contribuya a esclarecerlos con objetividad científica."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sistema de Ciencias forenses: Conjunto de políticas, planes, programas, documentos y metodologías tendientes a establecer procedimientos estandarizados que permitan regular la actividad pericial en el Estado de Jalisco con criterios técnicos, científicos y conforme dispone la Constitución y demás ordenamientos legales. Así como las relaciones interinstitucionales de los organismos públicos y privados relacionados con las ciencias forenses;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Certificación de competencias periciales: Es el documento emitido por el Instituto que reconoce formalmente los conocimientos científicos, técnicos y habilidades en artes y oficios de las personas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Banco Estatal de Datos: Banco Estatal de Datos Forenses, establecido en la Ley de Personas Desaparecidas del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Registro Estatal de Personas Fallecidas y No Identificadas: Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas, establecido en la Ley de Personas Desaparecidas del Estado de Jalisco."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De los objetivos y fines del Instituto",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "l Instituto, como institución de seguridad pública, tiene por objeto auxiliar a las autoridades encargadas de impartir justicia y las autoridades encargadas en procuración de\njusticia, mediante el establecimiento y operación de un Sistema de Ciencias Forenses, que establece los requisitos para la elaboración de dictámenes o informes periciales especializados conforme a los avances de la ciencia y la técnica, de manera imparcial y con autonomía, así como emitir la Certificación de competencias periciales, sin perjuicio de ejercer su profesión en la industria, comercio o trabajo que le acomode, en beneficio de las partes que intervienen en controversias jurídicas. Los peritos oficiales del Instituto podrán colaborar con dicho carácter con otras instituciones públicas o privadas, de conformidad con el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "l Instituto tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer y operar el Sistema Jalisciense de Ciencias Forenses;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar las investigaciones de campo y de gabinete necesarias en las indagaciones de hechos en los que se requiera de conocimientos especiales para la dictaminación pericial, a solicitud de la autoridad competente. Asimismo participar, en el ámbito de su competencia, en la preservación y proceso del lugar de los hechos o del hallazgo, y evitar que se pierdan, destruyan o alteren los indicios, huellas o vestigios del hecho, así como los instrumentos, objetos o producto del mismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Atender las peticiones de servicios periciales que formulen el Ministerio Público o la policía con conocimiento de éste, así como de las autoridades judiciales del Estado, canalizándolas para su atención a los titulares de las diversas áreas especializadas de su adscripción;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Elaborar y proponer al Ministerio Público o la policía con conocimiento de éste, así como a las autoridades encargadas de impartir justicia, los dictámenes e informes periciales que a su juicio sean necesarios para el esclarecimiento de los hechos jurídicamente controvertidos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Certificar y evaluar la competencia técnica en conocimientos y habilidades de los servidores públicos que desempeñen funciones periciales y que presten servicios en el Instituto de manera oficial, así como de los peritos que funjan de manera particular o como autorizados, sin perjuicio de las disposiciones legales que regulan el registro y designación de peritos en el Poder Judicial del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Habilitar peritos cuando el Instituto no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera en casos urgentes o con la temporalidad que se requiera;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Tener a su cargo los archivos de identificación criminalística, de voz, de genética humana, de huellas dactilares, de huellas balísticas y demás parámetros biométricos necesarios para la operación del Sistema Nacional de Información de Seguridad Pública;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos y requisitos de certificación de competencias periciales de los peritos oficiales, autorizados y particulares, así como las normas técnicas y requisitos aplicables para la acreditación y certificación de las diversas áreas especializadas de las ciencias forenses que opere el Instituto, sin perjuicio de las disposiciones legales que regulan el registro y designación de peritos en el Poder Judicial del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "El Instituto podrá coordinarse con otras dependencias y entidades de los tres órdenes de gobierno, así como con los sectores privado y social en el ámbito de su competencia y en cumplimiento de sus atribuciones y objetivos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Diseñar y establecer los criterios, normas técnicas y lineamientos a que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas áreas especializadas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Elaborar los mecanismos, procedimientos, programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos al Instituto y habilitados por éste;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Establecer el procedimiento de registro y control para la atención de las peticiones de servicios periciales, así como elaborar los informes y estadísticas correspondientes;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Establecer y operar un sistema de supervisión permanente del personal técnico científico de las diversas áreas especializadas del Instituto, a efecto de garantizar que cumplan y observen las normas jurídico administrativas vigentes en la materia y la normatividad técnica oficial;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Desconcentrar sus servicios periciales en el interior del estado;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Proponer programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales de la Procuraduría General de la República, de las Fiscalías o Procuradurías Generales de Justicia de los Estados, con sus similares del extranjero y con instituciones educativas, que logren el mejoramiento y la modernización de sus funciones;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Establecer las normas que regulen el sistema de cadena de custodia, las cuales deberán ser observadas por los servidores públicos que intervengan en la misma, en los términos de las leyes aplicables;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Ejecutar la obra pública necesaria para el cumplimiento de sus atribuciones y objetivos;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Crear el Registro Estatal de Peritos y Consultores Técnicos con certificado de competencias periciales;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Expedir la constancia relativa a los antecedentes penales, únicamente en los supuestos que establece la Ley Nacional de Ejecución Penal en su artículo 27 fracción IV;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Tener a su cargo la operación del Registro Estatal de Personas Fallecidas y No Identificadas, así como el Banco Estatal de Datos, como parte del Sistema Estatal de Búsqueda de Personas;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Ejecutar, en el ámbito de su competencia, las acciones establecidas en el Programa Nacional de Búsqueda y Localización, el Programa Nacional de Exhumaciones e Identificación Forense, en conjunto con las autoridades encargadas de la búsqueda e investigación, en los términos señalados por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y por la Ley de Personas Desaparecidas del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Establecer e implementar las políticas, planes, programas y metodologías tendientes a la búsqueda, recuperación e identificación de personas fallecidas no identificadas; garantizando el abordaje técnico, científico y humano, dentro de los estándares nacionales e internacionales, a efecto de llevar a cabo la restitución digna e informada de la persona fallecida a sus familiares o deudos;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas para su procesamiento genético;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Resguardar la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel regional, estatal y en su caso nacional, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Inspeccionar y en su caso intervenir mediante exhumación controlada en los centros de resguardo, cementerios, fosas comunes y todo sitio en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar; y"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Las demás que establezcan esta ley y su reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "l objeto principal del Instituto es elaborar dictámenes e informes periciales bajo los principios de objetividad, profesionalismo, independencia técnica, legalidad, eficiencia, honradez y respeto a los derechos humanos, que tiendan a auxiliar a la autoridad correspondiente con la aportación de datos y medios de prueba en:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El esclarecimiento de los hechos que pudieran ser constitutivos de delitos mediante la criminalística y la identificación técnica y científica de los presuntos responsables, autores o partícipes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La determinación de las causas de muerte de personas y la identificación de las mismas por cualquier sistema biométrico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El análisis de la composición química de sustancias;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La identificación balística;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Valoración psicológica y psiquiátrica;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Valorización de bienes muebles e inmuebles, así como la identificación de los mismos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Contabilidad y documentos cuestionados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Agronomía, pecuaria y forestal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Causalidad en los siniestros de tránsito terrestre y la identificación de vehículos de motor;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La informática y la poligrafía;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Siniestros, explosivos y la electromecánica;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "La traducción e interpretación, y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Todas aquellas ramas del conocimiento humano que sean útiles para aportar datos y medios de prueba de manera científica, respecto de hechos controvertidos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De los órganos del Instituto",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "os órganos del Instituto serán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Dirección General; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Tesorería; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La Contraloría."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV De la Junta de Gobierno y sus atribuciones",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "a Junta de Gobierno es la primera autoridad del Instituto. Se integrará por once vocalías honoríficas y sus respectivos suplentes, con derecho a voz y voto, conforme a la siguiente relación:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Titular de la Secretaría General de Gobierno, quien presidirá la Junta;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Titular de la Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Titular de la Procuraduría Social del Estado; IV. Titular de la Secretaría de Seguridad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Titular de la Secretaría de Salud;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Un representante de una institución de educación superior privada en el estado;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Un representante de una institución de educación superior pública en el estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Un representante del sector privado del estado; IX. Un representante de las asociaciones y colegios de abogados del estado; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Un ciudadano jalisciense con conocimientos en las ciencias y técnicas forenses y con prestigio académico en las mismas. Los vocales a que se refieren las fracciones VI, VII, VIII, IX y X, serán designados a invitación del Gobernador del Estado. Los miembros durarán en su encargo cuatro años, y podrán ser ratificados para otro periodo más, el titular del Ejecutivo podrá removerlos libremente para sustituirlos por otros que reúnan los mismos requisitos."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "a Junta de Gobierno deberá reunirse por lo menos una vez de manera trimestral y cada vez que la convoque el presidente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- La Junta de Gobierno tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer las reglas y normas técnicas, para el control de calidad de los dictámenes periciales e informes que emita el Instituto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Crear unidades desconcentradas y autorizar el proyecto y la ejecución de obra pública del Instituto necesarias para el cumplimiento de sus fines, siempre y cuando sea presupuestalmente viable y cumpliendo con las leyes aplicables;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estudiar, y en su caso aprobar, los nombramientos del personal directivo y de los Delegados Regionales que proponga el Director General;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Decidir, a propuesta del Director General, sobre las inversiones de sus recursos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Examinar, y en su caso aprobar, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio y el informe de actividades de la institución;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Instituto, que será propuesto al Ejecutivo del Estado, para su inclusión en el Presupuesto de Egresos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Examinar, y en su caso aprobar, dentro de los últimos días de septiembre, el presupuesto de operación, los planes de trabajo y el financiamiento del Instituto para el año siguiente.\nLa Junta de Gobierno deberá someter a dictamen de la Contraloría del Estado de Jalisco, el ejercicio del presupuesto de gastos e inversiones del Instituto;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer, modificar o suprimir las Delegaciones Regionales del Instituto en el territorio del Estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Proponer al Ejecutivo las medidas de mejoramiento, fortalecimiento ampliación o incremento de sus presupuestos y atribuciones y en general de todas las medidas que tiendan a la optimización de sus servicios;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Estudiar, y en su caso aprobar, los tabuladores y prestaciones correspondientes al personal del Instituto, propuestos por el Director General y conforme al presupuesto de gastos de administración autorizado por la propia Junta;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Expedir el reglamento interior del Instituto;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás necesarias para el cumplimiento de los fines del Instituto, y que no se encuentren encomendadas a otro órgano del mismo."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- La Junta de Gobierno presentará ante el Ejecutivo del Estado un dictamen sobre los estados financieros y funcionales de cada ejercicio fiscal del Instituto, acompañado de un dictamen de auditor externo mismo que deberá contar con la certificación correspondiente, para cuyo caso le será dado a conocer, por lo menos treinta días antes de la fecha en que se vaya a informar al Gobernador.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- El balance anual del Instituto deberá publicarse dentro de los treinta días siguientes a la fecha en que sea aprobado por la Junta de Gobierno, por lo menos en dos diarios que tengan mayor circulación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De las atribuciones del Director General, del Tesorero y de las unidades administrativas del Instituto",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "- El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado. Para ocupar dicho cargo se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Gozar de reconocida honorabilidad; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Poseer, al día de su designación, título profesional en cualquier área científica, tecnológica o jurídica relacionada con las ciencias forenses;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Tener por lo menos cinco años de experiencia profesional en procuración, administración de justicia, ciencias forenses y/o periciales, y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No haber sido condenado por sentencia irrevocable como responsable de delito doloso."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "El Director General, quien será el superior jerárquico de todas las unidades administrativas del Instituto, tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar legalmente al Instituto con plenas facultades generales para pleitos y cobranzas, actos de administración, en materia laboral y dominio, salvo que el patrimonio inmobiliario no podrá ser enajenado sino con autorización previa del Congreso del Estado.\nEl Director General podrá delegar la representación, así como otorgar y revocar poderes generales y especiales, incluyendo la facultad para pleitos y cobranzas, actos de administración, en materia laboral y designar voceros en juicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asistir a las sesiones de la Junta de Gobierno sólo con derecho a voz;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejecutar los acuerdos de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Someter a la decisión de la Junta de Gobierno todos aquellos asuntos que sean de exclusiva competencia de éste;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer a la Junta de Gobierno, los proyectos y planes de trabajo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Poner a consideración de la Junta de Gobierno los contratos y convenios necesarios para las actividades del Instituto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer el anteproyecto de presupuesto de egresos anual del Instituto, el primer día hábil del mes de septiembre y someterlo a la aprobación de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Remitir para la aprobación del titular del Poder Ejecutivo del Estado las modificaciones al reglamento interior del Instituto, así como los proyectos de reglamentos que hayan sido aprobados por la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Sugerir a la Junta de Gobierno las reformas al presupuesto de egresos, cuando éste lo requiera;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Someter a la Junta de Gobierno para su aprobación, el costo de los servicios que preste el Instituto vía convenios o contratos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Nombrar y remover al personal, señalándole sus funciones y remuneraciones;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Presentar anualmente a la Junta de Gobierno, dentro de los dos primeros meses del año siguiente, los estados financieros y el Informe de actividades del ejercicio anterior;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Presentar a la consideración de la Junta de Gobierno, un informe trimestral sobre las actividades del Instituto;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Presentar a la Junta de Gobierno, cada año, los presupuestos de operación, los planes de labores y de financiamiento para el año siguiente, así como un programa de trabajo, requerimientos de equipo, capacitación y recursos humanos;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Expedir copias certificadas de los documentos que obren en sus archivos, así como de las demás áreas del Instituto;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Designar en sus ausencias temporales, que no excedan de un mes, a quien deba encargarse del despacho de los asuntos de su competencia;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Establecer un Sistema de Reconocimientos y Estímulos para todo el personal del Instituto. Las modalidades, los requisitos y procedimientos para otorgar los reconocimientos estarán regulados por el reglamento respectivo; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Las demás que le sean asignadas por la Junta de Gobierno, los reglamentos respectivos y otras disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- La Dirección General del Instituto, para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su competencia, se auxiliará de las siguientes unidades de trabajo, mismas que podrán ser aumentadas, suprimidas o modificadas, en lo sucesivo, por acuerdo del Ejecutivo, a propuesta de la Junta de Gobierno del Instituto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirección de Dictaminación Pericial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dirección del Servicio Médico Forense;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dirección Administrativa;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dirección Jurídica;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dirección de Investigación y Capacitación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Se deroga"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dirección de Delegaciones regionales;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Dirección de Laboratorios; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Centro de Identificación Humana."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- El Tesorero del Instituto tendrá a su cargo los siguientes asuntos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Llevar la contabilidad del Instituto, tramitando y resolviendo los asuntos financieros que se le encomienden;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formular los estados financieros, balance anual e informes estadísticos y económicos del Instituto y presentarlos a la consideración de la Junta de Gobierno, por conducto del Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informar permanentemente al Director General, el estado de la contabilidad y los movimientos financieros;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Otorgar y suscribir títulos de crédito a nombre del Instituto, con la firma mancomunada de los responsables de las dependencias correspondientes; ejercerá las facultades de dominio en representación del Instituto acorde con los lineamientos que disponga la Junta de Gobierno, salvo la de enajenación de bienes inmuebles;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Supervisar los registros, procedimientos e informes contables del Instituto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Librar cheques mancomunadamente con el Director General o el Director Administrativo, así como solicitar a la Junta de Gobierno del Instituto, por conducto del Director General, la autorización de suplentes para la suscripción de títulos de crédito de manera mancomunada;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Realizar y valorar el inventario de los activos fijos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Realizar, en los términos ordenados por la Junta de Gobierno, las transacciones financieras que ésta hubiere acordado y registrarlas correctamente;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Por acuerdo del Director General, tramitar el pago o refrendo de todos los cheques, pagarés y otros documentos negociables del Instituto que hayan sido firmados por aquellos servidores públicos autorizados para ello o por los que designe la Junta de Gobierno, y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que se prevean en el reglamento interno, o expresamente se le encomienden."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- Los titulares de las unidades a que se refiere el artículo 15 de esta ley tendrán, además de las atribuciones que se establezcan en el reglamento interior, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirección de Dictaminación Pericial: le corresponde el coordinar los recursos materiales y humanos, así como las acciones de las áreas periciales, en la elaboración de dictámenes e informes periciales forenses, en apoyo a las instituciones de procuración e impartición de justicia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dirección del Servicio Médico Forense: le corresponde la elaboración dictámenes periciales e informes en materia de estudios necrológicos y patológicos, con el propósito de determinar o esclarecer las causas de muerte, en apoyo a las instituciones de procuración e impartición de justicia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dirección Administrativa: brindar a las diferentes áreas que conforman el Instituto, los apoyos en materia de capital humano, recursos financieros, materiales y tecnológicos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dirección Jurídica: representar jurídicamente al Instituto ante las instancias correspondientes, así como brindar asesoría técnica-jurídica a las áreas que conforman el mismo y emitir las opiniones legales que se requieran;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dirección de Investigación y Capacitación: le corresponde aplicar el Sistema de Certificación de competencias profesionales, actualizar el Registro Estatal de Peritos y Consultores Técnicos con certificado de competencias profesionales, de conformidad con el Reglamento; establecer y operar los programas y las acciones de capacitación especializada a los servidores públicos de este organismo, a entidades públicas y particulares, impulsando así la actualización de los conocimientos periciales en materia forense, proponer, desarrollar, supervisar y operar proyectos de investigación en las diferentes áreas del Instituto. Así como las de mejora continua para el cumplimiento de los objetivos y políticas del Instituto. La propiedad intelectual de todo conocimiento generado, será atribuida al Instituto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Se deroga"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dirección de Delegaciones: dirigir y coordinar las acciones administrativas, operativas, de dictaminación pericial y todas aquellas derivadas de los servicios que este organismo presta en las diversas delegaciones regionales, con la finalidad de allegar dichos servicios a los municipios del estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Dirección de Laboratorios: obtener mediante los diversos instrumentos, equipos y sistemas de alta tecnología, resultados que aporten datos o medios de prueba mediante la emisión de dictámenes e informes en apoyo a las demás áreas del Instituto y a las instituciones de procuración e impartición de justicia estatales; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Centro de Identificación Humana: llevar a cabo a través de un sistema especializado, el procesamiento para la identificación, o en su caso, la búsqueda, recuperación e identificación de personas fallecidas sin identificar, orientado a brindar respuestas satisfactorias, humanas y científicas a familiares de víctimas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "- El Instituto podrá celebrar convenios de coordinación o de colaboración con dependencias, entidades, autoridades y organismos del orden federal, estatal y municipal, así como con instituciones de educación superior, en los que se podrá establecer el cobro por los servicios pactados.\nPara tal efecto la Junta de Gobierno del Instituto deberá remitir a más tardar el 1º de septiembre de cada año el anteproyecto de cobro de tarifas por los servicios técnicos y científicos al Poder Ejecutivo a través de la Secretaría de la Hacienda Pública a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.\nEn la prestación de los servicios técnicos y científicos a particulares del Instituto deberá garantizar no se distraiga el cumplimiento de su finalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- En la prestación de sus servicios técnicos, científicos, académicos así como los de Certificación de competencias profesionales y en la intervención como peritos o consultores técnicos, el Instituto podrá cobrar a los usuarios las tarifas que al efecto señale la Ley de Ingresos del Gobierno del Estado de Jalisco, incluso aquellas solicitudes formuladas por órganos estatales encargados de procurar o administrar justicia, cuando expresamente requieran la contratación del servicio.\nPara tal efecto la Junta de Gobierno del Instituto deberá remitir el anteproyecto de cobro de tarifas por los servicios que oferte el Instituto, a más tardar el 1° de septiembre de cada año al Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII De los servidores públicos del Instituto",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "- Las relaciones laborales se regirán por la Constitución Política de los Estados Unidos Mexicanos, de conformidad con el apartado \"A\" del artículo 123 por la Ley Federal del Trabajo, con excepción de los peritos, quienes se regirán por la Constitución Política de los Estados Unidos Mexicanos, de conformidad con el apartado \"B\" del artículo 123, por la Ley General del Sistema Nacional de Seguridad Pública, la presente ley y demás leyes aplicables en el estado.\nEl personal del Instituto gozará de la seguridad social que instituye la Ley del Instituto de Pensiones del Estado de Jalisco.\nLos servidores públicos deberán de asistir a los cursos de capacitación que para tal efecto implemente el Instituto, acatar las instrucciones que sus superiores jerárquicos dicten en el ejercicio de sus funciones, sin perjuicio de cumplir con las obligaciones establecidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás ordenamientos aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Son requisitos del personal encargado de aplicar las normas técnicas y elaborar los dictámenes e informes periciales, contar con título profesional o especialidad técnica de que se trate, si ésta se encuentra reglamentada, o en su caso documento emitido por alguna institución educativa con reconocimiento de validez oficial de estudios sobre la materia forense respectiva.\nTratándose del personal encargado de elaborar los dictámenes e informes médico-forenses, será requisito tener título profesional de medicina, acreditado mediante documento o certificado con validez oficial registrado en la Dirección de Profesiones del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- El personal pericial estará sujeto a responsabilidad cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Incumpla cualquiera de las obligaciones contenidas en las leyes de carácter administrativo que rigen a los elementos operativos del Instituto Jalisciense de Ciencias Forenses;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Incumplan o retrasen la emisión de los dictámenes que le hayan sido turnados sin causa justificada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Realicen o encubran conductas que atenten contra la imparcialidad y autonomía técnica en la emisión de los dictámenes e informes periciales"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "No cumplan con las normas técnicas oficiales, las normas administrativas y las leyes que se establezcan para el debido cumplimiento de su labor pericial;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Omitan la práctica de las diligencias de campo necesarias, según la naturaleza de cada asunto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cometan acciones u omisiones que contravengan las obligaciones que le impongan la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás leyes aplicables; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Tengan una notoria ineptitud o descuido en el desempeño de las funciones periciales y administrativas que deban realizar."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- El personal encargado de aplicar las normas técnicas y realizar los dictámenes o informes periciales deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Formular los dictámenes e informes periciales que se le soliciten;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Verificar que las técnicas que se aplican en los dictámenes o informes periciales, sean las más avanzadas y adecuadas para el caso en particular;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Señalar en el cuerpo de su dictamen o informe pericial, el método o métodos utilizados para su emisión en concordancia con la normativa técnica oficial;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Atender y desarrollar las acciones necesarias para la debida emisión de sus dictámenes o informes periciales; así como presentarse ante la autoridad cuando se le notifique por cualquier medio que disponga la ley respectiva, de que le resultó cita;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Se deroga; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Se deroga"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII Del patrimonio del Instituto",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- El patrimonio del Instituto se formará con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las aportaciones en numerario, servicios y subsidios que proporcionen los gobiernos estatal o federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las aportaciones que perciba conforme a los convenios o contratos que celebre;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los productos que obtenga por la prestación de sus servicios, las cantidades y comisiones que obtenga por los servicios que preste, las cuales se determinarán por la Junta de Gobierno en los términos de los reglamentos respectivos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Con los bienes y derechos que adquiera por cualquier título;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Con los rendimientos que obtenga de la inversión de los recursos, daciones para investigación y capacitación y los derivados de estos conceptos, así como los recursos autogenerados o propios;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Con los recursos que obtengan las unidades desconcentradas por la prestación de sus servicios, y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Los ingresos que perciba el Instituto se destinarán, en primer término, a cubrir los gastos de administración por los servicios que preste; al pago de adeudos contraídos y, si hubiera remanente, se constituirá un fondo de reserva para la ampliación y mejoramiento del Instituto, depositando los excedentes en instituciones financieras, con el objeto de evitar contraer adeudos. Podrán crearse por acuerdo de la Junta de Gobierno, los fondos que se consideren convenientes para los programas específicos y, con los productos, se ampliarán los propios fondos o pasarán a formar parte del ingreso.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX De la Contraloría.",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "- La Contraloría, fungirá como órgano interno de control, vigilancia y disciplina, al frente del cual estará un titular llamado Contralor.\nLa Contraloría depende administrativamente del Director General del Instituto, pero gozará de autonomía en el ejercicio de sus funciones, contando con las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Solicitar la información y efectuar los actos de visita, inspección y vigilancia que requieran para el cumplimiento de sus funciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar revisiones, auditorias, visitas de inspección y verificación de las distintas áreas, unidades administrativas y desconcentradas del Instituto, realizando la designación de auditores internos para el ejercicio de sus funciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presentar al Director General los informes resultantes de las auditorías, exámenes y evaluaciones realizados;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Vigilar, verificar y evaluar el cumplimiento de las normas, políticas, lineamientos, planes, presupuestos, procedimientos y demás ordenamientos legales aplicables al Instituto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Emitir recomendaciones y dar seguimiento a las mismas con motivo de auditorías, visitas practicadas, investigaciones u observaciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Atender las observaciones o recomendaciones que realice la Contraloría del Estado y los auditores externos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Iniciar, llevar a cabo, substanciar y resolver los procedimientos, según sea el caso, en los términos aplicables de las leyes siguientes:\na) Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios,\nb) Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco,"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Ley del Sistema de Seguridad Pública para el Estado de Jalisco,"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Las demás que resulten aplicables;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Recibir, atender e investigar las quejas, denuncias y sugerencias que se formulen por el actuar de los servidores públicos del Instituto y, en su caso, canalizarlas al área competente, de conformidad con la ley aplicable;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Llevar el registro de sanciones y medidas disciplinarias aplicadas al personal del Instituto;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Asesorar cuando se le solicite sobre los nombramientos y, en su caso, remoción de los empleados del Instituto;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Asesorar cuando se le solicite sobre la celebración y ejecución de los convenios y contratos en que sea parte el Instituto;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Requerir e informar a los empleados del Instituto, a solicitud de la Contraloría del Estado, sobre la presentación u omisión de su declaración de situación patrimonial;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Formar parte del Comité o Comisión de Adquisiciones y Enajenaciones del Instituto e intervenir en los procesos que se lleven a cabo ante ella;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Participar en el Comité de Obra Pública del Instituto;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Las demás que le sean asignadas por la Junta de Gobierno, los reglamentos respectivos y otras disposiciones legales aplicables.\nLa Junta de Gobierno, el Director General o las demás áreas y entidades del Instituto deben proporcionar la información que les solicite la Contraloría señalada en el presente capítulo y facilitar las diligencias de inspección y vigilancia que se realicen.\nEl titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.\nEl Órgano Interno de Control y Vigilancia depende administrativamente del Director, pero gozará de autonomía en el ejercicio de sus atribuciones."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "La presente ley entrará en vigor a los ciento veinte días de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco. SEGUNDO. El Poder Ejecutivo realizará las modificaciones necesarias en el Presupuesto de Egresos, para el cumplimiento del presente decreto. TERCERO. El Instituto presentará al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, dentro de los ciento ochenta días naturales a la publicación del presente decreto, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos, normas y requisitos de acreditación del desempeño profesional, y las normas técnicas y requisitos aplicables para la validación y certificación de las diversas especialidades de las ciencias forenses de los peritos del Instituto. ARTICULOS TRANSITORIOS DEL DECRETO 25540/LX/15 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\n\nEl presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial \"El Estado de Jalisco\".",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se derogan todas las disposiciones que se opongan a la presente ley.\n\nEl personal que en la actualidad realice dictámenes forenses y no cumpla los requisitos señalados en el presente decreto, tendrá un plazo de tres años, contados a partir de la entrada en vigor del presente decreto, para acreditar la especialidad. Para este efecto el Instituto realizará las gestiones necesarias para proporcionar la capacitación especializada al personal que esté en este supuesto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 23989/LIX/12\n\nLa Junta de Gobierno del Instituto Jalisciense de Ciencias Forenses deberá ajustar sus disposiciones reglamentarias a lo dispuesto en el presente decreto dentro de los noventa días hábiles siguientes a su entrada en vigor. Tercero. El Instituto Jalisciense de Ciencias Forenses deberá instituir el Registro Estatal de Peritos y Consultores Técnicos, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente decreto. Cuarto. El Instituto Jalisciense de Ciencias Forenses, deberá proponer al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos y requisitos de certificación de competencias profesionales de los peritos oficiales, autorizados y particulares, así como las normas técnicas y requisitos aplicables para la acreditación y certificación de las diversas áreas especializadas de las ciencias forenses que opere el Instituto, dentro de los ciento veinte días posteriores a la entrada en vigor del presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27279/LXI/19\n\nSe conformará una Comisión Especial integrada por la autora de la iniciativa, la Presidenta de la Comisión de Estudios Legislativos y Reglamentos y un integrante de cada Grupo Parlamentario para que en conjunto con las autoridades correspondientes se celebre un acto solemne en el cual se lleve a cabo la develación de las letras del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, donde las autoridades del mismo lo señalen. ARTÍCULOS TRANSITORIOS DEL DECRETO 29582/LXIII/24\n\nEl Ejecutivo del Estado deberá expedir las actualizaciones reglamentarias necesarias para dar cumplimiento a este decreto dentro de los 90 días hábiles siguientes a la entrada en vigor de las reformas a que hace referencia el artículo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "La Junta de Gobierno del Instituto deberá emitir el Reglamento Interior del Instituto, el acuerdo de adscripción de unidades y los manuales de organización, procedimientos y atención al público, a los treinta días de entrada en vigor del presente instrumento legal.\n\nSe autoriza al Titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.\nTABLA DE REFORMAS Y ADICIONES\n20042. -Se reforma el art. 18 de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses.- Ago.19 de 2003. Sección III.\n20793. - Adiciona un segundo párrafo al art. 21.-Nov. 30 de 2004. Sec. VI.\n23989/LIX/12.- Se reforman los artículos 2.°, 3.° fracción II, 4.°, 5.°, 6.°, 8.° fracciones I, II y último párrafo, 10 fracciones II, III, XI y XII, 13 primer párrafo así como fracciones II y III, 14 primer párrafo así como fracciones I, VI , VIII, X, XIV y XV, 15, 16 fracción XI, 17 fracciones I, VI, VIII, IX, X y XI, 18, 20, 21 segundo párrafo, 22 fracciones I, II y III, 23 fracciones II y III, 24 fracción V, y se adicionan los artículos 10 fracción XIII, 13 fracciones IV y V, 14 fracciones XVI y XVII, 16 fracción XII, 17 fracción XII,\n22 fracciones IV y V y 23 fracciones IV, V y VI de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses.- Abr. 19 de 2012. Sec. IV.\n25540/LX/15.- Se reforman los artículos 1°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10, 11, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23; se adicionan las fracciones III y IV al artículo 3° párrafos III y IV, 7° fracción IV, 14 fracción XVII, 20 párrafo tercero, 22 fracción VI, Capítulo IX De la Contraloría artículo 26; se derogan los artículos 15, fracción VI, 17 fracción VI y 23 fracciones V y VI de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses.- Nov. 12 de 2015 sec. IV.\nDecreto Número 27279/LXII/19.- Se reforma el nombre de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, así como los artículos 1, 2 y 3.- May. 18 de 2019 sec. IV.\n27355/LXII/19.- Se reforma el artículo 8º de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza.- Sep. 3 de 2019 sec. IV.\n27852/LXII/20.- Se reforman las fracciones XVIII y XIX y adiciona la fracción XX del artículo 5 de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza; las fracciones VII y XIII, y adicionan las fracciones XIV y XV al artículo 32 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco y reforman los artículos 30 y 30 bis del Código Penal para el Estado Libre y Soberano de Jalisco se reforma fracción V del artículo 26 y fracción III inciso a numeral 10 del artículo 40 de la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2020.- Abr. 2 de 2020 sec. V.\n27741/LXII/20.- Se reforman los artículos 8, 18 y 19 de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza.- Oct. 03 de 2020 secc VI\n27986/LXII/20.- Se reforman los artículos 20, 22 y 26 de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza.- Nov. 7 de 2020 sec. V.\n29582/LXIII/24.- Se reforman los artículos 3, 5, 15 y 17 de la Ley Orgánica del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza.- Oct. 12 de 2024, sec. XII.\nLEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES\nAPROBACION: 13 DE ENERO DE 1998.\nPUBLICACION: 7 DE FEBRERO DE 1998. SEC. II.\nVIGENCIA: 7 DE JUNIO DE 1998.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "En todo el proceso de organización en el Instituto, quedarán a salvo de acuerdo con la ley, los derechos laborales de los servidores públicos del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Para la debida integración y estructuración del Instituto Jalisciense de Ciencias Forenses que se establece, las secretarías de Finanzas y de Administración, así como las dependencias involucradas, deberán prestar todo el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y a los programas y presupuestos vigentes.\nSALON DE SESIONES DEL CONGRESO DEL ESTADO Guadalajara, Jalisco a 13 de enero de 1998.\nDiputado Presidente Benito de Jesús Meza Pérez\nDiputado Secretario Gabriel G. Zermeño Márquez\nDiputado Secretario Carlos Flores de la Torre\nEn mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los veintiséis días del mes de enero de mil novecientos noventa y ocho.\nEl C. Gobernador Constitucional del Estado Ing. Alberto Cárdenas Jiménez\nEl C. Secretario General de Gobierno Lic. Raúl Octavio Espinoza Martínez\nARTICULOS TRANSITORIOS DEL DECRETO 20793",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

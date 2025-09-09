@@ -1,0 +1,30 @@
+{
+  "n_chapters": 17,
+  "n_perm_articles": 93,
+  "n_perm_fracciones": 109,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO PRIMERO Del Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles",
+    "CAPÍTULO SEGUNDO Del Impuesto sobre Negocios Jurídicos e Instrumentos Notariales",
+    "CAPÍTULO TERCERO Del impuesto sobre la Adquisición de Vehículos Automotores Usados",
+    "CAPÍTULO CUARTO",
+    "CAPÍTULO QUINTO Del Impuesto sobre Nóminas",
+    "CAPÍTULO SEXTO Del impuesto sobre hospedaje",
+    "CAPÍTULO SEPTIMO Del Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos de toda clase",
+    "CAPÍTULO OCTAVO Del Impuesto sobre Enajenación de Boletos de Rifas y Sorteos",
+    "CAPÍTULO NOVENO Del Impuesto Sobre Erogaciones de Juegos con Apuestas",
+    "CAPÍTULO DÉCIMO Del Impuesto a los Ingresos de Redes y Plataformas del Servicio de Transporte Privado de Punto a Punto.",
+    "CAPÍTULO ÚNICO De los Derechos",
+    "CAPÍTULO ÚNICO De los Productos Diversos",
+    "CAPÍTULO ÚNICO De los Aprovechamientos",
+    "CAPÍTULO ÚNICO De las Participaciones y aportaciones Federales",
+    "CAPÍTULO ÚNICO De los Ingresos Extraordinarios",
+    "CAPÍTULO ÚNICO De los ingresos por financiamientos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 17
+  }
+}

@@ -1,0 +1,8 @@
+Errores y advertencias para: 0066.txt
+==================================================
+
+Ubicación: line 23
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 1 a 3
+Línea: ARTÍCULO 3.- Los ejes rectores que deberán regir en toda política pública en materia de prevención del delito son:
+------------------------------

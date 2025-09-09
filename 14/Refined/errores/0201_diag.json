@@ -1,0 +1,29 @@
+{
+  "n_chapters": 16,
+  "n_perm_articles": 82,
+  "n_perm_fracciones": 159,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De los Proyectos",
+    "CAPÍTULO III De la Evaluación Socioeconómica de Proyectos",
+    "CAPÍTULO IV De la Presupuestación",
+    "CAPÍTULO V De la Aprobación ante el Congreso del Estado",
+    "CAPÍTULO VI Del Comité de Adjudicación",
+    "CAPÍTULO VII Del Procedimiento de Adjudicación",
+    "CAPÍTULO VIII De los Contratos",
+    "CAPÍTULO IX De la Ejecución del Proyecto",
+    "CAPÍTULO IX Bis Del Consejo de Evaluación y Seguimiento",
+    "CAPÍTULO X Del Registro y de los Bienes",
+    "CAPÍTULO XI De Extinción del Contrato",
+    "CAPÍTULO XII De los Mecanismos para la Solución de Controversias",
+    "CAPÍTULO XIII De la Información",
+    "CAPÍTULO XIV De las Infracciones y Sanciones",
+    "CAPÍTULO XV De la Instancia de Inconformidad"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 16
+  }
+}

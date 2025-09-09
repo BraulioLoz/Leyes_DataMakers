@@ -1,0 +1,25 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 42,
+  "n_perm_fracciones": 125,
+  "n_trans_caps": 1,
+  "n_trans_articles": 2,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO Disposiciones Generales",
+    "CAPÍTULO SEGUNDO Del Objeto y Atribuciones de la Universidad",
+    "CAPÍTULO TERCERO De los Órganos de la Universidad",
+    "SECCIÓN PRIMERA De la Junta Directiva",
+    "SECCIÓN SEGUNDA Del Consejo de Participación Social",
+    "SECCIÓN TERCERA",
+    "SECCIÓN CUARTA De la Rectoría",
+    "CAPITULO CUARTO Del Patrimonio",
+    "CAPÍTULO QUINTO Del Personal de la Universidad",
+    "CAPÍTULO SEXTO De los Alumnos",
+    "CAPITULO SÉPTIMO Del Patronato"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7,
+    "SECCIÓN": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 50,
+  "n_perm_fracciones": 124,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo único",
+    "Capítulo I Del Procedimiento y los Convenios",
+    "Capítulo II De la Organización",
+    "Capítulo III Financiamiento y régimen económico",
+    "Capítulo IV Adhesión, separación y disolución a la asociación intermunicipal",
+    "Capítulo V Transparencia y rendición de cuentas",
+    "Capítulo I Disposiciones generales",
+    "Capítulo II De la convocatoria a la Convención Estatal de Asociaciones Intermunicipales"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

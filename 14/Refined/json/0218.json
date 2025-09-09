@@ -1,0 +1,395 @@
+{
+  "0218.JSON": {
+    "Decreto": "Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNUMERO 18532.- EL CONGRESO DEL ESTADO DECRETA:\nSE CREA LA LEY DEL PERIODICO OFICIAL “EL ESTADO DE JALISCO”.",
+    "Año_publicación": 2000,
+    "Título": "SE CREA LA LEY DEL PERIODICO OFICIAL “EL ESTADO DE JALISCO”.",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPITULO I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley es de orden público e interés social y tiene por objeto regular la administración, elaboración, publicación, accesibilidad y disponibilidad del Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "l Periódico Oficial “El Estado de Jalisco” es el medio de difusión del Gobierno del Estado, de carácter permanente, en el que se publican los actos y resoluciones que las leyes o acuerdos ordenen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Los efectos de la publicación de los actos y ordenamientos legales en el Periódico Oficial son la publicidad y vigencia legal, en los términos que del mismo decreto, acuerdo o disposición general se desprenda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "a publicación del Periódico Oficial corresponde al Ejecutivo del Estado por conducto del Secretario General de Gobierno.\nLa Dirección de Publicaciones de la Secretaría General de Gobierno, es la encargada de la administración, elaboración, publicación, accesibilidad y disponibilidad del Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "ara los efectos de esta Ley se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Periódico Oficial: el Periódico Oficial “El Estado de Jalisco”;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretario: el Secretario General de Gobierno; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Director: el Director de Publicaciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "l Secretario le corresponde para los efectos de esta Ley ordenar la publicación del Periódico Oficial y supervisar su administración.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Corresponde al Director, en relación con el Periódico Oficial:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Su administración y elaboración;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La publicación fiel y oportuna de los contenidos que obren en las ordenes que le sean giradas por el Secretario;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Integrar, custodiar, preservar y conservar la edición impresa del Periódico Oficial y su archivo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer las estrategias de accesibilidad y disponibilidad del Periódico Oficial en todo el territorio del Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar suscripciones gratuitas a las dependencias y entidades del Gobierno del Estado y municipales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Rendir informe anual de actividades a la Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer al Secretario las modificaciones operativas y reglamentarias que aprecie necesarias para mejorar la producción del Periódico Oficial;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Participar en la divulgación de las leyes del Estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Expedir las Constancias de Publicación que sean solicitadas de conformidad con el Reglamento;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Incorporar el desarrollo y la innovación tecnológica a los procesos de edición, difusión, custodia y preservación del Periódico Oficial y documentos de archivo;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Administrar la página electrónica del Periódico Oficial en la Internet;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Procurar editar compilaciones temáticas electrónicas del Periódico Oficial para facilitar su colección y análisis; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Aquellas que le impongan otras leyes."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "s materia de publicación en el Periódico Oficial:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las leyes y decretos expedidos por el Congreso del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los acuerdos económicos del Congreso del Estado cuando así lo solicite;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los decretos, reglamentos, acuerdos y órdenes del Ejecutivo Estatal que sean de interés general;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los acuerdos, circulares y órdenes de las Dependencias del Ejecutivo Estatal, que sean de interés general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aquellos actos o resoluciones que por su propia importancia así lo determine el Gobernador del Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los acuerdos, convenios y cualquier otro compromiso de interés para el Estado que celebre el Ejecutivo Estatal, con los otros Poderes del Estado, Municipios, Entidades Federativas, Secretarías de la Federación, Ejecutivo Federal, Sectores Sociales y Productivos, y todos los demás acuerdos celebrados por el Gobierno del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los acuerdos del Pleno del Supremo Tribunal de Justicia del Estado, así como del Consejo del Poder Judicial del Estado, cuando así lo soliciten;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los edictos, avisos judiciales y generales cuya publicación se ordene;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las publicaciones del Diario Oficial de la Federación de importancia para nuestro Estado; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Los actos y resoluciones que la Constitución y demás leyes ordenen que se publiquen en el Periódico Oficial."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "lS. El Periódico Oficial \"El Estado de Jalisco\" se publicará en forma electrónica. Además de la versión electrónica, se imprimirán cuando menos seis ejemplares para efectos de evidencia documental física y consulta. Los seis ejemplares quedarán en custodia de las siguientes entidades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El propio archivo del Periódico Oficial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Dirección del Archivo Histórico del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Biblioteca Pública del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La Biblioteca del Congreso del Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El archivo del Supremo Tribunal de Justicia del Estado; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La Suprema Corte de Justicia de la Nación.\nLos ejemplares impresos a que se refiere el párrafo anterior, deberán distribuirse dentro del plazo de siete días hábiles contados a partir de su publicación."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "l Periódico Oficial se organiza para su compilación en Tomos enumerados de 50 números.\nCada número se dividirá en las Secciones que fueren necesarias para su edición.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "l periódico Oficial publicará el índice del Tomo integrado en los términos del artículo anterior, en los primeros veinte días que sigan a la apertura del nuevo Tomo.\nDentro del primer trimestre de cada año el Periódico Oficial dará a conocer el índice anual de las publicaciones del año inmediato anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "El Periódico Oficial deberá contener por lo menos los siguientes datos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El nombre “El Estado de Jalisco”;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La leyenda, “Periódico Oficial del Estado”;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Nombre del Director;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Números de tomo, de ejemplar y de sección; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fecha de publicación."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- El Periódico Oficial además contará con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Sello del Escudo Nacional con la leyenda: Estados Unidos Mexicanos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Escudo Oficial del Estado de Jalisco con la leyenda en la parte inferior: “Gobierno del Estado de Jalisco-Poder Ejecutivo-Secretaría General de Gobierno-Dirección de Publicaciones”;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Formato uniforme;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Sumario; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Paginación."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- El Periódico Oficial se editará en la Ciudad de Guadalajara y será publicado por lo menos tres veces por semana.\nPara su publicación se considerarán hábiles todos los días del año, pudiendo salir a la circulación aun en días festivos cuando fuere necesario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- La Dirección podrá otorgar suscripciones gratuitas adicionales a las previstas en esta Ley cuando medie acuerdo de la Secretaría General de Gobierno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El Periódico Oficial será publicado y difundido de forma electrónica y gratuita, el mismo día de su edición, garantizando su accesibilidad y disponibilidad en todo el territorio estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Reglamento del Periódico Oficial regulará su edición, publicación, accesibilidad y disponibilidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "lS. El Director o a quien éste designe podrá, a petición de parte, expedir las Constancias de Publicación, impresiones de la edición electrónica del Periódico Oficial y otros documentos de su competencia. El costo de las mismas será el que se determine en la Ley de lngresos del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "La Secretaría General, a través de sus Unidades Regionales, brindará facilidades para la consulta del Periódico Oficial a las personas que no tengan posibilidad de acceder a tecnologías de la información y comunicación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO II De la divulgación del Periódico Oficial por medios electrónicos",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III Del Procedimiento de edición, publicación y divulgación",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- En todos los casos la orden de publicación de los textos y gráficos que sean susceptibles de ser reproducidos en el Periódico Oficial, deberá emanar del Secretario o ser remitida por su conducto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- El Secretario despachará la orden oficial de publicación acompañando los contenidos en copia debidamente autorizada con su firma y sello de la dependencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El Director deberá publicar los contenidos recibidos en los términos del artículo anterior en un plazo no mayor de quince días a partir de su recepción, salvo disposición en contrario de la ley o acuerdo de autoridad competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- Error de publicación es aquel que surge de la infidelidad de los textos y gráficos enviados por el Secretario y el material publicado, en cuyo caso el Director, de oficio o por orden superior, corregirá la errata en el ejemplar siguiente a la fecha en que se tenga conocimiento de ésta.\nEn todos los demás casos el Director sólo podrá publicar fe de erratas cuando éstas provengan por despacho del Secretario, autorizadas en los términos del artículo 25 de esta Ley, además el Director deberá hacer la publicación digital correspondiente y las impresiones previstas en esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- Una vez que las leyes y decretos legislativos hubieren sido publicados en el Periódico Oficial “El Estado de Jalisco”, el Director podrá ordenar su reproducción o un extracto en cuando menos uno de los periódicos de mayor circulación en la entidad, de acuerdo a la disponibilidad presupuestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- Los días 15 de los meses de enero, marzo, mayo, julio, septiembre y noviembre podrán ser reproducidos en cuando menos uno de los periódicos de mayor circulación en la entidad, extracto de las leyes y decretos legislativos que hubieren sido publicados en el periódico oficial “El Estado de Jalisco” durante el bimestre inmediato anterior, de acuerdo al programa de divulgación que para el efecto se formule tomando en consideración la disponibilidad presupuestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- La reproducción a que hace referencia el artículo anterior, en su caso deberá ser autorizada con las firmas del Secretario General de Gobierno y del Director de Publicaciones del Periódico Oficial “El Estado de Jalisco” y deberá aparecer con un sello al margen que diga “Poder Ejecutivo de Jalisco – Estados Unidos Mexicanos”, mismo que solo tendrá efectos informativos y no oficiales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- De la fidelidad de los textos publicados en el periódico de mayor circulación en el Estado, responderá de acuerdo a la normatividad aplicable el Director de publicaciones del Periódico Oficial “El Estado de Jalisco” y solo los errores imputables al medio elegido le eximirán de responsabilidad.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "La presente ley entrará en vigor a los 30 treinta días de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor el día primero de enero de 2020, previa publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se derogan todas aquellas disposiciones que se opongan a las contenidas en la presente ley.\n\nEl Director del Periódico Oficial “El Estado de Jalisco”, deberá publicar al menos una vez cada 30 días el presente decreto para efectos informativos antes de la entrada en vigor del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Titular del Poder Ejecutivo expedirá el Reglamento Interior del Periódico Oficial.\n\nEl Ejecutivo del Estado dispondrá de 90 días naturales a partir de la publicación del presente\ndecreto, para emitir el Reglamento correspondiente de la Ley del Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "La página del Periódico Oficial en formato electrónico, empezará a operar dentro de los sesenta días siguientes a partir de su publicación en el Periódico Oficial “El Estado de Jalisco”.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 12 de septiembre de 2000\nDiputado Presidente Liliana Elizabeth Reguera Rodríguez\nDiputado Secretario María Cristina Solórzano Márquez\nDiputado Secretario María del Rocío Corona Nakamura\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 18 dieciocho días del mes de septiembre de 2000 dos mil.\nEl Gobernador Constitucional del Estado Ing. Alberto Cárdenas Jiménez\nEl Secretario General de Gobierno Lic. Felipe de Jesús Preciado Coronado\nARTÍCULOS TRANSITORIOS DEL DECRETO 27754\n\nEl Ejecutivo del Estado realizará las acciones y adecuaciones presupuestales para dar cumplimiento al presente decreto.\nTABLA DE REFORMAS Y ADICIONES\nDECRETO NUMERO 21203/LVII/05.- Que abroga la Ley para la Divulgación de la Legislación del Estado de Jalisco y se adicionan los artículos 29, 30, 31 y 32 de la Ley del Periódico Oficial “El Estado de Jalisco” y el artículo 106 fracción XXXIII y se recorren las demás en su orden del Reglamento de la Ley Orgánica del Poder Legislativo.-Ene. 7 de 2006. Sec. III.\nDECRETO NÚMERO 27754/LXII/19.- Se reforman los artículos 1, 3, 4, 7, 11, 15, 16, 27 y el Capítulo III para quedar “Del procedimiento de edición, publicación y divulgación”; se adicionan los artículos 8Bis, 16Bis y 16Ter; y se derogan los artículos 17, 18, 19, 20, 21, 23, 28 de la Ley del Periódico Oficial “El Estado de Jalisco”.- Dic. 21 de 2019 sec. LV.\nLEY DEL PERIODICO OFICIAL “EL ESTADO DE JALISCO”\nAPROBACION: 12 DE SEPTIEMBRE DE 2000.\nPUBLICACION: 5 DE OCTUBRE DE 2000. SECCION VI.\nVIGENCIA: 3 DE NOVIEMBRE DE 2000.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

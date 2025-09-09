@@ -1,0 +1,8 @@
+Errores y advertencias para: 0129.txt
+==================================================
+
+Ubicación: line 341
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 57 a 59
+Línea: Artículo 59.- En los municipios, preferentemente metropolitanos, se creará el SARE, como un mecanismo que integra y consolida todos los trámites municipales para abrir una micro, pequeña, mediana o grande empresa que realiza actividades de bajo riesgo para la salud, seguridad y el medio ambiente garantizando el inicio de operaciones en un máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada y aceptada por la autoridad correspondiente. El SARE deberá contener al menos los siguientes elementos y criterios:
+------------------------------

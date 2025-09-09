@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 99,
+  "n_trans_caps": 1,
+  "n_trans_articles": 11,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "CAPITULO II De las atribuciones del Instituto",
+    "Capítulo III De la Estructura del Instituto",
+    "Capítulo IV Del Órgano Interno de Control y Vigilancia",
+    "Capítulo V De Patrimonio del Instituto",
+    "Capítulo VI Del Fondo para la lnfraestructura Educativa del Estado de Jalisco",
+    "Capítulo VII Del Comité Técnico del Fondo para la lnfraestructura Educativa del Estado de Jalisco",
+    "Capítulo VIII De la extinción y liquidación del Instituto"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

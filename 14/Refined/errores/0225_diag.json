@@ -1,0 +1,26 @@
+{
+  "n_chapters": 12,
+  "n_perm_articles": 50,
+  "n_perm_fracciones": 141,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 2,
+  "chapter_labels": [
+    "Capítulo I Objeto de la Ley",
+    "Capítulo II Principios rectores",
+    "Capítulo I Objeto e integración",
+    "Capítulo II Comité Coordinador",
+    "Capítulo III Comité de Participación Social",
+    "Sección I Organización y funcionamiento",
+    "Sección II Comisión Ejecutiva",
+    "Sección III Secretario Técnico",
+    "Capítulo V Sistemas Municipales",
+    "Capítulo I Integración y funcionamiento",
+    "Capítulo Único",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9,
+    "SECCIÓN": 3
+  }
+}

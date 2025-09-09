@@ -1,0 +1,2764 @@
+{
+  "0014.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 28278/LXII/20 EL CONGRESO DEL ESTADO DECRETA:\nSE ABROGA LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; Y SE EXPIDE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Objeto de la ley",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "1. La presente ley tiene por objeto regular las atribuciones que confiere la Ley General de Pesca y Acuacultura Sustentables al Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "1. Para los efectos de la presente ley, son aplicables las definiciones establecidas en la Ley General de Pesca y Acuacultura Sustentables, así como las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Agua dulce continental: los cuerpos de agua permanentes que se encuentran en el interior del territorio del estado, a excepción de las aguas continentales que abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la jurisdicción federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Actividades conexas: son aquellas derivadas o relacionadas con la pesca y la acuacultura que, en algún momento, de forma directa o indirecta, las complementan. Para los efectos de la presente ley, se consideran como tales:\na) la investigación y la evaluación de los recursos hidrobiológicos;\nb) la educación y la capacitación pesquera;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "la transferencia de tecnología;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "el procesamiento, transporte y comercialización estatal, nacional e internacional de productos y subproductos de la acuacultura y la pesca en todas sus modalidades;\ne) la fabricación de insumos;\nf) la estabulación y venta de recursos biológicos ornamentales, y\ng) cualquier otra que contribuya con el desarrollo de las cadenas pesqueras y acuícolas."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acuariofilia: es la actividad productiva que realizan personas físicas o jurídicas, ya sea a través de la pesca o de la acuacultura, para la obtención de recursos hidrobiológicos con fines ornamentales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Artes de Pesca: Son los métodos utilizados en la captura y extracción de su medio natural de los peces u otras especies acuáticas."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Consejo: Consejo Estatal de Acuacultura y Pesca Sustentables del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ley: la Ley de Acuacultura y Pesca para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ley General: la Ley General de Pesca y Acuacultura Sustentables;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Línea de producción: sector comercial dedicado al cultivo específico de ciertas especies hidrobiológica;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Ordenamiento acuícola: el proceso que se implementa para definir y vigilar el desarrollo equilibrado y sustentable de la actividad acuícola en el estado, así como el conjunto de disposiciones que lo regulan con base en el conocimiento actualizado de sus componentes biológicos, biotecnológicos, ambientales, económicos y sociales;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Ordenamiento territorial: la determinación geográfica regional con vocación para la explotación de los recursos pesqueros o acuícolas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Permisionario: la persona física o jurídica a quien la Secretaría le ha otorgado permiso para la realización de actividades pesqueras o acuícolas;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Pesca incidental: la captura o extracción de recursos pesqueros distintos a los autorizados en el permiso respectivo;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Plan de manejo acuícola: el instrumento rector de planeación y regulación, de observancia obligatoria, en el que se establecen las estrategias, acciones y disposiciones técnicas para la administración de las actividades"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Punto de abastecimiento: el espacio de ubicación de la infraestructura acuícola que tiene por objeto captar agua para abastecer a una o varias granjas o establecimientos acuícolas;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Punto de descarga: el espacio de ubicación de la infraestructura acuícola que tiene por objeto drenar el agua que ha sido utilizada por una o varias granjas o establecimientos acuícolas;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Puntos de verificación: los lugares establecidos por la Secretaría, en coordinación con autoridades e instituciones competentes, para realizar verificaciones sanitarias de recursos pesqueros o acuícolas;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Rastreabilidad: conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar, a través de investigaciones de campo y del análisis de registros, el origen de un problema fitozoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su control o erradicación;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Recursos hidrobiológicos: todos aquellos organismos animales o vegetales, cuyo ciclo de vida se desarrolla total parcial o temporalmente en el espacio acuático, definido como ámbito de aplicación de esta ley, exceptuando los reptiles y mamíferos;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Registro: el Registro Estatal de Acuacultura y Pesca;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Sanidad: el conjunto de acciones, procedimientos, prácticas y medidas que tienen por objeto la prevención, diagnóstico, control y erradicación de las enfermedades y plagas que afectan o pueden afectar a los recursos pesqueros o acuícolas;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Sanitización: el tratamiento que se aplica a los recursos hidrobiológicos, así como a las instalaciones, equipos y transporte en los que dichos recursos se encuentren o movilicen, con el fin de evitar el desarrollo de microorganismos y plagas causantes de enfermedades o reducir el número de éstos cuando se advierta su presencia por encima del nivel considerado seguro;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "La Secretaría: la Secretaría de Agricultura y Desarrollo Rural del Gobierno del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "SADER: Secretaría de Agricultura y Desarrollo Rural de la Administración Pública Federal."
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "SIROPA: el Sistema Integral de Registro de Operación Pesquera y Acuícola;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Sistema Estatal: el Sistema Estatal de Investigación e Información Acuícola y Pesquera;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Trazabilidad: serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con la producción, movilización, procesamiento, acopio, distribución y, en general, todos los eslabones de la cadena de suministro y hasta su consumo final, identificando en cada etapa su ubicación espacial y, en su caso, los factores de riesgo fitozoosanitarios y de contaminación que pueden estar presentes en cada una de las actividades;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Verificación sanitaria: las acciones que lleva a cabo la autoridad competente para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y transportes en los que se producen, capturan o movilicen cumplen con las disposiciones legales aplicables en materia de sanidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "1. Son sujetos de esta ley las personas físicas y jurídicas que de manera individual o colectiva realicen cualquiera de las actividades de pesca, acuacultura o conexas, previstas en la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "1. Para lo no previsto por esta ley, se aplicarán en forma supletoria y en lo conducente las disposiciones legales contenidas en la Ley General de Pesca y Acuacultura Sustentables, su reglamento y las demás disposiciones\n2. Para lo correspondiente a las medidas sanitarias y de inocuidad; inspección y verificación sanitaria y de procesos de producción; y calidad agroalimentaria se estará a lo establecido por la Ley Agroalimentaria del Estado de Jalisco y su respectivo reglamento, así como también, las disposiciones que para tal efecto emita la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "1. Son autoridades en las materias previstas en la presente ley las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Secretaría; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los municipios."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "1. Compete a la Secretaría:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer, formular y aplicar la política estatal en materia de pesca, acuacultura y las actividades conexas, en concordancia con la política nacional en la materia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Diseñar y aplicar el Programa Estatal de Desarrollo Acuícola y Pesquero, así como los programas e instrumentos que se deriven del mismo, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Gobernanza y Desarrollo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la\npesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el combate a la pesca ilegal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer y celebrar convenios o acuerdos de coordinación y colaboración con el Gobierno federal, con el objeto de que el Estado asuma funciones o atribuciones reservadas para la Federación en la Ley General, y aquellas que tengan como finalidad la realización de acciones conjuntas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Administrar las actividades de acuacultura, pesca y conexas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integrar el Consejo para promover la participación activa de las comunidades y las y los productores en la administración y manejo de los recursos hidrobiológicos y participar en la operación del Fondo Mexicano para el Desarrollo Acuícola y Pesquero;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Implementar y ejecutar programas sanitarios para la erradicación de plagas y enfermedades acuícolas, con el objeto de asegurar la calidad de los productos derivados de estas actividades, a fin de facilitar la competitividad de estos productos en los mercados nacionales e internacionales;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Integrar, establecer, operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola vinculado con el Sistema Nacional de Información Pesquera y Acuícola y el SIROPA, de conformidad con las disposiciones legales aplicables para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Ordenar, fomentar y promover el desarrollo de la pesca y la acuacultura;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Fomentar el uso de artes de pesca selectivos y ambientalmente seguros para conservar y mantener la disponibilidad de recursos pesqueros;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover el aprovechamiento integral, responsable y sustentable de los recursos hidrobiológicos;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Apoyar la rehabilitación, rescate y repoblación de aquellos recursos hidrobiológicos cuyas poblaciones han sido impactadas por la sobreexplotación, la contaminación y el deterioro natural;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover la creación y operación de esquemas y mecanismos de financiamiento adecuados para el desarrollo integral de las actividades pesquera, acuícola y conexas, y participar en la operación del Fondo Mexicano para el Desarrollo Acuícola y Pesquero, en los términos de la Ley General;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Establecer con carácter público, operar y mantener actualizado el Registro y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Participar con las dependencias competentes de la administración pública federal, así como proponer y promover ante éstas, la elaboración de planes de manejo y de normas oficiales de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Coordinar la organización y desarrollo de exposiciones, ferias y eventos de interés para el sector acuícola y pesquero;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Promover la organización y capacitación en las actividades del sector acuícola y pesquero, así como las medidas para incrementar la productividad, y la prestación de servicios de asesoría y capacitación;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Participar con la SADER, en la formulación y ejecución de los programas de ordenamiento pesquero y acuícola;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Promover el consumo de una mayor variedad de productos pesqueros y acuícolas;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Establecer convenios con las autoridades hacendarias, (sic) en los términos de la normatividad vigente, para que, a los programas relacionados con el sector acuícola, pesquero y actividades conexas, las contribuciones que generen, así como otros ingresos provenientes del otorgamiento de concesiones o permisos, o por cualquier otro concepto relacionado con esta actividad, se destinen o apliquen a impulsar el desarrollo de dicho sector;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Desarrollar programas para fomentar vinculaciones entre la inversión nacional y extranjera y las empresas originadas en la entidad, e intensificar la competitividad, especialmente dirigida al sector pesquero;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Fomentar la ejecución de obras e infraestructura básica y la constitución de unidades y laboratorios para la producción de organismos destinados al cultivo de especies acuícolas y pesqueras, incluidas plantas de conservación y transformación industrial, buscando el apoyo de los programas que el Gobierno federal tiene implementados al respecto;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "La aplicación de los instrumentos de política acuícola, previstos en las leyes locales en la materia, así como en las materias que no estén expresamente atribuidas a la Federación;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Realizar inspecciones y verificaciones en los establecimientos pesqueros o acuícolas, así como en los equipos y vehículos relacionados con dichas actividades y, en general, en los lugares o espacios de cultivo, almacenamiento y conservación, para verificar y garantizar la legal procedencia, la sanidad e inocuidad de productos pesqueros y acuícolas;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Promover mecanismos y esquemas de financiamiento adecuados para el desarrollo integral de las actividades pesqueras y acuícolas;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Promover la igualdad sustantiva o de resultados de las mujeres, jóvenes, productores tradicionales y productores con nuevas tecnologías en las actividades de acuacultura y pesca;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Dictar, de conformidad con las normas oficiales aplicables, medidas de sanidad e inocuidad acuícola y pesquera para prevenir, controlar y erradicar agentes patógenos que representen un riesgo para las especies acuáticas o para el consumo humano de las mismas;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Determinar los niveles de incidencia de enfermedades y plagas de las especies y organismos acuáticos;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Establecer, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales y la SADER, los periodos de pesca y veda; de siembra y cosecha para el cultivo y producción de recursos hidrobiológicos, así como, de acuerdo con las condiciones técnicas y naturales, las zonas de veda, captura, cultivo y recolección;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Establecer viveros, criaderos y reservas de especies hidrobiológicas, así como la administración y operación de los ya existentes;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Promover ante las autoridades sanitarias correspondientes el reconocimiento del estado como zona libre y de baja prevalencia de enfermedades y plagas de las especies acuáticas;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Promover ante los organismos nacionales e internacionales la homologación de técnicas y métodos aplicados a la actividad acuícola;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Promover, directamente o en coordinación con instancias públicas o privadas, la investigación científica aplicada, el desarrollo e innovación tecnológicos de la pesca y la acuacultura, y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Brindar, directamente o en coordinación con otras instancias competentes, servicios de asesoría y capacitación sobre protección, conservación y aprovechamiento de los recursos hidrobiológicos, a las personas dedicadas a actividades relacionadas con la acuacultura y la pesca;"
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Imponer las sanciones que les correspondan a las infracciones cometidas a la presente ley, su reglamento y los planes de manejo correspondientes, y resolver los recursos que se interpongan en contra de las mismas;"
+              },
+              {
+                "Fracción": "XXXVII",
+                "Texto": "Promover ante las autoridades competentes acciones de saneamiento acuícola en coordinación con la SADER, de conformidad con la Ley General;"
+              },
+              {
+                "Fracción": "XXXVIII",
+                "Texto": "Expedir, en los términos del convenio que al efecto se celebre con la Federación, las guías de tránsito para el traslado de productos pesqueros referidos en la Ley General, provenientes de la pesca o la acuacultura;"
+              },
+              {
+                "Fracción": "XXXIX",
+                "Texto": "Participar con las dependencias competentes de la administración pública federal en la determinación de especies acuáticas sujetas a protección especial, amenazadas o en peligro de extinción;"
+              },
+              {
+                "Fracción": "XL",
+                "Texto": "Ejercer las funciones que le transfiera la Federación, de acuerdo con lo previsto en la Ley General y conforme a lo que se establezca en los convenios y acuerdos que el Ejecutivo celebre con ésta;"
+              },
+              {
+                "Fracción": "XLI",
+                "Texto": "Celebrar convenios o acuerdos de coordinación con el Gobierno federal y los municipios del estado en materia de acuacultura y pesca;"
+              },
+              {
+                "Fracción": "XLII",
+                "Texto": "Coordinarse con la Federación, con otras entidades federativas y con sus municipios, para el ordenamiento territorial de los desarrollos acuícola, del litoral y de los cuerpos de agua;"
+              },
+              {
+                "Fracción": "XLIII",
+                "Texto": "Promover mecanismos de participación pública de las y los productores en el manejo y conservación de los recursos pesqueros y acuícolas conforme a lo dispuesto en esta ley y otras disposiciones jurídicas federales y locales aplicables;"
+              },
+              {
+                "Fracción": "XLIV",
+                "Texto": "Expedir, de acuerdo con esta ley y demás relativas de la materia, las autorizaciones que correspondan, y proponer las disposiciones normativas relacionadas con la materia;"
+              },
+              {
+                "Fracción": "XLV",
+                "Texto": "Ordenar, fomentar y promover el desarrollo de la acuacultura y la pesca;"
+              },
+              {
+                "Fracción": "XLVI",
+                "Texto": "Establecer con carácter público, operar y mantener actualizado el Registro, participar en la integración del Registro y en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables, a través de la expedición de la Credencial Única Agroalimentaria, con el fin de ejecutar las acciones reguladas a que se refiere la presente Ley; y"
+              },
+              {
+                "Fracción": "XLVII",
+                "Texto": "Las demás que establezca la presente Ley y le confiera la Federación."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "1. El Ejecutivo del Estado podrá suscribir convenios o acuerdos de coordinación con la Federación, con otras entidades federativas cuyo mar territorial, sistemas lagunarios estuarinos y cuerpos de agua dulce continental correspondan en sus límites con el Estado de Jalisco, para que de manera conjunta se establezcan acciones de prevención y combate a la pesca ilegal, formular y ejercer una política regional de inspección y vigilancia, y de manera conjunta ordenar fomentar y promover el desarrollo de la pesca y la acuacultura, de conformidad con esta ley y la Ley General.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II La Coordinación",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "1. El Ejecutivo del Estado deberá establecer y celebrar convenios o acuerdos de coordinación con la Federación en el marco de la Ley General, dando la participación que corresponda a los municipios, con el objeto de asumir las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El ordenamiento territorial específico para los desarrollos acuícolas y pesqueros que operen en aguas de jurisdicción federal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las acciones técnicas y operativas para incorporarse a programas federales que tengan por objeto garantizar la sanidad e inocuidad de los productos acuícolas y pesqueros;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La administración sustentable de las especies sésiles y bentónicas que se encuentren en los sistemas lagunarios estuarinos y en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La administración y custodia de las zonas federales a fin de garantizar el libre acceso a las zonas en que se desarrollan las actividades de pesca y mantenerlas libres de obstáculos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La administración de la pesca en cuerpos de agua que sirvan de límite a dos entidades federativas, o que pasen de una a otra, que comprenderá además las funciones de inspección y vigilancia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La administración de los permisos para la realización de pesca deportivo-recreativa en aguas de jurisdicción federal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Todas aquellas funciones que en materia de acuacultura y pesca la Ley General y otros ordenamientos legales permitan asumir al Estado y sus municipios."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "1. Los convenios y acuerdos a que se refiere este artículo deberán sujetarse a las disposiciones que al respecto establece la Ley General, y publicarse en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "1. El Ejecutivo del Estado y los ayuntamientos de sus municipios, podrán celebrar los instrumentos legales necesarios para el ejercicio de la actividad acuícola y pesquera, a efecto de que éstos últimos asuman, de forma concurrente con la autoridad estatal, las facultades y atribuciones que sean viablemente delegables dentro de su jurisdicción para mejorar la productividad en el sector, siempre y cuando garantice que cuenta con los recursos humanos capacitados y la estructura institucional específica para atender las funciones requeridas.\n2. Los convenios y acuerdos que se celebren entre el Ejecutivo del Estado y los municipios deberán publicarse en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Principios Generales",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "1. En la formulación y conducción de la política estatal y municipal de acuacultura y pesca, el Estado de Jalisco y sus municipios habrán de observar los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Estado reconoce a la acuacultura y la pesca como actividades que fortalecen su soberanía tanto territorial como alimentaria y que estas actividades son prioritarias para la planeación del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La pesca y la acuacultura deben orientarse a la producción de alimentos para consumo humano directo, con la finalidad de contribuir al abastecimiento de proteínas naturales de alta calidad y de bajo costo para los habitantes del Estado de Jalisco y sus municipios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El aprovechamiento en la pesca y la acuacultura de los recursos hidrobiológicos, su conservación, restauración y la protección de los ecosistemas en los que éstos se encuentren, deben ser compatibles con su capacidad natural de recuperación y disponibilidad, asegurando un ambiente acuático sano y seguro;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La investigación científica y tecnológica es una herramienta esencial para definir e implementar políticas, instrumentos, mecanismos, medidas y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos hidrobiológicos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "A la acuacultura se le reconoce como una actividad productiva que permite la diversificación en la producción del subsector, ofrecer opciones de empleo en el medio rural, e incrementar la producción y la oferta de alimentos que mejoren la dieta de la población del Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Al desarrollo de la acuacultura y la pesca se le reconoce un gran potencial como impulsor del desarrollo regional y del desarrollo económico general, y la producción controlada con las tecnologías de punta que se exigen para especies nativas calificadas como valiosas por el alto contenido proteico y por ser endémicas del Estado, ofrecen la factibilidad de acceder a mercados internacionales, y en el mediano y largo plazos, convertirse en fuentes de divisas para el país;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El ordenamiento de la pesca y la acuacultura debe hacerse a través de programas que incluyan la definición de sitios para su realización, su tecnificación y diversificación, buscando nuevas tecnologías que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El uso de artes y métodos de pesca selectivos y de menor impacto ambiental, con la finalidad de conservar y mantener la disponibilidad de los recursos hidrobiológicos, la estructura de sus poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como la calidad de los productos de la pesca;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En la protección y conservación de los recursos hidrobiológicos y los ecosistemas en los que se encuentran, las autoridades administrativas competentes en la materia, adoptarán el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La participación, consenso y compromiso de aquellos sectores de la sociedad relacionados con las actividades de la pesca, la acuacultura y conexas a éstas, en la corresponsabilidad de aprovechar de manera integral y sustentable los recursos hidrobiológicos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Los procedimientos administrativos concernientes a los permisos para realizar actividades pesqueras, acuícolas y conexas, así como en las medidas para el control del esfuerzo pesquero, se realizarán con transparencia para garantizar la igualdad de oportunidades, incorporando mecanismos de control accesibles a las y los productores;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Implementar las acciones necesarias para la equiparación de oportunidades y dar cumplimiento a los programas cuyo objetivo, y dentro de la materia de esta ley, contribuya al desarrollo integral de la mujer y las personas con capacidades diferentes, evitando prácticas discriminatorias; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover, en el ámbito de su competencia, los principios de equidad y no discriminación entre las personas, así como cuidar que tales principios sean respetados en la actuación para que la igualdad de derechos y oportunidades sea efectiva y real para todas y todos los jaliscienses."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "1. Las secretarías, dependencias, organismos y entidades que por razón de materia y de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, así como los municipios, dentro del ámbito de sus competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "1. El Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero, deberá emitirse por parte de la Secretaría, en congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Gobernanza y Desarrollo y el Programa Nacional de Pesca y Acuacultura, y será autorizado por el Ejecutivo del Estado, previo análisis de las Secretarías de Planeación y Participación Ciudadana, y de Medio Ambiente y Desarrollo Territorial del Estado.\n2. El Programa Estatal para el Desarrollo Sustentable Acuícola y Pesquero deberá comprender:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los objetivos que deberán orientar las acciones de planeación y programación del desarrollo de las actividades acuícola y pesquera en el Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Información general sobre la abundancia, la distribución y la localización de las especies susceptibles de aprovechamiento comercial;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Información actualizada sobre el estado y condiciones de desarrollo de la acuacultura y la pesca en la entidad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El estado y condición de las pesquerías comerciales y la abundancia, distribución y localización de las especies susceptibles de aprovechamiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los mecanismos estatales para la aplicación de programas federales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los programas estatales de carácter especial que se implementen como parte de una política de fomento, sus lineamientos y reglas de operación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los lineamientos y acciones para fomentar la investigación y desarrollo tecnológico de las actividades pesquera y acuícola y difundir sus resultados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La localización y la delimitación de las zonas susceptibles para el establecimiento y desarrollo de las actividades pesqueras y acuícolas;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La valoración del potencial de las actividades pesquera y acuícola en la entidad, con base en el resultado de estudio, acciones y estrategias que se implementen y asimismo el establecimiento de los volúmenes de producción y el valor de los productos en el mercado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las acciones para promover y apoyar el desarrollo de la pesca y la acuacultura;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Subprogramas de modernización de infraestructura portuaria y pesquera a cargo de los gobiernos federal y estatal;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Los programas y proyectos para la mejora y ampliación de centros de acopio y canales de distribución de los productos tanto acuícolas como pesqueros con la participación de las personas productoras y comercializadoras;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las acciones para impulsar la conservación, el repoblamiento y el aprovechamiento sustentable de la pesca y la acuacultura de especies hidrobiológicas nativas;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Los programas de ordenamiento acuícola y pesquero;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "La organización, capacitación y desarrollo de las cadenas productivas y planes de manejo de los recursos pesqueros y acuícolas;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "El funcionamiento e integración del Programa de Inspección y Vigilancia;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "La promoción de actividades productivas complementarias que generen ingresos adicionales a las comunidades pesqueras y acuícolas;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Esquemas de integración de las cadenas productivas y valor agregado;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Los instrumentos y acciones integrales de inspección y vigilancia para el cumplimiento de la presente ley;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Los instrumentos y mecanismos para la ejecución de las acciones previstas en este programa;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Los proyectos de inversión evaluados por su rentabilidad o viabilidad social y económica;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "El Sistema de información sobre los temas que integran las materias y los campos de la acuacultura y la pesca;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Los instrumentos, los mecanismos, los presupuestos públicos o las mezclas de recursos monetarios y en especie, que coadyuven al financiamiento de este subsector;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Los criterios para la coordinación y concertación con las secretarías, dependencias, organismos y entidades estatales que intervengan por razón de materia, así como con los ayuntamientos del Estado, el Gobierno Federal y con los sectores tanto social como privado, para su participación en la ejecución del programa; y"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Estrategias para concretar la igualdad sustantiva o de resultados entre mujeres, jóvenes, las y los productores tradicionales y productores con nuevas tecnologías."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "1. La Secretaría deberá de incrementar la producción de sus centros de producción acuícola, con la finalidad de crear organismos suficientes para satisfacer la demanda interna de acuicultores y acuicultoras como para cumplir de manera amplia y suficiente con los requerimientos de repoblación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "1. Con la participación del Gobierno federal, del Estado y los municipios, se creará un sistema de asistencia técnica a fin de impulsar estas actividades económicas que coadyuven al desarrollo regional y complementen las funciones de esta ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Los Ordenamientos y Planes Acuícolas y Pesqueros",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "1. Para el desarrollo equilibrado y sustentable de la pesca y la acuacultura en el Estado, la Secretaría, además de observar las políticas y el Programa Estatal a que se refieren los artículos anteriores, atenderá a los ordenamientos acuícola y pesquero.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "1. Para los efectos de la presente ley, los ordenamientos acuícola y pesquero se integran con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El ordenamiento territorial para la actividad pesquera;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El ordenamiento territorial para la actividad acuícola;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los planes de manejo pesquero; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los planes de manejo acuícola."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "1. Tanto el ordenamiento territorial pesquero como el acuícola deberán señalar las zonas y demarcaciones geográficas de la entidad viables para realizar actividades pesqueras y acuícolas, respectivamente.\n2. Asimismo, deberá establecerse un plan de manejo acuícola y pesquero de acuerdo con las características y particularidades de cada zona o demarcación. El cumplimiento de dicho plan será obligatorio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "1. Los planes de manejo acuícola y pesquero son instrumentos de regulación de las actividades pesquera y acuícola, los que contendrán las especies a explotar, los métodos de captura, la infraestructura a utilizar, los métodos de aplicación de medidas de sanidad y, en general, las disposiciones técnicas para el óptimo aprovechamiento y explotación de los recursos obtenidos de dichas actividades.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "1. La Secretaría, en coordinación con la Federación, los municipios del estado y, en todo caso, las entidades federativas limítrofes, participarán en la elaboración de los ordenamientos territoriales, pesqueros y acuícolas de conformidad con lo dispuesto en la Ley General, la presente ley y lo que establezcan las leyes locales en la materia, debiendo ser publicados en el Periódico Oficial “El Estado de Jalisco”.\n2. Dichos ordenamientos podrán ser modificados según los requerimientos científicos, tecnológicos, ambientales y ecológicos en atención a la sustentabilidad de los recursos pesqueros o acuícolas. Estas modificaciones, al igual que los ordenamientos, deberán ser publicados en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV El Consejo",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "1. El Consejo tendrá como objeto proponer las políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como para incrementar la competitividad de los sectores productivos en materia de acuacultura y pesca y actividades conexas. Es una instancia de coordinación y concertación entre los sectores público, social y privado, así como entre las instituciones de investigación y educativas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "1. El Consejo estará integrado por quien funja como titular del Gobierno del Estado, la Secretaría, otras dependencias y entidades de la administración pública estatal y federal, así como representantes de instituciones académicas y centros de investigación, agrupaciones de productores y el sector empresarial, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como personas físicas, con reconocido prestigio en la materia. Su integración y operación se sujetará a las disposiciones reglamentarias que al efecto expida el titular del Ejecutivo.\n2. Las bases para la operación y funcionamiento del Consejo se establecerán mediante las disposiciones que para el efecto establezca la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "1. Para el cumplimiento de los objetivos del Consejo, éste se apoyará de los Consejos Regionales de Acuacultura y Pesca y de los Consejos Municipales de Acuacultura y Pesca que se formen con apego al reglamento de esta ley. Asimismo, la Secretaría fomentará la creación de Comités Ciudadanos de Acuacultura y Pesca, con el objeto de que se dé la máxima participación ciudadana.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Sistema Estatal de Investigación e Información Acuícola y Pesquera",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "1. La Secretaría integra y coordina el Sistema Estatal de Investigación e Información en Acuacultura y Pesca, con el objeto de vincular y fortalecer la investigación científica y el desarrollo tecnológico, así como el desarrollo, innovación y transferencia de tecnología para el manejo y administración de los recursos pesqueros y el\ndesarrollo ordenado de la acuacultura y la actualización y difusión de la información relativa a las actividades pesquera y acuícola que se realicen en el estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "1. El Sistema Estatal de Investigación e Información en Acuacultura y Pesca se integra con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Anuario Estadístico de Acuacultura y Pesca;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Registro;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Programa Estatal de Acuacultura;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Programa Estatal de Pesca;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La Carta Estatal Acuícola;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La Carta Estatal Pesquera;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Toda aquella información que se genere con motivo de la actividad acuícola y pesquera; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La información que se genere a través de estudios y proyectos por aquellos centros de investigación, universidades, escuelas e instituciones académicas con reconocimiento en el ámbito de la acuacultura y la pesca y que sea aceptada su incorporación en el Sistema Estatal de Investigación e Información Acuícola y Pesquera;\n2. De conformidad con lo establecido en la legislación en materia de transparencia y acceso a la información pública gubernamental, la información mencionada en el presente artículo deberá ser publicada en la página electrónica de la Secretaría y por los medios impresos a su alcance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Anuario Estadístico de Acuacultura y Pesca",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "1. El Anuario Estadístico de Acuacultura y Pesca del Estado de Jalisco, es el documento de carácter estadístico, que forma parte del Sistema Estatal de Investigación e Información y se integrará con las estadísticas relativas a estas actividades, y contendrá la información que para tal efecto establezca la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "1. La Secretaría está a cargo de la construcción y publicación del Anuario Estadístico de Acuacultura y Pesca, y para lo cual ejercerá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autorizará los formatos para la recopilación, el procesamiento y la presentación significativa de los datos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los registros correspondientes de instituciones de investigación, directorios oficiales y padrones diversos de la administración pública federal, estatal y municipal, y las atribuciones y obligaciones contenidas en leyes especiales, en las de las materias de estadística, la Ley General y el contenido de la presente ley; solicitará, en los plazos que al respecto se aprueben, los datos e información técnica y estadística que en cada caso correspondan;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Será responsable de la verificación de los datos recopilados, de su procesamiento, con la aplicación de las técnicas y los métodos de la estadística y matemáticos, con la finalidad de elaborar las tablas o cuadros, gráficas, cartas y demás instrumentos que permitan la presentación final de los datos en formas significativas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecerá los mecanismos técnicos y administrativos para la custodia de los datos-base, obtenidos de las diversas fuentes, aplicando los seguros, claves y/o candados que garanticen la confidencialidad de la información; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Publicará con toda oportunidad y divulgará por los medios idóneos el anuario correspondiente, a efecto de que se cumpla con los objetivos informativos del presente instrumento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III El Registro",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "1. La Secretaría establecerá el Registro, cuya función principal será la matriculación y actualización de la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El número de granjas o establecimientos acuícolas, unidades de manejo acuícola, su denominación y su ubicación en el Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los permisos y concesiones otorgados para la realización de actividades de acuacultura y pesca; las revalidaciones y las resoluciones de revocación de los mismos, que en términos del Sistema de Coordinación entre la Federación con el Estado prevé a través de los convenios respectivos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La clasificación de las granjas o establecimientos acuícolas y unidades de manejo acuícola con relación al tamaño económico, a las especies acuícolas que produzcan, y al tipo de aguas que utilicen para su funcionamiento, incluyendo parques, granjas y laboratorios en el Estado. Los criterios para la clasificación se establecerán en el reglamento de esta Ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La clasificación de las embarcaciones con número de serie y matrícula correspondientes, así como sus características generales y técnicas de captura y artes de pesca que utilizan, destinadas a la pesca comercial;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los programas de ordenamiento y planes de manejo acuícola y pesquero;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los prestadores de servicios dedicados a la pesca deportivo-recreativa;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las personas físicas o jurídicas que se dediquen a la pesca, la acuacultura y la reproducción, cultivo y comercialización de recursos hidrobiológicos de ornato en el Estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las escuelas y los centros dedicados a la investigación o enseñanzas en materia de flora y fauna acuáticas, aprovechables para la acuacultura y la pesca;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las resoluciones de imposición de sanciones en materia de acuacultura y pesca; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La demás información que determine por esta u otras leyes y sus disposiciones reglamentarias."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "1. Las personas físicas o jurídicas que realicen actividades pesqueras o acuícolas, deberán presentar a la Secretaría la información y datos necesarios que ésta les solicite para mantener actualizadas las inscripciones y registros a que se refiere el artículo anterior, con la correspondiente actualización de la información de su Credencial Única Agroalimentaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "1. La Secretaría se encarga del control y actualización del archivo físico o documental y electrónico que contenga la información inscrita en el Registro, a través de su Credencial Única Agroalimentaria, de conformidad con el reglamento de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "1. Las personas físicas o jurídicas que se dediquen a las actividades reguladas por esta Ley, están obligadas a registrarse ante la Secretaría en un término de ciento veinte días naturales a partir de haber iniciado operaciones. La Secretaría expedirá el certificado de registro correspondiente, conjuntamente con la Credencial Única Agroalimentaria que lo acredite.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "1. La organización, el funcionamiento del Registro, así como su actualización permanente, se determinarán en las disposiciones reglamentarias que deriven de la Ley General así como de la presente ley y de otras disposiciones o normas aplicables a estas actividades; los municipios contribuirán a la integración, actualización y funcionamiento del Registro en la forma y términos que establezcan las disposiciones reglamentarias.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV El Programa Estatal de Acuacultura",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "1. El Programa Estatal de Acuacultura debe contener, como mínimo, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un diagnóstico general de la actividad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La definición de las especies susceptibles de cultivo y que sean de interés comercial y alto rendimiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La determinación de las zonas geográficas cuyos factores ambientales y equipamiento de servicios de infraestructura aseguren los aprovechamientos en lo técnico y lo económico;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los perfiles técnicos para la producción por especie, de las seleccionadas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los programas y subprogramas de apoyo disponibles, debidamente clasificados;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los proyectos de inversión que sustenten el programa;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La información del mercado relativa a la localización de la demanda, la oferta, precios y formas de presentación, para los diversos productos y subproductos acuícolas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Principales caracteres y valores nutricionales de los productos y subproductos para cada especie incluida en el programa, con el objeto de estimular el consumo; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las Normas Oficiales Mexicanas que apliquen particularmente para la producción, la sanidad e inocuidad, así como el manejo de productos y subproductos en general."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "1. Las autoridades competentes establecerán los mecanismos de control para las y los productores, y promoverán entre los mismos las formas de organización para la producción y la comercialización de los productos y subproductos resultantes en la actividad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V El Programa Estatal de Pesca",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "1. El Programa Estatal de Pesca debe contener, como mínimo, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un diagnóstico general de la actividad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La población objetivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La determinación de zonas para el desarrollo de la actividad pesquera;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los recursos hidrobiológicos sujetos a aprovechamiento en cada zona del estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las especies y sus periodos de veda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las artes de pesca permitidas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los programas y subprogramas de apoyo disponibles, debidamente clasificados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los proyectos de inversión que sustenten el programa;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Los criterios de selección de beneficiarios;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La información de precios, oferta y demanda de los diversos productos pesqueros; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Los planes de manejo pesquero, sancionados y publicados."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "1. Las autoridades competentes en la materia, establecerán los mecanismos de control para las y los productores, apoyados en el conocimiento tradicional de sistemas de manejo donde existan; y promoverán la formación de grupos comunitarios que colaboren y participen en la administración y protección de dichos recursos sobre la base de los principios rectores de la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI La Carta Estatal Acuícola",
+        "Artículos": [
+          {
+            "Artículo": 37,
+            "Texto": "1. La Carta Estatal Acuícola es la presentación cartográfica, numérica y escrita de los indicadores de la actividad, de las especies destinadas a la acuacultura, de los establecimientos dedicados a esta actividad y sus características generales, del desarrollo de la biotecnología y de las zonas por su vocación de cultivo. Su contenido será considerado instrumento de planeación, teniendo carácter informativo para los sectores productivos y será consultivo y orientador para las autoridades competentes en la resolución de solicitudes de concesiones y permisos para la realización de las actividades acuícolas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "1. La Secretaría aprueba y expide la Carta Estatal Acuícola y sus actualizaciones y las publica en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "1. La Carta Estatal Acuícola debe contener, al menos, la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El inventario de las especies acuícolas susceptibles de reproducción y cultivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Determinación de las zonas por su vocación y potencial de cultivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Análisis de capacidad instalada medida por el número de los establecimientos o de las unidades de producción acuícola y montos de producción por cada región;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Registro de las especies tanto nativas como no nativas que se cultivan en el estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las especificaciones respecto al dominio de la tecnología para la reproducción y cultivo de las especies"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los planes de ordenamiento acuícola;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las normas aplicables a aspectos de conservación, protección y/o aprovechamiento de los recursos acuícolas, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos acuícolas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los riesgos y posible impacto de que las especies no nativas sean liberadas en cualquier cuerpo de agua sin control y diferente a su hábitat natural;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Estadísticas de producción; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La información que se determine en el reglamento de la presente ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII La Carta Estatal Pesquera",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "1. La Carta Estatal Pesquera es la presentación cartográfica, numérica y escrita que contiene la información necesaria y los indicadores sobre la disponibilidad y conservación de los recursos hidrobiológicos en aguas continentales de jurisdicción estatal, así como de los sistemas lagunarios estuarinos y de las aguas comprendidas en áreas concesionadas por la Federación conocidas como zonas federales marítimo-terrestres que forman parte del mar territorial en concordancia con la Carta Nacional Pesquera.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "1. La elaboración y actualización de la Carta Estatal Pesquera está a cargo de la Secretaría, con la participación de los organismos e instituciones competentes en la materia, los municipios y las contribuciones del sector académico y productivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "1. La información contenida en la Carta Estatal Pesquera será considerada instrumento de planeación y factor determinante en la toma de decisiones para la adopción e implementación de instrumentos y medidas para el control del esfuerzo pesquero, en la resolución de solicitudes de concesiones y permisos para la realización de actividades pesqueras, y en la implementación y ejecución de acciones y medidas relacionadas con dichos actos administrativos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "1. La Carta Estatal Pesquera debe contener, al menos, la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El inventario de los recursos hidrobiológicos susceptibles de aprovechamiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El esfuerzo pesquero susceptible de aplicarse por especie o grupo de especies en un área determinada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La distribución geográfica por especie;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los lineamientos, estrategias y demás previsiones para la conservación, protección, restauración y aprovechamiento de los recursos pesqueros, para la realización de actividades productivas y demás obras o actividades que puedan afectar los ecosistemas respectivos y las artes y métodos de pesca;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las normas aplicables en materia de preservación, protección, aprovechamiento y repoblamiento de los recursos hidrobiológicos, incluyendo las relativas a la sanidad, calidad e inocuidad de los productos pesqueros; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La demás información que se determine en el reglamento de la presente ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 44,
+            "Texto": "1. La Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Desarrollo Territorial y el Instituto de Información Estadística y Geográfica del Estado de Jalisco, participarán en la revisión del proyecto de la Carta Estatal Acuícola y Pesquera y emitirán el dictamen técnico correspondiente, para lo cual contarán con un plazo de treinta días hábiles contados a partir del día en que les sea entregado el proyecto, pudiendo solicitar información adicional si así lo requieren y emitir, en su caso, las observaciones y recomendaciones que se consideren pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por la Secretaría en la formulación del documento definitivo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Los Instrumentos",
+        "Artículos": [
+          {
+            "Artículo": 45,
+            "Texto": "1. Para la consecución de los fines y objetivos de esta ley, se reconocen como instrumentos de la política pesquera los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los programas de ordenamiento pesquero;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los planes de manejo pesquero;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los permisos y concesiones; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La consulta pública permanente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II El Ordenamiento y los Planes de Manejo Pesquero",
+        "Artículos": [
+          {
+            "Artículo": 46,
+            "Texto": "1.La Secretaría, así como con las autoridades, dependencias e instituciones competentes en la materia, son los encargados de elaborar los ordenamientos territoriales y pesqueros a los que se refiere esta ley, mismos que pueden ser modificados por causas científicas, tecnológicas, ecológicas y de utilidad pública, en atención de la sustentabilidad de los recursos hidrobiológicos.\n2. Tanto el ordenamiento como las modificaciones que a los mismos se apliquen, deberán ser publicados en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "1. Para el desarrollo equilibrado y sustentable de la pesca en el estado de Jalisco, el ordenamiento pesquero señalará las zonas o demarcaciones geográficas viables para el desarrollo de la actividad pesquera; para cada zona o demarcación deberá establecerse un plan de manejo pesquero acorde con sus características y condiciones técnicas de la producción, relativas al recurso y previendo la protección al medio ambiente, cuyo cumplimiento será obligatorio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "1. Los planes de manejo pesquero son los instrumentos mediante los cuales se regula la actividad pesquera; dichos instrumentos deberán contener, como mínimo, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los objetivos de manejo definidos por el Consejo Nacional de Pesca y el Consejo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La descripción de las características biológicas de las especies sujetas a explotación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El ciclo de captura y estado de aprovechamiento de la pesquería;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La ubicación de las áreas geográficas a que estará sujeto el aprovechamiento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los indicadores socioeconómicos de la población dedicada a la pesca en la región y su impacto en la misma; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las artes y los métodos de pesca autorizados."
+              }
+            ]
+          },
+          {
+            "Artículo": 49,
+            "Texto": "1. Las características particulares de las artes de pesca y su uso conforme a la especie objeto de captura, el lugar en el cual se pretenda llevar a cabo esta actividad, así como el establecimiento de artes de pesca fijas o cimentadas, su dimensión y cambio de localización, estarán sujetos, además de a las condiciones del recurso, a los requisitos que establezcan el reglamento de la Ley General, las Normas Oficiales Mexicanas, el reglamento\nde esta ley, y las disposiciones en materia de impacto ecológico contenidas en la Ley General de Equilibrio Ecológico y la Protección al Ambiente y aquellas que sean competencia de otras autoridades.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I La Planeación para el Desarrollo y del Ordenamiento Acuícola",
+        "Artículos": [
+          {
+            "Artículo": 50,
+            "Texto": "1. La Secretaría regula el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, mediante la expedición de concesiones o permisos por especie o grupos de especies.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "1. El Programa Estatal de Acuacultura, como parte del Programa Estatal de Desarrollo Acuícola y Pesquero, se sujetará a las previsiones del Plan Estatal de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, y en todo caso, las entidades federativas limítrofes que participen en el programa estatal de acuacultura de Jalisco y sus municipios, de acuerdo con la distribución de competencias establecidas en esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "1. La planeación y regulación del ordenamiento acuícola se llevará a cabo a través de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Programa Estatal de Acuacultura y la Carta Estatal Acuícola;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los Subprogramas Regionales de Acuacultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Planes de Ordenamiento Acuícola; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los subprogramas y proyectos de inversión para el desarrollo de la acuacultura derivados de los señalados en las fracciones anteriores."
+              }
+            ]
+          },
+          {
+            "Artículo": 53,
+            "Texto": "1. Se establecen los planes regionales de acuacultura, como instrumentos de planeación para regular e inducir las actividades correspondientes a una región del estado, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio natural, conforme a las disposiciones de la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Unidades de Manejo Acuícola",
+        "Artículos": [
+          {
+            "Artículo": 54,
+            "Texto": "1. Para el desarrollo integral, ordenado y sustentable de la acuacultura, se fomentará la creación de Unidades de Manejo Acuícola, que estarán basadas en la evaluación de los recursos naturales disponibles para la acuacultura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "1. Los acuicultores y acuicultoras podrán organizarse en unidades de manejo acuícola para propiciar el desarrollo integral, ordenado y sustentable de la acuacultura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "1. Las unidades de manejo acuícola se forman por un conjunto de granjas o establecimientos acuícolas localizados en una misma área geográfica, con el objeto de implementar y ejecutar esquemas integrales para el\naprovechamiento de infraestructura y recursos susceptibles de uso común para el funcionamiento de los mismos, en equilibrio con el medio ambiente y cuidando preservar la sanidad, viabilidad y sustentabilidad de la actividad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "1. Para constituir unidades de manejo acuícola, las personas interesadas deberán presentar la solicitud correspondiente ante la Secretaría, en los formatos que la misma expida para el efecto, cumpliendo con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El número de permiso de cada una de las granjas o establecimientos que integrarán la Unidad de Manejo Acuícola;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El estudio técnico que especifique la capacidad de carga conjunta de las granjas o establecimientos que pretendan integrarse en una Unidad de Manejo Acuícola;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El proyecto de distribución de la infraestructura y equipamiento que se utilizará de forma común con relación a los canales de conducción y los puntos de abastecimiento y descarga de aguas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El plan de manejo de aguas, de conformidad con lo dispuesto por la normatividad vigente de la materia, que deberá contemplar:\na) La organización, administración y participación de las personas interesadas en el manejo del agua;\nb) El monitoreo de dichas aguas;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La conservación y mejoramiento de los niveles de sanidad acuícola;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "El mantenimiento, las medidas preventivas y de conservación que se aplicarán a los canales de conducción y los puntos de abastecimiento y descarga de aguas;\ne) La descripción del equipo destinado al funcionamiento y mantenimiento de los puntos de abastecimiento, descarga y de conducción de aguas;\nf) La prevención y control de contingencias; y\ng) El sistema de aseguramiento para que el punto de descarga de aguas de la unidad no genere contaminación sobre el punto de abastecimiento de la propia unidad o de otras granjas o unidades de manejo acuícola; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un proyecto sobre el aprovechamiento de infraestructura y recursos susceptibles de uso común."
+              }
+            ]
+          },
+          {
+            "Artículo": 58,
+            "Texto": "1. La Secretaría tendrá un plazo de veinte días hábiles, contados a partir de la presentación de la solicitud de autorización, para emitir su resolución, en caso de ser omisa, se apegará a lo establecido en el artículo 71 de esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "1. Los permisionarios se deben constituir y administrar en la forma que más les convenga a fin de cumplir con el objeto de la integración de la Unidad de Manejo Acuícola.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "1. Cada Unidad de Manejo Acuícola elaborará su propio reglamento interno, en el que deberá preverse, entre otros aspectos, la forma de organización y administración de la unidad de manejo y los derechos y obligaciones de cada granja o establecimiento con respecto al uso y mantenimiento de todas las obras comunes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "1. Cada Unidad de Manejo Acuícola deberá contar con un plan de manejo, que contendrá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las acciones a realizar a corto, mediano y largo plazos, estableciendo la vinculación con los planes y programas aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La capacidad de carga de los cuerpos de agua de donde se pretendan alimentar las unidades de producción acuícola;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las características geográficas de la zona o región;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las obras de infraestructura existentes y aquellas que se planee desarrollar y su programa de administración;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La forma de organización y administración de la unidad de manejo, así como los mecanismos de participación de los acuicultores y acuicultoras asentados en la misma;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La descripción de las características físicas y biológicas de la Unidad de Manejo Acuícola;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Acciones de protección y aprovechamiento sustentable de los recursos naturales y un cronograma de cumplimiento de las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Acciones de sanidad, inocuidad y calidad acuícola;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Acciones de crecimiento y tecnificación; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "El programa de prevención y control de contingencias, de monitoreo y las demás que por las características propias de la Unidad de Manejo Acuícola se requieran."
+              }
+            ]
+          },
+          {
+            "Artículo": 62,
+            "Texto": "1. La Secretaría tiene la facultad de realizar las auditorías técnicas, que tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuicultores y acuicultoras, y con ello aplicar las medidas preventivas y correctivas en cada caso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "1. La Secretaría emitirá un dictamen que haga constar el adecuado cumplimiento de la legislación en la materia y de los planes de manejo y, en su caso, hará las recomendaciones técnicas sobre las medidas preventivas y correctivas necesarias, que será obligatorio aplicar para garantizar una actividad sustentable.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Permisos para la Acuacultura",
+        "Artículos": [
+          {
+            "Artículo": 64,
+            "Texto": "1. La Secretaría podrá otorgar permisos para la realización de las actividades acuícolas y conexas previstas en esta ley, previo cumplimiento que hagan las personas interesadas de los requisitos establecidos en la misma y conforme a lo dispuesto en los planes de manejo acuícola.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "1. Se requiere permiso para la realización de las siguientes actividades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acuacultura comercial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acuacultura de fomento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acuacultura didáctica;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La siembra de camarón;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La cosecha de camarón;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los laboratorios de diagnóstico;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los laboratorios de producción;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La introducción o repoblación de especies vivas; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La recolección de recursos hidrobiológicos del medio natural."
+              }
+            ]
+          },
+          {
+            "Artículo": 66,
+            "Texto": "1. Los permisos que otorgue la Secretaría serán personales e intransferibles y no podrá constituirse sobre ellos ningún tipo de gravamen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "1. Para la obtención de los permisos a que se refiere este título, las personas interesadas están obligadas a presentar ante la Secretaría la solicitud correspondiente, en formatos que distribuirá la dependencia con original y copia, debiendo contener los datos que la Secretaría acuerde, suficientes para acreditar personalidad e interés jurídico, así como los demás datos específicos que establezcan la Ley General, esta ley y los reglamentos",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "1. La Secretaría podrá realizar diligencias para el conocimiento de los hechos implicados en los requisitos para la obtención y, en su caso, revalidación de los permisos a que se refiere el presente título, así como visitas de inspección a las personas interesadas para verificar que los datos asentados en las solicitudes respectivas cumplan con las disposiciones legales y técnicas establecidas en la presente ley y su reglamento y en los planes de manejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "1. Las solicitudes de permiso para la acuacultura que reciba la Secretaría, una vez llenados los requisitos y entregados los documentos requeridos, deberán ser resueltas dentro de un plazo máximo de veinte días hábiles, contados a partir de la fecha de recepción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "1.Cuando en la presentación de la solicitud de permiso para la acuacultura, se omita información o algunos de los requisitos establecidos en las disposiciones aplicables no se cumplimenten, la Secretaría requerirá a la persona interesada dentro de los cinco días hábiles siguientes a la recepción de la solicitud para que, en un término de cinco días hábiles, posteriores al requerimiento, subsane la omisión o cumpla con los requisitos faltantes; si la persona interesada no atiende el requerimiento dentro del término señalado, la Secretaría la tendrá desechada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "1. Tratándose de los permisos para la acuacultura comercial y para laboratorios de producción, cuando por las características del proyecto la Secretaría requiera realizar diligencias de las establecidas en el artículo 72 de esta ley, la resolución deberá dictarse dentro de los diez días hábiles posteriores al desahogo de las mismas, sin rebasar el plazo máximo de treinta días desde la integración del expediente respectivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "1. En caso de que la Secretaría omita dar a conocer a la persona interesada la resolución de su solicitud en el tiempo estipulado en el artículo anterior, se entenderá que el permiso es susceptible de otorgarse, para lo cual bastará que la persona solicitante presente un escrito manifestando, si así lo fuere, que ha cumplido con todos los requisitos, y tendrá un plazo de diez días hábiles para hacer valer este beneficio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "1. La falta de resolución a cualquier solicitud de permiso para la acuacultura, implicará responsabilidad para las y los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario o funcionaria responsable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "1. Las personas físicas o jurídicas que cuenten con permisos para las actividades a que se refiere este capítulo, podrán solicitar a la Secretaría la revalidación de los mismos, mediante la presentación de la solicitud respectiva con treinta días de anticipación a la fecha de vencimiento del permiso, en la que se deberá contener la manifestación de la persona interesada bajo protesta de decir verdad, de que las condiciones originales de infraestructura, técnicas y operativas bajo las que se otorgó el permiso no han sido modificadas.\n2. Se entenderán por modificaciones a las condiciones originales de infraestructura, técnicas y operativas, los cambios que se establecen en el reglamento de esta ley que se hagan a las instalaciones dedicadas a la actividad acuícola.\n3. La Secretaría podrá verificar la certeza de lo manifestado en la solicitud y resolverá en un término de veinte días hábiles posteriores a la fecha de su recepción, siempre que permanezcan las condiciones que generaron el otorgamiento del permiso.\n4. En caso de que la Secretaría omita dar a conocer a la persona interesada la resolución de su solicitud dentro del término establecido en este artículo, se entenderá que la revalidación fue otorgada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "1. Para las resoluciones recaídas a las solicitudes de revalidación la Secretaría deberá observar lo contenido en el artículo 72 de la ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "1. Los permisionarios que pretendan realizar modificaciones a las instalaciones dedicadas a actividades de acuacultura deberán contar con la autorización previa de la Secretaría, misma que deberán solicitar con treinta días hábiles de anticipación al inicio de la modificación que se pretenda, en los formatos que se expidan para el efecto y conforme a lo dispuesto en el reglamento de esta ley.\n2. La Secretaría calificará las solicitudes; constatará que los permisionarios acrediten los hechos que justifican la o las modificaciones respectivas y que cumplen con las disposiciones relativas de esta ley, y emitirá la resolución correspondiente dentro de los quince días hábiles posteriores a la recepción de la solicitud.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 77,
+            "Texto": "1. Los permisos a que se refiere este título deberán otorgarse a las personas físicas o jurídicas, ya sea de nacionalidad mexicana o extranjera, siempre y cuando estas últimas cumplan con los requisitos de calidad migratoria correspondientes para ejercer la actividad que solicitan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "1. La Secretaría inscribirá en el registro, los permisos que otorgue en los términos de la presente Ley, así como la información de la Credencial Única Agroalimentaria que le corresponda a cada registro.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Permisos para la Acuacultura Comercial, de Fomento y Didáctica",
+        "Artículos": [
+          {
+            "Artículo": 79,
+            "Texto": "1. Las personas físicas o jurídicas interesadas en obtener un permiso para la acuacultura comercial deberán presentar la solicitud respectiva ante la Secretaría con los datos y documentos a que se refiere el artículo 67, además de proporcionar los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Estudio económico que contendrá una exposición sobre la viabilidad económica del proyecto, el monto y estructura de la inversión;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La manifestación de impacto ambiental vigente, informe preventivo o autorización, según sea el caso, expedidos por la autoridad ecológica competente, de conformidad con las disposiciones legales aplicables en la materia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La autorización necesaria para el uso y aprovechamiento de aguas, en los términos de la normatividad vigente; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un estudio técnico, elaborado en el formato que al efecto expida la Secretaría, anexando la documentación de apoyo que en el mismo se establezca, debiendo presentar, por lo menos:\na) Planes o programas de abastecimiento de los recursos acuícolas;\nb) Descripción de la tecnología y métodos a utilizarse en cada fase del cultivo;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Medidas sanitarias y técnicas de manejo;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Distribución y descripción de la infraestructura; y\ne) Dictamen avalado por la Secretaría de Medio Ambiente y Recursos Naturales, que acredite que el punto de descarga no presenta influencia contaminante sobre el punto de abastecimiento de la Unidad de Manejo Acuícola o granja más próxima o que afecte de manera negativa la fertilidad de las tierras de cultivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 80,
+            "Texto": "1. La Secretaría podrá otorgar permisos para la acuacultura de fomento a instituciones de investigación y docencia y a personas físicas dedicadas a actividades científicas y técnicas en la materia, así como permisos para la acuacultura didáctica a las personas físicas o jurídicas que desarrollen actividades científicas y técnicas o programas de enseñanza en materia acuícola.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 81,
+            "Texto": "1. Las personas interesadas en obtener un permiso para acuacultura de fomento o didáctica, deberán presentar una solicitud ante la Secretaría, con los datos y documentación establecidos en el artículo 71 de esta ley, acompañándola de lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Manifestación de impacto ambiental vigente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La autorización correspondiente para el uso y aprovechamiento de aguas, en los términos de las leyes vigentes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tratándose de personas físicas, acreditar su capacidad científica o técnica, en los términos que se establezcan en el reglamento de esta ley; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar una definición específica y descripción detallada del proyecto de fomento o programa de estudio o investigación, según sea el caso, con la información que se prevea en el reglamento de esta ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 82,
+            "Texto": "1. Son obligaciones de los permisionarios para la acuacultura comercial, de fomento, didáctica y de las diversas modalidades de acuariofilia, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cultivar exclusivamente los recursos acuícolas indicados en el permiso otorgado;\n\nMedicamentos que se aplican;\nj) Destino de la producción;\nk) Medidas de buenas prácticas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presentar a la Secretaría los informes de siembra y de cosecha que se establecen en el reglamento de esta ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coadyuvar en la preservación del medio ambiente y en la conservación y reproducción de los recursos acuícolas, así como en la ejecución de los programas de ordenamiento acuícola que se establezcan por la Secretaría;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cumplir con las medidas sanitarias y el plan de manejo acuícola;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer y ejecutar medidas de sanitización de equipos de embalaje y transporte, y unidades para cuarentena de recursos acuícolas, dentro de las instalaciones que ocupen las granjas o establecimientos"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Tener disponible en las propias instalaciones de la actividad acuícola la documentación mediante la cual se autoriza su operación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Mantener inalteradas las condiciones de la actividad señaladas en el permiso correspondiente y, en su caso, gestionar su modificación previamente a cualquier alteración;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Llevar una bitácora o libro de registro que deberá contener, como mínimo, los siguientes datos:\na) La especie o especies que se cultivan, con sus nombres científico y común;\nb) La cantidad total de organismos;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Áreas de cultivo de espejo de agua;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Sistema de cultivo;\ne) Densidades;\nf) Alimentación;\ng) Origen de los organismos y nombre de las instalaciones de procedencia;\nh) Enfermedades detectadas;"
+              },
+              {
+                "Fracción": "L",
+                "Texto": "Número del Registro Nacional de Pesca;"
+              },
+              {
+                "Fracción": "M",
+                "Texto": "Número del Registro Estatal de Pesca;\nn) El comportamiento de los parámetros de potencial de hidrógeno (p. h.) y temperaturas de agua;\nñ) El muestreo poblacional, incluyendo biometría, crecimiento y población de los recursos acuícolas; y\no) La cantidad de alimento aplicado y el comportamiento de las especies con el mismo.\n2. Dichas bitácoras deberán estar a disposición de las autoridades en la materia cada vez que éstas lo soliciten; en el caso de las instalaciones dedicadas solamente a la comercialización de recursos hidrobiológicos con fines ornamentales, deberán registrar sólo lo conducente."
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Informar directamente a la Secretaría, dentro del término de veinticuatro horas, cualquier emergencia de carácter sanitario que se presente durante el desarrollo del cultivo o en el proceso de cosecha; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que se establezcan en la presente ley y las disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 83,
+            "Texto": "1. Los permisionarios para la acuacultura de fomento y didáctica, además de las obligaciones contenidas en el\nartículo anterior, deberán presentar a la Secretaría, en los formatos que la misma expida y con la periodicidad\nque se establezca en los permisos, los informes de resultados de los proyectos de estudio o de investigación que se realicen en materia acuícola.\n2. Ninguna autoridad, ni persona física o jurídica podrá divulgar, por ningún medio, los resultados del proyecto de fomento o programa de estudio sin la previa autorización del permisionario. A dicha información se le dará el trato confidencial que establece el capítulo VI de la Ley de la Propiedad Industrial, con las correspondientes obligaciones y responsabilidades, sin perjuicio de la aplicación de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "1. Los permisionarios para la acuacultura de fomento y didáctica podrán comercializar los recursos acuícolas obtenidos, siempre que el producto de la venta se aplique al desarrollo de programas de investigación, exploración, experimentación, conservación y evaluación de dichos recursos o de proyectos de enseñanza o capacitación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "1. Los permisos para la acuacultura comercial tendrán una vigencia de cinco años y podrán ser revalidados observando lo dispuesto por el artículo 74 de esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "1. La vigencia de los permisos para la acuacultura de fomento y didáctica será por el tiempo de realización del proyecto de fomento o programa de estudio para el que se hubieren solicitado.\n2. Los permisionarios para la acuacultura de fomento y didáctica podrán solicitar a la Secretaría la modificación de la vigencia del permiso, debiendo justificar las causas que la generen. La Secretaría resolverá tomando en cuenta lo manifestado por quien lo solicite.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "1. Los permisionarios para la acuacultura comercial, de fomento y didáctica que pretendan realizar obras nuevas o actos que modifiquen las condiciones de operación de una granja o establecimiento acuícola, deberán solicitar la autorización previa de la Secretaría, en los términos que se establecen en el artículo 76 de esta ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Actividades de Siembra y Cosecha de Recursos Acuícolas",
+        "Artículos": [
+          {
+            "Artículo": 88,
+            "Texto": "1. Los permisionarios para la acuacultura comercial, de fomento y didáctica podrán sembrar en sus granjas o establecimientos acuícolas especies de recursos hidrobiológicos, dando el informe correspondiente a la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 89,
+            "Texto": "1. Los permisionarios que siembren y cosechen especies pesqueras o acuícolas, deberán presentar a la Secretaría, dentro de los diez primeros días de cada mes, un informe de la siembra y otro de la cosecha del mes inmediato anterior al en que se haya realizado la actividad correspondiente.\n2. Dichos informes deberán contener:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El de siembra:\na) Nombre o razón social del permisionario;\nb) Número de permiso de operación;\n\nSuperficie sembrada;\nj) Número de jaulas o estanques sembrados;\nk) Programa calendarizado de siembras;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Nombre y firma del permisionario o de su representante legal;\n\nNombre y firma del permisionario o de su representante legal;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Recursos acuícolas sembrados;\ne) Fase de desarrollo;\nf) Cantidad de los recursos acuícolas sembrados;\ng) Nombre del laboratorio o de la instalación de procedencia de los organismos;\nh) Densidad de siembra;\n\nTipo de cosecha;\ne) Técnica de cosecha;\nf) Volúmenes de cosecha;\ng) Motivo de la cosecha por talla, precio, biomasa y/o enfermedad; y\nh) En caso de enfermedad, especificar el tipo de ésta, el porcentaje de mortalidad, el tratamiento que se utilizó para combatirla y la duración del mismo."
+              },
+              {
+                "Fracción": "L",
+                "Texto": "Copia del certificado de sanidad acuícola de los recursos acuícolas sembrados y diagnóstico de los laboratorios autorizados, validado con el sello del Comité de Sanidad;"
+              },
+              {
+                "Fracción": "M",
+                "Texto": "Copia del certificado de sanidad de origen cuando los recursos acuícolas provengan del extranjero; y\nn) Constancia del Comité de Sanidad que avale el cumplimiento de medidas sanitarias."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El de cosecha:\na) Nombre o razón social del permisionario;\nb) Número del permiso para la acuacultura;"
+              }
+            ]
+          },
+          {
+            "Artículo": 90,
+            "Texto": "1. Los permisionarios deberán aplicar en los cultivos acuícolas, cualquiera que sea la especie, alimentos libres de agentes contaminantes y que su composición conlleve a un producto acuícola inocuo para el consumo humano.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "1. Para determinar los periodos de siembra y de cosecha, la Secretaría tomará en cuenta los aspectos de sanidad, climatológicos, de mercado, tecnológicos y los demás que beneficien a la acuacultura, pudiendo para ese efecto consultar al Comité de Sanidad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI Introducción o Repoblación de Especies Vivas Existentes",
+        "Artículos": [
+          {
+            "Artículo": 92,
+            "Texto": "1. La Secretaría, conforme a la normatividad ambiental vigente, otorgará permisos para la introducción o repoblación de especies vivas existentes en los cuerpos de agua dulce continental, para lo cual las personas interesadas deberán presentar la solicitud respectiva, con los datos y documentación señalados en las fracciones I, II, III, IV, V, VI, VII, IX y X del artículo 82 de esta ley, anexando la información siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La fase de desarrollo de las especies vivas a introducir;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La cantidad y procedencia de las especies vivas, indicando la ubicación donde hubieren sido capturadas o, en su caso, el nombre del establecimiento acuícola donde se produjeron;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El programa calendarizado de la introducción o repoblación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Nombre y ubicación de la zona donde se pretenda introducir las especies vivas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El certificado de sanidad acuícola expedido por la autoridad competente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Tratándose de especies vivas que no existan en el cuerpo de agua dulce continental al que se introducirán, además de los requisitos establecidos en las fracciones I a V de este artículo, y autorización de la Procuraduría Federal de Protección al Ambiente, un estudio técnico de la biología y hábitos de las especies vivas que se pretenda introducir, en el que también se haga constar que el genoma de éstas no alterará el de las especies nativas que habitan dicho cuerpo de agua y que no afectarán en modo alguno a los recursos hidrobiológicos; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las especies vivas de importación, previendo la manera en que puedan afectar el equilibrio del medio ambiente, deberán estar sujetas a la aprobación de las autoridades ambientales tanto federales como estatales, además de cubrir los requisitos previstos en las fracciones I a V de este artículo, un estudio con bibliografía de los antecedentes de parásitos y enfermedades detectadas en el área de origen o de procedencia y su historial genético, así como acreditar el cumplimiento de los requisitos establecidos en la Ley General, su reglamento y las normas oficiales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 93,
+            "Texto": "1. La Secretaría tendrá un plazo de veinte días hábiles contados a partir de la presentación de la solicitud para integrar el expediente respectivo y, una vez integrado éste, emitirá su resolución dentro de los siguientes cinco días hábiles.\n2. Si la persona interesada fue omisa en la información o documentación a presentar para obtener el permiso, la Secretaría procederá de conformidad con lo dispuesto en el artículo 70 de esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "1. El permiso tendrá una vigencia de acuerdo con el programa calendarizado de la introducción o repoblación manifestado en la solicitud respectiva.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII La Acuariofilia",
+        "Artículos": [
+          {
+            "Artículo": 95,
+            "Texto": "1. Se promoverá la producción de recursos hidrobiológicos ornamentales en ambientes controlados, a fin de reducir la alta tasa de mortalidad durante el periodo transcurrido desde su captura en el medio natural hasta llegar a los establecimientos de comercialización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "1. No podrán ser extraídos ni comercializados con fines ornamentales, los alevines y juveniles de recursos hidrobiológicos provenientes del medio natural que pertenezcan a las especies destinadas a la explotación para consumo humano.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 97,
+            "Texto": "1. Conforme al artículo anterior, las especies destinadas para consumo humano solo podrán ser comercializadas con fines ornamentales cuando provengan de centros de cultivo acuícola autorizados por las autoridades competentes, y posteriormente no podrán ser destinadas al consumo humano.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 98,
+            "Texto": "1. Las operaciones de extracción conllevarán de manera obligatoria acciones para asegurar la supervivencia de las especies ornamentales desde el momento de su captura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 99,
+            "Texto": "1. La comercialización de recursos hidrobiológicos ornamentales comprende todas las operaciones comerciales que se realizan con los ejemplares capturados, desde la zona de su extracción hasta su destino final.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 100,
+            "Texto": "1. Toda persona física o jurídica que se dedique a la extracción, comercialización y operación de acuarios comerciales y granjas dedicadas a la cría y reproducción de recursos hidrobiológicos ornamentales, está obligada a cumplir con lo dispuesto en esta ley, su reglamento, y la normatividad vigente en la materia y a llevar una bitácora, la cual deberá contar con un registro de todos los movimientos y medidas sanitarias que aplica tal como se establece en la fracción VIII del artículo 82 del capítulo de acuacultura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 101,
+            "Texto": "1. La comercialización de especies ornamentales producto de la acuacultura, tanto en época de pesca libre como en época de veda, sólo será permitida si provienen de criaderos ornamentales debidamente autorizados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 102,
+            "Texto": "1. Toda persona física o jurídica dedicada a la venta de recursos hidrobiológicos ornamentales, tendrá la obligación de informar por escrito utilizando como medio un manual del usuario que contenga información detallada para las personas interesadas en adquirir dichas especies, sobre los riesgos y las consecuencias de que dichas especies llegasen a ser liberadas en aguas ajenas a su hábitat natural y el riesgo potencial que representan para los ecosistemas y las especies nativas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 103,
+            "Texto": "1.Toda persona física o jurídica, dedicada a la extracción del medio natural y comercialización de recursos hidrobiológicos ornamentales, queda obligada a inscribirse en el Registro, obteniendo como único medio de identificación para realizar su actividad la Credencial Única Agroalimentaria, así como a permitir la inspección y control de sus actividades, quedando obligada a proporcionar datos estadísticos exactos a los representantes autorizados de la autoridad competente a efecto de mantener actualizada la Carta Estatal Acuícola y Pesquera.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 104,
+            "Texto": "1. Las personas físicas o jurídicas dedicadas a la captura del medio natural, a la reproducción y el cultivo de recursos hidrobiológicos ornamentales en medios controlados, así como aquellas que se dediquen a la comercialización de los mismos, se sujetarán a lo establecido en la Ley General, en la presente ley, las normas y leyes ambientales y la normatividad vigente para la acuacultura y la pesca.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 105,
+            "Texto": "1. Toda persona física o jurídica dedicada al cultivo, captura o comercio de recursos hidrobiológicos ornamentales, deberá estar registrada en el Registro y obtener su Credencial Única Agroalimentaria.\n2. Dicho registro deberá realizarse dentro de los ciento veinte días naturales a partir de haber iniciado operaciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Los permisos",
+        "Artículos": [
+          {
+            "Artículo": 106,
+            "Texto": "1. La Secretaría podrá otorgar permisos para la realización de las actividades pesqueras y conexas previstas en esta ley, cuando éstas se realicen en aquellas aguas que mediante convenio o acuerdo de las autoridades federales competentes, le transfieran atribuciones en los términos de las leyes federales en la materia, previo cumplimiento que hagan las personas interesadas de los requisitos establecidos en la misma y conforme a lo dispuesto en los planes de manejo pesquero, según corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 107,
+            "Texto": "1. Se requiere permiso para la realización de las siguientes actividades de pesca:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Comercial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "De fomento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Didáctica;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Deportivo-recreativa; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La instalación de artes de pesca fijas en cualquier cuerpo de agua de jurisdicción estatal o que le haya sido otorgado en concesión.\n2. Los permisos que otorgue la Secretaría serán personales e intransferibles, y no podrá constituirse sobre ellos ningún tipo de gravamen."
+              }
+            ]
+          },
+          {
+            "Artículo": 108,
+            "Texto": "1. Para la obtención de los permisos a que se refiere el presente título, las personas interesadas deberán presentar ante la Secretaría, en el formato proporcionado por éste, la solicitud correspondiente, en original y copia, debiendo contener los datos que la Secretaría acuerde, suficientes para acreditar personalidad e interés jurídico, así como los demás datos específicos que establezcan la Ley General, esta ley y los reglamentos\n2. La Secretaría pondrá a disposición de las personas interesadas los formatos de solicitud en sus oficinas y en su página electrónica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 109,
+            "Texto": "1. La Secretaría podrá realizar diligencias para el conocimiento de los hechos implicados en los requisitos para la obtención y, en su caso, la revalidación de los permisos a que se refiere el presente título, así como visitas de inspección a las personas interesadas para verificar que los datos asentados en las solicitudes respectivas cumplan con las disposiciones legales y técnicas establecidas en la presente ley y su reglamento y en los planes de manejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 110,
+            "Texto": "1. La Secretaría resolverá las solicitudes de permiso dentro de un plazo máximo de treinta días hábiles contados a partir de la fecha en que quede debidamente integrado el expediente respectivo; las solicitudes de permiso para la pesca deportiva se les dará resolución en un plazo de siete días hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 111,
+            "Texto": "1. Cuando en la presentación de la solicitud se omitan información o algunos de los requisitos establecidos en las disposiciones aplicables, la Secretaría requerirá a la persona interesada dentro de los cinco días hábiles siguientes a la recepción de la solicitud para que, en un término de cinco días hábiles, posteriores al requerimiento, subsane la omisión o cumpla con los requisitos faltantes. Si la persona interesada no atiende el requerimiento dentro del término señalado, la Secretaría tendrá por no presentada la solicitud.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 112,
+            "Texto": "1. En caso de que la Secretaría omita dar a conocer la persona interesada la resolución de su solicitud en el tiempo estipulado en esta ley, se entenderá que el permiso es susceptible de otorgarse, para lo cual bastará que quien solicitó presente un escrito manifestando, si así lo fuere, que ha cumplido con todos los requisitos para que\nse le otorgue; lo anterior deberá ocurrir en un término no mayor a treinta días hábiles, contados a partir de la fecha de término para que la autoridad emitiera la resolución correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 113,
+            "Texto": "1. La falta de resolución a cualquier solicitud para la acuacultura, implicará responsabilidad para las y los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario o funcionaria responsable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 114,
+            "Texto": "1. Los permisos que otorgue la Secretaría deberán contener:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Número de permiso;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Nombre o razón social del titular;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ubicación del lugar en el que se realizará la actividad pesquera;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Nombres común y científico del recurso pesquero a capturar o que será objeto de fomento, estudio o investigación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Volumen de captura y, en su caso, talla mínima del recurso;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Número de serie que asigne la Secretaría a las embarcaciones con las que se realizará la pesca comercial, de fomento o didáctica;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Equipos, artes de pesca y métodos a utilizar para la actividad. Se especificarán únicamente las artes de pesca tratándose de la pesca deportivo-recreativa;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Vigencia del permiso; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Los demás datos específicos que se establezcan en el reglamento de esta ley.\n2. Tratándose de la pesca deportivo-recreativa, se indicará el número de folio."
+              }
+            ]
+          },
+          {
+            "Artículo": 115,
+            "Texto": "1. Las personas físicas o jurídicas que cuenten con permisos para las actividades a que se refiere el presente\ntítulo, podrán solicitar a la Secretaría la revalidación de los mismos, mediante la presentación de la solicitud respectiva con treinta días de anticipación a la fecha de vencimiento del permiso, en la que se deberá contener la manifestación de la persona interesada, bajo protesta de decir verdad, de que las condiciones originales de infraestructura, técnicas y operativas bajo las que se otorgó el permiso no han sido modificadas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 116,
+            "Texto": "1. Se entenderán por modificaciones a las condiciones originales de infraestructura, técnicas y operativas, los cambios que se establecen en el reglamento de esta ley que se hagan a las instalaciones dedicadas a la actividad pesquera o acuícola.\n2. La Secretaría podrá verificar la certeza de lo manifestado en la solicitud y resolverá en un término de quince días hábiles posteriores a la fecha de su recepción, siempre que permanezcan las condiciones que generaron el otorgamiento del permiso.\n3. En caso de que la Secretaría omita dar a conocer a la persona interesada la resolución de su solicitud dentro del término establecido en este artículo, se entenderá que la revalidación fue otorgada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 117,
+            "Texto": "1. Las resoluciones recaídas a las solicitudes de revalidación serán puestas a disposición de quien lo solicitó en un plazo no mayor de cinco días hábiles, a excepción de las relativas a la revalidación de permisos de pesca deportivo-recreativa, las que se entregarán personalmente a las personas interesadas de forma inmediata.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 118,
+            "Texto": "1. Los permisionarios que pretendan realizar modificaciones a las instalaciones dedicadas a actividades de pesca o acuacultura deberán contar con la autorización previa de la Secretaría, misma que deberán solicitar con treinta días hábiles de anticipación al inicio de la modificación que se pretenda, en los formatos que se expidan para el efecto y conforme a lo dispuesto en el reglamento de esta ley.\n2. La Secretaría calificará las solicitudes; constatará que los permisionarios acrediten los hechos que justifican la o las modificaciones respectivas y que cumplen con las disposiciones relativas de esta ley, y emitirá la resolución correspondiente dentro de los quince días hábiles posteriores a la recepción de la solicitud.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 119,
+            "Texto": "1. Los permisos a que se refiere este título deberán otorgarse a las personas físicas o jurídicas de nacionalidad mexicana, extranjeros que cumplan con los requisitos de calidad migratoria correspondientes para ejercer la actividad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 120,
+            "Texto": "1. Se exceptúa del artículo anterior a las personas interesadas en obtener permisos para la pesca deportivorecreativa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 121,
+            "Texto": "1. Los permisos para la pesca deportivo-recreativa sólo se otorgarán a personas físicas.\n2. La Secretaría inscribirá en el Registro los permisos que otorgue en los términos de la presente Ley, así como la información de la Credencial Única Agroalimentaria otorgada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 122,
+            "Texto": "1. No se requiere permiso de la Secretaría para realizar la pesca destinada al consumo doméstico.\n2. Se entiende por pesca de consumo doméstico la captura o extracción que se efectúa en las riberas y en las costas con el único objeto de obtener alimento para quien la realiza o para sus dependientes económicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 123,
+            "Texto": "1.Las personas que practiquen la pesca de consumo doméstico deberán apegarse a lo establecido en la presente ley, en su reglamento y en la normatividad vigente, debiendo utilizar sólo artes de pesca permitidas y sujetarse al volumen de extracción que se establezca para esta práctica, así como las tallas permitidas según la especie objeto de captura y respetar a las especies en veda o protegidas, y no podrán disponer del producto extraído para su comercialización; en caso de contravenir lo anteriormente expuesto, se aplicarán las sanciones que al efecto se establecen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 124,
+            "Texto": "1. Todos los productos pesqueros extraídos de talla o peso inferior a lo especificado en el reglamento o especies consideradas como protegidas o amenazadas, no podrán retenerse a bordo de las embarcaciones ni conservarse, debiendo devolverse de manera inmediata a las aguas de su procedencia tras su captura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 125,
+            "Texto": "1. Queda prohibida la tenencia, transporte, tránsito, almacenamiento, transformación, exposición y comercialización de los productos pesqueros, cualquiera que sea el origen de su procedencia, cuya talla o peso sea inferior a lo especificado en el reglamento de esta ley y la normatividad vigente, así como de aquellas especies que se encuentren en veda o protegidas o que su modo de obtención no haya sido conforme a lo establecido para las especies en cuestión o con la utilización de artes de pesca prohibidas, a excepción de aquellos supuestos en que pueda acreditarse la legal procedencia autorizada de centros acuícolas legalmente establecidos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 126,
+            "Texto": "1. Queda prohibida la venta de productos pesqueros procedentes de la pesca no comercial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 127,
+            "Texto": "1. Para efectos de proteger y conservar los recursos naturales marinos y de agua dulce, la extracción de flora, corales, fósiles y fauna, en especial crustáceos, moluscos, reptiles y anfibios, requerirá la autorización y permiso de la Secretaría en los términos establecidos en la fracción II, del artículo 11 de la Ley General.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Permisos para la Pesca Comercial",
+        "Artículos": [
+          {
+            "Artículo": 128,
+            "Texto": "1. Para obtener un permiso de pesca comercial las personas interesadas deberán presentar ante la Secretaría, la solicitud respectiva con los datos y documentación a que se refiere el artículo 108 de esta ley, y adicionalmente presentarán la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los métodos a utilizar en la captura; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tratándose de personas jurídicas, nombre de quien operará la embarcación."
+              }
+            ]
+          },
+          {
+            "Artículo": 129,
+            "Texto": "1. Para el otorgamiento de los permisos para pesca comercial la Secretaría tomará en cuenta las modalidades que dicte el interés público y condicionará su expedición a la disponibilidad y preservación del recurso de que se trate, basándose en criterios de equidad social y en la información científica disponible de dicho recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 130,
+            "Texto": "1. La captura incidental no podrá exceder el volumen que fije la Secretaría en el Plan de Manejo Pesquero. El producto de la captura incidental no podrá ser objeto de comercialización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 131,
+            "Texto": "1. Son obligaciones de los permisionarios de pesca comercial las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Portar a bordo de la embarcación el permiso o copia certificada de éste y una identificación oficial, durante la actividad de pesca;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tratándose de personas jurídicas, inscribir en el Registro el padrón de sus operadores de embarcaciones y dar aviso de las modificaciones que dicho padrón tuviere, a efecto de que la Secretaría lo mantenga actualizado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presentar el aviso de arribo ante la Secretaría. Si el permisionario es una persona jurídica, el operador de la embarcación lo presentará a nombre de ésta;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cumplir con las especificaciones contenidas en el plan de manejo y en el permiso respectivo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Informar directamente a la Secretaría, dentro del término de veinticuatro horas, de cualquier emergencia de carácter sanitario que se presente durante la pesca;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Utilizar sólo las artes de pesca permitidas para la especie objeto de captura;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Respetar las épocas y zonas de veda;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Participar en los programas de repoblación de los recursos pesqueros cuando lo determine la Secretaría; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás que se establezcan en esta ley y en las demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 132,
+            "Texto": "1. La vigencia de los permisos de pesca comercial será de dos años. La Secretaría podrá revalidarlos de conformidad con lo dispuesto en el presente título.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Permisos para la Pesca de Fomento y Didáctica",
+        "Artículos": [
+          {
+            "Artículo": 133,
+            "Texto": "1. La Secretaría podrá otorgar permisos para pesca de fomento a las instituciones de investigación científica y de docencia, así como a las personas físicas dedicadas a actividades científicas o técnicas en materia de pesca, y permisos para pesca didáctica a las instituciones de docencia y personas físicas que desarrollen programas de enseñanza en dicha materia.\n2. Además de la solicitud con los datos y documentación previstos en el artículo 108 de esta ley, las personas interesadas en obtener permisos para realizar pesca de fomento o didáctica deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar una definición específica y descripción detallada del proyecto de fomento o programa de investigación, capacitación o enseñanza, según sea el caso, incluyendo la información que establezca el reglamento de esta ley; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tratándose de personas físicas, acreditar su capacidad científica o técnica de conformidad con lo dispuesto en el reglamento de esta ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 134,
+            "Texto": "1. Son obligaciones de los permisionarios para la pesca de fomento y didáctica:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Portar a bordo de la embarcación el permiso o copia certificada del mismo y una identificación oficial durante la actividad de pesca;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presentar el aviso de arribo ante la Secretaría;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cumplir con las especificaciones contenidas en el permiso;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cumplir con las disposiciones contenidas en los planes de manejo pesquero;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Al concluir el proyecto o programa, presentar por escrito a la Secretaría un informe de los resultados del mismo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que se establezcan en esta ley y en las demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 135,
+            "Texto": "1. Los permisionarios referidos en esta sección podrán comercializar los recursos pesqueros obtenidos, siempre que el producto de la venta se aplique al desarrollo de programas de investigación, exploración, experimentación, conservación y evaluación de los recursos pesqueros o de proyectos de enseñanza o capacitación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 136,
+            "Texto": "1. La vigencia de los permisos para la pesca de fomento y didáctica será por el tiempo de realización del proyecto de fomento o programa de estudio para el que se hubieren solicitado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 137,
+            "Texto": "1. Ninguna autoridad o persona física o jurídica, que tenga acceso a información a que se refiere este capítulo, deberá divulgar o transferir, por ningún medio, los datos y resultados obtenidos en proyectos de fomento o investigación y programas de estudio, sin la autorización previa del permisionario; de hacerlo, será responsable de resarcir los daños y perjuicios a que se refieren la Ley de la Propiedad Industrial y la legislación civil aplicable, así como de los delitos que la legislación penal aplicable tipifique.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Permisos para la Pesca Deportivo-Recreativa",
+        "Artículos": [
+          {
+            "Artículo": 138,
+            "Texto": "1. La Secretaría podrá celebrar convenios o acuerdos de coordinación con la SADER y los municipios para la administración de los permisos para la realización de pesca deportivo-recreativa. Para tales efectos, reconocerá los permisos expedidos por la autoridad federal.\n2. Las personas interesadas en obtener un permiso para realizar la pesca deportivo-recreativa deberán presentar ante la Secretaría la solicitud respectiva en el formato que para tal efecto se expida, acompañándola de una identificación oficial de quien lo solicita.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 139,
+            "Texto": "1. Son obligaciones del permisionario:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Portar el permiso y una identificación oficial durante la actividad de pesca;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cumplir con las especificaciones contenidas en el permiso; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demás que se establezcan en esta ley y en las demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 140,
+            "Texto": "1. Los permisos de pesca deportivo-recreativa tendrán una vigencia desde un día hasta un año, conforme a lo establecido en el reglamento de esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 141,
+            "Texto": "1. La Secretaría podrá promover y autorizar a cualquier persona física o jurídica que lo solicite, torneos de pesca deportiva. Las personas interesadas en participar en dichos torneos solicitarán a la Secretaría el permiso correspondiente, informándole el nombre y domicilio del organizador; fecha y hora de inicio y de clausura; las bases, categorías y modalidades del torneo, así como el área de pesca en la que se pretende realizar. La Secretaría otorgará el número de permisos de acuerdo con la disponibilidad del recurso a pescar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 142,
+            "Texto": "1. Quienes realicen pesca deportivo-recreativa no deberán comercializar los recursos pesqueros capturados al amparo del permiso correspondiente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Fomento a la Pesca Deportiva",
+        "Artículos": [
+          {
+            "Artículo": 143,
+            "Texto": "1. En materia de pesca deportivo-recreativa derivada de la Ley General, la Secretaría impulsará y fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias competentes y sectores interesados:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promoverá la construcción de la infraestructura necesaria para esta actividad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dispondrá las medidas de conservación y protección necesarias;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promoverá y autorizará torneos de pesca deportivo-recreativa;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Propiciará la celebración de convenios con organizaciones y prestadores de servicios, para que las y los pescadores deportivos protejan las especies;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promoverá la celebración de acuerdos con organizaciones y particulares para facilitar la obtención de los permisos que se requieran para la pesca deportivo-recreativa; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecerá el pago de los derechos correspondientes.\n2. Asimismo, le corresponderá la administración de los permisos para la realización de pesca deportivorecreativa, conforme se determine en los convenios o acuerdos de coordinación entre el Estado y la Federación."
+              }
+            ]
+          },
+          {
+            "Artículo": 144,
+            "Texto": "1. La captura incidental estará limitada y no podrá exceder del volumen que determine la Secretaría, para cada pesquería, según las zonas, épocas y artes de pesca, de conformidad con lo que establecen la presente ley y las demás disposiciones que de ella se deriven. Los excedentes de los volúmenes de captura incidental que determine dicha autoridad en tales disposiciones, serán considerados como pesca realizada sin concesión o permiso.\n2. El aprovechamiento de los productos pesqueros obtenidos en la captura incidental se sujetará a las normas oficiales que al efecto se expidan, salvo lo previsto en esta ley para la pesca deportivo-recreativa.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 145,
+            "Texto": "1. La legal procedencia de los recursos pesqueros o acuícolas se acreditará con los siguientes documentos, según corresponda:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El aviso de arribo presentado a la autoridad competente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El permiso de pesca deportivo-recreativa expedido por la autoridad competente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El permiso de cosecha;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La guía de pesca o aviso de producción expedido por la autoridad federal competente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El informe de cosecha presentado a la Secretaría; o"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La factura expedida por la adquisición, en la que se señale el número de permiso o informe de cosecha, de la guía de pesca o del aviso de producción que dio origen al recurso producto de la venta."
+              }
+            ]
+          },
+          {
+            "Artículo": 146,
+            "Texto": "1. El traslado de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados sólo podrá realizarse al amparo de la guía de tránsito que para dicho efecto expida la Secretaría, para lo cual deberán exhibirse los documentos que acrediten la legal procedencia del o de los recursos de que se trate, además de certificado de sanidad acuícola cuando se requiera y constancia de verificación sanitaria y, en su caso, las demás autorizaciones y certificaciones que en materia pesquera y acuícola se exijan por las leyes y reglamentos federales.\n2. Se exceptúan del requisito de tramitar la guía de tránsito los permisionarios de la pesca deportivo-recreativa, quienes deberán portar para ello únicamente el permiso respectivo que ampara la legal procedencia de los mismos.\n3. Tampoco requerirán de guía de tránsito quienes trasladen los productos que hayan capturado para su consumo doméstico o el de sus dependientes económicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 147,
+            "Texto": "1. Para obtener la guía de tránsito la persona interesada deberá presentar el formato de solicitud que para el efecto expida la Secretaría, debiendo contener los datos que la Secretaría acuerde, suficientes para acreditar personalidad e interés jurídico, así como los demás datos específicos que establezcan la Ley General, esta ley y los reglamentos aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 148,
+            "Texto": "1. Recibida la solicitud y cumplidos los requisitos contemplados en el artículo anterior, la Secretaría expedirá en un plazo máximo de tres días hábiles la guía de tránsito.\n2. Las guías de tránsito tendrán una vigencia de hasta treinta días hábiles.\n3. El porteador deberá exhibir la guía de tránsito cuando le sea requerida en los puntos de verificación a que se refiere esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 149,
+            "Texto": "1. Los establecimientos instalados en el estado en los que se desarrollen, cultiven o procesen productos destinados a la actividad acuícola, deberán identificar y comprobar el origen de los recursos acuícolas y contarán con el certificado de sanidad acuícola o el certificado de sanidad de origen respectivo, según corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 150,
+            "Texto": "1. En la internación o salida del estado de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados deberá contarse con la autorización que previamente expida la Secretaría y, además, la movilización deberá ampararse con la guía de tránsito emitida por la misma y con la documentación sanitaria correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 151,
+            "Texto": "1. Para obtener la autorización a que se refiere el artículo anterior, quien introduzca deberán presentar la solicitud correspondiente ante la Secretaría, en los formatos que se expidan para el efecto, debiendo contener los datos que la Secretaría acuerde, suficientes para acreditar personalidad e interés jurídico, así como los demás datos específicos que establezcan la Ley General, esta ley y los reglamentos aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 152,
+            "Texto": "1. La Secretaría, para expedir las autorizaciones de internación al estado de productos pesqueros o acuícolas, tomará en consideración, fundamentalmente, la situación sanitaria del lugar de origen de éstos y las condiciones que los mismos presenten, así como los reconocimientos nacionales o internacionales obtenidos en materia sanitaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 153,
+            "Texto": "1. En las internaciones de recursos pesqueros y acuícolas, el o la titular de la autorización, en los puntos de entrada del estado, deberá cumplir con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Exhibir la autorización;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acreditar que los recursos que se pretende introducir son los referidos en la autorización;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presentar los certificados de sanidad o documentos equivalentes que acrediten la sanidad de los productos a internar, así como la documentación de movilización del lugar de origen; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "En general, acreditar el cumplimiento de las condiciones establecidas en la autorización."
+              }
+            ]
+          },
+          {
+            "Artículo": 154,
+            "Texto": "1. La Secretaría realizará acciones que tiendan a detectar enfermedades que representen un riesgo para la sanidad en la internación o movilización de recursos pesqueros o acuícolas vivos, productos, subproductos o insumos, equipos, materiales de empaque y embalaje destinados a la actividad pesquera o acuícola, y verificar que éstos se encuentren libres de agentes patógenos o contaminantes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 155,
+            "Texto": "1. La formulación de los programas de investigación científica y tecnológica queda a cargo de la Secretaría. Los programas se desarrollarán, en lo relativo a las actividades pesqueras, con base en la evaluación de las principales pesquerías con el objeto de determinar el estado de explotación en que se encuentran los recursos hidrobiológicos y las pesquerías asociadas, considerando los aspectos biológicos, pesqueros, sociales, económicos y ambientales; en lo concerniente a la acuacultura, los programas se orientarán a las investigaciones que permitan determinar las condiciones en que deban realizarse los cultivos de especies hidrobiológicas para obtener un óptimo rendimiento, y en equilibrio con el ecosistema.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 156,
+            "Texto": "1. La Secretaría para poder cumplir con los objetivos de investigación científica y tecnológica en materia de acuacultura y pesca contará, entre otras, con las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impulsar y realizar investigación científica y tecnológica para el desarrollo integral de la acuacultura y la pesca en el estado de Jalisco, con el objeto de vincular sus resultados con los sectores productivo y académico, así como para promover y fomentar la conservación de las especies nativas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Definir los criterios en los que se basará el Gobierno del Estado para impulsar y fortalecer las actividades científicas y tecnológicas en materia de acuacultura y pesca;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dar asesoría científica y tecnológica en la materia a los ayuntamientos del estado, así como a las personas físicas o jurídicas que así lo soliciten, para conservar, rescatar, repoblar, fomentar, cultivar y desarrollar especies pesqueras y acuícolas, así como difundir y aplicar nuevos métodos y técnicas de cultivo, captura, procesamiento de productos acuícolas y pesqueros en las condiciones que en cada caso se pacten;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Prestar servicios de investigación, desarrollo y transferencia de tecnología en el ámbito de la acuacultura y la pesca, con el objeto de contribuir a la modernización, competitividad y desarrollo de este sector;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar la creación de parques acuícolas en áreas concesionadas en las zonas federales marítimo terrestres, previo trámite de destino ante la autoridad federal competente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Celebrar y concertar convenios y acuerdos con instituciones y organismos públicos y privados, tanto nacionales como extranjeros, en materia de investigación y desarrollo tecnológico, así como para la transferencia de tecnología para el desarrollo de la acuacultura y la pesca;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Emitir opinión de carácter técnico y científico, para la administración y conservación de los recursos pesqueros y acuícolas y en aquellas materias de su competencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Coordinar la integración y funcionamiento de la Red Estatal de Información e Investigación en Acuacultura y Pesca;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Coadyuvar en la realización de los análisis de riesgo sobre la introducción, establecimiento y diseminación de plagas y enfermedades acuícolas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover los estudios técnicos y el desarrollo de la acuacultura de especies nativas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Difundir sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse conforme a la ley de la materia;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Elaborar los planes de manejo de las actividades pesqueras y acuícolas por recurso, con base en lo establecido en esta ley y sus reglamentos;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Instalar, administrar y operar centros para la reproducción y cría de recursos hidrobiológicos, en aquellos lugares del territorio del estado que se consideren apropiados por su viabilidad ecológica, técnica y económica;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Fomentar el uso, aprovechamiento y protección de la propiedad industrial en beneficio del desarrollo tecnológico del sector, así como brindar apoyo y asesoría a los proyectos de investigación que sean susceptibles de registro ante el Instituto Mexicano de la Propiedad Industrial, conforme a la Ley de la Propiedad Industrial;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Establecer convenios con el Instituto Mexicano de la Propiedad Industrial, y otros organismos del sector de la propiedad industrial, nacionales o internacionales, con el objeto de facilitar e incentivar el uso, desarrollo y protección de tecnologías que favorezcan las actividades del sector acuícola y pesquero;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Apoyar a las instituciones educativas afines, mediante la impartición de cursos, seminarios y prácticas en las instalaciones a su cargo, así como proponer acciones de concertación para lograr la formación y capacitación de los recursos humanos indispensables para el desarrollo de las actividades acuícolas y pesqueras en apoyo de las instituciones educativas; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las demás que expresamente le atribuyan esta ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven y las leyes y reglamentos correspondientes que se vinculen con el ámbito de la pesca y la acuacultura."
+              }
+            ]
+          },
+          {
+            "Artículo": 157,
+            "Texto": "1. La Secretaría impulsará el desarrollo de tecnologías para la cría de las diferentes especies de interés acuícola y pesquero, para preservar, mejorar e impulsar la disponibilidad de los recursos pesqueros y acuaculturales enfocados a la generación de empleos, producción de alimentos y establecer acciones regionales encaminadas al aprovechamiento sustentable de los recursos naturales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 158,
+            "Texto": "1. La Secretaría dentro de sus labores de investigación establecerá acciones para impulsar el desarrollo de tecnologías para el cultivo de especies acuícolas de alto rendimiento e interés comercial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 159,
+            "Texto": "1. La Secretaría contará con un Comité Asesor Técnico y Científico, que estará integrado por el titular del Instituto, quien lo presidirá, un Coordinador General y por representantes del Sistema Estatal, instituciones e investigadores independientes dedicados al estudio de materias afines o complementarias.\n2. El Comité Asesor Técnico Científico se integrará, organizará y funcionará en los términos que señale el reglamento que para tal efecto se dicte.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 160,
+            "Texto": "1. Para fomentar la integración del sector acuícola y pesquero dentro de los programas a desarrollar por el Ejecutivo del Estado, la Secretaría podrá contar con el Fondo Estatal de Acuacultura y Pesca. El Fondo será el instrumento para promover la operación de esquemas de financiamiento para la conservación, incremento y aprovechamiento sustentable de los recursos pesqueros y acuícolas, la investigación, el desarrollo y transferencia de tecnología, facilitando el acceso a los servicios financieros para la comunidad productiva del sector acuícola y pesquero.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 161,
+            "Texto": "1. El Fondo Estatal de Acuacultura y Pesca operará a través de un Comité Técnico, integrado por quien ejerza la titularidad de la Secretaría de Agricultura y Desarrollo Rural del Estado; una representación de la SADER, las y los titulares de la (sic) dependencias estatales que incidan en el sector y, en todo caso, una representación por municipio o municipios que estén conveniados.\n2. La existencia del fondo no limita la creación de diversos fondos privados o sociales que tengan una relación directa con el desarrollo del sector acuícola y pesquero.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 162,
+            "Texto": "1. El Fondo Estatal de Acuacultura y Pesca se constituirá, en su caso, con las aportaciones de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Gobierno federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La partida anual que, en su caso, se determine en el Presupuesto de Egresos de (sic) Gobierno del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los créditos que se obtengan a su favor por el sector público o privado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las que realicen los municipios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los apoyos de organismos nacionales e instituciones extranjeras;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los recursos obtenidos por la expedición de permisos otorgados por la Secretaría conforme a esta ley; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Otros recursos que determine el Ejecutivo del Estado.\n2. En el caso de las aportaciones provenientes de los gobiernos municipales, se ejercerá de acuerdo con lo establecido en el convenio respectivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 163,
+            "Texto": "1. El Gobierno del Estado de Jalisco y los municipios, en coordinación con la Federación, implementarán programas orientados al fomento en el consumo de productos pesqueros y acuícolas, aplicando los criterios de comercialización, nutrición, sanidad e inocuidad necesarios para llegar al consumidor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 164,
+            "Texto": "1. El Estado y los municipios impulsarán la integración de empresas de producción pesquera y de acuacultura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 165,
+            "Texto": "1. La Secretaría impulsará la elaboración de los estudios técnicos financieros, a fin de acreditar los apoyos indispensables para la protección, fomento e impulso del crecimiento de estas actividades estratégicas de la acuacultura y la pesca, relacionadas con los precios de los productos y servicios a cargo de instituciones desconcentradas a cargo del Gobierno federal cuya producción represente insumos básicos en estos procesos productivos.\n2. De igual manera, la Secretaría promoverá e impulsará el valor agregado a los diversos productos acuícolas y pesqueros, para su participación competitiva en los mercados nacionales e internacionales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 166,
+            "Texto": "1. Para los efectos de esta ley, las actividades pesqueras y acuícolas serán consideradas como esenciales de los planes parciales de desarrollo urbano, donde las autoridades competentes, estatales y municipales al autorizarlos deberán asegurar el respeto irrestricto a los lugares e instalaciones, edificaciones y estructuras de cualquier tipo donde se realicen dichas actividades, resultando de ello una vinculación armónica con las actividades económicas y de servicios que implican aquellos desarrollos urbanísticos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 167,
+            "Texto": "1. El Estado y los municipios, dentro de los ámbitos de su competencia podrán coordinarse con la Secretaría de Medio Ambiente y Recursos Naturales, la SADER y con otras dependencias federales competentes, como cabezas de sector, a efecto de proteger los recursos hidrobiológicos y naturales, evitando cualquier actividad o presencia de elementos que conduzcan al deterioro, alteración o degradación en zonas tales como el mar\nterritorial frente a las costas del estado, los sistemas lagunarios estuarinos, así como en las aguas que sirvan de límite a dos entidades federativas o que pasen de una a otra.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 168,
+            "Texto": "1. Para asegurar la protección de las especies sésiles y bentónicas, así como su conservación, recuperación y aprovechamiento sustentable, y en concordancia con la Política Nacional de Pesca y Acuacultura, conforme a lo establecido en los artículos 11 fracción II, 13, fracciones I, III, IX, XII y XVI, 15, 17, fracciones I, III, VII y VIII, 18 y 19 de la Ley General, queda prohibida toda actividad que tenga por objeto la extracción de recursos pesqueros utilizando aparejos, artefactos, equipos y técnicas de pesca, que se empleen deslizando o arrastrando sobre el lecho marino, retengan o remuevan los organismos que se encuentren a su paso y que alteren físicamente el fondo marino.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 169,
+            "Texto": "1. Hecha la declaratoria de las áreas o zonas mencionadas en los términos de las leyes federales, el Gobierno del Estado de Jalisco, en coordinación con las instancias federales y estatales competentes, así como con los municipios involucrados, establecerá un plan de manejo como instrumento de planeación para la realización de acciones a seguir a través de programas de manejo sustentable, para la conservación de los recursos naturales y biológicos en armonía con los aspectos sociales y económicos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 170,
+            "Texto": "1. Para vigilar, verificar y comprobar el cumplimiento de la ley, la Secretaría, mediante convenio con las autoridades federales y municipales, podrá realizar los actos de inspección y vigilancia, por conducto del personal debidamente autorizado y capacitado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 171,
+            "Texto": "1. En los municipios en que sus ayuntamientos celebren acuerdos de coordinación técnica y administrativa con los gobiernos federal y estatal para la transferencia de atribuciones, de conformidad con la Ley General y la presente ley, se considerará su participación en las actividades de inspección y vigilancia, en los términos que se establezcan en los acuerdos mencionados.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Las Infracciones",
+        "Artículos": [
+          {
+            "Artículo": 172,
+            "Texto": "1. Se consideran infracciones las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Infringir las disposiciones contenidas en los permisos y autorizaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Abstenerse de presentar los avisos de arribo y de producción, los informes de siembra y de cosecha, así como los informes de resultados de los proyectos de estudio o de investigación en materia pesquera o acuícola;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No contar con la constancia de verificación sanitaria de organismos destinados a la acuacultura;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Poner en riesgo, por cualquier medio, la sanidad de las especies hidrobiológicas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Omitir el establecimiento de infraestructura de verificación sanitaria dentro de las instalaciones que ocupen las granjas o establecimientos acuícolas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Incumplir con los requisitos y condiciones técnicas que establecen esta ley, su reglamento y la normatividad vigente, para la operación de unidades de cuarentena en los laboratorios de diagnóstico;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Impedir el acceso del personal autorizado y debidamente acreditado por la Secretaría a las instalaciones y granjas acuícolas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Falsificar o alterar los títulos que amparen los derechos de los permisos o autorizaciones;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Arrojar basura, residuos sólidos o líquidos, lavar objetos o vehículos en los cursos o masas de agua, o sus inmediaciones, donde no esté permitido hacerlo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dañar o destruir de manera deliberada e intencional los equipos y artes de pesca de otros pescadores, así como el robo del producto en artes de pesca fijas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Dañar, destruir, colocar indebidamente o quitar los signos, carteles o señales que indiquen el régimen piscícola de las aguas;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Comerciar con especies destinadas al consumo humano, protegidas o amenazadas, y no provenientes de establecimientos acuícolas autorizados, dentro del mercado de la acuariofilia;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Capturar especímenes vivos de su medio natural para su estabulación y comercialización, y no tomar las medidas necesarias para disminuir al máximo la mortalidad de organismos;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Comerciar con organismos vivos y no informar al comprador por escrito sobre los riesgos para el medio ambiente y las especies nativas de liberar a dichos organismos fuera de su hábitat natural;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Incumplir, pasado el término establecido, con su obligación de inscripción en el Registro y obtención de la Credencial Única Agroalimentaria;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Omitir información a la Secretaría sobre cualquier emergencia de carácter sanitario que se presente durante el desarrollo del cultivo o el proceso de cosecha; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Cualquiera otra contravención a lo dispuesto en la presente ley, su reglamento, los planes de manejo pesquero o acuícola, así como las disposiciones o normatividad vigentes aplicables al caso."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Las Sanciones",
+        "Artículos": [
+          {
+            "Artículo": 173,
+            "Texto": "1. Las infracciones a los preceptos de la presente ley, sus reglamentos, la normatividad vigente, disposiciones y los planes de manejo acuícola y pesquero señaladas en el artículo anterior, serán sancionadas administrativamente por la Secretaría con una o más de las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación con apercibimiento, siempre que el infractor o infractora no sea reincidente y no se trate de los supuestos previstos en las fracciones V, X, XII y XIII del artículo 172;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa, que será de diez a veinticinco mil veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con lo previsto por el artículo 186 de esta ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El aseguramiento de los recursos hidrobiológicos vivos, sus productos, subproductos y productos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo de dichos recursos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Clausura temporal o definitiva, total o parcial, de la instalación o instalaciones en las que se hayan cometido las infracciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El decomiso de las embarcaciones, vehículos, equipos en los que se contenga o exhiba el producto, las artes de pesca o captura y/o productos obtenidos de la acuacultura y la pesca directamente relacionados con las infracciones cometidas; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Suspensión o revocación de los permisos, concesiones y autorizaciones otorgados por la Secretaría."
+              }
+            ]
+          },
+          {
+            "Artículo": 174,
+            "Texto": "1. Las sanciones administrativas a que se refiere el artículo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental y civil que pudiera resultar o del cobro por las acciones técnicas y administrativas que tuviera que realizar la autoridad competente para volver a sus condiciones originales el sitio dañado, ajustándose a las leyes en la materia ambiental.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 175,
+            "Texto": "1. Para la imposición de las sanciones establecidas en la presente ley, la Secretaría deberá considerar:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La gravedad de la infracción;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La negligencia o intencionalidad del infractor o infractora;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los daños y perjuicios causados a la riqueza piscícola o a su hábitat o que se pudiera causar al medio ambiente y a terceros;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los antecedentes del infractor o infractora y las circunstancias de modo, tiempo y lugar de la infracción;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las condiciones económicas del infractor o infractora, conforme a lo establecido en el párrafo segundo del"
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "e la Constitución Política de los Estados Unidos Mexicanos;",
+            "Fracciones": [
+              {
+                "Fracción": "VI",
+                "Texto": "La edad, la educación, la ilustración, las costumbres, las condiciones sociales del sujeto, así como los motivos que lo impulsaron o determinaron a cometer la infracción. Cuando el infractor o infractora perteneciere a algún pueblo o comunidad indígena o afromexicanas cualquiera que sea su autodenominación, se tomarán en cuenta, además, sus usos y costumbres;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El ánimo de lucro y el beneficio que de manera directa obtenga el infractor o infractora con motivo de los actos u omisiones que dieran lugar a la sanción;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La reincidencia, si la hubiere; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Si lo realizó en lo individual o en forma agrupada y si se organizaron para cometer la infracción."
+              }
+            ]
+          },
+          {
+            "Artículo": 176,
+            "Texto": "1. Cuando con motivo de la infracción cometida se causen daños al medio ambiente, la Secretaría lo hará del conocimiento de la autoridad competente en materia ambiental, para que tome las medidas conducentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 177,
+            "Texto": "1. Para los efectos de la presente ley, se considerará reincidente al infractor o infractora que incurra más de una vez en conductas que constituyan una infracción a los preceptos contenidos en esta ley, sus reglamentos, la normatividad vigente, disposiciones y los planes de manejo acuícola y pesquero, en un periodo de dos años, contados a partir de la fecha de la resolución en que se hace constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 178,
+            "Texto": "1. Cuando en un acta de verificación se haga constar que el infractor o infractora incurrió en diversas infracciones a las que corresponda una sanción de multa, en la resolución que dicte la Secretaría dichas multas se determinarán de forma separada, así como el monto total de todas ellas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 179,
+            "Texto": "1. Cuando en una misma acta se haga constar que las infracciones fueron cometidas por dos o más infractores, a cada uno se le impondrá la sanción que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 180,
+            "Texto": "1. La amonestación sólo será aplicable a los infractores o infractoras por primera vez, a criterio de la Secretaría, a quienes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realicen pesca de consumo doméstico, en temporada de veda o con artes de pesca no permitidas, o tallas inferiores a las autorizadas o en contravención a las normas establecidas; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realicen actividades de acuacultura y pesca didáctica sin contar con la concesión o permiso respectivo.\n2. La amonestación servirá de apoyo para determinar la multa a las y los reincidentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 181,
+            "Texto": "1. Para la imposición de las multas se tomará como base el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 182,
+            "Texto": "1. La imposición de las multas se determinará de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Será sancionado con una multa de entre 10 a 100 veces el valor diario de la Unidad de Medida y Actualización, quien cometa las infracciones establecidas en las fracciones V, XIV y XVI del artículo 172 de la presente ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Será sancionado con una multa de entre 101 a 1,000 veces el valor diario de la Unidad de Medida y Actualización, quien cometa las infracciones establecidas en las fracciones II, IV y XIII del artículo 172 de la presente ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Será sancionado con una multa de entre 1001 a 10,000 veces el valor diario de la Unidad de Medida y Actualización, quien cometa las infracciones establecidas en las fracciones I, VI, VII y XI del artículo 172 de la presente ley; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Será sancionado con una multa de entre 10,001 a 25,000 veces el valor diario de la Unidad de Medida y Actualización, quien cometa las infracciones establecidas en las fracciones III, VIII y X del artículo 172 de la presente ley.\n2. Si existiere reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del monto máximo a que se refiere el presente artículo, así como la clausura definitiva."
+              }
+            ]
+          },
+          {
+            "Artículo": 183,
+            "Texto": "1. Las sanciones consistentes en multa se harán efectivas por la autoridad fiscal o administrativa competente, a solicitud de la Secretaría, mediante el procedimiento administrativo de ejecución.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 184,
+            "Texto": "1. Además de las multas a que se refiere este capítulo, la Secretaría podrá imponer las sanciones de amonestación, aseguramiento y clausura establecidas en el artículo 173 de esta ley, tomando en cuenta las circunstancias previstas en el artículo 175 de la misma.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 185,
+            "Texto": "1. En el caso de aseguramiento de los recursos pesqueros o acuícolas y demás productos a que se refieren las fracciones X, XII y XIV del artículo 172 de esta ley, la Secretaría podrá disponer de los recursos y bienes asegurados de la forma que más convenga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 186,
+            "Texto": "1. La imposición de las sanciones de clausura temporal o definitiva parcial o total, de la instalación o instalaciones en las que se hayan cometido las infracciones, se aplicarán cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se cause daño a las especies acuícolas y pesqueras o a los ecosistemas en que dichas especies se encuentran; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El infractor o infractora no hubiere cumplido con los plazos y condiciones impuestas por la Secretaría, con las medidas de seguridad o de urgente aplicación establecidas en la presente ley, sus reglamentos o en las normas oficiales.\n2. En los casos que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al infractor o infractora las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización, siempre que el infractor o infractora no sea reincidente."
+              }
+            ]
+          },
+          {
+            "Artículo": 187,
+            "Texto": "1. El decomiso de las embarcaciones se aplicará cuando se realicen los supuestos previstos en las fracciones X y XII del artículo 172 de la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 188,
+            "Texto": "1. El decomiso de los vehículos se aplicará cuando se incurra en los supuestos previstos en las fracciones VII, VIII y X del artículo 172 de la ley, independientemente de la multa correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 189,
+            "Texto": "1. El decomiso de artes de pesca y productos obtenidos de la misma se realizará cuando se incurra en los supuestos previstos en las fracciones I, III, IV, VI, X y XII del artículo 172, sin perjuicio de la aplicación de la multa correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 190,
+            "Texto": "1. En la resolución administrativa que imponga la sanción se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades detectadas y el plazo que se otorgue al infractor o infractora para subsanarlas.\n2. Dentro de los cinco días hábiles siguientes al vencimiento del plazo para subsanar las deficiencias o irregularidades observadas, el infractor o infractora deberá comunicar por escrito a la Secretaría, en forma detallada, el cumplimiento de las medidas ordenadas, en los términos que para tal efecto se le concedió.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 191,
+            "Texto": "1. La Secretaría, dentro del plazo de los tres días hábiles siguientes al plazo otorgado al infractor o infractora para subsanar las irregularidades detectadas, podrá ordenar una segunda inspección para verificar el cumplimiento de lo ordenado en la resolución, y si del acta correspondiente se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas podrá imponer, además de la sanción o sanciones que hubieren procedido conforme a la presente ley, una multa adicional que no excederá de los límites máximos señalados en la sanción o sanciones a que se haya hecho acreedor el infractor o infractora.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 192,
+            "Texto": "1. A los productos o bienes decomisados se les dará el destino que disponga la Secretaría, conforme a las siguientes alternativas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Remate en subasta pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Venta directa de productos pesqueros;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Donación a establecimientos de asistencia social o de rehabilitación, tratándose de productos de la pesca deportiva-recreativa o productos capturados en época de veda o en tallas menores a las autorizadas; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Destrucción de productos contaminados en estado de descomposición y en el caso de artes de pesca prohibida, cuando sea procedente.\nEn caso de que los productos o bienes decomisados sean de los denominados como perecederos, éstos deberán ser donados, vendidos o rematados antes de que se consideren no aptos para el consumo humano."
+              }
+            ]
+          },
+          {
+            "Artículo": 193,
+            "Texto": "1. Son aplicables supletoriamente a este capítulo, en cuanto a las sanciones administrativas, las disposiciones de la Ley del Procedimiento Administrativo del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga la Ley de Acuacultura y Pesca para el Estado de Jalisco y sus Municipios contenida en el\ndecreto 24142/LIX/12.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Los recursos económicos, humanos y materiales, así como los derechos, valores, fondos, obligaciones y asuntos en trámite del Instituto de Acuacultura y Pesca del Estado de Jalisco que se extingue pasarán a formar parte de la Secretaría de Agricultura y Desarrollo Rural.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 10 DE DICIEMBRE DE 2020\nDiputada Presidenta MARA NADIEZHDA ROBLES VILLASEÑOR\nDiputado Secretario ISMAEL ESPANTA TEJEDA\nDiputado Secretario CARLOS EDUARDO SÁNCHEZ CARRILLO\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 16 del mes de diciembre de 2020.\nENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno\nLEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO\nAPROBACIÓN: 10 de diciembre de 2020\nPUBLICACIÓN: 29 de diciembre de 2020 sec. VI\nVIGENCIA: 27 de junio de 2021",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

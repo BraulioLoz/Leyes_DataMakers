@@ -1,0 +1,35 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 46,
+  "n_perm_fracciones": 137,
+  "n_trans_caps": 1,
+  "n_trans_articles": 2,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II",
+    "TÍTULO SEGUNDO De la Política Pública en Favor de la Nutrición Adecuada y los Estilos de Vida Saludables",
+    "CAPÍTULO I De la lactancia materna y la alimentación complementaria adecuada",
+    "CAPÍTULO II De la alimentación, los entornos escolares y la educación nutricional",
+    "CAPÍTULO III Del Derecho a la Información Nutricional",
+    "CAPÍTULO IV De la Prevención y el Tratamiento de la Mala nutrición y los Trastornos de la Conducta Alimentaria",
+    "CAPÍTULO V De los Programas de acceso a los alimentos",
+    "CAPÍTULO I Del Consejo Estatal para promover la Nutrición Adecuada y Estilos de Vida Saludables",
+    "CAPÍTULO II De los Programas Municipales de Nutrición Adecuada y Estilos de Vida Saludables",
+    "CAPÍTULO III De la Competencia de las Autoridades Estatales y Municipales De las Disposiciones Generales",
+    "Sección Primera De la Secretaría de Salud",
+    "Sección Segunda De la Secretaría de Educación",
+    "Sección Tercera De la Secretaría de Agricultura y Desarrollo Rural",
+    "Sección Quinta De la Secretaría de Trabajo y Previsión Social",
+    "Sección Séptima Secretaría del Sistema de Asistencia Social",
+    "Sección Octava Del Sistema para el Desarrollo Integral de la Familia de Jalisco",
+    "Sección Novena Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes",
+    "Sección Décima Del Consejo Estatal para el Fomento Deportivo",
+    "CAPÍTULO VI De los medios de defensa"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 11,
+    "TÍTULO": 1,
+    "SECCIÓN": 8
+  }
+}

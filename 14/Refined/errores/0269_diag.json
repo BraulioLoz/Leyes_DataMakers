@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 69,
+  "n_trans_caps": 1,
+  "n_trans_articles": 2,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II",
+    "Capítulo III De las autoridades",
+    "Capítulo IV Participación de la Sociedad",
+    "Capítulo V Comités de vigilancia, monitoreo y evaluación",
+    "Capítulo VI De los Programas que garantizan el Derecho Humano a la Alimentación, combaten el hambre y fomentan la nutrición en el Estado"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

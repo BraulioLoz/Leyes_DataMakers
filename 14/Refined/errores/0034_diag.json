@@ -1,0 +1,31 @@
+{
+  "n_chapters": 17,
+  "n_perm_articles": 60,
+  "n_perm_fracciones": 141,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Objeto y Definiciones",
+    "Título Tercero de la Ley de Disciplina;",
+    "Capítulo II Restricciones Generales",
+    "Capítulo I Coparticipación de los Poderes Públicos",
+    "Capítulo II Intervención del Poder Legislativo",
+    "Capítulo III Atribuciones del Poder Ejecutivo",
+    "Capítulo IV Atribuciones de los Ayuntamientos",
+    "Capítulo V Atribuciones de los Órganos de Gobierno de los Entes Públicos Paraestatales o Paramunicipales",
+    "Capítulo I Programación y Presupuestación del Financiamiento Público",
+    "Capítulo II Procedimientos de Contratación de Financiamiento",
+    "Capítulo lll Afectación de Ingresos",
+    "Capítulo Único",
+    "Capítulo I De la Inscripción",
+    "Capítulo II Trámites",
+    "Capítulo lll Publicación de la Información",
+    "Capítulo I Nulidad de Operaciones",
+    "Capítulo II Infracciones y Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 16,
+    "TÍTULO": 1
+  }
+}

@@ -1,0 +1,8 @@
+Errores y advertencias para: 0071.txt
+==================================================
+
+Ubicación: line 79
+Tipo: warning
+Mensaje: Capitulo sin sufijo válido (línea ignorada)
+Línea: Capítulo llI De los Derechos de las Mujeres Sección Primera Durante el Embarazo
+------------------------------

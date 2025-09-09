@@ -1,0 +1,1285 @@
+{
+  "0183.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto.\nNÚMERO 29575/LXIII/24 EL CONGRESO DEL ESTADO DECRETA\nSE EXPIDE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "SE EXPIDE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE JALISCO.",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo Único Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente ley es reglamentaria de la fracción II del artículo 15 de la Constitución Política del Estado de Jalisco, es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto regular y garantizar un sistema integral de atención y protección a las personas adultas mayores, estableciendo las condiciones necesarias para lograr su bienestar y plena integración al desarrollo social, económico, político y cultural, sin ningún tipo de discriminación de las personas a partir de los sesenta años de edad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Los objetivos específicos de este ordenamiento para las personas adultas mayores son los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Garantizar que gocen de todos los derechos y libertades, sin que sufran discriminación alguna por razón de edad, lugar de nacimiento, raza, sexo, orientación, religión, opinión, discapacidad o enfermedad o cualquier otra condición o circunstancia personal, familiar o social."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover acciones de salud, recreación y participación socioeconómica, con el fin de lograr una mejor calidad de vida, así como fomentar la aportación de sus conocimientos y experiencia a las demás generaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer las responsabilidades de la familia, la sociedad y el Estado en cuanto a su atención, protección y apoyo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Propiciar la solidaridad generacional en la sociedad, así como fomentar una cultura de conocimiento para su respeto y aprecio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Propiciar su integración en todos los ámbitos de la vida social mediante su participación en las actividades que se lleven a cabo en su entorno físico y cultural, la igualdad de oportunidades frente al resto de la sociedad, sin ningún tipo de discriminación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Posibilitar su permanencia en el contexto socio familiar en el que han desarrollado su vida;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover las condiciones para que lleven una vida autónoma, ofertando los medios para desarrollar sus potencialidades;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Prevenir y evitar condiciones de riesgo social que puedan dar lugar a situaciones de maltrato, abandono, negligencia, violencia y explotación;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fomentar la participación de asociaciones en el proceso de integración social;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover la inclusión y participación efectiva en los procesos electorales y el ejercicio del sufragio mediante trato preferencial en los centros de votación; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Propiciar su participación a través de las organizaciones de las que forman parte o que constituyan, en el proceso de consulta para la toma de decisiones sobre el planeamiento y gestión de políticas públicas de atención y protección diseñado en esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Son de aplicación complementaria a esta Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Código Civil del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Código de Asistencia Social del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ley para la Inclusión y el Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ley Estatal para Promover la Igualdad, Prevenir y Eliminar la Discriminación en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ley para la Operación de Albergues del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El Código Penal para el Estado de Jalisco; y,"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los ordenamientos generales y protocolos relativos a las personas adultas mayores que al efecto expidan las autoridades en los tres ámbitos de gobierno."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Para los efectos de esta ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Abandono: la falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asistencia social: el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas su desarrollo integral, así como la protección física, mental, social o económica de quienes se encuentren en condición de vulnerabilidad, desprotección, desventaja física o mental, hasta lograr su incorporación a una vida plena. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Atención integral: satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de las personas adultas mayores. Para facilitar una vejez plena y sana, se consideran sus hábitos, capacidades funcionales, usos y costumbres y preferencias;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Asistente personal: apoyo profesional, familiar o persona que se pone a disposición de una persona mayor como un instrumento para permitir la vida autónoma e independiente; para desarrollar la actividad de asistencia personal, se deberá contar con el consentimiento del interesado a fin de garantizar su autodeterminación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autoridades: las dependencias y entidades que forman parte de la administración pública estatal y municipal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Barreras arquitectónicas: son todos aquellos obstáculos que pudieran dificultar, entorpecer o impedir a las personas adultas mayores su libre desplazamiento en lugares públicos, exteriores e interiores;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Discriminación: cualquier distinción, exclusión, restricción que tenga como objetivo anular o limitar el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Familia de la persona adulta mayor: el vínculo o relación interpersonal cuya sujeción está basada en los lazos consanguíneos o filiales que se hayan generado entre sí, durante el transcurso del tiempo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Geriatría: especialidad médica dedicada al estudio, prevención, diagnóstico, tratamiento y rehabilitación de las enfermedades propias de las personas adultas mayores."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Gerontología: el estudio integral del envejecimiento y de la vejez, sus causas, efectos y consecuencia en el ser humano;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Integración económica y social: el conjunto de acciones que realizan las dependencias y entidades de la administración pública del Gobierno del Estado y de los municipios y la sociedad organizada, encaminadas al desarrollo y aumento de la capacidad económica y productiva de las personas adultas mayores dentro de su desarrollo integral;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Ley: la Ley de los Derechos de las Personas Adultas Mayores del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Maltrato: acción u omisión, única o repetida, contra una persona mayor que produce daño a su integridad física, psíquica o moral y que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Negligencia: error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Persona adulta mayor: aquélla de 60 años o más."
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Perspectiva de igualdad de género: es la visión científica, analítica y política sobre las mujeres y los hombres. Propone eliminar las causas de la opresión de género como la desigualdad, la injusticia, la violencia y la jerarquización de las personas basada en su sexo. Promueve la igualdad entre las personas a través del adelanto para lograr el bienestar subjetivo de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor y rol social, sobre la base de igualdad, derechos humanos y libertades fundamentales, para acceder a los recursos económicos y a la representación política, social, cultural y civil, en todos los ámbitos de la vida;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Servicio de calidad: conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Vejez: construcción social de la última etapa del curso de vida;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Violencia psicológica: cualquier acto u omisión que dañe la estabilidad emocional, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Violencia física: cualquier acto que inflige daño corporal, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Violencia patrimonial: cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Violencia económica: toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; y"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Violencia sexual: cualquier acto que degrada o daña el cuerpo o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De los principios",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "Son principios rectores en la observación y aplicación de esta ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Atención diferenciada: aquella que obliga a las autoridades del Gobierno del Estado y de los municipios a implementar programas acordes con las diferentes etapas, características y circunstancias de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Atención preferente: aquella que obliga a la familia, así como a los sectores público y social a implementar valores y acciones preferentes en beneficio de las personas adultas mayores en igualdad de circunstancias frente a otras personas y de acuerdo con las condiciones que se presenten;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autonomía y autorrealización: todas las acciones que se realicen en beneficio de las personas adultas mayores estarán orientadas a fortalecer su autosuficiencia, su capacidad de decisión y su desarrollo integral;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Corresponsabilidad: la concurrencia y responsabilidad compartida del individuo, las familias y los sectores público y social para el cumplimiento del objeto de esta ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Igualdad Sustantiva: el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integración: la inserción de las personas adultas mayores en todos los órdenes de la vida pública;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Equidad e igualdad: el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin ningún tipo de discriminación y sin distinción de género, raza, lengua, credo, religión, costumbres, situación económica o nivel cultural o demás circunstancias análogas; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Participación: la inserción de las personas adultas mayores en todos los órdenes de la vida pública en los ámbitos que sean de su interés serán consultados y tomados en cuenta; así mismo se promoverá su presencia e intervención."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De los derechos",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de integridad, dignidad y preferencia a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Al respeto por su sola calidad de ser humano y garantizar la igualdad entre las personas adultas mayores al margen de las relaciones sociales de poder y subordinación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evitar bajo cualquier circunstancia a ser objeto de discriminación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Gozar, en igualdad de circunstancias y de oportunidades, el ejercicio de sus derechos, respetando su heterogeneidad individual;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Recibir protección institucional para una vida de calidad, libre de violencia, de maltrato físico, psicológico, económico o sexual, de negligencia, abandono o de discriminación, desnutrición y toda enfermedad física evitable;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La protección contra toda forma de explotación en cualquiera de sus variantes, del aislamiento y la marginación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recibir un trato preferencial, digno y apropiado en relación con prestaciones y servicios en cualquier procedimiento que se desahoguen ante las autoridades municipales y estatales; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir la atención adecuada por las instituciones públicas, privadas y de la sociedad en general."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de salud, la alimentación y la familia a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener acceso a los satisfactores necesarios, considerando: alimentos, bienes, servicios, salud y condiciones humanas, o materiales para su atención integral, en especial en el seno familiar y, a falta de ésta, en las instituciones del sistema estatal de salud y asistencia social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Gozar del acceso preferente a los servicios de salud con el objeto de que ejerzan cabalmente del derecho a su bienestar físico, psicológico y sexual, para obtener un mejoramiento en su calidad de vida y la prolongación de ésta;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Disfrutar entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos en donde ejerzan libremente sus derechos, entre éstos, el de elegir su lugar de residencia, preferentemente cerca de sus familiares, así como mantener relaciones personales y contacto directo con su familia en caso de estar separados, salvo sí ello es contrario a su voluntad, intereses o bienestar;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Vivir en el seno de una familia o mantener relaciones personales solidarias y contacto directo con ella, aun en caso de estar separados, a menos que la persona adulta mayor no lo desee o que medie causa de enfermedad grave, contagiosa o mental que requiera de su internamiento en instituciones especializadas. Cuando se requiera aislamiento parcial o temporal, así como internamiento, que limite el pleno ejercicio y goce de sus derechos, deberá contarse con un diagnóstico médico especializado en la materia que así lo determine;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir protección por parte de la familia y la sociedad, así como de las instituciones estatales y municipales, para mejorar progresivamente las capacidades que le faciliten el ejercicio de sus derechos en condiciones de igualdad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Vivir con decoro y dignidad, en un ambiente emocional afectivo en sus hogares con el respeto por parte de su familia, autoridades y de la sociedad en general;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Contar con los servicios de salud y de cuidados de larga duración, oportunos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Gozar de calidad, calidez, paciencia y tolerancia en la atención en los diversos niveles del sector salud, particularmente en gerontología y geriatría;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Contar con la información gerontológica y geriátrica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la vejez;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Recibir orientación y capacitación en materia de salud, nutrición e higiene;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Disfrutar de una atención médica integral especializada en atención a la persona adulta mayor, desde el primero y hasta el tercer nivel de atención, a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "La protección contra maltrato, negligencia, abuso médico y farmacéuticos comprendiendo: tratamientos médicos o la utilización de medicamentos inapropiados, innecesarios o excesivos; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Contar con una cartilla médica para el control de su salud, y como parte del paquete preventivo integral."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de laboral a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Gozar de igualdad de oportunidades en el acceso al trabajo, al emprendimiento u otras opciones que les permita un ingreso propio y un desempeño productivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Decidir libremente sobre su actividad laboral, ser parte activa de la sociedad y ocupar trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o intelectuales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ser incluido para obtener empleo en las bolsas de trabajo de las instituciones oficiales y particulares;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Recibir capacitación para desempeñarse en actividades laborales acordes con su edad y habilidades; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acceder a un empleo en áreas especiales de acuerdo a sus condiciones físicas en las que pueda desarrollarse dentro de las fuentes de trabajo, con las prestaciones de ley y con salarios que correspondan conforme a la actividad laboral que desempeñan."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de seguridad y asistencia social a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Mejorar su nivel de vida e ingresos mediante reducciones de impuestos y derechos tanto estatales como municipales, de acuerdo con lo establecido por las leyes de la materia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser beneficiarios de programas específicos de asistencia social y protección a sus derechos cuando se encuentren en situación de riesgo, vulnerabilidad, desamparo, desempleo, discapacidad o pérdida de sus medios de subsistencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover el libre desplazamiento en espacios laborales, comerciales, gubernamentales, recreativos y de transporte;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ser sujetos de programas de acceso a una casa hogar o albergue, así como alternativas de atención integral, si se encuentran en situación de riesgo o desamparo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Decidir libremente sobre su ingreso a una casa hogar o albergue;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Disfrutar de los servicios públicos y sociales con perspectiva de género, con calidad y calidez en igualdad de circunstancias;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Recibir descuentos en servicios públicos, así como en el consumo de bienes y servicios en negocios y organismos afiliados a los programas de apoyo a la persona adulta mayor;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Estar informados de las condonaciones y descuentos a que tengan derecho; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Gozar de las acciones de turismo social, de conformidad con lo establecido en la Ley de Turismo para el Estado de Jalisco y sus Municipios."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de participación a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Participar en la planeación y atención integral, a través de la formulación y aplicación de programas que afecten directamente a su entorno y bienestar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asociarse y conformar organizaciones de personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar en los procesos de educación y capacitación de su comunidad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Participar en la vida cívica, política, cultural, deportiva y recreativa de su comunidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formar parte de los órganos de representación y consulta ciudadana;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Su derecho al voto libre y secreto mediante la implementación de atención y lugares donde se desarrollen las jornadas electorales o de consultas plebiscitarias o referéndum;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al Estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Disfrutar de instalaciones e infraestructura inmobiliaria; así como establecimientos destinados al cuidado, atención, enseñanza y entretenimiento de las personas adultas mayores."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de acceso a la justicia y administración pública a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo del que forme parte, ya sea en calidad de usuarios de servicios públicos, derechohabientes, víctimas, ofendidos, inculpados, procesados o sentenciados, por lo que, en todo caso recibirá la información necesaria, apoyo y asesoría de las autoridades competentes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener la consideración y atención necesaria por parte de las autoridades de procuración e impartición de justicia, así como dependencias gubernamentales que desahoguen trámites administrativos o prestación de servicio cuando exista alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a los servicios ya señalados, y, en su caso, acompañamiento especializado cuando así se requiera;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con asesoría jurídica gratuita de manera específica por parte de las instituciones del estado y de los municipios, así como con un representante legal en la protección de su seguridad y libertad, así como a su patrimonio personal y familiar;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Decidir, con capacidad de ejercicio, sobre la tutela de su persona y bienes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir trato preferencial en los trámites administrativos de prestación de servicios, por parte de las autoridades estatales y municipales."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de autodeterminación, autonomía y a la privacidad a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elegir sus propias decisiones en una vida autónoma e independiente como le permitan sus capacidades físicas y mentales, así como recibir apoyo para ejercer estos derechos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser consultado y a tomar parte de todas las decisiones sobre las actuaciones que le afecten;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener control de su patrimonio e ingresos y gestionar sus asuntos económicos y legales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Disponer de tiempo y de espacio para sí solo o con las personas de su elección, así como respeto a sus sentimientos de pudor y relaciones íntimas; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La confidencialidad de su correspondencia, llamadas telefónicas y datos personales."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de educación e información a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que las instituciones educativas, públicas y privadas estatales o municipales, promuevan la inclusión en sus planes y programas de estudios dirigida a personas adultas mayores, abonando a su aprendizaje curricular, capacitación y desarrollo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recibir información sobre las instituciones públicas que implementen programas de atención integral y proyección de un plan de vida a futuro con calidad y productividad en la vejez; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir de manera igualitaria, de acuerdo a sus intereses, por parte de las instituciones públicas de tecnología e innovación, la capacitación adecuada sobre el uso de las nuevas tecnologías de la información y comunicación."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de accesibilidad y movilidad personal a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener acceso, en igualdad de condiciones, al entorno físico, el transporte, y a otros servicios e instalaciones abiertos al público o de uso público;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que las entidades públicas y privadas que cuenten con instalaciones y proporcionen servicios abiertos al público o de uso público, tengan la infraestructura, el mobiliario y el equipo adecuado para facilitar el acceso, desplazamiento y atención de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con espacios libres de barreras arquitectónicas para el fácil acceso y desplazamiento, tomando en consideración sus necesidades y requerimientos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con la infraestructura adaptada y adecuada para el acceso a los servicios de salud; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Contar con subsidios para el uso de transporte público."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Las personas adultas mayores tienen derechos en materia de cuidados paliativos, respeto y dignidad en la agonía y en la muerte a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ayuda compasiva y cuidados paliativos cuando llegue al final de su vida y hasta su muerte;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar todas las acciones necesarias posibles para que el proceso de morir sea digno y tolerable;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Al respeto y a la observancia de sus convicciones y preferencias religiosas expresadas durante su vida, sobre los arreglos por cuidados y tratamiento de su cuerpo después de su muerte; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Al respeto a lo que haya dispuesto sobre sus bienes y derechos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De la familia",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente, a hacerse cargo de las personas adultas mayores que formen parte de ella y deberá proporcionar los elementos necesarios para su atención integral.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "La familia del adulto mayor es responsable de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Otorgar alimentos de conformidad con lo establecido en el Código Civil del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proteger y vigilar el cumplimiento del ejercicio de los derechos de las personas adultas mayores previstos en la presente ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Evitar o denunciar que algún familiar realice cualquier acto de abandono, desamparo, marginación, discriminación, abuso, explotación, aislamiento o violencia, que ponga en riesgo a la persona, bienes o derechos del adulto mayor;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar una estancia digna adecuada a sus necesidades y requerimientos, de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción médica, en cuyo caso los familiares dentro del cuarto grado deberán proporcionar los recursos económicos necesarios para garantizar una estancia digna;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fomentar su independencia y autonomía;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Respetar sus decisiones y asegurar su privacidad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Contribuir a que se mantengan productivos y socialmente integrados;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Allegarse de información gerontológica y geriátrica que permita su debida atención;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Gestionar ante las autoridades judiciales o administrativas, la realización de actos jurídicos que protejan los intereses del adulto mayor; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que establezcan las disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De la participación de la sociedad",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "Cualquier persona tiene el deber de auxiliar y apoyar a las personas adultas mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Es derecho de coparticipación de la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades o, de manera independiente, colaboren en el mejoramiento de las condiciones de vida de las personas adultas mayores y particularmente promuevan la igualdad en el acceso al empleo, eliminando la discriminación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Es un derecho de la sociedad propiciar la participación de las personas adultas mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitarias, particularmente en las relacionadas con el envejecimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Los organismos privados no lucrativos dedicados a la atención de personas adultas mayores, tendrán derecho a recibir apoyo, asesoría y capacitación por parte de las autoridades competentes a las que el presente ordenamiento se refiere. Además, gozarán de los incentivos fiscales que se fijen anualmente en las leyes de ingresos del Estado y los municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Es derecho de la sociedad civil organizada en materia de personas adultas mayores, participar de manera coordinada y concertada con las autoridades competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Los establecimientos privados que presten servicio a las personas adultas mayores deberán habilitar personal capacitado y espacios adecuados para proporcionar a la persona adulta mayor, un trato digno y una estancia cómoda, dándole preferencia en su atención.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Toda persona podrá denunciar ante los órganos competentes todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con los adultos mayores.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De los objetivos",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "Son objetivos de la política pública sobre personas adultas mayores los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Garantizar que las personas adultas mayores gocen de todos los derechos y libertades que tienen conforme a los ordenamientos jurídicos del Estado de Jalisco, sin que sufran discriminación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Garantizar igualdad de oportunidades y una vida digna, promoviendo la defensa y representación de sus intereses;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar la atención integral mediante una coordinación interinstitucional e intersectorial pública y privada;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La adopción de medidas para la prevención de situaciones de abuso y explotación de las personas adultas mayores, tanto en su persona como en su patrimonio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la solidaridad y la participación ciudadana para consensar programas y acciones que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fomentar en la familia, en el estado y en la sociedad, una cultura de aprecio a la vejez para lograr un trato digno, favorecer su revalorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, género, estado físico, condición social u orientación sexual;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover la participación proactiva y activa de las personas adultas mayores en la formulación y ejecución de las políticas públicas que les afecten;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Impulsar el desarrollo humano integral de las personas adultas mayores observando los principios de equidad y perspectiva de género, por medio de programas y acciones a fin de garantizar la igualdad de\nderechos, oportunidades y responsabilidades de hombres y mujeres, así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fomentar la permanencia, de las personas adultas mayores en su núcleo familiar y comunitario;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a las personas adultas mayores;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Establecer las bases para la asignación de beneficios sociales, descuentos y exenciones para este sector de la población, de conformidad con las disposiciones jurídicas aplicables;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Propiciar su incorporación a los procesos productivos emprendidos por los sectores público y privado, de acuerdo a sus capacidades y aptitudes;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Propiciar y fomentar programas especiales de educación y becas de capacitación para el trabajo, mediante los cuales se logre su reincorporación a la planta productiva del estado, y en su caso, a su desarrollo profesional;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Fomentar que las instituciones educativas y de seguridad social establezcan las disciplinas para la formación en geriatría y gerontología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población mayor;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Fomentar la realización de estudios e investigaciones sociales de la problemática inherente al envejecimiento;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Promover la difusión de los derechos y valores en beneficio de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago social y poner a su alcance los servicios sociales y asistenciales, así como la información sobre los mismos;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Propiciar programas que permitan y promuevan actividades físicas, recreativas y deportivas que generen mejores condiciones de su salud;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Fomentar entre las instituciones de asistencia social, de familia y organismos privados la constitución de centros de recreación o de día; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Fomentar la creación de espacios de expresión para las personas adultas mayores."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De las autoridades estatales",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "Las dependencias integrantes de la administración pública estatal se constituyen en promotoras proactivas y activas de los derechos que les consagra esta ley a las personas adultas mayores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "La vigilancia y aplicación de esta ley estará a cargo de las siguientes dependencias, en sus ámbitos de competencia:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "EL Poder Ejecutivo, por conducto de las secretarías, organismos y dependencias de la administración pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los ayuntamientos, sus dependencias, y los organismos municipales de Desarrollo Integral para la Familia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los organismos de la sociedad civil, cualquiera que sea su forma o denominación, las personas, los sectores privado y social, mediante la celebración de convenios o acuerdos de colaboración entre sí y con las instancias federales, estatales y municipales para lograr los objetivos de esta ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La Secretaría del Sistema de Asistencia Social;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Sistema para el Desarrollo Integral de la Familia; y,"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La familia del adulto mayor."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Corresponde al Ejecutivo del Estado, en materia de personas adultas mayores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Generar las políticas públicas señaladas en la presente ley; así como realizar y promover los programas de asistencia, protección, previsión, prevención, participación y atención;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Concertar, con la federación y municipios los convenios que se requieran para la realización de programas de defensa y representación jurídica, protección, previsión, prevención, participación y atención;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Concertar la participación de los sectores social y privado en la planeación y ejecución de acciones y programas en beneficio de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Generar los protocolos estandarizados de atención y actuación dirigidos a las personas adultas mayores en las distintas áreas de la administración pública estatal, y establecer los mecanismos para su operación, vigilancia y control."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Prever mediante protocolos de actuación pronta, qué dependencia de la administración pública tiene las responsivas para autorizaciones médicas, de procuración de justicia y asistencia social, ante la ausencia de familiares o tutores de las personas adultas mayores."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover acuerdos con los municipios y la federación para que se otorguen descuentos a las instituciones que ofrecen servicios de asistencia social a personas adultas mayores;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover el otorgamiento de estímulos fiscales y reconocimiento público a las empresas y dependencias o entidades de gobierno que cuenten con programas de contratación de personas adultas mayores en condiciones de igualdad;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover, difundir y defender el ejercicio de sus derechos, así como concientizar sobre las obligaciones de los responsables de éstos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promocionar la estabilidad y el bienestar en la familia;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Procurar que cada año en el presupuesto de egresos se otorgue una cantidad que permita dar continuidad a los programas estatales en beneficio de las personas adultas mayores, así como para el cumplimiento de esta ley;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Procurar la implementación de módulos de atención preferencial y de capacitación del personal de dependencias públicas y privadas que atiendan a las personas adultas mayores;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover el posicionamiento de la cartilla de salud de las personas adultas mayores a través de las instituciones públicas y privadas;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Promover y fomentar la investigación científica y desarrollo tecnológico, enfocados en mejorar la calidad de vida de las personas adultas mayores; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Garantizar la accesibilidad y la movilidad individual de las personas adultas mayores adoptando de manera progresiva medidas pertinentes para asegurar su acceso y desplazamiento preferencial en el entorno físico y en otros servicios e instalaciones abiertos al público o de uso público."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "El Ejecutivo del Estado, sus secretarías, dependencias y organismo públicos descentralizados del Ejecutivo del Estado deberán trabajar de manera coordinada y colaborativa mediante programas con criterios de perspectiva de género, transversalidad e interseccionalidad que permitan el desarrollo e inclusión de las personas adultas mayores.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De la Secretaría del Sistema de Asistencia Social",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "La Secretaría del Sistema de Asistencia Social, deberá tomar las medidas de previsión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo, así como:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar las políticas de asistencia social y atención integral a las que se refiere esta ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Propiciar convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Impulsar y fomentar entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Generar las condiciones de colaboración y participación de las distintas dependencias y entidades de la administración pública estatal y municipal a fin de emprender acciones y programas de atención preferente e integral de las personas adultas mayores:"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Conocer y hacer del conocimiento de las personas adultas mayores los programas de apoyo federales, estatales y municipales y orientarlos respecto a los requisitos necesarios para acceder a ellos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Implementar dentro de las dependencias de la administración pública estatal ventanillas preferenciales para la atención de las personas adultos mayores;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer ventanillas únicas para la tramitación de servicios asistenciales y programas de beneficiarios de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Llevar un padrón de personas adultas mayores en el Estado sujetos a programas de beneficencia social;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "En situación de riesgo o desamparo del adulto mayor, canalizar a la Procuraduría Social para la asesoría y patrocinio legal que corresponda, así como a la unidad administrativa en materia de atención a víctimas del delito de la Fiscalía Estatal, para que formulen las denuncias que correspondan y se dé seguimiento a la carpeta de investigación correspondiente;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Llevar un registro y dar seguimiento a la evaluación de los casos de personas adultas mayores en estado de abandono, maltrato físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás\ncircunstancias análogas, allegándose de la información necesaria con que cuenten las demás autoridades competentes; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás que establezcan las disposiciones legales en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV De la Secretaría de Educación",
+        "Artículos": [
+          {
+            "Artículo": 32,
+            "Texto": "Corresponde a la Secretaría de Educación, en materia de personas adultas mayores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover y elaborar por sí, o en coordinación con los gobiernos federal y municipal, la creación de programas permanentes de alfabetización, capacitación y educación curricular para personas adultas mayores;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La elaboración de programas especiales de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social, con la finalidad de que puedan incorporarse a la actividad económica del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar las actividades de difusión y fomento educativo para las personas adultas mayores;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover, difundir y fomentar la incorporación de contenidos sobre los procesos de envejecimiento, proyectos de vida, la cultura del envejecer, a través de los valores, reconocimiento y la adopción de estilos de vida saludable dentro de los planes y programas de estudio de todos los niveles;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Implementar y apoyar a las instituciones de investigación científica para que incluyan la geriatría y la gerontología en las carreras del área de la salud, ciencias sociales y económicas, así como difundir los resultados de estas investigaciones para conocimiento y aprovechamiento de la población;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Instituir programas de becas para las personas adultas mayores, en materia de educación continua y capacitación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o intelectual; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que establezcan las disposiciones legales aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De la Secretaría de Salud",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "Corresponde a la Secretaría de Salud, en materia de personas adultas mayores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Garantizar, coordinar y proporcionar la atención médica gerontológica y geriátrica a las personas adultas mayores en las unidades de segundo y tercer nivel conforme al programa estatal de salud;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proporcionar a las personas adultas mayores una cartilla médica de auto cuidado, que será utilizada indistintamente en las instituciones públicas y privadas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Deberá implementar programas, en coordinación con las instituciones que conforman el sistema estatal de salud, con el objeto de proporcionar atención integral e impulsar los modelos de atención necesarios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Capacitar y formar personas dedicadas al cuidado o asistencia personal para la atención de personas adultas mayores;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer modelos de investigación en la materia, así como proponer políticas preventivas y de control de las enfermedades con mayor incidencia de la vejez;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fomentar la formación y capacitación médica en atención en gerontología y geriatría a auxiliares y familiares de personas adultas mayores;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Organizar campañas de orientación e información nutricional de acuerdo con las condiciones físicas de salud de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Establecer medidas de promoción y prevención de la salud en los programas de salud dirigidos a atender las necesidades de las personas en las diversas etapas del ciclo de vida;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Atender periódicamente y en forma gratuita a los asilos de asistencia social con unidades móviles médicodentales, así como detecciones de enfermedades crónico-degenerativas más frecuentes;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Establecer acuerdos con instituciones públicas y privadas para la elaboración de prótesis dentales gratuitas a las personas adultas mayores en asilos de asistencia social y de población abierta en el estado;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Impulsar y facilitar las acciones de los programas de salud relacionados con las principales causas de morbilidad y mortalidad que aquejan a este grupo poblacional o, en su caso, implementar e instrumentar los que sean necesarios;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover el auto cuidado de la salud física, mental y psicológica de las personas adultas mayores a través de la adopción de estilos de vida saludables;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Fomentar la formación y capacitación de recursos humanos en salud para la atención del adulto mayor, con una orientación gerontogeriátrica,"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Aplicar de manera inmediata los protocolos de responsiva de actuación ante ausencia de familiares o tutores que al efecto expida el ejecutivo del Estado; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Los demás ordenamientos en la materia que le correspondan."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De la Procuraduría Social",
+        "Artículos": [
+          {
+            "Artículo": 34,
+            "Texto": "La Procuraduría Social del Estado de Jalisco realizará las siguientes actuaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Otorgar asesoría jurídica y, en su caso, patrocinio legal gratuito a las personas adultas mayores en los procedimientos legales en que sean parte en términos de la normatividad aplicable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Garantizar una defensa legal adecuada en los juicios y procedimientos en que se encuentren involucrados las personas adultas mayores y a solicitud de parte en términos de la normatividad civil, familiar, penal y mercantil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dar puntual asesoría sobre los alcances y repercusiones de los juicios o procedimientos del que sea parte la persona adulta mayor, a fin de que ésta tome las decisiones que mejor les convengan a sus intereses con independencia y libre determinación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Practicar visitas de inspección a instituciones que alberguen o atiendan personas adultas mayores; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás previstas en su ley orgánica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII Del Sistema Estatal para el Desarrollo Integral de la Familia de Jalisco",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proporcionar los servicios gratuitos de asesoría jurídica a las personas adultas mayores, a través de personal capacitado, a fin de garantizar su integridad y evitar cualquier acto que ponga en riesgo su persona, bienes y derechos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coadyuvar con la Fiscalía Estatal en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover, mediante la vía conciliatoria, la solución a la problemática familiar;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Coordinarse y promover con las dependencias públicas estatales y municipales, la inclusión de programas sectoriales dentro del Plan Estatal de Desarrollo y Gobernanza, así como en los planes municipales de Gobernanza y Desarrollo de acuerdo al ámbito de competencias que les correspondan y permitan la inclusión y desarrollo de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Tomar las medidas de prevención y supervisión para que la familia participe en la atención de los adultos mayores en situación de riesgo o desamparo, pudiendo solicitar el apoyo tanto de la Procuraduría Social para la asesoría y patrocinio legal que corresponda, como de la unidad administrativa en materia de atención a víctimas del delito de la Fiscalía Estatal, para que formulen las denuncias que correspondan y se dé seguimiento a la carpeta de investigación correspondiente; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le confieren las disposiciones jurídicas aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII De los ayuntamientos, los organismos públicos y privados",
+        "Artículos": [
+          {
+            "Artículo": 36,
+            "Texto": "Corresponde a los ayuntamientos y a los organismos públicos municipales para el Desarrollo Integral de la Familia en materia de las personas adultas mayores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La vigilancia del respeto a sus derechos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover acciones para su bienestar, así como para la preparación e incorporación a esta etapa de la vida;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer centros de recreación o de día en los que convivan personas de 60 años y más, como alternativa para la ocupación recreativa y productiva del tiempo libre, promoviendo una convivencia intergeneracional en los mismos."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover la colaboración de los distintos niveles del gobierno en la aportación de recursos para la operación de programas asistenciales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fortalecer los proyectos asistenciales mediante el fomento de la participación de las instituciones privadas, para ampliar la cobertura de los beneficios;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La recepción de quejas y denuncias, e iniciar las acciones legales que procedan;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proporcionar en forma gratuita los servicios de asistencia jurídica y de orientación social en las dependencias municipales que lleven trámites o procedimientos relacionados con ellas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Implementar ventanilla única de trámites, así como para su atención preferente en las dependencias municipales;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Denunciar ante la autoridad penal o civil competente, según corresponda, los casos de maltrato, lesiones, abuso físico o psíquico, abandono, descuido o negligencia y en general cualquier conducta de acción u omisión que los perjudique, para lograr la protección jurídica, física y psicológica de éstas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "La realización de visitas de inspección, vigilancia y evaluación en la prestación de los servicios de asistencia privada o público;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Gestionar ante las autoridades del Registro Civil, el registro extemporáneo, así como corrección y reposición de actas de nacimiento;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Establecer en sus leyes de ingresos descuentos al pago de impuestos, derechos y productos municipales y los previstos en la Ley de Hacienda Municipal del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Llevar a cabo los censos estadísticos de los casos y asuntos que sobre las personas adultas mayores de los que tenga conocimiento; y elaborar los programas que atiendan la problemática de su municipio, así como la orientación y difusión de los derechos del mismo;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Coadyuvar con la Fiscalía Estatal en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Establecer en sus programas municipales como mínimo, las políticas públicas a que se refiere esta ley;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Aplicar los protocolos que al efecto expida el ejecutivo del Estado, dentro del ámbito de su competencia; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Las demás aplicables al ámbito municipal."
+              }
+            ]
+          },
+          {
+            "Artículo": 37,
+            "Texto": "Cuando una institución pública, privada o social se haga cargo de una persona adulta mayor, en corresponsabilidad con la familia en caso de existir, deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proporcionar atención integral de acuerdo con su competencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Otorgar cuidado para su salud física y mental;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar actividades para su desarrollo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Llevar un registro de ingresos y egresos de las personas adultas mayores;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Llevar el seguimiento, evolución y evaluación de los casos atendidos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Llevar un expediente personal e integral, y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Expedir resumen del expediente en caso de que sea solicitado por sus familiares o la institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado."
+              }
+            ]
+          },
+          {
+            "Artículo": 38,
+            "Texto": "Todas las instituciones públicas, privadas y sociales que presten asistencia a las personas adultas mayores, deberán contar con personal que posea aptitud y conocimientos comprobables orientados a la atención de éstos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "El Gobierno del Estado promoverá programas de apoyo económico o en especie para la población de personas adultas mayores que no sean autosuficientes y no dependan de familiar alguno económicamente a partir de los sesenta años e impulsará programas alternativos para revertir dicha situación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único De las sanciones",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "Son responsabilidades administrativas en contra de los servidores públicos que realicen cualquier acto u omisión que obstaculice el buen desempeño en la función pública dentro de la esfera de las prestación de servicios públicos, la administración o procuración de justicia, así como trámites de carácter administrativo que impliquen el menoscabo de los derechos de las personas adultas mayores previsto en esta Ley, así como las sancionadas por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.\nEn el supuesto de que un servidor público haya incurrido en responsabilidad administrativa, penal o civil serán de observancia las sanciones previstas en los ordenamientos relativos a cada una de las competencias ya señaladas.\nARTÍCULOS TRANSITORIOS\nPrimero. Se abroga el decreto 23563/LIX/11 que contiene la Ley para el Desarrollo Integral del Adulto mayor del Estado de Jalisco.\nSegundo. - El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Publico del Estado de Jalisco, determinará los recursos suficientes para la implementación y ejecución de las acciones para la atención Integral de las personas adultas mayores con el presupuesto que para tal efecto se asigne para el cumplimiento de la nueva Ley de los Derechos de las Personas Adultas Mayores del Estado de Jalisco.\nTercero. - El presente decreto entrará en vigor al día siguiente día de su publicación en el periódico oficial \"El Estado de Jalisco\".\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 08 de octubre de 2024\nDiputada Presidenta Claudia Murguía Torres\nDiputado Secretario Julio César Hurtado Luna\nDiputada Secretaria Alejandra Margarita Giadans Valenzuela\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 11 del mes de octubre de 2024.\nEnrique Alfaro Ramírez Gobernador Constitucional del Estado de Jalisco\nJuan Enrique Ibarra Pedroza Secretario General de Gobierno\nLEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE JALISCO\nAPROBACIÓN: 08 de octubre de 2024\nPUBLICACIÓN: 12 de octubre de 2024 sec. XI\nVIGENCIA: 13 de octubre de 2024",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

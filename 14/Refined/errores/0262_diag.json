@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 27,
+  "n_perm_fracciones": 155,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 4,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Tribunal de Justicia Administrativa",
+    "Capítulo III Sala Superior",
+    "Capítulo IV Salas",
+    "Capítulo V Junta de Administración",
+    "Capítulo VI Magistrados",
+    "Capítulo VII Secretarios y Actuarios",
+    "Capítulo VIII Jurisprudencia",
+    "Capítulo IX Disposiciones complementarias"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

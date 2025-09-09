@@ -1,0 +1,818 @@
+{
+  "0246.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto:\nNÚMERO 25338/LX/15 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley tiene por objeto crear y regular la estructura, funcionamiento y atribuciones del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, como organismo público descentralizado del Poder Ejecutivo del Estado de Jalisco, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación del Estado de Jalisco.\nEl Colegio tendrá su domicilio en la ciudad de Guadalajara, Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para efectos de este ordenamiento se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autoridad Educativa Estatal: la Secretaría de Educación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autoridad Educativa Federal: la Secretaría de Educación Pública;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Colegio: el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco;\nDirector: el Director General del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "SNMCE: el Sistema Nacional de Mejora Continua de la Educación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Del Objeto y Atribuciones del Colegio",
+        "Artículos": [
+          {
+            "Artículo": 3,
+            "Texto": "El Colegio tendrá por objeto, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impartir e impulsar la educación media superior tecnológica, propiciando la calidad educativa, la equidad y la vinculación con las necesidades de desarrollo regional y nacional;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fundamentar la educación que imparta en los resultados del progreso científico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover, directamente o en coordinación con instancias públicas o privadas, la investigación científica aplicada, el desarrollo e innovación tecnológica y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación; e\nImpulsar la conformación de redes de cooperación e intercambio académico entre instituciones y cuerpos académicos a nivel nacional e internacional."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Para el cumplimiento de su objeto, el Colegio tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impartir educación tecnológica o general del nivel medio superior en las modalidades y opciones educativas previstas por la Autoridad Educativa Federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formular, en coordinación con la Dirección General de Educación Tecnológica Industrial, sus propios planes y programas de estudio, así como establecer las modalidades educativas que garanticen que el aprendizaje de los educandos sea acorde con las necesidades del sector productivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer, organizar, administrar y contribuir al sostenimiento de planteles educativos dentro del Estado, en el lugar y número que estime convenientes y que se contemplen en su Presupuesto, contando previamente con el aval de las autoridades educativas federal y estatal, según corresponda;\nProponer a la autoridad educativa competente las adiciones o reformas que, en su opinión, deban hacerse al nivel educativo, planes y programas de estudio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Expedir certificados de estudios y otorgar diplomas y títulos académicos relacionados con su nivel de enseñanza, así como gestionar la validación de los mismos y la expedición de la cédula correspondiente ante la instancia competente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Verificar que los procesos de control escolar que desarrollan sus planteles cumplan con la normatividad establecida;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Celebrar convenios con instancias internacionales y nacionales, así como con dependencias federales, estatales, municipales e instituciones particulares, que conlleven un beneficio para el Colegio y la consecución de sus fines;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover, en el ámbito de su competencia, las actividades tendientes a la protección del medio ambiente, al desarrollo del deporte, la cultura, la recreación y las actividades cívico-sociales;\nDesarrollar proyectos de investigación educativa; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le sean afines con las anteriores o que le sean conferidas en otras disposiciones legales aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "El Colegio se compone de los siguientes órganos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta Directiva;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Directores de Planteles;\nEl Órgano de Control y de Vigilancia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Patronato; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El Comité Técnico Consultivo de Vinculación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda De la Junta Directiva",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "La Junta Directiva es el máximo órgano de gobierno del Colegio y se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, que serán:\na) La persona titular de la Secretaría de Educación del Estado, quien la presidirá;\nb) La persona titular de la Subsecretaría de Educación Media Superior; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La persona titular de la Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dos representantes del Gobierno Federal, designados por la Secretaría de Educación Pública;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante del sector social, designado por la Junta Directiva a propuesta del titular del Poder Ejecutivo del Gobierno del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dos representantes del sector productivo que participen en el financiamiento del Colegio, mediante un Patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus estatutos.\nLos integrantes de la Junta Directiva podrán designar a sus suplentes, quienes tendrán las mismas prerrogativas que el propietario."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Tendrán la obligación de asistir a las sesiones de la Junta Directiva, sin ser integrantes de la misma, con derecho a voz pero sin voto, los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Director General del Colegio, quien fungirá como Secretario Técnico de la Junta Directiva; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Comisario nombrado por el titular de la Contraloría del Estado."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Los cargos de los miembros de la Junta Directiva son de carácter honorífico y, por tanto, no remunerados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "El Presidente de la Junta Directiva podrá invitar a participar a las sesiones de la misma, a otros representantes de la administración pública estatal y federal para tratar temas específicos relacionados con la funcionalidad del Colegio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "La Junta Directiva tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autorizar la gestión de la modificación, ampliación y actualización de su oferta educativa, así como del establecimiento de planteles del Colegio, ante la Autoridad Educativa Federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Analizar, revisar y autorizar los anteproyectos de los presupuestos anuales de ingresos y egresos del Colegio, y vigilar su ejercicio, de conformidad con las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autorizar y vigilar el ejercicio del Presupuesto Interno Anual de Ingresos y Egresos del Colegio;\nAprobar el proyecto de Reglamento Interno y enviarlo al titular del Poder Ejecutivo para su aprobación y posterior publicación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar las bases conforme a las cuales podrán celebrarse los convenios en los que el Colegio sea parte;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombrar a los miembros del Patronato y removerlos por causas justificadas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Conocer y, en su caso, aprobar la designación del auditor externo que dictaminará anualmente los estados financieros del Colegio;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Expedir las normas y disposiciones reglamentarias internas para la mejor organización y funcionamiento técnico docente y administrativo del Colegio;\nConocer y resolver los asuntos del Colegio que no sean de la competencia de algún otro órgano de gobierno del mismo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aprobar la constitución de órganos auxiliares temporales de apoyo tanto al Colegio como a la Junta Directiva, los que en ningún caso tendrán autonomía administrativa, financiera o presupuestal, conforme a las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Aprobar la suscripción de los actos jurídicos a nombre del Colegio que afecten su patrimonio o constituyan deuda, de conformidad a lo que establezca la Ley de Deuda Pública del Estado de Jalisco y sus Municipios y demás ordenamientos aplicables;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proponer al titular del Poder Ejecutivo del Estado de Jalisco, la terna de candidatos a ocupar la Dirección General;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Proponer al titular del Poder Ejecutivo del Estado de Jalisco, la remoción del Director General, cuando medie cause grave, de conformidad con la normatividad aplicable;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Aprobar el plan de actividades y ejercer las demás funciones que se determinan en esta Ley y el Reglamento Interno; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás que les sean conferidas por la normatividad aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "La Junta Directiva funcionará en pleno y sesionará válidamente con la asistencia de la mitad más uno de sus integrantes, siempre y cuando entre ellos se encuentre el Presidente o su suplente.\nLas resoluciones se tomarán con base en el voto de la mayoría de sus miembros presentes. El Presidente tendrá voto de calidad en caso de empate.\nLa Junta Directiva deberá sesionar de manera ordinaria al menos una vez cada trimestre, y de forma extraordinaria cuantas veces sea necesario.\nEn los casos en que no sea posible la presencia física de los integrantes de la Junta Directiva en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.\nLa convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.\nEn caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Presidente convocará por escrito con acuse de recibo, cuando menos con diez días hábiles de antelación tratándose de sesiones ordinarias y con por lo menos un día hábil tratándose de sesiones extraordinarias. En la convocatoria se deberá señalar claramente el tipo de sesión, el lugar, fecha y hora en que se llevará a cabo la misma, así como el correspondiente orden del día.\nTambién se podrá convocar a sesiones ordinarias y extraordinarias, cuando así lo solicite por lo menos la mitad de los integrantes de la Junta Directiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "En las sesiones ordinarias, cuando no se integre el quórum, se emitirá una segunda convocatoria para llevar a cabo la sesión en un plazo mínimo de veinticuatro horas y máximo de diez días hábiles siguientes a la fecha en que no se llevó a cabo la primera reunión.\nEn el caso de la segunda convocatoria el quórum se conformará con los integrantes de la Junta Directiva que asistan a la misma, siempre y cuando entre ellos se encuentre el Presidente.\nEn relación a las sesiones extraordinarias el quórum se conformará con los miembros que asistan siempre y cuando entre los mismos se encuentre el Presidente, y en las mismas no se incluirán asuntos generales.\nLo no contemplado en esta Ley respecto al funcionamiento de la Junta Directiva, tiempos y formalidades para llevar a cabo las sesiones ordinarias y extraordinarias de dicho órgano, se establecerá en su Reglamento Interno.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera Del Secretario Técnico",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "El Secretario Técnico es un auxiliar de la Junta Directiva cuyo cargo se deposita en el Director General.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El Secretario Técnico tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Auxiliar al Presidente de la Junta Directiva en el desahogo de las sesiones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Levantar el acta de cada sesión que sea celebrada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recopilar la información que se presentará en las sesiones de la Junta Directiva;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Enviar la información antes mencionada a todos los integrantes de dicho órgano;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Certificar y, en su caso, remitir, previo acuerdo del Presidente, los documentos de la Junta Directiva; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que le sean conferidas por este ordenamiento y por las disposiciones reglamentarias del Colegio."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Cuarta De la Dirección General",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "La Dirección General es el órgano de administración del Colegio, el cual estará a cargo de un Director General quien será el representante y máxima autoridad ejecutiva del Colegio.\nEl Director General será designado por el titular del Poder Ejecutivo del Estado, a partir de una terna propuesta por la Junta Directiva. Durará en su cargo tres años, pudiendo ser ratificado para un nuevo periodo, en una sola ocasión.\nPara ser electo deberá cumplir con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con título de licenciatura preferentemente en el área de las ciencias educativas o de humanidades, o acreditar experiencia en la misma al momento de su designación."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "La ausencia temporal o absoluta del Director General, será cubierta en la forma siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando su ausencia sea menor a treinta días, el Director General nombrará a un Encargado de la Dirección General;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En caso de que la ausencia sea mayor a treinta días y menor a noventa, la misma será cubierta por un Director General Interino, designado por la Junta Directiva; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando la ausencia sea absoluta o mayor a noventa días, la Junta Directiva deberá sesionar en un plazo no mayor a cinco días naturales, para designar al Director General Provisional, en tanto el Titular del Poder Ejecutivo designa al nuevo Director General conforme al procedimiento establecido en el artículo 16 de la presente Ley.\nPara los efectos de este artículo, la persona que cubra las ausencias deberá cumplir con los requisitos del artículo anterior."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "El Director General tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conducir la administración general de las actividades del Colegio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar legalmente al Colegio, ante las autoridades administrativas, judiciales y del trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley. Estará investido de poder general para pleitos y cobranzas y para\nactos de administración; podrá, a su vez, otorgar y revocar poderes generales o especiales para pleitos y cobranzas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Celebrar convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, con organismos del sector social y privado, nacional y extranjero, así como con personas físicas o jurídicas, para la ejecución de las acciones en materia de política educativa, sujetándose a las reglas generales que para tal efecto fije la Junta Directiva;\nSometer a la aprobación de la Junta Directiva los proyectos de los presupuestos de ingresos y egresos del Colegio, así como sus adecuaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar a las autoridades educativas y al Sistema Nacional de Mejora Continua de la Educación todas las facilidades y colaboración para las evaluaciones que establece la Ley General de Educación y demás ordenamientos aplicables;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proporcionar oportunamente toda la información que le sea requerida por las autoridades educativas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Asistir y participar en las sesiones de la Junta Directiva;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Ejecutar los acuerdos de la Junta Directiva;\nHacer cumplir las normas y disposiciones que rijan al Colegio;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Evaluar y reportar a la Junta Directiva los resultados del servicio educativo que preste cada plantel del Colegio, así como a las instancias correspondientes;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Proponer a la Junta Directiva los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento del objetivo del Colegio y cuya tendencia sea establecer condiciones que permitan brindar una educación de calidad, equitativa e igualitaria en oportunidades de acceso y permanencia en el servicio educativo;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proponer el establecimiento de planteles, así como de modalidades y opciones educativas conforme a la demanda existente en las localidades, con base en los lineamientos emitidos por las autoridades educativas competentes;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Nombrar, promover y remover, con estricto apego a la Ley Federal del Trabajo y ordenamientos relativos, al personal docente del Colegio, así como disponer de lo necesario para elevar el nivel académico y profesional del personal adscrito;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Efectuar en los términos de esta Ley y el Reglamento Interno del Colegio, las designaciones, promociones y remociones del personal administrativo del Colegio;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Presentar a la Junta Directiva, en la última sesión de cada período escolar, un informe de las actividades realizadas por el Colegio durante el último ciclo escolar;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Presentar anualmente a la Junta Directiva los estados financieros, los cuales deberán ser sometidos a revisión y validación de las autoridades competentes, tanto en el ámbito estatal como en el federal;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Delegar la representación legal del Colegio en el titular del área jurídica, el cual deberá informar semestralmente sobre los asuntos atendidos tanto al Director General como a la Junta Directiva;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Presentar trimestralmente a la Junta Directiva, el avance de los estados financieros, del programático presupuestal, del cumplimiento de los acuerdos tomados en sesiones anteriores y de los avances de los programas de inversión; así como de las actividades desarrolladas por el Colegio;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Ejecutar las acciones de mantenimiento preventivas y correctivas en los inmuebles e instalaciones del Colegio;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Designar al Encargado de la Dirección General que sustituirá sus ausencias como Director General, de conformidad a la normatividad aplicable;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Atender la armonización contable fijada por la Ley General de Contabilidad Gubernamental, así como sus postulados básicos y demás elementos establecidos por dicha Ley;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Certificar y validar documentos internos del Colegio; y"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Las demás que se señalen en otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "La Dirección General contará con la estructura técnica administrativa que le haya sido autorizada por la Autoridad Educativa Federal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Quinta De los Directores de los Planteles",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "Para ser Director de Plantel deberá reunir los requisitos establecidos en la Ley General del Servicio Profesional Docente, la Ley de Educación del Estado Libre y Soberano de Jalisco y demás ordenamientos relacionados. La duración en su cargo será la que establezca dicha normatividad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Los Directores de los Planteles tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirigir académica, técnica y administrativamente al plantel, atendiendo las directrices del Director General;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejecutar las acciones de mantenimiento preventivas y correctivas en los planteles; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demás que le establezca el Reglamento Interno del Colegio u otros ordenamientos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Sexta Del Órgano de Control y de Vigilancia",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "El órgano de vigilancia del Colegio se integrará por un comisario público propietario y un suplente, designados por la Contraloría del Estado.\nEl órgano de vigilancia depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Para el ejercicio de sus funciones, los comisarios tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Evaluar el desempeño general y por funciones del Colegio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Examinar y evaluar los sistemas, mecanismos y procedimientos de control;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Realizar estudios sobre la eficacia en el ejercicio del gasto corriente y de inversión;\nSolicitar la información y efectuar los actos de visita, inspección y vigilancia que requieran para el cumplimiento de sus funciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Apoyar la función directiva y promover el mejoramiento de gestión del organismo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Efectuar revisiones y auditorías;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Presentar a la Junta Directiva y al Director General los informes resultantes de las auditorías, exámenes y evaluaciones realizados; y\nLas demás que establezcan otras disposiciones legales y reglamentarias aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Séptima Del Patronato",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "El Patronato del Colegio tendrá como finalidad apoyar a la institución en la obtención de recursos financieros adicionales y distintos a los suministrados por la Federación y el Estado, para la óptima realización de sus funciones y se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Vicepresidente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un Secretario; y\nTres Vocales.\nLos integrantes del Patronato serán nombrados por la Junta Directiva, conforme al procedimiento establecido en el Reglamento Interno.\nLa presidencia se ejercerá de manera rotativa cada año entre sus integrantes. El cargo de miembro del Patronato será de carácter honorífico y no recibirá retribución alguna por dicho concepto.\nLa renovación total o parcial del Patronato se hará con apego a lo que disponga el reglamento de dicho órgano."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Son atribuciones del Patronato:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar acciones para obtener ingresos adicionales y diferentes a los suministrados por la Federación y el Estado, necesarios para el funcionamiento del Colegio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Administrar, acrecentar y poner a disposición del Colegio los recursos que gestione;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer la adquisición de los bienes indispensables para la realización de actividades del Colegio;\nPresentar a la Junta Directiva, dentro de los tres primeros meses siguientes a la conclusión del ejercicio, los estados financieros dictaminados por auditor externo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Apoyar las actividades del Colegio en materia de difusión y vinculación con el sector productivo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ejercer las demás facultades que le confiere este ordenamiento y las demás disposiciones reglamentarias del Colegio."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Para ser miembro del Patronato se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener un modo honesto de vivir; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Gozar de buena reputación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Octava Del Comité Técnico Consultivo de Vinculación",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "El Comité Técnico Consultivo de Vinculación es un órgano de consulta con el sector productivo, el cual estará integrado de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Director General del Colegio, quien lo presidirá; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cinco vocales designados por la Junta Directiva."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "El Comité Técnico Consultivo de Vinculación tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asesorar en materia de capacitación laboral y desarrollo económico al Colegio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer acciones y actividades que resulten en beneficio de la comunidad educativa jalisciense;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Servir de órgano de consulta para las autoridades del Colegio; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que señalen los ordenamientos legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "El funcionamiento del Comité Técnico Consultivo de Vinculación se establecerá en el reglamento que la Junta Directiva apruebe para el efecto.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Patrimonio",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "El patrimonio del Colegio estará constituido por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes muebles e inmuebles, los archivos escolares académicos y administrativos, equipo, acervo bibliográfico y documental, obra artística e intelectual y los derechos de autor que de ellos se deriven, invenciones y patentes, inversiones, valores, créditos, efectivo, así como los demás bienes y derechos que le hayan sido asignados, que haya adquirido el Colegio o que en el futuro adquiera por cualquier título legal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los productos que obtenga por la prestación de sus servicios en el cumplimiento de su objeto, los cuales serán administrados por el Colegio, de conformidad a su presupuesto de egresos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal, así como los organismos del sector social o privado que coadyuven a su funcionamiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisaria;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El nombre, el lema, el escudo y los logotipos que registre ante las autoridades competentes; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los intereses, dividendos, rendimientos, utilidades y rentas que se deriven de sus bienes y valores."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "Los bienes inmuebles propiedad del Colegio serán inembargables e imprescriptibles, y están exentos de contribuciones e impuestos; asimismo, gozarán de los privilegios del patrimonio del Estado, por lo que en ningún caso podrá constituirse gravamen sobre ellos durante el tiempo en que se encuentren destinados al cumplimiento del objeto del Colegio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Corresponderá al Congreso del Estado, previa solicitud de la Junta Directiva, emitir la declaratoria de desincorporación de bienes inmuebles patrimonio del Colegio. Dicha resolución será inscrita en el Registro Público de la Propiedad. A partir de ese momento, el\ninmueble desincorporado será considerado del dominio privado de la institución y sujeto a las disposiciones de derecho común.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del Personal",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "Para el cumplimiento de su objetivo, el Colegio contará con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Personal Docente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Personal Técnico Docente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Personal con Funciones de Dirección; y\nPersonal Administrativo.\nAsimismo, podrá contar con Personal Docente con Funciones de Asesoría Técnica Pedagógica y Personal con Funciones de Supervisión, de acuerdo a la estructura que le autorice la Autoridad Educativa Federal y conforme a la Ley General del Servicio Profesional Docente."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "Las relaciones laborales del Colegio se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.\nEl ingreso, la promoción, el reconocimiento y la permanencia del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente, del Personal con Funciones de Dirección y del Personal con funciones de Supervisión, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley de Educación del Estado Libre y Soberano de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Los nombramientos que se expidan para formalizar la relación jurídica con el Personal Docente y con el Personal con Funciones de Dirección o Supervisión, en razón de su temporalidad podrán ser:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Provisional: nombramiento que cubre una vacante temporal menor a seis meses;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por tiempo fijo: nombramiento que se otorga por un plazo previamente definido; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Definitivo: nombramiento de base que se da por tiempo indeterminado en términos de la Ley General del Servicio Profesional Docente y de la legislación laboral."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "El personal administrativo podrá ser de base o de confianza.\nLa categoría de trabajador de confianza depende de la naturaleza de las funciones desempeñadas y no de la designación que se dé al puesto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "El personal del Colegio gozará de la seguridad que otorga el Instituto Mexicano del Seguro Social o, en su caso, de la Ley del Instituto de Pensiones del Estado de Jalisco, sin perjuicio de que se brinde otro tipo de servicio médico y de seguridad social, lo anterior de conformidad con la disponibilidad presupuestal y las disposiciones legales aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De los Alumnos",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "Serán alumnos del Colegio, todos aquellos que una vez admitidos, se encuentren inscritos para cursar alguno de los programas académicos que se impartan, habiendo cumplido con los requisitos y procedimientos de selección e ingreso establecidos, los cuales tendrán los derechos y obligaciones que las disposiciones reglamentarias determinen.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga el decreto número 16584, mediante el cual se creó el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, publicado en el Periódico Oficial “El Estado de Jalisco” el 21 de junio de 1997, y sus reformas.\n\nA partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de 90 días hábiles para realizar las adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.\nSALON DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 26 DE MARZO DE 2015-04-28\nDiputada Presidenta Gabriela Andalón Becerra\nDiputado Secretario\nDiputado Secretario Jaime Ismael Díaz Brambila\nJuan Manuel Alatorre Franco\nPROMULGACIÓN DEL DECRETO 25338/LX/15, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO EN SESIÓN DEL DÍA 26 DE MARZO DE 2015.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 13 días del mes de abril de 2015 dos mil quince.\nEl Gobernador Constitucional del Estado Jorge Aristóteles Sandoval Díaz\nEl Secretario General de Gobierno Roberto López Lara\nTABLA DE REFORMAS Y ADICIONES\n25825/LXI/16.- Se reforma el artículo 3º de la Ley Orgánica del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco.- May. 17 de 2016 sec. IV.\n28251/LXII/20.- Se reforman los artículos 20y 34 de la Ley Orgánica del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco.- Publicado en el Periódico Oficial “El Estado de Jalisco”.- Dic. 29 de 2020. Secc. V.\n28290/LXII/21.- Se reforma el artículo 2 de la Ley Orgánica del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco.- Mar. 9 de 2021 sec. V.\n28308/LXII/21.- Se reforman las fracciones V y XIII del artículo 18 de la Ley Orgánica del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco.- Mar. 11 de 2021 sec.",
+            "Fracciones": [
+              {
+                "Fracción": "III",
+                "Texto": "28399/LXII/21.-Se adiciona un último párrafo al artículo 11 de la Ley Orgánica del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco.- Jul. 6 de 2021. Secc. IV.\n29179/LXIII/23.- Se reforma el artículo 6 fracción I de la Ley Orgánica del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco.- May. 23 de 2023 sec. IV.\nLEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO\nAprobación: 26 de marzo de 2015\nPublicación: 25 de abril de 2015 sec. IV\nVigencia: 26 de abril de 2015."
+              }
+            ]
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se derogan todas las disposiciones legales que se opongan al presente\nDecreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "A la fecha de entrada en vigor del presente Decreto, el Organismo Público Descentralizado denominado Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco se subrogará en todas las obligaciones que hubiere contraído el mismo organismo de conformidad con la ley que se abroga, subsistiendo las condiciones, recursos humanos, materiales y financieros existentes a la fecha.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "En tanto se tienen debidamente implementados y en operación los concursos y los procesos de evaluación que defina el Instituto Nacional para la Evaluación de la Educación, se estará a lo previsto en las disposiciones aplicables hasta antes del 12 de septiembre de 2013, fecha en que entra en vigor la Ley General del Servicio Profesional Docente, sin perjuicio de que la Autoridad Educativa y el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, en el ámbito de sus respectivas competencias, realicen todas las acciones que determinen como necesarias para el cumplimiento de los propósitos del Servicio Profesional Docente.\nEn caso de que se hayan iniciado en el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco procedimientos de promoción y escalafonarios antes del 12 de septiembre\nde 2013, y se encuentren pendientes de resolución, se desahogarán conforme a la normatividad que les era aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, se ajustará a los procesos de evaluación y actividades de regularización a que se refiere la Ley General del Servicio Profesional Docente y lo correlativo de la Ley de Educación del Estado de Jalisco. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco, no será separado del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco y será readscrito para continuar en otras tareas dentro de dicho organismo, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.\nEl personal que no se sujete a las evaluaciones o no se incorpore a los programas de regularización del artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco, será separado del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco sin responsabilidad para éste.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en el Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco que a la entrada en vigor de la Ley General del Servicio Profesional Docente tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación contenida en el artículo 52 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley.\nSerá separado del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco sin responsabilidad para éste, el personal que:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se niegue a participar en los procesos de evaluación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación a que se refiere el\nartículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco; o"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la Ley de Educación del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "La Junta Directiva propondrá para su aprobación y posterior publicación, al titular del Poder Ejecutivo del Estado, el Reglamento Interno del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco dentro de un plazo máximo de seis meses, contados a partir de la fecha en que entre en vigor el presente ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "La Junta Directiva cuenta con un periodo máximo de seis meses para adecuar a la presente Ley el marco normativo interno del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco, contados a partir de la fecha en que entre en vigor el presente ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "Serán respetados los derechos laborales adquiridos con anterioridad a la entrada en vigor del presente decreto de los trabajadores del organismo.\nTRANSITORIOS DEL DECRETO 28251/LXII/20",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".\nTRANSITORIOS DEL DECRETO 28399/LXII/21",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "0241.JSON": {
+    "Decreto": "Lic. Francisco Javier Ramírez Acuña, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 20449.- EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA.",
+    "Año_publicación": null,
+    "Título": "LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO PRIMERO Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La Universidad Politécnica de la Zona Metropolitana de Guadalajara, es un organismo público descentralizado del Gobierno del Estado de Jalisco, con personalidad jurídica y patrimonio propio, con domicilio oficial en el municipio de Zapopan, Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para efectos del presente ordenamiento, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Universidad. La Universidad Politécnica de la Zona Metropolitana de Guadalajara;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autoridad Educativa. La Secretaría de Educación Pública, a través de la Coordinación de Educación Media Superior y Superior; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinación. La Coordinación General de Universidades Politécnicas."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "La Universidad Tecnológica de la zona Metropolitana de Guadalajara se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado Libre y Soberano de Jalisco; la Ley General de Educación; Ley de Educación del Estado Libre y Soberano de Jalisco; por la presente Ley, por las bases relativas del Plan Estatal de Desarrollo; por los Reglamentos Universitarios que sus propios órganos expidan y por las demás disposiciones legales que le sean aplicables..",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "La Universidad formará parte del Sistema Nacional de Universidades Politécnicas que coordina la Secretaría de Educación Pública y se adhiere al nivel, modelo, planes y programas de estudio que apruebe la Autoridad Educativa.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO Del Objeto y Atribuciones de la Universidad",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "La Universidad tendrá por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impartir educación superior en los niveles de licenciatura, especialización tecnológica y otros estudios de posgrado, así como cursos de actualización en sus diversas modalidades, para preparar profesionales con una sólida formación técnica y en valores, conscientes del contexto nacional en lo económico, político y social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desarrollar e impulsar la investigación científica y tecnológica que contribuya al desarrollo regional, estatal y nacional;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Prestar servicios de asesoría, elaboración de proyectos, desarrollo de prototipos y capacitación técnica a los sectores público, social y privado que lo soliciten; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Elaborar programas de educación continua con orientación a la capacitación para el trabajo y al fomento de la cultura tecnológica de la región y el Estado."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Para el cumplimiento de su objeto, la Universidad tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Organizar su estructura administrativa de conformidad con su reglamento interno y contratar los recursos humanos necesarios para su operación de conformidad a su disponibilidad presupuestal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Adoptar la organización académica establecida por la Autoridad Educativa y en su caso proponer modificaciones a la misma, a través de la Coordinación General de Universidades Politécnicas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Planear y desarrollar conjuntamente con la Autoridad Educativa, los programas de estudios que se impartirán en los grados académicos superiores que ofrezca la Universidad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fijar conjuntamente con la Autoridad Educativa, el calendario escolar;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Planear y desarrollar programas de investigación e impulsar la actualización tecnológica y dirigirlos tanto a la comunidad universitaria, como a la población en general;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer a la Autoridad Educativa las adiciones o reformas que, en su opinión, deban hacerse a los planes y programas de estudios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Adoptar la modalidad académica conforme a los planes y programas de estudio, así como las carreras educativas que apruebe la Secretaría de Educación Pública, hasta la constitución formal del Consejo Nacional de Universidades Politécnicas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Administrar libremente su patrimonio con sujeción al marco legal que le impone su carácter de organismo público descentralizado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Emitir las disposiciones necesarias, con la finalidad de hacer efectivas las atribuciones que esta ley le confiere;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Establecer los procedimientos y requisitos de acreditación y certificación de estudios, los cuales deberán ser congruentes con los adoptados por la Coordinación;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Organizar actividades culturales y deportivas para la participación de la comunidad universitaria;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Regular los procedimientos de selección, ingreso y permanencia de los alumnos en la"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Regular los procedimientos de ingreso, permanencia y promoción, del personal académico, atendiendo las recomendaciones de la Coordinación y aquellas que proponga la Autoridad Educativa;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Expedir certificados de estudios, títulos, grados académicos y diplomas;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Conferir grados honoríficos, distinciones, reconocimientos y estímulos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Establecer equivalencias y criterios de revalidación de estudios realizados en otras instituciones de enseñanza superior nacionales y extranjeras;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Establecer las aportaciones de cooperación y recuperación por los servicios que presta;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Planear, programar y desarrollar actividades tecnológicas de investigación y de difusión;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Impulsar estrategias de participación y concertación con los sectores público privado y social, para la realización de actividades orientadas al desarrollo tecnológico, con un alto nivel de eficiencia y sentido social;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Celebrar convenios para la obtención de servicios de asesoría técnica, y capacitación para la comunidad universitaria con instituciones de educación superior y centros de investigación estatales, nacionales y extranjeros;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Celebrar convenios de intercambio científico y formación complementaria de profesores e investigadores con instituciones de educación superior y centros de investigación estatales, nacionales y extranjeros;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Establecer órganos y mecanismos de apoyo financiero;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Promover la cultura científica y tecnológica; y"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Desarrollar un sistema de seguimiento de egresados."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO De los Órganos de la Universidad",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "Son órganos colegiados de la Universidad los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta Directiva;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Consejo de Participación Social; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Consejo de Calidad"
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Son organismos unipersonales de la Universidad:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Rector; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los Directores Académicos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA De la Junta Directiva",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "La Junta Directiva será el máximo órgano de gobierno de la Universidad y se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuatro representantes del Poder Ejecutivo del Estado, entre los cuales se encontrarán las personas titulares de:\na) Poder Ejecutivo;\nb) Secretaría de Educación;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Secretaría de Desarrollo Económico; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tres representantes del Poder Ejecutivo Federal, designados por quien sea titular de la Subsecretaría de Educación Superior;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tres representantes del sector social del Estado, a propuesta del Titular del Poder Ejecutivo del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Rector de la Universidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Titular del Órgano Interno de Control;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Una Secretaría, cuyo titular será designada por el Junta Directiva a propuesta de su Presidencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Una persona representante de las y los académicos de la Universidad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Una persona representante de las y los alumnos de la Universidad; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Una persona representante del Municipio en donde se encuentra la Universidad, a propuesta del Ayuntamiento.\nTodas las personas que integren la Junta Directiva asistirán a las sesiones con derecho a voz y voto, salvo los comprendidos dentro de las fracciones V, VI y IX, quienes sólo contarán con derecho a voz."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Para ser integrante de la Junta Directiva se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser mayor de 25 años y menor de 65 años al momento de la designación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener experiencia y prestigio en materia académica o profesional; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Gozar de buena reputación y de amplia solvencia moral."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Los integrantes de la Junta Directiva ejercerán su cargo por un periodo de cuatro años, con la posibilidad de ser ratificados por un período igual. La renovación parcial o total de la Junta Directiva, se hará con arreglo a lo que disponga el Reglamento Interno de la Universidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El cargo de integrante de la Junta Directiva será de carácter personal, honorífico e intransferible, por lo que no será remunerado. Cada integrante de la Junta Directiva designará a un suplente, quien asistirá a las sesiones en caso de ausencia del titular y tendrá sólo derecho a voz.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "La Junta Directiva funcionará en pleno y sesionará validamente con la asistencia de la mitad más uno de sus integrantes, sus resoluciones se tomarán con base en el voto de la mayoría de sus miembros presentes. El presidente contará con voto de calidad en caso de empate. Las sesiones ordinarias y extraordinarias de la Junta Directiva se celebrarán conforme a los tiempos y formalidades que se establezcan en el Reglamento Interno. En los casos en que no sea posible la presencia física de los integrantes de la Junta Directiva en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.\nLa convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.\nEn caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "La Junta Directiva de la Universidad, tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dictar las políticas y lineamientos generales para el debido funcionamiento de la institución;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar el Reglamento Interno, así como los reglamentos, estatutos, acuerdos y demás disposiciones necesarias para hacer efectivas las atribuciones que esta ley le confiere a la"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Remitir al titular del Poder Ejecutivo, el reglamento interno de la Universidad para su expedición;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Conocer, discutir y aprobar, en su caso, sobre los proyectos académicos que le sean presentados y los que surjan en su propio seno;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar la integración y modificación de la estructura orgánica de la Universidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integrar comisiones académicas y administrativas, las cuales funcionarán como órganos auxiliares de la Junta Directiva, para el estudio o trámite de los asuntos que les sean encomendados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fijar las reglas generales a las que deberá sujetarse la Universidad en la suscripción de acuerdos, convenios y contratos con dependencias o entidades de la administración pública federal, estatal o municipal, así como los organismos del sector público, social y privado nacional y extranjero, para la ejecución de acciones en materia de política educativa;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Examinar, discutir y en su caso, aprobar el proyecto anual de ingresos y el correspondiente a egresos;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Designar un auditor externo que dictaminará anualmente los estados financieros de la Universidad, sin menoscabo de las facultades que las leyes les otorguen a la Auditoria Superior del Estado, así como a la Contraloría del Estado, en sus respectivas competencias;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Analizar, discutir y en su caso aprobar anualmente los estados financieros dictaminados;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Conocer y aprobar, en su caso, los informes que deberá presentar el Rector a éste órgano;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Conocer, discutir y aprobar, en su caso, los temas que a su juicio deban ser incorporados a los planes y programas de estudios, y proponer su incorporación a la Autoridad Educativa;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Proponer a la Autoridad Educativa, la apertura o cierre de programas académicos;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Proponer al titular del Poder Ejecutivo del Estado de Jalisco, la terna de candidatos a ocupar la rectoría;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Nombrar a los directores de carrera, a partir de una terna propuesta por el Rector;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Otorgar reconocimientos y distinciones especiales al estudiantado y personal docente;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Designar a los integrantes del patronato de la Universidad;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Designar al Rector Interino, en caso necesario;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Otorgar al Abogado General poder para pleitos y cobranzas, así como de representación de la Universidad ante las distintas autoridades laborales, mercantiles, penales o cualquier otro órgano jurisdiccional en ausencia del Rector; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás que les sean conferidas por este ordenamiento y por las disposiciones reglamentarias de la Universidad, así como las que no se encuentren expresamente atribuidas a otros órganos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA Del Consejo de Participación Social",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "El Consejo de Participación Social, es un órgano colegiado de consulta, orientación y apoyo al gobierno y administración universitaria, mediante el cual se asegura la participación de las autoridades educativas, los sectores sociales y los productivos, especialmente interesados en la educación impartida por la propia Universidad; absteniéndose de intervenir en los aspectos laborales de la institución.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Consejo de Participación Social se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Rector;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Secretario Académico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Secretario Administrativo; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cinco miembros de reconocido prestigio en los ámbitos de la vida social, cultural, artística, científica y económica de la región o del país."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Las funciones del Consejo de Participación Social quedarán establecidas en el Reglamento Interior de la Universidad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "El Consejo de Calidad es el órgano responsable de la planificación en materia de política de calidad, encargado de su implementación, supervisión y evaluación en los niveles de la docencia, la investigación y la gestión que realiza, y promocionar la colaboración con instituciones de educación superior y centros de investigación estatales, nacionales y extranjeros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "El Consejo de Calidad se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Rector;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Secretario Académico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Secretario Administrativo; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cinco representantes de reconocido prestigio en el ámbito productivo regional, relacionado con las áreas del conocimiento impartidas por la Universidad"
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Las funciones del Consejo de Calidad quedarán establecidas en el Reglamento Interior de la Universidad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN CUARTA De la Rectoría",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "La Rectoría es el órgano de administración de la Universidad, la cual estará a cargo de un Rector, quien será la máxima autoridad ejecutiva y titular de la administración y gobierno de la Universidad; así como representante de la misma. El Rector será designado por el titular del Poder Ejecutivo del Estado, a partir de una terna propuesta por la Junta Directiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Para ser electo Rector se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser mayor de 30 años;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con título de posgrado relativo a alguna de las áreas académicas impartidas por la Universidad."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con experiencia laboral no menor a cinco años en empresas industriales o de servicios; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acreditar experiencia académica en instituciones de educación superior en el ámbito de la educación técnica, de cinco años anteriores a la designación."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "El cargo de Rector de la Universidad tendrá una duración de cuatro años, pudiendo ser ratificado por el titular del Poder Ejecutivo del Estado para el periodo inmediato, por una sola ocasión a propuesta de la Junta Directiva. En caso de remoción se sujetará a lo dispuesto por el Reglamento Interno y las leyes relacionadas con la materia.\nLa ausencia temporal del titular por un periodo no mayor de treinta días, será cubierta por un Rector Interino designado por la Junta Directiva; en el caso de ausencia definitiva, será nombrado un Rector Sustituto por el Gobernador del Estado a propuesta de la Junta Directiva. Las personas que desempeñen el cargo de Rector, aún con el carácter de Sustituto, no podrán ser electas o reelectas para el mismo puesto. En el caso de los rectores interinos, éstos solo podrán ser reelectos dentro del periodo en que les fue conferido ese carácter.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "El Rector tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conducir el funcionamiento de la Universidad, vigilando el cumplimiento de sus objetivos, planes y programas académicos, administrativos y financieros, así como la correcta operación de sus diversas áreas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer a la Junta Directiva los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento del objetivo de la"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presentar a la Junta Directiva los proyectos de reglamentos, manuales de organización, modificaciones de estructuras orgánicas y funcionales para su aprobación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar a la Junta Directiva para su evaluación y posterior aprobación, los proyectos del presupuesto anual de ingresos y egresos de la Universidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Presentar cuatrimestralmente a la Junta Directiva, un informe de los estados financieros del cumplimiento de los acuerdos tomados en sesiones anteriores y de los avances de los programas de inversión; así como de las actividades desarrolladas por la Universidad para su correspondiente aprobación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Rendir a la Autoridad Educativa y a la Junta Directiva un informe anual de actividades institucionales al que deberá acompañarse un balance general contable;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ejercer la representación legal de la Universidad con las facultades de apoderado general judicial para pleitos y cobranzas y actos de administración;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Celebrar convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, con organismos del sector público, social y privado, nacional y extranjero; para la ejecución de acciones en materia de política educativa, sujetándose a las reglas generales que para tal efecto fije la Junta Directiva;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Nombrar, promover y remover con estricto apego al reglamento interno, al personal académico y administrativo de la Universidad, de lo cual informará oportunamente a la Junta Directiva; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le otorguen los demás ordenamientos legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Para el despacho de los asuntos que competan al Rector, éste se auxiliará del Abogado General, de las secretarías de área, de las direcciones, subdirecciones y jefaturas de departamento que estén previstas en el reglamento interno en el respectivo ámbito de sus funciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "El Abogado General de la Universidad será nombrado por el Rector de la Universidad, y ejercerá su encargo durante el mismo periodo de funciones de este. Para ser Abogado General se requiere contar con cedula profesional para el ejercicio de la licenciatura en derecho, así como contar preferentemente con estudios de posgrado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO CUARTO Del Patrimonio",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "El patrimonio de la Universidad estará constituido por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes muebles e inmuebles, los archivos escolares, académicos y administrativos, equipo, acervo bibliográfico y documental, obra artística e intelectual y los derechos de autor que de ellos se deriven, invenciones y patentes, inversiones, valores, créditos, efectivo, así como los demás bienes que haya adquirido o que en el futuro adquiera por cualquier título;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto, los cuales serán administrados por la Universidad, de conformidad a su presupuesto de egresos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal, así como los organismos del sector social para su funcionamiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los intereses, dividendos, rendimientos, utilidades y rentas que se deriven de sus bienes y valores;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisaria; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El nombre, el lema, el escudo y los logotipos que registre ante las autoridades competentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Los bienes propiedad de la Universidad serán inembargables e imprescriptibles y estarán exentos de toda clase de contribuciones, impuestos y derechos; así mismo gozarán de los privilegios del patrimonio del Estado, por lo que en ningún caso podrá constituirse gravamen sobre ellos, durante el tiempo en que se encuentren destinados al cumplimiento del objeto de la Universidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Corresponderá a la Junta Directiva, previa autorización del H. Congreso del Estado, autorizar la enajenación de bienes muebles propiedad de la Universidad, que dejen de ser destinados por la misma para la realización de sus funciones o para ser sustituidos por otro diverso.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO QUINTO Del Personal de la Universidad",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "Para el cumplimiento de su objetivo, la Universidad contará con el siguiente personal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Académico,"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "De confianza; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Administrativo."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "El personal académico será el contratado por la Universidad para el desarrollo de las funciones sustantivas de docencia, investigación y desarrollo tecnológico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "El personal de confianza, será todo aquel que realice funciones de dirección, inspección, vigilancia y fiscalización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "El personal administrativo, será aquel que no se encuentre comprendido en los artículos anteriores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "El ingreso del personal académico, se realizará mediante concurso de oposición. Su ejercicio se sujetará a los procedimientos y condiciones que para cada área del conocimiento señale la Autoridad Educativa. El personal académico deberá contar preferentemente con el grado académico de maestría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "La contratación del personal académico se realizará de acuerdo a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios. Su evaluación y permanencia se llevará a cabo de conformidad con la normatividad universitaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "Las relaciones laborales de la Universidad con su personal, se regirán por lo previsto en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "El personal universitario gozará de la seguridad social que establece la Ley del Instituto de Pensiones del Estado de Jalisco, sin perjuicio de que se brinde otro tipo de servicio médico y de seguridad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEXTO De los Alumnos",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "Serán alumnos de la Universidad, todos aquellos que una vez admitidos, se encuentren inscritos para cursar alguno de los programas académicos que se impartan, habiendo cumplido con los requisitos y procedimientos de selección e ingreso establecidos, en el Reglamento que para tal efecto se expida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "Son derechos y obligaciones de los alumnos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir la enseñanza que imparta la Universidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Obtener, mediante la acreditación de las respectivas pruebas de conocimiento, y demás requisitos establecidos, el título, diploma o grado universitario correspondiente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Formar parte de los órganos de gobierno de la Universidad, a través de su representante."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cooperar mediante sus aportaciones económicas, al cumplimiento de los objetivos de la"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Prestar el servicio social correspondiente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Realizar actividades académicas en los términos de los planes y programas correspondientes; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que establezcan los ordenamientos correspondientes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO SÉPTIMO Del Patronato",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "El Patronato de la Universidad tendrá como finalidad apoyar a la Institución en la obtención de recursos financieros adicionales, para la óptima realización de sus funciones y se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Rector de la Universidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tres representantes del sector social; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tres representantes del sector productivo.\nLos representantes de los sectores social y productivo serán designados a invitación de la Junta Directiva.\nSu presidencia se ejercerá de manera rotativa cada dos años entre sus integrantes, iniciando por el Rector. El cargo de miembro del Patronato será honorífico."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "Son atribuciones del Patronato:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar acciones para obtener ingresos adicionales, necesarios para el funcionamiento de la"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Administrar y acrecentar los recursos que gestione;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer la adquisición de los bienes indispensables para la realización de actividades de la Universidad, con cargo a recursos adicionales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar a la Junta Directiva dentro de los tres primeros meses siguientes a la conclusión del ejercicio, los estados financieros dictaminados por el auditor externo designado para tal efecto por dicho órgano de gobierno;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Apoyar las actividades de la Universidad en materia de difusión y vinculación con el sector productivo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ejercer las demás facultades que le confiere este ordenamiento y las demás disposiciones reglamentarias de la Universidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Para ser miembro del Patronato se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con experiencia reconocida en el ámbito social o empresarial; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Gozar de buena reputación y prestigio profesional o académico."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”. SEGUNDO. La Junta Directiva elaborará el Reglamento Interno de la Universidad dentro de un plazo máximo de seis meses, contados a partir de la fecha en que entre en vigor el presente ordenamiento. 28253\nTRANSITORIOS DEL DECRETO 28253/LXII/20",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".\nTRANSITORIO DEL DECRETO 28400/LXII/21\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 22 de enero de 2004\nDiputado Presidente\nJosé Trinidad Muñoz Pérez\nDiputado Secretario Ricardo Rodríguez Oropeza\nDiputado Secretario Ena Luisa Martínez Velasco\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 03 tres días del mes de febrero de 2004 dos mil cuatro.\nEl Gobernador Constitucional del Estado Lic. Francisco Javier Ramírez Acuña\nEl Secretario general de Gobierno Lic. Héctor Pérez Plazola\nTABLA DE REFORMAS Y ADICIONES\n26292/LXI/17.- Se reforman los artículos 9 en su fracción I y el artículo 37, de la Ley Orgánica de la Universidad Politécnica de la Zona Metropolitana de Guadalajara.- Mar. 16 de 2017 sec.",
+            "Fracciones": [
+              {
+                "Fracción": "III",
+                "Texto": "28253/LXII/20.- Se reforma el artículo 3 de la Ley Orgánica de la Universidad Tecnológica de La Zona Metropolitana de Guadalajara.- Dic. 29 de 2020 sec. V.\n28400/LXII/21.- Se adiciona un tercer párrafo del artículo13 de la Ley Orgánica de la Universidad Politécnica de la Zona Metropolitana de Guadalajara.- Jul. 6 de 2021 sec. IV.\n29179/LXIII/23.- Se reforma el artículo 9 de la Ley Orgánica de la Universidad Politécnica de la Zona Metropolitana de Guadalajara.- May. 23 de 2023 sec. IV.\nLEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA\nAPROBACION: 22 DE ENERO DE 2004.\nPUBLICACION: 10 DE FEBRERO DE 2004. SECCION V.\nVIGENCIA: 11 DE FEBRERO DE 2004."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

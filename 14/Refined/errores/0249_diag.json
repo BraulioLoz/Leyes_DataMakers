@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 26,
+  "n_perm_fracciones": 159,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II De los objetivos y fines del Instituto",
+    "Capítulo III De los órganos del Instituto",
+    "Capítulo IV De la Junta de Gobierno y sus atribuciones",
+    "Capítulo V De las atribuciones del Director General, del Tesorero y de las unidades administrativas del Instituto",
+    "Capítulo VI",
+    "Capítulo VII De los servidores públicos del Instituto",
+    "Capítulo VIII Del patrimonio del Instituto",
+    "Capítulo IX De la Contraloría."
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

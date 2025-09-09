@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 33,
+  "n_perm_fracciones": 140,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE SU ORGANIZACIÓN Y FUNCIONAMIENTO",
+    "CAPÍTULO III DE LOS CONSEJOS",
+    "CAPÍTULO IV DEL PATRIMONIO",
+    "CAPÍTULO V ORGANISMO FISCAL AUTÓNOMO",
+    "CAPÍTULO VI DE LA PRESTACIÓN DE LOS SERVICIOS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

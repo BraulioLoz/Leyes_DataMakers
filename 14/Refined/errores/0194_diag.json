@@ -1,0 +1,38 @@
+{
+  "n_chapters": 25,
+  "n_perm_articles": 63,
+  "n_perm_fracciones": 82,
+  "n_trans_caps": 1,
+  "n_trans_articles": 11,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO Del Objeto de la Ley",
+    "CAPÍTULO I De los Apoyos",
+    "CAPÍTULO II De la Capacitación de la Actividad Artesanal",
+    "CAPÍTULO III De la Planeación y Programación de la Actividad Artesanal",
+    "CAPÍTULO I Del Censo Artesanal",
+    "CAPÍTULO II Del Registro de Artesanos, Talleres y Empresas Artesanales",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De las Atribuciones del Consejo",
+    "CAPÍTULO I De la Naturaleza, Objetivos y Funciones del Instituto",
+    "CAPÍTULO II De la Integración del Instituto y la Junta de Gobierno",
+    "CAPÍTULO III De las Atribuciones de la Junta de Gobierno",
+    "CAPÍTULO IV Del Presidente de la Junta de Gobierno",
+    "CAPÍTULO V De las atribuciones del Secretario Técnico de la Junta de Gobierno",
+    "CAPÍTULO VI De las Sesiones de la Junta de Gobierno",
+    "CAPÍTULO VII Del Director General del Instituto",
+    "CAPÍTULO VIII De las Atribuciones del Director General del Instituto",
+    "CAPÍTULO IX De la Estructura del Instituto",
+    "CAPÍTULO X De las Ausencias y Suplencias de los Servidores Públicos",
+    "CAPÍTULO XI Del Régimen Fiscal del Instituto",
+    "CAPÍTULO XII Del Patrimonio del Instituto",
+    "CAPÍTULO UNICO",
+    "CAPÍTULO I De la Comercialización y la Gestoría Comercial",
+    "CAPÍTULO II Del Financiamiento",
+    "CAPÍTULO ÚNICO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 25
+  }
+}

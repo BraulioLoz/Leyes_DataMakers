@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 32,
+  "n_perm_fracciones": 42,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo único",
+    "Capítulo I De las obligaciones de los servidores públicos",
+    "Capítulo II Del procedimiento de entrega-recepción",
+    "Capítulo III De la preparación de la entrega-recepción al cambio de administración",
+    "Capítulo IV Del acto de entrega-recepción",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

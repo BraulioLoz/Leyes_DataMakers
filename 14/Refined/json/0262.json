@@ -1,0 +1,885 @@
+{
+  "0262.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto.\nNUMERO 26433/LXI/17 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 2, 3, 11, 15, 16 B, 16 F, 16 H, 16 J, 23, 136, 148, 178, 196, 197, 201, 203, 206, 207, 209, 213, 215, 238, 239, 240, 241 Y 243, Y DEROGA LOS ARTÍCULOS 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71 Y 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Ley - Objeto\n1. Esta ley es de orden e interés público y tiene por objeto regular la integración, competencia, atribuciones, organización y funcionamiento del Tribunal de Justicia Administrativa del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Ley - Glosario\n1. Para efectos de esta ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta: la Junta de Administración del Tribunal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presidente: el presidente del Tribunal, de la Sala Superior y de la Junta;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Reglamento: el reglamento interno del Tribunal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Sala Superior: la Sala Superior del Tribunal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Salas: las salas unitarias del Tribunal; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Tribunal: el Tribunal de Justicia Administrativa del Estado de Jalisco."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Tribunal de Justicia Administrativa",
+        "Artículos": [
+          {
+            "Artículo": 3,
+            "Texto": "Tribunal - Naturaleza\n1. El Tribunal es un organismo constitucional autónomo; tiene personalidad jurídica y patrimonio propios; y cuenta con autonomía técnica, de gestión, presupuestal y administrativa. El Tribunal residirá en el Área Metropolitana de Guadalajara, sin perjuicio de la existencia de Salas Regionales.\n2. El Tribunal es independiente en sus decisiones y autónomo para resolver los asuntos jurisdiccionales de su competencia.\n3. El Tribunal es la máxima autoridad estatal jurisdiccional en materia de justicia administrativa y de responsabilidades de los servidores públicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Tribunal - Competencia\n1. En materia de justicia administrativa, el Tribunal tiene competencia para conocer y resolver de las controversias jurisdiccionales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En contra de actos o resoluciones de autoridades pertenecientes a las administraciones públicas, estatal o municipales:\na) Que dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares y se consideren definitivos en los términos de la legislación aplicable;\nb) Sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios, celebrados por autoridades estatales o municipales;\n\nQue cause un agravio en materia fiscal, emitidos por autoridad fiscal competente y sean considerados como definitivos en los términos de la legislación aplicable;\nj) Que nieguen la indemnización o que por su monto no satisfagan al reclamante, y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la legislación en materia de responsabilidad patrimonial del Estado;\nk) Que constituyan créditos fiscales, por responsabilidades de los servidores públicos estatales o municipales, cuando sean considerados como definitivos; o\n\nResolver sobre las faltas administrativas graves en que incurran los servidores públicos estatales y municipales e imponer las sanciones correspondientes, sin perjuicio de otras responsabilidades derivadas de los mismos hechos;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Que impliquen una afirmativa ficta, en los términos de la legislación aplicable;\n\nEs poseedor, a título de propietario de los bienes embargados en el procedimiento económico coactivo seguido a otras personas, o acreedor preferente al fisco; o"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Que sean favorables a un particular, cuando la autoridad estatal o municipal promueva su nulidad;\ne) Derivados de la relación administrativa de los integrantes de las instituciones policiales y cuerpos de seguridad pública, estatales y municipales;\nf) Que determinen la existencia de una obligación fiscal, emitidos por autoridad fiscal competente y sean considerados como definitivos en los términos de la legislación estatal aplicable, y en caso de obligaciones fiscales determinadas conforme a las facultades delegadas a las autoridades estatales por autoridades fiscales federales se estará a lo dispuesto en la normativa federal correspondiente;\ng) Que fijen en cantidad líquida una obligación fiscal o den las bases para su liquidación, emitidos por autoridad fiscal competente y sean considerados como definitivos en los términos de la legislación estatal aplicable;\nh) Que nieguen la devolución de un ingreso indebidamente percibido, emitidos por autoridad fiscal competente y sean considerados como definitivos en los términos de la legislación estatal aplicable;\n\nEl procedimiento económico coactivo no se ajustó a la ley, caso en el que la oposición sólo se hará valer contra la resolución que apruebe el remate, salvo que se trate de resolución cuya ejecución material sea de imposible reparación;"
+              },
+              {
+                "Fracción": "L",
+                "Texto": "Que determinen una responsabilidad ambiental, de competencia estatal, en los términos de la legislación aplicable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En contra de actos o resoluciones de autoridades pertenecientes a la administración pública estatal, cuando por virtud de los convenios de coordinación, los ayuntamientos sufran algún agravio en materia fiscal;\n\nResolver sobre los actos vinculados con faltas administrativas graves en que incurran los particulares e imponer las sanciones correspondientes, sin perjuicio de otras responsabilidades derivadas de los mismos hechos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En contra del procedimiento administrativo de ejecución, cuando el afectado en el mismo opte por no interponer el recurso ordinario ante la autoridad competente y cuando afirme que:\na) El crédito exigido se ha extinguido;\nb) El monto del crédito es inferior al exigible;\n\nResolver sobre las responsabilidades resarcitorias, indemnizaciones y sanciones pecuniarias derivadas de los daños y perjuicios que afecten a lashaciendaspúblicasy patrimonios, estatal o municipales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Entre dos o más dependencias o entidades de las administraciones públicas estatal o municipales; y\n\nDictar las medidas preventivas y cautelares necesarias para evitar que el procedimiento sancionador quede sin materia; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En los demás asuntos que la ley le conceda competencia.\n2. En materia de responsabilidades administrativas, el Tribunal tiene competencia para:\n\nConocer de los demás asuntos en materia de responsabilidades administrativas que le conceda la ley.\n3. En materia de justicia laboral, el Tribunal tiene competencia para conocer y resolver las controversias jurisdiccionales derivadas de las relaciones laborales del Tribunal con sus trabajadores."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Tribunal - Organización\n1. El Tribunal se integra por los siguientes órganos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Sala Superior; y\n\nLa Junta de Administración;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las Salas Unitarias;\n2. El Tribunal se auxilia de los siguientes órganos;\n\nLa Dirección General Administrativa, que tendrá a su cargo las unidades administrativas internas que establezca el Reglamento; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los demás órganos especializados en funciones específicas, con los que deba contar conforme a otras leyes aplicables, los cuales se regirán por las disposiciones legales en la materia y el Reglamento.\n3. La Sala Superior y las Salas contarán con el apoyo de los secretarios, actuarios y demás personal que establezca esta Ley y el Reglamento.\n4. El Tribunal contará con un Órgano Interno de Control, cuyo titular será nombrado conforme al artículo 106 de la Constitución Política del Estado y sus atribuciones serán las que establezcan la legislación general y estatal en materia de responsabilidades administrativas y demás disposiciones aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Tribunal - Comunicaciones\n1. En las comunicaciones, actos jurídicos y procedimientos administrativos y judiciales en el Tribunal, entre éste y cualquier autoridad federal, estatal o municipal, o con particulares, se podrá hacer uso de medios electrónicos, ópticos o de otras tecnologías, de conformidad con la normativa aplicable y las disposiciones de carácter general que dicte la Sala Superior.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Sala Superior",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "Sala Superior - Funcionamiento\n1. La Sala Superior debe sesionar las veces que sea necesario para resolver los asuntos de su competencia y cuando menos una vez al mes. Sus sesiones son públicas, salvo los casos que por causa justificada y por unanimidad se declaren como reservadas.\n2. La Sala Superior requiere de la asistencia de más de la mitad de sus integrantes para ejercer sus atribuciones. Cuando se dicte sentencia definitiva se requiere la asistencia de todos sus integrantes y a falta de alguno, los presentes incorporarán provisionalmente a un magistrado de Sala, en los términos del Reglamento.\n3. La Sala Superior requiere del voto a favor de más de la mitad de sus integrantes para aprobar sus acuerdos y resoluciones. Los magistrados sólo pueden abstenerse de conocer de algún asunto y de votar cuando tengan impedimento legal.\n4. El magistrado que disienta de la mayoría puede formular voto particular, el cual se insertará en el acta correspondiente.\n5. En los asuntos de la competencia de la Sala Superior sólo procede recusación o excusa cuando se funde en parentesco hasta del cuarto grado o conflicto de intereses.\n6. En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los Magistrados en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología que permita, por lo menos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los Magistrados, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la ideas y asuntos; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dejar registro audiovisual de la sesión y sus acuerdos.\n7. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Sala Superior - Atribuciones\n1. La Sala Superior tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer y resolver los recursos en las materias que sean competencia del Tribunal y que conozcan en primera instancia las Salas, salvo disposición legal en contrario;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conocer y resolver los procedimientos jurisdiccionales en materia laboral, del Tribunal con sus trabajadores;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conocer y resolver las controversias entre dos o más dependencias o entidades de las administraciones públicas estatal o municipales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Conocer y resolver sobre las faltas administrativas graves de los Magistrados del Tribunal; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Conceder licencias a los magistrados:\na) Hasta por un mes, en el período de un año, con goce de sueldo, con causa justificada; y\nb) Hasta por dos meses, en el periodo de un año, sin goce de sueldo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Dictar los acuerdos de suplencia a favor de los secretarios que cubrirán las ausencias de los magistrados y remitirlo para su publicación en el Periódico Oficial “El Estado de Jalisco”;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar al Congreso del Estado de la renuncia o fallecimiento de los magistrados del Tribunal, para efectos de la elección correspondiente;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Calificar las excusas, recusaciones e impedimentos de los magistrados de la Sala Superior y de la Salas y en su caso asignar el asunto a otra Sala o suplir al magistrado de la Sala Superior para el asunto respectivo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fijar la jurisprudencia del Tribunal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Designar de entre sus integrantes, al presidente de la Sala Superior, que además fungirá como Presidente del Tribunal;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Aprobar, evaluar y modificar o actualizar en su caso, el Plan General del Tribunal, conforme a la ley de la materia;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Aprobar las matrices de indicadores de resultados del Tribunal, conforme a la ley de la materia;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Aprobar el proyecto de Presupuesto de Egresos del Tribunal;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Establecer las reglas para la distribución de los asuntos entre las ponencias de la Sala Superior y entre las Salas, así como dirimir las controversias al respecto;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Nombrar y remover al Secretario General de Acuerdos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Apercibir, amonestar e imponer multas de hasta ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, cuando la legislación procesal aplicable no señale otros montos, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones o por cualquier otro medio falten al respeto a algún órgano del Tribunal;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Establecer los criterios y las medidas conducentes para el mejoramiento de la impartición de justicia en el Tribunal, y dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de la competencia del Tribunal;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Conocer y resolver las impugnaciones que nieguen la indemnización o que no satisfagan al interesado y que se presenten con motivo de la Ley de Responsabilidad Patrimonial;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Las demás que establezcan otras disposiciones legales aplicables, cuando se trate de asuntos jurisdiccionales; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás que establezcan otras disposiciones legales y reglamentarias aplicables, cuando se trate de asuntos administrativos internos del Tribunal.\n2. La primera sesión de la Sala Superior de cada año, en la que se elija al presidente de la misma, debe realizase dentro de los primeros quince días del mes de enero."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Sala Superior - Presidente\n1. El Presidente tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar protocolariamente al Tribunal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar legalmente al Tribunal, en los términos del Reglamento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Convocar, presidir y cuidar el orden de las sesiones de la Sala Superior y de la Junta;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ejecutar los acuerdos de la Sala Superior y de la Junta;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Suscribir los contratos y convenios que celebre el Tribunal, previa aprobación de la Junta;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar el informe anual de actividades del Tribunal y del cumplimiento de su Plan General y sus matrices de indicadores de resultados, en la forma y términos que establezca el Reglamento, y remitirlo al Congreso del Estado;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Firmar y autorizar en unión del Secretario General de Acuerdos las actas de las sesiones y los acuerdos de la Sala Superior;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Conocer, despachar y cursar la correspondencia del Tribunal en general y de la Sala Superior, con autoridades federales, estatales y municipales, reservando la demás al Secretario General de Acuerdos;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Tramitar los asuntos de la competencia de la Sala Superior hasta ponerlos en estado de resolución y remitirlos al Magistrado designado por turno como ponente;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dar cuenta a la Sala Superior de los actos realizados en el ejercicio de sus funciones;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Proponer a la Sala Superior las medidas necesarias para la organización y funcionamiento de la Oficialía de Partes común del Tribunal;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Enviar al Gobernador del Estado el proyecto de Presupuesto de Egresos del Tribunal y su plantilla de personal, para su inclusión en la iniciativa de Presupuesto de Egresos del Estado, a más tardar el quince de agosto de cada año;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Proponer a la Sala Superior y a la Junta los acuerdos que juzgue convenientes para mejorar el funcionamiento del Tribunal;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Realizar los actos y dictar los acuerdos para los que no se requiera la intervención de la Sala Superior o la Junta;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Rendir los informes previos y justificados que le correspondan;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Resolver las excitativas de justicia promovidas por las partes y en su caso designar al magistrado que sustituya al omiso en pronunciar sentencia o en formular los proyectos de resoluciones dentro de los términos de ley;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Dictar las medidas que exijan el orden, buen servicio y la disciplina de la Sala Superior y exigir se guarde el respeto y consideración debidos;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Imponer correcciones disciplinarias al personal de la Sala Superior;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Decretar las medidas de apremio para hacer cumplir las determinaciones de la Sala Superior;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Emitir opinión, respecto a las solicitudes de licencia que presente el personal de la Sala Superior; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás que establezca otras disposiciones aplicables.\n2. El periodo de un año de la presidencia de la Sala Superior inicia el primero de febrero de cada año."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Salas",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "Salas - Atribuciones\n1. Las Salas tienen las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer y resolver en primera instancia, los procedimientos jurisdiccionales en materia de justicia administrativa que sean competencia del Tribunal, salvo disposición legal en contrario;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conocer y resolver en primera instancia los procedimientos jurisdiccionales en materia de responsabilidad administrativa que sean competencia del Tribunal, salvo disposición legal en contrario;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conocer y resolver los demás asuntos jurisdiccionales que sean competencia del Tribunal y no estén expresamente reservados a la Sala Superior; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que establezcan otras disposiciones legales aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Junta de Administración",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "Junta - Integración\n1. La Junta se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los magistrados de la Sala Superior; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un magistrado de Sala, que la integrará por dos años y se rotará cada año, en los términos del Reglamento.\n2. El Director General Administrativo fungirá como secretario técnico de la Junta, sin derecho a voto."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Junta - Funcionamiento\n1. La Junta debe sesionar las veces que sea necesario y cuando menos una vez por mes. Sus sesiones son públicas.\n2. La Junta requiere de la asistencia de más de la mitad de sus integrantes para sesionar y tomar acuerdos.\n3. La Junta requiere el voto a favor de más de la mitad de sus integrantes presentes para tomar acuerdos. No procede la abstención en las votaciones. En caso de empate, el presidente tiene voto de calidad.\n4. En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los integrantes de la Junta en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita, por lo menos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de sus integrantes, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la ideas y asuntos; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dejar registro audiovisual de la sesión y sus acuerdos.\n5. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Junta- Atribuciones\n1. La Junta tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrar los recursos del Tribunal, con el apoyo de la Dirección General Administrativa;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar el funcionamiento de la Dirección General Administrativa;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar y proponer a la Sala Superior los proyectos de:\na) Las modificaciones o actualizaciones del Plan General del Tribunal;\nb) Las matrices de indicadores de resultados del Tribunal; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "El Presupuesto de Egresos del Tribunal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprobar el Reglamento y los acuerdos generales para el funcionamiento administrativo del Tribunal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar el Estatuto del Servicio Civil Carrera del Tribunal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar la afectación y enajenación del patrimonio del Tribunal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aprobar los contratos y convenios que celebre el Tribunal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Administrar y supervisar el ejercicio el Presupuesto de Egresos del Tribunal, sin perjuicio de la intervención que corresponda a otras autoridades en materia de revisión del ejercicio del gasto;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Nombrar y remover libremente al Director General Administrativo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Nombrar y remover, previo derecho de audiencia y defensa, a los secretarios, actuarios y demás personal adscrito a las Salas o a las ponencias de la Sala Superior, a propuesta del magistrado respectivo;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Nombrar y remover conforme a la legislación correspondiente al resto del personal del Tribunal, que no esté expresamente encomendado a otro órgano;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Conceder licencias y aceptar las renuncias del personal del Tribunal, con excepción de los magistrados y el Secretario General de Acuerdos;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Imponer multas a los actuarios que incumplan sus obligaciones legales en la práctica de las notificaciones a su cargo, a solicitud de los magistrados;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Ordenar la depuración y baja de expedientes concluidos que causaron estado con tres años de anterioridad, previo aviso publicado en el periódico oficial “El Estado de Jalisco”, para que los interesados puedan solicitar la devolución de los documentos ofrecidos;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Administrar el Boletín Electrónico del Tribunal para la notificación de resoluciones y acuerdos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Supervisar la publicación de las jurisprudencias, precedentes y tesis aisladas del Tribunal;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Declarar los días inhábiles para el Tribunal y determinar las vacaciones y guardias del personal del Tribunal;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Aprobar y delimitar la competencia territorial de las Salas, cuando el Plan General del Tribunal determine un sistema de regionalización, así como determinar la adscripción de los Magistrados y su posible rotación;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Aprobar los acuerdos administrativos necesarios para el buen funcionamiento del Tribunal;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Aprobar los programas de capacitación, especialización y actualización en las materias competencia del Tribunal, para el personal del mismo;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Aprobar la normativa y el programa de visitas de verificación del correcto funcionamiento de las Salas y las ponencias de la Sala Superior;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Supervisar la operación y funcionamiento de las oficialías de partes, las oficinas de actuarios y los archivos del Tribunal;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Evaluar el funcionamiento de las áreas administrativas y la prestación de sus servicios;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Administrar y actualizar el registro de los peritos del Tribunal; y"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Las demás que establezcan otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI Magistrados",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "Magistrados - Faltas\n1. Las faltas de los magistrados por licencia de hasta dos meses serán cubiertas por un Secretario de la Sala Superior o de la Sala correspondiente, que actuará en funciones de magistrado, previo acuerdo de la Sala Superior.\n2. Las faltas de los magistrados que integran Sala, por renuncia, fallecimiento, remoción, destitución o incapacidad total permanente o cualquier causa que amerite una ausencia mayor a dos meses serán cubiertas provisionalmente en los términos del párrafo 1 de este artículo, en tanto el Congreso del Estado hace la designación correspondiente.\n3. Las faltas de los magistrados de la Sala Superior por renuncia, fallecimiento, remoción, destitución o incapacidad total permanente o cualquier causa que amerite una ausencia mayor a dos meses serán cubiertas rotativamente por los magistrados que integren Salas, por periodos de hasta un mes, en orden del número de Sala, en tanto el Congreso del Estado hace la designación correspondiente. El orden de los magistrados de Sala en la rotación para suplir a los magistrados de la Sala Superior será continuo sin importar el número y tiempo de las faltas de éstos últimos.\n4. Las faltas de los magistrados de la Sala Superior por excusa o recusación se suplirán en los términos del párrafo 3 de este artículo, sólo para la atención del asunto que lo motiva y sin que el magistrado que suple deje de integrar su Sala.\n5. Las faltas del Presidente hasta por dos meses serán cubiertas por los otros magistrados integrantes de la Sala Superior, de forma rotativa en orden alfabético por apellido, por periodos de hasta un mes. La falta del magistrado de Sala Superior que sustituye al Presidente se cubrirá en los términos de los párrafos 1 o 3 de este\nartículo, según corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Magistrados - Atribuciones\n1. Los magistrados que integran Sala tienen las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dar curso a la correspondencia de su Sala y autorizarla con su firma;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Rendir informes previos y justificados que correspondan a su Sala;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dictar las medidas que exijan el orden, buen servicio y la disciplina de su Sala y exigir se guarde el respeto y consideración debidos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Imponer correcciones disciplinarias al personal de su Sala;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Decretar las medidas de apremio para hacer cumplir las determinaciones de su Sala;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Emitir opinión, respecto a las solicitudes de licencia que presente el personal de su Sala; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que establezcan otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII Secretarios y Actuarios",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "Secretarios y Actuarios - Requisitos\n1. Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta o Secretario Proyectista se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mexicano, en pleno goce de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener cuando menos treinta años de edad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener título de abogado o de licenciado en derecho, registrado ante la dependencia estatal en materia de profesiones; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Acreditar cuando menos cinco años de práctica profesional.\n2. Para ser Actuario aplican los mismos requisitos del párrafo anterior, con excepción de la edad que es de cuando menos veinticinco años y de la práctica profesional que es de cuando menos tres años."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Secretario General de Acuerdos - Atribuciones\n1. El Secretario General de Acuerdos tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar el manual operativo de su área y presentarlo a la Sala Superior para su aprobación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acordar con el Presidente lo relativo a las sesiones de la Sala Superior;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Asistir a las sesiones de la Sala Superior, con derecho a voz;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Redactar las actas de las sesiones de la Sala Superior, recabar las firmas necesarias e incorporarlas al libro correspondiente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar con su firma los acuerdos y resoluciones de la Sala Superior;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recibir, autorizar con su firma y, en su caso, remitir o turnar a la autoridad que corresponde, los exhortos de la Sala Superior;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dar trámite a la correspondencia que reciba o envíe el Tribunal; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que establezcan otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Secretarios de Estudio y Cuenta - Atribuciones\n1. Los Secretarios de Estudio y Cuenta de las Salas tienen las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autorizar con su firma las actuaciones de su Sala;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proyectar los autos y acuerdos de los procesos llevados en su Sala;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dar cuenta en las audiencias con los asuntos correspondientes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Redactar las actas de las audiencias;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dar cuenta al magistrado de su Sala de las promociones que presenten las partes;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expedir certificaciones de las constancias que obren en los expedientes bajo su cargo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Suplir las faltas temporales del Secretario General de Acuerdos, en el orden que establezca el Presidente;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Practicar las diligencias que les competan;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Turnar los asuntos para notificación al Actuario correspondiente;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Asentar las ratificaciones de las representaciones que otorguen los particulares; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que establezcan otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Secretarios Proyectistas - Atribuciones\n1. Los Secretarios Proyectistas tienen las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Formular los proyectos de las resoluciones definitivas e interlocutorias;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar los proyectos para el cumplimiento de ejecutorias de amparo concedidos contra las sentencias definitivas y de las emitidas por la Sala Superior en los recursos de su competencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Preparar proyectos de aclaración de sentencia;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Elaborar proyectos en los recursos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Auxiliar en la formulación de los criterios del Tribunal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Suplir las faltas o las ausencias temporales del magistrado de su adscripción, siempre que reúna los requisitos para ser magistrado; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que establezcan otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Actuarios - Atribuciones\n1. Los actuarios tienen las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Notificar en tiempo y forma, las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Practicar las diligencias que le encomienden;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Levantar las actas correspondientes a las diligencias que practiquen; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que establezcan otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII Jurisprudencia",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "Jurisprudencia - Formación\n1. Se forma jurisprudencia cuando existan cinco fallos de la Sala Superior o de las Salas en un mismo sentido y sin interrupción; o por contradicción de tesis.\n2. La Sala Superior declarará los casos en que exista jurisprudencia definida y ordenarán su publicación en el Boletín Electrónico del Tribunal y el Periódico Oficial “El Estado de Jalisco”, para que surta efectos.\n3. La jurisprudencia del Tribunal es obligatoria para los órganos jurisdiccionales sujetos a esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Jurisprudencia - Contradicción de tesis\n1. Podrán denunciar la contradicción de tesis:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las Salas; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las partes que intervinieron.\n2. En caso existir contradicción en las tesis de las Salas, la Sala Superior resolverá cual debe prevalecer."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Jurisprudencia - Interrupción\n1. La jurisprudencia del Tribunal se interrumpe cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se pronuncie ejecutoria en contrario acordada por el voto unánime de la Sala Superior; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Exista jurisprudencia de los tribunales del Poder Judicial de la Federación que sustente un criterio contrario al Tribunal."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX Disposiciones complementarias",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "Elección de Magistrados del Tribunal.\n1. Para la elección de Magistrados del Tribunal, se aplicará el siguiente procedimiento:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Congreso del Estado emitirá una convocatoria pública a la sociedad en general, con excepción de los partidos políticos, a propuesta de la Comisión competente en los términos de la legislación orgánica del Poder Legislativo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Comisión enviará copia de los expedientes de los aspirantes inscritos al Comité de Participación Social del Sistema Estatal Anticorrupción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Comité de Participación Social emitirá un informe con la opinión técnica de los perfiles de los aspirantes, dentro de los treinta días naturales siguientes a que reciba la copia de los expedientes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "En caso de que el Comité de Participación Social no remita al Congreso el informe dentro del plazo señalado en la fracción anterior, el Congreso deberá concluir el proceso en los términos del presente artículo y la convocatoria respectiva;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La Comisión deberá elaborar un dictamen que proponga la lista de los candidatos elegibles, considerando el informe remitido por el Comité de Participación Social;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El Congreso del Estado primero aprobará por mayoría simple y en votación nominal la lista de elegibles, para luego proceder a elegir al Magistrado por mayoría calificada y en votación por cédula de entre los candidatos de la lista aprobada; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Si no existen candidatos elegibles, el Congreso no resuelve dentro del plazo fijado por la convocatoria o ningún candidato elegible reúne la mayoría requerida en tres votaciones por cédula, se declarará desierta la convocatoria y se emitirá una nueva."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Relaciones laborales\n1. Las relaciones laborales del Tribunal con sus trabajadores se rigen por la legislación estatal en materia de servidores públicos, sin perjuicio de lo señalado en esta ley sobre resolución de controversias laborales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Servicio Profesional de Carrera\n1. El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Tribunal se hará mediante el sistema de servicio profesional de carrera.\n2. El servicio profesional de carrera se rige por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad.\n3. El sistema del servicio profesional de carrera se conforma por los siguientes subsistemas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Planeación de recursos humanos y clasificación de puestos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Reclutamiento y selección;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ingreso, nombramiento, licencia y reingreso;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Profesionalización y capacitación; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Evaluación del desempeño y permanencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Impedimentos\n1. Los magistrados, secretarios y actuarios del Tribunal están impedidos para:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desempeñar otro empleo, cargo o comisión federal, estatal o municipal, o de particulares cuando se perciba sueldo, salvo los cargos de docencia que no sean incompatibles con el horario laboral del Tribunal; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejercer libremente la profesión de abogado, patrocinar asuntos judiciales por sí o por interpósita persona, ante tribunales federales o estatales, aún con licencia, salvo en causa propia, del cónyuge, de ascendientes o descendientes en línea recta hasta el segundo grado.\nARTÍCULO SEGUNDO. Se reforman los artículos 2, 3, 11, 15, 16 B, 16 F, 16 H, 16 J, 23, 136, 148, 178, 196, 197, 201, 203, 206, 207, 209, 213, 215, 238, 239, 240, 241 y 243; y se derogan los artículos 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71 y 72, todos de la Ley Orgánica del Poder Judicial del Estado de Jalisco…."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor el primero de enero de 2018, previa su publicación en el periódico oficial \"El Estado de Jalisco\"; con excepción de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El artículo 24 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco, que entrará en vigor al día 23 de octubre de 2017; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En consecuencia, se derogan los artículos 60, 61 y 62 de la Ley Orgánica del Poder Judicial del Estado de Jalisco, con efectos a partir del día 23 de octubre de 2017.\n\nEsta ley entrará en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\"."
+              }
+            ]
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Tribunal de lo Administrativo del Estado de Jalisco, perteneciente al Poder Judicial del Estado, se transforma en el Tribunal de Justicia Administrativa del Estado de Jalisco, como organismo constitucional autónomo, para todos los efectos jurídicos a que haya lugar.\nTodas las referencias en leyes, reglamentos, contratos, convenios y demás actos jurídicos, relativas al Tribunal de lo Administrativo del Estado de Jalisco, se entenderán hechas al Tribunal de Justicia Administrativa del Estado de Jalisco.\nTodas las referencias en leyes, reglamentos, contratos, convenios y demás actos jurídicos, relativas al Pleno del Tribunal de lo Administrativo del Estado de Jalisco, se entenderán hechas a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco, cuando se trate de asuntos materialmente jurisdiccionales; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Junta de Administración del Tribunal de Justicia Administrativa del Estado de Jalisco, cuando se trate de los demás asuntos.\n\nPor única ocasión, quien presida la Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco, al momento de la entrada en vigor de esta ley, durará en la presidencia hasta el 31 de enero de\n2019. TABLA DE REFORMAS\n26495/LXI/17.- Reforma los artículos transitorios, primero del decreto número 26433/ LXI/17 y primero del\ndecreto número 26434/LXI/17.- Oct. 26 de 2017 sec. V.\n27037/LXI/18.- Se reforman los artículos 8 y 9 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco.- Nov. 17 de 2018 sec. IV.\n27902/LXII/20.- Se crea el Capítulo VII denominado De las Sesiones a distancia y adiciona los Artículos 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES, 33 SEXTIES y se reforma la Fracción III del Artículo 47, Todos de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco; se reforma el artículo 75 y se adiciona el artículo 6 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; se adiciona el artículo 115 Bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; se adicionan los artículos 22 Bis, 39 Bis, 143 Bis y 153 Bis, de la Ley Orgánica del Poder Judicial del Estado de Jalisco; reforman los artículos 7 y 12 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco; Se reforma el artículo 26 de la Ley Orgánica del Tribunal Electoral del Estado de Jalisco; y se adiciona el artículo 16 Bis de la Ley de la Comisión Estatal de Derechos Humanos del Estado de Jalisco; Se reforma el artículo 40 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco.- Abr. 24 de 2020 sec. Ter.\n28442/LXII/21.- Se reforma el artículo 16 de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco.- Oct. 2 de 2021, sec. V.\nLey Orgánica del Tribunal de Justicia Administrativa del Estado de Jalisco\nAPROBACIÓN: 14 de septiembre de 2017\nPUBLICACIÓN: 26 de septiembre de 2017\nVIGENCIA: 1 de enero de 2018"
+              }
+            ]
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Los magistrados del Tribunal de lo Administrativo del Estado de Jalisco continuarán en su cargo hasta concluir el periodo para el cual fueron designados, en las respectivas salas unitarias del Tribunal de Justicia Administrativa del Estado de Jalisco, cuya numeración se corresponda con la que encabezaban en el Tribunal de lo Administrativo del Estado de Jalisco.\nLos servidores públicos del Tribunal de lo Administrativo del Estado de Jalisco pasarán a integrarse al Tribunal de Justicia Administrativa del Estado de Jalisco, en la adscripción que determine la Junta de Administración de este último, preferentemente en el área similar que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Los juicios y procedimientos jurisdiccionales en curso ante las Salas unitarias del Tribunal de lo Administrativo del Estado de Jalisco, previamente a la vigencia del presente decreto, continuarán tramitándose ante la correspondiente Sala unitaria del Tribunal de Justicia Administrativa del Estado de Jalisco.\nLos juicios y procedimientos jurisdiccionales en curso ante el Pleno del Tribunal de lo Administrativo del Estado de Jalisco, previamente a la vigencia del presente decreto, serán resueltos por la Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco.\nLos procedimientos y asuntos no jurisdiccionales en curso ante el Pleno del Tribunal de lo Administrativo del Estado de Jalisco, previamente a la vigencia del presente decreto, serán resueltos por la Junta de Administración del Tribunal de Justicia Administrativa del Estado de Jalisco, salvo que de acuerdo a la Ley Orgánica del propio Tribunal corresponda su atención a la Sala Superior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Se faculta al Poder Ejecutivo del Estado para realizar todas las adecuaciones y modificaciones reglamentarias, administrativas y presupuestales, así como las gestiones ante las autoridades fiscales federales, que sean necesarias para el cumplimiento del presente decreto, en cuanto a la transformación del Tribunal de lo Administrativo del Estado como órgano del Poder Judicial del Estado, en el Tribunal de Justicia Administrativa del Estado como organismo constitucional autónomo, con el apoyo de la intervención que se requiera por parte de la representación oficial del propio Tribunal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "En tanto el Tribunal de Justicia Administrativa del Estado no expida o armonice sus disposiciones reglamentarias en los términos del presente decreto, se estará en lo que no lo contradiga a lo que determine el Reglamento vigente.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 14 DE SEPTIEMBRE DE 2017\nDiputado Presidente ISMAEL DEL TORO CASTRO\nDiputado Secretario Diputado Secretario SAÚL GALINDO PLAZOLA\nJOSÉ GARCÍA MORA\n(Rúbrica\nPROMULGACIÓN DEL DECRETO 26433/LXI/17, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 2, 3, 11, 15, 16 B, 16 F, 16 H, 16 J, 23, 136, 148, 178, 196, 197, 201, 203, 206, 207, 209, 213, 215, 238, 239, 240, 241 Y 243, Y DEROGA LOS ARTÍCULOS 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71 Y 72 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 14 DE SEPTIEMBRE DE 2017.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 22 días del mes de septiembre de 2017 dos mil diecisiete.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ\nEl Secretario General de Gobierno ROBERTO LÓPEZ LARA\nARTÍCULOS TRANSITORIOS DEL DECRETO 27027/LXI/18",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

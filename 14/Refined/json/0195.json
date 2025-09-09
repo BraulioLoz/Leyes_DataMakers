@@ -1,0 +1,2112 @@
+{
+  "0195.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nCarlos Rivera Aceves, Gobernador Interino del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber\nQue por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente\nDECRETO\nNúmero 15095.- El Congreso del Estado decreta:\nLEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO",
+    "Año_publicación": null,
+    "Título": "LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I Disposiciones generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- La presente ley tiene por objeto promover y regular las acciones en materia de Protección Civil en el Estado de Jalisco. Sus normas y reglamentos, así como los programas que se expidan conforme a sus disposiciones son de orden público e interés general.\nEl propósito fundamental será el de fomentar la participación ciudadana y de gobierno para establecer las condiciones adecuadas para acceder a una sociedad más segura y mejor protegida.\nPara efectos de cumplimentar las disposiciones contenidas en esta ley, se instaurará un sistema estatal de Protección Civil en los términos y condiciones establecidos en el presente ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- La materia de Protección Civil comprende el conjunto de acciones encaminadas a salvaguardar la vida de las personas, sus bienes y su entorno, así como el funcionamiento de los servicios públicos y equipamiento estratégicos, ante cualquier evento destructivo de origen natural o generado por la actividad humana, a través de la prevención, el auxilio, la recuperación y el apoyo para el restablecimiento de los servicios públicos vitales; en el marco de los objetivos nacionales y de acuerdo al interés general del Estado y sus municipios, por lo que se establecen como atribuciones legales en el ámbito de competencia a la Unidad de Protección Civil todo lo que implique riesgos generales a la población en la materia.\nEn el presupuesto anual de egresos del Gobierno del Estado se asignará a la Unidad Estatal la partida presupuestal correspondiente a fin de dar cumplimiento a las acciones que se indican en este artículo. Dicha partida no podrá ser reducida en ningún caso y por ningún motivo y en cambio, se procurará incrementarla con base en los programas de prevención, auxilio y recuperación elaborados y presentados por la Unidad Estatal.\nEl Ejecutivo del Estado podrá establecer una partida especial llamada Fondo Estatal de Desastres Naturales para operación en caso de contingencias, la cual será vigilada y liberada por el Comité Estatal de Emergencias; dicha partida será abonada a una cuenta especial única de la Unidad Estatal quien la ejercerá, donde además se podrán recibir donaciones y para su ejercicio, deberá existir autorización por los integrantes del Comité Estatal de Emergencias, de acuerdo a las reglas de operación que para tal efecto se emitan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- La prevención así como las acciones de auxilio a la población y restablecimiento de los servicios públicos vitales en condiciones de emergencia, son funciones de carácter público que deben atender el Estado y los municipios a través de la Unidad Estatal o Municipal, y de los organismos y dependencias que se requieran y que para ello se instituyan, conforme las atribuciones que define la presente ley, promoviendo la participación de la sociedad civil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Para los efectos de esta ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Actividades pirotécnicas: la fabricación, uso, venta, transporte, almacenamiento, comercialización y exhibición de objetos pirotécnicos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acumulación de riesgos: situación que suma o encadena los peligros que conllevan a un riesgo pudiendo ser dentro de un espacio específico o un objetivo técnico en una zona determinada por los alcances del daño que puedan ocasionar las acciones de la naturaleza y los productos o materiales utilizados por el género humano, animal o vegetal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Afectado: personas, sistemas o territorios sobre los cuales actúa un fenómeno, y cuyos efectos sean perturbaciones o daños;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Agente pirotécnico: persona física o moral dedicada a las actividades pirotécnicas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Albergue: lugar físico destinado a prestar asilo, amparo, alojamiento y resguardo a personas ante la amenaza, inminencia u ocurrencia de un fenómeno destructivo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Albergue permanente: aquel, que dependiendo del tipo de calamidad, rebasa su operación por más de treinta días de duración;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Albergue provisional: aquel, que dependiendo del tipo de calamidad, no rebasa su operación treinta días de duración;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Alerta: mensaje de advertencia de una situación de riesgo latente;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Alto riesgo: la probable o inminente ocurrencia de un siniestro o desastre;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Artificios pirotécnicos: los ingenios o artificios cargados de materias o mezclas pirotécnicas, generalmente de flagrantes;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Atlas de Riesgos: documento que establece los peligros y estudios de vulnerabilidad de una superficie determinada, en la que la interpolación de estas dos variables permite conocer en forma cualitativa y cuantitativa el riesgo existente. Dicho instrumento de prevención proyectará los escenarios de riesgo a corto, mediano y largo plazo y servirá de base referencial para delimitar la planeación urbana, turística e industrial; crecimiento urbano;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Auxilio: al conjunto de acciones destinadas primordialmente a rescatar y salvaguardar la integridad física de las personas, sus bienes y el medio ambiente;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Brigadas Comunitarias: Grupo de personas voluntariamente organizadas, preparadas, adiestradas, capacitadas, especializadas y certificadas en materias afines de protección civil que colaboran en subordinación con las Unidades de Protección Civil del Estado o de los Municipios, en caso de desastres o eventos catastróficos;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Castillería pirotécnica: artificios pirotécnicos que por sus riesgos; su uso, venta, transporte, almacenamiento y exhibición quedan reservados a los profesionales de la pirotecnia;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Consultor: persona experta en la materia de protección civil con capacidad debidamente acreditada ante la Unidad Estatal de Protección Civil y Bomberos o la Unidad Municipal conforme a la competencia que señalan los reglamentos para la realización de estudios de riesgos y programas específicos en materia de protección civil y que presta sus servicios profesionales a terceros;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Desastre: determinado evento concentrado en tiempo y espacio en el cual una sociedad o una parte de ella sufre un daño severo o pérdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Emergencia: situación súbita que requiere de atención urgente e inmediata;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Establecimiento pirotécnico: espacio físico donde se fabrican, almacena y comercializan objetos pirotécnicos;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Estudio de riesgo: documento que integra la caracterización de riesgos, y la información técnica empleada en su evaluación; las premisas y criterios aplicados; la metodología de análisis empleada; limitaciones del estudio y el catálogo de los escenarios de riesgos, entre otros, que debe considerar los riesgos internos y externos de origen antropogénicos y naturales, además de que debe identificar peligros o condiciones peligrosas en los materiales y sustancias o en los procesos; analizar y modelar las consecuencias en caso de fuga o falla y la frecuencia con que pueden ocurrir, y caracterizar y jerarquizar el riesgo resultante a fin de determinar la posibilidad de pérdida tanto en vidas humanas como en bienes o en capacidad de producción;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Exposición: se refiere a la cantidad de personas, bienes y sistemas que se encuentran en el sitio y que son factibles de ser dañados;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Fenómenos destructivos: los enunciados en los grupos del orden geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo y las subdivisiones de éstos;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Grupo de Voluntarios: asociación de personas que coadyuvan en las tareas operativas de protección civil, generalmente durante la emergencia; junto con la población, integran la organización participativa del Sistema Nacional de Protección Civil;\n\nRed Estatal de Brigadistas Comunitarias es una estructura organizada y formada por voluntarios con el fin de capacitarse y trabajar coordinadamente con las autoridades de protección civil para enfrentar en su entorno riesgos causados por los diversos agentes perturbadores;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Juguetería pirotécnica: artificios pirotécnicos que, por sus características, puede ser de acceso generalizado;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Materias pirotécnicas: materias o mezclas de materias destinadas a producir efectos caloríficos, luminosos, sonoros, gaseosos o fumígenos, o con una combinación de estos efectos, como consecuencia de reacciones químicas exotérmicas o autosostenidas detonantes y no detonantes;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Objetos pirotécnicos: materiales, artificios, juguetería y castillería pirotécnicos;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Peligro: es la probabilidad de que un área en particular sea afectada por algunas de las manifestaciones destructivas de la calamidad; ya sea por la ocurrencia de un proceso o un evento, natural o inducido por el hombre, con el potencial de crear pérdidas;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Prevención: las acciones dirigidas a identificar y controlar riesgos, evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Programa de Protección Civil: documento elaborado para hacer frente a los fenómenos destructivos cuyo contenido refiere las acciones preventivas, de respuesta a la emergencia, de recuperación inicial y de reconstrucción;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Programa Específico de Protección Civil: aquel que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes a los sectores público en sus tres ámbitos de gobierno, privado y social y se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital ante la ocurrencia de una calamidad;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Programa Externo de Protección Civil o Programa General: el que se dirige a proteger a la población, sus bienes y su entorno ante la presencia de fenómenos destructivos de origen natural o humano. De conformidad con su ámbito de acción, estos programas pueden ser:\na) Estatal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área de una entidad federativa, y conlleva la participación de las autoridades gubernamentales y de los sectores privado y social correspondientes; y\nb) Municipal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área del municipio, y conlleva la participación de las autoridades, de los sectores privado y social y de la población en general circunscrita a ese ámbito;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Recuperación o restablecimiento: a las acciones encaminadas a volver a las condiciones de normalidad, una vez que ha pasado el siniestro o desastre;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Refugio temporal o transitorio: aquel, que dependiendo del tipo de calamidad, opera por tiempos cortos definidos y no rebasa una semana de instalación;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Reglamento: el Reglamento de la Ley Estatal de Protección Civil del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Requisa: acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o en exigirles a estos mismos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;"
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Riesgo: es el resultado de calcular la potencial acción de una amenaza con las condiciones de vulnerabilidad de una comunidad o sistema; de manera cualitativa es la probabilidad de ocurrencia de daños, pérdidas o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia del impacto de eventos o fenómenos perturbadores, y de manera cuantitativa se puede representar de forma matemática como: riesgo = vulnerabilidad x valor x peligro;"
+              },
+              {
+                "Fracción": "XXXVII",
+                "Texto": "Siniestro: determinado evento concentrado en tiempo y espacio, en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial, de tal manera que afecta su vida normal;"
+              },
+              {
+                "Fracción": "XXXVIII",
+                "Texto": "Unidad Estatal: Unidad Estatal de Protección Civil y Bomberos;"
+              },
+              {
+                "Fracción": "XXXIX",
+                "Texto": "Voluntario: persona que por propia voluntad participa en las actividades operativas de la protección civil, generalmente recibe una capacitación básica para cumplir con eficiencia las labores que se le asignan;"
+              },
+              {
+                "Fracción": "XL",
+                "Texto": "Vulnerabilidad: es la susceptibilidad o propensión de los sistemas expuestos a ser afectados o dañados por el efecto de un fenómeno perturbador, es decir, el grado de pérdidas esperadas, que puede ser expresado en porcentaje;"
+              },
+              {
+                "Fracción": "XLI",
+                "Texto": "Vulnerable: ente o ser que es propenso de afectación, susceptible de sufrir daños por situación de riesgo;"
+              },
+              {
+                "Fracción": "XLII",
+                "Texto": "Zona de amortiguamiento: el espacio que debe de existir para evitar que se intercepten dos o más áreas que puedan representar riesgo o peligro;"
+              },
+              {
+                "Fracción": "XLIII",
+                "Texto": "Zona de Riesgo: espacio territorial donde persiste amenaza de un accidente o acción susceptible de causar daño o perjuicio a alguien o a algo, derivado de circunstancias que se pueden prever, pero no eludir; y"
+              },
+              {
+                "Fracción": "XLIV",
+                "Texto": "Zonas pirotécnicas de riesgo: espacios físicos, no urbanos en los que se procesan o almacenan sustancias pirotécnicas consideradas como productos controlados o de riesgo por parte de las Autoridades Federales competentes mediante la emisión de Normas Oficiales."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "° Los inmuebles donde desarrollen actividades o de servicios de mediano y alto riesgo, y aquellos inmuebles que reciban una afluencia masiva de personas, deberán contar con el Programa Específico de Protección Civil, y los propietarios, arrendatarios, poseedores o representantes legales están obligados a cumplir y hacer cumplir el Programa Específico de Protección Civil para dicho inmueble, el cual deberá presentarse ante la Unidad Estatal o Municipal, para obtener, en caso de ser procedente, el dictamen favorable, sin el cual no se podrán realizar actividades.\nPara la elaboración del Programa Específico, el obligado podrá solicitar la asesoría técnica de las Unidades Municipales, Estatal o bien contratar una empresa externa.\nEl Programa Específico de Protección Civil deberá cubrir los siguientes aspectos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Datos generales de la empresa:\na) Razón social y comercial;\nb) Objeto de la sociedad, anexando acta constitutiva certificada ante notario público, así como la descripción de las actividades que se realizarán en la empresa;\n\nEstudio o análisis de riesgos actualizado, sobre los cuales está fundamentado el programa y donde se determinaron los posibles encadenamientos de calamidades; y\nj) Las que establezcan los ordenamientos aplicables a la materia;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Cantidad total de trabajadores, desglosada por turno o jornada laboral, así como la población flotante que pudiera existir;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Domicilio para oír y recibir notificaciones, número telefónico o cualquier otro medio de comunicación disponible para estos efectos;\ne) Carta de presentación del documento, que contenga nombre y firma autógrafa del propietario, representante legal o responsable de la empresa acreditando su personería;\nf) Nombre, firma autógrafa, número de registro y vigencia del responsable técnico de la elaboración del Programa Específico de Protección Civil, así como una copia simple de su identificación vigente;\ng) Índice temático del documento;\nh) Subprograma de Prevención, Auxilio y Recuperación, con las divisiones físicas en cada uno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Datos generales del inmueble.\nEn caso de que se modifiquen las actividades que realizan o las instalaciones del inmueble, deberá llevarse de nuevo el trámite descrito.\nEl Programa Específico de Protección Civil deberá ser dictaminado de forma favorable o no, según proceda, en un plazo que no exceda de veinte días hábiles contados a partir del día hábil siguiente\nque la autoridad lo haya recibido; la autoridad tendrá diez días hábiles para requerir información adicional, solicitar modificaciones o aclaraciones, en cuyo caso, correrá un término de veinte días; a partir de que el particular no complemente la información en el plazo de diez días hábiles contados a partir del día siguiente hábil a que surta efectos la notificación del requerimiento, se desechará el trámite."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- En todos los inmuebles, excepto en casas habitación unifamiliares, los arrendatarios, propietarios y poseedores estarán obligados a colocar señalización e instructivos para casos de emergencia, conforme a lo que señale el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- En todo establecimiento de prestación de servicios, comercial, industrial o centro laboral, conforme a lo señalado en el Reglamento, se deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Capacitar en materia de protección civil cada año a las personas que ahí laboren;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Crear y registrar ante la Unidad Estatal o Municipal una unidad interna de protección civil. Tanto la Unidad Estatal como las municipales se informarán entre sí respecto de dichos registros;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tramitar y obtener la autorización y registro ante la Unidad Estatal con cuando menos cinco días naturales antes de iniciar operaciones que involucren el manejar, almacenar, transportar y utilizar materiales tipificados como peligrosos y/o explosivos en la Entidad; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cumplir las disposiciones que se dicten en las suspensiones o restricciones de actividades públicas y privadas que se recomienden, especificando su tiempo de duración y conclusión."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- El Reglamento determinará los lineamientos generales para: organizar las Unidades Internas de Protección Civil; elaborar los programas Específicos de Protección Civil; dar los avisos a que se refiere esta Ley y para obtener las autorizaciones de la Unidad Estatal o Municipal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Por la naturaleza de las acciones de protección civil, principalmente en casos de emergencia, se invitará a participar a los medios de comunicación social, conforme a las disposiciones que regulan sus actividades, en colaboración con las autoridades competentes respecto a la divulgación de información veraz y oportuna dirigida a la población, apegándose en todo momento a las prioridades establecidas por la Unidad Estatal o Municipal de Protección Civil, respetando el mando que se establezca según sea el caso.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De las autoridades, los organismos auxiliares y la participación social y sus atribuciones",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "- Son autoridades encargadas de la aplicación de la presente ley, en el ámbito de sus respectivas competencias:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Gobernador del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los gobiernos municipales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Consejo Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los consejos municipales de protección civil;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La Unidad Estatal; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las unidades municipales de protección civil.\nPara el caso de desastres o contingencias donde esté a cargo la autoridad estatal, la Unidad Estatal coordinará los trabajos y operaciones que realicen las autoridades, salvo acuerdo del titular del Poder Ejecutivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Son atribuciones del Ejecutivo del Estado:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar las acciones para la adecuada y oportuna operación del Sistema Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar y publicar el Programa Estatal, conforme las disposiciones de esta ley y las normas estatales en materia de planeación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejecutar y vigilar las acciones descritas en el programa Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Asegurar la congruencia del Programa Estatal con el Programa Nacional de Protección Civil y hacer las proposiciones pertinentes al Ejecutivo Federal para su elaboración, evaluación y revisión;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar y publicar la ejecución de los programas, planes y disposiciones institucionales de la Unidad Estatal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Vigilar la ejecución de los programas institucionales y los programas operativos anuales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coadyuvar con las autoridades federales en integración del Sistema Nacional de Protección Civil y en la ejecución del Programa Nacional correspondiente en la entidad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Celebrar convenios, cuando así se requiera, con los gobiernos de los municipios, de las entidades federativas o de la federación, que apoyen los objetivos y finalidades del Sistema Nacional y los Sistemas Municipales y Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la coordinación de las dependencias y organismos públicos estatales y municipales, para hacer efectivas las disposiciones en materia de protección civil, expresadas en los programas y Planes de Protección Civil respectivos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Designar a la persona que en su representación presidirá al Consejo Estatal de Protección Civil y al Comité Estatal de Emergencia;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Publicar, difundir, cumplir y hacer cumplir las disposiciones de la declaración de emergencia que expida el Comité Estatal de emergencia;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Solicitar al Ejecutivo Federal el apoyo necesario para desarrollar las acciones de auxilio y recuperación, cuando los efectos de un siniestro o desastre lo requieran;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Apoyar y asesorar a los ayuntamientos que lo soliciten, en la integración de los sistemas municipales de protección civil y en la elaboración de sus programas;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Apoyar a los gobiernos municipales que lo soliciten, para desarrollar las acciones de prevención, auxilio y recuperación en casos de alto riesgo, siniestro o desastre;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Vigilar el cumplimiento de las disposiciones de esta ley y expedir los reglamentos necesarios en todos los aspectos que no están encomendados expresamente a los ayuntamientos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Promover la capacitación de los habitantes del estado en materia de protección civil;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Promover la participación ciudadana en la elaboración, ejecución, evaluación y revisión de los programas y planes estatales y municipales de protección civil;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Asociarse con otras entidades públicas o con particulares para coordinar, concertar y ejecutar la realización de acciones programadas en materia de protección civil;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Vigilar el cumplimiento de las disposiciones de esta ley y los programas de Protección Civil, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebre con la federación y con los municipios;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Resolver el recurso administrativo previsto en esta Ley; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás atribuciones que le otorguen la presente ley y otras disposiciones legales relativas.\nLas facultades previstas en las fracciones III, V, VI, VIII, XIII, XVI, XVII, XVIII, XIX y XX de este artículo podrá ejercerlas a través de la Unidad Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- Corresponde a los ayuntamientos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Integrar el Sistema Municipal de Protección Civil;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar, publicar y ejecutar el programa Municipal de Protección Civil, así como los planes de protección civil y programas institucionales que se deriven;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar en el Sistema Estatal de Protección Civil y asegurar la congruencia de los programas municipales con el Programa Estatal de Protección Civil, haciendo las propuestas que estimen pertinentes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de esta ley, en el ámbito de su jurisdicción, en los términos del artículo 43 de la presente ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar convenios con los gobiernos estatal y federal, que apoyen los objetivos y finalidades de los sistemas de protección civil;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Coordinarse y asociarse con otros municipios de la entidad y el Gobierno del Estado a través de la Unidad Estatal, para el cumplimiento de los programas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Instrumentar sus programas en coordinación con el Consejo y la Unidad Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Difundir y dar cumplimiento a la declaración de emergencia que en su caso expida el Comité Estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Publicar, difundir y dar cumplimiento a la declaración de emergencia que en su caso, expida el Comité Municipal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Solicitar al Ejecutivo Estatal el apoyo necesario para desarrollar las acciones de auxilio y recuperación, cuando los efectos de un siniestro o desastre lo requieran;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Asociarse con otras entidades públicas o con particulares para coordinar y concertar la realización de las acciones programadas en materia de protección civil;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Firmar convenios de colaboración con la Unidad Estatal de Protección Civil para el debido registro, certificación, capacitación, formación y coordinación de los Brigadistas Comunitarios;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Realizar las medidas necesarias tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental del personal de las unidades municipales de protección civil con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que le señalen esta Ley y otras normas y reglamentos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Corresponde al Gobernador y a los ayuntamientos reglamentar, planear, ejecutar y vigilar la aplicación de las disposiciones en materia de protección civil, conforme a la distribución de competencias que establece la Ley General de Protección Civil y esta Ley.\nLos dictámenes de impacto ambiental que verifiquen las autoridades estatales y municipales, deberán integrar los criterios de prevención en materia de protección civil que señale esta ley y su Reglamento.\nLos establecimientos mercantiles, centros laborales, inmuebles públicos o privados, que reciban afluencias masivas de personas, o desarrollos habitacionales de nueva creación, están obligados a presentar en la etapa de planeación un estudio de riesgos ante la Unidad Estatal o Municipal para su evaluación y dictaminación, a fin de que la autoridad determine la factibilidad del proyecto con base en los riesgos intra y extramuros.\nEl ejecutivo estatal promoverá la celebración de convenios de coordinación con la federación y los municipios a fin de precisar la participación y responsabilidad que corresponda a cada nivel de gobierno en las acciones de prevención, auxilio y recuperación ante las condiciones específicas de riesgo que se presenten en la entidad por Municipio y tipo de fenómeno destructivo; para asegurar la congruencia de los programas, criterios y acciones; evitar conflictos al aplicar las normas en materia de protección civil; y coordinar los actos de inspección y vigilancia. Para ello, la Unidad Estatal elaborará el proyecto de las formas de coordinación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- Son organismos auxiliares y de participación social:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los voluntarios y brigadas comunitarias que prestan sus servicios en actividades de protección civil de manera solidaria sin recibir remuneración económica alguna;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las personas jurídicas acordes a las disposiciones que el Congreso del Estado emita en materia de participación ciudadana y vecinal; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las unidades internas de las dependencias y organismos del sector público, como también de las instituciones y empresas del sector privado, encargadas de instrumentar en el ámbito de sus funciones la ejecución de los programas de protección civil, atendiendo las necesidades específicas de prevención y atención de riesgos, para seguridad de su personal y bienes."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Toda persona física o jurídica deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Informar a las autoridades competentes, haciéndolo en forma directa a los servidores públicos o instalaciones oficiales a su alcance, de cualquier alto riesgo, siniestro o desastre que se presente o pudiera presentarse;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Colaborar con las autoridades estatales y municipales para el debido cumplimiento de los programas de protección civil."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- Las personas jurídicas acordes a las disposiciones que el Congreso del Estado emita en materia de participación ciudadana y vecinal, tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Solicitar información y difundir los programas de protección civil, en particular los relacionados con riesgos que se presenten en su barrio, colonia, zona o centro de población y los relativos al funcionamiento de centros escolares y otros lugares públicos de reunión de la comunidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover ante las autoridades competentes se autorice el programa específico de protección civil correspondiente a su zona, colonia, barrio o unidad habitacional;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Integrar unidades internas por conjuntos habitacionales o de barrio y grupos voluntarios que deberán ser registrados y acreditados por la autoridad competente; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coadyuvar con las autoridades competentes en la función de vigilar el cumplimiento de los planes, programas y normas de protección civil, en relación con las actividades que se desarrollen en su ámbito territorial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III Del Sistema Estatal de Protección Civil",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "- El Sistema Estatal de Protección Civil se integra y opera con el objetivo básico de proteger a las personas y a la comunidad ante la eventualidad de siniestros o desastres, a través de acciones que reduzcan o eliminen la pérdida de vidas humanas, la destrucción de bienes materiales y el daño a la naturaleza, así como la interrupción de las funciones esenciales de la sociedad.\nEl Sistema Estatal se constituye por un conjunto de órganos de planeación, administración y operación estructurados mediante normas, métodos y procedimientos que coordinan las acciones de las dependencias y organismos de la administración pública estatal, de los municipios y de las organizaciones de los sectores social y privado, para instrumentar la política estatal de protección civil, programando y realizando las acciones de prevención, auxilio y recuperación o restablecimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Son objetivos generales del Sistema Estatal de Protección Civil:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Afirmar el sentido social de la función pública de protección civil, integrando sus programas, instrumentos y acciones para el desarrollo del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de la población ante la protección civil, para motivar en los momentos de alto riesgo, siniestro o desastre, una respuesta eficaz, amplia, responsable y participativa;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinar la acción del Estado y los municipios, para organizar y mejorar su capacidad de respuesta ante siniestros y desastres;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fortalecer y ampliar los medios de participación de la comunidad, para mejorar las funciones de protección civil; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer las instancias, mecanismos y procedimientos, para instrumentar y operar redes de detección, monitoreo, pronóstico, sistemas de alertamiento y medición de riesgos en coordinación con las dependencias responsables, a través de organismos y dependencias, entidades públicas o privadas especializadas, asegurando la existencia de alertas sísmicas públicas suficientes y la utilización de tecnologías de la información conforme a los lineamientos establecidos."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- Son objetivos específicos, que corresponden a funciones prioritarias, del Sistema Estatal de Protección Civil:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer, reforzar y ampliar el aprovechamiento de las acciones de prevención para identificar, eliminar o minimizar, los efectos destructivos en la eventualidad de un siniestro o desastre; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar las acciones de prevención, auxilio y recuperación para atender las consecuencias de los efectos destructivos en caso de alto riesgo, siniestro o desastre."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- La estructura orgánica del Sistema Estatal de Protección Civil estará constituida por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Consejo Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Unidad Estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los sistemas municipales de Protección Civil;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La agencia del Ministerio Público adscrita permanentemente a la Unidad Estatal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las unidades internas; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La organización estatal de los voluntarios y brigadas comunitarias registrados ante protección civil."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Las normas, métodos y procedimientos que regulan la integración y funcionamiento del Sistema Estatal de Protección Civil comprenden:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las bases generales definidas en las leyes federales y estatales en materia de planeación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los objetivos, políticas, estrategias y criterios definidos en el Plan Estatal de Desarrollo y en los planes municipales de desarrollo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las disposiciones de la presente Ley y sus reglamentos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Programa Estatal y planes de protección civil;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los programas municipales y sus planes de protección civil;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los programas institucionales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los programas específicos de protección civil; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El Atlas Estatal de Riesgos."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Los sistemas municipales de protección civil tienen como función promover en cada Municipio los objetivos generales y específicos del Sistema Estatal. Su estructura orgánica se integrará conforme a lo dispuesto por sus respectivos reglamentos municipales y en su defecto, se conformará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Consejo Municipal de Protección Civil;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Unidad Municipal de Protección Civil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las unidades internas; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los voluntarios y brigadas comunitarias registrados ante la autoridad de protección civil correspondiente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV Del Consejo Estatal de protección Civil",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "- El Consejo Estatal será el órgano que planee, convoque y coordine las acciones públicas y la participación social de protección civil en el Estado.\nEn lo sucesivo cuando en esta ley se haga mención al Consejo Estatal, se entenderá que se refiere al Consejo Estatal de Protección Civil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- Al Consejo Estatal le corresponde:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar, difundir, ejecutar y evaluar, conforme a la presente ley y sus disposiciones reglamentarias, el Programa Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Unificar criterios y acciones entre las dependencias y entidades de la Administración Pública Estatal que intervienen en regular, supervisar y evaluar las actividades de protección civil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Vincular al Sistema Estatal con el Sistema Nacional de Protección Civil;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Convocar y coordinar, con pleno respeto a sus respectivas atribuciones, la participación de las dependencias federales establecidas en la Entidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar la participación activa y responsable de todos los sectores de la sociedad jalisciense en la formulación, ejecución y revisión de los programas de protección civil;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fungir como órgano de consulta en materia de protección civil a nivel estatal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Asesorar y apoyar, en su caso, la integración de los sistemas municipales de protección civil y emitir las recomendaciones a los respectivos municipios para su cumplimiento; así como asistir al obligado para la elaboración del programa específico;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Coordinar el Sistema Estatal de Protección Civil y los sistemas municipales, para programar y realizar acciones regionales, en particular en las zonas conurbadas;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fungir como instancia de concertación entre los sectores público, social y privado en materia de protección civil;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proponer al titular del Poder Ejecutivo, la legislación para el apoyo de la investigación científica, para identificar los problemas y riesgos, así como proponer acciones para su solución y control;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Fomentar la capacitación en materia de protección civil;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Constituir las comisiones internas de estudios de fenómenos geológicos, hidrometeorológicos, químicos, sanitarios y socio-organizativos, la de difusión, la de vinculación legislativa y la de recursos financieros para estudiar, fortalecer y vigilar el cumplimiento de las acciones del programa estatal;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Participar en forma coordinada con las dependencias federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional y extranjera que se reciba en caso de alto riesgo, siniestro o desastre;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Formular, aprobar y modificar el reglamento interior para la organización y funcionamiento del Consejo y de la Unidad Estatal;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Designar a los vocales del Comité Estatal de Emergencia;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Organizar la celebración de entrega del premio anual y reconocimientos a los voluntarios y brigadas comunitarias que por sus méritos, desempeño, heroísmo o sacrificio se hayan destacado a favor de la sociedad, en su actividad permanente u ocasional;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Fomentar la realización de convenios con instituciones de educación superior, organismos internacionales y gobiernos extranjeros, para que los mejores elementos adscritos a las unidades de protección civil, voluntarios o brigadas comunitarias se puedan capacitar tanto en México como en el extranjero a través de becas de intercambios o participación; y"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Las demás que sean congruentes con las disposiciones anteriores y que le atribuyan otras leyes, decretos, reglamentos y convenios."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- El Consejo Estatal deberá, a través del Comité Estatal de Emergencias:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Estudiar el informe y la evaluación inicial de la situación de emergencia que presente la Unidad Estatal, evaluar las acciones y promover la pronta asignación de los recursos necesarios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Declarar la emergencia y convocar a la instalación del Centro Estatal de Operaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Solicitar el apoyo necesario al Consejo Nacional de Protección Civil, cuando la magnitud del siniestro o desastre rebase la capacidad de respuesta de la Unidad Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Convocar a participar en las sesiones del Consejo Estatal, a representantes de dependencias, organismos, empresas o instituciones académicas y a especialistas en materia de protección civil, cuando las circunstancias así lo ameriten;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular el proyecto de presupuesto para el funcionamiento del Sistema Estatal de Protección Civil;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Vigilar la adecuada aplicación de los recursos; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que determinen otras leyes, decretos, reglamentos y convenios."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El Consejo Estatal de Protección Civil estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será el Gobernador del Estado o la persona que éste designe para presidirlo;\n\nSecretaría de Educación;\nj) Secretaría de Igualdad Sustantiva;\nk) Secretaría de Gestión Integral del Agua; e\n\nLas dos organizaciones mayoritarias de asociaciones de vecinos en el Estado, conforme las disposiciones que reglamenten su constitución;\nj) El Consejo de la Cruz Roja Mexicana Delegación Estatal Jalisco; y\nk) De los voluntarios o brigadas comunitarias incorporados al Voluntariado Estatal de Protección Civil que conforme a su registro acrediten mayor membresía; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Secretario General, que será el Secretario General de Gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un Secretario Técnico, que será el titular de la Unidad Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los presidentes de las siguientes comisiones legislativas permanentes del Congreso del Estado de:\na) Seguridad y Justicia;\nb) Asistencia social, Familia y Niñez;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Planeación, ordenamiento territorial y de la gestión del agua;\n\nSistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;\n\nSecretaría de la Defensa Nacional;\n\nLa Delegación de la Cámara Nacional de la Industria de la Construcción;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Medio ambiente, sostenibilidad, protección civil y resiliencia; y\ne) Se deroga;\n\nSecretaría del Medio Ambiente y Desarrollo Territorial;\ne) Secretaría de Salud;\nf) Secretaría de Agricultura y Desarrollo Rural;\ng) Secretaría de Administración;\nh) Secretaría de Innovación, Ciencia y Tecnología;\n\nSecretaría de Comunicaciones y Transportes;\ne) Secretaría de Marina;\nf) Secretaría de Trabajo y Previsión Social;\ng) Secretaría del Medio Ambiente y Recursos Naturales; y\nh) Comisión Nacional del Agua.\n\nLa Delegación de la Cámara Nacional de Empresas de Consultoría;\ne) Centro Empresarial de Jalisco;\nf) Las dos organizaciones obreras mayoritarias en el Estado, según determine la Junta Local de Conciliación y Arbitraje, conforme al registro correspondiente;\ng) La organización mayoritaria de los ejidatarios, comuneros y trabajadores agrícolas en el Estado de Jalisco;\nh) La organización mayoritaria de propietarios rurales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un representante por cada una de las dependencias del Poder Ejecutivo Estatal siguientes:\na) Fiscalía General;\nb) Secretaría de Infraestructura y Obra Pública;"
+              },
+              {
+                "Fracción": "L",
+                "Texto": "Instituto Jalisciense de la Vivienda."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Un representante por cada una de las dependencias del Poder Ejecutivo Federal siguientes:\na) Secretaría de Gobernación;\nb) Secretaría de Desarrollo Social SEDESOL;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los Presidentes Municipales de los lugares donde se establezca una base regional de la Unidad Estatal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Un Consejero por cada uno de los siguientes organismos o asociaciones representativos de la población del Estado:\na) Las cámaras de industria especializadas con sede en la Entidad;\nb) Las Cámaras de Comercio del Estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Un representante de la Universidad de Guadalajara, y de las instituciones de educación privada que determine el Consejo."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- Por cada consejero propietario, previsto en el artículo anterior, se designará un suplente que lo substituya en sus faltas temporales. El cargo de consejero es de carácter honorario y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen.\nEn el caso de los suplentes de los presidentes de las comisiones previstas en la fracción IV del artículo anterior, serán designados por el pleno de la Asamblea del Congreso del Estado.\nEl Secretario General suplirá en sus funciones al Presidente del Consejo Estatal de Protección Civil y el Secretario Técnico, suplirá al Secretario General.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- El Gobernador del Estado, a través del Secretario General de Gobierno, solicitará al Congreso del Estado, a las dependencias, organismos y asociaciones, que designen sus representantes ante el Consejo Estatal de Protección Civil, señalando la fecha de instalación.\nLa persona que designe el Gobernador del Estado para presidir el Consejo estatal deberá reunir los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno goce de sus derechos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener cuando menos 35 años el día de su designación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Residir en el estado, cuando menos tres años antes de su designación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con experiencia y conocimientos comprobables en materia de protección civil, así como de la problemática del estado en la materia; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No haber sido condenado por delito doloso."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- El Comité Estatal de Emergencia es el órgano ejecutivo del Consejo Estatal de Protección Civil y se constituye por el Presidente, el Secretario General, el Secretario Técnico y cuatro vocales que serán designados por el mismo Consejo entre sus propios integrantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- Los cuatro vocales integrantes del Comité Estatal de Emergencia serán designados cada año por el Consejo Estatal entre sus propios integrantes, de tal forma que se incluyan:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Uno de los presidentes de las comisiones permanentes del Congreso del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Uno de los presidentes municipales integrantes del Consejo Estatal; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dos consejeros representantes de los organismos o asociaciones que se indican en la fracción VIII del artículo 26 de esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Las comisiones que constituyan el Consejo Estatal, podrán tener el carácter de permanentes o para desarrollar acciones específicas y se integrarán por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los consejeros propietarios o suplentes del Consejo Estatal que se comisionen;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los representantes de las dependencias y organismos públicos federales, estatales y municipales que se convoquen, conforme a su competencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los representantes de entidades y organismos privados a quienes se solicite su participación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los representantes de instituciones académicas y colegios de profesionistas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los investigadores y especialistas en materia de protección civil; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Representantes de brigadas comunitarias o personas que estén en condiciones de coadyuvar con los objetivos del Sistema Estatal de Protección Civil."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- El Consejo se reunirá en sesiones ordinarias mínimo tres veces al año y extraordinarias, cuando el caso así lo requiera, a convocatoria de su presidente. Deberá sesionar en el mes de septiembre para la elaboración del presupuesto del Sistema Estatal de Protección Civil.\nEn los casos en que no sea posible la presencia física de los integrantes del Consejo Estatal en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;\n\nLos presidentes de los municipios donde se presenten las condiciones de alto riesgo, siniestro o desastre;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "la validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.\nEl Reglamento Interior del Consejo Estatal de Protección Civil dispondrá lo relativo a procedimientos para ratificar o relevar a los representantes, integración de sus comisiones y las normas que regulen el funcionamiento del pleno, del Comité Estatal de Emergencia y de sus comisiones. También establecerá los criterios para la premiación y entrega de reconocimientos a los voluntarios y brigadas comunitarias que se hayan destacado en el año, conforme a lo establecido en el artículo 52 bis de la presente ley.\nDe conformidad a los asuntos específicos que se vayan a analizar en el Consejo Estatal, en el Comité Estatal de Emergencia o en sus comisiones, mediante invitación expresa de su Presidente, podrán participar:"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los funcionarios de dependencias federales, estatales y municipales que por sus funciones, puedan aportar informes y alternativas de solución, respecto a los problemas planteados al Consejo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los investigadores, profesionales y peritos en materia de protección civil, cuya información y opinión se requiera; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los representantes de organismos auxiliares y de participación social.\nLos presidentes municipales en los casos previstos en la fracción I del párrafo que antecede, participarán con voz y voto; en tanto que los representantes a que se refieren las fracciones II, III y IV, participarán únicamente con voz informativa."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- Corresponde al Presidente del Consejo Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convocar y presidir las sesiones; dirigir sus debates, teniendo voto de calidad en caso de empate, el cual será respetado cuando presida su suplente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar el orden del día a que se sujetarán las sesiones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinar las acciones que se desarrollen en el seno del Consejo y las del Sistema Estatal en general;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ejecutar y vigilar el cumplimiento de los acuerdos del Consejo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer la integración de comisiones que se estimen necesarias, conforme los programas del Consejo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Convocar y presidir las sesiones del Comité Estatal de Emergencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer la celebración de convenios de coordinación con el Gobierno Federal, de los municipios y estados circunvecinos para instrumentar los programas de protección civil; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Rendir al Consejo Estatal un informe anual sobre los trabajos realizados en materia de protección civil."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- Corresponde al Secretario General:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Firmar las actas de las sesiones ordinarias y extraordinarias, en el Comité de Emergencia o Comisiones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Resolver, con base a la presente ley y sus disposiciones reglamentarias, las consultas que se sometan a su consideración;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar y presentar al Consejo el proyecto de Reglamento Interior; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que le confieran el Consejo, la presente Ley y otras disposiciones legales."
+              }
+            ]
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- Corresponde al Secretario Técnico:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar los trabajos que le encomienden el Presidente y el Secretario General del Consejo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Resolver, con base a la presente ley y sus disposiciones reglamentarias, las consultas que se sometan a su consideración;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Registrar los acuerdos del Consejo y sistematizarlos para su seguimiento, así como levantar acta del contenido de las sesiones ordinarias y extraordinarias;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Elaborar y presentar al Consejo el proyecto de Programa Operativo Anual;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Llevar el archivo y control de los diversos programas de protección civil y aglutinar las propuestas y aportaciones de las diferentes comisiones del Consejo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Administrar los recursos humanos, materiales y financieros del Consejo, rindiendo un informe al Presidente del Consejo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar periódicamente al Secretario General del Consejo el cumplimiento de sus funciones y actividades realizadas; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás funciones que le confieran el Reglamento Interno, los acuerdos del Consejo, el presidente o el secretario general."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V De la Unidad Estatal de Protección Civil y Bomberos",
+        "Artículos": [
+          {
+            "Artículo": 36,
+            "Texto": "- Se crea la Unidad Estatal de Protección Civil y Bomberos, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, estará constituido por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una Junta de Gobierno que se integrará por las personas titulares de:\na) Poder Ejecutivo del Estado, quien designará a la o él presidente;\nb) Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Secretaría de Salud;\ne) Secretaría de Infraestructura y Obra Pública;\nf) Secretaría de Medio Ambiente y Desarrollo Territorial; y\ng) Secretaría de Agricultura y Desarrollo Rural.\nQuienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Centro Estatal de Operaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las Bases regionales necesarias que se establezcan, conforme el Programa Estatal de Protección Civil; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Centro de Análisis del Riesgo.\nEl Reglamento Interno de la Unidad Estatal determinará su estructura orgánica, atribuciones específicas y procedimientos de operación."
+              }
+            ]
+          },
+          {
+            "Artículo": 37,
+            "Texto": "La Fiscalía General dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esta materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- Corresponde a la Unidad Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar el proyecto de Programa Estatal de Protección Civil y presentarlo a consideración del Consejo Estatal y en su caso, las propuestas para su modificación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar el proyecto del Programa Operativo Anual y presentarlo al Consejo Estatal para su autorización;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Identificar los riesgos que se presentan en la entidad integrando el Atlas Estatal de Riesgos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación o restablecimiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover, estructurar programas y realizar acciones de educación, capacitación y difusión a la comunidad en materia de simulacros, señalización y uso de equipos de seguridad personal para la protección civil, proponer programas específicos ante las Secretarías de Educación y de Innovación, Ciencia y Tecnología impulsando la formación del personal que pueda ejercer esas funciones con la acreditación y aval correspondiente, así como realizar convenios con instituciones de educación superior, organismos internacionales o gobiernos extranjeros a través de los conductos correspondientes, para que los mejores elementos adscritos a la unidad de protección civil o a los cuerpos voluntarios se puedan capacitar tanto en México como en el extranjero a través de becas de intercambios o participación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Elaborar el catálogo de recursos humanos y materiales necesarios por cada tipo de fenómeno destructivo que pueda afectar a la Entidad en casos de emergencia; verificar su existencia, coordinar su utilización y cuando no exista al alcance de la Unidad Estatal otro medio viable y menos perjudicial, podrá realizar o hacerse llegar de materiales o insumos indispensables ante situaciones de alto riesgo, siniestros o desastres o por estado de necesidad, mediante acciones de voluntad propia, donación o en su defecto a través de la requisa de materiales o insumos, proporcionando por todo acto que se de por la requisa, el documento que especifique o señale el material o insumo que ampare su cantidad y la causa por la que se actúa o proceda, aplicando a la partida de contingencias contenidas en el presupuesto de egresos el cargo correspondiente a efecto de cubrir el factor económico que se desprenda de la requisa;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Elaborar el registro, vigilar y controlar en materia de protección civil, el manejo, almacenamiento, transporte y utilización de materiales peligrosos y explosivos en el Estado, y disponer las medidas de seguridad que estime pertinentes;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Disponer se integren las unidades internas de las dependencias y organismos de la Administración Pública Estatal y vigilar su operación;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Proporcionar información y dar asesoría a las empresas, instituciones, organismos y asociaciones del sector privado y social, para integrar sus unidades internas y promover su participación en las acciones de protección civil;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Elaborar el registro de asesores, capacitadores, consultores y de los grupos voluntarios en materia de protección civil; signar convenios de concertación con ellos; acreditarlos; prestarles asesoría y capacitación; y coordinarlos en casos que las circunstancias lo requieran;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población ante cualquier riesgo, convocar a los grupos voluntarios, organismos e instituciones para enfrentar emergencias y, en general, dirigir las operaciones del Sistema Estatal;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Establecer y operar los centros de acopio para recibir y proporcionar ayuda a la población afectada por un siniestro o desastre. Vigilar que los centros de acopio establecidos en la entidad o que realicen acopio en ésta, destinen la ayuda recibida a la población afectada. Quienes soliciten ayuda en el Estado para atender desastres locales, nacionales o internacionales, deberán registrarse ante la Unidad Estatal o municipal; estas últimas avisarán a la Unidad Estatal respecto de los registros que hubieren realizado, conforme a lo que señale el Reglamento. La Unidad Estatal publicará cuáles son los centros de acopio registrados, además de su domicilio, tipo de ayuda requerida y su destino, responsable del centro, y los demás puntos que indique el Reglamento;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Practicar inspecciones, en la forma y términos que establece esta ley, a fin de vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de protección civil. Para el efecto, la Unidad Estatal propondrá al titular del Poder Ejecutivo las medidas de seguridad que sea necesario establecer en la legislación local;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Operar dentro de su estructura el Centro de Análisis del Riesgo, integrando la red sísmica estatal con apoyo científico que permita estudiar los aspectos geológicos en la entidad y el sistema de soporte informático que vincule la información y el procesamiento de datos de los diferentes fenómenos destructivos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Convocar semestralmente a encuentros con las unidades municipales existentes de la entidad, a efecto de actualizar conocimientos, intercambiar experiencias, homologar criterios, coordinar planes y programas;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Evaluar y emitir los dictámenes de los programas específicos de protección civil y, en su caso, aprobar o negar los estudios de riesgo, según corresponda, emitiendo el dictamen respectivo;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Coordinarse, en el ámbito de sus atribuciones, con las autoridades competentes en la elaboración, aplicación y evaluación de programas de atención integral para los agentes pirotécnicos;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Registrar en un padrón a los agentes pirotécnicos en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Verificar, en coordinación con la Secretaría de la Defensa Nacional en los términos del convenio de colaboración respectivo, que los agentes pirotécnicos reúnan las condiciones de seguridad para desempeñar actividades pirotécnicas y solicitar el dictamen de seguridad correspondiente;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Vigilar las medidas de seguridad para las actividades pirotécnicas y el certificado de seguridad municipal, y en su caso, cuando hayan cambiado las condiciones de seguridad correspondientes, dar aviso a la Secretaría de la Defensa Nacional, y en su caso, aplicar las medidas de seguridad establecidas en la presente ley;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Otorgar la constancia correspondiente a los agentes pirotécnicos que cumplan con las condiciones que se señalen en el dictamen de seguridad que emita la autoridad municipal;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Llevar un registro de los dictámenes de seguridad y certificaciones solicitados y presentados por los pirotécnicos;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Informar de inmediato a la Secretaría de la Defensa Nacional y demás autoridades federales y estatales competentes para ejecutar las medidas de seguridad necesarias, cuando se detecten establecimientos clandestinos dedicados a las actividades pirotécnicas;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Requerir a los agentes pirotécnicos la elaboración del estudio de riesgo para su evaluación e instrumentar las estrategias y medidas preventivas y de seguridad necesarias en función de los riesgos derivados de las actividades pirotécnicas;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Coordinarse conjuntamente con las autoridades competentes, en el ámbito de sus respectivas competencias, y asesorar a los municipios que lo soliciten, respecto de las acciones preventivas en zonas y lugares de riesgo donde se exhiban, quemen y comercialicen objetos pirotécnicos;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Coordinarse conjuntamente con las autoridades competentes, así como asesorar a los municipios que lo soliciten, respecto de la creación y establecimiento de zonas pirotécnicas de riesgo en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Promover ante las instancias competentes, la realización de estudios e investigaciones pirotécnicas, para generar información estadística y difundir los resultados entre la población y las autoridades;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Coordinarse, en el ámbito de sus atribuciones, con las autoridades competentes para desarrollar programas y acciones de difusión, capacitación, especialización, formación y asistencia técnica, dirigidos a los agentes pirotécnicos, así como a la población en general;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Coordinarse con las autoridades competentes para instrumentar las acciones necesarias para el cumplimiento de esta ley;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Integrar y certificar a las brigadas comunitarias en apoyo, a la Red Nacional de Brigadistas Comunitarios, así como tener actualizado el padrón de la Red Estatal de Brigadas Comunitarias;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Realizar las medidas necesarias tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental del personal con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil."
+              }
+            ]
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- El Director General de la Unidad Estatal, será nombrado por la junta de Gobierno de la Unidad Estatal, a partir de la terna que presente el Gobernador del Estado. Los integrantes de la terna deberán reunir los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno goce de sus derechos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener cuando menos treinta y cinco años el día de su designación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Residir en el Estado, cuando menos tres años antes de su designación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con experiencia y conocimientos comprobados en materia de protección civil, de organización estratégica preventiva, de respuesta a la emergencia y de recuperación ante fenómenos geológicos, hidrometeorológicos, químico-tecnológicos, sanitario-ecológicos y socioorganizativos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No desempeñar cargo de dirección en partido político; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Contar preferentemente con título profesional y presentar examen de oposición.\nEl Reglamento Interior de la Unidad Estatal preverá el procedimiento para elegir y remover al Director General de la Unidad Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Corresponde al Director General de la Unidad Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar, supervisar y evaluar todas las acciones que se realicen en el desarrollo de las funciones de la Unidad Estatal, así como cumplir y hacer cumplir las disposiciones de esta ley y sus reglamentos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejecutar las acciones previstas en el Programa Operativo Anual autorizado por el Consejo Estatal de Protección Civil, fomentar la cultura de la protección civil y realizar campañas preventivas y simulacros con la población;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Apoyar y asesorar al Ministerio Público en materia de protección civil y querellarse ante éste cuando proceda, así como fungir como perito en la materia ante autoridades competentes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coordinar las acciones de la Unidad Estatal, de las dependencias, organismos y unidades federales y municipales en caso de siniestro o desastres en el Estado y ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las calamidades;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la Unidad Estatal a realizar las mismas y, en su caso, impongan las medidas de seguridad que contempla esta ley. Asimismo, calificará y sancionará las faltas e infracciones a la ley, a su reglamento y a las disposiciones que de aquella deriven;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Convocar y presidir las reuniones semestrales con las unidades municipales de protección civil en la Entidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar a la población en forma oportuna por conducto de los medios de información que cubran las zonas donde se detecte la posible ocurrencia de algún tipo de fenómeno destructivo que pueda afectarles, de las medidas preventivas a tomar, del tipo de fenómeno que pueda impactar la zona, los lugares que puedan ser más seguros y la ubicación de los refugios temporales instalados y operando;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Expedir los documentos de todas las autorizaciones previstas en la ley y sus reglamentos;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Establecer los mecanismos para la recaudación de los ingresos económicos a la Unidad Estatal provenientes de las cuotas y tarifas de los servicios prestados y autorizados por el Congreso del Estado, así como de las donaciones de personas físicas y jurídicas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Administrar y aplicar los recursos económicos del fondo Estatal de Desastres Naturales en forma eficiente y en base a lo que establezcan las Reglas de Operación que para tal efecto se expidan; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Todas las demás que le confieran esta Ley, el Consejo Estatal y otras disposiciones legales."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- La Unidad Estatal administrará las instalaciones, equipo y materiales necesarios para su eficaz funcionamiento, los cuales serán proporcionados por el Gobierno del Estado, por dependencias o por particulares, a través de los contratos y convenios que celebre para su adquisición o utilización.\nSu reglamento interior establecerá los procedimientos de control de su patrimonio.\nEl personal que integre la Unidad Estatal se regirá por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VI De la integración y funcionamiento de los Sistemas Municipales de Protección Civil",
+        "Artículos": [
+          {
+            "Artículo": 42,
+            "Texto": "- En cada uno de los municipios del Estado, se establecerá el Sistema Municipal de Protección Civil y su respectiva Unidad Municipal de Protección Civil que tendrá al frente un director.\nPara efecto de establecer plena coordinación tanto en el aspecto preventivo como operativo se deberá informar cada seis meses el desarrollo de las actividades, así como de las necesidades de las Unidades Municipales a la Unidad Estatal de Protección Civil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- Los reglamentos que establezcan la organización y regulen la operación de los Sistemas Municipales, serán expedidos por cada ayuntamiento, de acuerdo a la disponibilidad de recursos humanos, materiales y financieros y la probabilidad de riesgos y desastres, incorporando\na su organización a los sectores representativos del municipio, pudiendo tomar como referencia para su integración, las bases que establece esta ley para integrar el Consejo y la Unidad Estatal de Protección Civil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- El Consejo Municipal de Protección Civil estudiará la forma para prevenir los desastres y aminorar sus daños en cada una de sus localidades.\nEn caso de detectar un riesgo cuya magnitud pudiera rebasar sus propias posibilidades de respuesta, deberán hacerlo del conocimiento de la Unidad Estatal, con objeto de que estudie la situación y se propongan medidas preventivas que puedan aplicarse con aprobación del Gobierno Municipal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VII De las unidades Internas de protección civil",
+        "Artículos": [
+          {
+            "Artículo": 45,
+            "Texto": "Las dependencias y organismos de la administración pública estatal y de los gobiernos municipales, integrarán a su estructura orgánica unidades internas y adoptarán las medidas encaminadas a instrumentar, en el ámbito de sus respectivas funciones, la ejecución de los programas de protección civil. Estas están obligadas a realizar cuando menos tres simulacros de evacuación por año, los cuales se llevarán a cabo cada ciento veinte días naturales entre uno y otro realizándose estos en día hábil, pudiendo solicitar a la autoridad competente se realice un estudio de riesgo sobre las condiciones físicas del inmueble de que se trate, previo estudio que se haya detectado con potencial de riesgo por parte de la unidad interna de protección civil, el cual puede ser realizado en cualquier tiempo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- Las empresas industriales, de servicio y centros laborales deberán contar con un sistema de prevención y protección para sus propios bienes y su entorno, conforme a las especificaciones que indique el Reglamento. Dicho sistema deberá ser evaluado y aprobado directamente por la Unidad Estatal o a través de las unidades municipales. Dichas negociaciones y centros laborales realizarán, cuando menos, tres simulacros de evacuación por año, los cuales se llevarán a cabo cada ciento veinte días naturales entre uno y otro realizándose estos en día hábil, pudiendo solicitar a la autoridad competente se realice un estudio de riesgo sobre las condiciones físicas del inmueble de que se trate, previo estudio que se haya detectado con potencial de riesgo por parte de la unidad interna de protección civil, el cual puede ser realizado en cualquier tiempo.\nEstas empresas están obligadas a colaborar y cumplir con la Unidad Estatal, para integrar los mecanismos propios de seguridad que apliquen a sus operaciones, con las normas de protección civil que establezcan las disposiciones legales y reglamentarias aplicables a su localidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "La Unidad Estatal y las unidades municipales de protección civil, asesorarán gratuitamente a las empresas, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus unidades internas y organizar voluntarios o brigadas comunitarias, atendiendo la distribución de actividades que se defina en el Reglamento de la Unidad Estatal y los acuerdos que celebre el Ejecutivo Estatal con los gobiernos municipales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VIII De la organización voluntaria",
+        "Artículos": [
+          {
+            "Artículo": 48,
+            "Texto": "- Los habitantes del Estado de Jalisco podrán organizarse de manera libre y voluntaria para participar y apoyar, coordinadamente, las acciones de protección civil previstas en el Programa Estatal y los programas municipales.\nLas brigadas comunitarias se integrarán por grupos de voluntarios organizados y certificados por la Unidad Estatal, que tengan interés en participar en acciones de prevención y auxilio a la población, ante condiciones de alto riesgo, siniestro o desastre.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "Los grupos voluntarios ya constituidos en brigadas comunitarias que se desempeñen en la entidad deberán ser registrados por Unidad Estatal en la Red Estatal de Brigadas Comunitarias. Sólo la Unidad Estatal podrá dispensar dicho registro en los casos especiales que señale el reglamento, con motivo de una situación de riesgo o desastre.\nLas unidades municipales de Protección Civil deberán informar a la Unidad Estatalde los gruposde voluntarios que pretendan constituirse como brigadas comunitarias, a efecto de que la Unidad Estatal tramite la certificación correspondiente e identifique los recursos humanos y materiales disponibles en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "Las brigadas comunitarias deberán organizarse con base en los aspectos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Territorial. Formados por los habitantes de una colonia, zona, centro de población, municipio, región del Estado en su conjunto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Profesional o de oficio. Constituidos de acuerdo a la profesión que tengan o al oficio que desempeñen;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Actividad específica. Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de rescate, de salvamento, de evacuación u otras; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Capacitación y enseñanza. Preparados y acreditados para impartir cursos y talleres a la población en general, sobre el conocimiento de los fenómenos destructivos y de la identificación y control de riesgos, así como de las acciones destinadas a evitar o mitigar el impacto destructivo de los siniestros o desastres."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "El registro de brigadas comunitarias se verificará ante la Unidad Estatal que corresponda, de acuerdo a las categorías descritas en el artículo anterior, en los términos y exigencias que establezca el reglamento respectivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "Los particulares que desempeñen labores de rescate y auxilio, deberán agruparse en brigadas comunitarias, organizados conforme a las disposiciones de la Ley y el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- Los voluntarios que por sus méritos, desempeño, heroísmo o sacrificio se hayan destacado a favor de la sociedad, en su actividad permanente u ocasional, se harán acreedores a la entrega del premio y reconocimientos que anualmente otorgará el Consejo Estatal de Protección Civil, de conformidad con lo establecido por el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Las brigadas comunitarias deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acatar la coordinación de las Unidades municipales y la Unidad Estatal, durante las tareas de prevención, auxilio y rescate de la población;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Colaborar y participar en la difusión de campañas, planes, estrategias y actividades de Protección Civil, y en los programas de capacitación hacia lo interno y con la población para que pueda protegerse en caso de desastre;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informar con oportunidad a los Sistemas Municipal o Estatal en su caso, la presencia de una situación de alto riesgo, siniestro o desastre;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Portar la certificación o identificación que autorice y proporcione la Unidad de Protección Civil en la que se registre la brigada comunitaria; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que les señale su reglamento y acuerdos autorizados por la Unidad de Protección Civil responsable de coordinar sus actividades."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII Bis De La Red Estatal de Brigadas Comunitarias",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "La Red Estatal de Brigadas Comunitarias, será una estructura ciudadana, organizada y compuesta de personas voluntarias conformados en brigadas, con el fin de trabajar de manera solidaria, mismos que tendrán que capacitarse y certificarse permanentemente por la Unidad Estatal de Protección Civil, para enfrentar dentro de su comunidad o entorno, los riesgos o peligros causados por los diversos agentes perturbadores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Las Brigadas Comunitarias, serán debidamente registradas en la Red Estatal de Brigadas y serán certificados en diversas materias de Protección Civil; bajo la coordinación y supervisión de la autoridad competente en su comunidad, en tareas de alertamiento, evacuación, búsqueda y rescate, primeros auxilios, acciones preventivas, refugios temporales y otras similares.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "uarter. La Unidad Estatal de Protección Civil, se encargará de organizar el funcionamiento de esta Red; para tal efecto, las autoridades Estatales y Municipales en la materia, promoverán en el marco de su competencia, la capacitación y certificación de los grupos de voluntarios que deseen constituirse en brigadas comunitarias, debiendo registrar los grupos que se conformen en el estado de Jalisco e informar de ellos a la Red Nacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Para obtener la certificación de la Unidad Estatal de Protección Civil, las brigadas comunitarias deberán cumplir con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar el formato establecido que para tal efecto entregue la Unidad Estatal de Protección Civil, con firma autógrafa;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Constancia de capacitación del curso para brigadistas comunitarios o copia de documentos que acrediten los conocimientos en protección civil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Documentos de identificación oficial; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Comprobante de domicilio."
+              }
+            ]
+          },
+          {
+            "Artículo": 53,
+            "Texto": "La Unidad Estatal de Protección Civil, entregará al representante de la brigada debidamente registrada y capacitada, una certificación oficial, la cual fungirá como su medio público de identificación, en un plazo no mayor de treinta días hábiles a la presentación de su solicitud de registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Los Brigadistas Comunitarios del Estado de Jalisco únicamente deberán desempeñar las funciones de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acciones de prevención de riesgo en el lugar donde habitan;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Identificación de riesgos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Alertamiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Evacuación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Participación en centros de acopio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Participación en la administración de refugios temporales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Participación en eventos socio-organizativos; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "De apoyo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO IX De los programas de protección civil",
+        "Artículos": [
+          {
+            "Artículo": 54,
+            "Texto": "- Los programas estatal y municipales de protección civil, así como los subprogramas, programas institucionales, específicos y operativos anuales que se deriven de los mismos, se expedirán, ejecutarán y revisarán, conforme a las normas legales y reglamentarias en materia de planeación y las disposiciones específicas de esta ley.\nLos programas y subprogramas mencionados en el párrafo anterior, en forma especial y preponderante, deberán redimensionar la acción pública y la normatividad técnica para que en toda política relativa a la protección civil, donde se vean involucrados los derechos de menores de edad, se atienda a su interés superior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- El Programa Estatal de Protección Civil integra el conjunto de políticas, estrategias y lineamientos que regulan las acciones de los sectores públicos, privado y social en materia de protección civil, aplicables a nivel estatal y regionales.\nLos programas municipales integrarán las políticas, estrategias y lineamientos específicos de protección civil aplicables en el territorio de un municipio determinado de la Entidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- La Unidad Estatal formulará el proyecto de Programa Estatal en forma anual y lo someterá a consideración del Consejo. Una vez aprobado, el Gobernador del Estado ordenará su publicación en el periódico oficial \"El Estado de Jalisco\".",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "- La Unidad Municipal de Protección Civil elaborará los proyectos de los programas municipales, que se someterán a la aprobación del Consejo Municipal y del Ayuntamiento, sucesivamente y se publicará en la gaceta o periódico oficial del municipio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- La Unidad Estatal formulará el proyecto de Programa Estatal en forma anual y lo someterá a consideración del Consejo. Una vez aprobado, el Gobernador del Estado ordenará su publicación en el periódico oficial \"El Estado de Jalisco\".",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "De Prevención;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "De Auxilio; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "De Restablecimiento.\nLos subprogramas deberán contemplar los fenómenos destructivos en el siguiente orden: grupo geológicos, grupo hidrometeorológicos, grupo químico-tecnológicos, grupo sanitario-ecológicos y grupo socio-organizativos."
+              }
+            ]
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- El Subprograma de Prevención agrupará las acciones de protección civil tendientes a evitar o mitigar los efectos o disminuir la ocurrencia de hechos de alto riesgo, siniestro o desastre; y promover el desarrollo de la cultura de protección civil en la comunidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- El Subprograma de Prevención deberá establecer los siguientes elementos operativos del Sistema Estatal, para responder en condiciones de alto riesgo, siniestros o desastres:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los estudios, investigaciones y proyectos de protección civil a ser realizados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los criterios para integrar el Atlas de Riesgo, además de los ya establecidos en el artículo 21 bis de esta ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las acciones que la Unidad de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los criterios para promover la participación social y la captación y aplicación de los recursos que aporten los sectores público, privado y social;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El inventario de recursos disponibles;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las previsiones para organizar albergues y vivienda emergente;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los lineamientos para la elaboración de los manuales de capacitación a la población, voluntarios, brigadas comunitarias e integrantes de instituciones;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La política de difusión y de comunicación social; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Los criterios y bases para realización de simulacros."
+              }
+            ]
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- El Subprograma de Auxilio, integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, siniestro o desastre, la integridad física de las personas, sus bienes y el medio ambiente.\nPara realizar las acciones de rescate, se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- El Subprograma de Auxilio integrará los criterios generales para instrumentar, en condiciones de siniestro o desastre:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las acciones que desarrollarán las dependencias y organismos de la administración pública estatal o municipal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los mecanismos de concertación y coordinación con los sectores social y privado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los medios de coordinación con los voluntarios y brigadas comunitarias; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La política de difusión y de comunicación social."
+              }
+            ]
+          },
+          {
+            "Artículo": 63,
+            "Texto": "- El Subprograma de restablecimiento determinará las estrategias necesarias para la recuperación de la normalidad una vez ocurrido el siniestro o desastre.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "- Los programas operativos anuales precisarán las acciones a desarrollar por las unidades de protección civil para el período correspondiente, a fin de integrar el presupuesto de estas dependencias, conforme las disposiciones en materia de planeación y las bases de control presupuestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- Los Programas Específicos precisarán las acciones de protección a cargo de las Unidades Internas de Protección Civil que se establezcan en las dependencias, organismos, empresas o entidades que lo requieran, de conformidad con sus actividades y por la afluencia de personas que concurran o habiten en las edificaciones que administren, conforme a lo previsto en el artículo 5 de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "- Los programas y planes de protección civil previstos en este capítulo tendrán la vigencia que se determine en cada caso cuando no se establezca un término de vigencia, el programa se mantendrá en vigor, hasta que sea modificado, sustituido o cancelado, conforme las disposiciones de esta ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO X De la coordinación del Sistema Estatal con los Sistemas Nacional y municipales",
+        "Artículos": [
+          {
+            "Artículo": 67,
+            "Texto": "- La coordinación que establezca el Sistema Estatal, el Sistema Nacional y los sistemas municipales, tendrá por objeto precisar:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las acciones que correspondan a cada sistema para atender los riesgos específicos que se presenten en la entidad, relacionados con sus bienes y actividades;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las formas de cooperación con las unidades internas de las dependencias y organismos de la administración pública federal en el Estado, acordando las responsabilidades y acciones que asumirán en materia de protección civil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los medios que permitan identificar, registrar y controlar las actividades peligrosas que se desarrollen en la Entidad, bajo regulación federal; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los medios de comunicación entre los órganos operativos, para coordinar acciones en caso de alto riesgo, siniestro o desastre."
+              }
+            ]
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- El Director General de la Unidad Estatal informará anualmente a la Secretaría de Gobernación y a los ayuntamientos, sobre el estado que guarda la Entidad en relación con pronósticos de riesgos para la población y acciones específicas de prevención.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "- Cuando la situación de emergencia lo amerite, el Comité Estatal de Emergencia solicitará el auxilio de los gobiernos federal y municipales para que se activen los programas correspondientes de prevención, auxilio y restablecimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "- La Unidad Estatal, con base en los acuerdos que celebre con las dependencias federales competentes, llevará un control de las empresas que dentro del territorio del Estado, realicen actividades con materiales peligrosos y explosivos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO XI De la educación y la capacitación en materia de protección civil",
+        "Artículos": [
+          {
+            "Artículo": 71,
+            "Texto": "- El Consejo Estatal y los consejos municipales realizarán campañas permanentes de capacitación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "El Consejo Estatal promoverá ante las autoridades educativas, que se proporcione información y capacitación en materia de protección civil con la colaboración de la Unidad Estatal y la unidad municipal que corresponda, y fomentará este tipo de acciones en organismos sociales y asociaciones de vecinos, debiendo incluir protocolos de protección civil dirigidos a personas con discapacidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- El Sistema Educativo Estatal implementará en todas las escuelas de la entidad, el Programa Nacional de Seguridad de Emergencia Escolar, coordinado por las Secretarías de Educación y de Innovación, Ciencia y Tecnología, en su respectivo ámbito de atribuciones.\nCon apoyo en el Atlas de Riesgo del Estado de Jalisco, los planteles escolares que integran el Sistema Educativo Estatal realizarán simulacros para capacitar operativamente a la comunidad escolar y promoverán la capacitación de las personas que integren el Comité de Protección Civil y Seguridad Escolar.\nTodos los planteles sin importar el nivel educativo, elaborarán su programa específico y organizarán unidades internas de protección civil, las cuales realizarán cuando menos tres simulacros de evacuación por calendario escolar, los cuales se llevarán a cabo repartidos proporcionalmente entre los días de clase que establezca la autoridad correspondiente, pudiendo solicitar a la autoridad competente se realice un estudio de riesgo sobre las condiciones físicas del inmueble de que se trate, previo estudio que se haya detectado con potencial de riesgo por parte de la unidad interna de protección civil, el cual puede ser realizado en cualquier tiempo y de acuerdo con lo referido en el párrafo anterior.\nEn relación a la educación y capacitación en materia de protección civil, la Unidad Estatal y Municipal, en su caso, otorgarán el registro a las personas físicas o jurídicas que así lo soliciten debiendo cumplir con lo siguiente:\na) Acreditación por documentación simple o evaluación escrita, formulada y proveída por la Unidad Estatal o Municipal, que demuestre el conocimiento suficiente en materia de protección civil con relación a la legislación de dicha materia, elaboración e instrumentación de programas de protección civil, organización y ejecución de simulacros, formación de brigadas de protección civil, técnicas en el combate y control de incendios, primeros auxilios y conocimiento en materia de fenómenos destructivos;\nb) Contar con bachillerato concluido y acreditado por autoridad competente y constancia de no antecedentes penales; y",
+            "Fracciones": [
+              {
+                "Fracción": "C",
+                "Texto": "Para que los particulares o dependencias públicas puedan ejercer la actividad de capacitación en materia de protección civil, deberán mostrar acreditación como instructor y registro ante la Unidad Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- Para realizar la actividad de consultoría en materia de protección civil en el Estado, deberá obtenerse previamente el permiso correspondiente ante la Unidad Estatal conforme a los lineamientos y requisitos que determine el Reglamento, sin perjuicio de lo que establezcan otros ordenamientos en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "- Los espacios oficiales en los medios de difusión, podrán ser utilizados mediante convenio, para informar a los habitantes del Estado sobre las acciones de protección civil ante agentes destructivos.\nLa Unidad Estatal realizará lo conducente para la difusión de las acciones mencionadas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO XII De la declaratoria de emergencia",
+        "Artículos": [
+          {
+            "Artículo": 75,
+            "Texto": "- En caso de alto riesgo, siniestro o desastre, el Comité Municipal de Emergencia o el Comité Estatal; expedirán la declaratoria de emergencia y ordenarán su publicación, conforme los siguientes lineamientos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Todo hecho que implique una posible condición de alto riesgo, siniestro o desastre, será puesta en conocimiento de la Unidad Municipal, las Bases Regionales y el Centro Operativo de la Unidad Estatal, a través de la red de información que se establezca como parte de las acciones de prevención;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conforme la evaluación inicial de la posible condición de alto riesgo, siniestro o desastre, el Titular de la Unidad Municipal o de la Unidad Estatal decidirá sobre informar, alertar o convocar en forma urgente, al Comité de Emergencia correspondiente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Reunido el Comité Municipal o en su caso el Comité Estatal:\na) Analizará el informe inicial que presente el Titular de la Unidad de Protección Civil correspondiente, decidiendo el curso de las acciones de prevención o rescate;\nb) Cuando del informe se advierta existe una condición de alto riesgo o se presente un siniestro, hará la declaratoria de emergencia;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Cuando el Comité Municipal decida declarar emergencia, lo comunicará al Comité Estatal; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "El Comité Estatal al declarar la emergencia, dispondrá se instale el Centro Estatal de operaciones; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cuando del informe resulte evidente se presenta una condición de alto riesgo, siniestro o desastre, el presidente del Comité Municipal y del Comité Estatal de Emergencias, según corresponda, hará la declaratoria de emergencia y citará al Comité respectivo, para presentar el informe de la Unidad de Protección Civil y solicitar se ratifique su decisión, debiendo publicarse dentro de las setenta y dos horas siguientes de haber ocurrido.\nEl Programa Estatal de Protección Civil precisará los casos de alto riesgo, siniestro o desastre, que corresponderá atender a la Unidad Estatal y a las unidades municipales, considerando los recursos y capacidad efectiva de respuesta de que dispongan;"
+              }
+            ]
+          },
+          {
+            "Artículo": 76,
+            "Texto": "- La declaratoria de emergencia deberá hacer mención expresa de los siguientes aspectos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Identificación de la condición de alto riesgo, siniestro o desastre, el tipo de fenómeno causal y las fechas de ocurrencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las instalaciones, zonas o territorios afectados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las acciones de prevención y rescate que conforme a los programas vigentes, se disponga realizar;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las suspensiones o restricciones de actividades públicas y privadas que se recomienden especificando su tiempo de duración y conclusión. La Unidad Estatal impondrá las medidas precautorias que se requieran en dichos casos; e"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Instrucciones dirigidas a la población, de acuerdo al Programa Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 77,
+            "Texto": "- Cuando la gravedad del siniestro lo requiera, el Titular de la Unidad Municipal solicitará al Titular de la Unidad Estatal, el auxilio de las dependencias y entidades de la Administración Pública Estatal. En su caso, cuando la gravedad del desastre lo requiera, el Presidente del Comité Estatal de Emergencia solicitará al Ejecutivo Federal el auxilio de las dependencias federales y en particular, la participación de la Secretaría de la Defensa Nacional mediante los programas de auxilio a la población civil.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO XIII De las Inspecciones",
+        "Artículos": [
+          {
+            "Artículo": 78,
+            "Texto": "- La Unidad Estatal y las unidades municipales, realizarán los actos de inspección y vigilancia de las disposiciones contenidas en esta ley, así como de aquéllas que del mismo se deriven. De la misma forma llevarán a cabo los procedimientos necesarios para imponer y ejecutar las sanciones a que se refiere esta Ley.\nLos actos de inspección y vigilancia podrán realizarse en días y horas inhábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "- Las visitas domiciliarias se sujetarán a las siguientes bases:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Unidad Estatal y las unidades municipales podrán ordenar y realizar visitas domiciliarias, por conducto de los servidores públicos y particulares debidamente autorizados, para verificar el\ncumplimiento de esta Ley, su Reglamento, de las medidas precautorias y de las medidas dictadas en las resoluciones que califiquen las actas de visita;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Al realizar las visitas, las personas autorizadas deberán contar con la orden de visita por escrito; fundada y motivada; expedida por la autoridad competente, la cual asentará su nombre, cargo, domicilio oficial y firma autógrafa; así como también el domicilio que se visitará; nombre, denominación o razón social de la persona o personas a las cuales se dirija la orden; nombre del o de los servidores públicos y/o particulares que realizarán la visita así como los datos relativos a los documentos oficiales con los cuales se identificarán al realizar la misma; lugar y fecha de expedición de la orden; y el objeto y alcance de la visita;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las personas autorizadas a realizar la visita se identificarán ante el visitado al iniciar la misma, y en caso de que éste no se encuentre en dicho domicilio, se identificarán ante el propietario, poseedor, representante legal, encargado y/o dependiente del inmueble, negociación o centro laboral, al cual se le entregará copia de la orden de visita y deberá acompañar el desarrollo de la visita.\nEl documento de identificación de los autorizados deberá contener cuando menos fotografía, fecha de vigencia posterior a la de la realización de la visita, nombre, cargo y firma de la autoridad que la expide, además de aquéllos que se señalen en la orden de visita.\nDe la misma forma, el propietario, poseedor, representante legal, encargado y/o dependiente del inmueble, negociación o centro laboral, deberá identificarse mediante documento idóneo que acredite su personalidad y la calidad con la que participa en la visita; las personas autorizadas a realizar la visita asentarán los principales datos de dichos documentos en el acta de aquella. En caso de que el visitado se negare a identificarse, dicha circunstancia deberá asentarse en el acta de visita;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Posteriormente, se le requerirá al visitado para que designe a dos testigos que deberán acompañar durante el desarrollo de la visita. Cuando en el domicilio visitado no sea posible encontrar a quienes funjan como testigos, en caso de negativa a designar éstos o de que las personas elegidas se negaren, los autorizados podrán elegir a otras personas y dichas circunstancias deberán manifestarse en el acta de visita. Ninguna de estas eventualidades será motivo de nulidad del acta ni de los actos que se generen con motivo de lo sustentado en ella;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las visitas domiciliarias podrán durar un máximo de cinco días naturales y deberán realizarse de forma continua desde su inicio hasta el final, pudiendo prorrogar este término hasta por un tanto más siempre y cuando se justifique la urgente necesidad de la medida, habiendo recesos por razones necesarias o fuerza mayor, debiendo asentar en el acta estas circunstancias. Sólo habrá recesos de máximo treinta minutos por cada ocho horas durante el término que dure la visita.\nSolamente las personas autorizadas podrán realizar la visita, sin embargo, éstas no tendrán la obligación de estar presentes durante todo el tiempo que dure la misma, siempre y cuando por lo menos una de estas la continúe. La misma situación será aplicable para los testigos, propietarios, poseedores, representantes legales, encargado y/o dependiente del inmueble, negociación o centro laboral;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "De toda visita se levantará acta en la que constarán los hechos, omisiones y circunstancias de carácter concreto que se hubieren encontrado durante el desarrollo de la misma.\nEl acta deberá contener cuando menos: nombre o razón social del visitado; hora, día, mes y año en que se inicia y concluye la visita; domicilio objeto de la visita; nombre, firma y datos de los documentos con los que se identifiquen quienes intervinieron, incluyendo las de los servidores públicos o particulares encargados de la visita, el visitado y los testigos, así como los principales datos del documento con el que se identifiquen, y el carácter con el cual participan; la declaración del visitado, si así desea hacerlo; así como las causas por las cuales el visitado, su representante\nlegal o el encargado con el cual se entendió la visita, se negó a nombrar testigos, a permitir la visita o firmar o a recibir copia del acta si es que tuvo lugar dicho supuesto.\nEn el acta se señalará que el visitado deberá subsanar las circunstancias, omisiones y hechos encontrados durante la visita, dentro de los diez días naturales siguientes de finalizada ésta. Dentro de dicho término, el visitado, por sí mismo o a través de su representante legal, podrá acudir ante la autoridad ordenadora de la visita para exhibir las pruebas y alegatos con los cuales desvirtúe las circunstancias, omisiones y hechos descritos en el acta de la visita;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Durante y al finalizar la visita, los particulares podrán formular observaciones y ofrecer pruebas en relación con los hechos, omisiones y circunstancias que se asienten en el acta, a lo cual, los autorizados deberán detallar en qué consisten las observaciones y pruebas ofrecidas, a la vez que deberán valorarlas en relación con lo observado durante la visita para efecto de lo señalado en el párrafo penúltimo de la fracción anterior. Después de ello, la persona con la que se entendió la visita, las que la realizaron y los testigos, firmarán el acta;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La persona con quien se entienda la diligencia estará obligada a permitir a los servidores públicos y a los particulares encargados de la visita, el acceso a los lugares sujetos a inspección en los términos previstos en la orden de visita, así como a proporcionar toda la información y documentación que le sea solicitada en relación con el objeto de la misma.\nA quienes divulguen, transmitan, reproduzcan o utilicen para fines diversos a aquellos con motivo de los cuales se obtenga la información recabada durante las visitas domiciliarias, se estará a lo dispuesto por el Código Penal para el Estado de Jalisco, independientemente de las sanciones que otros ordenamientos establezcan; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La Unidad Estatal y las unidades municipales podrán solicitar el auxilio de la fuerza pública para efectuar la visita domiciliaria, cuando alguna persona obstaculice o se oponga a la práctica de la diligencia en los casos que juzgue necesario, independientemente de las sanciones a que haya lugar."
+              }
+            ]
+          },
+          {
+            "Artículo": 80,
+            "Texto": "- Transcurridos los términos a que se refiere la fracción VI del artículo anterior, la autoridad que ordenó la visita calificará el acta de la misma dentro de los tres días hábiles siguientes, considerando en todo momento la gravedad de la infracción, si existe reincidencia, si corrigió la falta, las circunstancias que hubieren concurrido, las pruebas aportadas y los alegatos formulados. La resolución que determine será notificada personalmente al visitado.\nDurante el procedimiento y hasta antes de que se califique el acta, la autoridad ordenadora de la visita, a petición del visitado, podrán convenir la realización de acciones de restauración o compensación de daños necesarias para la corrección de las omisiones, hechos o circunstancias observadas durante la visita.\nEn la resolución mediante la cual se califique el acta de la visita, se señalarán las medidas que deberán adoptarse para subsanar las omisiones, hechos o circunstancias detectadas durante la visita; el término en el cual el visitado deberá ejecutar dichas medidas, y las sanciones a que se hubiera hecho acreedor. Al finalizar el término en el cual el visitado deberá ejecutar dichas medidas, y las sanciones a que se hubiere otorgado para dar cumplimiento a la resolución señalada en este párrafo, el visitado deberá comunicar por escrito en forma detallada a la autoridad ordenadora, el haber dado cumplimiento a las medidas decretadas en la resolución de referencia.\nCuando el visitado realice las medidas correctivas o tendientes a subsanar las irregularidades detectadas en la visita, durante los plazos que le sean señalados, la autoridad ordenadora podrá revocar o modificar en beneficio del visitado, la sanción o sanciones impuestas, en tanto no se trate de reincidencia.\nEn los casos en que lo estime pertinente, el Director General de la Unidad Estatal o de las unidades municipales, harán del conocimiento de la autoridad que corresponda los actos u omisiones que pudieran configurar otras infracciones administrativas o delitos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO XIV De las medidas de seguridad y de las sanciones",
+        "Artículos": [
+          {
+            "Artículo": 80,
+            "Texto": "- Para garantizar el mantenimiento y la seguridad del orden público y el interés general, la Unidad Estatal o las unidades municipales, podrán ordenar y ejecutar cualesquiera de las siguientes medidas precautorias, cuando las circunstancias así lo ameriten:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Clausura temporal, parcial o total, de las negociaciones, centros laborales o inmuebles;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aseguramiento precautorio de semovientes, materiales, bienes muebles e inmuebles o residuos de éstos, que deberán resguardarse en un lugar seguro y adecuado para cada caso, para lo cual la Unidad Estatal o Municipal podrá realizar los convenios necesarios con los propietarios o representantes legales de los establecimientos que cuenten con las medidas de seguridad para cada caso, y los propietarios, arrendatarios, poseedores o representantes legales están obligados a cubrir los gastos de la estadía en el lugar del aseguramiento; el resguardante únicamente podrá liberarlo con el mandato por escrito de la autoridad que realizó el aseguramiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Neutralización o cualquier acción análoga que impida que los objetos señalados en las fracciones anteriores generen peligro, siniestros, desastres, riesgos, altos riesgos o fenómenos destructivos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Delimitación de zonas de riesgo y alto riesgo, y limitación de la movilidad de las personas y vehículos en las mismas zonas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Reubicación de población asentada en zonas de riesgo o alto riesgo, y su atención en refugios temporales; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que establezcan otras disposiciones legales.\nLa Unidad Estatal o las unidades municipales se coordinarán para dictar o ejecutar cualquier medida de seguridad.\nAl ejecutarse cualquier medida de seguridad relacionada con una situación de alto riesgo a la sociedad, la autoridad ejecutora deberá notificarle por escrito al afectado, anexando copia del acta circunstanciada que al efecto se elabore, cuáles fueron los actos, omisiones o circunstancias que motivaron la imposición de la medida, las acciones que deberá realizar para subsanar aquellas y los plazos para su realización, para efecto de que una vez corregido lo que motivó la imposición de la medida, se ordene su retiro. Las medidas de seguridad impuestas podrán impugnarse a través de lo previsto por esta ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 81,
+            "Texto": "- Las violaciones a los preceptos de esta Ley, sus reglamentos y a las demás disposiciones que de ella emanen serán sancionadas administrativamente por la Unidad Estatal o municipal, según corresponda, con una o más de las siguientes sanciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Clausura temporal o definitiva, parcial o total, cuando:\na) El infractor incumpla con cualquiera de las obligaciones señaladas en los artículos 5º., 6º., 7º., 13, 15, 38, 46, tercer párrafo del artículo 73 y 80-Bis;\nb) Incumpla con las medidas indicadas en el acta de visita para subsanar las circunstancias, omisiones y hechos encontrados en aquélla o con las medidas de seguridad ordenadas, dentro de los plazos y conforme a las condiciones impuestas por la autoridad; o"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Exista reincidencia respecto de las infracciones que generen situaciones de siniestros, desastres, riesgos, altos riesgos, fenómenos destructivos o peligro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa por el equivalente de hasta veinticuatro mil veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Arresto administrativo hasta por treinta y seis horas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Decomiso definitivo de materiales, bienes muebles, animales o residuos de éstos, directamente relacionados con las infracciones generadas de siniestros, desastres, riesgos, altos riesgos, fenómenos destructivos y peligro;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Suspensión o revocación de permisos, licencias o autorizaciones que se hubieran otorgado por la Unidad Estatal o municipal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Negativa temporal o definitiva para la expedición o renovación de permisos, licencias o autorizaciones que hubieren otorgado la Unidad Estatal o municipal; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Solicitar a quien las hubiera otorgado, la suspensión, revocación o cancelación de las concesiones, permisos, licencias o autorizaciones para la realización de las actividades del infractor que dieron lugar a la infracción; así como solicitarle la negativa temporal o definitiva para la expedición o renovación al infractor, de permisos, licencias o autorizaciones para realizar las actividades por las cuales se le sanciona."
+              }
+            ]
+          },
+          {
+            "Artículo": 82,
+            "Texto": "- Se considera reincidente al infractor que incurre más de una vez en conductas que impliquen infracciones a un mismo precepto, dentro de un periodo de dos años contados a partir de la fecha en que se levante el acta en la que se hizo constar la primera infracción, siempre que ésta no hubiera sido desvirtuada.\nEn caso de reincidencia se podrá sancionar con multa de hasta el doble del monto máximo previsto en la fracción II del artículo 81 de esta Ley, así como con clausura definitiva y decomiso definitivo.\nSi transcurrido el término decretado por la Unidad Estatal o municipal para subsanar las infracciones cometidas, éstas aún subsisten, la multa que se hubiere impuesto aumentará a razón de cinco por ciento por cada día adicional a aquél en que feneció dicho término, sin que el total de la multa exceda del doble del monto máximo establecido en la fracción II del artículo 81 de esta Ley.\nLa autoridad que imponga la multa, podrá otorgar al infractor la opción de pagar aquélla o realizar las inversiones en su negociación, centro laboral o inmueble objeto de la infracción, equivalentes a aquélla que tengan como finalidad el cumplimiento de las obligaciones incumplidas, y en su caso, el reforzamiento del cumplimiento de las obligaciones, no se trate de multas impuestas con motivo del incumplimiento o desacato a las medidas de seguridad a que se refiere el artículo 80 bis y, la autoridad fundamente y motive dicha decisión. La sustitución aquí referida podrá ser combatida por cualquier afectado por la conducta infractora, a través de juicio de nulidad conforme a la Ley de Justicia Administrativa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "- La Unidad Estatal y las unidades municipales deberán informarse entre sí respecto de las medidas de seguridad o sanciones que impongan a efecto de que no se sancione dos veces a los infractores por la misma conducta.\nPara la imposición de las sanciones deberán considerar:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La gravedad de la infracción atendiendo al daño que pueda sufrir la sociedad y el beneficio que pueda obtener el infractor;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El riesgo, alto riesgo, siniestro o desastre que se hubiere generado con la infracción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La actividad, los animales, materiales, bienes muebles o residuos de todos éstos, motivo de la infracción;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las condiciones económicas del infractor;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La reincidencia si la hubiere;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La intencionalidad o negligencia de la acción u omisión del infractor;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El beneficio directo o indirecto, que haya obtenido o pueda obtener el infractor o un tercero, derivado de la conducta infractora; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El cumplimiento que realice el infractor respecto de las medidas de seguridad o de las relativas a subsanar las conductas infractoras."
+              }
+            ]
+          },
+          {
+            "Artículo": 83,
+            "Texto": "Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de la Hacienda Pública o la Oficina de la Hacienda Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.\nEl procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse a el procedimiento económico coactivo, se sujetará a las disposiciones de las leyes hacendarias aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "- Las sanciones impuestas conforme a esta Ley son independientes de las que puedan imponerse por la misma conducta conforme a otras disposiciones legales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "La responsabilidad por daños o perjuicios causados por acciones u omisiones que deriven en siniestros o desastres, se determinará y hará efectiva, conforme las disposiciones de la legislación constitucional, penal, civil, Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás aplicables al caso.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO XV De las notificaciones",
+        "Artículos": [
+          {
+            "Artículo": 86,
+            "Texto": "- La notificación de las resoluciones administrativas emitidas por las autoridades en términos de esta Ley, será de carácter personal y se hará en día y hora hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "- Cuando las personas a quien deba hacerse la notificación no se encuentren, se les dejará citatorio para que estén presentes en una hora determinada del día hábil siguiente, apercibiéndolas de que de no encontrarse se entenderá la diligencia con quien se encuentre presente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 88,
+            "Texto": "- Si habiendo dejado citatorio, el interesado no se encuentra presente en la fecha y hora indicada se, entenderá la diligencia con quien se halle en el inmueble.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 89,
+            "Texto": "- Cuando la notificación se refiera a los inmuebles que se indican en los artículos 6 y 7, en todo caso, se fijará una cédula en lugar visible de la edificación, señalando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre de la persona a quien se notifica;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Motivo por el cual se coloca la cédula, haciendo referencia a los fundamentos y antecedentes; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El tiempo por el que debe permanecer la cédula en el lugar donde se fije."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO XVI Del recurso de revisión",
+        "Artículos": [
+          {
+            "Artículo": 90,
+            "Texto": "- El recurso de revisión tiene por objeto que la autoridad estatal o municipal de protección civil, revoque o modifique las resoluciones administrativas de cualquier índole establecidas en la presente ley o sus reglamentos que se reclaman.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "- El recurso de revisión debe interponerse ante el superior jerárquico de la autoridad que expidió la resolución, dentro del plazo de veinte días hábiles contados a partir del día siguiente en que la resolución se notifique o se haga del conocimiento del o los interesados.\nNo procederá la suspensión de los actos ordenados por la autoridad, cuando se deriven de una declaración de emergencia o de aquellos actos de orden público e interés general tendientes a la prevención de riesgos, de siniestros o desastres en perjuicio de la sociedad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "- El recurso de revisión debe presentarse por escrito firmado por el afectado o por su representante debidamente acreditado y cumpliendo los requisitos que establece la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 93,
+            "Texto": "- Una vez presentado el recurso, la autoridad administrativa debe acordar por escrito la admisión del recurso en un plazo no mayor de cinco días hábiles, debiendo admitir las pruebas presentadas y declarará desahogadas aquéllas que por su naturaleza así lo permitan.\nEn caso contrario abrirá un plazo de cinco días para desahogar aquellas pruebas que así lo requieran, levantándose acta suscrita por los que en ella hayan intervenido otorgándosele copia legible al quejoso afectado. Al término de este periodo se debe dictar la resolución correspondiente.\nEn ese mismo escrito se debe requerir al servidor público que autorizó o emitió el acto recurrido, para que en un plazo no mayor de cinco días hábiles entregue un informe del acto recurrido y presente las pruebas que se relacionen con el acto impugnado, debiendo otorgar copia al quejoso afectado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "- En un plazo de diez días hábiles, contados a partir de la admisión del recurso si las pruebas presentadas fueron desahogadas por su propia naturaleza, la autoridad o el servidor que conoce del recurso debe resolver el mismo.\nLa autoridad dictará la resolución que corresponda, debidamente fundada y motivada, misma que deberá notificar al interesado personalmente, en los términos señalados en la presente ley. La autoridad dictará la resolución que corresponda, debidamente fundada y motivada, misma que deberá notificar al interesado personalmente, en los términos señalados en la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 95,
+            "Texto": "- La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, será de aplicación supletoria a la presente Ley.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nLa presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Consejo Estatal de Protección Civil, se deberá instalar en un plazo no mayor de sesenta días a partir del día siguiente al de la publicación de esta Ley.\n\nLa Unidad Estatal de Protección Civil deberá instalar en su estructura orgánica el Centro de Análisis del Riesgo en un plazo no mayor a noventa días contados a partir del día siguiente de la publicación del presente Decreto.\nARTICULOS TRANSITORIOS DEL DECRETO 21461\n\nLas leyes, reglamentos, planes, programas, reglas de operación y demás disposiciones generales que se hubieren expedido previamente a la entrada en vigor de este\ndecreto, deberán adecuarse a los términos previstos en el mismo.\n\nSe abroga el Decreto 20580 que crea el Instituto Jalisciense de la Pirotecnia.\n\nA la publicación del presente decreto, las autoridades competentes, contarán con un periodo de ciento veinte días naturales para emitir los lineamientos, documentos, programas y marco reglamentario para efectos de dar cumplimiento en lo establecido en el presente decreto e iniciar los programas o campañas de difusión para que la ciudadanía interesada pueda acudir a formar parte de las brigadas comunitarias.\n\nLas dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.\nTABLA DE REFORMAS Y ADICIONES\nFE DE ERRATAS. 4 DE SEPTIEMBRE DE 1993.\nDECRETO NÚMERO 17363.- Reforma los arts. 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 26, 28, 29, 36, 38, 39, 40, 42, 46, 49, 53, 58, 81, 82, 84, 85, 91 y el art. quinto transitorio, publicado en el periódico oficial El Estado de Jalisco, el 3 de febrero de 1998. Sec. VI.\nDECRETO NÚMERO 18448.- Reforma los arts. 6, 9, 11, 14, 16, 18, 22, 24, 34, 35, 36, 38, 43, 46, 54, 70, 84, 90, 91, 92, 93, 94, y 95. Sep. 19 de 2000 Secc. III.\nDECRETO NÚMERO 18498.- Se reforma la fracción XVIII y se adiciona una fracción XIX al art. 24 y reforma el art. 36.-Oct. 5 de 2000. Sec. II.\nDECRETO NÚMERO 20436.- Se reforman los arts. 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 24, 25, 26, 28, 32, 33, 34, 35, 37, 39, 41, 42, 43, 45, 46, 49, 51, 53, 56, 57, 58, 60, 62, 63, 64, 65, 66, 67, 68, 72, 73, 74, 75, 76, 78, 79, 80, 82, 85, 90, 93 y 95 y se adicionan los arts. 4, 12, 15 bis, 21, 21 bis, 24, 36, 38, 40, 50 y 52bis.-Feb.21 de 2004. Sec. II.\nDECRETO NÚMERO 20529.- Reforma la frac. IV incisos a), c) y d); y se deroga el inciso e) del art.\n26. -Jul. 3 de 2004. Sec. II.\nDECRETO NÚMERO 21461.- Que reforma, adiciona y deroga disposiciones de los artículos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 19, 20, 21, 24, 25, 26, 28, 36, 37, 38, 39, 40, 41, 44, 46, 47, 49, 50, 52, 53, 56, 58, 63, 65, 68, 70, 72, 73, 73 bis, 74, 75, 76, 77, 78, 79, 80, 80 bis, 81, 82, 82 bis y 84.-Oct. 3 de 2006. Sec. II.\nDECRETO NÚMERO 23137/LIX/10.- Se adiciona un segundo párrafo al art. 78 de la Ley de Protección Civil del Estado de Jalisco.- Sep. 18 de 2010. Sec. III.\nDECRETO NÚMERO 24154/LIX/11.- Adiciona los arts. 4º., 5º., 12, 13, 38, 40, 79 y 80-Bis de la Ley de Protección Civil del Estado de Jalisco.- Nov. 17 de 2012. Sec. VII.\nDECRETO NÚMERO 24476/LX/13.- Reforma el artículo 54 de la Ley de Protección Civil del Estado de Jalisco.- Oct. 12 de 2013. Sec. V.\nDECRETO NÚMERO 25002/LX/14.- Se reforman los artículos 26, 36, 37 y 83 de la Ley de Protección Civil del Estado de Jalisco.- Dic. 2 de 2014 sec. XLI.\nDECRETO NÚMERO 25325/LX/15.- Se reforman los artículos 4, 26, 36, 37, 38, 73 y 83 de la Ley de Protección Civil del Estado de Jalisco.- Mar. 28 de 2015 sec. II\nDECRETO NÚMERO 25840/LXI/16.- Artículo Vigésimo Noveno, Se reforma el artículo 81 de la Ley de Protección Civil del Estado de Jalisco.- Oct. 11 de 2016. sec. V.\nAL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16. Oct. 11 de 2016 sec. VI.\nDECRETO NÚMERO 26438/LXI/17.- Se reforman los artículos 5, 12 y 24 de la Ley de Protección Civil del Estado de Jalisco.- Oct. 21 de 2017 sec. III.\nDECRETO NÚMERO 26740/LXI/18.- Se reforma el artículo 73 de la Ley de Protección Civil del Estado de Jalisco.- Mar. 10 de 2018 sec. III.\nDECRETO NÚMERO 26741/LXI/18.- Se reforma el artículo 7 de la Ley de Protección Civil del Estado de Jalisco.- Mar. 10 de 2018 sec. III.\nDECRETO NÚMERO 27266/LXII/19.- Se reforma el artículo 8 fracción II en su inciso e), de la Ley del Organismo Público Descentralizado Denominado “Bosque La Primavera”; Se reforma la fracción IV del artículo 26 de la Ley de Protección Civil del Estado de Jalisco; y se reforma el\nartículo 5 fracción IV de la Ley Orgánica de la Agencia de Energía del Estado de Jalisco.- May. 11 de 2019 sec. II.\nDECRETO NÚMERO 27277/LXII/19.- Se reforma el artículo 72 de la Ley de Protección Civil del Estado de Jalisco.- Jun. 13 de 2019 sec. IV.\nDECRETO NÚMERO 27292/LXII/19.- Se reforman los artículos 5, 7, 15, 53 y el Capítulo IV de la Ley de Coordinación en Materia de Sanidad Animal para el Estado de Jalisco y sus Municipios; Se reforma el artículo 6 de la Ley de Coordinación en Materia de Sanidad Vegetal del Estado de Jalisco; Se reforma los artículos 5 y 7 de la Ley de Protección y Cuidado de los Animales del Estado de Jalisco; Se reforma los artículos 26 y 83 de la Ley de Protección Civil del Estado de Jalisco; Se reforma el artículo 41 de la Ley para la Acción ante el Cambio Climático del Estado de Jalisco,. Jul. 11 de 2019 sec. III.\nDECRETO NÚMERO 27303/LXII/19.- Se reforman los artículos 4, 12, 14, 20, 22, 24, 26, 31, 32, 38, 47, 48, 49, 50, 51, 52, 53, 60 y 62; y adiciona el capítulo VIII Bis con los artículos 53 Bis, 53 Ter, 53 Quater, 53 Quinquies y 53 Septies,de la Ley de Protección Civil del Estado de Jalisco.- Ago. 10 de 2019 sec. III.\nDECRETO NÚMERO 27771/LXII/19.- Se reforman los artículos 41 y 85 de la Ley de Protección Civil del Estado de Jalisco.- Dic. 28 de 2019 sec. VII.\nDECRETO NÚMERO 27953/LXII/20.- Se adiciona al artículo 18 la fracción V de la Ley de Protección Civil del Estado de Jalisco.- Sep. 19 de 2020 sec. III.\nDECRETO NÚMERO 28433/LXII/21.- Se adiciona el artículo 32 de la Ley de Protección Civil del Estado de Jalisco.- Sep. 4 de 2021, sec. VI.\nDECRETO NÚMERO 29155/LXIII/23.- Se reforman los artículos 45, 46 y 73 de la Ley de Protección Civil del Estado de Jalisco.- Mar. 14 de 2023, sec. V.\nDECRETO 29163/LXIII/23.- Se reforma los artículos 12 y 38 de la Ley de Protección Civil del Estado.- Mar. 28 de 2023 sec. VII.\nDECRETO 29179/LXIII/23.- Se reforma el artículo 36 fracción I de la Ley de Protección Civil del Estado de Jalisco.- May. 23 de 2023 sec. IV.\nLEY DE PROTECCION CIVIL DEL ESTADO DE JALISCO\nAPROBACION: 25 DE JUNIO DE 1993.\nPUBLICACION: 10 DE JULIO DE 1993. SECCION II.\nVIGENCIA: 11 DE JULIO DE 1993.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Programa Estatal de Protección Civil deberá aprobarse en un plazo no mayor de noventa días a partir del día siguiente al de la publicación de la presente Ley.\n\nLos arrendatarios, propietarios y poseedores de inmuebles que por cualquier motivo reciban una afluencia masiva de personas; así como toda negociación o centro laboral a que se refiere la fracción III del artículo 7 de esta ley, a más tardar dentro de los 180 días naturales posteriores a la entrada en vigor de este decreto, deberán cumplir con las obligaciones establecidas en el presente ordenamiento.\n\nSe autoriza a la Secretaría de Planeación, Administración y Finanzas y a las demás autoridades competentes, a realizar las gestiones y actos jurídicos necesarios para el cumplimiento de este Decreto.\n\nSe derogan todas las disposiciones que se opongan al presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 29163/LXIII/23",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "En tanto se expidan los reglamentos previstos en esta Ley, seguirán vigentes las disposiciones que regulan la integración y operación del Sistema Estatal de Protección Civil, contenidas en el acuerdo del Poder Ejecutivo Estatal de 10 de octubre de 1989, publicado en el Periódico Oficial “El Estado de Jalisco” de 21 de octubre de 1989.\n\nEl Ejecutivo Estatal deberá emitir el Reglamento de la presente Ley dentro de los 30 días posteriores a su publicación en el “Periódico Oficial el Estado de Jalisco”.\nARTÍCULOS TRANSITORIOS DEL DECRETO 25325/LX/15\n\nLas solicitudes y demás trámites que, hasta antes de la entrada en vigor del presente\nDecreto, hayan sido entablados ante el Instituto Jalisciense de la Pirotecnia, se seguirán sustanciando y resolverán por la Unidad Estatal de Protección Civil y Bomberos, aplicando las disposiciones vigentes al momento de su iniciación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los municipios dispondrán de un plazo de un año, a partir de la modificación de esta Ley, a fin de integrar sus sistemas municipales de protección civil, expedir el programa y reglamento municipal de protección civil.\nPara tal efecto, los Cabildos de los Ayuntamientos aprobarán una partida presupuestal para dicha operación.\n\nLas dependencias de la Administración Pública Estatal, en el respectivo ámbito de sus competencias, promoverán los productos pirotécnicos jaliscienses y el fortalecimiento de sus organizaciones, así mismo fomentarán su comercialización, considerado integralmente los procesos de fabricación, transportación, almacenamiento y medidas de seguridad.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27303/LXII/19",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Se deroga cualquier disposición estatal en vigor que se oponga a la presente Ley.\nSalón de Sesiones del Congreso del Estado Guadalajara. Jalisco, a 25 de junio de 1993\nDiputado Presidente Juan Delgado Navarro\nDiputado Secretario Roberto Franco Loza\nDiputado Secretario Rafael Vázquez de la Torre\nPor tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.\nDado en Palacio del Poder Ejecutivo del Estado, a los dos días del mes de julio de mil novecientos noventa y tres.\nEl Gobernador Interino del Estado Lic. Carlos Rivera Aceves\nEl Secretario General de Gobierno Lic. José Luis Leal Sanabria\nARTICULOS TRANSITORIOS DEL DECRETO 20436",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

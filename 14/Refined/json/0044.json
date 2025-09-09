@@ -1,0 +1,1250 @@
+{
+  "0044.JSON": {
+    "Decreto": "Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNUMERO 18673.- EL CONGRESO DEL ESTADO DECRETA:\nLEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO",
+    "Año_publicación": null,
+    "Título": "LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Las disposiciones de esta ley son de orden público y de observancia general y obligatoria en el territorio del Estado de Jalisco\nEs objeto de esta ley, regular las acciones del Estado que fomenten y desarrollen la cultura en sus manifestaciones artísticas, artesanales, costumbres y tradiciones populares, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- La presente ley tiene como objetivos los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover el derecho de acceso a la cultura, el cual será garantizado por el Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco y la presente ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas, con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad, especialmente de las personas pertenecientes a grupos vulnerables, considerando las necesidades específicas que puedan requerir estos para su justo acceso a la cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer los criterios mediante los cuales la autoridad competente ejecutará y evaluará la política cultural del Estado y servirá como base para la elaboración de los planes y programas estatales en materia de cultura, conforme a los siguientes criterios:\na) Procurar la satisfacción de las necesidades artísticas de los habitantes del Estado;\nb) Fortalecer la identidad cultural de los jaliscienses;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Dar prioridad a las manifestaciones culturales de Jalisco;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Equilibrar la asignación de recursos por área artística, debiendo considerar el grado de desarrollo de las artes y la necesidad de apoyos de los artistas y cuidar que los gastos administrativos sean los menos;\ne) Garantizar la creación y permanencia de los grupos artísticos profesionales organizados por el Estado; y\nf) Garantizar el cuidado, mantenimiento y conservación de la infraestructura cultural del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos Federal, Estatal, municipales, organizaciones culturales y la sociedad en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la participación de los individuos, grupos, instituciones y organizaciones de los sectores social y privado en la promoción, fomento y difusión en materia de cultura;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer y desarrollar mecanismos financieros, destinados a proveer de apoyos a las actividades culturales en materia del presente ordenamiento legal, diferentes del presupuesto ordinario que el ejecutivo estatal destine a estos fines;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fijar las bases para otorgar beca, reconocimientos y estímulos económicos en apoyo a la realización artística y cultural;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Definir la competencia de la autoridad estatal y municipal en materia cultural;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Reconocer como gestor cultural a toda persona que actúe como agente de cambio y transformación social, cuya visión multidisciplinaria, conocimientos y habilidades vayan encaminados al análisis, promoción, fomento y difusión de procesos culturales; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Garantizar la igualdad en el ámbito de la promoción y difusión de la producción artística e intelectual para hombres y mujeres, asegurando la inclusión de manera equitativa y proporcional por género en los planes y proyectos de esta ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Derogado",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "El Estado y los ayuntamientos promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, atendiendo al principio de no discriminación e inclusión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- Para los efectos de esta ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Secretaría: La Secretaría de Cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sistema: El Sistema Estatal de Cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Consejo: El Consejo Estatal para la Cultura y las Artes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ley: La Ley para el Fomento de la Cultura del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dependencia municipal: El órgano técnico y administrativo del gobierno municipal competente para promover, fomentar y difundir las manifestaciones y valores culturales propios del municipio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Programa: El Programa Estatal de Cultura;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Programa Municipal: El Programa Municipal de Cultura;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Industria cultural: Las industrias editoriales, disquera, de las artes gráficas, de la radio y televisión, así como todas aquellas empresas que produzcan bienes o servicios pertenecientes al campo de las artes y la cultura;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Creador : Autor, intérprete o ejecutante artístico; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cultura: Entre otras cosas se entenderá como el conjunto de los rasgos distintivos, materiales, intelectuales y afectivos que caracterizan a una sociedad o un grupo social. Incluyen, además de las artes y las letras, los modos de vida, el lenguaje, la vestimenta, los valores, las tradiciones y las creencias, así como, cualquier manifestación de la creatividad humana, destinada a enriquecer la vida, el desarrollo social y la educación, bajo esquemas de identidad individual y sentido de pertenencia cultural."
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Atlas Cultural: El registro sistemático de carácter público y georeferenciado de todos los bienes y recursos culturales, así como los sitios y en general todas aquellas zonas y áreas territoriales en las que estos se ubican dentro del Estado de Jalisco, presentado en forma digital;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De las Autoridades",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "- Son autoridades encargadas de la aplicación de la presente ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Gobernador del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Secretario de Cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los presidentes municipales; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los organismos públicos descentralizados y desconcentrados en materia cultural."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De las atribuciones de las autoridades",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "- Son atribuciones y obligaciones del Gobernador del Estado en materia de cultura:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer los objetivos y estrategias para la preservación, investigación, promoción, fomento y difusión de la cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar y publicar el Programa Estatal de Cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover, fomentar y difundir, en su ámbito de competencia, las manifestaciones culturales en el Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Procurar la asignación de recursos presupuestales crecientes en términos reales para el financiamiento de las actividades culturales, así como para la creación de nuevos espacios culturales y la recuperación de los existentes, en especial, de aquellos que se encuentran en estado de abandono o en desuso, en coordinación con instancias públicas y privadas."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar con los gobiernos federal, municipales y de otras entidades federativas, así como con las personas físicas o jurídicas, los convenios que favorezcan el desarrollo cultural y artístico de la entidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombrar, en el ámbito e su competencia, a los integrantes del Consejo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dictar los acuerdos administrativos necesarios para la eficaz coordinación y ejecución de programas culturales que realicen las dependencias y organismos dependientes del Gobierno del Estado; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que le otorgue la legislación aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "La Secretaría tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar la política cultural del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar, ejecutar y evaluar el Programa Estatal de Cultura, con la participación del Sistema y con el auxilio del Consejo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Planear las estrategias y realizar las acciones necesarias para promover, preservar, divulgar y fomentar las diversas manifestaciones culturales y artísticas del Estado, así como realizar las investigaciones pertinentes para un mejor conocimiento de aquellas, así como elaborar, publicar y mantener actualizado el Atlas Cultural del Estado de Jalisco."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Diseñar, operar y evaluar, en coordinación con la Secretaría de Educación Jalisco, los programas de educación artística e investigación estética; así como de promoción y fomento del libro y la lectura;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover estrategias de financiamiento y programas de estímulos fiscales a personas físicas y jurídicas que destinen recursos a las actividades culturales que son objeto de esta ley, diseñando, inclusive, los mecanismos adecuados para expedir recibos deducibles de impuestos para apoyar el mecenazgo por particulares;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, creación y construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas, considerando primordialmente las necesidades de accesibilidad de las personas con discapacidad y procurando la eliminación de las barreras de comunicación, físicas, sociales y culturales, de acuerdo con la disponibilidad presupuestal; así como encargarse de la conservación, equipamiento, remozamiento y de la dotación de las mejoras físicas y tecnológicas, de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley, procurando que estos sean sustentables para fomentar una cultura ambiental, así como la recuperación de aquellos que se encuentren en estado de abandono o en desuso, en coordinación con instancias públicas y privadas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Realizar, en coordinación con la Secretaría de Turismo del Gobierno del Estado, los programas turísticos destinados al disfrute y conocimiento del patrimonio cultural, así como de las manifestaciones artísticas del Estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Realizar, en coordinación con la Secretaría de Trabajo y Previsión Social del Gobierno del Estado, programas destinados a la información y fomento de la cultura en el sector laboral;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Organizar y difundir el Registro Estatal de Creadores y los registros de promotores y gestores culturales, así como de espacios físicos y virtuales, en su caso, destinados a actividades de fomento cultural y artístico. Para tal efecto, solicitará a los ayuntamientos los registros y directorios municipales, con la finalidad de establecer una Red de Información y Coordinación Cultural, de conformidad con el reglamento;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proponer al titular del Poder Ejecutivo la celebración de los convenios de colaboración con las dependencias del gobierno federal, los municipios de la entidad, otras entidades federativas y sus municipios, los particulares, las asociaciones civiles y organizaciones sociales con el fin de impulsar actividades conjuntas en materia de fomento cultural;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Gestionar en apoyo al titular del Poder Ejecutivo la asignación de inmuebles decomisados a responsables de delito, con el fin de que se destinen a actividades culturales;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Realizar las acciones necesarias a efecto de fortalecer, ampliar y mejorar el sistema de bibliotecas públicas de la entidad;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Elaborar y ejecutar la política editorial del Estado en materia cultural, considerando las propuestas que para tal fin proponga el Consejo a través de la Comisión Estatal de Fomento al Libro y la Lectura;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Agilizar y optimizar los procesos de obtención de recursos provenientes de programas federales en materia cultural;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Promover con organismos culturales y artísticos, públicos y privados, la realización de eventos, ferias, concursos, exposiciones, festivales, así como la creación de los establecimientos de índole cultural a que se refiere esta ley y otras actividades análogas que sirvan de promoción, fomento y divulgación de la cultura, el arte, las tradiciones populares y el cuidado al medio ambiente;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Procurar, en coordinación con la Secretaría de Educación, el desarrollo de las capacidades y potencialidades artísticas de la población, así como favorecer el acceso de todos los segmentos de\nla sociedad, en especial, de las personas pertenecientes a grupos vulnerables, a la cultura y las artes;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Presentar ante el titular del Poder Ejecutivo del Estado, los proyectos de reglamentos necesarios para el adecuado cumplimiento de la presente ley;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de archivos y acervos bibliográficos, documentales, pictóricos, escultóricos, arquitectónicos, gráficos, fotográficos, videográficos, artesanales y afines;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Otorgar apoyo económico para movilidad y traslados nacionales e internacionales a la comunidad artística que resida en cualquiera de los municipios del Estado, para su participación en certámenes o eventos que tengan por fin estimular el desarrollo del sector cultural y creativo de Jalisco, dentro y fuera del país. Dichos apoyos serán otorgados en los términos de la convocatoria, las reglas de operación que emita la Secretaría y de acuerdo con la disponibilidad presupuestal; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Recibir y resguardar los ejemplares del soporte material que contenga las obras cinematográficas, audiovisuales, fotográficas, todas aquellas derivadas de éstas o análogas, realizadas total o parcialmente en la Entidad para su integración del acervo estatal, en los términos establecidos en la Ley de Filmaciones del Estado. El acervo será de consulta pública, sin fines de lucro, para fines académicos, de estudio, investigación y análogos; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás que le otorguen otros ordenamientos jurídicos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Corresponde a los municipios en su ámbito de competencia:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer las directrices municipales en materia de cultura, previa consulta a la comunidad cultural del municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Procurar la creación de una dependencia municipal que tenga como funciones únicas las de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Celebrar los convenios necesarios con las instancias públicas estatales y federales, así como con las personas físicas o jurídicas de carácter privado, para la adecuada coordinación de las actividades culturales del municipio;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal, que procuren el acceso a la cultura y las artes de todos los segmentos sociales, en especial de las personas pertenecientes a grupos vulnerables;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar la integración de organismos privados y sociales de promoción y divulgación de la cultura;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fomentar la investigación de las manifestaciones culturales propias del municipio, sus ferias, tradiciones y costumbres;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Expedir los reglamentos en el ámbito de su competencia que normen la actividad cultural en el territorio municipal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación, promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover, en el ámbito de su competencia, las modalidades de descuento, pago de medio boleto o ingreso gratuito un día por semana a las representaciones teatrales, cinematográficas, ópera, ballet, danza y demás espectáculos públicos de carácter artístico o cultural;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Estimular la integración de Consejos Municipales para el Fomento de la Cultura, con la participación de la comunidad cultural y los sectores sociales, privado y público;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Elaborar y mantener actualizado el registro y el directorio de las personas físicas o jurídicas que se dediquen al arte, tanto en la creación, fomento, apoyo, promoción como que dispongan de espacios apropiados para desarrollar actividades culturales en el municipio;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Elaborar y mantener actualizado un inventario de los espacios públicos con que cuenta el municipio para la realización de actividades culturales y artísticas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la medida de sus posibilidades, a los artistas municipales más destacados;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Procurar la creación de archivos, bibliotecas, hemerotecas, fototecas, pinacotecas, casas municipales de la cultura, museos, auditorios, teatros, cines y centros culturales análogos; procurar su ampliación, mantenimiento, remozamiento y que se les dote de mejoras físicas y tecnológicas, así como la recuperación de aquellos que se encuentren abandonados o en desuso, en coordinación con instancias públicas y privadas;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Promover, asesorar y coadyuvar a los particulares para la tramitación de apertura y funcionamiento de establecimientos o giros de corte cultural, tales como archivos, museos, teatros, bibliotecas, hemerotecas, fototecas, pinacotecas, archivos, galerías, centros y peñas artísticas o culturales, entre otros, como medio para fomentar la cultura en el municipio; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o jurídicas dedicadas a las actividades culturales, para la utilización de los espacios públicos con que cuenta el municipio."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- Los programas municipales podrán elaborarse con la participación ciudadana y contener, entre otros:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los objetivos y estrategias a desarrollar en la preservación, promoción, divulgación, fomento e investigación de la cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las actividades para lograr los objetivos propuestos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un proyecto de presupuesto que permita un adecuado y eficiente ejercicio de los recursos; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los procedimientos de evaluación y revisión pertinentes para su mejora."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Las autoridades encargadas de la aplicación de esta ley, procurarán coordinarse para la elaboración de los programas estatal y municipales, y para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad sea eficiente y eficaz.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De la Integración y Atribuciones del Sistema",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "- El Sistema es la instancia que servirá de vinculación y coordinación entre las autoridades estatales y municipales en materia cultural, y estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El titular de la Secretaría, quien será el Presidente y que no podrá delegar o designar representante;\n\nEl Consejo Estatal de la Cultura y las Artes;\nj) El Archivo Histórico del Estado;\nk) La Secretaría de Trabajo y Previsión Social del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El titular o un representante de:\na) La Secretaría de Educación;\nb) La Secretaría de Turismo;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La Secretaría de Desarrollo Económico;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "La Secretaría de Infraestructura y Obra Pública;\ne) La Comisión Estatal Indígena;\nf) El Instituto Cultural Cabañas;\ng) La Agencia Estatal de Entretenimiento de Jalisco;\nh) El Sistema Jalisciense de Radio y Televisión;"
+              },
+              {
+                "Fracción": "L",
+                "Texto": "El Comité Técnico de la Orquesta Filarmónica de Jalisco;"
+              },
+              {
+                "Fracción": "M",
+                "Texto": "Un representante de cada una de las regiones del Estado de Jalisco, invitado por la Secretaría, conforme al Reglamento de la presente Ley;\nn) Un representante por cada uno de los consejos municipales de cultura;\nñ) El Colegio de Jalisco;\no) El presidente de la Comisión de Educación, Cultura y Deporte del Congreso del Estado;\np) (Derogado)\nq) Un representante de la Delegación Jalisco del Instituto Nacional de Antropología e Historia, previa aceptación.\nPor cada representante de las dependencias o entidades, éstas designarán un suplente. El cargo de representante en el Sistema será honorífico y, por tanto, no remunerado. Todos los miembros participarán con derecho a voz y voto.\nPor acuerdo del Presidente del Sistema, se podrán integrar al mismo, con derecho a voz, representantes de organismos públicos, privados y sociales que tengan relación con actividades culturales."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- El Sistema contará con un secretario ejecutivo que será designado por mayoría de votos de entre sus propios integrantes a propuesta del presidente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- Los objetivos del Sistema serán los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer y opinar sobre la manera en que se aprovechan los recursos e infraestructura de los bienes y servicios culturales que presta el Estado."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer mecanismos y acciones para asegurar el rescate, promoción, preservación, difusión, fomento e investigación de la cultura y las artes; así como propiciar la debida coordinación entre éstos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar en los programas y proyectos culturales que involucren la participación de los distintos entes públicos, privados y sociales; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Participar en la elaboración y evaluación de los programas estatal y municipales de cultura."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Para el cumplimiento de sus objetivos, el Sistema tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer a las distintas entidades públicas, las acciones convenientes para aprovechar los recursos e infraestructura con que se cuenta para la promoción y el fomento de la cultura y las artes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Participar en la programación de las actividades culturales a realizarse en la Entidad y proponer la celebración de convenios de colaboración que den impulso a la política cultural del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer los programas y convenios necesarios con las universidades, organismos sociales y privados, para fortalecer la política cultural de la entidad; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que establezca esta Ley y su Reglamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De las Sesiones",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "Los integrantes del Sistema deberán reunirse en sesión ordinaria cuando menos una vez al año conforme a calendarización que al efecto aprueben, y en sesión extraordinaria, cada vez que para ello sean convocados por su Presidente o por una tercera parte de sus integrantes.\nEn los casos en que no sea posible la presencia física de los integrantes del Sistema en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes del Sistema;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Se debe garantizar la conexión permanente de todos los miembros del Sistema, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.\nEn los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.\nEn caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Las sesiones del Sistema serán válidas con asistencia de la mitad más uno de sus miembros; cuando se trate de una sesión extraordinaria, será indispensable notificar con 24 horas de anticipación a la celebración de la misma, además de que exista el quórum necesario para su realización.\nLas decisiones del Sistema serán válidas con la aprobación de la mayoría de los miembros asistentes.\nEl Presidente del Sistema tendrá voto de calidad en caso de empate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- Las sesiones del Sistema se asentarán en actas dentro del libro oficial, mismas que serán firmadas por los que en ellas hayan intervenido.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "- El Programa Estatal deberá ser elaborado de conformidad con las disposiciones legales vigentes en materia de planeación y contener, cuando menos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los objetivos y estrategias a desarrollar en la promoción, divulgación, fomento e investigación de la cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los programas generales para el desarrollo de las actividades culturales y artísticas del Estado, en lo que respecta a creación, investigación, preservación, promoción y difusión; en los aspectos de ampliación y mejoramiento de infraestructura, fomento a la industria cultural, financiamiento complementario y sistema de incentivos fiscales; y en los ámbitos municipal, regional y estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los programas específicos en materia de cultura y tradiciones populares; cultura indígena y afromexicana, cualquiera que sea su autodenominación; y fomento al libro y la lectura; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los procedimientos de evaluación adecuados para determinar el cumplimiento de los objetivos planeados."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Para la elaboración del Programa Estatal deberán considerarse los requerimientos de las diversas regiones del Estado y sus municipios, procurando evitar duplicidad de acciones y en aras de darles mayor eficacia.\nEl Consejo convocará a la sociedad en general, a la comunidad cultural y artística en particular, a participar con propuestas en la elaboración del Programa Estatal, las cuales deberá presentar a consideración de la Secretaría.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "- El Consejo es un organismo público desconcentrado de la Secretaría, con autonomía operativa, funciones deliberativas, propositivas y de consulta, que funge como espacio de vinculación entre las autoridades culturales y la sociedad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- El Consejo se integrará por los siguientes miembros:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un presidente, que será electo conforme al procedimiento descrito en el artículo siguiente y cuyo encargo durará tres años, pudiendo ser ratificado por un periodo igual;\n\nTres representantes de culturas indígenas y afromexicanas, cualquiera que sea su autodenominación; y\nj) Tres representantes del arte público efímero.\nSe procurará un equilibrio entre los intérpretes, ejecutantes, directores, autores, compositores, promotores, académicos e investigadores, quienes deberán contar con un prestigio ante la comunidad cultural del estado, conocer la situación del quehacer artístico regional y ser residentes del estado de Jalisco.\nDos terceras partes de los consejeros que se enuncian en esta fracción serán designados por el Gobernador del Estado, previa convocatoria pública de la cual se elegirá como consejeros a los que tengan mayor representatividad, trayectoria y experiencia; el resto de los consejeros serán nombrados por los integrantes de la comunidad cultural en los términos del reglamento.\nPor cada consejero titular se nombrará un suplente.\nEn caso de ausencia injustificada de los miembros del Consejo que representan a la comunidad cultural, podrán ser sustituidos siguiendo el mismo mecanismo de designación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Secretario Ejecutivo, nombrado y removido por el Consejo, a propuesta del Presidente, con voz pero sin voto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante de las siguientes dependencias y entidades estatales:\na) Secretaría de Cultura;\nb) Secretaría de Educación;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Secretaría de Turismo;\n\nTres representantes de danza;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Secretaría de Hacienda Pública;\ne) Secretaría de Infraestructura y Obra Pública;\nf) La Comisión Estatal Indígena; y\ng) Sistema Jalisciense de Radio y Televisión;\n\nTres representantes de teatro;\ne) Tres representantes de letras;\nf) Tres representantes de música;\ng) Tres representantes de artesanías;\nh) Tres representantes de cultura popular;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los representantes por cada uno de las manifestaciones culturales y artísticas que a continuación se mencionan:\na) Tres representantes de artes plásticas;\nb) Tres representantes de cine y video;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un representante de la Universidad de Guadalajara;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Un representante del Colegio de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Un representante de la Benemérita Sociedad de Geografía y Estadística, Capítulo Jalisco; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los ganadores del Premio Jalisco en los ámbitos literario y cultural, quienes formarán parte del Consejo por el término de un año, a partir de la fecha en que se le otorgó; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Tres representantes ciudadanos especialistas en patrimonio cultural edificado, nombrados por el Gobernador del estado.\nEl cargo de consejero será honorífico y por lo tanto no remunerado, con excepción del Presidente y el Secretario Ejecutivo del Consejo, quienes recibirán la remuneración que se establezca en el Presupuesto de Egresos vigente.\nEn el Reglamento de esta Ley se establecerán las disposiciones relativas al funcionamiento interno del Consejo."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- Para la elección del Presidente del Consejo, deberá seguirse el siguiente procedimiento:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los consejeros elegirán de entre ellos mismos y mediante el voto de las dos terceras partes de los consejeros presentes, a quien consideren tiene el perfil y la aptitud necesarias para ocupar el cargo de Presidente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Si realizada una primera ronda de votación nadie obtiene la mayoría requerida, se realizará una segunda ronda, y si en esta ocasión ningún consejero obtiene las dos terceras partes de la votación, ocupará el cargo aquel que haya obtenido la mayoría simple de los votos.\nPara la ratificación del Presidente deberá seguirse el procedimiento antes descrito; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Igual procedimiento se seguirá para la elección de presidente interino del Consejo, ante la renuncia del titular. El Presidente interino completará el periodo de tres años subsecuentes a su interinato."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Corresponde al Consejo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Auxiliar a la Secretaría y al Sistema en la elaboración de las directrices del Programa Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejercer funciones de asesoría y consulta sobre el diseño de programas y acciones que le sean presentado por el Secretario de Cultura, o en su caso por los municipios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar en las evaluaciones cuando menos cada año, respecto a la ejecución de los programas y acciones contenidos en el Programa Estatal de Cultura;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Otorgar apoyos, becas, estímulos y reconocimientos a efecto de fomentar la creación artística en el Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Participar junto con la Secretaría, en la figura jurídica que establezca el Ejecutivo para el ejercicio de los recursos constitutivos del Fondo Estatal para la Cultura y las Artes;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Resolver las solicitudes de apoyo para la realización de proyectos que le sean remitidas, previo dictamen elaborado por las Comisiones que al efecto integre;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recabar la opinión de la comunidad cultural y demás sectores de la sociedad respecto a la política cultural del Estado, la cual hará del conocimiento de las autoridades competentes;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer criterios de coordinación y ejecución de acciones que permitan incrementar la acción gubernamental en materia de cultura;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Realizar propuestas para integrar los programas relativos a la preservación y fortalecimiento de las culturas indígenas y afromexicanas, cualquiera que sea su autodenominación populares del Estado."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Asesorar, promover y en su caso gestionar ante las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural, previa solicitud de la persona física o jurídica que realice o patrocine este tipo de actividades;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Integrar la Comisión de Fomento al Libro y la Lectura, con los integrantes y atribuciones que se establezcan en el reglamento de la presente ley;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Elaborar y mantener actualizado un padrón de personas físicas o jurídicas que contribuyan al fomento y desarrollo de la cultura en el Estado; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las demás que establezcan los ordenamientos jurídicos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- El Consejo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.\nEn los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes del Consejo;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Se debe garantizar la conexión permanente de todos los miembros del Consejo, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.\nEn los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.\nEn caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- Para la realización de sus fines, el Consejo contará con los siguientes recursos y apoyos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes que le sean destinados por la Secretaría y los recursos financieros que le asigne el Presupuesto de Egresos; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El personal administrativo que le sea comisionado por la Secretaría, el cual será asignado de acuerdo con su perfil y responsabilidad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De su Integración y fines",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- Se crea el Fondo Estatal para la Cultura y las Artes con el propósito de financiar proyectos de creación, investigación, preservación, promoción y difusión artística y cultural.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- El Fondo se constituirá con las siguientes aportaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La partida anual que se determine en el presupuesto del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Herencias, legados o donaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los créditos que se obtengan a su favor por el sector público o privado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los apoyos de organismos e instituciones nacionales o extranjeras;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otros recursos que determine el Ejecutivo del Estado de conformidad con el presupuesto; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las aportaciones federales y municipales que ingresen al Fondo se harán de acuerdo a los convenios que se suscriban con dichas entidades."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El objeto del Fondo será el otorgamiento de apoyos económicos a fin de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Sustentar la operación, sostenimiento y ampliación del Sistema Estatal de Creadores;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Impulsar el desarrollo y ejecución de proyectos artísticos y culturales de creación, investigación, promoción y difusión de la cultura y las artes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Incrementar el patrimonio cultural del Estado; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Apoyar actividades cuyo fin sea el rescate, preservación y desarrollo de la cultura propia de los grupos y sectores populares.\nAl financiamiento de los proyectos de creación, investigación, preservación, promoción y difusión artística y cultural podrán aspirar todos los interesados mexicanos residentes en el Estado que cumplan los requisitos que se establezcan en el reglamento y las convocatorias respectivas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De los Criterios y Bases para el Otorgamiento de Apoyos",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "- Los recursos que integran el Fondo se asignarán de conformidad con los criterios y bases siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se canalizarán a solicitud expresa de los interesados, previa convocatoria que expida el Consejo, pública, abierta y con base en el proyecto que al efecto se presente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se procurará apoyar cada una de las disciplinas artísticas, sin menoscabo de la calidad de los proyectos, garantizándose un adecuado equilibrio entre la necesidad de cada expresión cultural y el grado de desarrollo de ésta;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Se dará preferencia a los proyectos que contribuyan a la descentralización de la actividad cultural o que sean presentados por los integrantes del Sistema Estatal de Creadores;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "En ningún caso, se dará apoyo para la ejecución de proyectos, cuya realización genere utilidades en beneficio de entidades que tengan objeto de lucro;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La asignación de los apoyos se dará cada año, de conformidad con los recursos que al efecto se determinen en el presupuesto anual del Gobierno del Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El procedimiento de selección de personas físicas o jurídicas a las cuales se les otorguen los apoyos, será competitivo, eficiente, equitativo y público, de conformidad con el reglamento que se expida para tal fin;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las solicitudes serán estudiadas y dictaminadas por las Comisiones que al efecto se formen, a invitación del Consejo Estatal, que se integrarán por no menos de cinco miembros de destacada trayectoria en el medio artístico y cultural, además de gozar de reconocida honorabilidad; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "No tendrán derecho a recibir apoyos, por concepto de becas, quienes ya reciban un apoyo similar de cualquier otra instancia gubernamental en materia de cultura."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- Bajo ninguna circunstancia, los recursos que constituyen el Fondo se destinarán a sufragar gastos que deriven de fines distintos a los enumerados en el presente capítulo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De los Compromisos de los Beneficiarios",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "- Son Compromisos de los beneficiarios del Fondo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Entregar a la administración del Fondo un informe cuatrimestral, reportando el avance del proyecto apoyado. El último de estos informes deberá ser un informe integrador de los resultados finales del proyecto y su impacto en la vida cultural del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Reconocer y difundir el apoyo de las Instituciones Culturales del Estado, en los productos y representaciones y, en general, en los medios que utilice para la promoción de su trabajo; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dar crédito al Gobierno del Estado y a la Secretaría en los productos y presentaciones que reciban financiamiento del Fondo.\nEn caso de que los beneficiarios del fondo no cumplan con los compromisos señalados en este\nartículo, ya no podrán solicitar recursos del mismo en años posteriores."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "- Para alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, se establece el Sistema Estatal de Creadores, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- En el Sistema Estatal de Creadores se reconocerá la creación artística y cultural bajo dos modalidades: nuevo creador y creador emérito.\nPara ingresar al Sistema Estatal de Creadores, se deberán acreditar los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Para nuevo Creador: Comprobar tres años como mínimo de experiencia en el campo de la creación artística o cultural, tener la formación adecuada a su disciplina y presentar un proyecto anual de actividades a consideración del Consejo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Creador Emérito: Además de cumplir con los requisitos previos, haber realizado una aportación de carácter cultural o artístico que represente una contribución de trascendencia para el estado de Jalisco; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los demás que establezca el Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- Los nuevos creadores podrán percibir hasta tres veces el valor de la Unidad de Medida y Actualización mensual, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los creadores eméritos tendrán carácter honorífico y vitalicio.\n. Artículo 33. - El Consejo convocará en el mes de septiembre de cada año a los creadores artísticos y culturales para que presenten sus candidaturas en los términos que establezca la propia convocatoria. La distinción de creadores eméritos podrá adjudicarse sin que medie solicitud del candidato, previa deliberación y acuerdo del Consejo.\nCuando se solicite cualquier tipo de estímulo económico ante el Consejo, y medie por parte del solicitante hasta un cuarto grado de parentesco con alguno de los consejeros, el consejero del que se trate deberá de excusarse para opinar sobre la citada solicitud.\nEl reglamento especificará los requisitos y procedimientos de ingreso, permanencia y exclusión del Sistema Estatal de Creadores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- La Secretaría organizará y administrará el registro estatal de creadores, el cual será público y funcionará bajo dos modalidades: nuevos creadores y creadores eméritos.\nLos nuevos creadores serán inscritos en el Registro, cuando el Consejo notifique que se han hecho acreedores a algún apoyo económico o cuando así lo soliciten expresamente a la Secretaría y acrediten los requisitos que determine el propio Consejo para cada disciplina, los cuales habrán de ser establecidos en el Reglamento.\nLos creadores eméritos que hayan desarrollado o desarrollen su actividad cultural en el estado, serán incorporados al registro, previa notificación del Consejo a la Secretaría.\nLa Secretaría emitirá una constancia de inscripción al registro a los nuevos creadores y a los creadores eméritos que así lo soliciten.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De la Cultura Indígena",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "- Las autoridades estatales y municipales en su respectivo ámbito de competencias, con la participación de las comunidades indígenas, implementarán las medidas conducentes para la preservación, promoción, fortalecimiento, difusión e investigación de la cultura de los pueblos indígenas asentados en el territorio del estado, que comprenderán, entre otras cosas, las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Preservar la lengua, cultura, artes, usos y costumbres, así como los recursos y formas específicas de organización social de la cultura indígena;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fomentar la creación literaria en lenguas autóctonas y la edición de publicaciones bilingües;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar el establecimiento de museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proveer de asistencia técnica y asesoría para el desarrollo de sus manifestaciones culturales y fomentar la producción literaria en lenguas autóctonas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Estimular su creatividad artesanal y artística;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Otorgar los premios, estímulos o reconocimientos a quienes se distingan en la preservación, promoción, difusión e investigación de la cultura indígena de la entidad; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De la Cultura Popular, Urbana, Festividades y Tradiciones",
+        "Artículos": [
+          {
+            "Artículo": 36,
+            "Texto": "- Se declara de interés público la preservación de las tradiciones, costumbres, festividades y certámenes populares, cuando no se opongan a las leyes vigentes, por lo que las\nautoridades competentes establecerán programas especiales para su preservación, desarrollo y difusión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la entidad, haciéndolo del conocimiento del Sistema y del Consejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "Por cultura urbana se entienden todas las expresiones y manifestaciones que comparten los individuos en un determinado espacio urbano; entre las que se encuentran la música, la forma de vestir, el arte, toda expresión resultante de la combinación de destrezas físicas o artísticas ya sea en forma unipersonal o grupal, las maneras de comunicarse y cualquier manifestación de esta índole que se desarrolle en espacios públicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "El Estado y los municipios promoverán la apertura y utilización de espacios públicos, para el desarrollo de las expresiones culturales urbanas, así como la creación de concursos, exposiciones y festivales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Del Fomento al Libro y la Lectura",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "Es de interés público fomentar el hábito de la lectura entre la población de Jalisco y se contará con el apoyo de la Comisión de Fomento al Libro y la Lectura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "Para lograr estos fines las autoridades encargadas de la aplicación de esta Ley, en el ámbito de su competencia llevarán a cabo las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Propiciar la generación de políticas, programas, proyectos y acciones dirigidas al fomento y promoción de la lectura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Hacer accesible el libro en igualdad de condiciones en todo el Estado para aumentar su disponibilidad y acercarlo al lector;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer mecanismos de coordinación interinstitucional con los distintos órdenes de gobierno y la vinculación con los sectores social y privado, para impulsar las actividades relacionadas con la función educativa y cultural del fomento a la lectura y el libro;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar y estimular la edición, distribución y comercialización del libro y las publicaciones periódicas, sobre todo de escritores jaliscienses;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar y apoyar el establecimiento, desarrollo, modernización y actualización de librerías, bibliotecas públicas del Estado y otros espacios públicos y privados para la lectura y la difusión del libro;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover el trabajo intelectual de los autores, particularmente aquellos residentes en el Estado y coadyuvar en la edición de sus obras en los términos de las leyes aplicables;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Organizar concursos anuales en el Estado que tengan por objeto estimular la lectura y dirigirlos principalmente a los alumnos de educación básica; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Implementar programas de bibliotecas móviles en el ámbito de su competencia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del uso de los Espacios Públicos Destinados a la Cultura",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "- El uso de los espacios públicos destinados a la cultura, propiedad del Gobierno del Estado, se ajustarán a los siguientes criterios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cada espacio debe tener definido su uso, el destino y categoría de las actividades artísticas que allí se presenten. Se procurará destinarlos al uso exclusivo de estas actividades y por excepción a otros quehaceres;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las manifestaciones y actividades artísticas del Estado y sus regiones, tendrán uso preferente de los espacios públicos destinados a la cultura; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El uso de los espacios culturales para la realización de actividades artísticas, serán prestados sin cargo alguno por concepto de renta, a excepción de aquellos que tengan finalidades de lucro. Asimismo se deberá de garantizar que los creadores se beneficien de los espacios al menor costo posible de operación; al efecto, la Secretaría deberá fijar y publicar anualmente una lista de costos por la prestación de servicios anexos, de conformidad con la Ley de Ingresos vigente y el Reglamento de la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- El Gobierno del Estado y los Municipios deberá reglamentar en el ámbito de su competencia el uso de los espacios para el desarrollo de las actividades artísticas. En dicho reglamento se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del fomento a la actividad cinematográfica",
+        "Artículos": [
+          {
+            "Artículo": 42,
+            "Texto": "- Se deroga",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único De la Integración y Administración del Fideicomiso",
+        "Artículos": [
+          {
+            "Artículo": 43,
+            "Texto": "- El Fideicomiso de Apoyo Social y Económico para los Agentes del Sector Cultural del Estado de Jalisco, será establecido a través de un fideicomiso creado por el Poder Ejecutivo del Estado de Jalisco.\nEl fideicomiso en cuestión tendrá el objeto de garantizar la seguridad social de aquellos artistas, gestores culturales, y demás individuos que realicen actividades culturales y que cumplan con los requisitos que establece el presente ordenamiento jurídico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- El fideicomiso se administrará por un comité técnico, el cual tendrá por objeto la vigilancia, la instrucción a la institución fiduciaria para la adecuada distribución de los bienes fideicomitidos, así como su adecuada operatividad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- El Comité Técnico estará integrado por un representante de las siguientes dependencias:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un representante de la Secretaría de Cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un representante del Consejo Estatal para la Cultura y las Artes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante de la Secretaría de Hacienda Pública; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un representante de la institución fiduciaria."
+              }
+            ]
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- El Comité Técnico sesionará una vez al mes, a efecto de vigilar adecuadamente que se esté cumpliendo con sus objetivos, así como para integrar estrategias para incrementar el monto del mismo.\nEn los casos en que no sea posible la presencia física de los integrantes del Comité Técnico en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes del Comité Técnico;\nCada mes el Comité Técnico deberá informar a los fideicomisarios sobre la situación financiera en lo que corresponde a su seguridad social."
+              }
+            ]
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- El fideicomiso en cuestión deberá regirse por los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Deberá ser accesible económicamente para los artistas y demás agentes del sector cultural;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Deberá ser transparente, y protegerá los datos personales de todos los fideicomisarios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Deberá ser lo más benéfico posible para el fideicomisario, sin que puedan constar al momento de su constitución lineamientos que atenten contra su sobrevivencia o lo puedan poner en un estado total de insolvencia; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las aportaciones deberán ser equitativas y proporcionales al ingreso que reciba el fideicomisario."
+              }
+            ]
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- Para ser fideicomisario del fideicomiso en cuestión se necesita cumplir con cualquiera de los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Estar avalado por el Consejo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No contar con algún tipo de seguridad social; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acreditar que ha estado ejerciendo en su respectiva área por más de tres años ante el Comité Técnico."
+              }
+            ]
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- El patrimonio del fideicomiso se integrará de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Todos los recursos que destine el Gobernador del Estado de Jalisco en el Presupuesto de Egresos al mismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Todos los bienes que procedan de la Federación con motivo de convenios que firme el Estado de Jalisco con dicho nivel de gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Todos los bienes que procedan de los municipios con motivo de convenios que firme el Estado de Jalisco con los ayuntamientos de este estado o de otros;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Todos los bienes muebles o inmuebles que se entreguen al fideicomiso con objeto de legados, y donaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Todos los bienes que sean producto de las aportaciones que realicen los fideicomisarios; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Todos los demás bienes que sean producto de cualquier acto jurídico de índole pecuniario, que no sea contrario a los objetos del fideicomiso."
+              }
+            ]
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- La operatividad, así como el adecuado funcionamiento de los programas de seguridad social que se ofrezcan a través del fideicomiso en cuestión, deberán ser especificados a través del documento que constituya el fideicomiso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- La relación jurídica establecida en el fideicomiso quedará rescindida en los siguientes supuestos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "(Derogado)"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por dejar de ejercer en el área del sector cultural o artístico por más de tres años; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por dejar de aportar la parte alícuota correspondiente al mismo por un periodo de más de un año."
+              }
+            ]
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- Antes de terminar la relación jurídica, se notificará al fideicomisario de manera personal, y por escrito, a través de los medios que establezca para tal efecto la autoridad pública correspondiente, que se encuentra en uno de los supuestos contemplados anteriormente, donde se funde y motive de manera exhaustiva el mismo; y donde se tenga por suspendido de sus derechos al beneficiario, lo cual implica que en tanto no se deslinde dicha situación, el Estado no aportará su parte correspondiente al fideicomiso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "- Se le dará al fideicomisario la oportunidad para que en los siguientes tres meses, una vez notificado, alegue ante la autoridad correspondiente, y envíe aquellas pruebas documentales que descalifiquen o demás que de manera fehaciente prueben que no se encuentra en dichos supuestos, o que vuelva a realizar aquellas acciones, a efecto de estar dentro del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- En caso que se intente alegar ante la autoridad competente que no se encuentra en dichos supuestos, y se declaren improcedentes los argumentos esgrimidos, se podrá realizar la acción correspondiente ante el Tribunal de lo Administrativo del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- Si en los siguientes meses no se desahogan los supuestos antes establecidos, se tendrá por rescindida la relación jurídica, lo cual implica que el Estado dejará de estar obligado a seguir aportando aquellos recursos al fideicomisario que le corresponden; sin embargo, el beneficiario podrá seguir haciendo uso de sus recursos hasta en tanto se agoten, o vuelva a ser beneficiario del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- En caso de que vuelva a estar en el supuesto de ser beneficiario, realizará un trámite por el cual se vuelva a incorporar de los derechos que tenía adquiridos el fideicomisario al momento de rescindir la relación jurídica; sin embargo, esto excluye aquellos recursos que haya perdido en el transcurso del tiempo.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.\n\nLos municipios deberán integrar su respectivo consejo municipal de la cultura en un plazo que no exceda de noventa días a partir de la entrada en vigor del presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 23975/LIX/12\n\nEl Poder Ejecutivo del Estado tendrá un plazo no mayor de seis meses para constituir el fideicomiso y su reglamento, a partir de la entrada de vigor de esta ley.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26932/LXI/18\n\nSe abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Fomento de la Cultura del Estado dentro de los noventa días siguientes al primero de marzo del dos mil uno.\n\nSe extingue el Fideicomiso denominado Comisión de Filmaciones del Estado de Jalisco, pasando todo su patrimonio, activos y obligaciones al Fondo Filma en Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "El Consejo Estatal para la Cultura y las Artes deberá constituirse dentro de los cuarenta y cinco días siguientes al primero de marzo del dos mil uno.\n\nEl Titular del Poder Ejecutivo del Estado deberá formalizar el contrato del Fondo Filma en Jalisco bajo el esquema de Fideicomiso en los términos del presente Decreto y de las disposiciones aplicables correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "El Fondo Estatal para la Cultura y las Artes, que se establezca en el Presupuesto de Egresos, deberá ser ejercido una vez creada la figura jurídica que acuerde el Ejecutivo.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 16 de noviembre de 2000\nDiputado Presidente Abundio Gómez Meléndrez\nDiputado Secretario Francisco Javier Bravo Carbajal\nDiputado Secretario Salvador Arellano Guzmán\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 29 veintinueve días del mes de noviembre de 2000 dos mil.\nEl Gobernador Constitucional del Estado Ing. Alberto Cárdenas Jiménez\nEl Secretario General de Gobierno Lic. Felipe de Jesús Preciado Coronado\nARTÍCULOS TRANSITORIOS DEL DECRETO 23915/LIX/11\n\nEl Titular del Poder Ejecutivo del Estado deberá realizar las modificaciones presupuestales necesarias a fin de dotar al Fondo Filma en Jalisco de los recursos necesarios para cumplir con lo dispuesto en el presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El presente decreto entrará en vigor el 01 de enero de 2019, previa su publicación en el periódico oficial “El Estado de Jalisco”.\nARTÍCULOS TRANSITORIOS DEL DECRETO 28295/LXII/21\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\nTABLA DE REFORMAS Y ADICIONES\nDecreto 18435.- Ley de Fomento a la Cultura.-Vetado por el Ejecutivo.\nDecreto 18673.-Se modifica el diverso 18435 que crea la Ley de Fomento a la Cultura; reforma y adiciona la Ley de Desarrollo Urbano y modifica la Ley de Hacienda del Estado.-Dic. 21 de 2000.\nSección II.\nDecreto 20434.- Reforma los arts. 2 fracs. II, V, VI; 3 frac. VIII, 6 frac, III, 8 frac, I, 10 frac, II inciso\nk) , 12 fracs. I y II, 14 primer párrafo, 15 primer párrafo, 20 frac. I, 24, 26 frac, IV, 29 fracs. I y III, 36, 37 y 40 frac. I; y se adiciona un art. 20 bis. -Feb.21 de 2004. Sec. II.\nDecreto 23449/LIX/10.- Se reforman los arts. 20 frac. IV, párrafos segundo y tercero, y la frac. VIII, 23, 31, 32, 33 y 34 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Dic. 23 de 2010. Sec.",
+            "Fracciones": [
+              {
+                "Fracción": "VIII",
+                "Texto": "Fe de erratas (sólo afecta a la Ley de Desarrollo Urbano).-Mar.20 de 2001.\nDecreto 23915/LIX/11.- Se reforman y adicionan diversos artículos de la Ley de Fomento a la Cultura.- Dic. 27 de 2011. Sec. V.\nDecreto 23975/LIX/12.- Adiciona un Título Noveno (arts. 42 al 58) a la Ley de Fomento a la Cultura del Estado de Jalisco.-Mar. 13 de 2012. Sec. III.\nDecreto 24845/LX/14.- Se reforman los artículos 6, fracción VI, 10 fracción II incisos c) y d), 20 fracción III incisos d) y e), y 45 fracción III de la Ley de Fomento a la Cultura del Estado de Jalisco.- Abr. 8 de 2014 Sec. VI.\nDecreto 25312/LX/15.- Se adicionan los artículos 2 Ter, 37 Bis y 37 ter y se modifica el nombre del\nCapítulo II del Título Octavo de la Ley del Fomento a la Cultura del Estado de Jalisco.- Mar. 28 de 2015 sec. II\nDecreto 25849/LXI/16.- Se reforma el artículo 2 Ter de la Ley de Fomento a la Cultura del Estado de Jalisco.- Jul. 9 de 2016 sec. V\nDecreto 25875/LXI/16.- se reforman los artículos 1, 2, 5, 6, 7 10, 21, 38, 39, 48 y 51 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Oct. 11 de 2016 sec. VIII.\nDecreto 26382/LXI/17.- Se deroga el artículo 2 Bis y se reforman los artículos 3, 6 y 21, de la Ley de Fomento a la Cultura del Estado de Jalisco.- Jul. 25 de 2017. Sec. IV.\nDecreto 26932/LXI/18.- Se reforma el artículo 6 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Sep. 25 de 2018 sec. VI\nDecreto 27187/LXII/18.- Reforma el artículo 3, adiciona la fracción XI y modifica la fracción III del\nartículo 6 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Dic. 5 de 2018 sec. Septies.\nDecreto 27314/LXII/19.- Reforma diversos artículos de la Ley que crea el Instituto de la Infraestructura Física Educativa; la Ley de Atención a la Juventud; Ley de Beneméritos; Ley de Bibliotecas; Ley de Fomento a la Cultura; Ley de Cultura Física y Deporte, todas del Estado de Jalisco.- Jul. 27 de 2019 sec. V.\nDecreto 27349/LXII/19.- Se reforma el artículo 3 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Oct. 8 de 2019 sec. IV.\nDecreto 27781/LXII/19.- Se reforman los artículos 2, fracción II, 2-Ter y 6, fracción VI, de la Ley de Fomento a la Cultura del Estado de Jalisco.- Feb. 8 de 2020 sec. IV.\nDecreto 28295/LXII/21.- Se expide la Ley de Filmaciones del Estado de Jalisco; Se reforma la fracción VIII del artículo 3, XIX, XX y XXI del artículo 6 de la Ley de Fomento a la Cultura para el Estado de Jalisco; Se reforman las fracciones XV y XVI del artículo 20, XXIII y XXIV del artículo 21, XVI y XVII del artículo 23, XLI y XLII del artículo 28, XXIV y XXV del artículo 31, XXI y XXII del\nartículo 35; se adicionan las fracciones XVII del artículo 20, XXV del artículo 21, XVIII del artículo 23, XLIII del artículo 28, XXVI del artículo 31 y XXIII del artículo 35, todos de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.- Mar. 4 de 2021 sec.VI.\nDecreto 28292/LXII/21.- Se reforma el artículo 32 de la Ley de Fomento a la Cultura del Estado de Jalisco. Mar. 11 de 2021. sec. III.\nDecreto 28305/LXII/21.- Se reforma la fracción III del artículo 17, inciso i) de la fracción IV del\nartículo 20 y fracción XI del artículo 21, de la Ley de Fomento a la Cultura del Estado de Jalisco.- Mar. 11 de 2021 sec. III.\nDecreto 28321/LXII/21.- Se reforman las fracciones XVIII y XIX del artículo 6 y XIV y XV del artículo 7 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Marzo 18 de 2021, sec. IV.\nDecreto 28335/LXII/21.- Se reforman los artículos 14, 22 y 46 de la Ley de Fomento a la Cultura del Estado de Jalisco.- Abr. 15 de 2021 sec. II.\nLEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO\nAPROBACIÓN: 16 DE DICIEMBRE DE 2000.\nPUBLICACIÓN: 21 DE DICIEMBRE DE 2000. SECCIÓN II.\nVIGENCIA: 22 DE DICIEMBRE DE 2000."
+              }
+            ]
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "El Titular del Poder Ejecutivo del Estado deberá expedir las disposiciones reglamentarias para el cumplimiento del presente decreto, dentro de los 90 días naturales siguientes a la entrada en vigor de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Ejecutivo Estatal, a través de la Secretaría deberá expedir y publicar el Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia de la Ley que se expide mediante el presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "El Titular del Poder Ejecutivo del Estado, a través de la Secretaría deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.\nT R A N S I T O R I O S DEL DECRETO 28292/LXII/21",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

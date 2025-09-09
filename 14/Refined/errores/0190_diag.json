@@ -1,0 +1,27 @@
+{
+  "n_chapters": 14,
+  "n_perm_articles": 89,
+  "n_perm_fracciones": 166,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones generales",
+    "CAPÍTULO II Del Patrimonio Cultural del Estado y sus Municipios",
+    "CAPÍTULO I De la competencia y coordinación entre las autoridades",
+    "CAPÍTULO II De la Coordinación y Colaboración con las Autoridades Federales en Materia de Protección del Patrimonio Cultural del Estado",
+    "CAPÍTULO III De la Participación Ciudadana",
+    "CAPÍTULO I Del Inventario del Patrimonio Cultural del Estado",
+    "CAPÍTULO II De la Intervención y Salvaguarda",
+    "CAPÍTULO III De las intervenciones al Patrimonio Cultural Inmueble",
+    "CAPÍTULO IV De la Intervención al Patrimonio Cultural Mueble",
+    "CAPÍTULO V De la Salvaguarda del Patrimonio Cultural Inmaterial",
+    "CAPÍTULO VI De la intervención a las Zonas de Protección",
+    "CAPÍTULO VII De la Declaratoria",
+    "CAPÍTULO I De las sanciones",
+    "CAPÍTULO II De los recursos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 14
+  }
+}

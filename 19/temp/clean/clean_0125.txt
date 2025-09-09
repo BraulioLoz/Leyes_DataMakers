@@ -1,0 +1,806 @@
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO DE NUEVO LEÓN
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL #64 DEL 28 DE MAYO DE 2021.
+LEY PUBLICADA EN PERIÓDICO OFICIAL # 121-II DEL 11 DE SEPTIEMBRE DE 2009.
+EL C. JOSE NATIVIDAD GONZÁLEZ PARAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+D E C R E T O
+Núm........ 425
+Artículo Único.- Se expide la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León, en los siguientes términos:
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO DE NUEVO LEÓN
+CAPÍTULO PRIMERO DISPOSICIONES GENERALES
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTÍCULO 1 Objeto.
+La presente Ley tiene por objeto regular lo relativo a las obras de pavimentación que se realicen en los términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, a fin de que cuenten con las características adecuadas en materia de calidad y rodamiento seguro.
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTICULO 2 Glosario.
+Además de las definiciones contenidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, para los efectos de esta Ley se entenderá por:
+I. AASHTO: la Asociación Americana de Oficiales de Autopista Estatal y Transporte;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+II. DEROGADA. (P.O. 09 DE DICIEMBRE DE 2010)
+III. Agregado: material granular de composición mineral como arena, grava o roca triturada, utilizado para formar mortero o concreto, o sólo en bases granulares y balastos en vías férreas;
+IV. Asfalto: es un material aglutinante de color café obscuro a negro, el cual se obtiene de la destilación del petróleo; también puede encontrarse en yacimientos, en forma natural;
+V. ASTM: La Sociedad Americana para la Evaluación de Materiales;
+VI. Base: es la capa compuesta por materiales granulares, de granulometría continua, con un alto contenido de material triturado o cien por ciento triturado, que se coloca sobre la capa de terracerías o subbase y sirve como soporte de la capa de carpeta asfáltica en un pavimento flexible o de carpeta hidráulica en un pavimento rígido;
+VII. Base modificada: la capa compuesta por materiales granulares, de granulometría continua, con un alto contenido de material triturado o cien por ciento triturado, con adición de un material que modifique sus características físicas, haciéndola más rígida y resistente, mejorando su comportamiento mecánico e hidráulico;
+VIII. Bases estabilizadas con cemento o cal: aquellos materiales para bases modificadas a los cuales se les incorpora un cierto contenido en porcentaje en masa, de cemento Pórtland o cal, para obtener un mejor comportamiento;
+IX. Bases estabilizadas con asfalto: aquellos materiales para bases modificadas a los cuales se les incorpora, mediante una emulsión o un asfalto rebajado, un porcentaje de cemento asfáltico, para mejorar su comportamiento;
+X. Capacidad estructural: es el número de aplicaciones de un eje normalizado de 8,2 t que el pavimento es capaz de soportar antes de acumular roderas de 2,5 cm;
+XI. Carga estándar: es la carga por eje sencillo igual a 8,2 t, utilizada para determinar las deflexiones en un pavimento; también es la carga de referencia para calcular el número de ejes equivalentes;
+XII. Camino: es la adaptación de una faja sobre la superficie terrestre que llena las condiciones de ancho, alineamiento y pendiente, a fin de permitir el rodamiento adecuado de los vehículos para los cuales ha sido acondicionada estructuralmente;
+XIII. Carpeta asfáltica: es la capa compuesta por materiales granulares, polvos minerales, cemento asfáltico y aditivos, en diversas granulometrías, elaboradas en frío o caliente, de manera tal que todas las partículas del material pétreo queden cubiertas con una película homogénea de cemento asfáltico;
+XIV. Coeficiente de pulimento acelerado o CPA: representa la resistencia que tiene el agregado pétreo grueso a perder la irregularidad de sus caras fracturadas o a pulirse;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+XV. Concreto asfáltico: es la mezcla de materiales granulares polvos minerales, cemento asfáltico y aditivos, en diversas granulometrías, elaboradas en caliente, de manera tal que todas las partículas del material pétreo queden cubiertas con una película homogénea de cemento asfáltico;
+XVI. Carpeta hidráulica: es la capa compuesta por materiales granulares, cemento Pórtland, agua y aditivos, a fin de proporcionar al usuario una superficie de rodamiento uniforme, con buen drenaje, resistencia al deslizamiento, segura y cómoda;
+XVII. CDR: coeficiente de resistencia al deslizamiento, adimensional;
+XVIII. Concreto hidráulico: es la mezcla de materiales granulares, cemento Pórtland, agua y aditivos;
+XIX. Deflexión: es la deformación elástica máxima, producida por la carga estándar aplicada en la superficie del pavimento;
+XX. Desgaste de Los Ángeles: propiedad mecánica del agregado pétreo, que representa la dureza del mismo;
+XXI. Deterioro: es el defecto que presenta un pavimento que disminuye la comodidad y seguridad del usuario;
+XXII. Dmm: décimas de milímetro;
+XXIII. Estructura del pavimento: está compuesta por varias capas, de mayor a menor calidad de arriba hacia abajo de la superficie de rodamiento, entre ellas se encuentran: la sub-base, la base con o sin estabilizar, y una capa de concreto asfáltico o hidráulico, o un tratamiento superficial;
+XXIV. Falla estructural: se presenta cuando la estructura del pavimento no es suficiente para soportar las cargas reales a las que es sometido;
+XXV. Falla funcional: se presenta cuando el pavimento exhibe deterioros de tal magnitud que el usuario siente incomodidad o inseguridad al circular sobre éste, o interfiere con la función de drenaje superficial;
+XXVI. Fatiga: es la degradación estructural de las capas del pavimento, producida por la acción repetida de las cargas que circulan sobre él;
+XXVII. IRI: Índice de Regularidad Internacional;
+XXVIII. Laboratorio Rector: es el laboratorio de pruebas dependiente del Gobierno del Estado, y el cual cuenta con la capacidad técnica, material y humana para coadyuvar en la evaluación de la conformidad de las normas y especificaciones descritas en la presente Ley, así como participar en la certificación de otros laboratorios, verificación de las obras y arbitraje en caso de controversias;
+XXIX. Límites de Atterberg o límites de consistencia: se utilizan para caracterizar el comportamiento de los suelos finos y representa los contenidos de humedad en los puntos de transición de un estado de la materia a otro;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+XXX. Pavimento: es el conjunto de capas de materiales seleccionados que reciben en forma directa las cargas de tránsito y las transmiten a las capas inferiores, distribuyéndolas. Este conjunto de capas termina en la superficie de rodamiento, o capa de rodadura;
+XXXI. RAP: es el material producto de la disgregación de mezclas asfálticas antiguas con el fin de ser reutilizado en una capa del pavimento;
+XXXII. Regularidad superficial: son los niveles de deformaciones de la capa superficial de un pavimento, medida en un plano vertical mediante el IRI;
+XXXIII. Rehabilitación estructural: son los procedimientos constructivos que tienen el fin de aumentar la capacidad estructural del pavimento, para que resista adecuadamente la previsión del tráfico de vehículos durante el período de diseño, elevando el nivel de servicio;
+XXXIV. Rehabilitación funcional: son los procedimientos constructivos que tienen el fin de restablecer, conservar o mejorar las características funcionales de la superficie de rodamiento de un pavimento, para aumentar la comodidad y seguridad de los vehículos al transitar;
+XXXV. Riego de impregnación: es la aplicación de un material asfáltico sobre una capa de material pétreo como la base del pavimento, con objeto de impermeabilizarla y favorecer la adherencia entre ella y la carpeta asfáltica;
+XXXVI. Riego de liga: película de cemento asfáltico aplicada a una capa tratada con material asfáltico o mezcla asfáltica, previa a la colocación de una capa asfáltica;
+XXXVII. Roderas: son depresiones longitudinales canalizadas en pavimentos de concreto asfáltico, generadas por el paso de camiones;
+XXXVIII. SCT: La Secretaría de Comunicaciones y Transportes del Gobierno Federal;
+(ADICIONADA, P.O. 09 DE DICIEMBRE DE 2010) XXXIX. Secretaría: la Secretaría de Desarrollo Sustentable del Gobierno del Estado de Nuevo León;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XL. Sobrecarpeta: una o más capas delgadas de concreto asfáltico o concreto hidráulico, tendidas sobre un pavimento existente;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLI. Subbase: es la capa compuesta por materiales granulares, de granulometría continua, con un alto contenido de material triturado o cien por ciento triturado, con el cual se forma la capa inmediata superior a la capa de subrasante y sirve como soporte de la capa de base en un pavimento flexible o como base para un pavimento rígido;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLII. Subrasante: es la capa formada por material seleccionado producto de los cortes realizados a lo largo del camino o de los préstamos de bancos existentes para este fin.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Con esta capa se forma el nivel terminado de la capa de subrasante y de desplante de las capas del pavimento;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLIII. Superficie de rodamiento: es la cara expuesta del pavimento que está en contacto directo con los neumáticos; en general, debe cumplir con las siguientes características: presentar una irregularidad baja para las velocidades de operación, proporcionar comodidad al usuario, presentar una textura tal que incremente la resistencia al deslizamiento, tener un color que evite los reflejos de sol o luces artificiales durante la noche, plana para permitir el desalojo rápido del agua de lluvia;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLIV. TDPA: Tránsito Diario Promedio Anual;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLV. Terracerías: la sección de proyecto hasta su nivel de subrasante;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLVI. Textura superficial: terminación que presenta la superficie un pavimento, la cual puede ser cerrada, abierta o semiabierta;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLVII. TFOT: ensayo para evaluar la durabilidad del cemento asfáltico;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLVIII. Tramos homogéneos: segmentos de vialidad con características geométricas, geotécnicas y de drenaje semejantes;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) XLIX. Vida remanente: es el tiempo durante el cual se acumularon las aplicaciones de los ejes equivalentes que el pavimento resistirá, funcionando adecuadamente después de la evaluación realizada;
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) L. Valor soporte de California o VRS: propiedad mecánica de un suelo que representa la resistencia a corte, bajo la acción de cargas; y
+(REFORMADA, [RECORRIDA] P.O. 09 DE DICIEMBRE DE 2010) LI. Vida útil: número de años desde la apertura de un camino al tránsito hasta el final de la vida funcional de un pavimento.
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTÍCULO 3 Sujetos obligados.
+La aplicación de esta Ley corresponderá:
+I. Al Estado, a través de la Secretaría de Obras Públicas, del Sistema de Caminos de Nuevo León, o de las dependencias u organismos que realicen obras que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+II. A los municipios por conducto del Ayuntamiento, o de las dependencias u organismos que realicen obras que impliquen la habilitación de vías públicas, o la apertura o modificación temporal de las pavimentos en dichas vías;
+III. o en su caso de los servidores públicos competentes en la materia regulada por esta Ley, conforme a la reglamentación municipal;
+(REFORMADO, P.O. 28 DE MAYO DE 2021) lV. A los particulares que realicen proyectos regulados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y que requieran la habilitación de vías públicas, o que realicen trabajos que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas; y
+V. A las dependencias federales que realicen obras que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas de jurisdicción estatal o municipal.
+En los casos que los municipios autoricen la realización de obras que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas, la rehabilitación de los mismos se llevará a cabo bajo la supervisión de la autoridad municipal, la cual verificará que se cumplan los lineamientos de esta Ley para dichos casos.
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTÍCULO 4 Legislación aplicable.
+(REFORMADO, P.O. 28 DE MAYO DE 2021) Las obras de pavimentación que se realicen en las vías públicas se sujetarán a las disposiciones de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y la presente Ley.
+(REFORMADO, P.O. 28 DE MAYO DE 2021) Además de cumplir las especificaciones que se recogen en esta regulación, se deberá considerar el diseño y solución para la atención del drenaje pluvial, así como observar las medidas necesarias para el cumplimiento de la normatividad vigente en materia ambiental, de seguridad vial al considerar el costo de la renivelación de registros invariablemente y todas las demás que resulten aplicables en temas de obras complementarias, desde el origen del proyecto; debiendo incluir cuando menos la instalación de señalamientos e iluminación en obras nuevas de pavimentación, en correlación a lo establecido en las etapas de planeación, programación y presupuestación de obras, establecido en Ley de Obras Públicas para el Estado y Municipios de Nuevo León.
+ARTÍCULO 5 Aplicación de Normas.
+Cuando en esta Ley se haga mención de la aplicación de Normas específicas, se referirá a aquéllas emitidas por la Secretaría de Comunicaciones y Transportes del Gobierno Federal, salvo que se señale lo contrario.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Los sujetos obligados conforme a esta Ley podrán aplicar una norma diversa a la señalada por esta regulación, variar los valores o especificaciones de la norma de referencia, o aplicar otras tecnologías, siempre que se cumpla con el objetivo previsto en la norma señalada, ello previa evaluación y dictamen en sentido positivo del Laboratorio Rector del Estado.
+ARTÍCULO 6. Laboratorios acreditados.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Los laboratorios contratados en los casos requeridos conforme a las disposiciones de esta Ley deberán contar con certificación en los términos de la Norma Técnica Estatal expedida por la Secretaría.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Las personas morales interesadas en realizar las funciones reservadas por esta Ley para laboratorios acreditados, deberán obtener su certificación ante la Secretaría, previo dictamen emitido por el Consejo Técnico, cumpliendo los requisitos que acrediten su existencia legal, la idoneidad de sus instalaciones y equipo, sus procedimientos, insumos, la formación profesional y capacidad técnica de su personal, ello conforme al procedimiento que determine la Secretaría en la Norma Técnica Estatal que para tal efecto expida.
+Dicha certificación tendrá una vigencia por tres años, y para su renovación el interesado deberá someterse de nuevo al procedimiento de certificación.
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTÍCULO 7. Profesional responsable.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Para los efectos de esta Ley, las funciones del profesional responsable deberán recaer en una persona con estudios en ingeniería civil con la respectiva cédula profesional y certificado de estudios emitido por Institución de Educación Superior que lo acredite como especialista en vías terrestres, o estudios equivalentes de acuerdo al criterio que se establezca en la Norma Técnica Estatal expedida por la Secretaría.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Las personas interesadas en realizar las funciones reservadas por esta Ley para profesionales responsables, deberán obtener su certificación ante la Secretaría, previo dictamen emitido por el Consejo Técnico, cumpliendo los requisitos que acrediten su formación profesional y capacidad técnica, y conforme al procedimiento que la Secretaría determine mediante una Norma Técnica Estatal.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Dicha certificación tendrá una vigencia por tres años y para su renovación el interesado deberá someterse de nuevo al procedimiento de certificación o acreditar el cumplimiento de los requisitos que en materia de capacitación se indiquen mediante una Norma Técnica Estatal expedida por la Secretaría.
+En los casos en que las obras públicas relativas a la pavimentación no sean realizadas directamente por las propias autoridades estatales o municipales, la persona contratada
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+deberá señalar previamente a la firma del contrato respectivo, el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de la presente Ley.
+(REFORMADO, P.O. 28 DE MAYO DE 2021) Tratándose de obras realizadas por particulares que realicen proyectos regulados por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, que requieran la habilitación de vías públicas, al momento de solicitar los permisos y autorizaciones que correspondan ante la autoridad municipal, el interesado deberá señalar el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de esta Ley.
+ARTÍCULO 8 Recepción de obras de pavimentación.
+En los casos señalados por el párrafo segundo y tercero del artículo 7 de esta Ley, previamente a la recepción de las obras concluidas, la autoridad deberá verificar el cumplimiento de las disposiciones de esta Ley, con apoyo de laboratorio acreditado y de profesional responsable.
+ARTÍCULO 9 Consejo Técnico.
+Se crea un Consejo Técnico integrado por un representante permanente de cada una de las siguientes instituciones:
+I. Secretaría de Obras Públicas del Estado de Nuevo León;
+(REFORMADA, P.O. 09 DE DICIEMBRE DE 2010) II. La Secretaría;
+III. Colegio de Ingenieros Civiles de Nuevo León;
+IV. Asociación Mexicana de Ingeniería de Vías Terrestres Delegación Nuevo León;
+V. Asociación de Laboratorios de Control de Calidad en la Industria de la Construcción de Nuevo León;
+VI. Facultad de Ingeniería Civil de la Universidad Autónoma de Nuevo León;
+VII. Instituto Tecnológico y de Estudios Superiores de Monterrey; y
+VIII. Comisión de la Zona de Conurbada de Monterrey, designado de entre sus miembros.
+Los integrantes del Consejo Técnico tendrán derecho a designar por escrito un representante que los supla en sus ausencias, la participación de sus miembros y suplentes será de carácter honorífico, por lo que no recibirán retribución alguna.
+El Consejo Técnico emitirá su Reglamento Interior en el cual se definirá la formalidad y periodicidad de las sesiones, los mecanismos para la toma y validez de sus
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación del mismo.
+Asimismo, el Consejo Técnico contará con el apoyo de un laboratorio rector que brindará soporte en la certificación de otros laboratorios, verificación de obras y arbitraje en caso de controversias. El Ejecutivo del Estado organizará y definirá la estructura orgánica que corresponda a este laboratorio dentro de la Administración Pública Estatal.
+ARTÍCULO 10. Atribuciones del Consejo Técnico.
+El Consejo Técnico tendrá las atribuciones siguientes:
+I. Fungir como órgano de consulta y emitir dictamen en los casos de duda con respecto a la aplicación de las normas de la presente Ley;
+II. Elaborar los proyectos de Normas Técnicas Estatales que se determinen conforme a esta Ley;
+III. Dictaminar con respecto a la certificación de Laboratorios y de Profesionales responsables; y
+IV. Las demás que se señalen en el presente Ley.
+ARTÍCULO 11. Contenido de las Normas Técnicas Estatales.
+Las Normas Técnicas Estatales a que se refiere esta Ley deberán contener:
+I. La denominación y finalidad de la Norma;
+II. La identificación del procedimiento, criterio o requisito objeto de la Norma;
+III. Las especificaciones, características y lineamientos que correspondan al objeto de la Norma;
+IV. El grado de concordancia con normas y lineamientos internacionales, normas oficiales mexicanas, normas mexicanas, y demás lineamientos tomados como base para su elaboración;
+V. La bibliografía que corresponda a la Norma; y
+VI. La demás información que se considere necesaria para su debida comprensión y observancia.
+ARTÍCULO 12. Proposición de Normas Técnicas Estatales.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Las personas físicas o morales, públicas o privadas, podrán proponer a la Secretaría la elaboración o modificación de Normas Técnicas Estatales relacionadas con el objeto de la presente Ley.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Para tal efecto, el interesado deberá presentar por escrito su propuesta, indicando la información detallada en el artículo anterior.
+ARTÍCULO 13. Procedimiento para la elaboración y modificación de las Normas Técnicas Estatales.
+La elaboración y modificación de las Normas Técnicas Estatales descritas relacionadas con el objeto de la presente Ley se sujetará al siguiente procedimiento:
+(REFORMADA, P.O. 09 DE DICIEMBRE DE 2010) I. La propuesta ciudadana o el proyecto oficial deberá turnarse a la Secretaría, quien lo presentará ante el Consejo Técnico para su análisis; II. A partir de la fecha de recepción de la propuesta o proyecto, el Consejo Técnico contará con un plazo de dos meses para resolver lo que proceda, elaborando en su caso un proyecto de Norma, dicho plazo podrá ser prorrogable por dos meses cuando la complejidad del análisis así lo requiera;
+(REFORMADA, P.O. 09 DE DICIEMBRE DE 2010) III. La Secretaría publicará un aviso en el Periódico Oficial del Estado, en el cual informará del inicio de un proceso de consulta ciudadana con respecto al proyecto de Norma y la pondrá a disposición del público a través de los medios que en dicho aviso se determinen;
+IV. La consulta ciudadana se realizará hasta por un plazo de dos meses, según lo que se especifique en el mencionado aviso;
+V. Durante el plazo de la consulta los interesados podrán presentar por escrito sus observaciones, comentarios o sugerencias, en la dirección que se indique en el aviso de referencia;
+VI. El Consejo Técnico analizará las observaciones, comentarios o sugerencias recibidas, y contará con un plazo de un mes para resolver lo que proceda, dicho plazo podrá ser prorrogable por un mes cuando la complejidad del análisis así lo requiera; y
+(REFORMADA, P.O. 09 DE DICIEMBRE DE 2010) VII. Elaborada la Norma definitiva, se suscribirá por la Secretaría y se publicará en el Periódico Oficial del Estado.
+Una vez publicadas en el Periódico Oficial del Estado, estas Normas serán obligatorias y tendrán una vigencia indefinida hasta en tanto sean sometidas a un proceso de modificación en los términos de esta Ley.
+CAPÍTULO SEGUNDO ESTRUCTURACIÓN DEL PAVIMENTO
+ARTÍCULO 14. Ámbito de aplicación.
+Las disposiciones de esta Ley serán aplicables a los proyectos de pavimentos de obras viales de nueva construcción y de acondicionamiento de las existentes. Salvo que se
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+justifique lo contrario, también se aplicará a la reconstrucción de pavimentos. No será aplicable a los pavimentos sobre puentes ni en túneles.
+ARTÍCULO 15. Tránsito Diario Promedio Anual.
+La estructura del pavimento, se adecuará a la acción prevista del tráfico durante la vida útil del pavimento. La sección estructural del pavimento dependerá, entre otros factores, del TDPA que se prevea en el carril de proyecto en el año de puesta en servicio. Dicho TDPA se utilizará para establecer el nivel de tráfico.
+Para evaluarla se partirá de los aforos, de la proporción de vehículos pesados y de otros datos de tránsito disponibles. Se considerará el tráfico inducido y el generado en los meses proyectados de vida útil de la estructura.
+Para estimar la evolución del tráfico pesado, necesaria para la determinación de la intensidad en el año de puesta en servicio, se adoptará como tasa de crecimiento el valor medio del tránsito durante los últimos cinco años.
+Cuando no se pueda disponer de datos concretos sobre asignación por carriles, para la determinación de la categoría de tráfico pesado se admitirá lo siguiente:
+I. En calzadas de dos carriles y con doble sentido de circulación, incide sobre cada carril la mitad de los vehículos pesados que circulan por la calzada; y
+II. En calzadas de dos, tres o más carriles por sentido de circulación, en el carril exterior se considera la categoría de tráfico pesado correspondiente al noventa por ciento (90%) de los vehículos pesados que circulan en ese sentido.
+ARTÍCULO 16. Categorías de Tráfico Pesado.
+Para los efectos de aplicación de esta regulación, existirán tres niveles de tráfico pesado, según el TDPA que se prevea para el carril de proyecto en el año de puesta en servicio. Dichos niveles se determinarán conforme a lo siguiente:
+Niveles de tráfico pesado. Nivel de Tráfico Pesado I II III TDPA (Vehículos pesados/día) Hasta 50 Desde 50 hasta 500 Desde 500 hasta 6000
+Cuando en el nivel de tráfico pesado III, estén previstos dos o más carriles para cada sentido de circulación se podrán considerar dimensionamientos distintos entre diferentes carriles de una misma calzada, teniendo siempre en cuenta los criterios especificados en el artículo 20 de esta Ley.
+ARTÍCULO 17. Formación de las terracerías.
+Para efecto de definir la estructura del pavimento en cada caso, existirán tres rangos de terracerías, determinados según el valor de resistencia de las mismas, medido en función del Valor Soporte de California, conforme a lo establecido en la norma SCT M- MMP-1-11/08 ó a lo establecido en la norma SCT M-MMP-1-12/08. Dichos rangos se determinarán conforme a lo siguiente:
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Valor Soporte de California. Tipos de suelos. Rango de las Terracerías Valor Soporte de California (%) 6 – 10 11 – 15 16-20
+ARTÍCULO 18. Criterios para la formación de las terracerías.
+Para la formación de las terracerías se deberán tener en cuenta los siguientes criterios:
+I. Para efecto de aplicación de esta regulación, los pedraplenes, serán similares a las terracerías rango 3 indicado en el artículo 17 de esta Ley;
+II. Para poder asignar a los suelos una determinada clasificación deberán tener un espesor mínimo de un metro del material indicado, en caso contrario, se asignará la clasificación inmediatamente inferior;
+III. Para el nivel de tránsito Tipo III conforme al artículo 16 de esta Ley, sólo se admitirán valores relativos de soporte de las terracerías correspondientes a los rangos 2 y 3 indicados en el artículo 17 de esta Ley; y
+IV. En ningún caso el Valor Soporte de California deberá ser menor al 6% y de ser así, la terracería se deberá sustituir o estabilizar en un espesor mínimo de un metro de tal manera que se garantice al que el valor soporte de California sea al menos de 6% en el espesor referido.
+El nivel de las terracerías deberá quedar al menos a sesenta centímetros por encima del nivel más alto previsible del nivel freático cuando las mismas estén formadas por suelos tipo 3; a ochenta o hasta cien centímetros cuando estén formadas por suelos tipo 2; y a ciento veinte centímetros cuando sean formados por suelos tipo 1. Para cumplir tales objetivos se adoptarán medidas tales como la elevación del nivel de las terracerías, asegurando además el flujo del agua subterránea, y la evacuación del agua que se pueda infiltrar a través del pavimento de la calzada y de los acotamientos.
+Salvo que se justifique lo contrario, para efecto de la definición de las secciones de firme se unificarán las terracerías por su categoría, de tal manera que no haya tramos diferenciados en el proyecto de menos de quinientos metros.
+ARTÍCULO 19. Materiales para la formación de las terracerías.
+Para los materiales utilizables en la formación de las terracerías, las especificaciones técnicas particulares deberán incluir las recomendaciones complementarias a seguir. Las terracerías construidas con materiales diferentes de los considerados, tales como residuos, subproductos, entre otros, serán clasificadas, cuando sea posible, por analogía y, en otro caso, mediante un estudio específico.
+El Valor Soporte de California se determinará de acuerdo con las condiciones especificadas de puesta en obra, y su valor se empleará exclusivamente para la aceptación o rechazo de los materiales utilizables en las diferentes capas.
+(REFORMADO, P.O. 24 DE JULIO DE 2010)
+ARTÍCULO 20.- Catálogo de secciones de pavimento.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Los proyectos de pavimentos de obras viales que se presenten ante la autoridad estatal o municipal, según corresponda, deberán indicar las secciones de pavimento según el nivel de tráfico pesado y la categoría de terracerías, esto conforme a lo dispuesto en los artículos 16 y 17 de esta Ley, el catálogo de secciones de pavimento, así como las Normas Técnicas Estatales que para tal efecto se expidan.
+En los cálculos que se realicen para la determinación de los espesores de las capas que conformarán las secciones estructurales del pavimento se deberá tomar en cuenta una vida de diseño de quince años y un crecimiento vehicular del 2.5% anual.
+Cada sección del catálogo de secciones de pavimento, se designará por la combinación de un número romano, un número arábigo y una letra, conforme a lo siguiente:
+I. El número romano indicará el nivel de tráfico pesado, de acuerdo al artículo 16 de esta Ley;
+II. El número arábigo expresará el rango de las terracerías, de acuerdo al artículo 17 de esta Ley; y
+III. La letra hará referencia al tipo de pavimento, en base al siguiente criterio:
+a) Tipo A: mezclas asfálticas sobre bases hidráulicas;
+b) Tipo B: mezclas asfálticas sobre bases asfálticas;
+c) Tipo C: mezclas asfálticas sobre bases cementadas; y
+d) Tipo D: pavimento de concreto hidráulico sobre base hidráulica.
+Entre las posibles soluciones del catálogo de secciones de pavimento que se establezca en las Normas Técnicas Estatales, se seleccionará y justificará para cada proyecto la más adecuada, considerando aspectos funcionales, ambientales, de seguridad, técnicos y económicos, tanto para su construcción como para su conservación, en todos los casos la autoridad estatal o municipal, según corresponda, evaluará y, en su caso, aprobará el proyecto presentado, conforme a las disposiciones de esta Ley y demás que sean aplicables.
+Todos los espesores de capa determinados en el catálogo de secciones de pavimento se considerarán mínimos en cualquier punto de la sección transversal del carril de proyecto.
+CAPÍTULO TERCERO TEXTURA Y ACABADOS
+SECCIÓN PRIMERA CARACTERÍSTICAS Y ESPECIFICACIONES DE LAS VIALIDADES
+ARTÍCULO 21. Las vialidades urbanas se clasifican según su pendiente en:
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Vialidad tipo Pendiente menor a 12% Pendiente mayor a 12% Local Nivel 1 Nivel 4 Subcolectora Nivel 2 Nivel 4 Colectora Nivel 3 Nivel 4 Principal ordinaria Nivel 3 No se aplica Principal de acceso controlado Nivel 3 No se aplica
+ARTÍCULO 22. Los límites de fricción y textura permisibles para las vialidades urbanas según sus niveles se sujetarán a los siguientes parámetros:
+ARTÍCULO 23. Las vialidades urbanas de pavimentos asfálticos con nivel 3 y 4, además de los parámetros establecidos en el artículo anterior, deberán emplear materiales resistentes al pulimento para obtener una mayor durabilidad y seguridad de la carpeta. De acuerdo a las características del material pétreo, se establecen los siguientes parámetros para su composición:
+Parámetros del material pétreo Unidades Norma ASTM Valor Densidad relativa de material pétreo No se aplica C 127 2.3 mínimo Absorción % D 7370 2.0 máximo Caras fracturadas del agregado grueso en capas de rodamiento, una cara % No se aplica 95 mínimo Caras fracturadas del agregado grueso en capas de rodamiento, dos caras % No se aplica 90 mínimo
+Métodos o equipos Descripción Círculo de arena método es utilizado para la medición de la textura superficial de un pavimento y se aplicará siguiendo la norma ASTM E 965-87. Péndulo inglés o de fricción El método es utilizado para medir la fricción superficial en cualquier tipo de pavimento y se aplicará siguiendo la norma ASTM E 303. Niveles Medición de textura Coeficiente de fricción Altura en milímetros Diámetro en centímetros del círculo de arena Valor de CDR adimensional 0.25 mínima 40 mínima No se aplica 0.47 mínima 32 mínima 0.51 mínima 0.47 a 1.2 25 a 32 0.61 mínima Mayor a 1.2 Menor de 25 No se aplica
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Equipos de alto rendimiento En función de los numerosos métodos y equipos de medición de la fricción, se omarán como referencia los equipos y métodos que fueron evaluados y aprobados ernacionalmente por el Comité Técnico de la Asociación Internacional Permanente de Congresos de Carreteras “PIARC”.
+ARTÍCULO 24. En la construcción o mantenimiento de las vías públicas y a fin de obtener los índices de textura y fricción permitidos, se sujetarán a las especificaciones de este Capítulo, mismas que no son limitativas y quedan abiertas a otras tecnologías.
+ARTÍCULO 25. La construcción y mantenimiento de las carreteras y caminos estatales, en lo que respecta al nivel 3, se deberán ajustarán a los parámetros establecidos en los artículos 7 y 8 de esta Ley.
+SECCIÓN SEGUNDA MÉTODOS Y EQUIPOS PARA LA EVALUACIÓN DE FRICCIÓN Y TEXTURA DE LOS PAVIMENTOS
+ARTÍCULO 26. Los distintos métodos y equipos para medir la textura y fricción de los pavimentos serán los siguientes:
+Partículas alargadas y chatas del agregado grueso % D 4791 10 máximo Equivalente de arenas % D 2419 mínimo Pérdidas por abrasión en máquina de los ángeles % C 535 30 máximo
+ARTÍCULO 27. Para determinar la medición de textura y coeficiente de fricción de cualquier tipo de pavimento, se podrán utilizar los siguientes métodos de evaluación según el nivel de clasificación requerido:
+Nivel Método de prueba Especificación Círculo de arena Textura Círculo de arena Textura Péndulo inglés o de fricción Fricción Círculo de arena Textura Péndulo inglés o de fricción o equipo de alto rendimiento Fricción Círculo de arena Textura
+SECCIÓN TERCERA PROCEDIMIENTOS CONSTRUCTIVOS RECOMENDADOS PARA LOS DISTINTOS NIVELES DE RESISTENCIA AL DESLIZAMIENTO EN MEZCLAS ASFÁLTICAS
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+ARTÍCULO 28. La granulometría de una mezcla asfáltica está compuesta por su fracción gruesa, tamaños retenidos en malla número 4; por su fracción fina, tamaños que pasan la malla número 4 y se retienen en la malla número 200; y por la fracción que pasa la malla número 200 conocido como rellenador.
+ARTÍCULO 29. Para las mezclas asfálticas de cualquier nivel, los límites granulométricos especificados, se muestran en las tablas a), b), c) y d) que se indican en este Artículo. La curva granulométrica de diseño deberá estar siempre dentro de los límites especificados para cada nivel. Para los porcentajes que pasa cada malla de la curva granulométrica de diseño, se permiten las siguientes tolerancias: el +/- 2% para tamaños mayores de la malla número 4 y el +/- 1.5% para tamaños menores de la malla número 4.
+a) Nivel 1 MALLA No. ¾” ½” 3/8” ¼” #4 #8 #16 #30 #50 #100 #200 % PASA 100 70-80 58-68 49-56 45-50 32-35 22-25 16-19 12-15 8-11 7-10
+b) Nivel 2 MALLA No. ½” 3/8” ¼” #4 #8 #16 #30 #50 #100 #200 % PASA 70-82 45-55 35-45 22-32 18-25 14-19 10-15 9-12 7-10
+c) Nivel 3 MALLA No. ½” 3/8” ¼” #4 #8 #16 #30 #50 #100 #200 % PASA 67-85 25-35 20-30 15-22 12-18 10-15 9-14 7-12 7-10
+d) Nivel 4 MALLA No. ¾” ½” 3/8” ¼” #4 #8 #16 #30 #50 #100 #200 % PASA 90-100 70-85 45-60 35-50 30-45 23-30 14-20 10-15 9-13 7-12 7-10
+ARTÍCULO 30. De acuerdo a las características del material pétreo, se establecen los siguientes parámetros para su composición:
+Parámetros del material pétreo Unidades Norma ASTM Valor Densidad relativa del material pétreo No se aplica C 127 2.3 mínimo Caras fracturadas del agregado grueso en capas de rodamientos, una cara % No se aplica 95 mínimo Caras fracturadas del agregado grueso en capas de rodamientos, dos caras % No se aplica 90 mínimo artículas alargadas y chatas del agregado grueso % D 4791 10 máximo Equivalente de arenas % D 2419 50 mínimo Pérdidas por abrasión en máquina de los ángeles % C 535 30 máximo
+ARTÍCULO 31. Los parámetros especificados para el cemento asfáltico modificado para los diferentes niveles deberán cumplir con las siguientes especificaciones:
+a) Nivel 1 Parámetros del cemento asfáltico Unidades Norma ASTM Valor Penetración a 25°C, 100 gramos y 5 segundos Dmm D5 55-65 Punto de reblandecimiento anillo y bola °C D38 48 mínimo Punto de inflamación Cleveland °C D92 235 mínimo
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Ductilidad a 5 centímetros/mínimo a 25°C centímetros D113 90 mínimo Pérdidas al cántabro a -10°C a 300 revoluciones % No se aplica 40 máximo Pérdidas al cántabro a 60°C a 300 revoluciones % No se aplica 40 máximo Variación de masa después de TFOT, 50 gramos % D6 1.0 máximo Aumento del punto de reblandecimiento después de TFOT °C D38 10 máximo
+b) Nivel 2, 3 y 4 Parámetros del cemento asfáltico Unidades Norma ASTM Valor Penetración a 25°C, 100 gramos y 5 segundos dmm D5 40 mínimo Punto de reblandecimiento anillo y bola °C D38 55 mínimo Ductilidad a 5 centímetros/mínimo a 25°C centímetros D113 25 mínimo Estabilidad al almacenamiento. Diferencia reblandecimiento a y b °C D38 3 máximo Recuperación elástica por torsión a 25 °C % No se aplica 40 mínimo ngo del nivel PG (grado de comportamiento de este tipo de cemento asfáltico) °C No se aplica 82-16 Punto de inflamación Cleveland °C D92 250 mínimo Pérdidas al cántabro a –10°C a 300 Revoluciones % No se aplica 30 máximo Pérdidas al cántabro a 60°C a 300 revoluciones % No se aplica 20 máximo Variación de masa después de TFOT, 50 gramos % D6 1.0 máximo Aumento del punto de reblandecimiento después de TFOT °C D38 5 máximo Recuperación elástica por el ductilómetro 5 centímetros/mínimo a 25 °C después de TFOT % D113 60 mínimo
+ARTÍCULO 32. Los valores de los parámetros listados para cada tipo de cemento asfáltico deben ser evaluados en cada lote de material abastecido a la planta productora de la mezcla asfáltica. El muestreo del cemento asfáltico debe ser realizado en el tanque de abastecimiento por personal del laboratorio de control de calidad autorizado por la entidad responsable de la obra.
+ARTÍCULO 33. Para cumplir con los valores de los parámetros definidos para los cementos asfálticos modificados podrá utilizarse cualquier tipo de polímero o hule de llanta totalmente integrado al cemento asfáltico por un proceso previo a la incorporación del cemento asfáltico al agregado pétreo en caliente.
+ARTÍCULO 34. La mezcla asfáltica compactada deberá cumplir con los siguientes parámetros que se especifican y aquellos adicionales proporcionados por el método de diseño de la misma:
+Parámetros de la mezcla asfáltica Unidades Norma ASTM Valor Densidad relativa de la mezcla asfáltica No se aplica C127 2.3 mínimo Porcentaje de vacíos en la mezcla asfáltica % No se aplica 4 mínimo a 6 máximo Porcentaje de vacíos en el agregado pétreo % No se aplica 13 mínimo Rango de relación entre material pasa malla #200 y contenido de cemento asfáltico % No se aplica 0.6 – 1.2 Relación de resistencia a tensión (húmedo/seco) % No se aplica 80 mínimo
+ARTÍCULO 35. El procedimiento de elaboración, tendido y compactación de mezclas asfálticas modificadas para los niveles 2, 3 y 4, se sujetará a lo siguiente:
+I. Ajustar el material pétreo a la granulometría establecida para cada nivel;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+II. El cemento asfáltico modificado se elaborará con polímeros, llenando las especificaciones señaladas en los parámetros especificados para el cemento asfáltico modificado. Niveles 2, 3 y 4;
+III. La mezcla caliente se elaborará en planta a una temperatura mínima de 185 °C, se transportará a la obra y se tenderá a una temperatura mínima de 140 °C; evitando el uso de rastrillos;
+IV. La mezcla se compactará a una temperatura mínima de 110 °C con equipo de compactación tipo TANDEM “Eje doble de los camiones de carga” y posteriormente con neumático, evitando un sobre compactado de este último equipo;
+V. En cada una de las etapas se tomarán muestras y se llevará el control de calidad y cumplimiento de las especificaciones de cada uno de los componentes de dicha mezcla; y
+VI. Para cada obra deberá llevarse a cabo el diseño de la mezcla asfáltica de trabajo determinándose el contenido óptimo de asfalto y sus límites de control.
+CAPÍTULO CUARTO CALIDAD DE MATERIALES Y CONTROL DE CALIDAD DE CAPAS DE PAVIMENTOS NUEVOS EN ÁREAS RURALES Y URBANAS
+SECCIÓN PRIMERA CAPA DE TERRACERÍAS
+ARTÍCULO 36. Concepto.
+La capa de terracerías es la capa formada por material para cuerpo de terraplén y subyacente, producto de los cortes realizados a lo largo del camino o de los préstamos de bancos existentes para este fin. Con ambas capas se forma el nivel de desplante de la capa de subrasante.
+ARTÍCULO 37. Calidad del material.
+La calidad de ambas capas deberá cumplir con las especificaciones particulares del proyecto. Como base para establecer los valores de calidad para la capa de terracerías se tomará lo establecido en la Norma N-CMT-1-01/02 y para la capa de subyacente lo establecido en la Norma N-CMT-1-02/02.
+ARTÍCULO 38. Pruebas normalizadas para evaluar las propiedades de los materiales.
+Las pruebas normalizadas que se aplicarán para evaluar las propiedades de los materiales, a fin de determinar el correcto uso de los mismos, se realizarán conforme a las siguientes Normas:
+Título Designación
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+001. Muestreo de materiales para terracerías M·MMP·1·01/03 002. Clasificación de fragmentos de roca y suelos M·MMP·1·02/03 003. Secado, disgregado y cuarteo de muestras M·MMP·1·03/03 004. Contenido de agua M·MMP·1·04/03 005. Densidades relativas y absorción M·MMP·1·05/03 006. Granulometría de materiales compactables para terracerías M·MMP·1·06/03 007. Límites de consistencia M·MMP·1·07/03 008. Masas volumétricas y coeficientes de variación volumétrica M·MMP·1·08/03 009. Compactación AASHTO M·MMP·1·09/03 M·MMP·1·09/06
+ARTÍCULO 39. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. Con independencia de la procedencia de los suelos para formar y compactar las capas de terracerías, se deberá identificar el tipo de suelo a emplearse. Los materiales procedentes de préstamo de banco o movimientos compensados, realizados en el proyecto, se someterán a un estudio al avance de la obra con el suelo del sitio, a través de cuatro muestras como mínimo, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a las normas señaladas en el artículo 37 de esta Ley:
+a) Granulometría;
+b) Límites de Atterberg;
+c) Peso volumétrico seco máximo y humedad óptima;
+d) Contenido de materia orgánica; y
+e) Valor Soporte de California y expansión.
+ARTÍCULO 40. Control de ejecución.
+Para la ejecución de los trabajos de la capa no se deberán emplear los materiales que a simple vista presenten contenidos o restos de tierra vegetal o materia orgánica, así como materiales con tamaños mayores a los máximos definidos para esta capa.
+Por cada cinco mil metros cúbicos de suelo empleado se tomarán dos muestras de suelos y cuando las cantidades sean menores a cinco mil metros cúbicos se tomará una muestra. Respecto de la muestra o muestras se determinarán los valores de las
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+propiedades mecánicas mencionadas en el artículo 39 de esta Ley. La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+Para la determinación de la humedad y densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete ensayos para determinar los valores de las dos propiedades mencionadas, conforme a las normas señaladas en el artículo 37 de esta Ley. Si los valores medidos no cumplen con los valores especificados, se proseguirá con el proceso de compactación hasta alcanzar los valores prescritos.
+ARTÍCULO 41. Control de recepción.
+La superficie terminada del lote no deberá mostrar a simple vista deformaciones o blandones, en caso de existir deberán ser corregidos para que el lote pueda ser recibido como terminado. En el lugar donde se determine la compactación de la capa se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en esta Ley o lo establecido por profesional responsable serán:
+a) Densidad y compactación de cada capa de terracerías;
+b) Espesor de cada capa de terracerías; y
+c) Niveles de terminado de cada capa de terracerías de acuerdo a lo establecido en el proyecto.
+SECCIÓN SEGUNDA CAPA DE SUBRASANTE CONVENCIONAL
+ARTÍCULO 42. Concepto.
+La capa de subrasante convencional es la capa formada por material para subrasante producto de los cortes realizados a lo largo del camino o de los préstamos de bancos existentes para este fin. Con esta capa se forma el nivel terminado de la capa de subrasante y de desplante de las capas del pavimento.
+ARTÍCULO 43. Calidad del material.
+La calidad de esta capa deberá cumplir con las especificaciones particulares del proyecto. Como base para establecer los valores de calidad para la capa de subrasante se tomará lo establecido en la Norma N-CMT-1-03/02.
+ARTÍCULO 44. Pruebas normalizadas para evaluar las propiedades de los materiales.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Las pruebas normalizadas que se aplicarán para evaluar las propiedades de los materiales, a fin de determinar el correcto uso de los mismos, serán las señaladas en el artículo 39 de la presente Ley.
+ARTÍCULO 45. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. Con independencia de la procedencia de los suelos para formar y compactar las capas de subrasante convencional, se deberá identificar el tipo de suelo a emplearse. Los materiales procedentes de préstamo de banco o movimientos compensados, realizados en el proyecto, se someterán a un estudio al avance de la obra con el suelo del sitio, a través de cuatro muestras como mínimo, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a las normas señaladas en el artículo 43 de esta Ley:
+a) Granulometría;
+b) Límites de Atterberg;
+c) Peso volumétrico seco máximo y humedad óptima;
+d) Contenido de materia orgánica; y
+e) Valor Soporte de California y expansión.
+ARTÍCULO 46. Control de ejecución.
+Para la ejecución de los trabajos de la capa no se deberán emplear los materiales que a simple vista presenten contenidos o restos de tierra vegetal o materia orgánica, así como materiales con tamaños mayores a los máximos definidos para esta capa.
+Por cada cinco mil metros cúbicos de suelo estabilizado se tomarán dos muestras de suelos y cuando las cantidades sean menores a cinco mil metros cúbicos se tomará una muestra. Respecto de la muestra o muestras se determinarán los valores de las propiedades mecánicas mencionadas en el artículo 45 de este Ley. La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+Para la determinación de la humedad y densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+ensayos para determinar los valores de las dos propiedades mencionadas, conforme a las normas señaladas en el artículo 43 de esta Ley. Si los valores medidos no cumplen con los valores especificados, se proseguirá con el proceso de compactación hasta alcanzar los valores prescritos.
+ARTÍCULO 47. Control de recepción.
+La superficie terminada del lote no deberá mostrar a simple vista deformaciones o blandones, en caso de existir deberán ser corregidos para que el lote pueda ser recibido como terminado. En el lugar donde se determine la compactación de la capa se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en esta Ley o lo establecido por profesional responsable serán:
+a) Densidad y compactación de la capa;
+b) Espesor de la capa; y
+c) Niveles de terminado de la capa subrasante de acuerdo a lo establecido en el proyecto.
+SECCIÓN TERCERA CAPA DE SUBRASANTE ESTABILIZADA
+ARTÍCULO 48. Concepto.
+La capa de subrasante estabilizada es la capa formada por material para subrasante producto de los cortes realizados a lo largo del camino o de los préstamos de bancos existentes para este fin. Con esta capa se forma el nivel terminado de la capa de subrasante y de desplante de las capas del pavimento. Adicionalmente, es un material que en el sitio de la obra se estabiliza de forma homogénea y uniforme con cal o cemento pórtland, dentro del ancho del camino, con la finalidad de disminuir la plasticidad y aumentar su resistencia a corte.
+ARTÍCULO 49. Calidad del material.
+La calidad de esta capa deberá cumplir con las especificaciones particulares del proyecto. Como base para establecer los valores de calidad para la capa de subrasante estabilizada se tomará lo establecido en las Normas N-CMT-1-03/02 y N-CMT-4-03- 001/02.
+ARTÍCULO 50. Pruebas normalizadas para evaluar las propiedades de los materiales.
+Las pruebas normalizadas que se aplicarán para evaluar las propiedades de los materiales, a fin de determinar el correcto uso de los mismos, serán las señaladas en el artículo 38 de esta Ley.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+ARTÍCULO 51. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. En la estabilización de los suelos para formar y compactar la capa de subrasante, se deberá identificar el tipo de suelo a emplearse. Adicionalmente a los estudios para estabilización del suelo en estado natural, de banco o compensado, realizados en el proyecto, se realizará un estudio al avance de la obra con el suelo del sitio, a través de cuatro muestras como mínimo, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a las Normas señaladas en el artículo 49 de esta Ley:
+a) Granulometría;
+b) Límites de Atterberg;
+c) Contenido de materia orgánica; y
+d) Valor Soporte de California.
+Con estos parámetros se clasificará el suelo y se aceptará tanto para su estabilización, como para el empleo en la formación y compactación de la capa de subrasante estabilizada.
+ARTÍCULO 52. Control de ejecución.
+Para la ejecución de los trabajos de la capa no se deberán emplear los materiales que a simple vista presenten contenidos o restos de tierra vegetal o materia orgánica, así como materiales con tamaños mayores a los máximos definidos para esta capa.
+La adición de cal o cemento Pórtland para la ejecución de la estabilización se especificará de acuerdo a lo establecido en la Norma N-CMT-4-03-001/02. Por cada cinco mil metros cúbicos de suelo estabilizado se tomarán dos muestras de suelos y cuando las cantidades sean menores a cinco mil metros cúbicos se tomará una muestra. Al respecto, se determinará el contenido de cal o cemento Pórtland necesario para lograr un potencial hidrógeno, PH, igual a 12.3, que garantice una estabilización adecuada y permanente en la vida de diseño del camino. La metodología para obtener el contenido óptimo de cal o cemento Pórtland se seguirá conforme a lo establecido en la Norma ASTM D-6276. La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Para la determinación de la humedad y densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete ensayos para determinar los valores de las dos propiedades mencionadas, conforme a las Normas señaladas en el artículo 49 de esta Ley. Si los valores medidos no cumplen con los valores especificados, se proseguirá con el proceso de compactación hasta alcanzar los valores prescritos.
+ARTÍCULO 53. Control de recepción.
+La superficie terminada del lote no deberá mostrar a simple vista deformaciones o zonas inestables, en caso de existir deberán ser corregidos para que el lote pueda ser recibido como terminado. En el lugar donde se determine la compactación de la capa se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en esta Ley o lo establecido por profesional responsable serán:
+a) Densidad y compactación de la capa;
+b) Espesor de la capa; y
+c) Niveles de terminado de la capa subrasante de acuerdo a lo establecido en el proyecto.
+SECCIÓN CUARTA CAPA DE SUBBASE
+ARTÍCULO 54. Concepto.
+La capa de subbase es aquélla compuesta por materiales granulares, de granulometría continua, con el cual se forma la capa inmediata superior a la capa de subrasante y sirve como soporte de la capa de base en un pavimento flexible o como base para un pavimento rígido.
+ARTÍCULO 55. Calidad del material.
+De acuerdo a la importancia del camino y al nivel de tránsito a servir, la calidad de esta capa deberá cumplir con las especificaciones particulares del proyecto, en cuanto a granulometría, plasticidad, capacidad de soporte, dureza, equivalente de arena, grado de compactación, almacenamiento y criterios de aceptación y rechazo.
+Como base para establecer los valores de calidad para la capa de subbase se tomará lo establecido en la Norma N-CMT-4-02-001/04.
+ARTÍCULO 56. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. Con independencia de la procedencia de los suelos para formar y compactar la capa de subbase, se deberá identificar el tipo de suelo a emplearse. Si la producción de material para subbase se realizará triturando el cien por ciento o se recurrirá a una trituración parcial del material procedente de un banco, de un acopio o cualquier otra fuente, será necesario realizar antes la identificación del material para definir su calidad y proceso de manufactura para llevarlo a la calidad exigida para subbase.
+Para cualquier volumen producido previsto en el proyecto, se realizarán estudios de al menos cuatro muestras, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a la Norma señalada en el artículo 55 de esta Ley:
+a) Granulometría;
+b) Límite líquido e índice de plasticidad;
+c) Pérdidas por desgaste de Los Ángeles;
+d) Equivalente de arena; y
+e) Peso volumétrico seco máximo y humedad óptima.
+ARTÍCULO 57. Control de ejecución.
+Para la ejecución de los trabajos de la capa no se deberán emplear los materiales que a simple vista presenten contenidos o restos de tierra vegetal o materia orgánica, así como materiales con tamaños mayores a los máximos definidos para esta capa.
+Para el control de la fabricación del material se deberán realizar los siguientes ensayos:
+Para cada mil metros cúbicos de material producido, o cada día si se fabricara menos material, se tomarán dos muestras de suelos, una por la mañana y otra por la tarde de las cuales se determinará el equivalente de arena y la granulometría por tamizado, conforme a la Norma señalada en el artículo 55 de esta Ley.
+Para cada cinco mil metros cúbicos de material producido, o una vez por semana si se fabricara menos material, se tomará una muestra de suelos, de la cual se determinará el límite líquido e índice plástico y el peso volumétrico seco máximo y humedad óptima, conforme a la Norma señalada en el artículo 55 de esta Ley.
+Para cada veinte mil metros cúbicos de material producido, o una vez por mes si se fabricara menos material, se tomará una muestra de suelos, de la cual se determinará
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+las pérdidas por desgaste de Los Ángeles, conforme a la Norma señalada en el artículo 55 de esta Ley.
+La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+Se deberá realizar un transporte y manejo adecuado de tal forma que se evite la segregación del material y en el proceso de tendido y compactado se deberán cuidar y medir los siguientes valores conforme a la Norma señalada en el artículo 55 de esta Ley:
+a) Espesor tendido y compactado;
+b) Densidad y humedad de la capa de subbase rendida;
+c) El grado de compactación de la capa de subbase;
+d) El equipo de compactación adecuado; y
+e) Valor Soporte de California.
+Para la determinación de la humedad y densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete ensayos para determinar los valores de las dos propiedades mencionadas, conforme a la Norma señalada en el artículo 55 de esta Ley. Si los valores medidos no cumplen con los valores especificados, se proseguirá con el proceso de compactación hasta alcanzar los valores prescritos.
+ARTÍCULO 58. Control de recepción.
+La superficie terminada del lote no deberá mostrar a simple vista deformaciones o blandones, en caso de existir deberán ser corregidos para que el lote pueda ser recibido como terminado. En el lugar donde se determine la compactación de la capa se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en la presente Ley o lo establecido por profesional responsable serán:
+a) Densidad y compactación de la capa;
+b) Espesor de la capa; y
+c) Niveles de terminado de la capa de subbase de acuerdo a lo establecido en el proyecto.
+En caso de que el espesor promedio de la capa en los siete ensayos del lote sea menor al ochenta y cinco por ciento del espesor especificado en el proyecto, el constructor procederá a escarificar quince centímetros de la capa, adicionar el material faltante y compactar afinando la capa de subbase.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+En caso de que el espesor promedio de la capa en los siete ensayos del lote sea menor al espesor especificado en el proyecto y mayor al ochenta y cinco por ciento del espesor especificado en el proyecto y no se presenten problemas de encharcamientos, el constructor compensará a su costa el espesor faltante con material de la capa de base superior.
+SECCIÓN QUINTA CAPA DE BASE HIDRÁULICA
+ARTÍCULO 59. Concepto.
+Capa de material pétreo seleccionado que se construye generalmente sobre la subbase, cuyas funciones principales son proporcionar un apoyo uniforme a la carpeta asfáltica, soportar las cargas que esta le transmite aminorando los esfuerzos inducidos y distribuyéndolos adecuadamente a la capa inmediata inferior, proporcionar a la estructura de pavimento la rigidez necesaria para evita deformaciones excesivas, drenar el agua que se pueda infiltrar e impedir el ascenso capilar del agua subterránea.
+ARTÍCULO 60. Calidad del material.
+De acuerdo a la importancia del camino y al nivel de tránsito a servir, la calidad de esta capa deberá cumplir con las especificaciones particulares del proyecto, en cuanto a granulometría, plasticidad, capacidad de soporte, dureza, equivalente de arena, grado de compactación, almacenamiento y criterios de aceptación y rechazo.
+Como base para establecer los valores de calidad para la capa de base hidráulica se tomará lo establecido en la Norma N-CMT-4-02-002/04.
+ARTÍCULO 61. Control de calidad del material. Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. Con independencia de la procedencia de los suelos para formar y compactar la capa de base, se deberá identificar el tipo de suelo a emplearse. Si la producción de material para base se realizará triturando el cien por ciento o se recurrirá a una trituración parcial del material procedente de un banco de préstamos, de un acopio o cualquier otra fuente, será necesario realizar antes la identificación del material para definir su calidad y proceso de manufactura para llevarlo a la calidad exigida para base.
+Para cualquier volumen producido previsto en el proyecto, se realizarán estudios de al menos cuatro muestras, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme la Norma señalada en el artículo 60 de esta Ley:
+a) Granulometría;
+b) Límite líquido e índice de plasticidad;
+c) Pérdidas por desgaste de Los Ángeles;
+d) Equivalente de arena;
+e) Peso volumétrico seco máximo y humedad óptima;
+f) Valor soporte de California (CBR); y
+g) Partículas alargadas y lajeadas.
+ARTÍCULO 62. Control de ejecución.
+Para la ejecución de los trabajos de la capa no se deberán emplear los materiales que a simple vista presenten contenidos o restos de tierra vegetal o materia orgánica, así como materiales con tamaños mayores a los máximos definidos para esta capa.
+Para el control de la fabricación del material de base se deberán realizar los siguientes ensayos:
+Para cada mil metros cúbicos de material producido, o cada día si se fabricara menos material, se tomarán dos muestras de suelos, una por la mañana y otra por la tarde de las cuales se determinará el equivalente de arena y la granulometría por tamizado, conforme la Norma señalada en el artículo 60 de esta Ley.
+Para cada cinco mil metros cúbicos de material producido, o una vez por semana si se fabricara menos material, se tomará una muestra de suelos, de la cual se determinará el límite líquido e índice plástico y el peso volumétrico seco máximo y humedad óptima, conforme la Norma señalada en el artículo 60 de esta Ley.
+Para cada veinte mil metros cúbicos de material producido, o una vez por mes si se fabricara menos material, se tomará una muestra de suelos, de la cual se determinará las pérdidas por desgaste de Los Ángeles, conforme la Norma señalada en el artículo 60 de esta Ley.
+La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+Se deberá realizar un transporte y manejo adecuado de tal forma que se evite la segregación del material y en el proceso de tendido y compactado se deberán cuidar y medir los siguientes valores conforme la Norma señalada en el artículo 60 de esta Ley:
+a) Espesor tendido y compactado;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+b) Densidad y humedad de la capa de base rendida;
+c) El grado de compactación de la capa de base;
+d) El equipo de compactación adecuado; y
+e) Valor Soporte de California.
+Para la determinación de la humedad y densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete ensayos para determinar los valores de las dos propiedades mencionadas, conforme la Norma señalada en el artículo 60 de esta Ley. Si los valores medidos no cumplen con los valores especificados, se proseguirá con el proceso de compactación hasta alcanzar los valores prescritos.
+ARTÍCULO 63. Control de recepción.
+La superficie terminada del lote no deberá mostrar a simple vista deformaciones o zonas inestables, en caso de existir deberán ser corregidos para que el lote pueda ser recibido como terminado. En el lugar donde se determine la compactación de la capa se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en esta Ley o lo establecido por profesional responsable serán:
+a) Densidad y compactación de la capa;
+b) Espesor de la capa; y
+c) Niveles de terminado de la capa de base de acuerdo a lo establecido en el proyecto.
+En caso de que el espesor promedio de la capa en los siete ensayos del lote sea menor al ochenta y cinco por ciento del espesor especificado en el proyecto, el constructor procederá a escarificar quince centímetros de la capa, adicionar el material faltante y compactar afinando la capa de base.
+La diferencia que se obtenga entre el nivel de base construida y el nivel de base establecido en el proyecto geométrico del camino no deberá ser mayor a dos centímetros.
+SECCIÓN SEXTA CAPA DE BASE MODIFICADA
+ARTÍCULO 64. Concepto.
+La capa de base modificada es aquélla compuesta por materiales granulares, de granulometría continua, con material parcialmente triturado o cien por ciento triturado, cuya calidad será la establecida en la Norma N-CMT-4-02-002/04. Para esta capa, por
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+razones estructurales, adicionalmente se requiere la adición de un material que modifique sus características físicas, haciéndola más rígida y resistente, mejorando su comportamiento mecánico e hidráulico. Esta capa se coloca sobre la capa de subrasante o subbase y sirve como soporte de la capa de carpeta asfáltica en un pavimento flexible o de carpeta hidráulica en un pavimento rígido.
+ARTÍCULO 65. Calidad del material.
+En función del porcentaje y tipo de material modificador, el material resultante para la capa de base modificada podrá ser:
+a) Material estabilizado con cal;
+b) Material estabilizado con cemento Pórtland;
+c) Material estabilizado con cemento asfáltico;
+d) Base de mezcla asfáltica o base negra; y
+e) Base de concreto hidráulico magro.
+Como base para establecer los valores de calidad de la cal empleada en la modificación o estabilización del material para la capa de base, se tomará lo establecido en la Norma N-CMT-4-03-001/02.
+Como base para establecer los valores de calidad del cemento Pórtland empleado en la modificación o estabilización del material para la capa de base, se tomará lo establecido en la Norma N-CMT-2-02-001/02.
+Como base para establecer los valores de calidad del cemento asfáltico empleado en la estabilización del material para la capa de base o base negra, se tomará lo establecido en la Norma N-CMT-4-05-001/06.
+De acuerdo a la importancia del camino y al nivel de tránsito a servir, la calidad de esta capa deberá cumplir con las especificaciones particulares del proyecto, en cuanto a granulometría, plasticidad, capacidad de soporte, dureza, equivalente de arena, contenido de agua, grado de compactación, almacenamiento y criterios de aceptación y rechazo.
+Como base para establecer los valores de calidad para la capa de base modificada se tomará lo establecido en la Norma N-CMT-4-02-003/04.
+ARTÍCULO 66. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. Con independencia de la procedencia de los suelos para formar y compactar la capa de base modificada, se deberá identificar el tipo de suelo a emplearse. Si la producción de material para base modificada se realizará triturando el cien por ciento o se recurrirá a una trituración parcial del material procedente de un banco de prestamos, de un acopio o cualquier otra fuente, será necesario realizar antes la identificación del material para definir su calidad y proceso de manufactura para llevarlo a la calidad exigida para base modificada.
+Para cualquier volumen producido previsto en el proyecto, se realizarán estudios de al menos cuatro muestras, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a la Norma N-CMT-4-02-003/04:
+a) Granulometría;
+b) Límite líquido e índice de plasticidad;
+c) Pérdidas por desgaste de Los Ángeles;
+d) Equivalente de arena;
+e) Peso volumétrico seco máximo; y
+f) Humedad óptima.
+ARTÍCULO 67. Control de ejecución.
+Para la ejecución de los trabajos de la capa no se deberán emplear los materiales que a simple vista presenten contenidos o restos de tierra vegetal o materia orgánica, así como materiales con tamaños mayores a los máximos definidos para esta capa.
+Para el control de la fabricación del material de base modificada se deberán realizar los siguientes ensayos:
+Para cada mil metros cúbicos de material producido, o cada día si se fabricara menos material, se tomarán dos muestras de suelos, una por la mañana y otra por la tarde de las cuales se determinará el equivalente de arena y la granulometría por tamizado, conforme a la Norma N-CMT-4-02-003/04.
+Para cada cinco mil metros cúbicos de material producido, o una vez por semana si se fabricara menos material, se tomará una muestra de suelos, de la cual se determinará el límite líquido e índice plástico y el peso volumétrico seco máximo y humedad óptima, conforme a la Norma N-CMT-4-02-003/04.
+Para cada veinte mil metros cúbicos de material producido, o una vez por mes si se fabricara menos material, se tomará una muestra de suelos, de la cual se determinará las pérdidas por desgaste de Los Ángeles, conforme a la Norma N-CMT-4-02-003/04.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+Se deberá realizar un transporte y manejo adecuado de tal forma que se evite la segregación del material y en el proceso de tendido y compactado se deberán cuidar y medir los siguientes valores conforme a la Norma N-CMT-4-02-003/04:
+a) Espesor tendido y compactado; b) Densidad y humedad de la capa modificada de base modificada rendida; c) El grado de compactación de la capa de base modificada; d) El equipo de compactación adecuado; y e) Valor Soporte de California o alguna otra prueba de resistencia definida en el proyecto.
+Para la determinación de la humedad y densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete ensayos para determinar los valores de las dos propiedades mencionadas, conforme a la Norma N-CMT-4-02-003/04. Si los valores medidos no cumplen con los valores especificados, se proseguirá con el proceso de compactación hasta alcanzar los valores prescritos.
+ARTÍCULO 68. Control de recepción.
+La superficie terminada del lote no deberá mostrar a simple vista deformaciones o blandones, en caso de existir deberán ser corregidos para que el lote pueda ser recibido como terminado. En el lugar donde se determine la compactación de la capa se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en esta Ley o lo establecido por profesional responsable serán:
+d) (sic) Densidad y compactación de la capa;
+e) Espesor de la capa; y
+f) Niveles de terminado de la base de acuerdo a lo establecido en el proyecto.
+En caso de que el espesor promedio de la capa en los siete ensayos del lote sea menor al ochenta y cinco por ciento del espesor especificado en el proyecto, el constructor procederá a escarificar quince centímetros de la capa, adicionar el material faltante y compactar afinando la capa de base.
+La diferencia que se obtenga entre el nivel de base modificada construida y el nivel de base establecido en el proyecto geométrico del camino no deberá ser mayor a dos centímetros.
+SECCIÓN SÉPTIMA CAPA DE CARPETA CON CONCRETO ASFÁLTICO
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+ARTÍCULO 69. Concepto.
+La capa con concreto asfáltico es aquella que está compuesta con materiales granulares, polvos minerales, cemento asfáltico y aditivos, en diversas granulometrías, elaboradas en frío o caliente, de manera tal que todas las partículas del material pétreo queden cubiertas con una película homogénea de cemento asfáltico.
+ARTÍCULO 70. Calidad del material.
+El concreto asfáltico o mezcla asfáltica se formará mediante la combinación del cemento asfáltico con agregados pétreos, como gravas, arenas y rellenadores, y en su caso aditivos, de tal forma que todas las partículas del agregado pétreo queden cubiertas por una película homogénea de cemento asfáltico.
+El concreto asfáltico discontinuo o mezcla asfáltica discontinua, se utilizará en la capa de rodamiento del tránsito. Este material se formará mediante la combinación del cemento asfáltico con agregados pétreos que presenten una discontinuidad en la fracción inferior al agregado pétreo grueso, y en su caso aditivos, de tal forma que todas las partículas del agregado pétreo queden cubiertas por una película homogénea de cemento asfáltico.
+El proceso de fabricación requerirá del calentamiento del agregado pétreo y del cemento asfáltico, con el fin de lograr un cubrimiento homogéneo por parte de la película de cemento asfáltico.
+Adicionalmente, para ambos casos se requerirá realizar lo siguiente:
+a) Diseñar la mezcla asfáltica y definir la fórmula de trabajo;
+b) Manufacturar la mezcla asfáltica de acuerdo a la fórmula de trabajo;
+c) Manejar y transportar la mezcla asfáltica al lugar de la obra;
+d) Preparar la superficie sobre la cual se colocará la mezcla asfáltica; y
+e) Extender y compactar adecuadamente la mezcla asfáltica.
+De acuerdo con la importancia del camino y el nivel de tránsito a servir, las especificaciones particulares de la mezcla asfáltica deberán definir la granulometría, la densidad, los vacíos y el contenido de cemento asfáltico óptimo que permita el cumplimiento de dichas propiedades volumétricas. Como base para establecer los valores anteriores de la mezcla asfáltica se tomará lo establecido en la Norma N-CMT- 4-05-003/02.
+El agregado pétreo empleado en las mezclas asfálticas deberá cumplir con lo especificado en la Norma N-CMT-4-04/03 en cuanto a granulometría, plasticidad, capacidad de soporte, dureza, equivalente de arena, contenido de agua, angularidad, limpieza, almacenamiento y criterios de aceptación y rechazo. En las especificaciones
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+particulares del proyecto se deberán establecer valores de calidad de las propiedades y características del material pétreo mencionados y listados en el artículo 71 de esta Ley.
+De acuerdo con la importancia del camino y el nivel de tránsito a servir, para establecer la granulometría de la mezcla asfáltica empleada en la carpeta asfáltica de rodamiento o en capas subyacentes, se tomará lo establecido en la Norma N-CMT-4-04/03.
+Considerando la zona de ubicación del pavimento, el tipo de cemento asfáltico de la mezcla asfáltica empleada en la capa de rodamiento o en capas subyacentes, se seleccionará de acuerdo a lo establecido en la Norma N-CMT-4-05-001-06. Estos productos pueden ser aplicados en calientes como cementos asfálticos o en frío como emulsiones asfálticas.
+Se permitirá emplear cementos asfálticos modificados. Para establecer el tipo de cemento asfáltico modificado a emplear en la mezcla asfáltica de rodadura o en capas subyacentes, se tomará lo establecido en la Norma N-CMT-4-05-002-06. La definición del grado de comportamiento PG, para garantizar el adecuado uso de acuerdo a las temperaturas extremas de la zona, al nivel de tránsito y a la velocidad de operación del tránsito, se tomará según lo establecido en la Norma N-CMT-4-05-004-05-1.
+En las especificaciones particulares del proyecto se establecerán los valores de calidad de las propiedades y características del material asfáltico y serán evaluadas mediante los ensayos listados en el artículo 77 de esta Ley.
+En caso de que la mezcla asfáltica se emplee para construir la última capa del pavimento flexible o capa de rodamiento, deberá cumplirse con las disposiciones de la presente Ley relativas a texturas. De igual forma, deberá proveerse una microtextura y macrotextura de acuerdo a la clasificación de la vialidad conforme al artículo 21 de esta Ley. La Norma N-CTR-CAR-1-04-006/06 se tomará como referencia para garantizar la calidad de la mezcla asfáltica.
+El índice de perfil de la capa de rodamiento deberá cumplir con lo dispuesto en las especificaciones particulares del proyecto. La Norma N-CTR-CAR-1-04-006/06 se deberá aplicar para garantizar una regularidad de la superficie de rodamiento adecuada. La medición del índice de perfil se realizará de acuerdo a la Norma M-MMP-4-07- 002/06.
+En las mezclas asfálticas empleadas en la capa de rodamiento, deberán emplearse agregados gruesos que presenten una alta resistencia al pulimento de su microtextura. Para tal efecto se deberá cumplir lo indicado en el artículo 72 de esta Ley.
+ARTÍCULO 71. Pruebas de ensayos para materiales pétreos.
+Las pruebas de ensayos para materiales pétreos, conforme a las Normas, serán las siguientes:
+Capítulo Designación 01. Muestreo de materiales pétreos para mezclas asfálticas M·MMP·4·04·001/02 02. Granulometría de materiales pétreos para mezclas asfálticas M·MMP·4·04·002/02
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+03. Densidad relativa de materiales pétreos para mezclas asfálticas M·MMP·4·04·003/02 04. Equivalente de arena de materiales pétreos para mezclas asfálticas M·MMP·4·04·004/02 05. Partículas alargadas y lajeadas de materiales pétreos para mezclas asfálticas M·MMP·4·04·005/02 06. esgaste mediante la prueba de Los Ángeles de materiales pétreos para mezclas asfálticas M·MMP·4·04·006/02 08. erperismo acelerado de materiales pétreos para mezclas asfálticas M·MMP·4·04·008/03 09. Desprendimiento por fricción en materiales pétreos para mezclas asfálticas M·MMP·4·04·009/03 10. Cubrimiento con asfalto mediante el método inglés de materiales pétreos para mezclas asfálticas M·MMP·4·04·010/03
+ARTÍCULO 72. Coeficiente de pulimento acelerado del agregado grueso para capa de rodamiento.
+El coeficiente de pulimento acelerado del agregado grueso para capa de rodamiento de acuerdo a la norma ASTM D 3319 será el siguiente:
+Categoría de Tráfico Pesado 50 vp/día 500 vp/día 6,000 vp/día ≥32 ≥35 ≥40
+ARTÍCULO 73. Valores máximos de deformaciones plásticas permanentes en la capa de rodamiento.
+En el diseño de la mezcla asfáltica deberá considerarse la resistencia a deformaciones, evaluada de conformidad con la Norma Tex-242-F. Las deformaciones que presente no deberán ser mayores a 10 milímetros de acuerdo a los valores de número de pasadas y grado PG indicados en la siguiente tabla:
+Número de pasadas PG 64 o inferior PG 70 PG 76 o superior 10,000 15,000 20,000
+ARTÍCULO 74. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CAL-1-01/05, M-CAL-1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. El cemento asfáltico convencional o modificado con polímeros deberá cumplir con lo establecido en las especificaciones descritas en el proyecto ejecutivo de la obra. Con independencia de la procedencia de los suelos para formar y compactar la capa de carpeta asfáltica, se deberá identificar el tipo de suelo a emplearse. Si la producción de material para carpeta asfáltica se realizará triturando el cien por ciento o se recurrirá a una trituración parcial del material
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+procedente de un banco de prestamos, de un acopio o cualquier otra fuente, será necesario realizar antes la identificación del material para definir su calidad y proceso de manufactura para llevarlo a la calidad exigida para carpeta asfáltica.
+Para cualquier volumen producido previsto en el proyecto, se realizarán estudios de al menos cuatro muestras, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a la Norma N-CMT-4-04/03 ó más actual:
+a) Granulometría;
+b) Límite líquido e índice de plasticidad;
+c) Pérdidas por desgaste de Los Ángeles;
+d) Coeficiente de pulimento acelerado;
+e) Equivalente de arena;
+f) Densidad relativa y absorción; y
+g) Partículas alargadas y lajeadas.
+En una producción continua para cada fracción de agregado pétreo que se produzca o reciba, se realizarán los siguientes ensayos:
+a) Al menos dos veces al día se analizarán la granulometría y el equivalente de arena;
+b) Al menos una vez a la semana, o cuando se cambie de procedencia, se analizarán la proporción de partículas trituradas y las partículas alargadas y lajeadas; y
+c) Al menos una vez al mes, o cuando se cambie de procedencia, se analizarán las pérdidas por desgaste de Los Ángeles, el coeficiente de pulimento acelerado y la densidad relativa y absorción.
+En una producción continua para la fracción fina del agregado pétreo, que se produzca o reciba, se realizará un ensayo de la densidad aparente, al menos una vez al día, o cuando el material cambie de procedencia.
+ARTÍCULO 75. Control de ejecución.
+En la producción de la mezcla asfáltica en planta, se realizará la mezcla de las fracciones del agregado pétreo y de la mezcla de la fracciones se tomarán dos muestras, una en la mañana y otra en la tarde, antes de entrar al secador de la planta de mezcla asfáltica. A estas muestras se les realizarán los ensayos referentes a equivalente de arena y granulometría por tamizado.
+Las tolerancias entre la granulometría de la banda transportadora de abastecimiento y la granulometría de trabajo serán del +/- 3.0% en los tamices superiores a 2.5 mm (Malla
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+No. 8); del +/- 2.0% entre los tamices de 2.5 mm (Malla No. 8) y 0.075 mm (Malla No. 200); y del +/- 1.0% en los tamices menores a 0.075 mm (Malla No. 200).
+A la salida del agregado pétreo o fórmula de trabajo en caliente se le revisará su granulometría y deberá cumplir con las tolerancias indicadas en el párrafo anterior.
+A la salida de mezclador o del silo de almacenamiento de la mezcla asfáltica, sobre cada unidad de transporte se realizarán los ensayos referentes a cuidar el aspecto de la mezcla asfáltica, medir su temperatura, evitar mezclas segregadas, evitar mezclas sobrecalentadas y evitar mezclas con envuelta del cemento asfáltico que no homogénea.
+Al menos dos veces al día, una en la mañana y otra en la tarde, y al menos una vez por lote se analizarán el contenido óptimo del cemento asfáltico y la granulometría.
+Al menos una vez al día, y al menos una vez por lote se analizarán la resistencia a deformaciones plásticas permanentes y el análisis de vacíos.
+La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada.
+Se deberá realizar un transporte y manejo adecuado de tal forma que se evite la segregación del material y en el proceso de tendido y compactado se deberán cuidar y medir los siguientes valores conforme a la Norma N-CMT-4-04/03 ó más actual:
+a) Espesor tendido y compactado;
+b) Densidad de la capa de concreto asfáltico rendida;
+c) El grado de compactación de la capa de concreto asfáltico; y
+d) El equipo de compactación adecuado.
+Para la determinación de la densidad de la capa construida, se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de siete ensayos para determinar los valores de las dos propiedades mencionadas, conforme a la Norma N-CMT-4-04/03 y N-CTR-CAR-1-04-006/08.
+ARTÍCULO 76. Control de recepción.
+La superficie terminada del lote deberá tener una buena continuidad en las juntas longitudinales y transversales, y no deberá mostrar a simple vista ningún defecto. En el lugar donde se extraigan testigos de la carpeta asfáltica para determinar su compactación se medirá el espesor de la capa.
+Los valores a medir para la recepción del lote conforme a lo dispuesto en esta Ley o lo establecido por profesional responsable serán:
+a) Densidad y compactación de la capa de concreto asfáltico;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+b) Espesor de la capa;
+c) Niveles de terminado de la carpeta asfáltica de acuerdo a lo establecido en el proyecto; y
+d) Microtextura, macrotextura y coeficiente de resistencia al deslizamiento.
+Los testigos se extraerán en puntos de forma aleatoria en un número no inferior de cinco por lote para determinar el espesor y densidad de la carpeta asfáltica. Se deberá controlar la regularidad superficial del lote antes de colocar una capa superior.
+Adicionalmente en la capa de rodamiento se controlará la medida de la macrotextura superficial en al menos cinco puntos antes de poner en servicio el tramo. Después de dos meses de la puesta en servicio de la obra se determinará la resistencia al deslizamiento.
+ARTÍCULO 77. Pruebas de ensayos para materiales asfálticos.
+Las pruebas de ensayos para materiales asfálticos se realizarán conforme a las siguientes Normas:
+Capítulo Designación 001. Muestreo de materiales asfálticos M·MMP·4·05·001/00 002. Viscosidad dinámica de cementos y residuos asfálticos M·MMP·4·05·002/02 003. Viscosidad cinemática de cementos asfálticos M·MMP·4·05·003/02 004. Viscosidad saybolt-furol en materiales asfálticos M·MMP·4·05·004/00 005. Viscosidad rotacional brookfield de cementos asfálticos M·MMP·4·05·005/02 006. Penetración en cementos y residuos asfálticos M·MMP·4·05·006/00 007. Punto de inflamación cleveland en cementos asfálticos M·MMP·4·05·007/00 008. Solubilidad de cementos y residuos asfálticos M·MMP·4·05·008/00 009. Punto de reblandecimiento en cementos asfálticos M·MMP·4·05·009/00 010. ebas en el residuo de la película delgada de cementos asfálticos M·MMP·4·05·010/02 011. Ductilidad de cementos y residuos asfálticos M·MMP·4·05·011/00 012. Destilación de emulsiones asfálticas M·MMP·4·05·012/00 013. Asentamiento de emulsiones asfálticas M·MMP·4·05·013/02 014. Retenido en las mallas N°20 y N°60 en emulsiones asfálticas M·MMP·4·05·014/02 015. Cubrimiento del agregado en emulsiones asfálticas M·MMP·4·05·015/00 016. Miscibilidad con cemento pórtland de emulsiones asfálticas M·MMP·4·05·016/00 017. Carga eléctrica de las partículas de emulsiones asfálticas M·MMP·4·05·017/00 018. Demulsibilidad de emulsiones asfálticas M·MMP·4·05·018/00 019. Índice de ruptura de emulsiones asfálticas catiónicas M·MMP·4·05·019/02 020. Punto de inflamación tag en asfaltos rebajados M·MMP·4·05·020/02 021. Destilación de asfaltos rebajados M·MMP·4·05·021/02
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+022. Separación en cemento asfáltico modificado M·MMP·4·05·022/02 023. Resiliencia en cemento asfáltico modificado M·MMP·4·05·023/02 024. ecuperación elástica por torsión en cemento asfáltico modificado M·MMP·4·05·024/02 025. Módulo reológico de corte dinámico M·MMP·4·05·025/02 026. Recuperación elástica en ductilómetro M·MMP·4·05·026/02 041. Desgaste por abrasión en húmedo de morteros asfálticos M·MMP·4·05·041/03 042. rdida de estabilidad por inmersión en agua de mezclas asfálticas M·MMP·4·05·042/03
+SECCIÓN OCTAVA CAPA DE CARPETA CON CONCRETO HIDRÁULICO
+ARTÍCULO 78. Concepto.
+Las carpetas de concreto hidráulico serán aquéllas construidas mediante una mezcla de agregados pétreos, cemento Pórtland, agua y aditivos, a fin de proporcionar al usuario una superficie de rodamiento uniforme, con buen drenaje, resistencia al deslizamiento, segura y cómoda. Estas carpetas o losas de concreto hidráulico tendrán una función estructural consistente en soportar y transmitir las cargas hacia las capas subyacentes.
+Su diseño se definirá entre un pavimento rígido con losas de concreto hidráulico con juntas, losas de concreto hidráulico con refuerzo continuo o losas de concreto hidráulico preesforzado.
+ARTÍCULO 79. Calidad del material.
+De acuerdo a la importancia del camino y al nivel de tránsito a servir, las especificaciones particulares del proyecto del pavimento deberán cumplir lo especificado en la Norma N-CTR-CAR-1-04-009/06 vigente en cuanto al diseño de la mezcla hidráulica, granulometría, limpieza del agregado pétreo, dureza, equivalente de arena, resistencia a compresión, resistencia a flexo-tensión, tendido, curado, elaboración de juntas y criterios de aceptación y rechazo. Como base para establecer los valores de calidad de la carpeta de concreto hidráulico se tomará lo establecido en la Norma N-CTR-CAR-1-04-009/06 vigente, así como en la NMX-C-155-ONNCCE-2004 vigente en caso de utilizar concreto industrializado.
+El cemento Pórtland que se empleará deberá contar con componentes y tener propiedades físicas y químicas que garanticen, mediante una buena dosificación, concretos hidráulico que cumplan con resistencias y durabilidad adecuadas para este tipo de obras. Para establecer en el proyecto especificaciones para los componentes y para las propiedades físicas y químicas del cemento Portland se tomará lo establecido en las Normas N-CMT-2-02-001/02 vigente ó NMX-C-414-ONNCCE-2004 vigente.
+El agua que se empleará en la elaboración de la mezcla hidráulica deberá estar exenta de materias que afecten la calidad de la misma. No deberá tener materia como aceites, grasas, álcalis, cloruros, materia orgánica o impurezas que afecte al fraguado, a la resistencia, a la durabilidad y al acero para armado. Como base para establecer en el
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+proyecto especificaciones para los componentes y para las propiedades físicas y químicas del agua se tomará lo establecido en las Normas N-CMT-2-02-003/02 vigente o NMX-C-122-ONNCCE-2004 vigente.
+El agregado pétreo empleado en las mezclas hidráulicas deberá cumplir con lo especificado en las Normas N-CTR-CAR-1-04-009/06 vigente y NMX-C-111-ONNCCE- 2004 vigente en cuanto a granulometría, plasticidad, dureza, equivalente de arena, contenido de agua, absorción, angularidad, limpieza, almacenamiento y criterios de aceptación y rechazo. En las especificaciones particulares del proyecto se deberán establecer valores de calidad de las propiedades y características del material pétreo mencionados y listados en el artículo 71 de esta Ley. Como base para establecer en el proyecto especificaciones para los componentes y para las propiedades físicas y químicas del agregado pétreo se tomará lo establecido en las Normas N-CTR-CAR-1- 04-009/06 vigente y NMX-C-111-ONNCCE-2004 vigente. Este agregado se clasificará como grueso o fino, conforme a lo siguiente:
+I. Agregado grueso: se considera como tal al agregado pétreo retenido en la malla número 4 (4.75 mm) hasta el tamaño máximo de la granulometría que no deberá exceder la malla 11/2 pulgada (37.5 mm), los cuales deberán presentarse al menos como dos granulometrías diferenciadas.
+En el estudio del agregado grueso para el diseño de la mezcla hidráulica deberán establecerse valores a través de las especificaciones de las propiedades que a continuación se listan, que garanticen una buena resistencia y durabilidad de la mezcla hidráulica:
+a) Coeficiente de desgaste de Los Ángeles;
+b) Coeficiente de pulimento acelerado, según el artículo 72 de esta Ley; y
+c) Partículas alargadas y lajeadas de materiales pétreos, según el artículo 71 de la presente Ley.
+II. Agregado Fino: se considera como tal al agregado pétreo que pasa el cien por ciento la malla número 4 (4.75 mm). Del cien por ciento del agregado fino deberá garantizarse que al menos el treinta y cinco por ciento sea partícula silícea, procedente de agregados gruesos que cumplan con el coeficiente de pulimento acelerado.
+En el estudio del agregado fino para el diseño de la mezcla hidráulica deberán establecerse valores a través de las especificaciones de las propiedades que a continuación se listan, que garanticen una buena resistencia y durabilidad de la mezcla hidráulica:
+a) Limpieza del agregado fino, para lo cual se deberá fijar un valor de equivalente de arena mayor o igual al setenta y cinco por ciento, evaluado conforma a la Norma M- MMP-4-04·004/02 vigente; y
+b) Granulometría del agregado fino.
+Las especificaciones particulares del proyecto de la mezcla hidráulica fijarán el uso de aditivos cuando se necesite obtener la trabajabilidad adecuada o mejorar las
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+características de la mezcla. De forma previa al uso de los aditivos deberán realizarse ensayos para comprobar que tengan las características especificadas en la Norma NMX-C-255-ONNCCE-2006 vigente y que se utilice la dosis correcta para lograr un comportamiento previsto sobre las mezclas.
+Como base para establecer en el proyecto especificaciones para los aditivos se tomará lo establecido en las Normas N-CTR-CAR-1-04-009/06 vigente o NMX-C-255-ONNCCE- 2006 vigente.
+Los pasadores se formarán por barras de acero lisas sin rebabas cortantes en sus extremos. El diámetro y longitud recomendable será de treinta y ocho milímetros y sesenta centímetros, además de los pasadores se deberá tomar en cuenta los diseños preestablecidos para las vialidades establecidas en las vialidades tipo I, II y III en cuanto especificaciones y calidad de los materiales, referenciados en el artículo 20 y demás aplicables de esta Ley.
+El concreto hidráulico que se empleará en la construcción de la carpeta rígida deberá tener una resistencia a flexo-tensión a los veintiocho días, referidas a probetas prismáticas de sección cuadrada de 15 x 15 x 50 centímetros, de acuerdo a lo establecido en el artículo 80 de esta Ley y conforme a la Norma NMX-C-191-ONNCCE- 2004 vigente. Para la elaboración y curado en obra de especímenes de concreto se utilizará la norma NMX-C-160-ONNCCE vigente.
+ARTÍCULO 80. Pruebas de ensayos para materiales de concreto hidráulico.
+Los valores de módulo de ruptura a los 28 días, serán las siguientes:
+Categoría de Tráfico Pesado 50 vp/día 500 vp/día 6,000 vp/día 42 kg/cm2 45 kg/cm2 48 kg/cm2
+ARTÍCULO 81. Control de calidad del material.
+Las especificaciones generales y particulares del proyecto fijarán para cada caso el método de control de calidad, tamaño de la muestra y el tipo y número de ensayos necesarios para el control de calidad. La realización de los ensayos y la toma de muestras de materiales a evaluar se realizarán de manera aleatoria, empleando los criterios establecidos en las Normas N-CTR-CAR-1-04-009/06, N-CAL-1-01/05, M-CAL- 1-02/01 y M-CAL-1-03/03.
+El responsable de la obra deberá exigir el control de calidad de los materiales, el control de ejecución y el control de recepción de los trabajos. Con independencia de la procedencia de los agregados pétreos para manufacturar la mezcla hidráulica, se deberá identificar el tipo de suelo a emplearse. Si la producción de material para carpeta hidráulica se realizará triturando el cien por ciento que se hubiere obtenido de un acopio o cualquier otra fuente, será necesario realizar antes la identificación del material para definir su calidad y proceso de manufactura para llevarlo a la calidad exigida.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Para cualquier volumen producido previsto en el proyecto, se realizarán estudios de al menos cuatro muestras, incrementándose en una muestra por cada cinco mil metros cúbicos adicionales o fracción.
+Para cada una de las muestras se evaluarán los siguientes parámetros, conforme a las Normas N-CTR-CAR-1-04-009/06 y NMX-C-155-ONNCCE-2004:
+a) Granulometría;
+b) Pérdidas por desgaste de Los Ángeles del agregado grueso;
+c) Coeficiente de pulimento acelerado; y
+d) Equivalente de arena.
+El cemento Pórtland deberá cumplir con lo establecido en las especificaciones generales y/o particulares descritas en el proyecto ejecutivo de la obra y evaluadas de acuerdo a lo señalado en el artículo 79 de esta Ley.
+En una producción continua para cada fracción de agregado pétreo que se produzca o reciba, se realizarán los siguientes ensayos:
+a) Al menos dos veces al día se analizarán la granulometría, el equivalente de arena y las partículas alargadas y lajeadas; y
+b) Al menos una vez al mes, o cuando se cambie de procedencia, se analizarán las pérdidas por desgaste de Los Ángeles del agregado grueso y el coeficiente de pulimento acelerado.
+En una producción continua para la fracción fina del agregado pétreo, que se produzca o reciba, se realizará un ensayo de la densidad aparente, al menos una vez al día, o cuando el material cambie de procedencia.
+ARTÍCULO 82. Control de ejecución.
+En la producción de la mezcla hidráulica en planta, se tomará al menos una muestra al día de las fracciones del agregado pétreo. A esta muestra se les realizará el ensayo referente a granulometría por tamizado.
+Al menos una vez cada quince días se verificará la precisión de las básculas de dosificación, mediante un conjunto adecuado de pesas patrón.
+A la salida de mezclador se tomarán muestras de la mezcla hidráulica y sobre cada una se realizará el ensayo referente a control del aspecto de la mezcla hidráulica y la temperatura, debiéndose desechar muestras con segregación del agregado pétreo grueso.
+Al menos dos veces al día, una en la mañana y otra en la tarde, y al menos una vez por lote se analizarán el contenido de aire ocluido en la mezcla hidráulica, el revenimiento y la elaboración de probetas cilíndricas.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+La frecuencia de los ensayos en el transcurso de la ejecución de la obra se podrá reducir a la mitad, de acuerdo al criterio del responsable de la obra y en la medida en que los materiales presenten una homogeneidad adecuada. Los acabados y texturas de la mezcla hidráulica se controlarán de acuerdo a las especificaciones del proyecto y a lo establecido para este fin en la Norma N-CTR-CAR-1-04-009/06.
+Se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor. Dentro del lote por día se cumplirá una frecuencia de tres probetas prismáticas para determinar los módulos de ruptura, conforme a lo establecido en el artículo 80 de esta Ley.
+ARTÍCULO 83. Control de recepción.
+A partir del valor del módulo de ruptura estimada para cada lote se aplicarán los siguientes criterios de aceptación o rechazo:
+a) Se aceptará el lote cuando la resistencia promedio estimada no sea menor a la resistencia exigida;
+b) En base a lo establecido en la licitación, tratándose de obras públicas, se aplicará una reducción al precio unitario de la mezcla hidráulica, cuando la resistencia promedio sea menor a la resistencia exigida, pero mayor al noventa por ciento; y
+c) Se realizarán ensayos de información cuando la resistencia promedio sea menor al noventa por ciento de la resistencia exigida.
+ARTÍCULO 84. Ensayos de información.
+Antes de los cincuenta y cuatro días de la colocación de la mezcla hidráulica, se deberán extraer seis probetas testigos de forma aleatoria, que disten al menos siete metros en sentido longitudinal entre ellas, y que estén separadas al menos cincuenta centímetros del borde de cualquier junta y losa. Estos testigos se ensayarán a tensión indirecta para obtener su resistencia a tensión a los cincuenta y seis días.
+El valor medio de los resultados obtenidos de los testigos se comparará con el promedio de los obtenidos de un lote que hubiera aceptado y de esa comparación se determinará lo siguiente:
+a) Se aceptará el lote cuando la resistencia a tensión indirecta sea mayor que la del lote;
+b) Se aplicará una sanción al precio unitario de la mezcla hidráulica cuando la resistencia promedio sea menor a la resistencia exigida, pero mayor al noventa por ciento, de acuerdo a lo establecido en la bases de licitación del proyecto;
+c) Se aplicará una sanción al precio unitario de la mezcla hidráulica, o bien se ordenará la demolición y reconstrucción de la carpeta hidráulica, cuando la resistencia promedio sea menor al noventa por ciento de la resistencia exigida, pero mayor al setenta por ciento, según haya sido establecido en las bases de licitación del proyecto; y
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+d) Se ordenará la demolición de la carpeta hidráulica y su reconstrucción, por cuenta del contratista, cuando la resistencia promedio sea menor al setenta por ciento, según haya sido establecido en las bases de licitación del proyecto.
+Las sanciones referidas no podrán ser inferiores a la aplicación de una penalización al precio unitario del lote, cuyo valor deberá ser igual al doble de la merma de la resistencia expresada en porcentaje.
+ARTÍCULO 85. Espesores. El espesor promedio de los valores medidos deberá estar dentro de los límites establecidos en las bases del concurso o en los valores especificados en el proyecto. Para evaluar el cumplimiento del espesor de la losa hidráulica se aplicará la Norma N- CTR-CAR-1-04-009/06.
+ARTÍCULO 86. Textura superficial.
+La profundidad de la textura superficial y el valor del coeficiente de resistencia al deslizamiento de la losa hidráulica empleada en la construcción de la superficie de rodamiento del pavimento rígido, deberán cumplir con los valores indicados en el Capítulo III de esta Ley.
+ARTÍCULO 87. Regularidad superficial.
+Al emplearse la carpeta hidráulica para construir la última capa del pavimento rígido, capa de rodamiento, deberá cumplirse con lo dispuesto en el Capítulo III de esta Ley en cuanto a textura. Deberá proveerse una microtextura y macrotextura de acuerdo a la clasificación de la vialidad conforme al artículo 21 de esta Ley. La Norma N-CTR-CAR- 1-04-009/06 se tomará como referencia para garantizar la calidad de la mezcla hidráulica.
+El índice de perfil o regularidad superficial de la capa de rodamiento deberá cumplir con lo dispuesto en las especificaciones particulares del proyecto conforme al tipo de vialidad y procedimiento constructivo utilizado. La Norma N-CTR-CAR-1-04-009/06 se deberá aplicar para garantizar una regularidad de la superficie de rodamiento adecuada. La medición del índice de perfil se realizará de acuerdo a la Norma M-MMP-4-07- 002/06.
+Cuando los valores de la regularidad superficial excedan los límites establecidos en el proyecto, en menos del diez por ciento de la longitud del lote bajo control, se procederá a recuperar la regularidad superficial mediante un proceso de fresado, siempre y cuando este proceso no disminuya el espesor de la losa hidráulica debajo de los límites permitidos en el proyecto. Los costos del fresado y del tiro del material en vertederos autorizados serán a costa del contratista.
+Cuando los valores de la regularidad superficial excedan los límites establecidos en el proyecto, en más del diez por ciento de la longitud del lote bajo control, se procederá a demoler el espesor de la losa hidráulica. Los costos de demolición y del tiro del material en vertederos autorizados serán a costa del contratista.
+SECCIÓN NOVENA
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+RIEGO DE IMPREGNACIÓN
+ARTÍCULO 88. Concepto.
+El riego de impregnación consistirá en una aplicación que se hará a una superficie de una capa de material granular, para protegerla de la acción de agentes atmosféricos, impermeabilizándolas, y del tránsito de obra, antes de colocar una carpeta asfáltica o hidráulica, o un tratamiento asfáltico.
+ARTÍCULO 89. Calidad del material.
+Para realizar el riego en cuestión, se empleará una emulsión asfáltica de rompimiento lento. Para tal efecto se aplicará la Norma N-CMT-4-05-001/05 ó más actual.
+Durante los períodos de construcción cuando se requiera transitar sobre una base o subbase impregnada, ésta deberá protegerse con un material de cobertura con arenas naturales o productos de trituración. La granulometría de la arena deberá pasar un cien por ciento por la malla número cuatro y tener un máximo de un quince por ciento de material pasando la malla doscientos. Deberá ser un material limpio, exento de material orgánico, con un equivalente de arena superior al cuarenta por ciento y no plástico.
+ARTÍCULO 90. Control de calidad del material.
+Para el control de calidad del riego de impregnación se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor.
+La emulsión asfáltica deberá cumplir con la calidad especificada en el proyecto. Las condiciones de la superficie a impregnar se considerarán para determinar la dotación de emulsión asfáltica.
+ARTÍCULO 91. Control de ejecución.
+La dotación de la emulsión asfáltica y la del material de cobertura, se comprobarán mediante el pesaje de bandejas metálicas o papel, colocados sobre la superficie durante la aplicación de material asfáltico y pétreo al menos en tres puntos. En cada una de estas bandejas o papel se determinará el residuo asfáltico.
+ARTÍCULO 92. Control de recepción.
+La dotación media de los tres puntos, tanto de la emulsión asfáltica como del agregado pétreo, en caso de usarse, no deberán diferir en más de un quince por ciento de la dotación prevista en el proyecto.
+De no cumplirse con lo anterior, el responsable de obra tomará las medidas pertinentes de sanción.
+SECCIÓN DÉCIMA RIEGO DE LIGA
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+ARTÍCULO 93. Concepto.
+El riego de liga consistirá en una aplicación de una emulsión asfáltica sobre una capa tratada con material asfáltico o mezcla asfáltica, previa a la colocación de una capa asfáltica. Dicho riego no se aplicará cuando se trate de una capa asfáltica que se coloque como tratamiento superficial o lechada bituminosa.
+ARTÍCULO 94. Calidad del material.
+Para realizar el riego en cuestión, se empleará una emulsión asfáltica de rompimiento rápido. Para tal efecto se aplicará la Norma N-CMT-4-05-001/05.
+ARTÍCULO 95. Control de calidad del material.
+Para control de calidad de riego de liga se tomará como lote de aceptación de los trabajos tres mil quinientos metros cuadrados o el avance por día, lo que resulte mayor.
+La emulsión asfáltica deberá cumplir con la calidad especificada en el proyecto. Las condiciones de la superficie a impregnar se considerarán para determinar la dotación de emulsión asfáltica.
+ARTÍCULO 96. Control de ejecución.
+La dotación de la emulsión asfáltica se comprobará mediante el pesaje de bandejas metálicas o papel, colocados sobre la superficie durante la aplicación de material asfáltico y pétreo al menos en tres puntos. En cada una de estas bandejas o papel se determinará el residuo asfáltico.
+ARTÍCULO 97. Control de recepción.
+La dotación media de los tres puntos, tanto de la emulsión asfáltica como del agregado pétreo, en caso de usarse, no deberán diferir en más de un quince por ciento de la dotación prevista en el proyecto.
+De no cumplirse con lo anterior, el responsable de obra tomará las medidas pertinentes de sanción.
+CAPÍTULO QUINTO REHABILITACIÓN DE PAVIMENTOS
+ARTÍCULO 98. Rehabilitación de vialidades nivel I.
+Para las vialidades de nivel I conforme al Capítulo II de esta Ley, el método de rehabilitación se elegirá en base a una inspección visual y a los criterios establecidos por la entidad responsable de la vía.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+ARTÍCULO 99. Acciones de rehabilitación de pavimentos.
+Para los efectos de esta Ley, las acciones de rehabilitación de pavimentos serán de tipo estructural y/o funcional, en atención a la falla estructural o funcional que se presente.
+ARTÍCULO 100. Rehabilitación Estructural.
+La rehabilitación estructural se considerará cuando el pavimento tenga una o varias de las características siguientes, y se realizará con el fin de aumentar la capacidad estructural del pavimento, para que resista adecuadamente la previsión del tráfico de vehículos durante el período de diseño:
+a) Vida remanente escasa por fatiga estructural del pavimento;
+b) Previsión de crecimiento considerable del volumen de tránsito; y
+c) Erogación excesiva en el mantenimiento rutinario.
+La rehabilitación estructural, además de su objetivo intrínseco, deberá lograr los mismos fines de la rehabilitación funcional.
+ARTÍCULO 101. Rehabilitación funcional.
+La rehabilitación funcional se considerará cuando el pavimento tenga una o varias de las características siguientes, y se realizará con el fin de restablecer, conservar o mejorar las características funcionales de la superficie de rodamiento, así como la protección de las capas inferiores de la estructura del pavimento, sin incrementar la capacidad estructural del pavimento:
+a) La superficie de rodamiento presente deficiencias que afecten la seguridad de la circulación, la comodidad de los usuarios o la durabilidad del pavimento, sin que se presenten circunstancias que hagan necesaria la rehabilitación estructural;
+b) Al elaborar el proyecto de rehabilitación se detecte en la zona la existencia de tramos menores a 100 metros de longitud, contiguos a otros tramos que si la requieran; y
+c) Se pretenda dar conservación preventiva.
+ARTÍCULO 102. Estudios para la rehabilitación de pavimentos.
+Toda acción de rehabilitación de pavimentos requerirá la realización de estudios de evaluación que deberán contener, al menos, lo siguiente:
+a) Recopilación y análisis de datos;
+b) Evaluación del estado del pavimento y de su vida remanente;
+c) Diagnóstico sobre el estado del pavimento;
+d) Análisis y selección del procedimiento más apropiado para determinar las alternativas de rehabilitación; y
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+e) Proyecto de la solución elegida.
+ARTÍCULO 103. Recopilación y análisis de datos.
+La recopilación y análisis de datos deberá considerar lo siguiente:
+a) Características y estado del pavimento existente, debiéndose analizar la sección estructural del pavimento; las características de los materiales que lo conforman; la fecha de puesta en servicio; el tipo y fechas de realización de los trabajos de conservación o de rehabilitación del pavimento desde su construcción; y las inspecciones o estudios previos
+b) Entorno, se deberán analizar la sección transversal, pendiente y perfil longitudinal; las características de la subrasante; el drenaje y su comportamiento, con definición de las zonas de posible acumulación de agua superficial o subterránea; las condiciones climáticas de la zona; y la ubicación general del tramo; y
+c) Características de tránsito, se deberán analizar el volumen y composición del tránsito, fundamentalmente del pesado, incluyendo tasa de crecimiento, a partir de datos estadísticos, en caso de que éstos existan.
+ARTÍCULO 104. Evaluación del estado del pavimento y de su vida remanente.
+La evaluación del pavimento se realizará para obtener un diagnóstico de su estado físico, así como de las causas que originaron las fallas existentes, con el fin de establecer el método de rehabilitación más conveniente, dicha evaluación deberá considerar lo siguiente:
+a) Tipo de pavimento;
+b) Características del tránsito;
+c) Definición de tramos homogéneos; y
+d) Inspección visual.
+ARTÍCULO 105. Tipo de pavimento.
+Para la evaluación a que hace referencia el artículo 104 de esta Ley, y para efecto del cumplimiento de sus disposiciones, los pavimentos se clasificarán en:
+a) Flexibles, aquellos con estructuras formadas por capas de materiales granulares y capas de mezclas asfálticas con espesores inferiores a quince centímetros compactos;
+b) Semiflexibles, aquellos con estructuras formadas por capas de materiales granulares y que además contengan capas de mezclas asfálticas con espesores iguales o mayores a quince centímetros compactos;
+c) Semirrígidos, aquellos en los cuales la superficie de rodamiento esté construida con ligantes bituminosos, sobre capas de materiales estabilizados con aglomerantes
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+hidráulicos o puzolánicos, siendo el espesor conjunto de de estas capas de al menos dieciocho centímetros; y
+d) Rígidos, aquéllos que estén formados por capas granulares y capas de concreto hidráulico.
+ARTÍCULO 106. Características del tránsito.
+Para la evaluación a que hace referencia el artículo 104 de esta Ley, las características del tránsito se determinarán en función del volumen, la composición y la tasa de crecimiento del mismo.
+ARTÍCULO 107. Definición de tramos homogéneos.
+Para la evaluación a que hace referencia el artículo 104 de este Ley, deberán definirse tramos homogéneos de la vía en estudio. Dichos tramos homogéneos serán aquellos que presenten características similares en cuanto a estado de la superficie de rodamiento, la longitud mínima de cada tramo deberá ser de cien metros, y la longitud máxima será de cinco kilómetros.
+La obtención del estado superficial de la superficie de rodamiento se hará mediante una inspección visual, la cual permitirá obtener un inventario de fallas, el cual considerará el tipo, severidad y extensión de los daños superficiales.
+Para la determinación de tramos homogéneos además del estado de la superficie del pavimento se tomarán en cuenta entre otros datos, las características geométricas, la evaluación estructural, época de construcción, historial de reparaciones, condiciones de drenaje.
+La definición de tramos homogéneos se utilizará para la programación de los trabajos de campo necesarios, para conseguir muestras suficientemente representativas, y para el análisis de los datos disponibles, con el fin de establecer el posterior diagnóstico del estado del pavimento.
+En principio, se considerarán tramos homogéneos, salvo que se disponga de mayor información relativa al tipo de firme, a la naturaleza de la explanada o al clima, los que sean iguales en número de carriles; en la sección estructural del pavimento; en la fecha en que se realizaron trabajos de rehabilitación para reforzar la estructura del pavimento, sin tener en cuenta los tratamientos superficiales y sobrecarpetas con menor o igual que cuatro centímetros, ni el eventual fresado y reposición de capas asfálticas en zonas aisladas y localizadas; y en el volumen de tránsito pesado.
+ARTÍCULO 108. Inspección visual.
+Para la evaluación a que hace referencia el artículo 104 de esta Ley, la inspección visual del pavimento comprenderá aquéllos aspectos de su entorno que puedan influenciar su estado, tales como la morfología de la vialidad, las condiciones de drenaje y la capacidad de soporte de la subrasante y del terreno que la sustenta.
+En vías con más de un carril por sentido de circulación, se deberán inspeccionar no sólo los carriles exteriores, sino también el resto de la sección transversal.
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+En las vialidades con niveles de tráfico II y III conforme al Capítulo II de esta Ley, la inspección visual se complementará con la evaluación de la capacidad estructural del pavimento, mediante equipos que proporcionen información precisa y cuantitativa sobre sus características estructurales.
+ARTÍCULO 109. Exploración y muestreo.
+Una vez realizado el análisis de los datos básicos, la inspección visual y la auscultación con equipos, se inspeccionará la carretera confirmando el proceso de evaluación realizado y definiendo, la ubicación de los sondeos, la toma de muestras y los ensayos de laboratorio precisos para completar los datos anteriores. Tanto por razones de eficacia como para minimizar las repercusiones en la fluidez del tráfico y en la seguridad de la circulación vial, las evaluaciones complementarias se llevarán a cabo con equipos de alto rendimiento y no destructivos.
+Se deberá obtener información lo más precisa posible sobre:
+a) Espesor y las características de los materiales de las distintas capas del pavimento;
+b) Características mecánicas de las capas y la adherencia entre ellas;
+c) Características y capacidades de soporte de la subrasante y las terracerías; y
+d) Origen y extensión de los deterioros observados.
+El número y ubicación de los sondeos así como la cantidad de muestras que de ellos se obtengan dependerá de las características de cada tramo por estudiar, sin embargo, en todos los casos se hará un mínimo de dos sondeos, por hectárea medida en planta, ubicados mediante un procedimiento aleatorio. En los casos en que el tramo a estudiar tenga una superficie menor a 1.5 hectáreas se harán tres sondeos. Cada sondeo tendrá una profundidad tal que se descubran al menos treinta centímetros. por debajo del nivel inferior de la capa subrasante. De cada uno de los sondeos efectuados se obtendrá al menos una muestra de cada una de las capas que compongan la estructura de la vialidad.
+Al material producto de las muestras obtenidas se le efectuarán, al menos, los siguientes ensayos:
+a) Espesor de la capa;
+b) Grado de compactación;
+c) Sistema unificado de clasificación de suelos;
+d) Límites de plasticidad;
+e) Valor soporte de California;
+f) Equivalente de arena; y
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+g) Contenido de agua del lugar.
+Al material que compone las capas de base y sub-base adicionalmente se le harán ensayos para determinar el porcentaje de trituración y el porcentaje partículas alargadas y/o lajeadas.
+En caso de que el pavimento cuente con capas de mezcla asfáltica se deberá obtener al menos, el contenido de asfalto y la adherencia con el asfalto.
+ARTÍCULO 110. Diagnóstico sobre el estado del pavimento.
+Una vez recopilados los datos básicos de caracterización del pavimento y su entorno, la información se sintetizará en un diagnóstico que contendrá:
+I. Respecto al sentido horizontal de la vía se indicarán las distancias longitudinales;
+II. Respecto al sentido vertical se indicará:
+a) En general:
+1. Tránsito promedio diario anual;
+2. Características de las terracerías;
+3. Características de la subrasante;
+4. Ancho de calzada y de carriles;
+5. Morfología, que incluye corte, terraplén o balcón;
+6. Condiciones de drenaje y subdrenaje;
+7. Fecha y tipo de las acciones de mantenimiento; y
+8. Observaciones varias.
+b) Para cada carril:
+1. Resultados de la inspección visual;
+2. Sección estructural del pavimento;
+3. Medidas de deflexiones; y
+4. Resumen de resultados de laboratorio.
+III. Origen y causas de los deterioros existentes, diferenciando entre los que sean indicativos de un comportamiento estructural deficiente y aquellos otros que sólo afecten a la superficie del pavimento; y
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+IV. Cálculo de la vida remanente, en base a cuando menos dos métodos reconocidos para el diseño de pavimentos.
+ARTÍCULO 111. Análisis y selección del procedimiento más apropiado para determinar las alternativas de rehabilitación.
+Una vez establecido el diagnóstico sobre el estado de cada tramo homogéneo y el nivel de sus deterioros, se analizarán las soluciones de rehabilitación posibles y se proyectará la más apropiada en cada caso, de acuerdo con los criterios de esta norma, pudiendo ser superficial o estructural.
+ARTÍCULO 112. Proyecto de la solución elegida.
+El proyecto de la solución elegida deberá contener toda la información referida en las etapas de: recopilación y análisis de datos; evaluación del estado del pavimento y de su vida remanente; diagnóstico sobre el estado del pavimento; alternativas de rehabilitación, análisis y selección del procedimiento más apropiado.
+Cuando la solución elegida sea del tipo rehabilitación estructural, además de dicha información deberán presentarse planta, perfil y secciones de la solución, volúmenes de obra, especificaciones generales y particulares, procedimiento constructivo, plan de manejo del tráfico en la zona de trabajo, incluyendo el proyecto de señalamiento de protección de obra.
+ARTÍCULO 113. Rehabilitación superficial.
+Las alternativas de rehabilitación superficial se emplearán preferentemente cuando el estado del pavimento no haga necesaria la realización de una actuación de rehabilitación estructural, pero la superficie del pavimento presente deterioros que afecten a la seguridad de la circulación, a la comodidad del usuario o a la durabilidad del pavimento. También podrán ser utilizadas como un tratamiento de espera, para mejorar el servicio a los usuarios y evitar incrementos en los deterioros en tanto se programan las acciones de rehabilitación estructural que se requieran.
+ARTÍCULO 114. Rehabilitación estructural.
+Las alternativas de rehabilitación estructural serán:
+I. Eliminación parcial y reposición del pavimento existente, incluyendo la recuperación y/o el reciclado de los materiales. En este caso, se retirarán la capa o capas agotadas, o próximas a agotarse, hasta la profundidad necesaria, sustituyéndolas por otras de materiales adecuados, que deberán cumplir con los mismos requerimientos de calidad que para los pavimentos nuevos. Se podrán reutilizar los materiales del pavimento existente, siempre y cuando cumplan, por si mismo o mezclados con nuevos materiales o agentes estabilizadores con los requerimientos de calidad ya mencionados. Todas las mezclas en que se empleen materiales reciclados y/o recuperados deberán ser diseñadas por el laboratorio responsable del control de calidad de la obra y esos diseños deberán ser aprobados por la autoridad contratante de la obra. Las estructuras de pavimento de las alternativas de este tipo deberán estar contenidas en el catálogo de secciones estructurales de pavimento previstas en esta Ley, o bien ser diseñadas por un profesional responsable;
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+II. Incremento de espesor de la superficie de rodamiento. En este caso se colocará sobre el pavimento existente una o varias capas nuevas, elevando por tanto la cota de la superficie de la superficie de rodamiento. Para evaluar si esta opción es la más conveniente deberá tomarse en cuenta el efecto sobre el entorno del pavimento. Cuando se opte por este tipo de soluciones los espesores de refuerzo deberán ser diseñados por un profesional responsable, empleando al menos dos métodos de diseño reconocidos, considerando los datos de deflexiones y equivalencia estructural. Este tipo de soluciones no deberán emplearse sin que se hayan resuelto las causas de los deterioros existentes;
+III. Combinación de los dos tipos anteriores, conforme a dictamen de profesional responsable; y
+IV. Reconstrucción total del pavimento. En este caso, las estructuras de pavimento de las alternativas de este tipo deberán estar contenidas en el catálogo de secciones estructurales de pavimento contempladas en esta Ley, o bien ser diseñadas por un profesional responsable.
+ARTÍCULO 115. Proyecto de la solución elegida.
+Deberá hacerse un proyecto independiente para cada uno de los tramos homogéneos de comportamiento uniforme que se hayan determinado, basándose en la inspección visual y en la auscultación del pavimento y, en especial, en el estudio de las deflexiones.
+En caso de que dentro de los tramos homogéneos existan zonas aisladas con un problema específico, el proyecto deberá incluir la solución para esas zonas. Las alternativas de solución se definirán como alternativas de rehabilitación superficial y alternativas de rehabilitación estructural.
+Una vez seleccionadas las soluciones más apropiadas para los distintos tramos, se procederá a un análisis técnico y económico conjunto de todo el proyecto, teniendo en cuenta el tipo y los espesores de la rehabilitación; el estudio de los materiales a utilizar y sus dosificaciones; y la redacción de términos de referencia que aseguren entre otros aspectos, la calidad de los trabajos de rehabilitación, el modo de tratamiento de juntas, fisuras y grietas del pavimento existente, así como el procedimiento para resolver las zonas inestables, los sistemas de drenaje existentes y su eventual mejora.
+El proyecto de rehabilitación deberá incluir también un plan de manejo del tráfico en la zona de trabajo, incluyendo el proyecto de señalamiento de protección de obra. Antes del inicio de los trabajos deberá establecerse el procedimiento para la resolución de los problemas constructivos que puedan plantearse durante la ejecución de las obras.
+CAPÍTULO SEXTO CONTROL, INFRACCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+Artículo 116. Las autoridades administrativas estatales y municipales en el ámbito de su competencia, llevarán a cabo visitas de inspección para comprobar el
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+cumplimiento de las disposiciones de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, y demás disposiciones de carácter general en la materia.
+En todo lo relativo al control, infracciones, medidas de seguridad y sanciones, las autoridades aplicarán las normas de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León independientemente sin prejuicio de las responsabilidades que conforme a otros Códigos, Leyes, Reglamentos, Disposiciones administrativas de Observancia General y Normas Oficiales Mexicanas que correspondan.
+Los Profesionales Técnicos que intervengan en los actos a que se refiere esta Ley mediante su aval o firma, serán responsables en los términos de la legislación y serán reportados a las autoridades correspondientes y en su caso, tendrán la obligación de indemnizar por los daños y perjuicios causados, además se informará al Colegio de Profesionales al que pertenezca el infractor, para los efectos a que haya lugar.
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTÍCULO 117. La violación a las disposiciones de esta Ley, se sancionarán con multa de dos mil hasta diez mil Unidades de Medida y Actualización, cuya sanción se ejecutará conforme a la Ley de Responsabilidades Administrativas del Estado de Nuevo León. En caso de una obra ejercida con recursos públicos será aplicada al contratista y/o responsable técnico, supervisor responsable por parte del ejecutor de los trabajos; por detección de obra de mala calidad o por violación de las disposiciones previstas en esta Ley
+Los Municipios en el ámbito de su competencia llevarán el procedimiento y aplicarán multa de dos mil hasta diez mil Unidades de Medida y Actualización, a los particulares que realicen pavimentos en obras de urbanización reguladas por esta ley y que hubieren infringido sus disposiciones.
+(REFORMADO, P.O. 28 DE MAYO DE 2021)
+ARTÍCULO 118. Contra los actos y resoluciones de las autoridades administrativas estatales y municipales, los interesados afectados podrán interponer los medios de defensa previstos en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León, o intentar el juicio contencioso administrativo correspondiente.
+ARTÍCULO 119. Las responsabilidades que se deriven del incumplimiento de esta Ley se sancionarán sin perjuicio de las responsabilidades en que se incurra conforme a otras leyes.
+(REFORMADO, P.O. 09 DE DICIEMBRE DE 2010) Cuando se determine administrativa, civil o penalmente el incumplimiento de las obligaciones a cargo del laboratorio certificado o del profesional responsable, la Secretaría revocará la certificación otorgada, sin que ésta pueda volver a ser expedida a favor del infractor en por lo menos cinco años.
+T R A N S I T O R I O S
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+Primero.- La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Estado.
+Segundo.- Se abroga el Reglamento de Pavimentos, publicado en el Periódico Oficial del Estado de fecha 6 de octubre de 2003.
+Tercero.- Las obras de pavimentación que a la fecha de entrada en vigor de la presente Ley se encuentren aprobadas o en ejecución, se concluirán en los términos que se hubieren autorizado.
+Cuarto.- La Agencia contará con un plazo máximo de un año a partir de la entrada en vigor de esta Ley, para emitir las Normas Técnicas Estatales a que se refieren los artículos 6 y 7 de la misma, mientras tanto, sólo podrán fungir como laboratorios acreditados, aquéllos que cuenten con certificación emitida por la Secretaría de Comunicaciones y Transportes del Gobierno Federal, conforme a la Norma N-CAL-2-05- 001/05 emitida por dicha Secretaría, del mismo modo, solo podrán fungir como profesionales responsables, las personas que cuenten con estudios en ingeniería civil con la respectiva cédula profesional y certificado de estudios emitido por institución de educación superior que los acrediten como especialistas en vías terrestres.
+Quinto.- Los Municipios ajustarán la reglamentación con que cuenten en esta materia, en un plazo de seis meses contados a partir de la entrada en vigor de la presente Ley.
+Sexto.- En un plazo no mayor a noventa días hábiles a partir de la entrada en vigor de la presente Ley, el Consejo Técnico deberá aprobar, a propuesta de la Agencia, su Reglamento Interior a que se refiere el Artículo 9 de esta Ley.
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta y un días del mes de agosto de 2009. PRESIDENTE: DIP. ÁNGEL VALLE DE LA O; DIP. SECRETARIO RICARDO PARÁS WELSH; DIP. SECRETARIA POR MINISTERIO DE LEY: MARÍA ELISA IBARRA JOHNSTON. RUBRICAS.
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su capital a los 3 días del mes de septiembre del año 2009.
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN JOSE NATIVIDAD GONZÁLEZ PARAS
+EL C. SECRETARIO GENERAL DE GOBIERNO JORGE CANTÚ VALDERRAMA
+EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO RUBÉN EDUARDO MARTÍNEZ DONDÉ
+EL C. SECRETARIO DE OBRAS PÚBLICAS
+LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO
+LOMBARDO VICTORIANO GUAJARDO GUAJARDO
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN EL PRESENTE ORDENAMIENTO JURÍDICO.
+P.O. 24 DE JULIO DE 2010. DEC. 86
+Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Segundo.- Las Normas Técnicas Estatales a que se refiere el artículo 20 de la Ley que se reforma, deberán ser publicadas en el Periódico Oficial del Estado de Nuevo León antes de la entrada en vigor del presente Decreto, mientras tanto, las Dependencias, Organismos y demás Autoridades que corresponda, deberán continuar aplicando en todos sus términos y condiciones, el catálogo de secciones de pavimento establecido en dicho artículo.
+P.O. 09 DE DICIEMBRE DE 2010. DEC. 128
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+P.O. 28 DEMAYO DE 2021. DEC. 375. ARTS. 1, 2, 3, 4, 7, 116, 117 Y 118.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Los Ayuntamientos de los Municipios tendrán un plazo de noventa días naturales contados a partir de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo

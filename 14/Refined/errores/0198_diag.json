@@ -1,0 +1,33 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 151,
+  "n_perm_fracciones": 436,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Principios",
+    "Capítulo II Deberes",
+    "Capítulo I Derechos de acceso, rectificación, cancelación y oposición",
+    "Capítulo II Ejercicio de los derechos de acceso, rectificación, cancelación y oposición",
+    "Capítulo III Portabilidad de los datos",
+    "Capítulo Único",
+    "Capítulo Único",
+    "Capítulo I Mejores prácticas",
+    "Capítulo II Bases de datos en posesión de instancias de seguridad, procuración y administración de justicia",
+    "Capítulo I Comité de Transparencia",
+    "Capítulo II Unidad de Transparencia",
+    "Capítulo I Atribuciones",
+    "Capítulo II Coordinación y promoción del derecho a la protección de datos personales",
+    "Capítulo I Disposiciones comunes a los recursos de revisión y recursos de inconformidad",
+    "Capítulo II Recurso de revisión ante el Instituto",
+    "Capítulo Único",
+    "Capítulo Único",
+    "Capítulo I Medidas de apremio",
+    "Capítulo II Infracciones y Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 20
+  }
+}

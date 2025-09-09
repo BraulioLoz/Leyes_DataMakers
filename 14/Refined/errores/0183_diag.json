@@ -1,0 +1,27 @@
+{
+  "n_chapters": 14,
+  "n_perm_articles": 40,
+  "n_perm_fracciones": 245,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único Disposiciones Generales",
+    "Capítulo I De los principios",
+    "Capítulo II De los derechos",
+    "Capítulo I De la familia",
+    "Capítulo II De la participación de la sociedad",
+    "Capítulo I De los objetivos",
+    "Capítulo II De las autoridades estatales",
+    "Capítulo III De la Secretaría del Sistema de Asistencia Social",
+    "Capítulo IV De la Secretaría de Educación",
+    "Capítulo V De la Secretaría de Salud",
+    "Capítulo VI De la Procuraduría Social",
+    "Capítulo VII Del Sistema Estatal para el Desarrollo Integral de la Familia de Jalisco",
+    "Capítulo VIII De los ayuntamientos, los organismos públicos y privados",
+    "Capítulo Único De las sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 14
+  }
+}

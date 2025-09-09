@@ -1,0 +1,18 @@
+Errores y advertencias para: 0022.txt
+==================================================
+
+Ubicación: line 310
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 28 a 30
+Línea: Artículo 30.- En la planeación del desarrollo forestal, la Corporación, elaborará un Programa Estatal Forestal, en el que se considerará la problemática actual del sector y se indicará las alternativas de solución al mismo.
+------------------------------
+Ubicación: line 326
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 34 a 36
+Línea: Artículo 36.- Los gobiernos municipales coadyuvarán con la Corporación en los términos que prevea el Reglamento de esta Ley, para la realización y actualización del Inventario Estatal Forestal y de Suelos.
+------------------------------
+Ubicación: line 574
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 87 a 89
+Línea: Artículo 89 Bis 24.- La operación y administración de los Centros Municipales e Intermunicipales de Manejo del Fuego, se regirá por la metodología del Sistema de Comando de Incidentes y Mando Unificado, según se establezca en las normas oficiales mexicanas.
+------------------------------

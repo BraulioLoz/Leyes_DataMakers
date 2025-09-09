@@ -1,0 +1,8 @@
+Errores y advertencias para: 0056.txt
+==================================================
+
+Ubicación: line 93
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 13 a 15
+Línea: Artículo 15.- El Estado, a través de la Secretaría del Trabajo, promoverá los derechos laborales y ofrecerá programas de capacitación laboral y de empleo entre los indígenas y afromexicanos.
+------------------------------

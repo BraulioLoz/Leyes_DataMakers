@@ -1,0 +1,682 @@
+{
+  "0268.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto:\nNÚMERO 24950/LX/14 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO.",
+    "Año_publicación": 2014,
+    "Título": "Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente ley tiene por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fomentar las actividades que llevan a cabo las organizaciones de la sociedad civil, las agrupaciones y redes registradas mediante una normatividad integral que propicie condiciones para el ejercicio pleno de la libertad de las personas y grupos que integran la sociedad. Asimismo, estimular su participación en la vida social, económica, política y cultural de la entidad, como lo establece el artículo 15 de la Constitución Política del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la participación de las organizaciones, agrupaciones y redes en la definición de agenda, así como en la elaboración, construcción colectiva, implementación y evaluación de políticas públicas con relación a las actividades que señala la presente Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer los derechos y obligaciones que tienen las organizaciones, agrupaciones y redes conforme a esta Ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Se deroga; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer las facultades y coordinación interinstitucional de las autoridades que la aplicarán y los órganos que coadyuvarán en ello."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de esta Ley se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Agrupaciones: colectivos de ciudadanos organizados sin estar constituidos legalmente, cuyas actividades cumplan con lo establecido por el artículo 3 de la presente\nLey;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Comité: el Comité para el Fomento y Participación de las Organizaciones de la Sociedad Civil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomento: reconocimiento y apoyo a las actividades de las organizaciones de la sociedad civil, agrupaciones y redes registradas mediante los mecanismos establecidos en la presente Ley;\nLey: la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ley Federal: la Ley Federal de Fomento a las Actividades realizadas por Organizaciones de la Sociedad Civil;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Organizaciones de la sociedad civil: agrupaciones autónomas de la ciudadanía, formal y legalmente constituidas, cuyas actividades cumplan con lo establecido por el artículo 3 de la Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Participación: presencia activa de las organizaciones de la sociedad civil, agrupaciones y redes registradas en el proceso de construcción social de las políticas públicas, de conformidad con el artículo 1 fracción II de la Ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Redes registradas: agrupaciones no constituidas legalmente, integradas por organizaciones de la sociedad civil o por éstas y agrupaciones, mediante la suscripción de un convenio de adhesión mutua que se presenta al Comité, que se plantean un objetivo y un plan de trabajo en común, el cual supera los planes de trabajo que cada una se plantea en lo individual;\nRegistro Estatal: el Registro Estatal de las Organizaciones de la Sociedad Civil, a cargo del Comité; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Registro Federal: el Registro Federal de las Organizaciones de la Sociedad Civil."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Las actividades realizadas por las organizaciones de la sociedad civil, agrupaciones y redes que se reconocen como de interés público, son aquellas orientadas a mejorar la calidad de vida de la ciudadanía, el ejercicio pleno de sus derechos humanos, la participación y el acceso a bienes y servicios públicos, así como la promoción e investigación del desarrollo democrático, conforme lo establecen:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Ley Federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Ley del Impuesto sobre la Renta, en lo aplicable a las organizaciones reguladas por esta Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Código de Asistencia Social del Estado de Jalisco;\nLo que se derive del artículo 34 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las que establezcan las demás disposiciones aplicables en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De los Derechos y Obligaciones de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes Registradas",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "Son derechos de las organizaciones de la sociedad civil, agrupaciones y redes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Inscribirse en el Registro Estatal. En caso de estar inscrito en el Registro Federal, éste se le reconocerá y se le incorporará en el Registro Estatal, por lo que no será necesario llevar a cabo un nuevo trámite de registro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener representación ante el Comité en los términos de esta Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar de las acciones de fomento por parte de los tres poderes del Estado, los organismos públicos autónomos y los municipios, o de otros organismos designados por el Comité para tal efecto, de conformidad con lo establecido en la presente ley;\nAcceder, en igualdad de circunstancias, a los recursos, estímulos fiscales, exenciones, apoyos económicos y administrativos por parte de los tres poderes del Estado, los organismos públicos autónomos y sus municipios, así como los acordados o convenidos con la federación para la realización de sus actividades, de conformidad con las disposiciones legales aplicables en la materia.\nLas agrupaciones podrán acceder a lo establecido en el párrafo anterior a través de las organizaciones de la sociedad civil que constituyan una red registrada;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover y participar en mecanismos de observación y contraloría social;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer a los tres Poderes del Estado, organismos públicos autónomos y a los municipios políticas públicas relacionadas con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Llevar a cabo proyectos que acuerden con los Poderes del Estado o sus municipios, que estén relacionados con el fomento y desarrollo de las actividades a que se refiere el"
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "e la presente Ley;",
+            "Fracciones": [
+              {
+                "Fracción": "VIII",
+                "Texto": "Formar parte de los órganos de participación y consulta instaurados por la administración pública estatal y municipal, en las áreas vinculadas con las actividades referidas en el artículo 3 de la Ley;\nParticipar en el diseño y aplicación de políticas y normas para el ejercicio de recursos públicos destinados al fortalecimiento y participación de las organizaciones de la sociedad civil; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que les otorguen otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Para acceder a los derechos señalados en el artículo anterior, las organizaciones de la sociedad civil, agrupaciones y redes deben cumplir con las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Abstenerse de solicitar, aceptar o recibir, por sí o por interpósita persona, un lucro mediante bien, utilidad o provecho con las actividades que desempeña y, en su caso, el ejercicio de los recursos públicos que recibiera, para sí o para personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No perseguir fines de proselitismo político-electoral, sindical, partidista o religioso;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Integrar a la población beneficiaria de forma incluyente de acuerdo a su perfil según su objeto social, evitando cualquier tipo de discriminación, e incorporando medidas de participación corresponsable en el desempeño de las actividades de la organización, agrupación o red registrada, de conformidad con las disposiciones legales aplicables;\nEstar activo en el Registro Estatal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Destinar los recursos públicos que reciban al cumplimiento de las actividades que señala el artículo 3 de la Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cumplir con las obligaciones de presentación de información, de conformidad con las disposiciones legales aplicables y los lineamientos que establezca la instancia que aporta los recursos públicos, así como sobre el manejo y uso de los mismos, de conformidad con la legislación en materia de transparencia y acceso a la información pública del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que señalen otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "El Registro Estatal será público y tendrá por objeto inscribir la información de las organizaciones de la sociedad civil, agrupaciones y redes para facilitar el acceso a las acciones de fomento y de recursos públicos.\nFormarán parte del Registro Estatal en forma automática, las organizaciones de la sociedad civil que cuenten con alguno de los siguientes registros:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Registro Federal o Clave Única de Inscripción; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Reconocimiento otorgado por el Consejo Jalisciense de Asistencia Social."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Las organizaciones de la sociedad civil, para su inscripción formal ante el Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acta constitutiva;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Identificación oficial vigente del representante legal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cédula de inscripción al Registro Federal de Contribuyentes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Comprobante de domicilio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Instrumentos notariales o actas protocolizadas; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Documento notariado vigente que acredite la personalidad del representante de la organización."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "La inscripción de las agrupaciones al Registro Estatal las hará objeto de fomento, les permitirá participar en alianza mediante la figura de redes registradas y el acceso a recursos públicos.\nLas agrupaciones, para inscribirse al Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Oficio de solicitud para el trámite de la inscripción al Registro Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ficha descriptiva de la agrupación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Resumen curricular en el que se describa el impacto de la agrupación, programas en los que ha participado y número y tipo de beneficiarios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Listado de los integrantes de la agrupación; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Domicilio y datos de contacto para recibir notificaciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Las redes registradas, para inscribirse al Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convenio de adhesión mutua aprobado por el Comité; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los datos de registro de la organización de la sociedad civil que integra la red y la representará."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Una vez recibida la información a la que hacen referencia los artículos 5 Ter, 5 Quáter y 5 Quinquies por la Secretaría Ejecutiva, ésta la someterá a consideración del Comité para su aprobación.\nLa Secretaría Ejecutiva, una vez autorizado el registro por el Comité, expedirá constancia de registro.\nLa Secretaría Ejecutiva, para corroborar el estatus de activo de las organizaciones de la sociedad civil, agrupaciones y redes, mantendrá actualizado el Registro Estatal, por lo que cada año les solicitará información para corroborar que continúen las mismas condiciones o, en su caso, se actualicen los datos.\nEn caso de no continuar las condiciones, el interés o exista incumplimiento de las obligaciones, se procederá a la baja del registro con aprobación del Comité.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "El Comité es un órgano de vinculación entre los tres Poderes del Estado y sus municipios, y las organizaciones, agrupaciones y redes registradas, encargado de la elaboración del Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil y de la consulta, opinión, asesoría, propuesta, seguimiento y evaluación de los planes, políticas públicas y proyectos relacionados con el desarrollo de las actividades a que se refiere esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "El Comité se integra de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La o el titular de la Secretaría del Sistema de Asistencia Social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La o el Diputado Presidente de la Comisión de Participación Ciudadana, Transparencia y Ética en el Servicio Público del Poder Legislativo del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Presidente del Supremo Tribunal de Justicia del Estado de Jalisco;\nEl Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Se deroga;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Se deroga."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dos Presidentes Municipales de los municipios de conforman el Área Metropolitana de Guadalajara, elegido por orden alfabético en función del nombre del municipio, el cual durará en su cargo dos años;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cinco titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en el Área Metropolitana de Guadalajara, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Cuatro titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en municipios distintos del Área Metropolitana de Guadalajara, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Tres representantes académicos de universidades con reconocimiento y validez oficial en el Estado de Jalisco, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "La o el titular del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "La o el titular de la Coordinación Estratégica del Gabinete Social del Poder Ejecutivo del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "La o el titular de la Secretaría de Planeación y Participación Ciudadana del Poder\nEjecutivo del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Un Secretario Ejecutivo.\nLos miembros del Comité establecidos en las fracciones VIII y IX del presente artículo serán designados de conformidad con el Reglamento Interno del Comité.\nAdicionalmente, por invitación del Comité, se podrá incorporar a uno o más Presidentes Municipales de municipios del interior del Estado.\nEl Comité podrá invitar a sus sesiones a aquellas personas que considere necesarios para el cumplimiento de sus atribuciones, quienes tendrán derecho a voz pero no a voto."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "El cargo como miembro del Comité es honorífico y, por lo tanto, no remunerado, con excepción del Secretario Ejecutivo quien tendrá el carácter de servidor público y dependerá administrativamente de la Secretaría del Sistema de Asistencia Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Cada miembro del Comité tendrá derecho a voz y voto, con excepción del Secretario Ejecutivo, quien contará solo con voz. Las decisiones del Comité se toman por mayoría de votos de los presentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Cada representante titular del Comité podrá designar a un solo suplente, el cual deberá ser de un nivel jerárquico similar o inmediato inferior al del titular. El suplente tendrá voz y voto únicamente en ausencia del titular y no podrá designar a nadie en su representación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "El Comité debe designar, de entre los titulares de las organizaciones de la sociedad civil, a quien ostentará la Presidencia del mismo, quien durará en el cargo un año, debiéndose elegir en la primera sesión ordinaria del año calendario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Para la elección de las organizaciones de la sociedad civil que conformarán el Comité, éste realizará una convocatoria pública a organizaciones que acrediten tener, por lo menos, tres años inscritas en el Registro Estatal.\nDe entre las organizaciones que cumplan con los requisitos de la convocatoria, el Comité elegirá por mayoría de votos a los representantes del Comité.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Comité sesionará de manera ordinaria, por lo menos, una vez cada dos meses, y de manera extraordinaria las veces que sea necesario.\nEn los casos en que no sea posible la presencia física de los integrantes del Comité en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.\nLa convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.\nEn caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "El Comité contará con recursos que serán asignados en el presupuesto de egresos del Estado de Jalisco, para la realización de las actividades derivadas de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El Comité tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar propuestas de políticas públicas a las dependencias de los tres Poderes del Estado y sus municipios, en lo que se refiere a las actividades señaladas por el artículo 3 de esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asesorar a las instancias de los tres Poderes del Estado y sus municipios, en la realización de los planes y programas que se implementen para el desarrollo del fomento y de la participación conforme lo establece la Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Opinar sobre los mecanismos y políticas empleados para otorgar a las organizaciones de la sociedad civil los recursos públicos, conforme lo establece el capítulo IV de esta Ley;\nProponer modificaciones, ante las autoridades competentes, a las disposiciones legales aplicables en la materia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer las medidas que permitan el funcionamiento adecuado del Registro Estatal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Imponer las sanciones a las organizaciones de la sociedad civil, agrupaciones y redes por el incumplimiento de las obligaciones establecidas por esta Ley, previa propuesta que presente el Secretario Ejecutivo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Elaborar y expedir su Reglamento Interno;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Elaborar y dar seguimiento al Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil;\nElaborar su plan de trabajo anual y su anteproyecto de presupuesto de egresos; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le otorguen otras disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Presidente del Comité tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convocar a las reuniones ordinarias y extraordinarias del Comité;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar legalmente, junto con el Secretario Ejecutivo, al Comité;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Someter, a consideración del Comité, una terna de candidatos para titular de la Secretaría Ejecutiva y, en su caso, al equipo de trabajo del Secretariado, lo anterior de conformidad con la disponibilidad presupuestal. Dicho Secretario Ejecutivo durarán en su cargo dos años, pudiendo ser ratificado por una sola vez;\nConducir las sesiones del Comité;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Elaborar el proyecto de presupuesto y someterlo a consideración del Comité, para su posterior remisión a la autoridad correspondiente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Contar con voto de calidad en caso de empate; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que el Comité le asigne."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "La Secretaría Ejecutiva tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Organizar la creación y funcionamiento del Registro Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Levantar las actas de sesión del Comité;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Vigilar que las organizaciones de la sociedad civil, agrupaciones y redes inscritas en el Registro Estatal cumplan las obligaciones derivadas de esta Ley, de conformidad con la Ley del Procedimiento Administrativo del Estado de Jalisco;\nProponer al Comité las sanciones aplicables a las organizaciones por incumplimiento de las obligaciones derivadas de esta Ley, previo procedimiento administrativo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Realizar las gestiones necesarias para el debido funcionamiento del Comité y el cumplimiento de los fines de la Ley; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que les sean asignadas por el Comité."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Para ser Secretario Ejecutivo se deberán cumplir los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano y que no haya adquirido otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener treinta años de edad o más, el día de la designación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Poseer al día de la designación, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que le permita el desempeño de sus funciones;\nGozar de buena reputación y no haber sido condenado por delito doloso;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la designación; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cinco años anteriores a la designación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Fomento de las Organizaciones de la Sociedad Civil",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "Las autoridades estatales y municipales fomentarán a las organizaciones de la sociedad civil a través de los siguientes mecanismos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Capacitación y asesoría para la profesionalización e institucionalización;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Apoyos y estímulos fiscales, de conformidad con las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Simplificación de trámites administrativos;\nReducción de cobros por servicios públicos, de conformidad con la legislación aplicable;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acciones de defensoría y representación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Designar un área o responsable permanente de enlace con organizaciones de la sociedad civil; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El acceso mediante las modalidades disponibles, a proyectos o fondos públicos."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Los tres Poderes del Estado, sus dependencias y los organismos públicos autónomos, así como los municipios, fomentarán las actividades de las organizaciones de la sociedad civil, agrupaciones y redes; y en su caso, podrán otorgar recursos públicos a las organizaciones de la sociedad civil y redes registradas para las actividades contempladas en el artículo 3 de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Para otorgar recursos públicos a las organizaciones de la sociedad civil y redes, los tres Poderes del Estado y sus dependencias, los organismos públicos autónomos, y los municipios deberán utilizar los criterios y mecanismos que aseguren:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Condiciones de acceso igualitarias y equitativas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Transparencia en el proceso de selección;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Difusión a través del Periódico Oficial “El Estado de Jalisco”, de las gacetas\nmunicipales y, en su caso, de los diarios de mayor circulación estatal. De igual forma, los criterios y mecanismos serán dados a conocer a las organizaciones registradas a través del Comité;\nImparcialidad en el dictamen para otorgar los recursos, así como que los mismos estén debidamente fundados y motivados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar un tiempo de por lo menos treinta días naturales para cumplir con los requerimientos establecidos; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Claridad de los criterios técnicos por los cuales se otorgan recursos."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Para el otorgamiento de recursos públicos a organizaciones de la sociedad civil y redes, las dependencias de la administración pública estatal deberán contar con reglas de operación la cuales incluirán dentro de sus bases el mecanismo de convocatoria, de conformidad con las disposiciones legales aplicables.\nSe exceptúa de lo anterior las asignaciones directas que establezca el Presupuesto de Egresos correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Las redes registradas podrán acceder a recursos públicos siempre y cuando cumplan con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Contar entre sus integrantes, por lo menos, con una organización de la sociedad civil; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En el caso de las redes, formalizarse mediante convenio de adhesión mutua aprobado por el Comité, el cual deberá contener, al menos, lo siguiente:\na) Denominación de la Red;\nb) Objeto y duración;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Nombre de las organizaciones y agrupaciones, integrantes y sus respectivos representantes;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Datos generales del contacto de las organizaciones y agrupaciones;\ne) Designación de la organización de la sociedad civil que fungirá como representante y administradora responsable solidaria en caso de recibir recursos públicos;\nf) Estructura y operación; y\ng) Causas y mecanismos de rescisión anticipada."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De las Sanciones",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "Las organizaciones de la sociedad civil, agrupaciones y redes que incumplan algunas de las obligaciones a que se refiere esta Ley se harán acreedores a las siguientes sanciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Apercibimiento por escrito en caso de que las organizaciones incumplan, por primera ocasión, con las obligaciones previstas por las fracciones IV y VI del artículo 5 de esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Suspensión del registro, hasta por un año, en caso de que las organizaciones incumplan con las obligaciones previstas por las fracciones I, II, III y V del artículo 5 de esta Ley, o reincidan en el incumplimiento de las obligaciones previstas en la fracción anterior; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cancelación definitiva del registro en caso de reincidencia por parte de las organizaciones que incumplan con las obligaciones previstas en la fracción anterior."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Para efectos del presente capítulo, se entiende que existe reincidencia cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de un año, contado a partir del día en que se cometió la primera infracción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "El Comité, previo dictamen del Secretario Ejecutivo, valorará la obligación incumplida y emitirá resolución fundada y motivada de la sanción aplicable.\nEn el caso de suspensión del registro, para la determinación del tiempo en que ésta dure, debe atenderse la gravedad del hecho.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "La suspensión temporal o la cancelación definitiva del registro, impiden a las organizaciones el disfrute de los derechos que establece esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Si la cancelación definitiva del registro se debió a causas imputables a los representantes legales o asociados de la organización, éstos no podrán solicitar el registro para el reconocimiento de alguna nueva organización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Las sanciones previstas por esta Ley para las organizaciones son independientes de las del orden civil o penal a que haya lugar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De los Medios de Defensa",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "En contra de las resoluciones emitidas conforme a esta Ley proceden los recursos administrativos que prevé la Ley del Procedimiento Administrativo del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Comité deberá quedar conformado dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Por primera y única ocasión, dentro de los siguientes sesenta días posteriores a la entrada en vigor del presente Decreto, para la instalación e integración del Comité, los miembros señalados en las fracciones I a VII del artículo 7, procederán a designar a los representantes de la fracción X del mencionado artículo. Una vez realizada dicha designación el Comité procederá a nombrar a los titulares representantes de las organizaciones de la sociedad civil a los que hace referencia el artículo antes mencionado en sus fracciones VIII y IX, con base en un listado de organizaciones generado mediante convocatoria publicada en el Periódico Oficial “El Estado de Jalisco” y en dos medios de mayor circulación, en la que se establecerán, al menos, requisitos de antigüedad, Registro Federal o ante autoridades estatales, representatividad, y los demás que consideren en la convocatoria.\nPara los efectos anteriores, el Secretario de Desarrollo e Integración Social podrá nombrar a un Secretario Ejecutivo de manera provisional, para que auxilie al Comité en los trabajos de su integración.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "El Comité deberá expedir su Reglamento Interno dentro de los sesenta días naturales siguientes a su instalación.\nSALON DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO. 17 DE JULIO DE 2014\nDiputado Presidente JOSÉ CLEMENTE CASTAÑEDA HOEFLICH\nDiputada Secretaria Diputada Secretaria\nVERÓNICA DELGADILLO GARCIA AVELINA MARTÍNEZ JUÁREZ (rúbrica) (rúbrica)\nPROMULGACIÓN DEL DECRETO 24950/LX/14, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, EN EL ESTADO DE JALISCO, APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 17 DE JULIO DE 2014.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido\ncumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 15 quince días del mes de agosto de 2014 dos mil catorce.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ\nEl Secretario General de Gobierno ROBERTO LÓPEZ LARA TABLA DE REFORMAS Y ADICIONES\nDECRETO 27838/LXII/20.- Se reforman los artículos 3, 7 y 8 de la Ley para el Fomento y Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco.- Oct. 3 de 2020 sec. V.\nDECRETO 27973/LXII/20.- Se reforman los artículos 3, 7 y 8 de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco.- Oct. 3 de 2020 sec. V.\nDECRETO 28006/LXII/20.- Se reforma el artículo 18 de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco.- Nov. 21 de 2020 sec. III.\nDECRETO 28311/LXII/21.- Se reforman los artículos 1, 2, 4, 5, 7, 10, 11, 15 y 20; y se adicionan los artículos 5 Bis, 5 Ter, 5 Quáter, 5 Quinquies y 5 Sexies a la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco.- Mar. 11 de 2021 sec. IV.\nDECRETO 28406/LXII/21.- Se reforma el artículo 13 de la Ley para el Fomento y Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco.- Julio 6 de 2021 Secc. IV\nLEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, EN EL ESTADO DE JALISCO\nAprobación: Jul. 17 de 2014\nPublicación: Ago. 16 de 2014 sección VIII\nVigencia: Ago. 17 d 2014.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

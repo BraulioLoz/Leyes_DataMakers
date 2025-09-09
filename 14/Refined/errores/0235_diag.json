@@ -1,0 +1,24 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 21,
+  "n_perm_fracciones": 143,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo único Objeto y definiciones",
+    "Capítulo I Atribuciones",
+    "Capítulo II Organización de la Agencia",
+    "Sección I Junta de Gobierno",
+    "Sección II Del Director General",
+    "Sección II Bis. Del Comité Interno de Valoración",
+    "Sección III Del Órgano de vigilancia",
+    "Sección IV Del Consejo consultivo",
+    "Capítulo III Del Patrimonio",
+    "Capítulo IV Del régimen laboral"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 5
+  }
+}

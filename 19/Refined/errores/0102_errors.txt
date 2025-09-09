@@ -1,0 +1,13 @@
+Errores y advertencias para: 0102.txt
+==================================================
+
+Ubicación: line 114
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 23 a 25
+Línea: Artículo 25.- Estará a cargo de los Oficiales extender las actas relativas a:
+------------------------------
+Ubicación: line 153
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 40 a 42
+Línea: Artículo 42.- Son funciones del Titular del Archivo Estatal del Registro Civil:
+------------------------------

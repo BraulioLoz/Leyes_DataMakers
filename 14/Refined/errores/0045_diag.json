@@ -1,0 +1,28 @@
+{
+  "n_chapters": 15,
+  "n_perm_articles": 42,
+  "n_perm_fracciones": 164,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Del ámbito de validez y objeto de la Ley",
+    "Capítulo II Glosario y abreviaturas",
+    "Capítulo III De las Autoridades en la Materia",
+    "Capítulo IV Objetivos específicos",
+    "Capítulo I De la Agenda Única para el Emprendimiento",
+    "Capítulo II Del Consejo Estatal para el Fomento al Emprendimiento en el Estado de Jalisco",
+    "Capítulo I De las Acciones en Materia de Educación y Atracción de Talento",
+    "Capítulo II De las acciones en materia de vinculación",
+    "Capítulo III De las acciones en materia de subsidios y apoyo económico",
+    "Capítulo IV De las acciones en materia regulatoria",
+    "Capítulo I De la Plataforma Jalisco de Emprendimiento",
+    "Capítulo II Del Premio Jalisco al Emprendedor",
+    "Capítulo III De las Reglas para las Compras Públicas a Emprendedores",
+    "Capítulo Único De los Plan Regionales",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 15
+  }
+}

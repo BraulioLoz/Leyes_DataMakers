@@ -1,0 +1,30 @@
+{
+  "n_chapters": 16,
+  "n_perm_articles": 73,
+  "n_perm_fracciones": 181,
+  "n_trans_caps": 1,
+  "n_trans_articles": 13,
+  "n_trans_fracciones": 39,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Del Objeto, Fines y Atribuciones del Instituto",
+    "Sección Primera De la Estructura",
+    "Sección Segunda De la Junta de Gobierno",
+    "Sección Tercera Del Órgano de Control",
+    "Sección Cuarta De la Dirección General",
+    "Sección Quinta De las Unidades Académicas",
+    "Capítulo I De los Programas Educativos",
+    "Capítulo II De la Infraestructura y Servicios de Apoyo",
+    "Capítulo I Del Personal del Instituto",
+    "Capítulo II Del Personal Académico",
+    "Capítulo II Del Personal Administrativo",
+    "Capítulo III De los Estímulos y Sanciones",
+    "Capítulo I Del Patrimonio del Instituto",
+    "Capítulo II Del Patronato del Instituto",
+    "Capítulo III Órganos Colegiados y auxiliares"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 11,
+    "SECCIÓN": 5
+  }
+}

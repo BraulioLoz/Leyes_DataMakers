@@ -1,0 +1,21 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 17,
+  "n_perm_fracciones": 33,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "TITULO PRIMERO Disposiciones Generales",
+    "Capítulo Primero Investigación y proceso",
+    "Capítulo Segundo Solicitud de información",
+    "Capítulo Tercero Medidas Extraordinarias",
+    "Capítulo Cuarto Intervención de las Comunicaciones",
+    "Capítulo Quinto Aseguramiento de Bienes y Derechos",
+    "Capítulo Sexto Reglas Especiales de Valoración de pruebas"
+  ],
+  "chapter_kind_breakdown": {
+    "TÍTULO": 1,
+    "CAPÍTULO": 6
+  }
+}

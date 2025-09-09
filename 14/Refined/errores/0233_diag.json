@@ -1,0 +1,22 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 23,
+  "n_perm_fracciones": 72,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO OBJETO Y DISPOSICIONES",
+    "CAPÍTULO I ESTRUCTURA Y ATRIBUCIONES",
+    "CAPÍTULO II DE LA JUNTA DE GOBIERNO",
+    "CAPÍTULO III DE LA DIRECCIÓN GENERAL",
+    "CAPÍTULO IV DE LA ESTRUCTURA ORGÁNICA DE LA AGENCIA",
+    "CAPÍTULO V DEL CONSEJO CONSULTIVO",
+    "TÍTULO TERCERO DEL ÓRGANO INTERNO DE CONTROL",
+    "TÍTULO CUARTO DEL RÉGIMEN LABORAL"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "TÍTULO": 2
+  }
+}

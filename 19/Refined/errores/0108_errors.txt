@@ -1,0 +1,18 @@
+Errores y advertencias para: 0108.txt
+==================================================
+
+Ubicación: line 17
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 2 a 4
+Línea: ARTICULO 4o.- EN LOS TÉRMINOS DE LA LEY GENERAL DE SALUD Y DE LA PRESENTE LEY, CORRESPONDE AL ESTADO:
+------------------------------
+Ubicación: line 177
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 20 a 27
+Línea: ARTÍCULO 27 DE LA LEY GENERAL DE SALUD.
+------------------------------
+Ubicación: line 870
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 132 a 134
+Línea: ARTÍCULO 134.- SE SANCIONARÁ CON MULTA EQUIVALENTE DE 50 A 500 UNIDADES DE MEDIDA Y ACTUALIZACIÓN (UMA) VIGENTE, LA VIOLACIÓN DE LAS
+------------------------------

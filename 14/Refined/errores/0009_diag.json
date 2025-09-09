@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 24,
+  "n_perm_fracciones": 35,
+  "n_trans_caps": 1,
+  "n_trans_articles": 23,
+  "n_trans_fracciones": 15,
+  "chapter_labels": [
+    "Capítulo I De los Principios y Garantías Penales",
+    "Capítulo II De la aplicación territorial del Código",
+    "Capítulo III De la aplicación temporal del Código",
+    "Capítulo IV De la aplicación personal del Código",
+    "Capítulo V Concurso aparente de normas",
+    "Capítulo I Reglas Generales sobre Delitos y Responsabilidades de los Partícipes",
+    "Capítulo II De la Tentativa",
+    "Capítulo III De las Personas Responsables de los Delitos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

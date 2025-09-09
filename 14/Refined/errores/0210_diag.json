@@ -1,0 +1,29 @@
+{
+  "n_chapters": 16,
+  "n_perm_articles": 112,
+  "n_perm_fracciones": 459,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Del Objeto de la Ley",
+    "CAPÍTULO II Del Sistema Estatal del Agua",
+    "CAPÍTULO III",
+    "CAPÍTULO I De las Autoridades Estatales",
+    "CAPÍTULO II De las autoridades municipales",
+    "CAPÍTULO I",
+    "CAPÍTULO II De la organización de los usuarios del agua",
+    "CAPÍTULO III De la participación de la sociedad",
+    "CAPÍTULO I",
+    "CAPÍTULO II Administración del agua",
+    "CAPÍTULO I",
+    "CAPÍTULO II De la participación de la iniciativa privada en obras hidráulicas",
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De los derechos y obligaciones de los usuarios de servicios públicos",
+    "CAPÍTULO III De las cuotas y tarifas",
+    "CAPÍTULO I De las infracciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 16
+  }
+}

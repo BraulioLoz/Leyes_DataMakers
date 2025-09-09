@@ -1,0 +1,30 @@
+{
+  "n_chapters": 17,
+  "n_perm_articles": 116,
+  "n_perm_fracciones": 239,
+  "n_trans_caps": 1,
+  "n_trans_articles": 11,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De las Profesiones que necesitan Título para su Ejercicio",
+    "Capítulo III De los Profesionistas en el Estado",
+    "Capítulo IV Del Ejercicio Profesional y de los Medios Alternos de Solución de Controversias",
+    "Capítulo V Del Servicio Social Profesional",
+    "Capítulo VI De los Colegios de Profesionistas",
+    "Capítulo VII De las Federaciones y Asociaciones de Colegios de Profesionistas",
+    "Capítulo VIII Del Consejo Estatal de Actividades Profesionales",
+    "Capítulo IX De la Comisión Interinstitucional para el Desarrollo de las Profesiones del Estado de Jalisco",
+    "Capítulo X De la Certificación Profesional Voluntaria",
+    "Capítulo XI De los Entes Certificadores",
+    "Capítulo XII Del Registro Estatal de Actividades Profesionales",
+    "Capítulo XIII De las Instituciones de Educación y de los Títulos que Expidan",
+    "Capítulo XIV De la Dirección de Profesiones del Estado",
+    "Capítulo I De las Faltas, Responsabilidades y Sanciones en Materia Profesional",
+    "Capítulo II Del Procedimiento de Ejecución de las Infracciones Administrativas",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 17
+  }
+}

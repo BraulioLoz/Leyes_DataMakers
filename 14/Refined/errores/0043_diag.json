@@ -1,0 +1,39 @@
+{
+  "n_chapters": 25,
+  "n_perm_articles": 76,
+  "n_perm_fracciones": 389,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 2,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Comisión de Vigilancia",
+    "Capítulo III Unidad de Vigilancia",
+    "Capítulo IV Órganos Internos de Control",
+    "Capítulo V Autoridades con Atribuciones Económico-Coactivas",
+    "Capítulo VI Coordinación en Materia de Auditoría Pública",
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Auditor Superior",
+    "Capítulo III Estructura Administrativa de la Auditoría Superior",
+    "Capítulo III Capacitación y Asesoría Legal Contable",
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Cuentas Públicas e Informes de Desempeño y de Gestión Financiera",
+    "CAPÍTULO III Revisión, Examen y Auditoría Pública de las Cuentas Públicas",
+    "Capítulo IV Evaluación del Desempeño",
+    "Capítulo V Visitas",
+    "Sección Primera Informes Generales",
+    "Sección Segunda Informes Individuales",
+    "Capítulo VII Fiscalización durante el Ejercicio Fiscal en curso o de Ejercicios Anteriores",
+    "Capítulo I Sistemas Informáticos de la Auditoría Superior",
+    "Capítulo II Registro de Sujetos Auditables",
+    "Capítulo I Responsabilidades en el Proceso de Fiscalización",
+    "Capítulo II Determinación de Daños",
+    "Capítulo I Recurso de Revisión",
+    "Capítulo II"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 23,
+    "SECCIÓN": 2
+  }
+}

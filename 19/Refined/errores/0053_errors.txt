@@ -1,0 +1,8 @@
+Errores y advertencias para: 0053.txt
+==================================================
+
+Ubicación: line 65
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 6 a 8
+Línea: Artículo 8.- Organización
+------------------------------

@@ -1,0 +1,35 @@
+{
+  "n_chapters": 22,
+  "n_perm_articles": 90,
+  "n_perm_fracciones": 122,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Normas preliminares",
+    "Capítulo II De la competencia",
+    "Capítulo I Del Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco",
+    "Capítulo II De las asociaciones y organizaciones protectoras de animales",
+    "Capítulo IV De la cultura para la protección a los animales",
+    "Capítulo I Del cuidado de los animales",
+    "Capítulo II De la atención médica a los animales domésticos",
+    "Capítulo III De la cría y venta de animales",
+    "Capítulo IV De la comercialización",
+    "Capítulo V De los experimentos con los animales",
+    "Capítulo VI Del adiestramiento de animales",
+    "Capítulo VII De la organización de eventos para promover la adopción de animales",
+    "Capítulo VIII De los centros de control animal",
+    "Capítulo IX De los animales de trabajo",
+    "Capítulo X Del sacrificio de animales",
+    "CAPÍTULO XI De la Disposición Final de los Animales",
+    "Capítulo XII De los Albergues de Animales Domésticos",
+    "Capítulo I Disposiciones generales",
+    "Capítulo I De la denuncia",
+    "Capítulo II Del procedimiento de inspección y vigilancia",
+    "Capítulo III De las sanciones",
+    "Capítulo IV De los medios de defensa"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 22
+  }
+}

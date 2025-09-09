@@ -1,0 +1,22 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 34,
+  "n_perm_fracciones": 101,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "SECCIÓN PRIMERA",
+    "SECCIÓN SEGUNDA",
+    "CAPÍTULO III",
+    "CAPÍTULO IV",
+    "CAPÍTULO V",
+    "CAPÍTULO I",
+    "CAPÍTULO II"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "SECCIÓN": 2
+  }
+}

@@ -1,0 +1,8 @@
+Errores y advertencias para: 0138.txt
+==================================================
+
+Ubicación: line 461
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 72 a 75
+Línea: ARTÍCULO 75.- Cuando el contenido de la queja, a juicio del Consejo, se refiera a casos graves, o bien exista el riesgo inminente de afectar nuevamente a la persona peticionaria o agraviada, el asunto no podrá someterse al procedimiento de conciliación con las autoridades o particulares presuntamente responsables de la discriminación, por lo que se continuará con la investigación o, si se contara con elementos suficientes, se procederá a su resolución.
+------------------------------

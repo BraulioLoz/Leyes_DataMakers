@@ -1,0 +1,39 @@
+{
+  "n_chapters": 26,
+  "n_perm_articles": 64,
+  "n_perm_fracciones": 147,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Del objeto y aplicación",
+    "CAPÍTULO II De la terminología empleada",
+    "CAPÍTULO I De las Competencias Estatal y Municipal en Materia Forestal",
+    "CAPÍTULO II De la Coordinación entre el Gobierno del Estado y los Gobiernos Municipales",
+    "CAPÍTULO I De los Criterios del Programa Estatal",
+    "CAPÍTULO II De los Instrumentos de la Política Forestal",
+    "CAPÍTULO III De la Planeación del Desarrollo Forestal",
+    "CAPÍTULO IV Del Sistema Estatal de Información Forestal",
+    "CAPÍTULO V Del Inventario Forestal Estatal y de Suelos",
+    "CAPÍTULO VI De la Zonificación Forestal Estatal",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO I De la Investigación Forestal",
+    "CAPÍTULO II De la Educación Forestal",
+    "CAPÍTULO I De los Incentivos Económicos",
+    "CAPÍTULO II De la Empresa Social Forestal",
+    "CAPÍTULO III Del Fideicomiso Forestal Estatal",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO I De la Participación Ciudadana",
+    "CAPÍTULO II De los Consejos Forestales",
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO III De los Operativos de Inspección y Medidas de Prevención",
+    "CAPÍTULO IV De las Infracciones",
+    "CAPÍTULO V De las Sanciones",
+    "CAPÍTULO VI De los Recursos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 26
+  }
+}

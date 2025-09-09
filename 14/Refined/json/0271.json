@@ -1,0 +1,339 @@
+{
+  "0271.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno del Estado de Jalisco, Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto;\nNÚMERO 24991/LX/14 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE JALISCO.",
+    "Año_publicación": 2014,
+    "Título": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Jalisco",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Esta Ley es de orden público y de observancia general en el Estado de Jalisco y tiene por objeto reglamentar la administración y disposición de los bienes asegurados, decomisados y abandonados, en los términos previstos en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, en el Código Nacional de Procedimientos Penales, y en el Código Penal para el Estado Libre y Soberano de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de esta Ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrador: el funcionario responsable de llevar a cabo la guarda y custodia de los bienes asegurados, abandonados o decomisados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autoridad judicial: el órgano jurisdiccional competente en materia penal en el Estado de Jalisco, y especializado en materia del orden común o adolescentes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Bienes: los bienes asegurados, abandonados o decomisados, en los términos de la legislación penal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Comisión: la Comisión para la Supervisión de la Administración de Bienes Asegurados, Abandonados y Decomisados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fiscal Estatal: el titular de la Fiscalía Estatal del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ministerio Público: el Ministerio Público perteneciente a la Fiscalía Estatal del Estado, especializado en materia del orden común o adolescentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "El aseguramiento, abandono o decomiso de bienes corresponde exclusivamente al Ministerio Público o autoridad judicial en los respectivos ámbitos de competencia.\nEl procedimiento para llevar a cabo la declaratoria de aseguramiento, abandono o decomiso de bienes es el establecido por el Código Nacional de Procedimientos Penales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera De la Comisión",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "La Comisión se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Fiscal Estatal, quien la presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Presidente del Supremo Tribunal de Justicia del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Secretario de Administración;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Secretario de Salud; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Administrador, quien tendrá voz pero no voto.\nLos integrantes de la Comisión podrán nombrar a sus respectivos suplentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "La Comisión es un órgano administrativo desconcentrado de la Fiscalía Estatal, con autonomía técnica y operativa, sesionará ordinariamente cuando menos cada mes y extraordinariamente cuando se requiera.\nSus reuniones serán válidas con la presencia de tres de sus integrantes con derecho a voto, entre los cuales deberá estar el Presidente o su suplente y siempre con el Administrador.\nLos acuerdos y decisiones de la Comisión se aprobarán por mayoría de votos de sus integrantes y, en caso de empate, el Presidente tendrá voto de calidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "La Comisión tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Emitir acuerdos y lineamientos generales para la debida administración y custodia de los bienes objeto de esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Emitir acuerdos y lineamientos generales a los que deberán ajustarse los depositarios, administradores o interventores;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conocer sobre el aseguramiento e inventario de los bienes objeto de esta Ley y aplicación del producto de su enajenación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Examinar y supervisar el desempeño de la autoridad administradora con independencia de los informes que en forma periódica deba rendir;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Constituir, entre sus integrantes, grupos de trabajo para la realización de estudios y demás asuntos de su competencia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ordenar, en su caso, la ejecución de las órdenes de destruir, enajenar o trasladar la propiedad de los bienes asegurados, abandonados y decomisados; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que se señalen en esta Ley y otras disposiciones jurídicas aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Administrador",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "El Administrador será designado y removido libremente por el Ejecutivo del Estado, en los términos del reglamento de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Para ser Administrador se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Poseer, al día del nombramiento, título profesional, con cédula profesional legalmente expedida y tener por lo menos tres años de ejercicio profesional en la fecha de su nombramiento, en los términos de la Ley para el Ejercicio de las Profesiones del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No ser militar en servicio activo o ministro de culto religioso alguno, salvo que se haya separado definitivamente cinco años antes del día del nombramiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Contar con conocimientos en materia de justicia penal acusatoria y oral; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No haber sido suspendido, inhabilitado, ni haber sido destituido por resolución firme como servidor público."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "El Administrador, en relación a los bienes materia de esta Ley, tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrar, de conformidad con esta Ley y con las disposiciones aplicables, los bienes asegurados, abandonados y decomisados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Determinar el lugar en que serán custodiados y conservados los bienes asegurados y decomisados de acuerdo a su naturaleza y particularidades;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejecutar los acuerdos que al efecto emita la Comisión;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Nombrar y remover depositarios, interventores o responsables de la guarda y custodia de los bienes asegurados, abandonados y decomisados, cuando no lo hayan hecho el Ministerio Público o la autoridad judicial;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Rendir los informes relacionados con la administración y manejo de bienes materia de esta Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Supervisar y requerir informes sobre el desempeño de los depositarios, interventores y administradores;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Elaborar y mantener actualizado el inventario de bienes objeto de esta Ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proporcionar información sobre bienes objeto de esta Ley a quien acredite tener interés jurídico para ello;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Elaborar el inventario con la descripción y el estado en que se encuentren los bienes que se aseguren;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Rendir a la Comisión, en cada sesión ordinaria, un informe detallado sobre el estado de los bienes objeto de esta Ley; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "El Administrador, respecto a la Comisión, tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convocar a sesión a los integrantes de la Comisión;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar y resguardar las actas de las sesiones de la Comisión, de los procesos de traslación de propiedad o posesión de los bienes y, en su caso, de su destrucción; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Llevar la representación jurídica de la Comisión en los términos que señale el reglamento de la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "La administración de los bienes asegurados, abandonados y decomisados, comprende su recepción, registro, custodia, conservación, supervisión, entrega y, en su caso, destrucción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Los bienes asegurados, abandonados o decomisados, serán conservados en el estado en que se hayan entregado, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se cause por el transcurso del tiempo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Quienes reciban bienes asegurados en depósito o administración están obligados a rendir al Administrador un informe mensual sobre el estado que guarden y a darle todas las facilidades para su supervisión y vigilancia, los cuales tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil del Estado de Jalisco para el depositario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Cuando exista riesgo de que los bienes asegurados, en tanto no hayan sido declarados abandonados o decomisados, sufran alteración o daño, notificarán a la autoridad que haya ordenado su custodia para efectos de adoptar las medidas necesarias para su conservación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera De las Empresas, Negociaciones y Establecimientos",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "Cuando sea requerido para la administración de empresas, negociaciones o establecimientos, la contratación de servicios profesionales de terceros, estos tendrán derecho a recibir el pago de honorarios profesionales conforme a las leyes respectivas, mismos que serán liquidados con los rendimientos que produzca la misma negociación o establecimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Administrador tendrá las facultades necesarias, en términos de las normas aplicables, para mantener las actividades de empresas, negociaciones o establecimientos con actividades lícitas en operación y buena marcha, pero no podrá enajenar ni gravar los bienes que constituyan parte del activo fijo de la empresa, negociación o establecimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Cuando las actividades de la empresa, negociación o establecimiento resulten incosteables, se hará del conocimiento de la autoridad que los tenga a su disposición, quien podrá ordenar la suspensión o liquidación de ellos, en los términos establecidos por las leyes respectivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "El administrador tendrá independencia respecto al propietario, órganos de administración, asambleas de accionistas, de socios o de partícipes, así como de cualquier otro órgano de las empresas, negociaciones o establecimientos asegurados y responderá de su actuación únicamente ante la autoridad que haya ordenado su aseguramiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Destino de los Bienes",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "Los bienes asegurados de los que se decrete su abandono o decomiso, conforme al Código Nacional de Procedimientos Penales, serán enajenados o destruidos por el Administrador en los términos de dicho ordenamiento y demás legislaciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Los recursos obtenidos por bienes en abandono serán destinados a la Fiscalía Estatal, previo procedimiento de enajenación y, en su caso, liquidación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Los recursos obtenidos producto de bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial, a la Fiscalía Estatal, a la Secretaría de Salud y al Fondo Estatal de Ayuda, Asistencia y Reparación Integral de Víctimas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Corresponde a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, llevar a cabo los procedimientos de enajenación de los bienes abandonados y decomisados, debiendo incorporar los recursos obtenidos al presupuesto estatal, bajo los principios de transparencia y rendición de cuentas.\nLa Secretaría de Planeación, Administración y Finanzas deberá notificar al Congreso del Estado las modificaciones presupuestales realizadas en cumplimento de esta Ley dentro de los quince días siguientes a que tengan lugar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Contra los actos emitidos por la Comisión o Administrador no procederá recurso administrativo o juicio alguno.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Ejecutivo del Estado deberá expedir el reglamento de la presente Ley y demás disposiciones administrativas e internas en un término no mayor de treinta días, a partir de la entrada en vigor del presente\nDecreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Se abroga la Ley para la Administración de Bienes Asegurados o Abandonados para el Estado de Jalisco y sus Municipios, en los términos del artículo primero transitorio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los procedimientos iniciados antes de la entrada en vigor del presente Decreto que se encuentren en trámite, continuarán su sustanciación, de conformidad con la legislación aplicable al momento de iniciados los mismos.\nSALON DE SESIONES DEL CONGRESO DEL ESTADO GAUDALAJARA, JALISCO, 25 DE SEPTIEMBRE DE 2014\nDiputado Presidente JOSE CLEMENTE CASTAÑEDA HOEFLICH (RÚBRICA)\nDiputada Secretaria\nDiputada Secretaria VERÓNICA DELGADILLO GARCÍA\nAVELINA MARTÍNEZ JUÁREZ (RÚBRICA)\n(RÚBRICA)\nPROMULGACIÓN DEL DECRETO 24991/LX/14, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE JALISCO; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 25 DE SEPTIEMBRE DE 2014.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 26 veintiséis días del mes de septiembre de 2014 dos mil catorce.\nEl Gobernador Constitucional del Estado de Jalisco JORGE ARISTÓTELES SANDOVAL DIAZ (Rubrica)\nEl Secretario General de Gobierno ROBERTO LÓPEZ LARA\n(Rúbrica)\nTABLA DE REFORMAS\nDecreto 27739/LXII/19.- Se reforman los artículos; 2 fracciones V y VI, 4 fracciones I y III, 5 párrafo primero, 20 y 21 de la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Jalisco.- Dic. 28 de 2019 sec. VI.\nLey para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Jalisco\nAPROBACIÓN: 25 de septiembre de 2014.\nPUBLICACIÓN: 27 de septiembre de 2014 sec. VIII\nVIGENCIA: de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante\nDecreto 24864/LX/14",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

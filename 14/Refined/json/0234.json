@@ -1,0 +1,840 @@
+{
+  "0234.JSON": {
+    "Decreto": "26/04/2023 02:05 p. m.\nAl margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nJorge Aristóteles Sandoval Díaz. Gobernador Constitucional del Estado libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso del esta Entidad Federativa, se me ha comunicado el siguiente decreto.\nNÚMERO 25922/LXI/16 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO.",
+    "Año_publicación": 2023,
+    "Título": "SE EXPIDE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO.",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente ley tiene por objeto crear la Agencia de Energía del Estado de Jalisco como un Organismo Público Descentralizado del Poder Ejecutivo del Estado de Jalisco; dotado de personalidad jurídica y patrimonio propios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de este ordenamiento se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Agencia: la Agencia de Energía del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo Consultivo: el órgano auxiliar de consulta de la Agencia de Energía del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Director: el Director General de la Agencia de Energía del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Junta de Gobierno: la Junta de Gobierno de la Agencia de Energía del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ley: la Ley Orgánica de la Agencia de Energía del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Derogado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De las Funciones de la Agencia",
+        "Artículos": [
+          {
+            "Artículo": 3,
+            "Texto": "La Agencia tiene como objetivos impulsar, fomentar, coordinar, cooperar y coadyuvar en el desarrollo de las acciones públicas y privadas relacionadas con la generación y el uso eficiente de la energía en el Estado, privilegiando aquellas acciones que permitan incrementar la competitividad económica y la seguridad energética del Estado, así como la preservación y restauración del equilibrio ecológico y la protección al medio ambiente, coordinando el desarrollo y ejecución de la política y estrategia energética del Estado, en colaboración con diversas entidades públicas y privadas.\nPara cumplir con los objetivos descritos anteriormente, la Agencia tendrá las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fomentar la generación, almacenaje, distribución, consumo y uso eficiente de la energía en el Estado en los sectores público y privado;\n\nLa construcción de prototipos de bienes de capital;\nj) La inversión en proyectos de generación o eficiencia energética; y\nk) Cualquier otra actividad que sea congruente con el fin y funciones de la Agencia de conformidad con la presente ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contribuir al desarrollo y divulgación de información técnica en la materia, especialmente en los sectores productivos del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover el desarrollo de una infraestructura energética local y regional baja en carbono, en el corto, mediano y largo plazo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Colaborar y facilitar la vinculación entre los agentes claves del sector energético, pudiendo fungir como intermediario financiero o comercial, con facultades para participar como generador y comercializador de energía eléctrica;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Generar, así como atraer inversión pública y privada, nacional e internacional en proyectos energéticos, privilegiando aquellos que representen un incremento más significativo en la competitividad económica del Estado, bajo la visión de energías limpias;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Desarrollar información técnica para la planeación energética;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Formular, actualizar y ejecutar la política y estrategia energética estatal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Investigar, así como promover la implementación de nuevas tecnologías que incrementen la eficiencia energética y aprovechamiento de los recursos renovables;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Entregar apoyos, o en su caso, gestionarlos enfocados en el área de energía limpia para:\na) El desarrollo de proyectos de investigación científica, tecnológica y de innovación;\nb) La adquisición o desarrollo de equipo, instrumentos y materiales;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La formación y capacitación de recursos humanos especializados;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "La realización de proyectos de modernización, innovación y desarrollo tecnológico energético del Estado;\ne) La investigación, estudio y divulgación de las energías renovables y la eficiencia energética;\nf) El otorgamiento de estímulos y reconocimientos a organizaciones, empresas, así como a investigadores y tecnólogos que destaquen en estas áreas;\ng) El desarrollo de foros, congresos y exposiciones en materia de energía;\nh) El registro de figuras jurídicas que protejan la propiedad industrial o intelectual;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Fomentar alianzas nacionales e internacionales entre los sectores públicos, privados, sociales y académicos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Llevar acabo y apoyar en la realización de foros, conferencias, exposiciones y mesas de trabajo en materia de energía, con la participación de los sectores público, privado, académico y social;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proponer carreras, planes de estudio y perfiles de los recursos humanos necesarios para el desarrollo del sector;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Actuar como enlace de proyectos para direccionar, asesorar y vincular con instancias nacionales o internacionales;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Generar información técnica para la realización de proyectos energéticos con énfasis en la eficiencia, generación y distribución de energía;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Coadyuvar, cuando le sea requerido, en la formulación de normatividad en materia energética, orientadas a la generación, ahorro y uso eficiente de la energía para los diversos sectores productivos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Coadyuvar en la identificación de fuentes de financiamiento y gestionar el capital para el desarrollo de proyectos;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Coadyuvar en la estructuración de proyectos de inversión, nacionales e internacionales en materia"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Proponer apoyos e incentivos para el desarrollo de proyectos energéticos y para empresas del sector;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Desarrollar e implementar programas de difusión sobre mejores prácticas para la reducción de consumo, ahorros económicos y beneficios ambientales;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Impulsar la adopción de nuevas tecnologías para procesos industriales más eficientes y la renovación de instalaciones del sector residencial;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Apoyar en la socialización de proyectos energéticos;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Servir de enlace entre el Gobierno del Estado y las distintas dependencias, entidades y organismos técnicos, reguladores y operadores, que participen en la actividad energética;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Procurar que en el Estado se incremente la canalización de recursos públicos y privados, tanto nacionales como del extranjero, para proyectos de generación y eficiencia energética;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Orientar y asesorar a los Ayuntamientos de la Entidad, así como a las personas físicas o jurídicas, sobre temas de energía;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Elaborar un diagnóstico de las necesidades estatales en materia de energía, estudiar los problemas existentes y proponer alternativas de solución;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Gestionar y obtener recursos propios adicionales a los del presupuesto de egresos del Estado, provenientes de diversas fuentes tanto públicas como privadas para el desarrollo de proyectos tendientes a la generación y utilización adecuada de la energía en el Estado;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Concertar convenios y toda clase de documentos jurídicos con instituciones u organismos nacionales y extranjeros, públicos y privados para el cumplimiento de sus objetivos y funciones;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Propiciar el establecimiento de un inventario concentrado de recursos y capacidades en materia"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Promover la creación y adecuada operación de laboratorios y centros de energías limpias e investigación de desarrollo tecnológico en el área energética, para la prestación de servicios con énfasis en energías limpias o eficiencia energética;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Promover el uso preferente de energías limpias en todas las dependencias y entidades públicas del Estado;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Impulsar y promover entre los ayuntamientos del Estado y los integrantes de la Junta de Gobierno de la Agencia, la eficiencia energética y la implementación de proyectos de energías limpias;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Establecer las bases para que los recursos, inversiones, proyectos o apoyos que en el ejercicio de sus funciones ejecute, ejerza, gestione, otorgue o coadyuve para que sean destinados preferentemente a la generación de energías, obtenidas sin que se causen daños al ambiente o las áreas naturales protegidas;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Fomentar entre la población la adquisición y uso de tecnologías limpias;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Gestionar la asignación de subsidios o de financiamientos, en beneficio de la población de Jalisco, para que puedan adquirir tecnologías limpias;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Elaborar, aprobar y ejecutar un plan Estatal de Energía, en colaboración con el consejo consultivo y los sectores, industrial, social y académico;\nEl Plan Estatal de Energía deberá ser dinámico e innovador con objetivos a corto, mediano y largo plazo; deberá establecer metas anuales y estar diseñado bajo estrictos indicadores de medición sobre avances y resultados basado en los principios rectores de suficiencia, eficiencia y transición energética y con el fin de facilitar la planificación de un Estado más sustentable, limpio, seguro y eficiente en materia energética."
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Fomentar la competitividad energética de Jalisco y el desarrollo económico del sector, mediante la realización de actividades comerciales dentro de la cadena de valor de la industria energética;"
+              },
+              {
+                "Fracción": "XXXVII",
+                "Texto": "Impulsar las acciones encaminadas a garantizarla suficiencia, eficiencia y transición energética, la creación de políticas energéticas innovadoras, el fomento al financiamiento de proyectos de generación de energía sustentable y limpia, la modernización de las redes de transmisión, así como el crecimiento en la investigación y el desarrollo de nuevas tecnologías para el uso eficiente y el aprovechamiento sustentable de la energía;"
+              },
+              {
+                "Fracción": "XXXVIII",
+                "Texto": "Proponer al Titular del Poder Ejecutivo, por conducto de la Dependencia a que se encuentre sectorizada, cambios en la legislación y los reglamentos, que propicien la generación, almacenaje, distribución, consumo y uso eficiente de energías;"
+              },
+              {
+                "Fracción": "XXXIX",
+                "Texto": "Promover una cultura de generación y consumo de energías limpias; y"
+              },
+              {
+                "Fracción": "XL",
+                "Texto": "Las demás funciones que se le fijen mediante la presente ley, otros ordenamientos jurídicos o sean inherentes al cumplimiento de sus fines, de acuerdo con el programa de trabajo aprobado por la Junta de Gobierno."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De la Integración y Funcionamiento de la Agencia",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "Para el cumplimiento de sus objetivos y desempeño de funciones, la Agencia contará con la siguiente estructura orgánica:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Director;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las unidades administrativas que establezca el Reglamento Interno de la Agencia, de conformidad con el presupuesto autorizado; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un Órgano de vigilancia.\nLa Agencia contará con un Consejo Consultivo en los términos del presente ordenamiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "La Junta de Gobierno de la Agencia, es su Órgano máximo de gobierno y se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será designado por el Titular del Poder Ejecutivo del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Secretario Ejecutivo, que será el Director;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Como vocales, los titulares o sus respectivos representantes de las siguientes Dependencias:\na) Del Ejecutivo del Gobierno del Estado:\n1. Coordinación General Estratégica de Crecimiento y Desarrollo Económico;\n2. Secretaría de Desarrollo Económico;\n3. Secretaría de Innovación, Ciencia y Tecnología;\n4. Secretaría de Medio Ambiente y Desarrollo Territorial;\n5. Secretaría de la Hacienda Pública; y\n6. Contraloría del Estado.\nb) Del Consejo Consultivo:\n1. Tres representantes del Consejo Consultivo, que serán: el representante de la Universidad de Guadalajara, el del Centro Nacional de Control de Energía y el del Consejo de Cámaras Industriales de Jalisco."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un representante del Poder Legislativo, que será el presidente de la Comisión de Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia, sólo con derecho a voz.\nPodrá contar además con un representante de la Secretaría de Energía, como invitado permanente."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "El cargo como miembro de la Junta de Gobierno es de carácter honorífico y por lo tanto no es remunerado. Los vocales durarán en su cargo el término durante el cual conserven la representación de la dependencia e institución de que se trate.\nAsimismo, los vocales tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo, los representantes de la Contraloría del Estado, del Consejo Consultivo, del Poder Legislativo y, en su caso, el Representante de la Dependencia del Poder Ejecutivo Federal competente en materia energética, quienes sólo tendrán derecho a voz.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "La Junta de Gobierno se reunirán en sesiones ordinarias por lo menos dos veces al año. Se podrá convocar a reuniones extraordinarias en razón de que exista algún asunto que así lo amerite, a juicio del Presidente de la Agencia, del Secretario Ejecutivo o cuando lo soliciten por escrito una tercera parte del total de sus integrantes.\nEn los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nllI. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Corresponde al Secretario Ejecutivo de la Junta de Gobierno, convocar por instrucciones de su Presidente a las sesiones de la misma, proponiendo para tal efecto el orden del día correspondiente, y levantar las actas respectivas, debiendo notificar de manera oportuna a sus miembros cuando menos con 72 horas de anticipación para sesiones ordinarias y con 48 horas para sesiones extraordinarias.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "El Presidente de la Junta de Gobierno, quien será suplido en sus ausencias por la persona que expresamente nombre como su suplente, presidirá las sesiones ordinarias y extraordinarias.\nAsimismo, para la validez de los acuerdos de la Junta de Gobierno, se requerirá de la presencia de cuando menos la mitad más uno de sus miembros titulares o suplentes con derecho a voz y voto, incluidos entre ellos el Presidente. Asimismo, deberá estar presente el Secretario Ejecutivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "En las sesiones los acuerdos se tomarán por mayoría de votos simple, en caso de empate en la adopción de los acuerdos que resulten, el Presidente tendrá voto de calidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Son atribuciones de la Junta de Gobierno:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer el gobierno de la Agencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fijar las políticas y lineamientos generales, en congruencia con los programas Nacionales, Estatales y regionales, definir las acciones y proyectos de trabajo a los que deberá sujetarse la Agencia, así como aprobar su estructura básica y las modificaciones que a la misma procedan;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer al Ejecutivo del Estado, el Reglamento Interno y sus modificaciones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Estudiar y aprobar el presupuesto anual de ingresos y de egresos de la Agencia, mismos que remitirán a la dependencia cabeza de sector para su inclusión en el proyecto de Presupuesto de Egresos del Gobierno del Estado, en la unidad presupuestal correspondiente, así como aprobar la plantilla de personal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar las iniciativas o proyectos que soliciten los apoyos previstos por esta Ley, previo dictamen presentado por el Director, y en caso de considerarlo pertinente la Junta de Gobierno podrá solicitar a terceros expertos la emisión de observaciones sobre determinado proyecto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Analizar, y en su caso, aprobar los estados financieros de la Agencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Revisar, discutir y en su caso aprobar el informe anual de actividades presentado por el Director, así como las matrices de indicadores para resultados y evaluar los avances y resultados de sus objetivos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Emitir las Reglas de Operación para el otorgamiento de apoyos económicos para la realización de actividades relacionadas con la generación local de energía con participación de energías limpias y eficiencia"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Acordar con sujeción a las disposiciones legales vigentes, lo referente a donativos y pagos extraordinarios, y verificar su cumplimiento conforme a las directrices señaladas por la dependencia coordinadora de sector;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y lineamientos generales que regulen los convenios o contratos que suscriba la Agencia con terceros, cuando se trate de adquisiciones, contratación de servicios, y arrendamiento de bienes muebles e inmuebles;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Aprobar los planes y programas anuales de la Agencia;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Aprobar la fijación de los sueldos y prestaciones de los servidores públicos de la Agencia de conformidad con la normatividad vigente;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Fijar y ajustar el tabulador de ingresos de los bienes y servicios que produzca o preste la Agencia, en los términos de las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Vigilar el cumplimiento de los criterios de austeridad, racionalidad y disciplina, conforme a los cuales la Agencia ejercerá su presupuesto;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Aprobar las propuestas de convenios y actos jurídicos que formule el Director para el cumplimiento de sus funciones y objetivos de la Agencia;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Invitar a sus sesiones, únicamente con derecho a voz, a expertos en determinados temas que puedan orientarla en su toma de decisiones; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las demás que le sean conferidas en esta Ley y en otros ordenamientos jurídicos que resulten aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Son obligaciones de los miembros de la Junta de Gobierno:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asistir puntualmente a las sesiones ordinarias y extraordinarias a las que se les convoque;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Discutir y en su caso aprobar los asuntos, planes y programas que sean presentados en las sesiones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tomar las decisiones y medidas que en cada caso se requieran, a efecto de que la Agencia cumpla con los objetivos que le competen;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Enviar al Director General de la Agencia, las resoluciones que hubieren sido aprobadas, a fin de que proceda su cumplimiento y ejecución; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que determine el Pleno de la Junta de Gobierno."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Director",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "El Director es el representante legal de la Agencia, será nombrado y removido libremente y en cualquier tiempo por el titular del Ejecutivo Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Son requisitos para ser Director los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser de nacionalidad mexicana;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Haber nacido en el estado de Jalisco o tener residiendo en el estado mínimo cinco años consecutivos inmediatos anteriores a su designación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con título profesional de Licenciatura debidamente registrado ante autoridad competente;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ser bilingüe; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acreditar cuando menos cinco años de experiencia en el sector público o privado, en áreas afines a la planeación de políticas públicas, gestión de recursos financieros, desarrollo económico, medio ambiente o administración de empresas en temas energéticos o de sustentabilidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Son facultades y obligaciones del Director:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirigir, programar, conducir y coordinar las acciones que la Junta de Gobierno le ordene realizar, para el debido cumplimiento de las funciones que le competen a la Agencia, de conformidad con la presente Ley y otros ordenamientos aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Administrar y representar legalmente a la Agencia ante todo tipo de autoridades, como apoderado general judicial y actos de administración, así como a las atribuciones y limitaciones previstas en las leyes que regulen su actuación incluyendo todas aquellas facultades que requiera cláusula especial;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Celebrar, otorgar y suscribir toda clase de actos y documentos inherentes al objeto de la Agencia, y en cumplimiento a las instrucciones que la Junta de Gobierno le señale;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer a la Junta de Gobierno el tabulador de ingresos de los bienes y servicios que la Agencia puede ofertar;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar cualquier acto jurídico que se requiera para cumplir con los objetivos de la Agencia, previa aprobación de la Junta de Gobierno y debiendo informar a la misma una vez formalizados;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Formular denuncias y querellas legales, cuando se presenten los elementos necesarios que así lo exijan, informando en la sesión inmediata que celebre la Junta de Gobierno, respecto de dichos asuntos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo, cuando así se lo instruya la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Comprometer asuntos de arbitraje y celebrar transacciones, acorde a las instrucciones de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Presentar oportunamente a la Junta de Gobierno para su análisis y aprobación en su caso, la propuesta del presupuesto anual de ingresos y de egresos de la Agencia, y ejercerlos de conformidad a lo estipulado en esta Ley, en otros ordenamientos legales aplicables y en las disposiciones que al efecto reciba del Pleno de la Junta de Gobierno, así como las matrices de indicadores, el Plan Anual de Adquisiciones y la plantilla de personal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Ejecutar los acuerdos adoptados por la Junta de Gobierno y las comisiones de éste;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Fungir como Secretario Ejecutivo de la Junta de Gobierno, con voz, pero sin voto, y como Secretario Técnico en las sesiones del Consejo Consultivo, con voz pero sin voto;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proponer a la Junta de Gobierno, el anteproyecto de Reglamento Interno de la Agencia, proponiendo las reformas que considere convenientes al mismo, el cual se remitirá al Ejecutivo, por conducto de la dependencia cabeza de sector;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Designar y su caso remover de conformidad con las disposiciones legales aplicables al personal técnico y administrativo que considere especializado, y que requiera la Agencia para su funcionamiento;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Delegar en los servidores de la Agencia, las atribuciones que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Presentar a la Junta de Gobierno, un informe anual de actividades, y los que le sean solicitados por la misma;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Ejercer el presupuesto anual de ingresos y de egresos de la Agencia de conformidad con los ordenamientos y disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Elaborar y presentar los dictámenes respecto de solicitudes de canalización de fondos, así como de las condiciones a que las mismas se sujetarán, para la realización de proyectos, estudios, investigaciones específicas, apoyo a la formación de recursos humanos altamente especializados y cualquier otro proyecto que se considere necesarios e importantes en cumplimiento a los fines de la Agencia de conformidad con la legislación aplicable;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Impulsar la creación de centros e institutos de investigación aplicada, auspiciados por las empresas, con el objeto de lograr una corresponsabilidad de las mismas con el sector público, para la consecución de los objetivos de los Planes Nacional y Estatal de Desarrollo y las matrices de indicadores de la Agencia;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Identificar proyectos empresariales y fuentes de financiamiento públicas y privadas para la generación de energía y su adecuado aprovechamiento, que deberá someter a consideración de la Junta de Gobierno para su formalización de ser el caso;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Promover la coparticipación económica de organismos o Agencias internacionales e instituciones extranjeras, tendientes a la innovación y adaptación de nuevas tecnologías, en busca de una mejor y eficiente cooperación científica y tecnológica internacional;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Proponer el Manual de Organización a la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Supervisar y vigilar la debida observancia de la presente Ley, el Reglamento Interno y demás ordenamientos aplicables; y"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Las demás que se le sean conferidas en la presente Ley, en otras disposiciones jurídicas aplicables o por acuerdo de la Junta de Gobierno."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del Órgano Interno de Control",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "La Agencia contará con un Órgano Interno de Control cuyo titular será designado por la Contraloría del Estado de Jalisco.\nEl titular del Órgano Interno de Control ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Son atribuciones del Órgano Interno de Control las previstas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI Del Consejo Consultivo",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "El Consejo Consultivo, es el órgano auxiliar de consulta de la Agencia, que desarrolla sus funciones bajo tres áreas, hidrocarburos, energía eléctrica y eficiencia energética, y se integrará, previa invitación y aceptación de los miembros propuestos, de la siguiente forma:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Director quien lo presidirá y fungirá como Secretario Técnico;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un representante de cada uno de los siguientes organismos gubernamentales;\na) Centro Nacional de Control de Energía; e\nb) Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante de cada una de las siguientes instituciones educativas:\na) Universidad de Guadalajara;\nb) Universidad Autónoma de Guadalajara;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Instituto Tecnológico de Estudios Superiores de Occidente;\n\nAsociación Mexicana de Empresarios Gasolineros A. C.;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Instituto Tecnológico y de Estudios Superiores de Monterrey;\ne) Universidad Panamericana;\nf) Universidad del Valle de México; y\ng) Centro de Investigación y Asistencia Tecnológica de Jalisco.\n\nCámara Regional de la Industria de la Transformación del Estado de Jalisco;\ne) Cámara Nacional de la Industria Electrónica, de Telecomunicaciones y Tecnologías de la Información;\nf) Asociación Mexicana de Ingenieros Mecánicos y Electricistas;\ng) Colegio de Ingenieros Mecánicos y Electricistas de Jalisco;\nh) Asociación de Normalización y Certificación A. C.; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un representante por cada uno de los siguientes organismos:\na) Consejo de Cámaras Industriales de Jalisco;\nb) Cámara Nacional de Autotransporte de Carga;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otras instituciones o dependencias que, por su importancia en la incursión en el campo de la ciencia y tecnología, se considere útil su participación a propuesta del Secretario Técnico.\nLos cargos en el Consejo Consultivo son de carácter honorífico y por tanto no remunerado."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "El Consejo Consultivo tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Emitir opiniones sobre el cumplimiento de los objetivos, así como del funcionamiento de la Agencia, según los programas de trabajo del mismo, formulando recomendaciones para su óptima realización;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dar seguimiento a los acuerdos y decisiones adoptados por la Junta de Gobierno, llevando a cabo, además, las funciones que le encomiende la misma o su Secretario Ejecutivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Hacer observaciones sobre el dictamen que presente el Director sobre las solicitudes de apoyo presentadas por las personas físicas o jurídicas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer la elaboración y ejecución de estrategias, programas y actividades con otros organismos, que tengan relación con la generación y uso de energías limpias;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Investigar y dar a conocer los avances que en materia de ciencia, tecnología e innovación respecto de temas energéticos que se registran en el País y en el resto del mundo, orientando de esta forma los trabajos de la Agencia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Invitar por conducto de su Secretario Técnico, a representantes de los sectores público, social y privado, así como a especialistas e investigadores destacados de las universidades e instituciones de educación superior, con el propósito de que expongan sus experiencias, conocimientos y realicen propuestas para el desarrollo de proyectos y acciones que coadyuven al cumplimiento de los fines de la Agencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar periódicamente y con oportunidad a la Junta de Gobierno sobre los avances en el desarrollo de sus actividades;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Recomendar estrategias de fondeo y financiamiento complementario a la Agencia;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Coadyuvar a fortalecer a la Agencia;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Elegir de entre sus miembros con derecho a voz y a voto, a un integrante que los representará ante la Junta de Gobierno, el cual tendrá la representación por un año; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que determine la Junta de Gobierno o su Secretario Ejecutivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "El Secretario Técnico del Consejo Consultivo, tendrá como atribuciones las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convocar y dirigir las sesiones del Consejo Consultivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Someter a consideración de la Junta de Gobierno las propuestas que surjan con motivo de las labores del Consejo Consultivo, y comunicar los resultados obtenidos a los miembros de esta última;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir voto de calidad en caso de empate en las sesiones del Consejo Consultivo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Levantar las actas de las sesiones del Consejo Consultivo y comunicar los acuerdos adoptados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir las propuestas y recomendaciones que se formulen en el seno del Consejo Consultivo, ejecutando los acuerdos que en el mismo se adopten; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que le encomienden la Junta de Gobierno."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "El Consejo Consultivo, celebrará sesiones ordinarias cuando menos dos veces al año, y extraordinarias cuando exista algún asunto que así lo amerite, previa convocatoria del Secretario Técnico, o cuando lo soliciten por escrito una tercera parte del total de sus integrantes; debiendo comparecer a ellas cuando menos la mitad más uno de sus miembros.\nAsimismo, los acuerdos que emanen del Consejo Consultivo, se adoptarán por mayoría simple.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII Del Patrimonio",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "El Patrimonio de la Agencia estará constituido por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes muebles e inmuebles, así como los derechos que por cualquier título legal obtenga la Agencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los ingresos que perciba por los servicios, productos, asociaciones público privadas, convenios, acciones que realice en cumplimiento de sus objetivos, o que pueda obtener por cualquier otro medio legal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las cantidades que por diferentes conceptos se le asignen en el Presupuesto de Egresos del Gobierno del Estado, para el cumplimiento de sus objetivos y fines;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los subsidios y aportaciones permanentes, periódicas o eventuales que reciba del Gobierno Federal a través de la Secretaría de Energía, del Consejo Nacional de Ciencia y Tecnología o de alguna otra dependencia, así como de las que reciba de fundaciones, instituciones, empresas y particulares; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las donaciones, herencias y legados que se hicieren a su favor, así como en los fideicomisos en los que se le señale como fideicomisario."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "La Agencia administrará y dispondrá de su patrimonio, en razón del cumplimiento de su objeto, de conformidad con las disposiciones legales aplicables; por lo que queda prohibido estrictamente el empleo del mismo para fines no especificados en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "La Agencia sólo podrá enajenar bienes muebles de su propiedad, previa autorización de la Junta de Gobierno, y tratándose de bienes inmuebles se requerirá, además, la autorización del Congreso del Estado, cumpliendo lo dispuesto en la legislación aplicable vigente en ambos casos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII De la Participación del Sector Productivo",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "Se considera de interés público y utilidad social las actividades de modernización, innovación y desarrollo tecnológico en materia de energías limpias y la eficiencia energética, por lo que los centros de investigación científica y tecnológica del sector público, de conformidad con la normatividad aplicable y los convenios que al efecto se firmen, incluirán entre sus prioridades el desarrollo y apoyo a las actividades productivas, preferentemente a las de carácter estratégico, del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "En la aplicación de los instrumentos y apoyos previstos en la presente ley, la Agencia dará especial atención a los proyectos que tiendan a la generación local de energía con énfasis en energías limpias y a la eficiencia energética.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Entre las acciones permanentes que debe ejecutar la Agencia, y cuya consecución deberá ser garantizada con los recursos, el personal y la infraestructura adecuada, se encuentran su participación en la cadena de valor de la industria energética, la asesoría, capacitación y prestación de servicios que propicien el uso intensivo de conocimiento y tecnología en los procesos productivos, actividades regulativas y la certificación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX De las Áreas Naturales Protegidas",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "La Agencia no podrá impulsar, desarrollar o ejecutar obras y proyectos para el aprovechamiento del potencial energético en cualquier área natural protegida.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo X De la Extinción de la Agencia",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "Son causas de extinción del Instituto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dejar de cumplir sus fines y objeto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando su funcionamiento no resulte viable financieramente o sea innecesario de acuerdo al interés público que persigue; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las causas establecidas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "Las relaciones laborales entre la Agencia y sus trabajadores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Reglamento de esta Ley deberá expedirse en un plazo que no excederá de ciento ochenta días hábiles, contados a partir de la fecha en que entre en vigor la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se autoriza a la Secretaría de Planeación, Administración y Finanzas, para que durante el ejercicio fiscal 2016 y en cumplimiento a este Decreto incorpore la correspondiente unidad presupuestal, así mismo se autoriza la transferencia de recursos para la Agencia de Energía del Estado de Jalisco, en los siguientes términos:\nUNIDADES PRESUPUESTALES DE ORIGEN SECRETARÍA DE DESARROLLO ECONÓMICO\n21111070000018131125S22506433102100100120150 $900,000.00\nSECRETARIA DEL MEDIO AMBIENTE Y DESARROLLO TERRITORIAL\n21111100000023121511F33003424610100100120150 $1´800,000.00\nSECRETARIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA\n21111120000051038227E79701121100100100112039 $718,998.00 21111120000025838327F39102379100100100120150 $40,000.00 21111120000025838327F39102215100100100120150 $10,000.00 21111120000051038227E79701379100100100120150 $19,549.00 21111120000025838327F39103433301100100120150 $500,000.00",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Dentro de los sesenta días hábiles contados a partir de la entrada en vigor de este Decreto, el Secretario de Innovación, Ciencia y Tecnología deberá integrar la Junta de Gobierno del órgano público descentralizado denominado “Agencia de Energía del Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "La designación del Director General deberá efectuarse dentro de los cuarenta días hábiles posteriores a la entrada en vigor del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "El Director General deberá realizar la convocatoria y las gestiones necesarias para la integración del Consejo Consultivo dentro de los 30 días hábiles siguientes a su designación.\nTABLA DE REFORMAS Y ADICIONES\n27266/LXII/19.- Se reforma el artículo 8 fracción II en su inciso e), de la Ley del Organismo Público Descentralizado Denominado “Bosque La Primavera”; Se reforma la fracción IV del artículo 26 de la Ley de Protección Civil del Estado de Jalisco; y se reforma el artículo 5 fracción IV de la Ley Orgánica de la Agencia de Energía del Estado de Jalisco.- May. 11 de 2019 sec. II\n27844/LXII/20.- Se reforman los artículos 1, 2, 3, 5, 14, 16, 17, 18, 27 y 30, y la denominación del Capítulo V de la Ley Orgánica de la Agencia de Energía del Estado de Jalisco.- Abr. 2 de 2020 sec. V\n28480/LXII/21.- Se adiciona un segundo párrafo del artículo 7 de la Ley Orgánica de la Agencia de Energía del Estado de Jalisco.- Oct. 30 de 2021 sec. V.\nLEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO.\nAPROBACIÓN: 10 de noviembre de 2016\nPUBLICACIÓN: 26 de noviembre de 2016 sec. LIII\nVIGENCIA: 27 de noviembre de 2016",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

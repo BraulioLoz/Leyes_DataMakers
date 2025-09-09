@@ -1,0 +1,30 @@
+{
+  "n_chapters": 16,
+  "n_perm_articles": 95,
+  "n_perm_fracciones": 195,
+  "n_trans_caps": 1,
+  "n_trans_articles": 12,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Del Sistema Estatal de Cultura Física y Deporte",
+    "Sección Primera Disposiciones generales",
+    "Sección Segunda Del Consejo Directivo",
+    "Sección Tercera Del Director General",
+    "Sección Cuarta Del régimen patrimonial y financiero",
+    "Sección Quinta Del registro",
+    "Capítulo IV De la participación de los sectores social y privado en el Sistema Estatal de Cultura Física y Deporte",
+    "Capítulo V De la participación de los municipios en el Sistema Estatal de Cultura Física y Deporte",
+    "Capítulo VI De la participación de los organismos deportivos en el Sistema Estatal de Cultura Física y Deporte",
+    "Capítulo VII De los derechos y obligaciones del deportista",
+    "Capítulo VIII De la formación, investigación, y de la medicina y las ciencias aplicadas a la cultura física y el deporte",
+    "Capítulo IX Del reconocimiento deportivo",
+    "Capítulo X De las responsabilidades, sanciones y recursos administrativos",
+    "Capítulo XI De la Comisión de Apelación y Arbitraje de la Cultura Física y el Deporte",
+    "Capítulo XII De la prevención de la violencia en el deporte"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 11,
+    "SECCIÓN": 5
+  }
+}

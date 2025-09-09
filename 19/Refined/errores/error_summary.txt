@@ -1,0 +1,210 @@
+RESUMEN CONSOLIDADO DE ERRORES Y ADVERTENCIAS
+============================================================
+
+Archivos procesados: 179
+Total de advertencias: 62
+Total de errores: 0
+
+DETALLES POR ARCHIVO:
+----------------------------------------
+
+📁 0002.txt:
+  • line 583: [WARNING] Secuencia de artículos salta de 148 a 150
+    Línea: Art. 150. DEROGADO. P.O. 08 DE ENERO DE 2018.
+  • line 2277: [WARNING] Secuencia de artículos salta de 892 a 894
+    Línea: Art. 894.- El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajenos, adquiere la propiedad de unas y otros, pero con la obligación de pagarlos en todo caso y de resarcir los daños y perjuicios si ha procedido de mala fé.
+  • line 3259: [WARNING] Secuencia de artículos salta de 1510 a 1512
+    Línea: Art. 1512.- A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales.
+  • line 5590: [WARNING] Secuencia de artículos salta de 2910 a 2912
+    Línea: Art. 2912.- En los casos de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado el encargado del Registro, a fin de que pueda servirles de prueba en el juicio correspondiente.
+
+📁 0004.txt:
+  • line 720: [WARNING] Secuencia de artículos salta de 235 a 326
+    Línea: Artículo 326 (sic).- Todas las pruebas, salvo los casos especificados en la ley, podrán recibirse con asistencia de las partes.
+  • line 1992: [WARNING] Secuencia de artículos salta de 804 a 825
+    Línea: Artículo 825 (sic).- La tercera sección se llamará de administración y contendrá:
+
+📁 0006.txt:
+  • line 187: [WARNING] Secuencia de artículos salta de 45 a 47
+    Línea: ARTICULO 47.- EL JUEZ FIJARA DENTRO DE LOS MINIMOS Y MAXIMOS LEGALES LA SANCION, TENIENDO EN CUENTA LAS SIGUIENTES CIRCUNSTANCIAS, EN CUANTO LA LEY NO LAS CONSIDERE ESPECIFICAMENTE COMO CONSTITUTIVAS DEL DELITO O MODIFICATIVAS DE LA RESPONSABILIDAD:
+  • line 332: [WARNING] Secuencia de artículos salta de 89 a 96
+    Línea: ARTICULO 96.
+  • line 813: [WARNING] Secuencia de artículos salta de 195 a 197
+    Línea: ARTICULO 197-BIS.- QUIEN LE VENDA AUN MENOR DE DIECIOCHO AÑOS O LE PROPORCIONE POR CUALQUIER CONCEPTO SUBSTANCIAS TÓXICAS, TALES COMO THINERS, SOLVENTES, SAROLOS, PEGAMENTOS, CEMENTOS PLÁSTICOS O CUALQUIERA OTRA QUE PRODUZCA EFECTOS SIMILARES CON LA FINALIDAD DE SER CONSUMIDAS POR EL MENOR CON PROPÓSITOS ENERVANTES, SE LE SANCIONARÁ CON LA PENA DE PRISIÓN DE CUATRO A DOCE AÑOS Y MULTA HASTA DE SETECIENTAS CUOTAS.
+
+📁 0014.txt:
+  • line 256: [WARNING] Secuencia de artículos salta de 40 a 42
+    Línea: Artículo 42.- Los sujetos obligados establecerán en su programa anual los procedimientos para la generación, administración, uso, control y migración de formatos electrónicos, así como planes de preservación y conservación de largo plazo que contemplen la migración, la emulación o cualquier otro método de preservación y conservación de los documentos de archivos electrónicos, apoyándose en las disposiciones emanadas del Consejo Nacional y del Consejo Estatal.
+  • line 452: [WARNING] Secuencia de artículos salta de 89 a 91
+    Línea: Artículo 91.- Los sujetos obligados podrán celebrar acuerdos interinstitucionales y convenios con instituciones educativas, centros de investigación y organismos públicos o privados, para recibir servicios de capacitación en materia de archivos.
+
+📁 0015.txt:
+  • line 183: [WARNING] Secuencia de artículos salta de 7 a 9
+    Línea: Artículo 9. Corresponde al Gobernador del Estado:
+  • line 328: [WARNING] Secuencia de artículos salta de 15 a 17
+    Línea: Artículo 17. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, tendrá las siguientes funciones:
+  • line 421: [WARNING] Secuencia de artículos salta de 24 a 26
+    Línea: Artículo 26. El convenio que se celebre según lo previsto en el artículo anterior contendrá:
+  • line 1654: [WARNING] Secuencia de artículos salta de 174 a 176
+    Línea: Artículo 176. Los Atlas de riesgos se elaborarán y consultarán conforme al procedimiento que se establece en el siguiente párrafo, según corresponda al espacio territorial que
+  • line 1694: [WARNING] Secuencia de artículos salta de 181 a 183
+    Línea: Artículo 183. Adicionalmente a lo anterior, toda nueva construcción o fraccionamiento, deberá de contribuir económicamente, a las obras de manejo integral de aguas pluviales y de drenaje pluvial contenidas en el programa sectorial de infraestructura para el manejo de las aguas pluviales, conforme al tipo y nivel de riesgo que represente su ubicación dentro de la cuenca.
+  • line 2650: [WARNING] Secuencia de artículos salta de 304 a 306
+    Línea: Artículo 306. Para la obtención de las autorizaciones de fusión, subdivisión, relotificación o parcelación, el solicitante deberá cumplir con los siguientes requisitos:
+  • line 3426: [WARNING] Secuencia de artículos salta de 429 a 431
+    Línea: Artículo 431. Para apoyar el funcionamiento de los observatorios, las dependencias y entidades de la Administración Pública Federal, estatal, municipal y de las demarcaciones territoriales:
+
+📁 0017.txt:
+  • line 235: [WARNING] Secuencia de artículos salta de 17 a 19
+    Línea: Artículo 19.- El Consejo Técnico se integrará por un mínimo de doce miembros, que podrán ser provenientes del sector social, académico y de investigación, con reconocido mérito y experiencia en materia de cambio climático, debiendo observarse que la cuarta parte de los integrantes de este Consejo deberán contar con la certificación otorgada por parte de la Escuela Nacional de Protección Civil.
+  • line 260: [WARNING] Secuencia de artículos salta de 23 a 25
+    Línea: Artículo 25.- El Programa Estatal será elaborado por la Secretaría, siguiendo las pautas que marcan el Acuerdo de París y los estudios sobre cambio climático del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) de la Organización de las Naciones Unidas. Será puesto a consideración y aprobado por la Comisión tras la revisión previa del Consejo Técnico.
+
+📁 0021.txt:
+  • line 245: [WARNING] Secuencia de artículos salta de 40 a 42
+    Línea: Artículo 42.- Las reclamaciones de los usuarios de la defensa pública deberán ser dirigidas al Director General con copia al Consejo y serán resueltas de manera inimpugnable por el primero.
+
+📁 0022.txt:
+  • line 310: [WARNING] Secuencia de artículos salta de 28 a 30
+    Línea: Artículo 30.- En la planeación del desarrollo forestal, la Corporación, elaborará un Programa Estatal Forestal, en el que se considerará la problemática actual del sector y se indicará las alternativas de solución al mismo.
+  • line 326: [WARNING] Secuencia de artículos salta de 34 a 36
+    Línea: Artículo 36.- Los gobiernos municipales coadyuvarán con la Corporación en los términos que prevea el Reglamento de esta Ley, para la realización y actualización del Inventario Estatal Forestal y de Suelos.
+  • line 574: [WARNING] Secuencia de artículos salta de 87 a 89
+    Línea: Artículo 89 Bis 24.- La operación y administración de los Centros Municipales e Intermunicipales de Manejo del Fuego, se regirá por la metodología del Sistema de Comando de Incidentes y Mando Unificado, según se establezca en las normas oficiales mexicanas.
+
+📁 0023.txt:
+  • line 346: [WARNING] Secuencia de artículos salta de 87 a 89
+    Línea: Artículo 89.- Considerando la diversidad de bienes y servicios que se desarrollan en el medio rural, se articulará un sistema comercial, que apoyará y favorecerá la consolidación de la oferta de las empresas rurales en las diferentes ramas productivas ubicadas en territorio nuevoleonés.
+
+📁 0025.txt:
+  • line 180: [WARNING] Titulo sin sufijo válido (línea ignorada)
+    Línea: título profesional; que en ningún caso excederá de un tanto más del importe de los derechos que se pagan por el servicio establecido en el artículo 185 fracción IV de la Ley Federal de Derechos;
+
+📁 0035.txt:
+  • line 3: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: CAPÍTULO l DISPOSICIONES GENERALES
+
+📁 0038.txt:
+  • line 406: [WARNING] Secuencia de artículos salta de 89 a 91
+    Línea: ARTICULO 91.-Cuando se solicite la suspensión provisional o definitiva de una orden de clausura, además de garantizarse el interés fiscal en las formas que establece el Código Fiscal del Estado, la Tesorería General podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la determinación del juicio.
+
+📁 0047.txt:
+  • line 397: [WARNING] Secuencia de artículos salta de 56 a 58
+    Línea: Artículo 58. Los Magistrados del Tribunal, bajo su responsabilidad se excusarán de intervenir en los siguientes casos:
+
+📁 0050.txt:
+  • line 224: [WARNING] Secuencia de artículos salta de 55 a 102
+    Línea: ARTÍCULO 102, APARTADO "B" DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DE ACUERDO CON LAS DISPOSICIONES DE LA LEY DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS.
+
+📁 0053.txt:
+  • line 65: [WARNING] Secuencia de artículos salta de 6 a 8
+    Línea: Artículo 8.- Organización
+
+📁 0056.txt:
+  • line 93: [WARNING] Secuencia de artículos salta de 13 a 15
+    Línea: Artículo 15.- El Estado, a través de la Secretaría del Trabajo, promoverá los derechos laborales y ofrecerá programas de capacitación laboral y de empleo entre los indígenas y afromexicanos.
+
+📁 0059.txt:
+  • line 498: [WARNING] Secuencia de artículos salta de 20 a 22
+    Línea: Artículo 22. El Instituto será conformado por:
+  • line 1656: [WARNING] Secuencia de artículos salta de 170 a 172
+    Línea: Artículo 172. Son susceptibles de permiso, en los términos de esta Ley y su Reglamento, las siguientes modalidades del servicio de transporte:
+
+📁 0066.txt:
+  • line 23: [WARNING] Secuencia de artículos salta de 1 a 3
+    Línea: ARTÍCULO 3.- Los ejes rectores que deberán regir en toda política pública en materia de prevención del delito son:
+
+📁 0068.txt:
+  • line 9: [WARNING] Titulo sin sufijo válido (línea ignorada)
+    Línea: TITULO PARA SU EJERCICIO
+
+📁 0071.txt:
+  • line 79: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: Capítulo llI De los Derechos de las Mujeres Sección Primera Durante el Embarazo
+
+📁 0075.txt:
+  • line 515: [WARNING] Secuencia de artículos salta de 93 a 95
+    Línea: Artículo 95. En el tratamiento de datos personales así como en el uso de las bases de datos para su almacenamiento, que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y administración de justicia deberá cumplir con los principios establecidos en el Título Segundo de la presente Ley.
+
+📁 0080.txt:
+  • line 222: [WARNING] Secuencia de artículos salta de 42 a 44
+    Línea: Artículo 44. La Contraloría y los Órganos Internos de Control, observarán el protocolo de actuación que, en su caso, emita el Comité Coordinador del Sistema Estatal Anticorrupción.
+  • line 422: [WARNING] Secuencia de artículos salta de 80 a 82
+    Línea: Artículo 82. Para la imposición de las sanciones por faltas de particulares se deberán considerar los siguientes elementos:
+
+📁 0081.txt:
+  • line 416: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: Capítulo Xl Bis De Ia detección, prevención y atención al suicidio
+
+📁 0102.txt:
+  • line 114: [WARNING] Secuencia de artículos salta de 23 a 25
+    Línea: Artículo 25.- Estará a cargo de los Oficiales extender las actas relativas a:
+  • line 153: [WARNING] Secuencia de artículos salta de 40 a 42
+    Línea: Artículo 42.- Son funciones del Titular del Archivo Estatal del Registro Civil:
+
+📁 0108.txt:
+  • line 17: [WARNING] Secuencia de artículos salta de 2 a 4
+    Línea: ARTICULO 4o.- EN LOS TÉRMINOS DE LA LEY GENERAL DE SALUD Y DE LA PRESENTE LEY, CORRESPONDE AL ESTADO:
+  • line 177: [WARNING] Secuencia de artículos salta de 20 a 27
+    Línea: ARTÍCULO 27 DE LA LEY GENERAL DE SALUD.
+  • line 870: [WARNING] Secuencia de artículos salta de 132 a 134
+    Línea: ARTÍCULO 134.- SE SANCIONARÁ CON MULTA EQUIVALENTE DE 50 A 500 UNIDADES DE MEDIDA Y ACTUALIZACIÓN (UMA) VIGENTE, LA VIOLACIÓN DE LAS
+
+📁 0119.txt:
+  • line 41: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: CAPÍTULO ll DE LAS ATRIBUCIONES DE LA SECRETARÍA DE TURISMO
+
+📁 0125.txt:
+  • line 240: [WARNING] Titulo sin sufijo válido (línea ignorada)
+    Línea: Título Designación
+  • line 480: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: Capítulo Designación 01. Muestreo de materiales pétreos para mezclas asfálticas M·MMP·4·04·001/02 02. Granulometría de materiales pétreos para mezclas asfálticas M·MMP·4·04·002/02
+  • line 536: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: Capítulo Designación 001. Muestreo de materiales asfálticos M·MMP·4·05·001/00 002. Viscosidad dinámica de cementos y residuos asfálticos M·MMP·4·05·002/02 003. Viscosidad cinemática de cementos asfálticos M·MMP·4·05·003/02 004. Viscosidad saybolt-furol en materiales asfálticos M·MMP·4·05·004/00 005. Viscosidad rotacional brookfield de cementos asfálticos M·MMP·4·05·005/02 006. Penetración en cementos y residuos asfálticos M·MMP·4·05·006/00 007. Punto de inflamación cleveland en cementos asfálticos M·MMP·4·05·007/00 008. Solubilidad de cementos y residuos asfálticos M·MMP·4·05·008/00 009. Punto de reblandecimiento en cementos asfálticos M·MMP·4·05·009/00 010. ebas en el residuo de la película delgada de cementos asfálticos M·MMP·4·05·010/02 011. Ductilidad de cementos y residuos asfálticos M·MMP·4·05·011/00 012. Destilación de emulsiones asfálticas M·MMP·4·05·012/00 013. Asentamiento de emulsiones asfálticas M·MMP·4·05·013/02 014. Retenido en las mallas N°20 y N°60 en emulsiones asfálticas M·MMP·4·05·014/02 015. Cubrimiento del agregado en emulsiones asfálticas M·MMP·4·05·015/00 016. Miscibilidad con cemento pórtland de emulsiones asfálticas M·MMP·4·05·016/00 017. Carga eléctrica de las partículas de emulsiones asfálticas M·MMP·4·05·017/00 018. Demulsibilidad de emulsiones asfálticas M·MMP·4·05·018/00 019. Índice de ruptura de emulsiones asfálticas catiónicas M·MMP·4·05·019/02 020. Punto de inflamación tag en asfaltos rebajados M·MMP·4·05·020/02 021. Destilación de asfaltos rebajados M·MMP·4·05·021/02
+
+📁 0127.txt:
+  • line 403: [WARNING] Secuencia de artículos salta de 72 a 74
+    Línea: Artículo 74.- Toda resolución dictada por la autoridad administrativa deberá hacerse constar por escrito, y contendrá:
+
+📁 0129.txt:
+  • line 341: [WARNING] Secuencia de artículos salta de 57 a 59
+    Línea: Artículo 59.- En los municipios, preferentemente metropolitanos, se creará el SARE, como un mecanismo que integra y consolida todos los trámites municipales para abrir una micro, pequeña, mediana o grande empresa que realiza actividades de bajo riesgo para la salud, seguridad y el medio ambiente garantizando el inicio de operaciones en un máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada y aceptada por la autoridad correspondiente. El SARE deberá contener al menos los siguientes elementos y criterios:
+
+📁 0132.txt:
+  • line 139: [WARNING] Secuencia de artículos salta de 21 a 23
+    Línea: Artículo 23.- Son sanciones administrativas:
+
+📁 0138.txt:
+  • line 461: [WARNING] Secuencia de artículos salta de 72 a 75
+    Línea: ARTÍCULO 75.- Cuando el contenido de la queja, a juicio del Consejo, se refiera a casos graves, o bien exista el riesgo inminente de afectar nuevamente a la persona peticionaria o agraviada, el asunto no podrá someterse al procedimiento de conciliación con las autoridades o particulares presuntamente responsables de la discriminación, por lo que se continuará con la investigación o, si se contara con elementos suficientes, se procederá a su resolución.
+
+📁 0147.txt:
+  • line 78: [WARNING] Secuencia de artículos salta de 9 a 11
+    Línea: ARTICULO 11.- Los vocales tendrán las siguientes atribuciones y responsabilidades.
+
+📁 0156.txt:
+  • line 46: [WARNING] Capitulo sin sufijo válido (línea ignorada)
+    Línea: CAPÍTULO IIII DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL
+
+📁 0162.txt:
+  • line 52: [WARNING] Secuencia de artículos salta de 19 a 21
+    Línea: Artículo 21.- Una vez recibidas las propuestas por la Comisión de Juventud, ésta procederá al análisis, estudio e investigación de las
+
+📁 0166.txt:
+  • line 49: [WARNING] Secuencia de artículos salta de 6 a 8
+    Línea: ARTÍCULO 8º.- La Junta Directiva, órgano de gobierno de la Universidad, estará integrada por doce miembros que serán:
+
+📁 0174.txt:
+  • line 108: [WARNING] Secuencia de artículos salta de 10 a 13
+    Línea: ARTÍCULO 13.- DEL PLAZO PARA INTERPONER LA SOLICITUD
+  • line 114: [WARNING] Secuencia de artículos salta de 13 a 15
+    Línea: ARTÍCULO 15.- DE LA ADMISIÓN O DESECHAMIENTO
+  • line 126: [WARNING] Secuencia de artículos salta de 15 a 17
+    Línea: ARTÍCULO 17.- DE LA PUBLICACIÓN DE EDICTOS.
+
+📁 0175.txt:
+  • line 80: [WARNING] Secuencia de artículos salta de 18 a 20
+    Línea: Artículo 20.- Compete a los Presidentes Municipales:
+
+
+Archivos de error individuales guardados en: c:\Users\Edu\OneDrive\1.EmbeddingExploration\1.Pipelines\2.Processing\Leyes\19\Refined\errores

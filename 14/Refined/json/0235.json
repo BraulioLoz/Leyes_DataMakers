@@ -1,0 +1,796 @@
+{
+  "0235.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso del Estado de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 27230/LXI/19 EL CONGRESO DEL ESTADO DECRETA:\nSE ABROGA EL DIVERSO DECRETO 13601 DEL CONGRESO DEL ESTADO POR EL CUAL SE CREÓ EL PATRONATO DE LAS FIESTAS DE OCTUBRE DE LA ZONA METROPOLITANA DE GUADALAJARA; ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PATRONATO DE LAS FIESTAS DE OCTUBRE DE LA ZONA METROPOLITANA DE GUADALAJARA; Y CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO Y EXPIDE SU LEY ORGÁNICA.\nPrimero. Se abroga el decreto 13601 por el cual se creó el organismo público descentralizado denominado Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara y se extingue el referido organismo.\nSegundo. Se crea el organismo público descentralizado denominado Agencia Estatal de Entretenimiento de Jalisco.\nTercero. Se expide la Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco, en los términos siguientes:\nLey Orgánica de la Agencia Estatal de Entretenimiento de Jalisco",
+    "Año_publicación": null,
+    "Título": "Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo único Objeto y definiciones",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley Orgánica tiene por objeto regular la organización y el funcionamiento de la Agencia Estatal de Entretenimiento de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de esta Ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Agencia: La Agencia Estatal de Entretenimiento de Jalisco."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo consultivo: Es el órgano auxiliar y de asesoría del organismo;\nII Bis. Comité: El Comité Interno de Valoración;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dirección: La Dirección Filma en Jalisco que operará como parte de la estructura administrativa de la Agencia para desempeñar las atribuciones en materia de obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, previstas en la presente Ley, en su Reglamento, en la Ley de Filmaciones, en su Reglamento y en las demás disposiciones que resulten aplicables;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Director General: El Director General de la Agencia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Eventos de entretenimiento: Cualquier evento de entretenimiento: teatro; exposiciones visuales, exposiciones gráficas, baile, conciertos, turismo, folklore, arte, deporte, recreación, animación, audiovisual, cinematográfico, fotográfico y similares y todos aquellos relacionados con el enriquecimiento de la cultura, esparcimiento, entretenimiento y espectáculos en el Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Instalaciones: El espacio abierto o cerrado que designe el Presidente y por aprobación de la Junta de Gobierno para el desarrollo de los eventos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Instituto: El Instituto de Planeación y Gestión del Desarrollo Metropolitano;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Junta de Gobierno: El órgano máximo de decisión de la Agencia;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Ley: Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Ley de Filmaciones: La Ley de Filmaciones del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Reglamento: El Reglamento que emita la Junta de Gobierno; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Ventanilla única: Sitio destinado para la gestión de trámites y servicios, en coordinación con las autoridades competentes, así como para la operación del centro de inclusión digital de consulta y asesoría del solicitante."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "La Agencia es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios.\nSon objetivos de la Agencia la planeación, evaluación, organización y ejecución de las actividades relacionadas con el evento denominado y conocido como Fiestas de Octubre de Guadalajara, así como cualquier otro evento de entretenimiento.\nSon fines de la Agencia impulsar el desarrollo turístico, procurando el enriquecimiento de las expresiones culturales propias del Estado y la recreación de la población, garantizando en todo momento, precios accesibles para el público en general, estudiantes, adultos mayores y personas con capacidades diferentes, promoviendo la infraestructura que permitan masificar éstas actividades recreativas y cuidando en todo momento la preservación del orden público y las buenas costumbres, intentando que su difusión y acertada organización le dé al Estado mayor proyección a nivel nacional e internacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "La Agencia tendrá su domicilio oficial en la zona metropolitana de Guadalajara, sin perjuicio de que podrá establecer oficinas en otras regiones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Atribuciones",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "La Agencia tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La planeación, evaluación, organización y ejecución de las Fiestas de Octubre de Guadalajara y los eventos de entretenimiento en el Estado, como medio para dar a la urbe, y a la entidad en general, un mayor desarrollo turístico, y dotar a sus habitantes de un medio de sana recreación, esparcimiento y estímulo a la cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Impulsar el desarrollo económico sustentable de la zona, el desarrollo turístico; así como procurar con las Fiestas de Octubre de Guadalajara el óptimo equilibrio en la presentación de exposiciones, eventos artísticos, culturales, deportivos y de recreación, garantizando la seguridad y comodidad del público;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover fuentes de empleo, primordialmente entre los habitantes con arraigo en el Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover y ejecutar las acciones concretas para la inversión y el desarrollo de la infraestructura para el mejoramiento del entorno urbano de la zona donde se desarrolle el evento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular mecanismos para lograr la inclusión y participación de las escuelas, instituciones públicas y privadas dedicadas a la enseñanza y promoción de la cultura y las artes, así como a los ciudadanos en los programas recreativos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fomentar la participación en el evento de las personas con capacidades diferentes;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Determinar la forma, los medios e instrumentos de información que se utilizarán para fomentar el evento;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Controlar el desarrollo y aplicación de la inversión y la evaluación de la misma;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Coordinar con las dependencias públicas del Estado y de los municipios, que en el ámbito de sus atribuciones le permitan, las actividades de entretenimiento;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Asesorar a los municipios y a particulares que intervengan en la realización de los eventos, en materia de entretenimiento para la organización y ejecución de los eventos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Otorgar, en la medida presupuestaria, apoyos para el desarrollo de actividades relacionadas con el entretenimiento;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Obtener financiamiento, público o privado, para la ejecución de las actividades que realice en el ámbito de sus atribuciones y en los términos que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Realizar las licitaciones para la contratación de los servicios propios, necesarios para el cumplimiento de su objeto, en los términos de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Planear e instrumentar las acciones, estrategias y políticas públicas para la planeación, fomento, promoción y desarrollo de las obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Gestionar la publicación del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas que se realicen en el Estado;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Incluir anualmente en el anteproyecto de Presupuesto de Egresos del Estado los recursos necesarios para la ejecución y cumplimiento de las acciones, estrategias y programas gubernamentales de planeación, fomento, promoción y desarrollo de las obras cinematográficas, audiovisuales y fotográficas previstas en esta Ley;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Promover la participación e inversión de los sectores público, social y privado en el desarrollo y promoción de la industria cinematográfica y audiovisual, así como de la producción de obras fotográficas y de entretenimiento;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Determinar los instrumentos de apoyo y estímulo económico para el desarrollo en la entidad de las obras cinematográficas, audiovisuales y fotográficas, impulsando preferentemente la industria local;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Promover el incremento, desarrollo, aprovechamiento e inversión en infraestructura para el sector, equipamiento, salas, talleres, escenarios y mobiliario en el Estado, a efecto de que contribuya al desarrollo social, económico y cultural de la entidad; así como de inversión, desarrollo y crecimiento de infraestructura para el sector en el territorio de la entidad;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Participar en la elaboración del Programa de Obra Pública del Estado con propuestas, observaciones y la elaboración de estrategias sobre el desarrollo y la inversión de la infraestructura fílmica y audiovisual que detone, conserve o fortalezca la inversión privada productiva; procurando que estas sean sustentables para fomentar una cultura ambiental, así como la recuperación de aquellos espacios que se encuentren en estado de abandono o en desuso, en coordinación con las instancias públicas y privadas competentes;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Promover la industria cinematográfica, audiovisual y fotográfica jalisciense y las producciones realizadas en Jalisco con el propósito de posicionar a Jalisco como referente nacional e internacional;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Celebrar convenios e instrumentos legales con las autoridades de los tres órdenes de gobierno para el cumplimiento de la presente Ley, así como con los sectores social, empresarial y académico para promover y realizar actividades económicas, productivas, de investigación, innovación tecnológica y científicas, vinculadas a la producción de obras cinematográficas, audiovisuales, fotográficas en el Estado; y"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Elaborar las propuestas de medidas de regulación y simplificación administrativa de trámites y servicios que requiere la industria, con apego a los principios previstos en la presente Ley y en las demás disposiciones jurídicas aplicables;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Operar la ventanilla única de trámites y del centro de inclusión digital e informar mensualmente, de conformidadcon la Ley de Filmaciones;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Informar, orientar y asesorar a los usuarios sobre los trámites necesarios para la obtención de autorizaciones y permisos requeridos para realizar obras cinematográficas, audiovisuales y fotográficas en el Estado;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Elaborar y mantener actualizados los registros relacionados con las actividades previstas en la Ley de Filmaciones del Estado y en su Reglamento, el que establecerá las reglas, procedimientos de inscripción y lineamientos para su integración, actualización, funcionamiento y difusión;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Operar y administrar el portal electrónico oficial que promueva y difunda en diferentes idiomas las obras cinematográficas, audiovisuales y fotográficas realizadas en Jalisco, aquellas que se encuentren en proceso, las locaciones y sitios, así como los espacios para los profesionales del ramo o sus empresas que se suscriban, compartan y difundan su información, con apego a las disposiciones previstas en la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados ambas para el Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Organizar y, en su caso, participar en eventos nacionales e internacionales, festivales, muestras, mercados cinematográficos y demás foros especializados, a efecto de promover a la industria cinematográfica, audiovisual y fotográfica local, las locaciones jaliscienses y la infraestructura fílmica para atraer proyectos e inversiones orientados a fortalecer el desarrollo económico del Estado;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Promover la participación del Estado y de la industria local del ramo a nivel nacional e internacional como referente para la producción de obras cinematográficas, audiovisuales y fotográficas;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Generar una guía de producción ecológica que contenga las mejores prácticas de sustentabilidad en la industria cinematográfica, audiovisual y fotográfica, así como un directorio de proveedores que realicen sus procesos bajo criterios ecológicos y de protección al medio ambiente que se implementen en las producciones. Asimismo, elaborar programas que promuevan la sustentabilidad ofreciendo asesoría a los productores sobre el reciclaje, la donación de materiales y vestuario y reducción de desperdicios;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Financiar proyectos de creación, investigación, promoción, difusión y desarrollo de obras cinematográficas, audiovisuales y fotográficas"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Impulsar, fomentar y coordinar acciones públicas y privadas orientadas a la creación y desarrollo de obras cinematográficas, audiovisuales y fotográficas en territorio del Estado por jaliscienses o por residentes en Jalisco, la protección de su patrimonio intangible y su comercialización;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Impulsar el desarrollo de producciones cinematográfica, audiovisual y fotográfica en la entidad, en sus diversas manifestaciones, con fines culturales o comerciales;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Difundir y promover los sitios de interés, eventos, festivales, tradiciones y manifestaciones culturales o artísticas jaliscienses que puedan ser objeto de producciones audiovisuales y fotográficas en el Estado;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Promover y apoyar a la industria cinematográfica, audiovisual y fotográfica jalisciense a nivel estatal, nacional e internacional;"
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Promover y apoyar el desarrollo de infraestructura y los servicios de producción que ofrece el Estado;"
+              },
+              {
+                "Fracción": "XXXVII",
+                "Texto": "Otorgar estímulos a organizaciones, empresas, así como al talento, preferentemente jaliscienses o residentes en la entidad, de acuerdo con la convocatoria que se emita;"
+              },
+              {
+                "Fracción": "XXXVIII",
+                "Texto": "Promover la protección del patrimonio intangible producido en Jalisco en la realización de las actividades reguladas por la presente Ley y por la Ley de Filmaciones;"
+              },
+              {
+                "Fracción": "XXXIX",
+                "Texto": "Administrar los recursos del Fondo en los términos de la Ley de Filmaciones del Estado de Jalisco, la presente ley, así como las disposiciones legales y reglamentarias aplicables; y"
+              },
+              {
+                "Fracción": "XL",
+                "Texto": "Ejercer las demás atribuciones que le confieran otras disposiciones legales o reglamentarias.\nPara la realización de las atribuciones en materia de obras cinematográficas, audiovisuales y fotográficas, en sus diversas manifestaciones, la Agencia contará con el apoyo administrativo de la Dirección en los términos previstos en la presente Ley, en su Reglamento, en la Ley de Filmaciones y en las demás disposiciones que resulten aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Organización de la Agencia",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "La Agencia se conforma por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta de Gobierno que será el máximo órgano de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estructura administrativa como órgano de administración y operación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Órgano de vigilancia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Consejo Consultivo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Órganos técnicos."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "La estructura administrativa y demás personal técnico y operativo de la Agencia, se conformará en los términos que establezca su Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección I Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "La Junta de Gobierno se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será el titular del Poder Ejecutivo del Estado de Jalisco o quien éste designe;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Secretario Técnico que será el Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante del Instituto de Planeación y Gestión del Desarrollo Metropolitano;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La persona titular de la Secretaría de Turismo o a quien ésta designe;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La persona titular de la Secretaría de la Hacienda Pública o a quien ésta designe;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La persona titular de la Secretaría de Cultura o a quien ésta designe;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La persona titular de la Red de Bosques Urbanos del Ayuntamiento de Guadalajara o aquella entidad que ejerza las funciones inherentes al tema;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Un representante del Conjunto de Artes Escénicas de la Universidad de Guadalajara;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Un representante de la Cámara Nacional de Comercio de Guadalajara;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Un representante de la Oficina de Visitantes y Convenciones;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "La persona titular de la Dirección General del Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "La persona titular de la Contraloría del Estado, quien únicamente tendrá derecho a voz y su asistencia no será computada para efectos del quórum.\nTodos los integrantes contarán con voz y voto, excepto quien se enuncia en la fracción XII de este artículo, podrán nombrar a un suplente, permanecerán en la Junta por el tiempo que dure el encargo que desempeñen, su participación será de carácter honorífica y por lo tanto no será remunerada y sus servicios no originarán ninguna relación laboral.\nPodrán invitar a una o varias personas a las sesiones con derecho a voz, pero sin voto.\nPara la validez de los acuerdos la Junta se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el presidente tendrá voto de calidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "La Junta de Gobierno sesionará de manera presencial en los términos que disponga su Reglamento.\nEn los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nllI. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "La Junta de Gobierno tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Organizar anualmente el evento denominado Fiestas de Octubre de Guadalajara;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Planear, organizar y ejecutar cualquier evento de entretenimiento en el Estado que cumpla con los objetivos plasmados en esta Ley y en la Ley de Filmaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Determinar la sede de las “Fiestas de Octubre de Guadalajara”, y el lugar o lugares que servirán para el desarrollo de los eventos de entretenimiento del Estado, pugnando por su conservación y mejoramiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer proyectos estratégicos para impulsar el desarrollo regional a través del mejoramiento urbano de la zona donde se llevarán a cabo los eventos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar el programa y calendario general de los eventos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar anualmente los proyectos y programas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Presentar anualmente los informes financieros de la Agencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fijar las tarifas de aplicación para la concesión de espacios a expositores y a quienes presenten espectáculos, sean personas físicas o jurídicas, dentro de los núcleos del evento;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Señalar el monto de las cuotas que deberá cubrir el público en general, para tener acceso a las instalaciones principales de los festejos, excepto los espectáculos que correspondan al evento, que será fijado de acuerdo a las condiciones del mercado y del organizador del espectáculo, garantizando siempre precios accesibles para las personas.\nPara el caso de estudiantes, adultos mayores y personas con capacidades diferentes, podrán contar con un cincuenta por ciento de descuento sobre la cuota que se fije al público en general;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Rendir informe anual de actividades al Presidente de la Junta de Gobierno, conjuntamente con los estados financieros del organismo, los cuales deberán ser publicados íntegramente en su portal electrónico de transparencia;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Aprobar las designaciones y remociones del personal que proponga el Director General;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Aprobar sus reglamentos internos, para el cumplimiento de sus objetivos y para la comodidad y seguridad del público, mismos que le serán presentados por el Director General;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Concertar programas de trabajo y acciones encaminadas al cumplimiento de sus funciones, con los sectores público, social y privado del Estado;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Difundir, nacional e internacionalmente los eventos, a través de los medios masivos de comunicación y por cualesquier otro que estime prudente;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Establecer los lineamientos y directrices a seguir en la presentación de los espectáculos y exposiciones, cuidando que no atenten contra la moral y las buenas costumbres;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Crear mecanismos para la adecuada coordinación de acciones con las dependencias y entidades de la administración pública municipal, estatal y federal para el debido desarrollo de los eventos, creación de infraestructura, mejoramiento de la infraestructura y la estructura operacional de la agencia para el desarrollo de los eventos;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Planificar y organizar la estructura de la funcionalidad y operatividad de las instalaciones donde se desarrollen los eventos;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Promover con entidades similares, nacionales e internacionales, intercambio de difusión de eventos de la misma naturaleza;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Impulsar la consolidación de su patrimonio;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Gestionar todo tipo de financiamiento que requiera para lograr su objetivo, otorgando las garantías\nnecesarias;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Autorizar los actos jurídicos que impliquen traslación de dominio o de uso de los bienes que forman el patrimonio de la agencia;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Celebrar contratos o convenios con las empresas patrocinadoras y promotoras de los distintos espectáculos públicos que se presenten. Con personas físicas o jurídicas que sirvan de intermediarios para la contratación de eventos o cualquier necesidad que requiera satisfacer la agencia para sus fines y que no pueda ejecutar con sus propios medios;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Otorgar y revocar poderes, cuando sea necesario para el funcionamiento de la Agencia;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Aprobar la integración del Consejo Consultivo y los órganos técnicos que establezca su reglamento;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Elaborar y presentar propuestas de medidas de regulación y simplificación administrativa de trámites y servicios que requiere la industria del entretenimiento, con apego a los principios previstos en la presente Ley y en las demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Aprobar el Programa Estatal de Fomento, Promoción y Desarrollo de las Obras cinematográficas, audiovisuales y fotográficas que se realicen en el Estado;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Aprobar las bases de convocatorias para proporcionar apoyos"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Dar seguimiento y evaluar el cumplimiento de los trabajos realizados por los beneficiarios de los apoyos, a través del grupo técnico de evaluadores;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Promover, organizar y colaborar con las autoridades competentes en la realización de talleres, cursos, capacitación, clases magistrales, seminarios, simposios y eventos académicos para los profesionistas de la industria, productores, estudiantes y público en general, con la participación de personajes destacados en la industria cinematográfica y audiovisual, nacional e internacional;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Fomentar programas permanentes de capacitación y profesionalización para el personal que intervenga en la prestación de servicios para la industria cinematográfica y audiovisual de la Entidad, favoreciendo el acceso a la comunidad jalisciense, en especial, de las personas pertenecientes a grupos vulnerables, discapacitados y pueblos originarios;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Realizar las acciones necesarias para promover, preservar, divulgar y fomentar las actividades cinematográficas, audiovisuales y fotográficas en la entidad;\nXXXI Bis. Fomentar la formación y el desarrollo de contenido para especializar al talento jalisciense, para la creación de equipos de profesionales, así como desarrollar la cadena de valor que fortalezca a las empresas prestadoras de servicio;\nXXXI Ter. Realizar las acciones necesarias para para facilitar la atracción de inversión y el desarrollo del Estado como polo de la industria;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Fomentar y apoyar la vinculación entre los productores nacionales y extranjeros con las instituciones públicas, sector privado y profesionales locales;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Fungir como órgano de información, opinión y seguimiento de propuestas en materia cinematográfica, audiovisual y fotográfica; emitir opiniones, hacer consultas, discutir y tomar acuerdos, a efecto de presentar opiniones, informes, denuncias, recomendaciones y propuestas relativas a asuntos de interés público o social, en la materia cinematográfica, audiovisual y fotográfica;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial en la creación de protocolos para el cuidado y mejoramiento del medio ambiente durante la realización de producciones cinematográficas, audiovisuales y fotográficas;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Coadyuvar con la Secretaría de Seguridad en el desarrollo y aplicación de las políticas de seguridad pública en el Estado para agilizar y garantizar la seguridad en las filmaciones y grabaciones;"
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Fomentar y estimular la producción, educación, experimentación e investigación cinematográfica, audiovisual y fotográfica, para creadores e investigadores jaliscienses, mediante programas específicos, apoyos y estímulos basados en los principios señalados en la presente Ley;"
+              },
+              {
+                "Fracción": "XXXVII",
+                "Texto": "Proponer el uso de medios alternativos ecológicos para la generación de energía eléctrica durante las actividades cinematográficas, audiovisuales y fotográficas;"
+              },
+              {
+                "Fracción": "XXXVIII",
+                "Texto": "Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia;"
+              },
+              {
+                "Fracción": "XXXIX",
+                "Texto": "Aprobar su Reglamento; y"
+              },
+              {
+                "Fracción": "XL",
+                "Texto": "Las demás previstas en la presente ley, en la Ley de Filmaciones y demás ordenamientos aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección II Del Director General",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "El Director General será nombrado y removido libremente por el Gobernador del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Director General tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar legalmente a la Agencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar el cumplimiento estricto de la Ley, los acuerdos que determine la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer a la Junta de Gobierno la designación y remoción del personal que estime necesario para el cumplimiento de los objetivos del organismo, así como imponer las correcciones disciplinarias previstas en la ley de la materia;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar a la Junta de Gobierno para su consideración y aprobación, en su caso, los proyectos de los reglamentos internos necesarios para el cumplimiento de los objetivos de la Junta de Gobierno y de la Agencia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Estructurar, supervisar y controlar la distribución de los recursos humanos y materiales de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer la ubicación y dimensiones de los locales a concesionar dentro de las instalaciones donde se llevará a cabo el evento;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir las solicitudes de participación de expositores y someterlas a la aprobación de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En general, dictar las medidas administrativas necesarias para cumplimentar los acuerdos de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Delegar sus atribuciones, de manera total o parcial, en una o más personas para que actúen de manera conjunta o separada, siempre y cuando lo autorice la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dar contestación oficial a los requerimientos solicitados por dependencias gubernamentales, así como a los escritos presentados por particulares;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Recibir y canalizar propuestas, solicitudes, sugerencias e inquietudes de la ciudadanía en temas relacionados con el evento;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proponer a la junta de Gobierno las modificaciones a la estructura interna y a los órganos administrativos\nque sean necesarias para el óptimo funcionamiento de la Agencia;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Presentar para su aprobación el manual, bases y lineamientos para adquisiciones y enajenaciones;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Implantar las políticas de información y difusión del evento;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Someter a la aprobación de la Junta de Gobierno los actos jurídicos que impliquen la traslación de dominio o de uso de los bienes que forman el patrimonio de la agencia;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Elaborar el proyecto del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas que se realicen en el Estado y remitirlo a la Junta de Gobierno para su aprobación;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Gestionar la creación de un portal electrónico oficial que promueva y difunda en diferentes idiomas las obras cinematográficas, audiovisuales y fotográficas realizadas en Jalisco, aquellas que se encuentren en proceso, las locaciones y sitios, así como los espacios para los profesionales del ramo o sus empresas que se suscriban compartan y difundan su información;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Gestionar la creación de la ventanilla única de tráites y el centro de inclusión digital;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Rendir informe anual de actividades al Presidente de la Junta de Gobierno, conjuntamente con los estados financieros del organismo; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás previstas en la presente ley y demás ordenamientos aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección II Bis. Del Comité Interno de Valoración",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "El Comité Interno de Valoración, es el órgano auxiliar de la Agencia cuya función principal es la dictaminación de los apoyos, incentivos y estímulos de los programas derivados del Fondo, conforme a las reglas de operación que para tal efecto se emitan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Comité Interno de Valoración estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una persona representante de la Coordinación General Estratégica de Crecimiento y Desarrollo Económico del Estado de Jalisco, quien lo presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Una persona representante de la Secretaría de Desarrollo Económico; III. Una persona representante de la Secretaría de Turismo; IV. Una persona representante de la Secretaría de Innovación Ciencia y Tecnología;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Una persona representante de la Secretaría de Cultura;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Una persona representante de la Oficina de Visitantes y Convenciones de Guadalajara, A.C.;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Una persona representante de la Universidad de Guadalajara;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Tres personas representantes de organizaciones y/o asociaciones debidamente conformadas, reconocidas y relacionadas con la industria fílmica en el Estado de Jalisco, invitadas por el Gobernador del Estado a propuesta del Coordinador General Estratégico de Crecimiento y Desarrollo Económico."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Comité contará con una Secretaría Técnica, que auxiliará a la Presidencia del Comité para el cumplimiento y desahogo de los acuerdos, la cual recaerá en la persona Titular de la Dirección General de la Agencia Estatal de Entretenimiento de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Los integrantes del Comité contarán con voz y voto, podrán nombrar a un suplente y permanecerán en el Comité por el tiempo que dure el encargo que desempeñen.\nPara la validez de los acuerdos del Comité se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate la Presidencia tendrá voto de calidad.\nLa participación de los integrantes del Comité será de carácter honorífico y por lo tanto no será remunerada y\nsu temporalidad se establecerá en las disposiciones reglamentarias aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección III Del Órgano de vigilancia",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "La Agencia tendrá un órgano de vigilancia en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco. El funcionamiento y atribuciones de dicho órgano se sujetarán a las disposiciones que determine la Contraloría del Estado, tomando como ejes rectores los principios de transparencia, máxima publicidad, austeridad, disciplina financiera y rendición de cuentas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección IV Del Consejo consultivo",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "La Agencia contará con un Consejo Consultivo, que será el órgano auxiliar y de asesoría del organismo, el cual quedará integrado previa invitación y aceptación de los miembros propuestos por la Junta de Gobierno.\nLos cargos como miembro integrante del Consejo Consultivo no recibirán remuneración alguna por el desempeño de sus actividades.\nCuando se traten asuntos relativos a la promoción y difusión en materia cinematográfica, audiovisual y fotográfica, la Agencia contará con el apoyo del Consejo Consultivo previsto en la Ley de Filmaciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Del Patrimonio",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "El patrimonio de la Agencia se integra en términos de lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Los ingresos que con motivo de sus actividades obtenga la Agencia, deberán destinarse para satisfacer cabalmente las necesidades operativas que le permitan subsistir y garantizar la adecuada planeación y organización de los eventos de manera permanente y buscando en todo momento su óptimo funcionamiento, procurando además el desarrollo económico y urbano de la zona, dotando de infraestructura urbana el entorno donde se llevará a cabo el evento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del régimen laboral",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "El régimen laboral de los trabajadores al servicio de la Agencia, se regirá conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al d a siguiente de su publicaci n en el peri dico oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Peri dico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Las funciones del Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara, serán asumidas por la Agencia Estatal de Entretenimiento de Jalisco.\nLos asuntos en trámite relacionados con las funciones sustantivas del organismo público descentralizado que se extingue, pasarán a la Agencia Estatal de Entretenimiento de Jalisco, de conformidad con el presente\ndecreto o en los términos que establezca el Gobernador del Estado.\nEl Poder Ejecutivo, a través de las Secretarías de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones se presten en forma ininterrumpida.\n\nSe abrogan las disposiciones legales y administrativas que contravengan o se opongan al presente\ndecreto.\n\nEl Poder Ejecutivo en un plazo de sesenta días hábiles deberá realizar las modificaciones reglamentarias y administrativas necesarias para cumplimentar el presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1º de enero al 31 de diciembre del año 2019.\n\nEl Titular del Poder Ejecutivo del Estado, a través de las Secretarías de la Hacienda Pública y de Administración, deberá realizar las modificaciones administrativas y presupuestales necesarias para el cumplimiento del presente decreto.\n\nLa Secretaría de la Hacienda Pública deberá contemplar la asignación presupuestal necesaria en la Agencia Estatal de Entretenimiento de Jalisco, para la conformación del Fondo Filma Jalisco para el ejercicio fiscal 2024, con base en las disposiciones previstas en el presente decreto y en apego a las disposiciones aplicables.\nTABLA DE REFORMAS Y ADICIONES\n28478/LXII/21.- Se adiciona un último párrafo al artículo 9 de la Ley Orgánica de la Agencia Estatal de Entretenimiento del Estado de Jalisco.- Oct. 30 de 2021 sec. V.\n28502/LXII/21.- Se reforman los artículos 2, 3, 5, 8, 10, 12, 14, 16; y se adicionan diversas fracciones a los artículos 2 y 5, todos de la Ley Orgánica de la Agencia Estatal de Entretenimiento del Estado de Jalisco.- Nov. 18 de 2021, sec. II.\n29522/LXIII/24.- Se reforman los artículos 2, 5 y 10, se adiciona la Sección II Bis con los artículos 12 Bis, 12 Ter, 12 Quáter y 12 Quinquies de la Ley Orgánica de la Agencia Estatal de Entretenimiento de Jalisco.- Feb. 24 de 2024, sec. V.\nLEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO\nAPROBACIÓN: 30 de enero de 2019\nPUBLICACIÓN: 2 de febrero de 2019 sec. X\nVIGENCIA: 3 de febrero de 2019",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara, y se le faculta para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo, incluidos los procesos jurisdiccionales que se encuentren en trámite.\nLa Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara\n\nLa Junta de Gobierno de la gencia Estatal de Entreteni iento deberá adecuar su egla ento dentro de los d as naturales a la entrada en vigor del presente decreto, conte plando en su estructura interna a la o isi n Fil a en Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado que se extingue, y subsistan después de concluido el proceso de liquidación, pasarán a las dependencias o entidades que en su caso determine el Gobernador del Estado, garantizando el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación.\n\nLa Agencia Estatal de Entretenimiento de Jalisco deberá expedir y gestionar la publicación del Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Las relaciones laborales que tenga el Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, tomando en consideración que los empleados de dicho organismo son servidores públicos como lo prevé la Constitución Política del Estado de Jalisco y el decreto 13601 que se abroga.\n\nEl Titular del Poder Ejecutivo del Estado, a través de la Agencia Estatal de Entretenimiento de Jalisco, deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara.\n\nLas atribuciones encomendadas a la Dirección Filma en Jalisco en el presente decreto serán ejercidas por la estructura administrativa de la Agencia, conforme a su reglamento interno.\nARTÍCULOS TRANSITORIOS DEL DECRETO 29522/LXIII/24",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara y, en caso de encontrar alguna responsabilidad, deberá ejercer las acciones correspondientes ante las autoridades competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "La Junta de Gobierno deberá aprobar el Reglamento de la Agencia Estatal de Entretenimiento de Jalisco, dentro de un plazo máximo de seis meses contados a partir de la entrada en vigor del presente ordenamiento; el cual deberá ser remitido al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 30 DE ENERO DE 2019\nDiputado Presidente SALVADOR CARO CABRERA (Rúbrica)\nDiputada Secretaria\nDiputada Secretaria MIRIAM BERENICE RIVERA RODRÍGUEZ\nIRMA DE ANDA LICEA (Rúbrica)\n(Rúbrica)\nPROMULGACIÓN DEL DECRETO 27230/LXII/19, MEDIANTE EL CUAL SE ABROGA EL DIVERSO\nDECRETO 13601 DEL CONGRESO DEL ESTADO POR EL CUAL SE CREÓ EL PATRONATO DE LAS FIESTAS DE OCTUBRE DE LA ZONA METROPOLITANA DE GUADALAJARA; ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PATRONATO DE LAS FIESTAS DE OCTUBRE DE LA ZONA METROPOLITANA DE GUADALAJARA; Y CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO Y EXPIDE SU LEY ORGÁNICA; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 30 DE ENERO DE 2019.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al 1 primer día del mes de febrero de 2019 dos mil diecinueve.\nENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco (RÚBRICA)\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno (RÚBRICA)\nARTÍCULOS TRANSITORIOS DEL DECRETO 28502/LXII/21",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

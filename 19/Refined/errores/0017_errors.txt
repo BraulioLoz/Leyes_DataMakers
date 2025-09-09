@@ -1,0 +1,13 @@
+Errores y advertencias para: 0017.txt
+==================================================
+
+Ubicación: line 235
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 17 a 19
+Línea: Artículo 19.- El Consejo Técnico se integrará por un mínimo de doce miembros, que podrán ser provenientes del sector social, académico y de investigación, con reconocido mérito y experiencia en materia de cambio climático, debiendo observarse que la cuarta parte de los integrantes de este Consejo deberán contar con la certificación otorgada por parte de la Escuela Nacional de Protección Civil.
+------------------------------
+Ubicación: line 260
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 23 a 25
+Línea: Artículo 25.- El Programa Estatal será elaborado por la Secretaría, siguiendo las pautas que marcan el Acuerdo de París y los estudios sobre cambio climático del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) de la Organización de las Naciones Unidas. Será puesto a consideración y aprobado por la Comisión tras la revisión previa del Consejo Técnico.
+------------------------------

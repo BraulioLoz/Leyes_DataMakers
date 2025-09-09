@@ -1,0 +1,36 @@
+{
+  "n_chapters": 23,
+  "n_perm_articles": 158,
+  "n_perm_fracciones": 348,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 2,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO I De la Planeación y Programación de la Obra Pública",
+    "CAPÍTULO II De los proyectos ejecutivos",
+    "CAPÍTULO III Banco de Proyectos del Estado de Jalisco",
+    "CAPÍTULO IV De la Presupuestación de la Obra Pública",
+    "CAPÍTULO I Generalidades",
+    "CAPÍTULO II De los Testigos Sociales",
+    "CAPÍTULO III Del Comité Mixto de Obra Pública",
+    "CAPÍTULO IV De la Licitación Pública",
+    "CAPÍTULO V De las Excepciones a la Licitación Pública",
+    "CAPÍTULO I De la Contratación",
+    "CAPÍTULO II De la Ejecución",
+    "CAPÍTULO III Del Control de la Obra Pública",
+    "CAPÍTULO IV",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO I",
+    "CAPITULO II De la Defensa Administrativa",
+    "CAPÍTULO III De los Medios Alternativos para la Solución de Conflictos",
+    "CAPÍTULO PRIMERO",
+    "CAPÍTULO SEGUNDO Planeación"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 23
+  }
+}

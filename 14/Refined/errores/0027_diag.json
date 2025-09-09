@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 53,
+  "n_trans_caps": 1,
+  "n_trans_articles": 14,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Del sistema de coordinación Fiscal del Estado",
+    "CAPÍTULO II De los montos, bases y plazos para la distribución de participaciones Federales Y Estatales a los municipios",
+    "CAPÍTULO III De las participaciones Federales y Estatales A los municipios",
+    "CAPÍTULO IV",
+    "CAPÍTULO V De la coordinación fiscal y colaboración administrativa entre estado y municipios",
+    "CAPÍTULO VI De los organismos en materia de coordinación fiscal",
+    "CAPÍTULO VII De los alcances por violación al sistema de coordinación fiscal del estado",
+    "CAPÍTULO VIII DE LAS APORTACIONES FEDERALES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

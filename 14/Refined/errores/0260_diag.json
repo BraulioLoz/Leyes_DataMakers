@@ -1,0 +1,36 @@
+{
+  "n_chapters": 21,
+  "n_perm_articles": 104,
+  "n_perm_fracciones": 414,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capitulo único",
+    "Capítulo I Junta Preparatoria",
+    "Capítulo II Instalación de la Legislatura",
+    "Capítulo III Informe de la Legislatura",
+    "Capítulo IV Planeación institucional del Poder Legislativo",
+    "Capítulo V Clausura de la Legislatura",
+    "Capítulo I Obligaciones de los Diputados y las Diputadas",
+    "Capítulo II Derechos de los Diputados y las Diputadas",
+    "Capítulo III Suplencia de los Diputados y las Diputadas",
+    "Capítulo IV Representaciones y Grupos Parlamentarios",
+    "Capítulo I Mesa Directiva",
+    "Capítulo II Junta de Coordinación Política",
+    "Título Séptimo de esta Ley.",
+    "Capítulo I Secretaría General del Congreso del Estado",
+    "Sección Primera Disposiciones generales",
+    "Sección Segunda Órgano técnico con autonomía técnica y de gestión",
+    "Sección Tercera Órganos técnicos con autonomía técnica",
+    "Sección Cuarta Órganos técnicos auxiliares y de dictaminación",
+    "Capítulo III Servicio Civil de Carrera del Poder Legislativo",
+    "Capítulo I Comisiones Legislativas",
+    "Capítulo II Procedimiento en comisiones legislativas"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 16,
+    "TÍTULO": 1,
+    "SECCIÓN": 4
+  }
+}

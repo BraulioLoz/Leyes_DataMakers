@@ -1,0 +1,1726 @@
+{
+  "0267.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 25559/LX/15 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "a presente Ley es reglamentaria del artículo 5° de la Constitución Política de los Estados Unidos Mexicanos en lo relativo al ejercicio de las actividades profesionales, sus disposiciones son de orden público e interés social y de observancia general en el Estado de Jalisco.\nLas disposiciones de esta Ley y su respectivo Reglamento son competencia del Poder Ejecutivo, a través de la Dirección de Profesiones del Estado, adscrita a la Secretaría General de Gobierno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "as autoridades estatales y municipales son coadyuvantes en la vigilancia y cumplimiento de la presente Ley y su Reglamento en sus respectivas esferas de competencia. En caso de incumplimiento se estará a lo dispuesto por los ordenamientos legales a los que se encuentren sujetas dichas autoridades y la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "odas las actividades reguladas por esta Ley y su Reglamento están sujetas a la legislación de transparencia, protección de datos personales y la confidencialidad de los mismos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "s objeto de la presente Ley establecer:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La regulación y supervisión del ejercicio de las actividades profesionales en el Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las profesiones que requieren título para su ejercicio, las condiciones que deben llenarse para obtenerlo, así como las autoridades que han de expedirlo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los requisitos para la expedición de las cédulas que autoriza el ejercicio de la actividad"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los requisitos que deben cumplir las actividades de actualización profesional, ofertados a través de mecanismos de concertación entre el Gobierno del Estado, a través de la Dirección de Profesiones, los colegios de profesionistas, las instituciones educativas y los organismos empresariales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los lineamientos para la organización y supervisión de los colegios de profesionistas, así como de sus facultades y obligaciones, los cuales podrán certificar la actualización de los conocimientos de los profesionistas y los que pueden dedicarse a la actualización"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los lineamientos para la organización y supervisión de las federaciones y asociaciones de colegios de profesionistas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las facultades de la Comisión Interinstitucional para el Desarrollo de las Profesiones en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las atribuciones de la Dirección de Profesiones del Estado;\nLos integrantes y las facultades del Consejo Estatal de Actividades Profesionales;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La regulación de la certificación voluntaria de quienes ejerzan actividades profesionales, en los términos de esta Ley y su Reglamento;\nEl registro de los profesionistas que ejerzan en el Estado, y los mecanismos de control para que cumplan con las disposiciones y requisitos en la materia; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las sanciones correspondientes por las infracciones que se cometan en materia de profesiones y los recursos para combatir las resoluciones que las impongan."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "l cumplimiento de las obligaciones impuestas por esta Ley no exceptúa a los profesionistas de satisfacer otras que se les impongan por cualquier otra disposición normativa aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "n caso de controversia entre los intereses del profesionista y los de la sociedad, se estará a lo que dispongan las leyes vigentes en el Estado, procurando en todo momento el beneficio social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "ara efectos de esta Ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Actividad Profesional: el desempeño habitual de actos propios de una profesión en el ámbito público o privado de forma gratuita u onerosa. La ostentación del carácter de profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro medio escrito, gráfico o electrónico, constituye presunción de que se prestan los servicios propios de la profesión a que se refieren;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cédula: documento expedido por la Dirección de Profesiones, que autoriza el ejercicio de la actividad profesional y que da fe de la expedición legal de los documentos acreditativos de cada modalidad de cédula, incluido el título profesional respectivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Certificado de competencias profesionales: documento expedido por el colegio de profesionistas o la Dirección, de acuerdo al dictamen emitido por el ente evaluador, que reconoce y avala las competencias profesionales de cada profesión o especialidad por un tiempo determinado, para brindar a la sociedad mayor garantía del ejercicio de las actividades profesionales;\nCertificación de competencias profesionales: proceso de evaluación voluntario donde el examen es necesario para ello, realizado por un ente evaluador al que la Comisión Interinstitucional le haya otorgado la idoneidad para hacerlo; dicha evaluación acredita que un profesionista cuenta no sólo con los conocimientos autorizados, las aptitudes y la ética profesional, sino también con las habilidades y la experiencia necesaria para el ejercicio de su actividad profesional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Certificado de idoneidad: el acto mediante el cual la Comisión reconoce a los colegios de profesionistas y entes evaluadores por haber cumplido satisfactoriamente los requisitos para implementar procesos de actualización y de evaluación profesional, respectivamente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Colegio de Profesionistas: asociación civil que se integra con profesionistas de una misma actividad profesional y grado académico o especialidad, debidamente registrada ante la Dirección de Profesiones en los términos de esta Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Comisión: la Comisión Interinstitucional para el Desarrollo de las Profesiones del Estado de Jalisco, instancia que regula, supervisa y evalúa el proceso de certificación de competencias profesionales en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Consejo: el Consejo Estatal de Actividades Profesionales, órgano que tiene por objeto estudiar y dictaminar sobre opiniones o resoluciones de asuntos técnicos solicitados por instituciones públicas o privadas; planes y programas de estudio; reconocimiento de la actualización continua profesional, tanto para nacionales como para extranjeros, así como asignar al colegio que represente la actividad profesional en los órganos consultivos que consideren su participación;\nCurso de actualización profesional: cursos para la renovación, adecuación y adquisición de conocimientos teóricos-prácticos de los profesionales en disciplinas y especialidades determinadas, que se traducen en factores de mérito que, en conjunto, aprueben la actualización de conocimientos, a juicio de la Dirección o Comisión, según corresponda, tales como cursos de estudio, asistencia y participación en seminarios, diplomados, conferencias, congresos y eventos académicos, entre otros;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Diploma de especialidad: documento expedido por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios de especialidad;\nDirección: la Dirección de Profesiones del Estado adscrita a la Secretaría General de Gobierno;\nEnte certificador: persona jurídica que cuenta con certificado de idoneidad otorgado por la Comisión, para evaluar a los profesionistas que lo soliciten por sí o a través de su colegio;\nIJA: el Instituto de Justicia Alternativa del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Instituciones de educación: las enlistadas en las fracciones del artículo 79 de esta Ley, ya sean públicas o privadas;\nLey: la presente Ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Profesión: formación académica de nivel técnico o superior, adquirida y comprobada mediante el cumplimiento de programas de estudio;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Profesionista: toda persona física que obtenga un título en los niveles de bachillerato técnico, profesional técnico, normal, licenciatura, o posgrado, expedido por las instituciones educativas debidamente autorizadas o reconocidas por las autoridades competentes;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Rama profesional: conocimientos de una ciencia o disciplina que se adquieren para el ejercicio de una profesión o especialidad determinada;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Registro Estatal: el Registro Estatal de Actividades Profesionales, sistema que hará constar la información de todos los organismos públicos y privados, procesos y profesionistas, que participan en el proceso de supervisión y desarrollo de las profesiones en el Estado;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Registro profesional: trámites administrativos que, conforme a la presente Ley, se realizan ante la Dirección, tendientes a la inscripción y conocimiento de los documentos de los profesionistas;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Reglamento: el Reglamento de la Ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Reglamento de la Comisión: el Reglamento de la Comisión Interinstitucional para el Desarrollo de las Profesiones del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Servicio Social Estudiantil: el que deben prestar los estudiantes de bachillerato técnico, niveles de profesional técnico y licenciatura para poder obtener el documento que acredite su conclusión de estudios profesionales;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Servicio Social Profesional: el trabajo de carácter temporal y gratuito que presten los profesionistas que hayan obtenido la cédula correspondiente; y"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Título Profesional: documento expedido por las instituciones del Sistema Educativo Nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento\nde validez oficial de estudios, a favor de la persona que haya concluido los estudios profesionales.\nCuando se haga referencia a algún artículo se entenderá que es de esta Ley, salvo señalamiento en contrario."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "l Ejecutivo del Estado, por conducto de la Dirección, tendrá la responsabilidad de coordinar los criterios y las disposiciones de las demás autoridades estatales que tengan competencia en materia de profesiones en los términos de los preceptos legales aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De las Profesiones que necesitan Título para su Ejercicio",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "odos los estudios profesionales y académicos ofertados en la currícula de las instituciones de educación a que hace referencia el artículo 79, requerirán del título profesional correspondiente en los términos previstos por el artículo 81.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "La Dirección, escuchando la opinión de las instituciones de educación superior establecidas en la entidad y de los colegios de profesionistas, propondrá los proyectos de reglamentos que regirán los ámbitos de acción de cada profesión y las condiciones para su ejercicio.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De los Profesionistas en el Estado",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "Son derechos de los profesionistas que ejerzan en el Estado, además de los establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado y en las leyes y reglamentos que de ellas emanen:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer libremente su profesión, sin más limitantes que las previstas por el artículo 5° de la Constitución General de la República, por esta Ley u otras Leyes y sus reglamentos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cobrar justa remuneración por la prestación de sus servicios profesionales conforme a lo que se establezca por acuerdo con el cliente o empleador; o según lo dispuesto por el Código Civil del Estado de Jalisco o por otros ordenamientos aplicables; o por lo que determine el arancel correspondiente; o por lo que señale la costumbre de acuerdo a la importancia de los trabajos prestados. A falta de los anteriores, lo que se resuelva a través de los medios alternos de solución de conflictos; o por la remuneración que determine juez competente previo el procedimiento correspondiente.\nNo se considerará como prestación de servicios profesionales con derecho a pago de honorarios, los realizados en casos de extrema urgencia con el propósito de prestar un auxilio de necesidad apremiante o los previstos por otras leyes aplicables;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Asociarse libremente en los términos del artículo 9° de la Constitución Política de los Estados Unidos Mexicanos, en cualquiera de los colegios de profesionistas legalmente registrados por la Dirección;\nObtener el certificado de competencia profesional cuando corresponda;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Elegir el ente certificador que lo evaluará;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Certificar su competencia profesional voluntariamente;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Solicitar a la Comisión la revisión del resultado de su certificación profesional;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Obtener la constancia por la prestación del servicio social profesional;\nObtener el registro de su título, la cédula para el ejercicio de su actividad profesional y su inscripción en el registro, una vez que cumpla los requisitos legales y reglamentarios respectivos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Acceder a cursos de actualización profesional que coordine la Dirección por la prestación de su servicio social profesional;\nObtener puntos acreditables de acuerdo a los criterios que establezca la Comisión en el proceso de certificación profesional, para aquellos que presten su servicio social\nParticipar en los cursos de actualización profesional que impartan los colegios de profesionistas, las instituciones educativas, los organismos empresariales y la Dirección;\nPresentar sin costo una segunda evaluación, en caso de que la primera no sea satisfactoria;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Presentar las certificaciones de competencias profesionales que sean necesarias a fin de demostrar su competencia profesional;\nRecibir contestación por escrito a las solicitudes o peticiones que, en su caso, realice al colegio que pertenezca, al ente evaluador, a la Comisión o a la Dirección, en un plazo no mayor a treinta días naturales; en caso de no obtener respuesta se considerará favorable su solicitud o petición; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Los demás que se encuentran determinados en la Ley, su Reglamento y demás disposiciones aplicables en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Son obligaciones de los profesionistas que ejerzan en el Estado:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Observar la legalidad, honestidad, imparcialidad y eficacia en el desempeño de los servicios profesionales que preste;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Poner sus conocimientos técnicos y científicos al servicio del cliente o empleador, así como al desempeño del trabajo o actividad convenidos, basándose en los principios de ética profesional, según las circunstancias y medios en que se preste dicho servicio;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sujetarse estrictamente al código de ética profesional del colegio al que, en su caso, estén incorporados;\nMantenerse actualizado en la materia de su actividad profesional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cumplir con el Servicio Social Profesional y prestar sus servicios en casos de circunstancias de peligro nacional, desastres o calamidades públicas, cuando así lo disponga la autoridad y las leyes respectivas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "En caso de urgencia inaplazable, prestar los servicios que se le requieran a cualquier hora y en el sitio que sean requeridos, lo que deberá ser informado al colegio que corresponda con posterioridad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Rendir cuentas de sus servicios a sus clientes en los términos de ley."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Iniciar o proseguir los servicios que le fueren encomendados, sin incurrir en dilación injustificada;\nAvisar oportunamente a su cliente para que éste pueda tomar las medidas convenientes, en caso de no poder concluir el servicio que le hubiera sido encomendado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Otorgar facturas o recibos conforme a las disposiciones fiscales aplicables por concepto de pago de honorarios o gasto;\nEn caso de pertenecer a un colegio de profesionistas, estar al corriente en el pago de sus cuotas en los términos de la normativa, cualquiera que sea su naturaleza, en la forma y plazos al efecto establecidos;\nDenunciar ante la Dirección o, en su caso, ante el colegio de profesionistas al que pertenezca, enviando copia a la Dirección, todo acto de usurpación de profesión que llegue a su conocimiento, así como los casos de ejercicio ilegal y deshonesto; sea por suspensión o inhabilitación del denunciado, o por estar incurso en supuestos de incompatibilidad o prohibición;\nDenunciar ante el colegio de profesionistas al que en su caso pertenezca, todo acto de violación al código de ética de dicho colegio que llegue a su conocimiento, enviando copia a la Dirección;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Denunciar ante la Dirección o, en su caso, ante el colegio de profesionistas al que pertenezca, cualquier atentado a la libertad, independencia o dignidad de un profesionista o de cualquier integrante de su actividad profesional en el ejercicio de sus funciones;\nCumplir con diligencia la prestación del servicio social profesional conforme a los lineamientos de la presente Ley y su Reglamento;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Guardar el secreto profesional respecto a la información que maneje por tal motivo, salvo los informes legales que deban rendir ante las autoridades competentes;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Señalar en su publicidad y papelería profesional: su nombre completo, la profesión que ostenta, la institución educativa de la que procede y el número de su cédula expedida por la Dirección; en caso de atender público en general deberá ser visible la información anterior en su domicilio profesional;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Exhibir su título profesional, diploma de especialidad y certificado de competencia profesional, en su caso, que acrediten estudios del nivel educativo que ostenta y su actualización profesional continua, en lugar visible de su domicilio profesional;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Proporcionar a la Dirección su domicilio profesional y particular; en caso de cambio, dar aviso dentro de los siguientes treinta días hábiles; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás que se encuentren establecidas en esta Ley, su Reglamento y demás disposiciones aplicables en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Ejercicio Profesional y de los Medios Alternos de Solución de Controversias",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "Para ejercer en el Estado como profesionista de cualquier grado académico o especialidad, considerados en los planes de estudio impartidos por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios, se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cédula expedida por la Dirección;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se deroga;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estar en pleno goce y ejercicio de sus derechos civiles; y\nLas demás que señale la Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "La excepción a lo dispuesto en el artículo anterior será lo que se encuentre convenido con el Gobierno Federal o con otras entidades federativas, y que el profesionista acredite ante la Dirección que cuenta con la cédula profesional de la entidad federativa de que provenga, o de la autoridad federal correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Quienes se ostenten como profesionistas ante alguna autoridad en el Estado, deberán acreditarlo mediante la presentación de la cédula, en caso contrario, las autoridades que le atiendan, deberán de rechazar de plano su intervención con excepción de lo dispuesto en el artículo anterior. En caso de que las autoridades no observen este requisito se estará a lo dispuesto por esta Ley y los ordenamientos legales a los que se encuentren sujetas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "En caso de que el cliente se inconforme por los servicios profesionales prestados, para hacer valer sus derechos, podrá acudir ante la Dirección o, en su caso, ante los órganos jurisdiccionales competentes o someterse a los medios alternos de solución de controversias en los términos de la Ley en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Los interesados en solucionar sus conflictos a través de los medios alternos de solución de controversias, deberán acudir a la Dirección o con algún prestador de servicios de medios alternativos de solución de conflictos acreditado por el IJA.\nLos conflictos que se susciten por la práctica profesional en las áreas de la salud, se desahogarán a través del procedimiento previsto por la Ley de Salud del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Para los efectos del presente capítulo la Dirección se considera prestador de servicios de medios alternativos de solución de controversias, de conformidad con el artículo 15 de la Ley de Justicia Alternativa del Estado de Jalisco, por lo cual no necesita acreditación y certificación del IJA.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "El procedimiento público o privado de solución de controversias se seguirá de conformidad con la Ley de Justicia Alternativa del Estado de Jalisco y sus disposiciones reglamentarias.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "La responsabilidad en que incurra un profesionista en el desempeño del ejercicio de la actividad profesional será siempre individual y no afectará al colegio de profesionistas al que, en su caso, pertenezca.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Las autoridades judiciales correspondientes, dentro de los treinta días siguientes al que haya causado ejecutoria la sentencia en la cual condenen a algún profesionista, inhabilitándolo o suspendiéndolo en el ejercicio de su profesión, deberán remitir copia certificada de la misma a la Dirección y ésta deberá comunicarlo al colegio de profesionistas al que, en su caso, se encuentre afiliado el sentenciado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del Servicio Social Profesional",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "La Dirección es la encargada de coordinar la prestación del servicio social profesional en el Estado. Contará para ello con el apoyo de las autoridades de los tres órdenes de gobierno, en cumplimiento a lo dispuesto en el artículo 5° de la Constitución Política de los Estados Unidos Mexicanos, así como de los organismos de la sociedad civil, de conformidad con los convenios celebrados o que se celebren para tal efecto. También contará con el respaldo de todos los colegios de profesionistas, federaciones y asociaciones de colegios de profesionistas legalmente registrados y actualizados ante la Dirección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Cada año, a más tardar el día último del mes de enero, los colegios de profesionistas deberán proporcionar a la Dirección:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Lista de los afiliados que hayan consentido prestar su servicio social profesional;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Lista de los afiliados que en el año inmediato anterior comenzaron y terminaron su servicio social profesional, y cuáles están cumpliendo con el mismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informe pormenorizado con evidencias que acredite el cumplimiento de las actividades y resultados de la prestación del servicio social que realizaron sus colegiados en el año inmediato anterior; y\nLos programas anuales por ejecutar del servicio social profesional, los resultados que esperan de los mismos y la recomendación de los sitios en que con mayor urgencia se requiere la prestación de dicho servicio."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Los profesionistas que no estén registrados en algún colegio de profesionistas, podrán comprometerse con la Dirección para la prestación del servicio social profesional y acreditar ante la misma su cumplimiento, para que le sea entregada la constancia correspondiente y acceder al curso de actualización gratuito.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Los profesionistas podrán prestar los servicios de índole social en comunidades de escasos recursos, instituciones públicas o privadas, en los colegios de profesionistas que se encuentren registrados y actualizados ante la Dirección, o en donde ésta determine a través de asesorías, consultas, aportación de datos o ejecución de trabajos de su profesión, con la supervisión y aprobación de la misma.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "La Dirección extenderá anualmente la constancia del servicio social profesional a todos los profesionistas que hayan cumplido con el mismo.\nEn el mismo evento, se hará entrega de los reconocimientos a los profesionistas más destacados en cada actividad profesional a propuesta de los colegios de profesionistas, instituciones educativas y organismos empresariales observando los requisitos que establezca el Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De los Colegios de Profesionistas",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "Los colegios de profesionistas reconocidos por la Dirección, son entidades privadas de interés social que agrupan a profesionistas para reunirse de manera no transitoria, a efecto de coadyuvar con el Gobierno del Estado en las funciones de mejoramiento y vigilancia del ejercicio de la actividad profesional y realizar todo tipo de actividades relacionadas con la superación, representación, defensa y correcto ejercicio de la misma y tendrán todos los derechos y obligaciones que esta Ley y sus Reglamentos estipulen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Los profesionistas pueden organizarse y constituirse para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en colegio de profesionistas, en los términos de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Todo profesionista podrá solicitar su incorporación en alguno de los colegios de profesionistas de la actividad profesional que corresponda. Los colegios de profesionistas decidirán sobre su admisión conforme a lo que establezcan sus estatutos; sin embargo, en caso de rechazo deberán de informarlo por escrito al solicitante mediante acuerdo debidamente fundado y motivado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "Por cada programa educativo de bachillerato técnico, profesional técnico, normal, licenciatura, especialidad, maestría o doctorado, podrán constituirse en el Estado uno o varios colegios de profesionistas.\nDichos colegios de profesionistas adoptarán el nombre que elijan, pero que denote la actividad profesional de que se trate, y siempre deberán incluir la palabra Colegio y de Jalisco.\nNo se podrá autorizar que dos colegios de profesionistas se ostenten con el mismo nombre, razón social en el Estado o con el nombre de algún miembro que lo integre.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "Los colegios de profesionistas deberán auxiliar al gobierno del Estado en calidad de consultores en materia de profesiones, y tendrán todos los derechos y obligaciones que esta Ley y su Reglamento estipulan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "La agrupación de profesionistas que en el Estado se constituyan contraviniendo las disposiciones constitucionales y legales, no podrá utilizar la denominación de Colegio, ni será reconocida ni registrada por la Dirección, con todos los efectos inherentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Para que un colegio de profesionistas obtenga el reconocimiento y registro de la Dirección, deberá cumplir con todos los lineamientos contenidos en la presente Ley y su Reglamento, cuyos requisitos mínimos para su creación como su vigencia serán los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar por escrito a la Dirección solicitud de autorización del nombre con tres propuestas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proyecto de estatutos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proyecto de código de ética;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Entregar copias certificadas ante notario público del testimonio de la escritura pública donde conste su acta constitutiva, de sus estatutos y del Registro Público de la Propiedad y de Comercio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acreditar que cuenta con instalaciones adecuadas para prestar los servicios inherentes a su actividad a sus colegiados, de conformidad con el Reglamento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Todos sus integrantes cuenten con cédula expedida por la Dirección;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Contar con Registro Federal de Contribuyentes registrado ante el Sistema de Administración Tributaria;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En ningún caso los estatutos que rijan la vida y gobierno interior de un colegio de profesionistas, podrán contravenir lo preceptuado por esta Ley, debiendo cumplir además con lo siguiente:\na) La estructura interna y el funcionamiento de los colegios de profesionistas deberá ser democrático;\nb) Establecer que los Presidentes no podrán permanecer en el cargo más de cuatro años;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Señalar la periodicidad con que deben celebrarse las Asambleas Generales de Asociados, que en ningún caso será mayor a un año, así como los requisitos para su convocatoria, instalación y validez de sus acuerdos;\n\nLos mecanismos de participación de los colegiados en la organización y el funcionamiento del colegio;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Establecer la forma de integración de su órgano de representación, que será renovado con una periodicidad no mayor a dos años;\ne) El régimen disciplinario, que contendrá, en todo caso, la tipificación de las infracciones que puedan cometerse por los colegiados, las sanciones a aplicar y el procedimiento sancionador;\nf) Establecer los medios y procedimientos para dirimir controversias entre sus integrantes y para la aplicación de las sanciones que correspondan; y\ng) Establecer la manera de instrumentar sus programas de Servicio Social Profesional y los medios para cumplirlo;\n\nLa denominación, composición, forma de elección y régimen de funcionamiento de sus órganos de gobierno, así como los requisitos para formar parte de ellos;\ne) El régimen económico del colegio;\nf) El régimen de honores y distinciones susceptibles de ser concedidos a los colegiados o a terceros;\ng) El régimen impugnatorio contra los actos de los colegios conforme a la presente Ley."
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Los estatutos de los colegios regularán lo siguiente:\na) La denominación, el domicilio y el ámbito territorial del colegio, así como, en su caso, la sede de sus delegaciones;\nb) Los derechos y deberes de los colegiados;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Presentar su respectivo código de ética profesional a la Dirección;\nContar con un órgano interno de control ético;\nPara el caso de nuevos colegios como de los que ya están constituidos deberán acreditar haber desarrollado tareas en beneficio de la actividad profesional de que se trate, en las que deberán incluir publicaciones, seminarios, cursos, conferencias y demás actividades equiparables durante cuando menos los dos años inmediatos anteriores a la solicitud de inscripción de una asociación como colegio, así como para conservar la vigencia del registro de los colegios ya constituidos;\nContar con sesenta integrantes en el caso de que el colegio esté integrado por profesionales de nivel bachillerato técnico, profesional técnico, normal o licenciatura; y mínimo treinta agremiados para los casos de los profesionistas que tengan especialidad, maestría o doctorado registrados ante la Dirección;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Se deroga.\nSe deroga.\nCumplir con lo establecido en el Código Civil del Estado de Jalisco en materia de asociaciones;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Entregar y actualizar a la Dirección el directorio de sus integrantes, con el número de cédula de cada uno de ellos y su domicilio profesional; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Que las cuotas ordinarias que deban pagar sus agremiados no sean mayores a cincuenta veces el valor de la Unidad de Medida y Actualización vigente en el Estado"
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "Los colegios de profesionistas serán representados en los términos de sus estatutos y en todo caso, sus representantes serán registrados ante la Dirección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Los colegios de profesionistas podrán instalar delegaciones en los otros municipios del Estado aparte de aquel en que se hayan establecido, dando aviso a la Dirección, y de conformidad con lo que señale el Reglamento en cuanto a la designación de delegados.\nLas delegaciones serán integradas por lo menos por veinte profesionistas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "Los colegios de profesionistas deberán informar a la Dirección anualmente, durante el mes de enero, sobre su directorio de integrantes, actividades, así como sus cambios de órganos directivos cuando éstos se realicen, las modificaciones a sus estatutos, actividades de actualización, cumplimiento del servicio social profesional de sus colegiados, y en general, sobre todos aquellos datos que a juicio de la propia Dirección sea necesario que proporcionen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "Los colegios de profesionistas tienen los siguientes derechos y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar y defender los intereses de la profesión ante cualquier autoridad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la observancia de los códigos de ética y sancionar su violación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Llevar el registro de todas las actividades de actualización profesional como disciplinaria de sus integrantes;\nSe deroga;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar que el ejercicio profesional y actividad de sus agremiados se realice apegado a derecho, denunciando ante las autoridades competentes, las violaciones a los dispositivos legales en que incurran por tal motivo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer en materia de profesiones ante la Dirección, la expedición de leyes, reglamentos y sus reformas, así como participar en la iniciativa popular en los términos de la ley de la materia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Gestionar la expedición de normas relativas a los aranceles profesionales;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Permanecer ajenos a toda actividad de carácter político, electoral o religioso;\nMediar y arbitrar controversias conforme a lo establecido en esta Ley o la de la materia;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Fomentar la cultura general y profesional de sus agremiados;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover y participar en los programas de actualización profesional y expedir las constancias o certificados de participación en los cursos de capacitación o especializados de sus integrantes;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Promover entre sus colegiados, la prestación del servicio social profesional;\nPromover la creación y fortalecimiento de relaciones con otros colegios de profesionistas, ya sea locales, nacionales o internacionales, y fomentar programas de colaboración entre sí;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Llevar el registro de los trabajos anualmente desempeñados por sus afiliados en la práctica del servicio social profesional, y de aquellos otros que en forma destacada realicen;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Proponer a las autoridades judiciales y administrativas, listas de peritos profesionales, cuyos servicios puedan ser preferidos por aquéllas, en virtud de sus características y desempeño profesional;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Recomendar ante la Dirección, las comunidades, lugares y fechas que a su juicio requieran con mayor urgencia de la atención de un profesionista, para los efectos de la prestación del servicio social profesional;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Nombrar a un representante ante la Dirección y ante las demás autoridades en el Estado cuando sea necesario;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Designar representantes para asistir a los congresos locales, nacionales y extranjeros, relacionados con las ramas de la actividad y profesión de su propia agrupación;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Modificar cuando sea necesario los estatutos del colegio, dando aviso de ello a la Dirección dentro de los treinta días naturales siguientes a la fecha de su realización;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Expulsar por el voto de por lo menos dos terceras partes de sus integrantes, a los profesionistas que tengan colegiados, que cometan actos que deshonren su profesión y por ende a su agrupación, debiendo de otorgársele al afectado su derecho de audiencia y defensa, desahogando todas las pruebas que se estime conveniente con estricto apego a derecho y en la forma que lo determinen los estatutos de la agrupación;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "En caso de que sea decretada la expulsión, informar de inmediato a la Dirección;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Establecer y aplicar sanciones a los colegiados que incurran en faltas en el cumplimiento de sus deberes profesionales o gremiales;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Gestionar la obtención de créditos pecuniarios en beneficio de su agrupación, a efecto de ofrecer mejores servicios directos a la comunidad, y para la realización de actividades académicas, de investigación o de intercambio;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Establecer conforme a la Ley, los mecanismos que les permitan allegarse fondos para su subsistencia, la realización de sus objetivos y fines esenciales, así como la constitución de su propio patrimonio;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Colaborar con los poderes públicos en consultas profesionales, así como en investigación científica y técnica siempre que para ello fueren requeridos;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Admitir como integrantes exclusivamente profesionistas debidamente autorizados y registrados con la cédula, en los casos de las profesiones a que se refiere el artículo 9º del presente ordenamiento;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Cobrar las cuotas de incorporación como las ordinarias y extraordinarias a los agremiados de sus colegios;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Expedir recibos fiscales a los profesionistas que lo soliciten;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Deberá ofrecer gratuitamente un curso de actualización por año cuando la Dirección lo solicite;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "En todas las actividades de actualización profesional que tengan costo, deberá disponer de becas al 100%, en un 5% de su matrícula. Los criterios para acceder al beneficio se darán a conocer a los profesionistas a través de convocatorias públicas emitidas por la Dirección;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Promover entre sus integrantes, la contratación de seguros de responsabilidad civil profesional por daños patrimoniales o morales ocasionados a los usuarios de sus servicios profesionales; y"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Efectuar todo aquello que tienda a la superación profesional de sus afiliados o a un mejor servicio de la comunidad, así como lo que determinen otros ordenamientos legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 38,
+            "Texto": "La Dirección podrá suspender o cancelar el registro de los colegios de profesionistas, mediante resolución debidamente fundada y motivada, cuando éstos incumplan con la Ley, el Reglamento y demás disposiciones aplicables, cuando no cumplan con sus estatutos, o por resolución judicial.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII De las Federaciones y Asociaciones de Colegios de Profesionistas",
+        "Artículos": [
+          {
+            "Artículo": 39,
+            "Texto": "Las federaciones y asociaciones de colegios de profesionistas reconocidos por la Dirección, son entidades privadas que agrupan a colegios de profesionistas, a efecto de coadyuvar con la Dirección en las funciones de mejoramiento del ejercicio de la actividad\nprofesional y en la supervisión y vigilancia del cumplimiento de las facultades y obligaciones de los colegios que las integran, de acuerdo a lo estipulado en la Ley y sus reglamentos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Para que una federación o asociación de colegios de profesionistas obtenga el reconocimiento y registro de la Dirección, deberá cumplir con todos los lineamientos contenidos en la presente Ley y su Reglamento, cuyos requisitos mínimos para su creación como su vigencia serán los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar por escrito a la Dirección solicitud de autorización del nombre con tres propuestas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Reunir un número mínimo de veinte colegios, sin importar el grado académico, para aquellas que pertenezcan a una misma área del conocimiento."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Para las federaciones o asociaciones de colegios de profesionistas que pertenezcan a diversas áreas del conocimiento, deberán reunir un número mínimo de quince colegios, sin importar el grado académico;\nEntregar copias certificadas ante notario público del testimonio de la escritura pública del acta constitutiva que contenga los estatutos, con los datos de inscripción en el Registro Público de la Propiedad y de Comercio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acreditar que cuenta con instalaciones adecuadas para prestar los servicios inherentes a su actividad a sus colegios de conformidad con el Reglamento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Todos sus colegios cuenten con registro actualizado ante la Dirección;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "En ningún caso los estatutos que rijan la vida y gobierno interior de una federación de colegio de profesionistas, podrán contravenir lo preceptuado por esta Ley, debiendo cumplir además con lo siguiente:\na) La estructura interna y funcionamiento de la federación o asociación de colegios de profesionistas, deberá ser democrático;\nb) Establecer que el Presidente de la federación o asociación de colegios no podrán permanecer en el cargo más de dos años; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Establecer la manera de instrumentar sus programas de Servicio Social Profesional;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Asimismo, los estatutos de las federaciones y asociaciones de colegios de profesionistas regularán lo siguiente:\na) La denominación, el domicilio y su ámbito territorial; y\nb) Los derechos y deberes de los colegios de profesionistas que la integran."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "No se podrá autorizar que dos federaciones o asociaciones de colegios de profesionistas se ostenten con el mismo nombre o razón social en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Las federaciones y asociaciones de colegios de profesionistas tienen los siguientes derechos y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Informar a la Dirección anualmente, durante el mes de febrero, sobre su directorio de integrantes, actividades, así como sus cambios de órganos directivos cuando éstos se realicen, las modificaciones a sus estatutos, actividades y convenios de colaboración sobre el servicio social profesional y, en general, sobre todos aquellos datos que a juicio de la propia Dirección sea necesario que proporcionen;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar y supervisar que sus colegios realicen sus actividades apegados a derecho, denunciando ante las autoridades competentes, las violaciones a los dispositivos legales en que incurran por tal motivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Permanecer ajenas a toda actividad de carácter político, electoral o religioso;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover entre sus colegios, la prestación del servicio social profesional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Colaborar con la Dirección en la organización de actividades culturales, de actualización profesional y de reconocimiento a profesionistas destacados;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover la creación y fortalecimiento de relaciones con otras federaciones o asociaciones de colegios de profesionistas, ya sea locales, nacionales o internacionales, y fomentar programas de colaboración entre sí;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Admitir como integrantes exclusivamente a colegios de profesionistas debidamente registrados y actualizados ante la Dirección."
+              }
+            ]
+          },
+          {
+            "Artículo": 43,
+            "Texto": "La Dirección podrá suspender o cancelar el registro de las federaciones y asociaciones de colegios de profesionistas, mediante resolución debidamente fundada y motivada, cuando estas incumplan con la Ley, el Reglamento y demás disposiciones aplicables; cuando no cumplan con sus estatutos, o por resolución judicial.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII Del Consejo Estatal de Actividades Profesionales",
+        "Artículos": [
+          {
+            "Artículo": 44,
+            "Texto": "El Consejo es una instancia de consulta sobre las actividades profesionales y de representación de los colegios de profesionistas en el Estado, el cual se encuentra integrado por un representante de cada uno de los colegios de profesionistas por actividad profesional, legalmente registrados y actualizados en la Dirección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "El Consejo se conformará por presidentes de colegios de profesionistas y la Dirección; funcionará en pleno y por comisiones integradas por actividades profesionales afines. Presidirá el Consejo un presidente de colegio y la Dirección será su secretario técnico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "El Consejo contará con las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar criterios que deban ponerse a la consideración de la Comisión a fin de orientar los procesos de certificación profesional voluntaria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Designar ante las autoridades competentes el colegio que representará a la actividad profesional en sus órganos consultivos; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer al Gobierno del Estado medidas que propicien el desarrollo de las profesiones en el Estado.\nSu esquema de organización y funcionamiento se regulará por el Reglamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX De la Comisión Interinstitucional para el Desarrollo de las Profesiones del Estado de Jalisco",
+        "Artículos": [
+          {
+            "Artículo": 47,
+            "Texto": "La Comisión es un órgano técnico que desarrolla, organiza, implementa, regula y supervisa el proceso de certificación profesional voluntaria en el Estado, el cual podrá estar conformado por los representantes de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretaría de Educación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Secretaría de Innovación, Ciencia y Tecnología;\nSecretaría de Salud;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Secretaría de Desarrollo Económico;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Secretaría de Trabajo y Previsión Social;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fiscalía Estatal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El Presidente de la Comisión de Educación, Cultura y Deporte del Poder Legislativo;\nEl Presidente del Supremo Tribunal de Justicia del Estado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Consejo para la Acreditación de la Educación Superior, A.C.;\nUniversidad de Guadalajara;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Tres instituciones educativas a propuesta del Consejo Estatal para la Planeación de la Educación Superior del Estado;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Dos colegios de profesionistas por cada rama profesional a evaluar;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Cuatro organismos empresariales;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "La Dirección; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Otras instituciones que por su especialidad puedan apoyar en las funciones de dicha Comisión, previa invitación del pleno.\nEl cargo de integrante de la Comisión es honorífico.\nLos integrantes de la Comisión durarán en el cargo tres años, pudiendo ser reelectos por una sola ocasión, con excepción de los representantes a los que hacen mención las fracciones XII y XIII. La elección de los miembros de la Comisión, así como su organización, será de conformidad con el Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 48,
+            "Texto": "La Comisión funcionará en pleno y por comisiones, éstas se integrarán por representantes de las instituciones educativas, dependencias gubernamentales, colegios de profesionistas, organismos empresariales y poderes estatales, entre otros, que realicen funciones vinculadas con actividades profesionales homólogas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "La Comisión será presidida por la Secretaría General de Gobierno y la Dirección fungirá como Secretario Técnico de la misma.\nLa Comisión sesionará de manera ordinaria cada tres meses y de manera extraordinaria cuando se requiera.\nEn los casos en que no sea posible la presencia física de los integrantes de la Comisión en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:\nI I. (sic) La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;",
+            "Fracciones": [
+              {
+                "Fracción": "III",
+                "Texto": "Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en\nella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 50,
+            "Texto": "La Comisión contará con las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se deroga"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer los criterios generales para operar como ente certificador;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir los dictámenes de idoneidad para los entes certificadores;\nRevocar la autorización para operar como ente certificador;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Emitir convocatorias para la recepción de expedientes de entes certificadores;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Revisión de expedientes de los entes certificadores para su autorización o denegación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer los perfiles de los integrantes de los grupos elaboradores de los instrumentos de evaluación;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Integrar los grupos que elaborarán los instrumentos de evaluación, en los que participarán representantes de universidades, organismos empresariales, gubernamental, colegios de profesionistas y entes certificadores todos afines a la actividad profesional a evaluar;\nCoordinar el proceso de elaboración de los instrumentos de evaluación por rama"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinar y supervisar el proceso de aplicación de los instrumentos de evaluación;\nResolver las inconformidades de los profesionistas por el resultado de su evaluación;\nDiseñar y coordinar el proceso de análisis de los resultados de la evaluación de los profesionistas por actividad profesional, para fines estadísticos e implementación de políticas públicas relacionadas con su desempeño profesional;\nRendir públicamente un informe del estado de desempeño de los profesionistas del Estado a partir del análisis del resultado de las evaluaciones;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Informar del impacto de la implementación de políticas públicas en el desempeño de los profesionistas a partir del resultado de las evaluaciones;\nRealizar estudios sobre el impacto del ejercicio profesional en la calidad de vida y desarrollo económico del Estado a partir de la implementación de la evaluación de competencias profesionales."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "La Comisión conformará un comité de cinco especialistas por cada actividad profesional integrado por profesionistas de reconocido prestigio y ética profesional, propuestos por organismos estatales y nacionales, instituciones de educación, organismos\nacreditadores de programas académicos, así como por los colegios de profesionistas de la actividad correspondiente, los que dictaminarán sobre la solicitud de idoneidad para los entes certificadores, así como la pertinencia de los instrumentos de evaluación que éstos propongan.\nLa Dirección, a solicitud de la entidad interesada, será la encargada de integrar el expediente respectivo, asegurándose que contenga toda la documentación necesaria para emitir el dictamen a que se refiere el párrafo anterior, según los lineamientos aplicables expedidos por la Comisión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "La constancia de idoneidad tendrá una vigencia de cinco años a partir de su expedición por parte de la Comisión, a través de la Dirección, y deberá incluir:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre del ente certificador;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El número de inscripción ante el Registro Estatal de Actividades Profesionales; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La actividad profesional a certificar."
+              }
+            ]
+          },
+          {
+            "Artículo": 53,
+            "Texto": "La Dirección, escuchando la opinión de los colegios de profesionistas, instituciones educativas, organismos empresariales y secretarías del Estado, propondrá al Gobernador del Estado, el proyecto de Reglamento de la Comisión.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo X De la Certificación Profesional Voluntaria",
+        "Artículos": [
+          {
+            "Artículo": 54,
+            "Texto": "La Comisión analizará la idoneidad de los entes certificadores y, en caso de aprobarlas, notificará a la Dirección para que proceda a su inscripción en el Registro Estatal de Actividades Profesionales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "La certificación profesional voluntaria tendrá una vigencia máxima de cinco años, al término de los cuales podrá someterse a un nuevo proceso y cumplir con los requisitos y evaluaciones establecidas por el ente certificador que corresponda y considerará las siguientes condiciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La certificación considerará experiencia profesional, cursos de actualización, conferencias, publicaciones, examen y las demás que acuerde la Comisión;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se deroga."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Se deroga\nLa Comisión, de oficio o a petición de cualquier interesado, podrá establecer plazos menores para alguna actividad profesional específica, en función de sus características técnicas y científicas."
+              }
+            ]
+          },
+          {
+            "Artículo": 56,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "Los procedimientos de certificación serán transparentes e imparciales. Todos los requisitos que se fijen para acceder a dichos procedimientos deberán ser objetivos. La autoridad vigilará que los entes certificadores cumplan con estos principios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "La certificación profesional voluntaria constituye un servicio público de naturaleza no lucrativa; consecuentemente, la retribución que se pague por ese concepto tendrá el carácter de cuota de recuperación y cubrirá exclusivamente el costo operativo del trámite.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "Los programas de educación continua y actualización profesional serán instrumentados por los colegios de profesionistas; además podrán participar en su implementación las instituciones educativas, organismos empresariales y la Dirección. Dichos programas deberán cumplir con los lineamientos establecidos por la Comisión y registrados ante la Dirección para hacerlos constar en el Registro Estatal de Actividades Profesionales. El cumplimiento de tales programas dará puntaje para la certificación y serán considerados como requisito para el acceso a la certificación profesional voluntaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "La solicitud para la realización del procedimiento de certificación que formule el profesionista podrá realizarse a través del colegio de que lleve su expediente o la Dirección. No podrá negarse el trámite de la solicitud al profesionista salvo por lo dispuesto en esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "El certificado de acreditación de la certificación profesional solamente será emitido al profesionista que cumpla con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acreditar el procedimiento de certificación establecido por el ente certificador;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Haber cumplido con el programa de educación continua y actualización profesional implementados de conformidad con la presente Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Pago del arancel correspondiente; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los que determine la Comisión."
+              }
+            ]
+          },
+          {
+            "Artículo": 64,
+            "Texto": "La resolución del ente certificador deberá ser comunicada a la Dirección para su registro en términos de esta Ley. Igualmente notificará el resultado al profesionista solicitante y, en su caso, al colegio de profesionistas que lleve su expediente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "La resolución del ente certificador que niegue el otorgamiento de la certificación, podrá ser recurrida dentro de los quince días siguientes a la notificación de la decisión ante la propia entidad, para su reconsideración. En caso de que el ente certificador confirme su decisión, se estará a lo dispuesto en el capítulo de medios de impugnación establecido en la presente Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo XI De los Entes Certificadores",
+        "Artículos": [
+          {
+            "Artículo": 66,
+            "Texto": "Cualquier organismo de carácter público o privado podrá constituir un ente certificador, cumpliendo los lineamientos que establezca la Comisión; siendo sus funciones de interés público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Para funcionar como ente certificador, es necesario contar con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un grupo de profesionistas, especializados en evaluación y la materia de evaluación de la actividad profesional que corresponda y que no tengan resolución administrativa, judicial o ética, desfavorable que afecte su idoneidad para ejercer la función, a juicio de la Comisión;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los programas e instrumentos de certificación a que se refiere esta Ley; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Infraestructura material, económica y de recursos humanos suficientes para el cumplimiento de sus funciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 68,
+            "Texto": "Los entes certificadores deberán someter a la aprobación de la Comisión los programas e instrumentos de certificación que pretendan instrumentar, así como sus modificaciones, cuando esto suceda. Sin la aprobación correspondiente, no podrán ser aplicados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "La Comisión verificará el cumplimiento de los requisitos establecidos en el\nartículo anterior a fin de ordenar la expedición de la primera y, en su caso, de las sucesivas constancias de idoneidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "Los entes certificadores deberán mantener una relación constante con la Comisión en los términos de la presente Ley, para ello contarán con integrantes del mismo en los comités técnicos que establezcan para la elaboración de los programas e instrumentos de evaluación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "Cada ente certificador publicará, previa autorización del comité, los requisitos académicos y de otra índole que sean necesarios para someterse al procedimiento de certificación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "Cada ente certificador efectuará como mínimo dos procedimientos de certificación al año. De no ser así, se le revocará, de oficio o a petición de parte, la autorización para operar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo XII Del Registro Estatal de Actividades Profesionales",
+        "Artículos": [
+          {
+            "Artículo": 73,
+            "Texto": "La Dirección establecerá, organizará, operará y actualizará el Registro Estatal de Actividades Profesionales.\nLas autoridades competentes del Estado, las instituciones educativas y los colegios de profesionistas, enviarán de manera oportuna toda la información relevante para la permanente actualización de dicho Registro.\nEl Reglamento establecerá las bases para la organización, funcionamiento y actualización del Registro Estatal de Actividades Profesionales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "El Registro Estatal de Actividades Profesionales se integra por el conjunto de inscripciones relativas a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las instituciones públicas y particulares, autorizadas para la expedición de títulos profesionales y diplomas de especialidad, que faculten para el ejercicio de las profesiones del"
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": ";",
+            "Fracciones": [
+              {
+                "Fracción": "II",
+                "Texto": "Los profesionistas y especialistas que hayan obtenido el título o diploma de especialidad con su cédula correspondiente y en su caso con las constancias de certificación voluntaria que los habiliten para el ejercicio de alguna de las actividades profesionales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los colegios de profesionistas que operen en el Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los entes certificadores que hayan otorgado las constancias de idoneidad en los términos de esta Ley; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las actividades profesionales."
+              }
+            ]
+          },
+          {
+            "Artículo": 75,
+            "Texto": "Las constancias que se expidan respecto de las inscripciones que obren en el Registro Estatal de Actividades Profesionales harán prueba de su inscripción ante las autoridades competentes del Estado y de las entidades federativas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "Toda autoridad, dentro de su respectiva esfera de competencia, las instituciones de educación autorizadas, los entes certificadores, los profesionistas y los colegios de profesionistas que los agrupen, quedan obligados a proporcionar a la Dirección toda la información relevante en términos de la presente Ley, para la permanente actualización del Registro Estatal de Actividades Profesionales a que se refiere el presente capítulo. Dicha obligación ha de cumplirse tan pronto como se genere la información relevante.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 77,
+            "Texto": "La información contenida en el Registro Estatal de Actividades Profesionales será pública; cualquier interesado podrá solicitar la expedición de constancias relativas a cualquiera de los registros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "La vigencia de las inscripciones de los documentos registrables estará condicionada a la conservación de las circunstancias y la satisfacción de los requisitos que las permitieron; así como al cumplimiento de las obligaciones legales que se deriven de la presente Ley y de otras disposiciones aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo XIII De las Instituciones de Educación y de los Títulos que Expidan",
+        "Artículos": [
+          {
+            "Artículo": 79,
+            "Texto": "Las instituciones autorizadas para la expedición de títulos que serán válidos en el Estado para ostentarse legalmente como profesionista son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Universidad de Guadalajara y de las escuelas e instituciones incorporadas a ella;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las escuelas o institutos dependientes o incorporados a la Secretaría de Educación del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las escuelas o instituciones dependientes o incorporadas a la Secretaría de Innovación, Ciencia y Tecnología;\nLas escuelas, facultades o institutos reconocidos y autorizados por la Secretaría de Educación Pública o con enseñanzas incorporadas a la Universidad Nacional Autónoma de México, el Instituto Politécnico Nacional o la Universidad Pedagógica Nacional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las instituciones análogas a las señaladas en las fracciones anteriores que hayan obtenido reconocimiento y autorización por parte de la Universidad de Guadalajara, de las Secretarías de Educación federal o estatal, o por autoridades legalmente acreditadas del País; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las instituciones extranjeras a las cuales las autoridades federales reconozcan validez a los estudios que se curse en ellas, y cuyos planes de estudio cuenten con el reconocimiento de validez oficial en sus propios países, observando lo relativo a la legislación federal y a los tratados internacionales al respecto.\nLas instituciones de educación en el Estado que impartan enseñanza en los niveles de bachillerato técnico, profesional técnico, licenciatura y posgrado, deben informar a la Dirección respecto a los mismos y proporcionarle los datos que ésta le solicite."
+              }
+            ]
+          },
+          {
+            "Artículo": 80,
+            "Texto": "Para que ejerzan legalmente los profesionistas en el Estado, es necesario que los documentos a que se refiere el artículo siguiente, sean registrados en la Dirección, la cual expedirá la cédula profesional previo pago de los derechos correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 81,
+            "Texto": "Los documentos que expidan las instituciones de educación a que se refiere el",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "n favor de las personas que comprueben haber realizado los estudios, aprobado los exámenes y, en su caso, haber prestado el servicio social estudiantil correspondiente, que los faculten para ejercer, podrán ser los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Título de Bachillerato Técnico: documento que acredita haber concluido estudios de educación media superior con terminación técnica que requieran un mínimo de cuatro años."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Título de Técnico Profesional: documento que acredita haber concluido estudios de profesional técnico posteriores al bachillerato que requieran un mínimo de dos años;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Título Profesional: documento que acredita haber concluido estudios que requieran de un mínimo de tres años, cursados posteriormente al bachillerato;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Título Profesional de Posgrado: documento que acredita estudios de especialidad o maestría, posteriores a la obtención del título profesional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Grado Académico Doctoral: documento que acredita estudios doctorales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Acta de Titulación: documento que acredita que ha aprobado la modalidad de titulación prevista por las instituciones educativas; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Carta de Pasante: documento que acredita que se han terminado los estudios a que se refieren las fracciones I, II y III de este artículo, se ha cumplido con el servicio social estudiantil, pero no se han cubierto la totalidad de los requisitos para obtener el título."
+              }
+            ]
+          },
+          {
+            "Artículo": 82,
+            "Texto": "Las instituciones de educación establecidas o que se establezcan en el Estado, independientemente de quién les otorgue los reconocimientos de validez oficial, conforme a los términos de esta Ley, están obligados, en materia de profesiones, a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Registrarse en la Dirección, la cual expedirá la constancia respectiva en la que se expresará claramente:\na) El nombre de la institución;\nb) La fecha de su expedición; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "El tipo, niveles y generalidades que la Dirección le solicite respecto a la educación que imparta;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proporcionar a la Dirección a más tardar dentro de los treinta días hábiles siguientes al de iniciados los cursos que imparta, la relación de éstos y su duración, el o los domicilios donde los efectúe, sus planes de estudios, programas y métodos de enseñanza, organización del servicio social, relación del profesorado, y acreditar que cuenta con las instalaciones físicas adecuadas para el logro de sus finalidades y objetivos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informar a la Dirección dentro de los treinta días siguientes a la fecha en que se celebren los exámenes de graduación, los nombres y domicilios de quienes hayan aprobado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover en sus planes de estudios el análisis de la legislación aplicable en materia de profesiones, a fin de que todo graduado esté debidamente informado acerca de las obligaciones y derechos que conlleva el ejercicio profesional; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cuando establezcan nuevas carreras o cursos, en cualquier nivel profesional, deberán informar por escrito a la Dirección con treinta días de anticipación al de su iniciación detallando el contenido y las características de la carrera o curso, los términos del plan de estudios, programas, horas, créditos, así como las condiciones para el ingreso y para la titulación.\nLa institución educativa que no observe sus obligaciones previstas en esta Ley, será acreedora a un extrañamiento público por parte de la Dirección de Profesiones."
+              }
+            ]
+          },
+          {
+            "Artículo": 83,
+            "Texto": "Los documentos a que se refiere el artículo 81 o sus equivalentes, expedidos por las autoridades competentes de otras entidades federativas del país, podrán ser registrados en la Dirección, si sus titulares desean ejercer profesionalmente en Jalisco, siempre que su expedición se haya sujetado a las disposiciones respectivas del Estado de que se trate, de acuerdo con lo establecido en el artículo 121 fracción V de la Constitución Política de los Estados Unidos Mexicanos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "Para los efectos del artículo anterior, la Dirección exigirá la cédula profesional expedida por la Secretaría de Educación Pública o por la autoridad competente de la entidad federativa de donde proviene, y a falta de éstos documentos, los comprobantes idóneos que acrediten haber cursado los estudios y aprobado los exámenes de la rama o especialidad profesional o posgrado que pretende ejercer, pudiendo esto ser avalado por algún colegio de profesionistas legalmente registrado ante la Dirección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "Los documentos a que se refiere el artículo 81 o sus equivalentes, expedidos por las autoridades competentes del extranjero, podrán registrarse en Jalisco, siempre que su otorgamiento se haya sujetado a la correspondiente revalidación de estudios en los términos previstos por las leyes federales.\nUna vez acreditados los requisitos anteriores, la Dirección podrá expedir la cédula profesional correspondiente, la cual estará sujeta a las condiciones y términos legales establecidos en los convenios y tratados internacionales celebrados por el Estado Mexicano con el País de que se trate.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo XIV De la Dirección de Profesiones del Estado",
+        "Artículos": [
+          {
+            "Artículo": 86,
+            "Texto": "La Dirección de Profesiones del Estado es una dependencia de la Secretaría General de Gobierno, integrada por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Director designado por el Gobernador a propuesta del Secretario General de Gobierno, que es el represente legal de la Dirección;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Secretario Ejecutivo designado por el Secretario General de Gobierno; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El personal administrativo necesario para la supervisión, vigilancia y desahogo de los asuntos de su competencia, que se autoricen en el presupuesto de Egresos."
+              }
+            ]
+          },
+          {
+            "Artículo": 87,
+            "Texto": "La Dirección tendrá las facultades y obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fungir como Secretario Técnico de la Comisión y del Consejo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Emitir la constancia de idoneidad al ente certificador e inscribirlo en el Registro Estatal de Actividades Profesionales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autorizar exención de pagos o descuentos a los profesionistas que por causas justificables no puedan sufragar los costos de la certificación de competencias profesionales, de acuerdo a lo que estipule el Reglamento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Llevar el registro y dar seguimiento al funcionamiento de los colegios de profesionistas, federaciones y asociaciones de colegios de profesionistas, extendiendo a su favor la constancia respectiva;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Supervisar el funcionamiento de los colegios de profesionistas, federaciones y asociaciones de colegios de profesionistas, y suspender y cancelar su registro por las causas\nseñaladas en esta Ley, previo el procedimiento de audiencia y defensa contemplado en la Ley del Procedimientos Administrativo del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Coordinar en el Estado el servicio social profesional y vigilar su debido cumplimiento con el auxilio de las instituciones de educación, de los colegios de profesionistas, federaciones y asociaciones de colegios de profesionistas o de los profesionistas en lo particular;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Llevar el registro de las instituciones de educación que expidan título, diploma o grado académico, respecto a los estudios que en las mismas se hayan cursado; así como de los planes de estudio de bachillerato técnico, profesional técnico, las carreras, especialidades, maestrías, o doctorados que en éstas se lleven;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Expedir cédulas para los profesionistas y posgraduados que cumplan con los requisitos establecidos por esta Ley y su Reglamento.\nLas cédulas señalarán claramente la categoría a la que pertenece, fecha de expedición y, en su caso, fecha de expiración, previo pago de los derechos correspondientes.\na) Bachillerato Técnico;\nb) Profesional Técnico;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Licenciatura;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Especialidad;\ne) Maestría; y\nf) Doctorado;\nExpedir cédulas locales;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cancelar el registro de los títulos, diplomas o grados académicos a que se refiere esta Ley, en cumplimiento de sentencia ejecutoriada dictada por autoridad judicial competente;\nOtorgar la autorización temporal a los pasantes o titulados que hayan comprobado la terminación de los estudios en los niveles de profesional técnica y licenciatura, previo cumplimiento del servicio social estudiantil o modalidad de titulación, y el pago de derechos correspondientes.\nLa autorización temporal tendrá vigencia de seis meses y podrá prorrogarse seis meses más si el pasante o titulado acredita estar efectuando los trámites destinados a la titulación o la obtención del título;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Expedir constancias de actualización, acreditadas por los colegios de profesionistas previo el pago de los derechos correspondientes;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Expedir constancias de práctica profesional previo el pago de los derechos correspondientes;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Elaborar un listado de las constancias o certificados de participación en los cursos de actualización o de educación continua expedidos por los colegios de profesionistas a sus agremiados;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Suscribir convenios de colaboración a fin de ofertar cursos de actualización profesional gratuitos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Vincularse con la sociedad a fin de establecer estrategias que permitan supervisar el ejercicio profesional en el estado, a través de la figura de observatorios ciudadanos u otros;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Elaborar un programa anual de actualización profesional integral;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Promover la unificación de los nombres de las distintas carreras profesionales y de posgrado que se cursen en el Estado, así como orientar, con la participación de las agrupaciones de profesionistas, en la distribución de la matrícula de los estudios superiores cuando le sea solicitado;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Efectuar a través de su personal capacitado, inspecciones a los lugares de trabajo de los que se ostenten como profesionistas, a efecto de comprobar que cuentan con los requisitos y autorizaciones legales correspondientes en la materia, con apego a las prevenciones contempladas para los cateos;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Pedir informes a los colegios de profesionistas respecto al ejercicio profesional de sus afiliados;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Elaborar, organizar y actualizar permanentemente el padrón de profesionistas en el Estado.\nPara tal efecto, la Dirección contará con el apoyo de las agrupaciones de profesionistas, de las autoridades estatales y municipales y de las instituciones de educación pública y privada. Podrá también solicitar apoyo a las autoridades federales;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "La Dirección deberá informar los domicilios profesionales a las autoridades de los tres niveles de gobierno bajo los procedimientos que acuerden;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Establecer y organizar delegaciones regionales del Estado, previo acuerdo por escrito del Gobernador, a fin de actualizar y agilizar trámites de registro, expedición de cédulas y autorizaciones, así como del cumplimiento del servicio social profesional;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Fungir como prestador de servicios de medios alternativos de solución de controversias, a petición de parte, en las controversias que se susciten entre los colegios de profesionistas, entre los integrantes de éstas o con otros profesionistas, o entre profesionistas y sus clientes, emitiendo el convenio o laudo correspondiente;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Aplicar las sanciones en materia de profesiones conforme a la presente Ley y sus Reglamentos, así como resolver los recursos que promuevan en el ámbito de su competencia;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Solicitar la publicación en el Periódico Oficial “El Estado de Jalisco” y en los diarios de mayor circulación cuando lo considere conveniente, de las resoluciones y comunicaciones en materia de profesiones;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Solicitar anualmente, dentro de los diez primeros días del mes de enero, la publicación en el Periódico Oficial “El Estado de Jalisco”, de la lista completa de los profesionistas que fueron registrados y autorizados para el ejercicio profesional durante el año anterior;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Proporcionar información respecto al registro, expedición de cédulas, constancias o autorizaciones que lleva a cabo la Dirección a quien demuestre interés jurídico;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Recopilar datos relacionados con las instituciones de educación superior, de enseñanza normal, de profesional técnica, y colegios de profesionistas, sobre regulación, apoyo, organización y control del ejercicio profesional en la República Mexicana y en el Extranjero;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Llevar el registro de los profesionistas que residan en el Estado, aun cuando declaren no ejercer su profesión en el mismo;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Llevar la estadística del ejercicio de la actividad profesional en el Estado;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Vigilar que la publicidad profesional se realice con los requisitos que establece la presente Ley, su Reglamento y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Hacer del conocimiento del Ministerio Público de los actos u omisiones que puedan ser constitutivos de delito, en que incurran quienes se ostenten como profesionistas;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Promover la celebración de convenios de colaboración con instituciones de educación, para efecto de participar en programas de becas y actividades tendientes a lograr la titulación, registro del mismo y emisión de la cédula profesional en forma expedita;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Proponer al Secretario General de Gobierno los derechos que se generen por la aplicación de la presente Ley, para su inclusión en la Ley de Ingresos del Estado; y"
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Las demás que se encuentren establecidas en esta Ley, su Reglamento y en otras disposiciones legales aplicables.\nLa Dirección se coordinará con las Secretarías de Educación y de Innovación, Ciencia y Tecnología para el cumplimiento de las atribuciones de este capítulo en las que dichas Secretarías deban intervenir."
+              }
+            ]
+          },
+          {
+            "Artículo": 88,
+            "Texto": "El pago de derechos que se generen por la aplicación de la presente Ley y su Reglamento se hará con las bases que señale la Ley de Ingresos del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De las Faltas, Responsabilidades y Sanciones en Materia Profesional",
+        "Artículos": [
+          {
+            "Artículo": 89,
+            "Texto": "Las responsabilidades y sanciones por las infracciones administrativas a esta Ley serán dictaminadas e impuestas por la Dirección en los términos de la presente Ley y su Reglamento, aplicando la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.\nLos delitos en materia de profesiones serán perseguidos y sancionados conforme a los ordenamientos penales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 90,
+            "Texto": "A las infracciones establecidas en esta Ley le corresponderá alguna o algunas de las siguientes sanciones, las que podrán imponerse de manera simultánea:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Extrañamiento público;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Multa;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Suspensión temporal del ejercicio de la actividad profesional, y de las autorizaciones para operar como colegio, federación o asociación de profesionistas, o como ente certificador;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Inhabilitación para el ejercicio de la actividad profesional; o"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cancelación definitiva de las autorizaciones para operar como colegio, federación o asociación de profesionistas, o como ente certificador."
+              }
+            ]
+          },
+          {
+            "Artículo": 91,
+            "Texto": "La aplicación de las sanciones que se establecen en este título no libera al infractor del cumplimiento de las obligaciones que dispone esta Ley y operará sin perjuicio de la responsabilidad civil o penal que resulte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta Ley señale para los profesionistas, se actúe con negligencia ante sus clientes, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa de cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción, y podrá suspender o cancelar la autorización para que continúe efectuando las actividades profesionales de tres meses a un año.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 93,
+            "Texto": "Cuando una autoridad permita a un profesionista ejercer una actividad profesional que requiera cédula vigente, sin contar con ella, será acreedor a una multa de cincuenta a doscientas veces el valor de la Unida de Medida y Actualización vigente en la\ncapital del Estado de Jalisco. Lo anterior sin perjuicio de las sanciones previstas en otros ordenamientos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "Cuando una persona dentro del territorio del Estado se ostente como pasante, titulado o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 9º, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción. Lo anterior sin perjuicio de las responsabilidades civiles y penales a que pudiera ser acreedor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 95,
+            "Texto": "Al profesionista que ejerza en el Estado cualquiera de las profesiones a que se refiere el artículo 9º, sin haber obtenido su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los treinta días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la Dirección. La multa será de treinta a sesenta veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción.\nUna vez impuesta y notificada la multa a que se refiere el párrafo anterior, en caso de que el profesionista continúe ejerciendo la actividad profesional sin haber obtenido su cédula profesional, podrá solicitar a la Dirección una prórroga de treinta días para tramitarla. En el supuesto de que el profesionista no solicite el plazo señalado anteriormente o incumpla en tramitar la cédula en dicho periodo, se le impondrá otra multa de hasta el doble de la impuesta establecida en el párrafo anterior.\nSi el reincidente no tramita la expedición de su cédula profesional en el plazo señalado en el párrafo que antecede, la Dirección podrá imponerle además, la prohibición para ejercer su profesión en el Estado de seis a dieciocho meses.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "Cuando se compruebe que existe falsedad en los documentos que los profesionistas hayan presentado para su registro ante la Dirección a efecto de obtener la cédula profesional, se efectuará la cancelación del trámite y de ser el caso se revocará la autorización para el ejercicio profesional, independientemente de las sanciones penales a las que se haga acreedor. Además se le impondrá por parte de la Dirección, una multa de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.\nEn este supuesto, la Dirección deberá de interponer la denuncia de hecho correspondiente ante el Ministerio Público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 97,
+            "Texto": "El profesionista que, perteneciendo a algún colegio de profesionistas debidamente reconocido y registrado por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por más de tres ocasiones, se le impondrá una multa de treinta a sesenta veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción. La misma sanción se impondrá a quienes no perteneciendo a alguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 98,
+            "Texto": "La Dirección podrá suspender el ejercicio profesional y aplicar multa al profesionista involucrado, en materia de certificación profesional voluntaria, por los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se compruebe que existe falsedad en los documentos que presenten ante los colegios de profesionistas, la Dirección o los entes certificadores a efecto de obtener la certificación. En tal caso, la suspensión será de seis meses a un año, y la multa impuesta será de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presente para su registro ante la Dirección constancias de certificación falsas. En tal caso, la suspensión será de seis a dieciocho meses y una multa de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado; o"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Se deroga."
+              }
+            ]
+          },
+          {
+            "Artículo": 99,
+            "Texto": "La Dirección inhabilitará de manera definitiva para el ejercicio de su respectiva actividad profesional a los profesionistas, en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por sentencia ejecutoriada que inhabilite permanentemente a un profesionista para ejercer su actividad profesional; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por reincidir en alguna de las conductas identificadas en las fracciones I, II y III del\nartículo anterior."
+              }
+            ]
+          },
+          {
+            "Artículo": 100,
+            "Texto": "Queda prohibido el uso de la expresión “Colegio” y “de Jalisco” a las asociaciones de profesionistas que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de cinco años el funcionamiento de colegio de profesionista alguno y se les impondrá una multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 101,
+            "Texto": "Toda amonestación, multa, suspensión o inhabilitación, así como la duración de la sanción impuesta por las autoridades competentes, se hará constar en el Registro Estatal de Actividades Profesionales, para lo cual deberá haber constante comunicación con las dependencias y entidades federales, estatales y de otras entidades federativas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 102,
+            "Texto": "La inscripción de las sanciones a que se refiere el artículo anterior sólo podrá ser cancelada por sentencia ejecutoriada que así lo disponga o a solicitud del profesionista previo cumplimiento de la sanción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 103,
+            "Texto": "Se impondrá multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado a la institución educativa que debiendo inscribirse en el Registro, no lo hiciere, a pesar de haber recibido dos extrañamientos públicos por parte de la Dirección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 104,
+            "Texto": "Se amonestará a los colegios de profesionistas que incurran en alguna de las conductas siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Llevar a cabo actividades ajenas a su objeto social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No cumplir con las obligaciones establecidas en la presente ley; o"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No cumplir, en perjuicio de alguno de sus colegiados, con alguna de las disposiciones contenidas en sus estatutos.\nEn caso de una primera reincidencia, se impondrá multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.\nEn cada una de las reincidencias subsecuentes, se impondrá multa equivalente al doble de la sanción impuesta."
+              }
+            ]
+          },
+          {
+            "Artículo": 105,
+            "Texto": "A la persona física que en representación de una asociación de profesionistas, federación o asociación de colegios de profesionistas, pretenda obtener su registro como colegio de profesionistas, federación o asociación de colegios, presente documentación falsa para tales propósitos, se le impondrá multa de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 106,
+            "Texto": "Cuando de manera ulterior la autoridad competente constate, de oficio o a petición de parte, que para obtener la autorización para operar como colegio de profesionistas, se utilizó documentación falsa, se impondrá multa de mil a dos mil veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado y se procederá a la cancelación definitiva de dicha autorización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 107,
+            "Texto": "Cuando para obtener la renovación de la autorización para operar como colegio de profesionistas, federación o asociación de colegios de profesionistas, se utilice documentación falsa, la Dirección de oficio o a petición de parte, procederá a imponer una multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado al colegio correspondiente, al que además se le cancelará de manera definitiva su autorización.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Del Procedimiento de Ejecución de las Infracciones Administrativas",
+        "Artículos": [
+          {
+            "Artículo": 108,
+            "Texto": "Las sanciones previstas en el artículo 90 fracciones I, II, IV, V y VI de esta Ley serán aplicadas por la Dirección, de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Jalisco.\nLas sanciones económicas previstas en esta Ley serán consideradas créditos fiscales y ejecutados por la Secretaría de la Hacienda Pública, de conformidad con las disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 109,
+            "Texto": "Se concede acción individual a todo interesado para denunciar administrativamente ante la Dirección a quien sin título profesional, cédula o diploma de especialidad, ejerza alguna de las actividades profesionales objeto de esta Ley. La Dirección deberá denunciar ante el Ministerio Público los hechos que presuntamente sean constitutivos\nde delito.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 110,
+            "Texto": "Las resoluciones de los colegios de profesionistas sobre la falta de cumplimiento de las obligaciones de los profesionistas en materia de certificación profesional voluntaria, deberán ser puestas en conocimiento de la Dirección por parte del colegio de profesionistas que lleve el control del expediente del profesionista en cuestión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 111,
+            "Texto": "Recibida la comunicación de los colegios de profesionistas o la acción individual mencionada en los artículos precedentes, la Dirección instruirá el proceso administrativo correspondiente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 112,
+            "Texto": "Las sanciones interpuestas por la Dirección podrán ser impugnadas conforme a los recursos que prevé la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 113,
+            "Texto": "Los afectados por las resoluciones de la Dirección podrán optar por interponer los recursos establecidos en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, o interponer el Juicio de Nulidad previsto en la Ley de Justicia Administrativa del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 114,
+            "Texto": "Lo establecido en los artículos anteriores no será aplicable cuando la Dirección actúe como prestador de servicios de medios alternativos de solución de conflictos.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente Decreto entrará en vigor el 1° de enero del año 2016, previa su publicación en el Periódico Oficial “El Estado de Jalisco”, con las salvedades establecidas en los artículos transitorios siguientes.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga la Ley para el Ejercicio de las Profesiones del Estado de Jalisco.\n\nEl Gobierno del Estado expedirá cédulas profesionales definitivas en sustitución de aquellas de naturaleza temporal que posean los profesionistas a la entrada en vigor del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "La certificación profesional será obligatoria a partir del séptimo año de vigencia de la Ley.\n\nLa emisión de las cédulas definitivas referidas en el transitorio anterior no tendrá costo alguno para el profesionista.\nTABLA DE REFORMAS Y ADICIONES\nAL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16.,\nArtículo Cuadragésimo quinto. Se reforman los artículos 33, 92, 93, 94, 95, 96, 97, 98, 100, 103, 104, 105, 106 y 107 de la ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco, Oct. 11 de 2016. sec. VI.\n26500/LXI/17.- Se reforma el artículo cuarto transitorio del Decreto 25559/LX/15 mediante el que se expidió la Ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco; y se adiciona un párrafo a la fracción IV del artículo 23 de la ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2017.- Oct. 31 de 2017. Sec. V.\n27301/LXII/19.- Se reforman los artículos 10 y 149 de la Ley del Instituto de Pensiones del Estado de Jalisco; se reforman los artículos 2, 15, 18, 20, 21, 22 y 24 de la Ley de Incompatibilidades para los Servidores Públicos, reglamentaria del artículo 112 de la Constitución Política del Estado de Jalisco; se reforman los artículos 34 y 52 de la Ley para el Desarrollo Económico del Estado de Jalisco; se reforma el artículo 158 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; y se reforman los artículos 47 y 108 de la Ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco.- Ago.10 de 2019 sec III.\n28427/LXII/21.- Se adiciona el artículo 49 de la Ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco.- Jul. 29 de 2021, Secc. VIII\n29182/LXIII/23.- Se reforman los artículos 4 fracción X, 7 fracción II y IV 11 fracciones VI y X, 12 fracciones IV y XII, 14, 15, 33 fracción XIII, 46 fracción I, 47, 55, 60, 61, 74 fracción II y 80 y 87 fracciones VIII y IX, 98, 109, 110, se modifica la denominación del capítulo X para esclarecer que la certificación profesional es voluntaria y se derogan los artículos 13 fracción II, 33 fracción XIV, 37 fracción IV, 55 fracciones II y III, 56, 57, 58 y 98 fracción III de la Ley para el Ejercicio de las Actividades Profesionales del Estado de Jalisco.- Jun. 3 de 2023, sec.",
+            "Fracciones": [
+              {
+                "Fracción": "V",
+                "Texto": "LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO\nAPROBACIÓN: 22 de octubre de 2015\nPUBLICACIÓN: 1 de diciembre de 2015\nVIGENCIA: 1 de enero de 2016"
+              }
+            ]
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Los profesionistas que estén obligados a presentar su certificación profesional y que al 1 de septiembre de 2018 no cuenten con cédula definitiva o de especialidad, deberán observar el procedimiento de certificación previsto en el artículo 55 de la Ley y su cédula será con vigencia temporal.\nLa Secretaría General de Gobierno, por conducto de la Dirección de Profesiones del Estado, dispondrá de las acciones necesarias para simplificar el proceso de registro de títulos y expedición de cédula profesional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los profesionistas que estén obligados a presentar su certificación profesional y cuenten con cédula definitiva con antelación a lo que establece el transitorio cuarto, podrán certificarse bajo la modalidad de evidencias de actualización continua previstas en el artículo 55 fracción III de la Ley, de acuerdo a los criterios que establezca la Comisión. En este caso no será obligatorio renovar su cédula.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "La Comisión podrá implementar una prueba piloto del proceso de certificación profesional a partir del año 2019. Para los profesionistas que participen y acrediten la certificación, será considerada con todos los efectos legales previstos por la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Todos los colegios de profesionistas que, a la entrada en vigor de la presente Ley, se encuentren debidamente reconocidos, autorizados y registrados ante la Dirección, contarán con dos años a partir de la entrada en vigor de la Ley, para cumplir con los requisitos previstos y así conservar su registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Las instituciones educativas que a la fecha de entrada en vigor de esta Ley se encuentren prestando sus servicios educativos en el Estado y aún no se han registrado en la Dirección, contarán con seis meses para hacerlo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "Todos los lineamientos y registros dispuestos por esta Ley, así como sus Reglamentos, deberán quedar conformados y puestos en operación por la autoridad dentro del plazo de doce meses, contados a partir de la entrada en vigor del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "La Comisión Interinstitucional se pondrá en funcionamiento dentro de los dieciocho meses siguientes a la entrada en vigor del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "El primer Catálogo General de Actividades Profesionales deberá quedar emitido por la Comisión Interinstitucional dentro del plazo de dos años contado a partir de la entrada en vigor del presente Decreto.\nSALÓN DE SESIONES DEL COGNRESO DEL ESTADO GUADALAJARA, JALISCO, 22 DE OCTUBRE DE 2015\nDiputado Presidente JUAN MANUEL ALATORRE FRANCO\nDiputado Secretario Diputada Secretaria\nGUSTAVO GONZÁLEZ VILLASEÑOR GABRIELA ANDALÓN BECERRA (Rúbrica)\nPROMULGACIÓN DEL DECRETO 25559/LX/15, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 22 DE OCTUBRE DE 2015.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 23 veintitrés días el mes de noviembre de 2015 dos mil quince.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ\nEl Secretario de Gobierno ROBERTO LÓPEZ LARA\nTRANSITORIOS DEL DECRETO 29182/LXIII/23",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

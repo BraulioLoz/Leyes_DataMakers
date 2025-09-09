@@ -1,0 +1,2075 @@
+{
+  "0186.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 27307/LXII/19 EL CONGRESO DEL ESTADO DECRETA:\nSE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, EXPEDIDA MEDIANTE DECRETO 22622/LCIII/09 Y SUS REFORMAS, QUE CREA LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y QUE DEROGA LOS ARTÍCULOS 154, 155, 156, 157 Y 158 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Objeto de la Ley",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "1. La presente Ley es de orden público y de observancia general en el Estado de Jalisco y sus municipios en materia de mejora regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "1. Es objeto de la presente Ley establecer los principios y las bases en materia de mejora regulatoria a los que deberán sujetarse las autoridades públicas estatales y municipales, sus entidades, órganos y organismos gubernamentales, así como los órganos constitucionales autónomos.\n2. Los poderes legislativo y judicial, así como los órganos constitucionales autónomos serán sujetos obligados sólo respecto de las obligaciones contenidas en el registro estatal de regulaciones, trámites y servicios y aquellas que específicamente prevea la presente Ley.\n3. Los municipios podrán celebrar convenios de coordinación con el Estado para la aplicación de la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "1. A falta de disposición expresa, y en cuanto no se oponga a lo prescrito en este ordenamiento, se estará a lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco y a la Ley General de Mejora Regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "1. Son objetivos de esta Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer la obligación de las autoridades estatales, en el ámbito de su competencia, de implementar políticas de mejora regulatoria para el perfeccionamiento de regulaciones, la simplificación de trámites y servicios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Regular la organización y funcionamiento del Sistema Estatal de Mejora Regulatoria, así como establecer las bases de coordinación entre sus integrantes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover la coordinación del Sistema Estatal con el Sistema Nacional de Mejora Regulatoria, conforme a la Estrategia, de acuerdo con el objeto de la Ley General, de la presente ley y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Asegurar la aplicación de los principios de mejora regulatoria previstos en la presente Ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la eficacia y eficiencia gubernamental;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Mejorar el marco normativo vigente;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover la desregulación y simplificación administrativa de trámites y servicios, así como la aplicación de la presente ley en la emisión de nuevas regulaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fomentar el conocimiento, por parte de la sociedad, de la regulación estatal y municipal asociada a trámites y servicios;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Garantizar que, en la interacción de los sujetos obligados y la población, se privilegie el interés de la sociedad;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Establecer los principios, bases, procedimientos e instrumentos para que las regulaciones garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Coordinar acciones de los sectores público, privado y social para lograr los fines de la mejora"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Establecer las obligaciones de los sujetos obligados en materia de mejora regulatoria;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover el uso de las tecnologías de la información y la comunicación, a fin de hacer más eficientes los trámites, servicios y actos administrativos;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Propiciar la homologación y estandarización de trámites y servicios, formatos, requisitos, actos administrativos y reglamentos de los sujetos obligados;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Establecer las bases y lineamientos para el diseño de los planes y programas de mejora regulatoria de los sujetos obligados, así como la obligatoriedad de su elaboración y cumplimiento;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Regular los procedimientos del Análisis de Impacto Regulatorio y sus casos de exención;\nImpulsar la simplificación y el mejoramiento de los procesos gubernamentales;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Promover la participación social en la mejora regulatoria, a través de la protesta ciudadana y de sugerencias de mejora de trámites y servicios;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Fomentar estímulos a quien implemente políticas de mejora regulatoria con probada eficacia, en sus ámbitos de competencia, en cumplimiento de la Ley; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Todos aquellos que prevea la legislación aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "1. Para efectos de la presente Ley se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Agenda Regulatoria: Documento que contiene la propuesta regulatoria de los sujetos obligados de la administración pública estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Análisis de Impacto Regulatorio: Herramienta por la que se analice el impacto que genere una regulación aplicable en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autoridades de Mejora Regulatoria: La Secretaría de Desarrollo Económico y los Consejos de mejora regulatoria municipales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cargas administrativas: Los costos derivados de obtener, leer y comprender trámites, desarrollar estrategias de cumplimiento y satisfacer los requisitos que son exigidos para la presentación de trámites, incluida la recolección, procesamiento, información y almacenamiento de datos; sin embargo, no incluye los costos de las medidas tomadas para dar cumplimiento a las regulaciones, ni los costos del sector público derivados de la aplicación de las regulaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cartas compromiso ciudadanas: Documento público, accesible, sencillo y claro que proporciona a la ciudadanía la información necesaria para realizar un trámite o solicitar un servicio, hace énfasis en los estándares de calidad que la dependencia o entidad estatal se compromete a cumplir, e incluye formas para la participación ciudadana;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Catálogo Nacional: El Catálogo Nacional de Regulaciones, Trámites y Servicios previsto en la Ley General de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Catálogo Estatal: El Catálogo Estatal de Regulaciones, Trámites y Servicios;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Catálogo Municipal: El Catálogo Municipal de Regulaciones, Trámites y Servicios;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Conamer: La Comisión Nacional de Mejora Regulatoria prevista en la Ley General de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Consejo Estatal: El Consejo Estatal de Mejora Regulatoria del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Consejo Nacional: El Consejo Nacional de Mejora Regulatoria, previsto en la Ley General de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Costos de Cumplimiento: Los costos en los que incurren los agentes económicos y la población para cumplir con las Regulaciones, los Trámites o los requisitos de los Servicios. Se incluyen en este concepto los gastos generales, administrativos, de equipamiento, materiales, de contratación de servicios, así como los costos tarifarios, laborales salariales y no salariales, cargas administrativas, entre otros;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Enlace de Mejora Regulatoria: El servidor público designado como responsable de mejora regulatoria al interior de cada instancia gubernamental;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Estrategia Estatal: El Instrumento programático basado en la Estrategia Nacional, adaptado a las necesidades y requerimientos del Estado;\nEstrategia Nacional: La Estrategia Nacional de Mejora Regulatoria prevista en la Ley General de Mejora Regulatoria;\nExpediente Electrónico para Trámites y Servicios: El conjunto de documentos emitidos o incorporados por los sujetos obligados, asociados a personas físicas o jurídicas, que pueden ser utilizados por cualquier autoridad competente para resolver trámites y servicios;\nGobierno Electrónico: El uso y aplicación de herramientas digitales y electrónicas como tecnologías de la información y de la comunicación, con el fin de propiciar que las autoridades gubernamentales actúen con mayor eficacia y eficiencia, a fin de que los servicios que prestan sean más accesibles para la ciudadanía, permitan un mejor y más rápido acceso a la información, se eviten actitudes discrecionales, se reduzca al máximo la corrupción en materia de trámites y se brinde una imagen de responsabilidad y transparencia;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Identidad digital: Conjunto de datos identificativos de una persona física o jurídica, que le distinguen de manera indubitable en sistemas de información y comunicación tecnológica, y que estará validada y protegida en los términos que disponga el Reglamento de la presente Ley y las demás disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Ley: La presente Ley de Mejora Regulatoria para el Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Ley General: La Ley General de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Medio de Difusión: El Periódico Oficial “El Estado de Jalisco” y las “Gacetas Municipales”;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Mejora Regulatoria: Proceso continuo y sistemático de análisis, revisión y modificación, creación o eliminación de trámites y requisitos, a fin de eficientar, agilizar y economizar los procedimientos que deben realizar los ciudadanos ante las autoridades administrativas estatales y municipales, orientado a la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la Ley General y la presente Ley;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Observatorio: El Observatorio Nacional de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Propuesta Regulatoria: Los anteproyectos de nuevas disposiciones de carácter general o las modificaciones a las vigentes, sujetas al análisis de impacto regulatorio en los términos de la presente Ley;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Protesta Ciudadana: Mecanismo mediante el cual el ciudadano puede quejarse o inconformarse por las conductas, actos u omisiones de los servidores públicos, que infrinjan las disposiciones previstas en la presente ley;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Reglamento: El Reglamento de esta Ley;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Registro Estatal: El Registro Estatal de Trámites y Servicios;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Registro Municipal: El Registro Municipal de Trámites y Servicios del municipio que corresponda;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Secretaría: La Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Servicio: Cualquier beneficio o actividad que los sujetos obligados, en el ámbito de su competencia, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Simplificación: Procedimiento por el cual se propicia la síntesis de las regulaciones y de los procesos administrativos, la reducción de plazos, de requisitos, la digitalización y la abrogación de trámites que buscan eliminar cargas al ciudadano;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Sistema Estatal: El Sistema Estatal de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Sistema Nacional: El Sistema Nacional de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Sujeto Obligado: La administración pública estatal, municipal, sus dependencias y entidades, los poderes legislativo y judicial y los organismos constitucionales autónomos;"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Trámite: Cualquier solicitud o entrega de información que las personas físicas o jurídicas realicen ante la autoridad competente estatal o municipal, ya sea para cumplir una obligación o, en general, para que se emita una resolución; y"
+              },
+              {
+                "Fracción": "XXXVI",
+                "Texto": "Ventanilla Especializada: Sitio para la recepción de solicitudes de trámites administrativos y de servicios, para la tramitación digital de licencias, permisos o autorizaciones, en coordinación con las autoridades competentes, así como centro de inclusión digital para la consulta y asesoría personal del ciudadano."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "1. Los plazos fijados en días por esta Ley, se entenderán como días hábiles; y respecto de aquellos que se fijen en meses o años, se entenderán referidos de fecha a fecha e incluirán los días inhábiles.\n2. Cuando no se especifique plazo, se entenderán cinco días hábiles para cualquier actuación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "1. Las autoridades de mejora regulatoria y los sujetos obligados impulsarán el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para facilitar la interacción con los ciudadanos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Principios de Mejora Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "1. La política de mejora regulatoria estará orientada por los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Máximo beneficio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Seguridad jurídica;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Control regulatorio;\nMáxima publicidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Prevención razonable de riesgos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Simplificación en la regulación de trámites y servicios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Gobierno electrónico;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Transparencia, responsabilidad y rendición de cuentas;\nLibre concurrencia y competencia económica;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Reconocimiento de asimetrías en el cumplimiento regulatorio;\nCombate frontal a la corrupción y la impunidad;\nMejora continua de procesos, procedimientos y sistemas gubernamentales; y\nLos demás que tiendan al cumplimiento de los objetivos de esta Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Objetivos de la Política de Mejora Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "1. Son objetivos de la política de mejora regulatoria los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Simplificar la apertura, instalación, funcionamiento y ampliación de empresas, mejorando el ambiente de negocios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que las regulaciones que se expidan generen beneficios superiores a los costos y produzcan el máximo bienestar para la sociedad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar el desarrollo socioeconómico y la competitividad en la entidad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover la eficacia y eficiencia de los trámites y servicios de los sujetos obligados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Generar seguridad jurídica, claridad y transparencia, eliminando duplicidades normativas y de funciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Simplificar y modernizar los trámites y servicios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fomentar una cultura de gestión gubernamental centrada en las personas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Facilitar, a través del Sistema Estatal, la coordinación y participación entre las Autoridades de mejora regulatoria y los sujetos obligados;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la participación de los sectores público, social y privado en la mejora regulatoria;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover, facilitar y difundir la utilización de plataformas digitales para la autogestión de trámites y servicios, para la reducción del uso de papel, para la integración de expedientes electrónicos que permitan la interoperabilidad gubernamental, su eficaz custodia y la estandarización de los mismos, con estricta observancia de las disposiciones de la Ley de Protección de Datos Personales en Posesión de Sujetos obligados del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover la coordinación de los sujetos obligados para la interoperabilidad de sus sistemas informáticos; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Los demás que determine la normatividad aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Del Objeto, Integración y Herramientas",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "1. El Sistema Estatal tiene por objeto coordinar a las autoridades estatales y municipales, en sus respectivas competencias, de conformidad con la Ley General, la presente Ley, la Estrategia Estatal y demás disposiciones jurídicas aplicables en la materia, así como coordinarse con el Sistema Nacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "1. El Sistema Estatal estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Consejo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Estrategia Estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las Autoridades de Mejora Regulatoria;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los Sistemas de Mejora Regulatoria de los Municipios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los Consejos Regionales Municipales de Mejora Regulatoria; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los Sujetos Obligados."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "1. Son herramientas del Sistema Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Catálogo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Agenda Regulatoria;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Análisis de Impacto Regulatorio;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los Programas de Mejora Regulatoria; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las Encuestas, Información Estadística y Evaluación en materia de mejora regulatoria."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Consejo Estatal de Mejora Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "1. El Consejo Estatal es un órgano de carácter permanente y honorífico del Estado, responsable de proponer, coordinar, orientar, promover y fomentar las políticas en materia de mejora regulatoria en la entidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "1. El Consejo Estatal se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente que será el Titular del Poder Ejecutivo del Estado, quien lo presidirá y en su ausencia será suplido por el Titular de la Secretaría de Desarrollo Económico;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Titular de la Secretaría de Innovación, Ciencia y Tecnología;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Titular de la Coordinación General de Innovación Gubernamental del Gobierno del Estado;\nEl Titular de la Secretaría Técnica de la Secretaría de Desarrollo Económico del Estado, quien fungirá como Secretario Ejecutivo del Consejo Estatal con las atribuciones y obligaciones previstas en esta Ley y demás disposiciones reglamentarias;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Del Poder Ejecutivo del Estado, los titulares de las secretarías que se requieran, según el tema que se trate;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Del Poder Legislativo del Estado, el Diputado Presidente de la Mesa Directiva del Congreso del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Del Poder Judicial del Estado, el Magistrado Presidente del Supremo Tribunal de Justicia del Estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El Presidente Municipal del Ayuntamiento que sea cabecera regional, de conformidad con las disposiciones aplicables;\nLos titulares de los Organismos Constitucionales Autónomos estatales;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "El Titular del Consejo de Cámaras Industriales de Jalisco;\nEl Titular de la Cámara Nacional de Comercio de Guadalajara;\nEl Titular de la Confederación Patronal de la República Mexicana;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "El Titular del Consejo Agropecuario de Jalisco;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "EL Titular del Consejo Mexicano de Comercio Exterior;\nEl Presidente del Comité de Participación Social del Sistema Estatal Anticorrupción;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "EL Titular del Instituto de Información Estadística y Geográfica de Jalisco;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Un representante del Observatorio Nacional de Mejora Regulatoria; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Podrán ser invitados especiales del Consejo Estatal, dependiendo del asunto que se trate, todas aquellas personas o instituciones que tengan relación con los temas a tratar , previamente aprobados por el Presidente.\n2. Los integrantes del Consejo Estatal podrán contar con un suplente designado mediante oficio ante la Secretaría Técnica.\n3. El suplente deberá ser de un nivel jerárquico inmediato inferior o equivalente y tendrá los mismos derechos y obligaciones que el titular en el Consejo.\n4. La participación en el Consejo Estatal será honorífica, por lo que no se recibirá remuneración económica alguna por la integración al mismo.\n5. Los representantes de organizaciones privadas o sociales, que sean invitados permanentes o especiales, en ningún caso podrán ser considerados como servidores públicos.\n6. Los integrantes mencionados en las fracciones I, II y III participarán con derecho a voz y voto. Los demás integrantes participarán con voz, pero sin voto."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "1. El Consejo Estatal tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer e implementar en el ámbito de su competencia la Estrategia Nacional de mejora regulatoria, aprobada previamente por el Consejo Nacional;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formular, desarrollar e implementar la Estrategia Estatal y la política de mejora regulatoria, estableciendo para tal efecto directrices, bases, instrumentos, lineamientos y mecanismos ajustados a la Estrategia Nacional;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar su Programa anual de Trabajo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer el uso de metodologías, instrumentos, programas, criterios y herramientas acordes a las buenas prácticas en materia de mejora regulatoria;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Emitir recomendaciones vinculatorias, en su caso, a los sujetos obligados para el debido cumplimiento de las disposiciones de esta Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover que los sujetos obligados evalúen las regulaciones nuevas y las existentes, así como los costos de cumplimiento de los trámites y servicios que ofrecen;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer mecanismos de coordinación para la implementación y operación de la mejora regulatoria en los municipios;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Conocer los informes de resultados de la Secretaría y los de avances de los municipios;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Proponer al Titular del Poder Ejecutivo del Estado y, en su caso, a los municipios proyectos de reformas y adiciones que permitan simplificar, actualizar, modernizar y adecuar el marco regulatorio;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Recomendar la simplificación de los requisitos, trámites, servicios y plazos, en el ámbito estatal;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Difundir entre los sectores público, social y privado, los avances alcanzados en materia de mejora regulatoria en el país, el Estado y sus municipios;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Elaborar y, en su caso, aprobar el Reglamento interior del Consejo Estatal;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Conocer y analizar los resultados de las encuestas, información estadística y evaluación en materia de Mejora Regulatoria, de conformidad con la presente Ley;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Integrar comités temáticos para conocer y desahogar los asuntos de su competencia, convocando por conducto del Presidente a los vocales e invitados especiales según el tema;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Promover la creación de espacios físicos o electrónicos como centros de inclusión digital que faciliten al ciudadano el uso de las tecnologías de la información y de la comunicación en la gestión y realización de trámites y servicios y brindar la capacitación necesaria para los usuarios;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Promover y realizar las acciones necesarias para que se desahoguen vía remota o electrónica, actos jurídicos y gestión de trámites en línea;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Promover ante las autoridades competentes la generación de identidad digital de ciudadanos, la creación de expedientes electrónicos, la digitalización documental, que permita la realización vía remota o electrónica de trámites y servicios, observando las disposiciones previstas en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "1. El Presidente del Consejo Estatal tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convocar y presidir las sesiones del Consejo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dar trámite a las propuestas del Consejo Estatal ante las autoridades competentes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informar, por sí o por conducto del Secretario Ejecutivo del Consejo Estatal a los sujetos obligados, sobre la atención y cumplimiento de los acuerdos derivados del Consejo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar al Consejo Estatal la propuesta del Programa Anual de Trabajo, la agenda de reuniones y el informe anual para su aprobación; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que le confiera la normatividad aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "1. Son atribuciones del Secretario Ejecutivo del Consejo Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar, por instrucciones del Presidente, la convocatoria de las sesiones del Consejo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar las reuniones del Consejo Estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar la propuesta de orden del día de cada sesión y someterla a la aprobación del Presidente;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coadyuvar en la realización de las acciones necesarias para el desarrollo de las sesiones del Consejo Estatal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Levantar las actas de cada sesión del Consejo Estatal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recabar la firma de los asistentes a cada reunión;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dar seguimiento a los acuerdos surgidos en las sesiones y promover su cumplimiento;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Difundir los acuerdos, compromisos y actividades que resulten de las sesiones del Consejo Estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Resguardar la información sobre el seguimiento y organización del Consejo Estatal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dar seguimiento a los acuerdos y acciones derivados de las reuniones del Consejo Estatal;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Preparar el proyecto de informe anual del Consejo Estatal y someterlo a la aprobación del Presidente;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Presentar al Consejo Estatal el esquema de evaluación del proceso de mejora regulatoria en el Estado, para su opinión y rendir el informe sobre los resultados del mismo, por lo menos una vez al año;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Informar de los indicadores, resoluciones y demás disposiciones emitidas por la Comisión Nacional, así como por el Observatorio Nacional; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que prevea la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "1. Son atribuciones de los Vocales del Consejo Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asistir a las reuniones a las que fueron convocados en forma personal o a través de representantes designados conforme a la presente Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer casos para la aplicación del proceso de mejora regulatoria o desregulación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Colaborar en la elaboración de propuestas en materia de creación normativa para propiciar el desarrollo del Estado o de desregulación económica, en el ámbito estatal;\nParticipar en los grupos de trabajo que se organicen, para atender los casos que requieran participación interinstitucional; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que el Pleno del Consejo Estatal les confiera."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "1. El Consejo Estatal celebrará por lo menos cuatro sesiones ordinarias al año, y de forma extraordinaria cuando sea solicitado por el Presidente del Consejo Estatal o por un tercio de sus miembros, por conducto del Secretario Ejecutivo.\n2. Las convocatorias a las sesiones se harán con una anticipación de por lo menos cinco días hábiles para el caso de las sesiones ordinarias, y de tres días hábiles para el caso de las sesiones extraordinarias; y en caso de ser necesaria una segunda convocatoria, ésta se realizará con al menos veinticuatro horas de anticipación, y se llevará a cabo con el número de convocados que asistan.\n3. Para sesionar válidamente se requerirá la presencia de la mitad más uno de los integrantes del Consejo Estatal con derecho a voto.\n4. Ninguna sesión será válida sin la presencia de su Presidente o de la persona que deba suplirlo.\n5. Para la operación y coordinación del Consejo Estatal, el Presidente y el Secretario Ejecutivo harán uso de los recursos asignados a la Secretaría, en las correspondientes partidas presupuestales autorizadas.\n6. En los casos en que no sea posible la presencia física de los integrantes del Consejo Estatal en un mismo lugar, las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "1. Los acuerdos del Consejo Estatal deberán tomarse por mayoría simple de votos de los presentes. En caso de empate, el Presidente o quien lo supla tendrá voto de calidad.\n2. Toda sesión del Consejo Estatal constara en acta que contendrá los acuerdos aprobados y será firmada por cada uno de los asistentes. El Secretario Ejecutivo del Consejo será el encargado de elaborar el acta, recabar las firmas y de su resguardo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Estrategia Estatal de Mejora Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "1. La Estrategia Estatal es el instrumento programático que tiene como propósito articular la política de mejora regulatoria de los sujetos obligados a efecto de asegurar el cumplimiento del objeto de esta ley.\n2. La Estrategia Estatal se ajustará a lo dispuesto por la Estrategia Nacional y tendrá una visión a corto, mediano y largo plazo, con un horizonte a diez años, revisable cuando menos cada dos años.\n3. La Estrategia Estatal aprobada y publicada en el Periódico Oficial “El Estado de Jalisco” será vinculante para los sujetos obligados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "1. La Estrategia Estatal comprenderá, al menos, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diagnóstico estatal y municipal de la situación que guarda la política de mejora regulatoria en la entidad que elabore el Consejo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los objetivos de corto, mediano y largo plazo de la mejora regulatoria;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las medidas para reducir y simplificar trámites y servicios;\nLas buenas prácticas en materia de mejora regulatoria con posibilidades de aplicación estatal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las acciones, medidas y programas de mejora regulatoria;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los mecanismos para garantizar la congruencia de la regulación que expidan los sujetos obligados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las directrices, mecanismos y lineamientos para integrar, actualizar y operar el Registro Estatal de Trámites y Servicios, el Catálogo Estatal, incluyendo procedimientos, formatos y plazos para que los sujetos obligados ingresen la información correspondiente;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los lineamientos para la aplicación y cumplimiento de estándares mínimos en la implementación de las herramientas del Sistema Estatal;\nLos lineamientos del Análisis de Impacto Regulatorio;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Metodología para el diagnóstico, revisión y actualización periódica del Registro Estatal de Regulaciones;\nLos instrumentos de participación de la sociedad en la integración de las herramientas del Sistema Estatal;\nEl procedimiento a que deberá sujetarse la protesta ciudadana;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Los lineamientos para fortalecer las capacidades jurídicas e institucionales en materia de mejora"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "El procedimiento de evaluación y medición del cumplimiento de los objetivos, programas y acciones derivados de la política de mejora regulatoria;\nLos mecanismos de coordinación de los sujetos obligados; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Los demás que señale la normatividad aplicable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera De la Secretaria de Desarrollo Económico",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "1. Son atribuciones de la Secretaría en materia de mejora regulatoria:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar la Estrategia Estatal y presentarla al Consejo Estatal para su aprobación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Celebrar convenios con las autoridades municipales, estatales, federales y organismos internacionales que coadyuven al cumplimiento de los objetivos de esta Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informar anualmente al Consejo Estatal de las actividades llevadas a cabo en materia de mejora"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Atender los lineamientos del Sistema Nacional con relación a la participación estatal en la integración y funcionamiento del Catálogo Nacional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer al Consejo Estatal los procesos de evaluación de la implementación de la política pública de la mejora regulatoria en el Estado y la percepción de la población;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Participar en el proceso de evaluación del Observatorio Nacional de Mejora Regulatoria y, en su caso, atender las opiniones que le formule en términos de lo previsto por la Ley General;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proporcionar la información que le sea solicitada en términos de la presente Ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Administrar los mecanismos de captación y seguimiento de las protestas ciudadanas;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Integrar, operar y administrar el registro estatal de trámites y servicios;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dictaminar las propuestas regulatorias y los análisis de impacto regulatorio respectivos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Conocer, autorizar y monitorear los Programas de Mejora Regulatoria de los Sujetos obligados de la Administración Pública Estatal;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proponer y promover la realización del diagnóstico de las cargas administrativas de los trámites y servicios con la información proporcionada por los sujetos obligados;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Proponer a los sujetos obligados la revisión de los procedimientos y disposiciones que regulan sus trámites y servicios, con la finalidad de simplificarlos, modernizarlos o disminuir su costo;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Diseñar e implementar programas de capacitación y asesoría técnica a los sujetos obligados en materia de mejora regulatoria;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Elaborar, proponer e implementar programas para la promoción de la mejora regulatoria;\nEstablecer mecanismos para dar publicidad a la agenda regulatoria de los sujetos obligados de la administración pública estatal;\nOrganizar y participar en foros, conferencias, diplomados, talleres, convenciones, congresos y similares de mejora regulatoria;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Instruir a las dependencias y entidades de la administración pública estatal para que realicen evaluaciones y conocer los resultados con el propósito de verificar que las regulaciones cumplen eficazmente con los objetivos de las mismas;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Proponer al Consejo Estatal recomendaciones que requieran acción inmediata, derivada de la identificación de problemáticas regulatorias que incidan en la competitividad o el desarrollo social y económico del Estado;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Promover la simplificación administrativa de trámites;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Promover y facilitar los mecanismos de apertura rápida de empresas a través del sistema de apertura rápida de empresas; y"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Las demás que prevea esta Ley, su Reglamento, otras disposiciones jurídicas aplicables y el Consejo Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "1. La Coordinación General de Innovación Gubernamental del Gobierno del Estado apoyará la aplicación de las acciones relacionadas con el proceso de mejora regulatoria, particularmente en lo concerniente a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desarrollar estrategias de gobierno electrónico que faciliten la realización de trámites y procesos que involucren la participación de las dependencias y organismos estatales, o de las instancias municipales que soliciten su asesoría e intervención, con el fin de agilizarlos, estandarizarlos y evitar o reducir al máximo las actitudes discrecionales de las autoridades involucradas, en beneficio de los particulares, considerando las sugerencias en el tema que haga el Consejo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Crear, atendiendo a la disponibilidad presupuestal, unidades o centros informáticos que permitan conformar una amplia base de datos estatales y, en su caso, municipales, que facilite y agilice el acceso de los servidores públicos y de los particulares en general a la misma, coadyuvando a facilitar la realización de trámites, homologarlos en la medida de lo posible y simplificar la consulta del acervo normativo de los tres órdenes de gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer estrategias relacionadas con el establecimiento de kioscos y otros medios electrónicos que permitan la realización de trámites;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover, en coordinación con la Secretaría, la elaboración de cartas compromiso ciudadanas entre las dependencias y organismos estatales, así como en los municipales que lo soliciten formalmente, brindándoles asesoría y apoyo en la revisión y aplicación de la reingeniería de sus procesos; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que le confieran otras disposiciones jurídicas en materia de mejora regulatoria."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda De los Municipios",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "1. Los municipios, en ejercicio de su autonomía, deberán implementar un Sistema Municipal de Mejora Regulatoria para el cumplimiento de las disposiciones previstas en la presente Ley y en las demás disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "1. Los municipios integrarán Consejos Municipales de Mejora Regulatoria, los que se coordinarán con la autoridad de mejora regulatoria estatal para garantizar el eficaz funcionamiento del Sistema Estatal y del Nacional de Mejora Regulatoria.\n2. Los Consejos Municipales, además de las atribuciones que se les asignen reglamentariamente y las que les correspondan en los términos previstos por la presente Ley, deberán elaborar su programa anual de mejora regulatoria, su agenda regulatoria como guía con propuestas de creación de regulaciones o reformas en su ámbito de competencia y sus análisis de impacto regulatorio.\n3. Los Ayuntamientos que no tengan capacidad para integrar Consejos Municipales de mejora regulatoria, podrán suscribir convenios con la Secretaría para que reciban la capacitación y los apoyos necesarios para el cumplimiento de lo dispuesto en la presente Ley y en las disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "1. Los municipios, al integrar y expedir la regulación administrativa de la materia, procurarán la homologación y estandarización de trámites y servicios, formatos, requisitos y actos administrativos entre iguales y de conformidad con las disposiciones previstas en la Ley General, en la presente ley y en las demás disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "1. Los municipios podrán suscribir convenios de coordinación con otros municipios de la entidad para su integración y representación en el Consejo Estatal, pudiendo integrar Consejos Regionales Municipales de Mejora Regulatoria de conformidad con su vocacionamiento o según las disposiciones de regionalización administrativa o las que les sean aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De los Sujetos Obligados",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "1. Son atribuciones de los sujetos obligados las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar su proceso de mejora regulatoria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar la elaboración del Programa de Mejora Regulatoria y presentarlo a la opinión y autorización de la Autoridad de Mejora Regulatoria correspondiente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Informar a la Autoridad de Mejora Regulatoria correspondiente, los avances y resultados en la ejecución del Programa de Mejora Regulatoria;\nSuscribir y enviar a la Autoridad de Mejora Regulatoria respectiva las Propuestas Regulatorias y el Análisis de Impacto Regulatorio, que formule el Sujeto Obligado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Actualizar la información del Registro Estatal de Trámites y Servicios;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Actualizar la información del Registro Estatal de Regulaciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Colaborar y proporcionar información en materia de mejora regulatoria requerida por la Comisión Nacional, el Sistema Nacional u otro ente que realice evaluaciones en este ámbito;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Informar a la Autoridad de mejora regulatoria sobre la atención de las recomendaciones que hubiere recibido, o bien sobre las razones que impiden su atención; y\nLas demás que prevea esta Ley y su Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "1. Los titulares de los sujetos obligados designarán, mediante acuerdo delegatorio, a un responsable oficial de coordinar y articular la comunicación con la autoridad de mejora regulatoria, así como para vigilar el cumplimiento de la presente Ley y de las demás disposiciones aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Del Catálogo Estatal",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "1. El Catálogo Estatal es la herramienta tecnológica que compila el Registro Estatal de Regulaciones, de Trámites y de Servicios de los sujetos obligados y tiene como objeto la interoperabilidad para facilitar el cumplimiento regulatorio, así como fomentar el uso de las tecnologías de la información y comunicación; tiene carácter público y la información que contenga será vinculante para los sujetos obligados, en el ámbito de sus competencias.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "1. El Catálogo estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Registro Estatal y los Municipales de Regulaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Registro Estatal y los Municipales de Trámites y Servicios; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Padrón de Visitadores."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "1. Es responsabilidad de la Secretaría en materia del Catálogo Estatal el desarrollo de las tecnologías de información y comunicación, fomentar su interoperabilidad en los ámbitos federal y municipal, así como brindar la asesoría para su aplicación.\n2. Los municipios deberán implementar un catálogo equivalente al Catálogo Estatal o cumplir con esta obligación incorporando su información al Catálogo Estatal, en los términos del Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera Del Registro Estatal y los Municipales de Regulaciones",
+        "Artículos": [
+          {
+            "Artículo": 34,
+            "Texto": "1. El Registro Estatal y los Municipales de Regulaciones son herramientas tecnológicas que compilan las regulaciones de los sujetos obligados del Estado. Tendrá carácter público y contendrá la misma información que estará inscrita en el Registro Nacional de Regulaciones previsto en la Ley General de Mejora Regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "1. Corresponde a la Consejería Jurídica del Poder Ejecutivo del Estado, en coordinación con la Secretaría, la integración y administración del Registro Estatal de Regulaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "1. Los sujetos obligados serán responsables de inscribir y actualizar permanentemente la información que les corresponde en el Registro Estatal de Regulaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "1. El Registro Estatal y los Municipales de Regulaciones deberán contemplar para cada regulación una ficha que contenga al menos la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre de la regulación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fecha de expedición, publicación y vigencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autoridad o autoridades que lo emiten;\nAutoridad o autoridades que lo aplican;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fechas de actualización;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Tipo de ordenamiento jurídico;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ámbito de aplicación;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Índice de la Regulación;\nObjeto de la Regulación;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Materias, sector y sujetos regulados;\nTrámites y Servicios relacionados con la Regulación;\nIdentificación de fundamentos jurídicos para la realización de inspecciones, verificaciones y visitas domiciliarias; y\nLa información adicional que se prevea en la normatividad aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 38,
+            "Texto": "1. La Consejería Jurídica del Poder Ejecutivo del Estado y la Secretaría tendrán la facultad, en caso de identificar errores u omisiones en la información proporcionada por los sujetos obligados, de requerirles su corrección.\n2. Las observaciones que contengan el requerimiento de corrección serán vinculantes para los sujetos obligados, quienes contarán con un plazo de cinco días hábiles para hacer las correcciones o expresar la justificación por la cual no son atendibles.\n3. Una vez agotado el procedimiento anterior, la Consejería Jurídica publicará dentro del término de diez días hábiles la información conducente en el Registro Estatal de Regulaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "1. En el supuesto de que algún municipio no cuente con los recursos para crear una plataforma electrónica, mediante convenio podrán acordar con el Estado el uso de su plataforma.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Registro Estatal y los Municipales de Trámites y Servicios",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "1. Los Registros de Trámites y Servicios son herramientas tecnológicas que compilan los trámites y servicios de los sujetos obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de las tecnologías de la información. Tendrán carácter público y la información que contengan será vinculante para los sujetos obligados.\n2. La inscripción y actualización de los registros de Trámites y Servicios es de carácter permanente y obligatorio para todos los Sujetos obligados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "1. Los Registros de Trámites y Servicios son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Registro Federal de Trámites y Servicios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Registro Estatal de Trámites y Servicios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Registro Municipal de Trámites y Servicios;\nDe los Poderes Legislativo y Judicial;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "De los Órganos Constitucionales Autónomos; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los registros de los demás sujetos obligados, en caso de que no se encuentren comprendidos en alguna de las fracciones anteriores."
+              }
+            ]
+          },
+          {
+            "Artículo": 42,
+            "Texto": "1. La Secretaría será la responsable de administrar la información que los sujetos obligados inscrita en el Registro Estatal de Trámites y Servicios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "1. Los sujetos obligados serán los responsables de ingresar y actualizar la información a los registros de Trámites y Servicios. La legalidad y el contenido de la información que inscriban los Sujetos obligados en los registros de Trámites y Servicios son de su estricta responsabilidad.\n2. Los sujetos obligados deberán inscribir y mantener actualizada, al menos, la siguiente información y documentación de sus trámites y servicios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre y descripción del trámite o servicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Modalidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fundamento jurídico de la existencia del trámite o servicio;\nDescripción con lenguaje claro, sencillo y conciso de los casos en que debe o puede realizarse el trámite o servicio y los pasos que debe llevar a cabo el interesado para su realización;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Enumerar y detallar los requisitos. En caso de que se soliciten documentos que requieran alguna firma, validación, certificación, autorización o visto bueno de un tercero, se deberá señalar la persona, empresa o dependencia que los realiza. En caso de que el Trámite o Servicio que se esté inscribiendo incluya como requisito algún Trámite o Servicio adicional, deberá de identificar plenamente el mismo, señalando, además el sujeto obligado ante quien deba realizarse;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Especificar si el trámite o servicio debe presentarse mediante formato, escrito libre, ambos o puede solicitarse por otros medios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El formato correspondiente y la última fecha de publicación en el periódico oficial “El Estado de Jalisco”;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En caso de ser necesaria la inspección o verificación, señalar el objetivo de la misma;\nDatos de contacto oficial del sujeto obligado responsable del trámite o servicio;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Plazo que tiene el sujeto obligado para resolver el trámite o servicio y, en su caso, si aplica la afirmativa o la negativa ficta;\nPlazo con el que cuenta el sujeto obligado para prevenir al interesado y el plazo que tiene el interesado para cumplir con la prevención;\nMonto de los derechos o aprovechamientos aplicables, en su caso, o la forma de determinar dicho monto, así como las alternativas para realizar el pago;\nCriterios de resolución del trámite o servicio, en su caso;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Vigencia de los avisos, permisos, licencias, autorizaciones, registros y demás resoluciones que se emitan;\nTodas las unidades administrativas ante las que se puede presentar el trámite o solicitar el servicio, incluyendo su domicilio;\nHorarios de atención al público;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Número de teléfono y medios electrónicos de comunicación y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "La información y período que deberá conservar el Interesado para fines de acreditación, inspección y verificación con motivo del trámite o servicio; y"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "La demás información que establezca la normatividad aplicable.\n3. Para la información a que se refieren las fracciones V, VI, VIII, X, XI, XII, XIII, XIV y XVIII, los sujetos obligados deberán establecer el fundamento jurídico aplicable, relacionándolo con la regulación inscrita en el registro estatal de regulaciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 44,
+            "Texto": "1. Los sujetos obligados deberán entregar a la Secretaría por cada trámite o servicio inscrito, la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Número de identificación del trámite o servicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sector económico al que pertenece el trámite de acuerdo a las disposiciones reglamentarias;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Etapas y tiempos internas de los sujetos obligados para resolver el trámite y servicio;\nFrecuencia mensual de solicitudes y resoluciones del trámite y servicio; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Número de funcionarios públicos involucrados en resolver el trámite o servicio."
+              }
+            ]
+          },
+          {
+            "Artículo": 45,
+            "Texto": "1. Los sujetos obligados deberán inscribir en el Registro Estatal de Trámites y Servicios la información a que se refiere el artículo anterior. En caso de que la información se encuentre correcta y completa la Secretaría deberá publicarla en un término no mayor a cinco días hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "1. La Secretaría podrá realizar en todo tiempo observaciones a la información inscrita en el registro estatal que a su juicio requiera modificación.\n2. Cuando la Secretaría identifique errores u omisiones en la información proporcionada, hará las observaciones pertinentes al sujeto obligado dentro de los cinco días hábiles siguientes al que haya recibido la información. Estas observaciones serán vinculantes para los sujetos obligados.\n3. El sujeto obligado tendrá un plazo de cinco días hábiles para solventarlas o bien expresar fundada y motivadamente las razones para no hacerlo.\n4. Una vez agotado el procedimiento anterior, se publicará la información conducente en el registro estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "1. Los sujetos obligados deberán notificar a la Secretaría cualquier modificación a la información inscrita en el Registro Estatal de Trámites y Servicios, dentro de los diez días hábiles siguientes a la entrada en vigor de la regulación modificada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "1. El Reglamento determinará los lineamientos que los sujetos obligados deberán de observar para efecto de cumplir con lo señalado en este Capítulo, siendo su responsabilidad la legalidad y el contenido de la información que se inscriba en el registro estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "1. Los sujetos obligados no podrán solicitar requisitos, ni exigir trámites o servicios adicionales a los inscritos en el registro estatal, ni aplicarlos en forma distinta a como se establezcan en el mismo.\n2. En caso de incumplimiento a lo dispuesto en este artículo, la Secretaría dará vista a la autoridad competente en la investigación de responsabilidades administrativas y, en su caso, de hechos de corrupción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "1. Los municipios, en sus respectivos ámbitos de competencia, podrán crear una plataforma electrónica para la consulta del registro municipal de trámites y servicios homologado al registro estatal de trámites y servicios, en el que se inscribirán los trámites, servicios, requisitos, plazos y cargas tributarias de los sujetos obligados, debiendo observarse los requisitos y formalidades a que se refieren los artículos anteriores, mismo que deberán estar sustentados por la normatividad municipal correspondiente, asimismo los municipios deberán incorporar en su agendas de mejora regulatoria la digitalización de trámites y servicios, mismos que se incorporarán.\n2. En el supuesto de que algún municipio no cuente con los recursos para crear una plataforma electrónica, mediante convenio podrán acordar con el Estado el uso de su plataforma.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera Del Padrón de Visitadores",
+        "Artículos": [
+          {
+            "Artículo": 51,
+            "Texto": "1. La Secretaría es la responsable de crear y administrar el padrón de visitadores, de conformidad con los lineamientos y los programas específicos que emitan las autoridades de mejora regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "1. Los sujetos obligados serán los responsables de solicitar a la Secretaría la inscripción en el padrón de visitadores de los servidores públicos a que se refiere el presente Capítulo y la normatividad aplicable, así como de mantener dicha información debidamente actualizada.\n2. Asimismo, deberán notificar a la Secretaría cualquier modificación a la información inscrita en el padrón, dentro de los diez días hábiles siguientes a que ésta ocurra.\n3. La legalidad y el contenido de la información que se inscribe en el padrón serán de estricta responsabilidad de los sujetos obligados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "1. El padrón de visitadores contendrá la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La lista de los servidores públicos facultados para realizar inspecciones, verificaciones y visitas domiciliarias en el ámbito administrativo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El listado de inspecciones, verificaciones y visitas domiciliarias que pueden realizar los sujetos obligados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los números telefónicos de los órganos internos de control del sujeto obligado al que pertenezcan los inspectores, verificadores y visitadores respectivos, o sus equivalentes para realizar denuncias;\nLos números telefónicos de las autoridades competentes encargadas de ordenar inspecciones, verificaciones y visitas domiciliarias; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La demás información que determine la normatividad aplicable"
+              }
+            ]
+          },
+          {
+            "Artículo": 54,
+            "Texto": "1. La lista de los servidores públicos facultados para realizar inspecciones, verificaciones y visitas domiciliarias en el ámbito administrativo deberá contener la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre completo y cargo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Área administrativa y dependencia a la que pertenece;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Nombre y cargo del jefe inmediato;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Horarios de atención y servicio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Identificación oficial con fotografía;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Vigencia de cargo; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Materia y giro de inspección o verificación."
+              }
+            ]
+          },
+          {
+            "Artículo": 55,
+            "Texto": "1. En caso de que la Secretaría identifique errores u omisiones en la información proporcionada lo comunicará al sujeto obligado correspondiente en un plazo de cinco días hábiles.\n2. Estas observaciones tendrán carácter vinculante para los sujetos obligados, quienes contarán con un plazo de cinco días hábiles para solventar las observaciones o expresar la justificación por la cual no son atendibles.\n3. Una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, se publicará la información en el registro.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De la Agenda Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 56,
+            "Texto": "1. Para integrar la agenda regulatoria, los sujetos obligados de la administración pública estatal deberán presentar semestralmente, dentro de los primeros cinco días hábiles de los meses de mayo y noviembre de cada año, su agenda regulatoria a la autoridad de mejora regulatoria correspondiente, la que podrá ser aplicada en los periodos subsecuentes de junio a noviembre y de diciembre a mayo respectivamente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "1. Para efectos del artículo anterior, los sujetos obligados deberán incluir en la agenda regulatoria al menos la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre preliminar de la propuesta regulatoria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Materia sobre la que versará la regulación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Problemática que se pretende resolver con la propuesta regulatoria;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Justificación para emitir la propuesta regulatoria; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fecha tentativa de presentación de la propuesta regulatoria a la autoridad de mejora regulatoria."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Del Análisis de Impacto Regulatorio",
+        "Artículos": [
+          {
+            "Artículo": 58,
+            "Texto": "1. El análisis de impacto regulatorio es la herramienta que tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos de cumplimiento y que éstas representen la mejor alternativa para atender una problemática específica, así como para evitar la duplicidad y la discrecionalidad en el establecimiento de trámites y servicios.\n2. La finalidad del análisis de impacto regulatorio es garantizar que las regulaciones salvaguarden el interés general, considerando los impactos o riesgos de la actividad a regular, así como las condiciones institucionales de los sujetos obligados.\n3. El Consejo Estatal aprobará los lineamientos generales para la implementación del análisis de impacto regulatorio, los que deberán aplicar las autoridades de mejora regulatoria al expedir el manual del análisis de impacto regulatorio, respetando las disposiciones generales que contenga la Estrategia Nacional y la normatividad aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "1. Los procesos de diseño y revisión de las regulaciones, propuestas regulatorias y los análisis de impacto regulatorio deberán enfocarse en generar regulaciones sujetas a los principios establecidos en la presente ley y cumplan los siguientes propósitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que se diseñen sobre bases económicas, sociales, jurídicas, empíricas y del comportamiento, sustentadas en la mejor información disponible;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que promuevan la selección de alternativas regulatorias cuyos beneficios justifiquen los costos de cumplimiento que imponen;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Que generen el máximo beneficio para la sociedad con el menor costo de cumplimiento posible;\nQue sus impactos resulten proporcionales para el problema que se busca resolver y para los sujetos a los que se aplica;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Que impulsen y promuevan la coherencia de políticas públicas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Que mejoren la coordinación entre poderes y órdenes de gobierno;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Que fortalezcan las condiciones de los consumidores y sus derechos, a las micro, pequeñas y medianas empresas, la libre concurrencia y competencia económica, el comercio, el desarrollo eficiente de los mercados, los derechos humanos; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Que impulsen la atención de situaciones de riesgo, mediante herramientas proporcionales a su impacto esperado.\nLas propuestas regulatorias indicarán necesariamente la o las regulaciones que pretenden crear, abrogar, derogar o modificar. Lo anterior deberá quedar asentado en el análisis de impacto regulatorio."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "1. Para asegurar la consecución de los objetivos de esta Ley, los sujetos obligados aplicarán el análisis de impacto regulatorio en toda propuesta regulatoria, con los siguientes esquemas de revisión:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Propuestas Regulatorias, a través del análisis de impacto regulatorio ex ante; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Regulaciones existentes, a través del análisis de impacto regulatorio ex post, conforme a las mejores prácticas existentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 61,
+            "Texto": "1. El análisis de impacto regulatorio establecerá un marco de análisis estructurado para asistir a los sujetos obligados en el estudio de los posibles efectos de la propuesta regulatoria los cuales deberán contener, cuando menos, los siguientes elementos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La explicación y descripción de la problemática que da origen a la necesidad de la intervención gubernamental y los objetivos generales que ésta persigue;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El análisis de las alternativas regulatorias y no regulatorias que son consideradas para solucionar la problemática, incluyendo la explicación de por qué la propuesta regulatoria es preferible al resto de las alternativas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El análisis de los mecanismos, procedimientos, capacidades y competencias de implementación, verificación e inspección;\nLa evaluación de los costos de cumplimiento y beneficios de la implementación de la propuesta regulatoria, así como de otros impactos incluyendo, cuando sea posible, aquellos que resulten aplicables para cada grupo afectado; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La identificación y descripción de los mecanismos, herramientas, metodologías e indicadores que serán utilizados para evaluar el logro de los objetivos de la Regulación.\n2. Para efectos de lo previsto en el presente artículo, la autoridad de mejora regulatoria podrá requerir información diferenciada de acuerdo a la naturaleza y el impacto de las regulaciones. Asimismo, las autoridad de mejora regulatoria establecerá criterios que los sujetos obligados deberán observar a fin de que sus propuestas regulatorias mitiguen el impacto sobre las micro, pequeña y mediana empresas."
+              }
+            ]
+          },
+          {
+            "Artículo": 62,
+            "Texto": "1. Cuando los sujetos obligados elaboren propuestas regulatorias, las presentarán a la autoridad de mejora regulatoria que corresponda, junto con un análisis de impacto regulatorio que contenga los elementos indicados en el artículo inmediato anterior, en el reglamento y en el manual respectivo, cuando menos treinta días antes de la fecha en que pretendan someterse a la consideración del Titular del Ejecutivo Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "1. Cuando la autoridad de mejora regulatoria reciba un análisis de impacto regulatorio que a su juicio no sea satisfactorio, podrá solicitar al sujeto obligado correspondiente, dentro de los diez días hábiles siguientes a que reciba el análisis de impacto regulatorio, que realice las ampliaciones o correcciones a que haya lugar.\n2. Cuando a criterio de la autoridad de mejora regulatoria el análisis de impacto regulatorio siga sin ser satisfactorio y la propuesta regulatoria de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar al sujeto obligado que, con cargo a su presupuesto, contrate a un experto, quien deberá ser aprobado por la autoridad de mejora regulatoria correspondiente.\n3. El experto que revise el análisis de impacto regulatorio deberá entregar comentarios a la autoridad de mejora regulatoria y al propio sujeto obligado dentro de los cuarenta días hábiles siguientes a su contratación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "1. Las autoridades de mejora regulatoria harán públicos en los sitios que determine la normatividad aplicable, la propuesta regulatoria, el análisis de impacto regulatorio respectivo, los dictámenes que emitan, las respuestas a éstos y las autorizaciones y exenciones previstas en el presente capítulo.\n2. Cuando a solicitud del sujeto obligado, la autoridad de mejora regulatoria determine que la publicidad a que se refiere el párrafo inmediato anterior pudiera comprometer los efectos que se pretendan lograr con la\nregulación, no se consultará a otras autoridades, ni hará pública la información respectiva, sino hasta el momento en que se publique la regulación en el Periódico Oficial “El Estado de Jalisco”.\n3. También se aplicará esta regla cuando lo determine la Consejería Jurídica del Poder Ejecutivo del Estado o el área equivalente en el municipio, previa opinión de la autoridad de mejora regulatoria, respecto de las propuestas regulatorias que se pretendan someter a la consideración del titular del Ejecutivo Estatal o del Ayuntamiento respectivo, en su caso.\n4. La responsabilidad de considerar que la publicación pudiera comprometer los efectos que se pretendan lograr con la regulación, recae exclusivamente en el sujeto obligado que solicite dicho tratamiento, y su justificación será pública a partir del momento en que la regulación se publique en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "1. Las autoridades de mejora regulatoria deberán emitir y entregar al sujeto obligado un dictamen del análisis de impacto regulatorio y de la propuesta regulatoria respectiva, dentro de los treinta días hábiles siguientes a la recepción del análisis de impacto regulatorio, de las ampliaciones o correcciones al mismo o de los comentarios de los expertos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "1. El dictamen será preliminar cuando existan comentarios derivados la propia autoridad de mejora regulatoria que requieran ser evaluados por el sujeto obligado que ha promovido la propuesta regulatoria.\n2. El dictamen preliminar deberá considerar las opiniones que en su caso reciba la autoridad de mejora regulatoria de los interesados y valorará, entre otros aspectos, si se justifican las acciones contenidas en la propuesta regulatoria y se cumplen los principios y objetivos de la política de mejora regulatoria establecidos en esta Ley.\n3. Cuando el sujeto obligado manifieste conformidad con las recomendaciones contenidas en el dictamen preliminar, deberá ajustar la propuesta regulatoria. En caso contrario, deberá comunicar por escrito las razones respectivas a la autoridad de mejora regulatoria en un plazo no mayor a 30 días hábiles a fin de que la autoridad de mejora regulatoria emita un dictamen final al respecto dentro de los cinco días hábiles siguientes.\n4. En caso de que la autoridad de mejora regulatoria, no reciba respuesta al dictamen preliminar en el plazo indicado en el párrafo anterior, o a los comentarios de los expertos a que se refiere la presente Ley se tendrá por desechado el procedimiento para la Propuesta Regulatoria respectiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "1. El dictamen preliminar podrá ser final cuando no existan comentarios derivados la propia autoridad de mejora regulatoria o, en su caso, dichos comentarios hayan sido en los términos a que se refiere este\nartículo.\n2. Cuando el dictamen final contenga opiniones relacionadas con la creación, modificación o eliminación de trámites o servicios, éstas serán vinculantes para el sujeto obligado, a fin de que realice los ajustes pertinentes a la propuesta regulatoria, siempre y cuando la autoridad de mejora regulatoria las haya señalado previamente en el procedimiento a que se refiere el artículo anterior.\n3. En caso de discrepancia entre el sujeto obligado y la autoridad de mejora regulatoria, esta última resolverá en definitiva.\n4. El Reglamento dispondrá lo relativo a los elementos de conformación del dictamen del análisis de impacto regulatorio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "1. La autoridad de mejora regulatoria podrá autorizar que el análisis de impacto regulatorio se presente hasta en la misma fecha en que se someta la propuesta regulatoria al Titular del Ejecutivo Estatal o a la\nPresidencia Municipal, cuando ésta pretenda resolver o prevenir una situación de emergencia, en estos casos deberá acreditarse que la propuesta regulatoria:\n2. Busque evitar un daño inminente, o bien atenuar o evitar un daño existente a la salud o bienestar de la población, a la salud animal y sanidad vegetal, al medio ambiente, a los recursos naturales o a la economía; y\n3. Tenga una vigencia no mayor de seis meses, misma que, en su caso, podrá ser renovada por una sola ocasión por un periodo igual o menor.\n4. Tomando en consideración los elementos anteriormente descritos la autoridad de mejora regulatoria que corresponda, deberá autorizar o negar el trato de emergencia en un plazo que no excederá de tres días hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "1. Cuando un sujeto obligado estime que la propuesta regulatoria no implica costos de cumplimiento para particulares, no tengan impacto económico porque no se crean nuevos trámites, ni se modifiquen los existentes, ni reduzca o restrinja derechos o prestaciones de los particulares o sus derechos, obligaciones o prestaciones, ni genere una nueva carga administrativa al particular, lo consultará con la autoridad de mejora regulatoria que corresponda, la cual resolverá en un plazo que no podrá exceder de cinco días hábiles, de conformidad con los criterios para la determinación de dichos costos que al efecto se establezcan en el manual respectivo. En este supuesto se eximirá de la obligación de elaborar el análisis de impacto regulatorio.\n2. Cuando de conformidad con el párrafo anterior, la autoridad de mejora regulatoria resuelva que la propuesta regulatoria no implica costos de cumplimiento para los particulares y se trate de una regulación que requiera actualización periódica, esa propuesta y sus actualizaciones quedarán exentas de la elaboración del análisis de impacto regulatorio y el sujeto obligado tramitará la publicación correspondiente en el medio de difusión correspondiente.\n3. Para efectos de la exención del análisis de impacto regulatorio a que hace referencia el párrafo inmediato anterior, la autoridad de mejora regulatoria correspondiente determinará los elementos esenciales que no podrán ser objeto de modificación en la regulación o regulaciones que se pretendan expedir. En caso de que la regulación o regulaciones impliquen un cambio a dichos elementos esenciales, se sujetará al procedimiento de análisis de impacto regulatorio previsto en esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "1. Los sujetos obligados darán aviso a la autoridad de mejora regulatoria correspondiente de la publicación de las regulaciones exentas de la elaboración del análisis de impacto regulatorio, en un plazo que no excederá de tres días hábiles posteriores a su publicación en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "1. Para determinar si la propuesta regulatoria genera costos de cumplimiento para los particulares y que los mismos son menores que los beneficios, la autoridad de mejora regulatoria considerará, cuando menos, los siguientes criterios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Crea, establece o modifica nuevas obligaciones para los particulares o hace más estrictas las obligaciones vigentes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Crea o modifica Trámites, excepto cuando la modificación simplifica o elimina algún procedimiento administrativo en el mismo, o bien elimina el propio Trámite;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Reduce o restringe derechos o prestaciones ya adquiridos para los particulares; o\nEstablece definiciones, clasificaciones, características u otro término de referencia, que afecten los derechos, obligaciones, prestaciones o Trámites de los particulares."
+              }
+            ]
+          },
+          {
+            "Artículo": 72,
+            "Texto": "1. Para evaluar las regulaciones existentes de conformidad con la presente ley, los sujetos obligados realizarán el análisis de impacto regulatorio ex post, a través del cual se evalúe la aplicación, efectos y observancia de la regulación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "1. La autoridad de mejora regulatoria podrá efectuar recomendaciones con el objeto de contribuir a cumplir con los objetivos de la regulación sometida al análisis de impacto regulatorio ex post incluyendo propuestas de modificación al marco regulatorio existente.\n2. El Consejo Estatal emitirá los lineamientos sobre la implementación del análisis de impacto regulatorio ex post.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "1. Sólo podrán ser publicadas en el Periódico Oficial “El Estado de Jalisco” las regulaciones que expidan los sujetos obligados cuando acrediten contar con un dictamen final de la autoridad de mejora regulatoria respectiva o alguna de las autorizaciones o exenciones a que se refiere el presente Capítulo.\n2. La versión de las regulaciones que publiquen los sujetos obligados deberá coincidir íntegramente con la contenida en el dictamen final",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "1. Los sujetos obligados deberán someter las regulaciones que generen costos de cumplimiento a revisión permanente ante la autoridad de mejora regulatoria correspondiente, utilizando para tal efecto el análisis de impacto regulatorio con el propósito de evaluar los efectos de su aplicación y permitir que los sujetos obligados determinen la pertinencia de su abrogación, modificación o permanencia, para alcanzar sus objetivos originales y atender la problemática vigente.\n2. Para el logro del mayor beneficio social de la regulación sujeta a revisión, la autoridad de mejora regulatoria correspondiente podrá proponer modificaciones al marco regulatorio vigente o acciones a los sujetos obligados correspondientes.\n3. El proceso de revisión al que hace referencia este artículo se realizará conforme a las disposiciones que al efecto emita la autoridad de mejora regulatoria correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "1. Para la expedición de regulaciones, los sujetos obligados deberán indicar expresamente en su propuesta regulatoria, las obligaciones regulatorias o actos a ser modificados, derogados o en su caso, abrogados con la finalidad de reducir las cargas administrativas de los mismos, en un monto igual o mayor al de las nuevas obligaciones de la propuesta regulatoria que se pretenda expedir y que se refiera o refieran a la misma materia o sector afectado por la nueva regulación.\n2. Lo dispuesto en este artículo, no será aplicable en los casos de regulaciones que se ubiquen en alguno de los siguientes supuestos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las que tengan carácter de emergencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las que por su propia naturaleza deban emitirse o actualizarse de manera periódica; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las reglas de operación de programas de beneficio social y los presupuestos de egresos del ejercicio fiscal que corresponda.\n3. A efecto de verificar el cumplimiento de lo dispuesto en el presente artículo, los sujetos obligados deberán brindar a la autoridad de mejora regulatoria, la información que se determine en el análisis de impacto regulatorio correspondiente, quien determinará en su dictamen si cumple el supuesto de reducir las cargas administrativas en un monto igual o mayor al de las nuevas obligaciones regulatorias.\n4. Si conforme al dictamen, no se cumpla el supuesto establecido en el párrafo primero de este artículo, el sujeto obligado deberá de abstenerse de expedir la regulación, en cuyo caso podrá someter a la autoridad de mejora regulatoria una nueva propuesta regulatoria.\n5. En caso de que en el sector económico que pudiera ser afectado por la nueva regulación, no se identifiquen regulaciones susceptibles de ser modificadas, abrogadas o derogadas, deberá indicarse tal circunstancia en el análisis de impacto regulatorio conducente, brindando la justificación que corresponda."
+              }
+            ]
+          },
+          {
+            "Artículo": 77,
+            "Texto": "1. Los sujetos obligados que emitan regulaciones deberán garantizar que no afecten o restrinjan la competencia y libre concurrencia, a través del análisis de impacto regulatorio respectivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "1. Los municipios podrán celebrar convenios de colaboración con la Secretaría, a efecto de que ésta brinde apoyo y colaboración para que el desahogo del procedimiento que les permita emitir el dictamen de los análisis de impacto regulatorio que presenten los sujetos obligados del ámbito de su competencia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV De los Programas de Mejora Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 79,
+            "Texto": "1. Los Programas de Mejora Regulatoria son una herramienta programática para promover periódicamente la mejora de la regulación vigente e implementar acciones de simplificación de trámites y servicios.\n2. La autoridad de mejora regulatoria emitirá los lineamientos para establecer los calendarios, mecanismos, formularios e indicadores para la implementación y revisión periódica de los programas de mejora regulatoria en el Estado, en los municipios y en las regiones administrativas municipales, considerando los lineamientos generales contenidos en la Estrategia Nacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 80,
+            "Texto": "1. Los programas de mejora regulatoria tendrán los siguientes objetivos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Contribuir a la actualización y perfeccionamiento constante e integral del marco jurídico y regulatorio del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la reducción de cargas administrativas, mediante la eliminación de trámites, servicios, reducción de plazos y requisitos, digitalización del trámite o servicios o la obtención de la resolución del trámite o servicio por medios digitales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover una mejor atención al usuario;\nSimplificar regulaciones mediante su eliminación o reforma;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Incentivar el desarrollo económico sostenible del Estado, mediante una regulación de calidad que promueva la competitividad y que no imponga barreras innecesarias a la competencia y libre concurrencia; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los demás que se establezcan en el Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 81,
+            "Texto": "1. Las autoridades de mejora regulatoria, en el ámbito de sus respectivas competencias, podrán emitir opinión a los sujetos obligados con propuestas específicas para mejorar y simplificar sus regulaciones, trámites y servicios, con base en el contenido de sus programas de mejora regulatoria.\n2. Los sujetos obligados deberán valorar dichas propuestas para incorporarlas a sus programas de mejora regulatoria o, en su defecto, manifestar por escrito, en un plazo no mayor a diez días, las razones por las que no es viable su incorporación.\n3. La opinión de la autoridad de mejora regulatoria y la respuesta a ellas del sujeto obligado, deben ser publicadas en el portal de internet de ambas partes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "1. Las mejoras a los trámites y servicios que contengan los programas de mejora regulatoria serán vinculantes para los sujetos obligados y no podrán darse de baja, salvo que las modificaciones al programa original reduzcan más los costos de cumplimiento de los trámites y servicios comprometidos originalmente.\n2. Para el caso de regulaciones, los sujetos obligados únicamente podrán solicitar ajustes a los programas de mejora regulatoria, siempre y cuando justifiquen dicha solicitud.\n3. Lo dispuesto en el presente artículo deberá sujetarse a la autorización previa de la autoridad de mejora regulatoria.\n4. Los órganos internos de control o equivalentes de cada sujeto obligado deberán dar seguimiento al cumplimiento de los programas de mejora regulatoria, de conformidad con sus atribuciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 83,
+            "Texto": "1. Los trámites y servicios que se encuentren incorporados en el registro estatal, podrán ser simplificados mediante acuerdos generales que publiquen los titulares de los sujetos obligados, en su respectivo ámbito de competencia, en el medio de difusión correspondiente, conforme a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Habilitar el uso de herramientas electrónicas para la presentación de trámites y servicios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer plazos de respuesta menores a los máximos previstos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Extender la vigencia de las resoluciones otorgadas por los sujetos obligados;\nNo exigir la presentación de datos y documentos; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Implementar cualquier otra acción de mejora a los trámites y servicios de su competencia.\n2. Los sujetos obligados podrán implementar buzones electrónicos para recabar la opinión de los usuarios de los trámites o servicios, a efecto de mejorar la calidad en el servicio."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De las Encuestas, Información Estadística y Evaluación en Materia de Mejora Regulatoria",
+        "Artículos": [
+          {
+            "Artículo": 84,
+            "Texto": "1. La Secretaría promoverá entre los sectores social, privado y público la realización de encuestas sobre aspectos generales y específicos que permitan conocer el estado que guarda la mejora regulatoria en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "1. El Consejo Estatal compartirá la información relativa a los registros administrativos, censos y encuestas que competen al Instituto de Información Estadística y Geográfica de Jalisco, al Instituto Nacional de Estadística, Geografía e Informática, a la Comisión Nacional o al Observatorio, para el desarrollo adecuado de sus propios censos y encuestas nacionales en materia de mejora regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "1. Los sujetos obligados y las autoridades de mejora regulatoria deberán brindar todas las facilidades y proporcionar la información en materia de mejora regulatoria que les sea requerida por el Instituto de Información Estadística y Geográfica de Jalisco, por el Instituto Nacional de Estadística, Geografía e Informática, por la Comisión Nacional o por el Observatorio Nacional proporcionando además el apoyo necesario para la realización de las evaluaciones que se conduzca en la materia de Mejora Regulatoria, de conformidad con lo previsto en la Ley General.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "1. Para efectos de la evaluación, la Secretaría y los municipios, en sus ámbitos de competencia, deberán cuantificar y medir el costo económico de los trámites inscritos en el Registro Estatal y Municipales de Trámites y Servicios, considerando como mínimo los siguientes elementos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El tiempo que requiere el ciudadano o empresario para acumular la totalidad de los requisitos necesarios para presentar el trámite, tomando en consideración como mínimo el tiempo destinado en la comprensión e identificación de los requisitos nuevos o aquellos con los que ya contaba el ciudadano o empresario, como lo son el pago de derechos, llenado de formatos, tiempo de espera en ventanilla, creación de archivos de respaldo, tiempo requerido con personas externas o internas, y tiempo de traslado a las oficinas de gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El tiempo que el sujeto obligado requiere para resolver el trámite tomando en consideración el tiempo destinado, según sea el caso, en el cotejo y revisión de la información, análisis técnico, inspección o verificación, elaboración de dictamen o resolución, validación mediante firmas, sellos o rúbricas, entre otros;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El tiempo identificado para cada trámite, con base en la frecuencia anual y los elementos mencionados anteriormente, deberá ser monetizado, tomando como base las mejores herramientas y prácticas internacionales, para cuantificar y medir el impacto económico; y\nEl costo en el que incurren los agentes económicos del sector al dejar de producir por mantenerse a la espera de la resolución del trámite."
+              }
+            ]
+          },
+          {
+            "Artículo": 88,
+            "Texto": "1. Conforme a la medición del impacto económico de los trámites se creará la clasificación económica de los trámites y servicios para identificar, monitorear y jerarquizar el costo económico de los trámites inscritos en el Registro Estatal y Municipales de Trámites y Servicios.\n2. La clasificación referida se publicará trimestralmente en los términos que establezca la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 89,
+            "Texto": "1. La Secretaría definirá como trámites prioritarios aquellos que resulten con mayor impacto económico en la clasificación señalada en el artículo anterior.\n2. La Secretaría podrá emitir acciones de simplificación para reducir el impacto económico de los trámites prioritarios.\n3. Las acciones de simplificación deberán ser notificadas a los sujetos obligados mediante oficio. Los sujetos obligados tendrán quince días hábiles para brindar respuesta y validar o proponer acciones paralelas de simplificación, las cuales deberán de reducir el impacto económico del trámite en cuestión.\n4. Validadas las acciones de simplificación validadas por los sujetos obligados, la Secretaría publicará las acciones de simplificación de los trámites prioritarios identificando para cada una de ellas al responsable, los mecanismos de simplificación y la fecha de conclusión.\n5. Posterior a las acciones de simplificación, la Secretaría hará público los ahorros monetizados que se deriven del ejercicio de simplificación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De las Ventanillas Especializadas",
+        "Artículos": [
+          {
+            "Artículo": 90,
+            "Texto": "1. La ventanilla especializada representa el medio de comunicación abierto e incluyente para que los ciudadanos canalicen sus trámites y servicios de manera remota o presencial, para hacerlos más agiles, seguros y transparentes, a través de la interoperabilidad gubernamental y la conformación de un repositorio digital.\n2. Para efecto de lo anterior, la autoridad de mejora regulatoria podrá suscribir convenios con las entidades o dependencias que corresponda, así como para la acreditación de los sujetos obligados según dispongan las disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "1. La Autoridad Estatal promoverá la celebración de los respectivos convenios de colaboración y coordinación, en su caso, con autoridades de los tres órdenes de gobierno para la adopción de por lo menos, las siguientes modalidades de ventanillas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Ventanilla Especializada Multitrámite: Espacio para la gestión o solicitud de trámites y servicios diversos, de manera electrónica o presencial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Ventanilla Simplificada de Construcción: Espacio donde se podrán realizar todas las gestiones para la emisión de la licencia de construcción de obra que no rebasen los 1,500 metros cuadrados y que se encuentren reguladas en las condiciones de uso de suelo establecidas por la autoridad municipal; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Ventanilla para la gestión de Infraestructura Pasiva: Espacio donde se podrá gestionar la construcción, adaptación o integración de tecnologías de nueva generación en materia de comunicación."
+              }
+            ]
+          },
+          {
+            "Artículo": 92,
+            "Texto": "1. A través de la Ventanilla Simplificada de Construcción se podrá recibir, validar y gestionar la totalidad de requisitos correspondientes a los trámites municipales involucrados en la emisión de la licencia de construcción, brindando orientación a los ciudadanos que la visiten o consulten.\nLa Ventanilla Simplificada de Construcción contará al menos con los siguientes elementos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un espacio físico o electrónico donde se gestionarán todos los trámites municipales involucrados con la licencia de construcción;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Uso de suelo que defina el metraje, uso general y específico, ubicación geográfica y la determinación de requisitos de estudios de desarrollo urbano, medio ambiente, protección civil, vialidad e impacto urbano, según sea el caso, garantizando el bajo riesgo para dichas construcciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Formato único de construcción que contemple toda la información y requisitos necesarios para el proceso de emisión de la licencia de construcción;\nManual de operación en el que se describa el proceso interno de resolución, coordinación con otros sujetos obligados e interacciones con el usuario;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Resolución máxima emitida en un plazo no mayor de 22 días naturales a partir de que se presente la solicitud y que contenga todos los trámites municipales necesarios para construir una obra;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Padrón único de directores o peritos responsables de obra, certificados por el Municipio; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Padrón de peritos externos facultado por autoridad competente."
+              }
+            ]
+          },
+          {
+            "Artículo": 93,
+            "Texto": "1. El Ayuntamiento en el ámbito de sus respectivas competencias, aprobará las condiciones de uso de suelo como instrumento que determine previamente la factibilidad y los estudios requeridos para la construcción de la obra. Tomarán como referencia los planes de desarrollo urbano de cada municipio, y serán el elemento principal para expedir la licencia de construcción.\n2. Las obras que por sus características se encuentren reguladas en las condiciones de uso de suelo, solicitarán únicamente el trámite de licencia de construcción, sin necesidad de presentar ningún otro trámite relacionado con la construcción de la obra.\n3. La Ventanilla Simplificada de Construcción deberá convalidar los documentos que reciba de otros sujetos obligados, de conformidad con su manual de operación previamente emitido para la resolución de la licencia de construcción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "1. El operador de la Ventanilla Simplificada de Construcción tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Verificar la documentación entregada por el usuario y orientarle en caso de entregar documentación incorrecta e insuficiente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Remitir a las áreas competentes y autoridades de desarrollo urbano, medio ambiente, protección civil, movilidad, policía y demás que considere autoridad municipal, según sea el caso, la información correcta y completa relevante al proceso de obtención de la licencia de construcción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir los resolutivos y autorizaciones expedidas por las áreas competentes y autoridades de desarrollo urbano, medio ambiente, protección civil y movilidad, según sea el caso;\nBrindar asesoría, orientación e información sobre el estatus del proceso de los trámites relacionados con la licencia de construcción;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir el pago de derecho;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Brindar la documentación necesaria para dar el resolutivo final que emitirá la autoridad competente; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás previstas en las disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 95,
+            "Texto": "1. Esta Ventanilla se someterá a certificación y evaluación al menos cada dos años, a través del Programa de Reconocimiento y Operación de la Ventanilla Única operado por la Comisión Nacional.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII Del Expediente Electrónico para Trámites y Servicios",
+        "Artículos": [
+          {
+            "Artículo": 96,
+            "Texto": "1. El Expediente Electrónico para Trámites y Servicios estará identificado por un número específico o clave de identificación, que puede ser utilizado por cualquier autoridad competente, conforme a lo previsto en la Ley de Protección de Datos Personales en Posesión de Sujetos obligados del Estado de Jalisco y sus Municipios.\n2. Su objeto es facilitar la realización de trámites y servicios ante los sujetos obligados y evitar solicitar a los interesados información ya disponible en el Expediente Electrónico para Trámites y Servicios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 97,
+            "Texto": "1. El Expediente Electrónico operará conforme a los lineamientos que aprueben el Consejo Nacional y el Consejo Estatal, correspondiendo a la Secretaría su vinculación con el Registro Estatal de Personas Acreditadas, así como con los portales y mecanismos digitales existentes o que se implementen conforme a los objetivos de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 98,
+            "Texto": "1. Los sujetos obligados deberán integrar la información asociada a personas físicas y jurídicas en el Expediente Electrónico para Trámites y Servicios, de conformidad con sus atribuciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 99,
+            "Texto": "1. Los sujetos obligados no solicitarán información o documentos que ya consten en el Expediente Electrónico para Trámites y Servicios, y sólo podrán requerir aquella información y documentación particular o adicional que no conste en dicho expediente y que esté prevista en el registro estatal de trámites y servicios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 100,
+            "Texto": "1. Los sujetos obligados integrarán al Expediente Electrónico para Trámites y Servicios, los documentos físicos, originales o copia, firmados autógrafamente según proceda, del interesado que no obran en poder de algún sujeto obligado, de conformidad con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que el interesado presente el documento físico para la realización de un trámite o servicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que la migración del documento a formato digital se haga o se supervise por un servidor público facultado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;\nQue el documento electrónico permita conservar el formato del documento impreso y reproducirlo con exactitud; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Que cuente con la firma electrónica del servidor público al que se refiere la fracción II de este artículo."
+              }
+            ]
+          },
+          {
+            "Artículo": 101,
+            "Texto": "1. Los documentos que se integren al Expediente Electrónico para Trámites y Servicios tendrán los mismos efectos que las leyes le otorgan a los documentos físicos firmados autógrafamente y, por lo tanto, tendrán el mismo valor probatorio que las disposiciones aplicables le otorguen a éstos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 102,
+            "Texto": "1. Los usuarios que realicen trámites y servicios podrán ser inscritos en el Expediente Electrónico para Trámites y Servicios, de manera voluntaria, por los sujetos obligados. Para ello integrarán una clave de identificación basada para las personas físicas en los elementos de la Clave Única del Registro de Población, y para las personas jurídicas basada en la Cédula de Identificación Fiscal.\nPara inscribirse en el Expediente Electrónico para Trámites y Servicios se requiere cuando menos la siguiente documentación:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La acreditación de la constitución de la persona jurídica;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La acreditación de la personalidad de representantes o apoderados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Cédula de Identificación Fiscal; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Identificación oficial vigente para las personas físicas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII Sistema de Apertura Rápida de Empresas",
+        "Artículos": [
+          {
+            "Artículo": 103,
+            "Texto": "1. Se crea el Sistema de Apertura Rápida de Empresas como mecanismo que integra y consolida los trámites y servicios estatales y municipales para abrir una micro, pequeña, mediana o grande empresa que realiza actividades de bajo riesgo para la salud, seguridad y medio ambiente, garantizando el inicio de operaciones en un término máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada.\n2. El Estado y los gobiernos municipales podrán celebrar convenios de coordinación para la integración e instrumentación del sistema de apertura rápida de empresas, en los que se contemplen instancias únicas para la gestión de los trámites estatales y municipales necesarios para la instalación de inversión en el Estado, así como para la realización de otras acciones que impulsen el desarrollo de los sectores productivos en la entidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 104,
+            "Texto": "1. El Sistema de Apertura Rápida de Empresas será implementado por las autoridades de mejora regulatoria atendiendo a la normatividad aplicable, en coordinación con la Secretaría y la Comisión Nacional, y contemplar, al menos, los siguientes elementos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una ventanilla especializada en la que de forma física o electrónica se ofrece la información, la recepción y la gestión de los trámites y servicios municipales y estatales necesarios para la apertura de una empresa;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formato único de apertura para la solicitud de los trámites o servicios, impreso o en forma electrónica;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Catálogo de giros con base en el Sistema de Clasificación Industrial de América del Norte, el cual tendrá como objetivo determinar los giros económicos que podrán realizar los trámites municipales para abrir una empresa a través del sistema de apertura rápida de empresas;\nManual de operación del sistema de apertura rápida de empresas en el que se describa el proceso interno de resolución, coordinación con otras dependencias e interacción con los interesados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Resolución en menos de tres días hábiles para obtener la licencia de funcionamiento de una empresa; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que determine la presente Ley y su Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 105,
+            "Texto": "1. El Ayuntamiento aprobará los documentos a que se refieren las fracciones II, III y IV del artículo anterior, considerando su impacto económico y social. Dichos documentos, una vez aprobados, deberán publicarse en la página de internet del Ayuntamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 106,
+            "Texto": "1. La autoridad municipal no podrá solicitar datos o requisitos adicionales a los que se establecen el formato único a que se refiere la presente Ley para abrir una empresa conforme lo establecido en el presente\nCapítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 107,
+            "Texto": "1. La certificación del sistema de apertura rápida de empresas se realizará de acuerdo con los lineamientos que emita el Consejo Estatal con ese propósito.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX Estímulos",
+        "Artículos": [
+          {
+            "Artículo": 108,
+            "Texto": "1. El Consejo Estatal implementará un sistema de estímulos para promover el cumplimiento eficaz y voluntario de las disposiciones en materia de mejora regulatoria, así́ como para fomentar la aplicación de buenas prácticas nacionales e internacionales.\n2. El sistema de estímulos y contendrá una lista de los apoyos, programas, acciones o proyectos específicos para reconocer y estimular a los sujetos obligados, los que se desarrollarán de conformidad con la convocatoria que al efecto se emita, atendiendo al presupuesto que haya destinado para esos fines y con la periodicidad que se determine en el Reglamento.\n3. La autoridad de mejora regulatoria podrá realizar programas, acciones o proyectos para incentivar y reconocer a los sujetos obligados, en coordinación con los municipios, con otras entidades federativas, con la Federación o con organismos internacionales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 109,
+            "Texto": "1. El Consejo Estatal propiciará como estímulo para los sujetos obligados la certificación de procesos de simplificación de trámites, de servicios, de cumplimiento legal, de implementación de buenas prácticas y todos aquellos que busquen generar beneficios directos para la sociedad.\n2. A efecto de obtener las certificaciones, se hará del conocimiento de los interesados, cuando menos, las reglas de operación y requisitos que deberán satisfacer los sujetos obligados, los criterios e indicadores de evaluación, periodicidad de las revisiones y el seguimiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I La Mejora Regulatoria en el Poder Judicial y en los Órganos Constitucionales Autónomos",
+        "Artículos": [
+          {
+            "Artículo": 110,
+            "Texto": "1. El Poder Judicial y los Órganos Constitucionales Autónomos del Estado deberán designar, dentro de su estructura orgánica, una instancia responsable de promover y aplicar lo concerniente a la presente Ley, implementando para ello un sistema de gestión que incorpore las tecnologías de la información y de la comunicación de manera gradual, progresiva y pertinente en sus procesos, a fin de establecer un mayor control, simplificar trámites y disminuir su duración.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II La Mejora Regulatoria en el Poder Legislativo",
+        "Artículos": [
+          {
+            "Artículo": 111,
+            "Texto": "1. El Poder Legislativo del Estado, a través de su Secretaría General deberá designar, dentro de su estructura orgánica, una instancia responsable de promover y aplicar lo concerniente a la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 112,
+            "Texto": "1. Las iniciativas de leyes, decretos o acuerdos legislativos que se presenten en el Congreso del Estado de Jalisco, contendrán un análisis de impacto regulatorio en los términos de la presente ley y de conformidad con las demás disposiciones aplicables.\n2. A efecto de dar cumplimiento a este artículo, se incorporarán mecanismos y metodologías de manera gradual y progresivo en los términos de la legislación aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 113,
+            "Texto": "1. El Congreso del Estado de Jalisco realizará revisiones periódicas de los ordenamientos jurídicos vigentes a través del análisis de impacto regulatorio ex post para evaluar el cumplimiento de sus objetivos y los impactos generados como resultado de su aplicación, a fin de promover su análisis y mejora continua.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Protesta Ciudadana",
+        "Artículos": [
+          {
+            "Artículo": 114,
+            "Texto": "1. La Autoridad de Mejora Regulatoria proveerá los medios adecuados para que el ciudadano pueda presentar de manera electrónica la protesta ciudadana, sin perjuicio del medio físico o cualquier otro mecanismo que se autorice para tal fin en la Estrategia Estatal.\n2. La protesta ciudadana será recibida y revisada por la autoridad de mejora regulatoria que corresponda, quien solventará el trámite correspondiente conforme al procedimiento que establezca el reglamento y a los lineamientos que emita el Consejo Nacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 115,
+            "Texto": "1. El solicitante de un trámite o servicio podrá presentar una protesta ciudadana cuando por acciones u omisiones del servidor público encargado del trámite o servicio, sin causa justificada, incurra en alguno de los siguientes supuestos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Niegue la gestión del trámite o servicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Exija requisitos diversos a los especificados en el registro estatal de trámites y servicios o no proporcione información completa sobre dónde obtener alguno de ellos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Solicite la presentación del trámite o servicio por un medio diverso al que se indica en el registro estatal de trámites y servicios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "No mencione el motivo de la inspección o verificación en caso de que el trámite o servicio lo requiera;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Omita o proporcione datos de contacto oficiales inexactos del sujeto obligado responsable del trámite o servicio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Incumpla con el plazo indicado en el registro estatal de trámites y servicios para otorgar la resolución del trámite o servicio;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "No cumpla con el plazo para prevenir al interesado por la falta o corrección de información, o bien, no otorgue el plazo para cumplir con tal prevención;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Requiera el pago de derechos o aprovechamientos por un monto diverso al indicado en el Registro Estatal de Trámites y Servicios, no indique la forma en que dicho monto se determina o bien, cuando no informe de las alternativas donde realizar el pago;\nOmita la mención o modifique la vigencia de los avisos, permisos, licencias, autorizaciones, registros y demás resoluciones que emita el sujeto obligado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Omita indicar las Unidades Administrativas en que pueda realizarse el trámite o servicio;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Incumpla con los horarios de atención público indicados en el Registro Estatal de Trámites y Servicios; y\nExija información diversa a la señalada en el Registro Estatal de Trámites y Servicios, que el interesado deba conservar para fines de acreditación, inspección o verificación."
+              }
+            ]
+          },
+          {
+            "Artículo": 116,
+            "Texto": "1. La protesta ciudadana deberá contener, cuando menos, los siguientes elementos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre, denominación o razón social de la persona o personas solicitantes y en su caso, del representante legal, agregándose los documentos que acrediten la personería, así como la designación de la persona o personas autorizadas para oír y recibir notificaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El domicilio para recibir notificaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La exposición de la causa por la que se formula la protesta ciudadana, donde describa de manera clara, sucinta y cronológica los hechos y las razones en las que se apoya;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los documentos y la información que permita identificar el trámite o servicio solicitado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La petición que dirija a la autoridad de mejora regulatoria; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Firma del solicitante, así como lugar y fecha de su presentación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Responsabilidades Administrativas",
+        "Artículos": [
+          {
+            "Artículo": 117,
+            "Texto": "1. Los servidores públicos que incumplan cualquiera de sus obligaciones previstas en la presente Ley, serán sancionados en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.\nARTÍCUO TERCERO. Se derogan los artículos 154, 155, 156 y 158 de la Ley de procedimientos Administrativos del Estado de Jalisco…",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "A partir de la entrada en vigor del presente decreto el Comité de Mejora Regulatoria se denominará Consejo Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Consejo Estatal previsto en esta Ley, deberá ser instalado dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, mediante convocatoria previa que realice a sus integrantes el Titular del Poder Ejecutivo del Estado, a través del Secretario Ejecutivo del Sistema Estatal de Mejora Regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Las menciones contenidas en cualquier ordenamiento jurídico respecto al Comité Estatal de Mejora Regulatoria, se entenderán referidas al Consejo Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los sujetos obligados deberán designar a su Enlace Responsable de Mejora Regulatoria en un plazo que no exceda los cuarenta y cinco días naturales, a partir de la entrada en vigor del presente Decreto, asimismo deberán informar al Titular del Poder Ejecutivo dicha designación mediante oficio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "El Titular del Ejecutivo del Estado y los Municipios deberán expedir y adecuar sus reglamentos y disposiciones generales en el ámbito de su competencia en los términos del presente decreto, en un plazo que no exceda de 180 días naturales a partir de la entrada en vigor del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Consejo Estatal deberá aprobar la Estrategia Estatal con base en la Estrategia Nacional adaptada a las necesidades y requerimientos del ámbito estatal y municipal, en un plazo no mayor a 180 días naturales posteriores a la expedición de esta última.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "La implementación y uso de la herramienta tecnológica del Catálogo prevista en el presente ordenamiento, deberá adecuarse a los plazos previstos en el Artículo Sexto Transitorio del decreto que expide la Ley General de Mejora Regulatoria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "Las Autoridades de Mejora Regulatoria deberán expedir los lineamientos de los programas aplicables a la materia, dentro de un plazo no mayor a 180 días naturales, posteriores a la expedición de los lineamientos que señala el artículo décimo primero transitorio del decreto que expide la Ley General de Mejora Regulatoria, publicado el 18 de mayo de 2018.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "Los procesos, programas y acciones iniciados con anterioridad a la entrada en vigor de la presente Ley se solventarán y resolverán de conformidad con las disposiciones vigentes al momento de su inicio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "El Titular del Poder Ejecutivo del Estado deberá de hacer las adecuaciones presupuestales que requieran para la observancia y cumplimiento del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Segundo",
+            "Texto": "Los Ayuntamientos deberán instalar los Consejos Municipales dentro de un plazo que no exceda de 180 días a partir de la entrada en vigor del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Tercero",
+            "Texto": "Los poderes Legislativo y Judicial y los Órganos Constitucionales Autónomos deberán realizar las adecuaciones reglamentarias necesarias para la implementación de las disposiciones que en materia de mejora regulatoria les correspondan.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 4 DE JULIO DE 2019\nDiputado Presidente JOSÉ HERNÁN CORTÉS BERÚMEN (Rúbrica)\nDiputada Secretaria Diputada Secretaria IRMA VERÓNICA GONZÁLEZ OROZCO PRISCILA FRANCO BARBA\n(Rúbrica) Rúbrica)\nPROMULGACIÓN DEL DECRETO 27307/LXII/19, MEDIANTE EL CUAL SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, EXPEDIDA MEDIANTE\nDECRETO 22692/LVII/09 Y SUS REFORMAS, QUE CREA LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y QUE DEROGA LOS ARTÍCULOS 154, 155, 156, 157 Y 158 DE LA LEY DEL PROCEDIMIENTOS ADMINISTRATIVO DEL ESTADO DE JALISCO; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 4 DE JULIO DE 2019.\nEn mérito de lo anterior y con fundamento en el artículos 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado de Libre y Soberano de Jalisco, a los 10 diez días del mes de julio de 2019 dos mil diecinueve.\nENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco (Rúbrica\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno (Rúbrica)\nTABLA DE REFORMAS Y ADICIONES\n28427/LXII/21.- Se adiciona el artículo 19 de la Ley de Mejora Regulatoria para el Estado de Jalisco y sus Municipios.- Jul.29 de 2021, sec. VIII.\nLEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS\nAROBACIÓN: 4 de julio de 2019\nPUBLICACION: 20 de julio de 2019 sec. III\nVIGENCIA: 21 de julio de 2019",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

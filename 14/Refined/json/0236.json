@@ -1,0 +1,610 @@
+{
+  "0236.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 27232/LXII/19 EL CONGRESO DEL ESTADO DECRETA:\nSE CREA A LA AGENCIA PARA EL DESARROLLO DE INDUSTRIAS CREATIVAS Y DIGITALES DEL ESTADO DE JALISCO Y EXPIDE SU LEY ORGÁNICA.\nPRIMERO. Se crea el Organismo Público Descentralizado denominado “Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco”.\nSEGUNDO. Se expide la Ley Orgánica de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco, en los términos siguientes:\nLey Orgánica de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco.",
+    "Año_publicación": 2019,
+    "Título": "Ley Orgánica de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco.",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo Único Objeto y Definiciones",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley orgánica tiene por objeto regular la organización y el funcionamiento de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de esta Ley Orgánica, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Agencia: Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo Consultivo: Es el órgano colegiado de apoyo a La Agencia, integrado por personas que cuentan con experiencia y reconocimiento en el campo de las industrias creativas y digitales, para emitir su opinión profesional no vinculatoria sobre asuntos de su competencia, y que realizan funciones de asesoría al Titular del organismo o a la Junta de Gobierno, para la toma de decisiones operativas que afecten el cumplimiento del objeto y fines de La Agencia, así como para el aprovechamiento óptimo de los recursos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Director General: Director General de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Industrias Creativas y Digitales: Para efectos de la presente Ley, se entenderán por industrias creativas todas aquellas que tengan por objeto las tecnologías de la información y comunicación, internet de las cosas, desarrollo de software y servicios multimedia, animación digital, investigación, innovación, diseño, desarrollo urbano, social, territorial y de vivienda;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Junta de Gobierno: Es el órgano máximo de Gobierno de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ley: Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Plan Maestro: Es el documento que servirá como referencia para el cumplimiento del objeto y fines de La Agencia, así como de sus posteriores modificaciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "La Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, con el objeto de gestionar las condiciones financieras, administrativas y operativas para impulsar, fomentar, desarrollar y promover el diseño y la producción creativa y digital, audiovisual, multimedia, animación digital, así como otras tecnologías digitales, de software y servicios de comunicación, incluyendo actividades de investigación, desarrollo e innovación, con vinculación local, nacional e internacional, así como gestionar el desarrollo urbano, social, territorial y de vivienda, con los servicios e infraestructura necesaria para su ejecución.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "La Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco tendrá su domicilio oficial en el Área Metropolitana de Guadalajara y podrá abrir oficinas en otras ciudades nacionales o internacionales, de acuerdo a las necesidades propias de su operación y según lo permita su presupuesto.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Atribuciones",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "La Agencia tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desarrollar los ejes y líneas de acción específicos, así como programas, para la consecución de su objeto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover y fomentar la inversión de capitales Nacionales y Extranjeros para la consecución de su objeto y de sus fines;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover, desarrollar y, en su caso, coadyuvar con los sectores públicos, social, privado y académico, en la constitución, fomento y desarrollo de empresas, programas, proyectos y políticas, relacionadas con su objeto y fines, así como desarrollar y proponer esquemas de Asociación Público-Privada que permitan la ejecución y materialización de su objeto;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Constituir fideicomisos, con la intervención de personas físicas o jurídicas, así como entidades de orden internacional, federal, estatal o municipal que aporten recursos o bienes\ndiversos para la realización de las acciones que emprenda La Agencia para la consecución de su objeto y fines. Los términos, alcances y fines de dichos fideicomisos deberán ser acordados previamente a su formalización por la Junta de Gobierno de La Agencia, en el entendido de que dichos fideicomisos podrán ser, enunciativa más no limitativamente, de inversión y administración;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar todo tipo de financiamiento, préstamos y créditos, de manera directa o por medio de intermediarios, a los sujetos de apoyo debidamente autorizados, para promover, ayudar y fomentar el desarrollo de las industrias creativas y digitales y para la realización de las acciones que emprenda La Agencia para la consecución de su objeto y fines;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recibir todo tipo de recursos, subsidios y donaciones, ya sea en dinero o en especie, tanto del sector privado, social y público, incluyendo de manera enunciativa pero no limitativa al Gobierno Federal, Estatal o Municipal, así como de organismos descentralizados, centralizados, empresas paraestatales y recursos provenientes de cualquier clase de organismos internacionales para la consecución de su objeto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Brindar toda clase de asesoría y capacitación a las personas físicas o jurídicas dedicadas a la producción creativa digital;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fomentar y apoyar la formación de profesionales competitivos en las industrias creativas y digitales, promoviendo los estudios, obras, proyectos e iniciativas tendientes a la superación académica y profesional;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover e incentivar la consolidación de las empresas dedicadas a las industrias creativas y digitales ya existentes, así como la creación y desarrollo de nuevas empresas, en cualquiera de sus áreas: comercialización, capacitación y cualquier otra actividad correlacionada;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar y gestionar por parte de La Agencia o de terceros, estudios de investigación de las industrias del sector creativo y digital con el fin de desarrollarla, impulsarla e innovarla;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Apoyar a personas físicas o jurídicas para que estas puedan crear, transformar y transferir producción creativa y digital o cualquier otra forma, a las personas físicas y jurídicas que se lo requieran, atendiendo a lo dispuesto en la legislación correspondiente en vigor en materia de propiedad industrial o intelectual;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Generar y fortalecer la vinculación entre los sectores académico, público, social y privado en materia de industrias creativas y digitales, tanto locales, nacionales y extranjeras, en donde participen activamente el Estado, empresas, cámaras, asociaciones, universidades, investigadores, entre otros;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover y fomentar entre los sectores empresarial, académico, público y social, la generación y uso de las figuras previstas en la legislación de propiedad intelectual;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Formar alianzas y convenios de cooperación entre otros, con empresas públicas y privadas, instituciones públicas y privadas y centros de educación media superior y superior,\ncon el objeto de detonar y promover las industrias creativas y digitales, realizando todos aquellos actos o actividades permitidos por las leyes tendientes a ello;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Realizar, apoyar y fomentar estudios e investigaciones principalmente en el área de la industria creativa, sin perjuicio de incluir otras áreas afines o complementarias, pudiendo además colaborar con terceros en la realización de estudios e investigaciones al respecto;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Fomentar la creación de nuevas fuentes de trabajo para los profesionales y estudiantes de las industrias creativas y digitales;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Establecer convenios de cooperación y coordinación con centros de educación mediasuperior y superior nacionales e internacionales que tengan programas académicos en el área de las industrias creativas y digitales, promover becas e intercambios de profesionistas con dichas instituciones;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "La impartición y participación en cursos, seminarios, ciclos de conferencias, estudios y la celebración de toda clase de eventos afines a La Agencia;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Otorgar becas, estímulos y apoyos para promover, ayudar y fomentar el desarrollo de las industrias creativas y digitales y para la realización de las acciones que emprenda la Agencia para la consecución de su objeto y fines;\n\nEl arrendamiento, comodato, fusión, división, subdivisión, régimen en propiedad de condominio, adquisición y/o enajenación por cualquier figura jurídica, de bienes muebles e inmuebles;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Celebrar toda clase de actos jurídicos convenientes o necesarios para la consecución de su objeto; por sí o por cuenta de terceros;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Promover, apoyar la creación y formar parte de toda clase de asociaciones, fundaciones o cualquier clase de contrato o negocio jurídico relacionado con su objeto;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Coadyuvar, colaborar y participar con las autoridades federales, estatales y municipales y además organismos públicos o privados nacionales e internacionales, empresas, cámaras y personas físicas que propongan fines análogos a su objeto;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Contratar el personal necesario para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Realizar toda clase de eventos de divulgación científica, tecnológica, culturales, académicos y sociales, así como campañas de publicidad, nacionales e internacionales, a fin de obtener los medios o recursos necesarios para realizar proyectos afines a La Agencia;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Otorgar por conducto de la Junta de Gobierno cualquier clase de poderes y mandatos para que terceras personas actúen en su nombre, por su cuenta o ambas, en los actos que se realicen en cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "En general la ejecución de todos los actos, la celebración de todos los contratos y la realización de todas las operaciones de naturaleza civil o cualquier otra que se relacione con todo o parte de su objeto y todo aquello que sirva para la buena marcha y desarrollo de La Agencia;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Realizar las gestiones necesarias ante las autoridades competentes para obtener las autorizaciones, permisos, licencias o concesiones indispensables para la consecución de su objeto;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Participar en la planeación, programación y desarrollo de obras de construcción e infraestructura, equipamiento urbano y demás acciones necesarias para el cumplimiento de su objeto; a través de la dependencia competente para ello;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Llevar a cabo en general las acciones necesarias para lograr la integración y consolidación de las industrias creativas y digitales; y"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Ejercer las demás atribuciones que le confieran otras disposiciones legales o reglamentarias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Organización de La Agencia",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "La Agencia se conforma por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta de Gobierno, como órgano máximo de gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estructura Administrativa, como órgano de administración y operación, integrada por los siguientes:\na. Dirección de Fideicomisos. b. Dirección Administrativa. c. Dirección Jurídica. d. Dirección de Promoción y Desarrollo de Proyectos de Innovación. e. Dirección de Mantenimiento."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Órgano de Vigilancia.\nLa Agencia contará con un Consejo Consultivo y los demás órganos técnicos que establezca su Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "La estructura administrativa y demás personal técnico y operativo de la Agencia se conformará en los términos que establezca su reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "La Junta de Gobierno se integra por los siguientes miembros titulares y sus respectivos suplentes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidente, que será el titular del Poder Ejecutivo del Estado de Jalisco, o quien éste designe;\n\nLa identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nllI. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretario Técnico, que será el Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Como vocales, los titulares de las siguientes entidades públicas o a quienes éstos designen:\na) Del Poder Ejecutivo Estatal:\n1. Jefatura de Gabinete;\n2. Secretaría de la Hacienda Pública;\n3. Secretaría de Innovación, Ciencia y Tecnología;\n4. Secretaría de Desarrollo Económico;\n5. Secretaría de Cultura;\n6. Secretaria de Infraestructura y Obra Pública;\n7. Contraloría del Estado;\nb) De los Ayuntamientos:\n1. Gobierno Municipal de Guadalajara.\nPodrán invitar, cuando así lo determinen, a cualquier Gobierno Municipal del Área Metropolitana de Guadalajara;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Los demás que se determinen por acuerdo de los titulares de la Junta de Gobierno.\nTodos los miembros de la Junta de Gobierno participarán con voz y voto, a excepción del Secretario Técnico y la Contraloría del Estado, quienes únicamente participarán con voz.\nLos cargos de los miembros de la Junta de Gobierno son honoríficos y no recibirán remuneración alguna por el desempeño de sus actividades.\nLa Junta de Gobierno deberá sesionar por lo menos una vez al mes, requiere de la asistencia de más de la mitad de sus integrantes para sesionar válidamente y los acuerdos se tomarán por mayoría simple de votos; en caso de empate, el Presidente tendrá el voto de calidad.\nEn los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "La Junta de Gobierno, tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autorizar anualmente las políticas, planes, programas y estrategias para la consecución de los objetivos y fines de La Agencia, con apego a lo previsto en el Plan Maestro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autorizar el gasto operativo de La Agencia y su modificación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar la estructura de La Agencia, así como sus modificaciones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprobar el proyecto de presupuesto de egresos de La Agencia y remitirlo al titular del Poder Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Gobierno del Estado, contemplando sueldos y prestaciones de los servidores públicos de La Agencia, conforme a la normativa vigente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar el debido cumplimiento de los criterios de austeridad, racionalidad y disciplina, conforme a los cuales La Agencia ejercerá su presupuesto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recibir las solicitudes y, en su caso, aceptar la adhesión a los fideicomisos de los fideicomitentes o fideicomitentes adherentes;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aprobar solicitudes de apoyos para la consecución del objeto de La Agencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Elaborar un informe público anual, detallando las actividades realizadas por la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Comunicar por escrito, por conducto del Director General, sobre el nombramiento y cualquier cambio en la integración de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Modificar o revocar los acuerdos tomados en sus sesiones;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Autorizar las modificaciones que requiera La Agencia, dejando a salvo los derechos previamente generados a favor de terceros dentro de la misma;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Aprobar el Reglamento de la presente Ley, que será expedido por el Titular del Poder Ejecutivo; y autorizar las Reglas de Operación que se expidan para los programas que ejecute La Agencia, así como los demás lineamientos y su normativa interna;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Autorizar, en su caso, la actualización del Plan Maestro propuesta por el Director General de La Agencia, como consecuencia de la revisión que se realice cada 3 años conforme al periodo de administración de los Ayuntamientos de Guadalajara y Zapopan;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Autorizar la estructura administrativa y operativa que formará parte de La Agencia, así como los términos en que ésta llevará a cabo dicha contratación la que hará de manera directa;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Aprobar, en caso de que así lo requiera, la integración de un Consejo Consultivo, como órgano auxiliar de la Junta de Gobierno; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Las demás previstas en la presente Ley y demás ordenamientos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "El Presidente de la Junta de Gobierno tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Convocar a las sesiones, ya sean ordinarias o extraordinarias, que celebre la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer el orden del día de las sesiones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presidir las sesiones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Suscribir, junto con el Secretario Técnico, las actas que se levanten en virtud de la celebración de las sesiones de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir y resguardar, las acreditaciones de los integrantes de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Representar jurídicamente a la Junta de Gobierno, facultad que podrá delegar en otro servidor público en caso de ser necesario;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Asegurar que los acuerdos y decisiones que apruebe la Junta de Gobierno, se apeguen a los criterios de economía, eficacia, transparencia, imparcialidad y honradez, con el objeto de buscar siempre las mejores condiciones para la consecución de los fines de La Agencia; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que le otorguen otras disposiciones legales aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Director General",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "El Director General de La Agencia será nombrado y removido libremente por el Gobernador del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Director General tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser el representante legal de La Agencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Administrar los bienes y recursos de La Agencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Celebrar, otorgar y suscribir toda clase de actos y documentos inherentes a La Agencia, en cumplimento de las instrucciones que le otorgue la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dirigir y coordinar las actividades, programas y proyectos de La Agencia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular denuncias y querellas, cuando se requiera, informando de manera inmediata a la Junta de Gobierno respecto de los asuntos involucrados, así como ejercitar y desistirse de acciones judiciales, por instrucción de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fungir como jefe de personal de La Agencia y superior jerárquico de las unidades administrativas de La Agencia, salvo disposición expresa en contrario;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Delegar en los servidores públicos que formen parte de la estructura administrativa de La Agencia, las atribuciones y obligaciones que específicamente determine;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Nombrar y remover al personal de La Agencia de acuerdo al Reglamento Interior y a las disposiciones laborales aplicables, salvo aquellos que por disposición expresa en contrario se atribuya a otra autoridad;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Elaborar y proponer a la Junta de Gobierno, el Plan de Desarrollo Institucional y el Programa Operativo Anual (POA) de La Agencia;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Elaborar y proponer a la Junta de Gobierno, el proyecto de presupuesto de egresos de La Agencia que se envía al titular del Poder Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Gobierno del Estado;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Elaborar y proponer a la Junta de Gobierno, el Presupuesto de Ingresos y Egresos anual de La Agencia, junto con su plantilla de personal;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Elaborar y proponer a la Junta de Gobierno, los contratos y convenios de los que La Agencia pueda ser parte;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Elaborar y proponer a la Junta de Gobierno, el anteproyecto de Reglamento de la presente ley y demás normativa interna de La Agencia, así como sus reformas;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Vigilar el correcto funcionamiento de los órganos y unidades administrativas de La Agencia;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Vigilar la correcta aplicación del Plan institucional y de los programas operativos anuales de La Agencia;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Ejecutar y vigilar que se cumplan los acuerdos y comisiones de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Proponer a la Junta de Gobierno y, en su caso, a los Subcomités correspondientes, la evaluación de planes, proyectos o programas;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Proponer a la Junta de Gobierno la afectación o disposición de los bienes que conforman el Patrimonio de La Agencia;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Coordinar con las autoridades federales, estatales y municipales, las gestiones necesarias para obtener y simplificar las autorizaciones, permisos o concesiones que permitan el desarrollo del Plan Maestro y otros Planes, así como la prestación de servicios relacionados con el mismo;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Coordinar y llevar a cabo la revisión, análisis y, en su caso, modificación del Plan Maestro, para de ser necesaria, realizar su actualización periódica cada 3 años conforme al cambio de administración de los Ayuntamientos de Guadalajara y de Zapopan, la cual quedará sujeta a aprobación de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Presentar a la Junta de Gobierno un informe anual de actividades; y"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Las demás que establezca la presente Ley, la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco y demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Son atribuciones y obligaciones de las Direcciones de Área, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Formular el Plan de Desarrollo Institucional de conformidad con los lineamientos establecidos en el Plan Maestro y en las políticas generales en la materia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dar seguimiento a cada proceso del gestión institucional y financiera de acuerdo al calendario previsto en el Plan de Acción de cada proyecto, verificando el debido cumplimiento en tiempo y forma según protocolos institucionales y normativos a que haya lugar;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar los informes de avance de procesos que permitan al Director General verificar el desarrollo y consistencia interna en la aplicación de los recursos disponibles;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coordinar y controlar el trabajo de las unidades técnicas y del personal administrativo y operativo adscrito a La Agencia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Tramitar las altas, bajas, licencias, permisos, permutas, transferencias, retiros y demás asuntos relacionados con el manejo administrativo del personal adscrito a las diferentes áreas y coordinaciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Auxiliar a los responsables de las distintas áreas y coordinaciones con la información oportuna sobre los procedimientos y trámites administrativos propios de La Agencia de acuerdo a la presente Ley; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que le delegue el Director General en función de los asuntos de competencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Los titulares de las Direcciones, Coordinaciones, Jefaturas y demás personal que conforme la Estructura Administrativa de La Agencia, así como el personal técnico y operativo, tendrán las atribuciones específicas que les señale el Reglamento de la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera Del Órgano de Vigilancia",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "La Agencia tendrá un órgano de vigilancia en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco. El funcionamiento y atribuciones de dicho órgano se sujetarán a las disposiciones que determine la Contraloría del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Cuarta Del Consejo Consultivo",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "La Agencia contará con un Consejo Consultivo, que será el órgano auxiliar y de asesoría del organismo, el cual quedará integrado previa invitación y aceptación de los miembros propuestos por la Junta de Gobierno.\nLos cargos como miembro integrante del Consejo Consultivo no recibirán remuneración alguna por el desempeño de sus actividades.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Del Patrimonio de La Agencia",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "El patrimonio de La Agencia se integra en términos de lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Fideicomiso Maestro Ciudad Creativa Digital",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "El Fideicomiso Maestro Ciudad Creativa Digital, servirá como uno de los órganos de financiamiento de las actividades, operación, programas y apoyos, entre otros, de La Agencia, auxiliar en la consecución de su objeto y fines, conforme a los términos y condiciones que se precisan en la normativa y lineamientos internos de ese Fideicomiso, siempre y cuando no se realicen en contravención al objeto y fines de éste.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "El régimen laboral de los trabajadores al servicio de la Agencia, se regirá conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "La Junta de Gobierno deberá aprobar el Reglamento de la Ley, dentro de un plazo máximo de seis meses contados a partir de la entrada en vigor del presente ordenamiento, el cual deberá ser remitido al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "En cumplimiento del presente Decreto, deberán realizarse las modificaciones y reformas a la normativa, políticas y lineamientos internos vigentes del Fideicomiso Maestro Ciudad Creativa Digital, necesarias para el cumplimiento de la Ley Orgánica que por este instrumento se expide.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Se autoriza al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, para realizar las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.\nTRANSITORIO AL DECRETO 28477/LXII/2021.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\nTABLA DE REFORMAS Y ADICIONES\nDecreto 28477/LXII/2021. Se adiciona un último párrafo al artículo 8 de la Ley Orgánica de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco. Octubre 30 de 2021. Sec. V\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 30 DE ENERO DE 2019\nDiputado Presidente SALVADOR CARO CABRERA (Rúbrica)\nDiputada Secretaria\nDiputada Secretaria MIRIAM BERENICE RIVERA RODRÍGUEZ\nIRMA DE ANDA LICEA (Rúbrica)\n(Rúbrica)\nPROMULGACIÓN DEL DECRETO 27232LXII/19, CREA LA AGENCIA PARA EL DESARROLLO DE INDUSTRIAS CREATIVAS Y DIGITALES DEL ESTADO DE JALISCO Y SE EXPIDE SU LEY ORGÁNICA; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 30 DE ENERO DE 2019.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al 1 primer día del mes de febrero de 2019 dos mil diecinueve.\nENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco (RÚBRICA)\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno (RÚBRICA)\nLey Orgánica de la Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco.\nAPROBACIÓN: 30 de enero de 2019\nPUBLICACIÓN: 2 de febrero de 2019 sec. VIII\nVIGENCIA: 3 de febrero de 2019",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

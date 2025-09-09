@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 38,
+  "n_perm_fracciones": 47,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSCIONES GENERALES",
+    "CAPÍTULO II PROTECCIÓN Y ASISTENCIA",
+    "CAPÍTULO III MEDIDAS DE PROTECCIÓN",
+    "CAPÍTULO IV OTRAS MEDIDAS DE PROTECCIÓN",
+    "CAPÍTULO IV CONDICIONES PARA EL MANTENIMIENTO DE LAS MEDIDAS",
+    "CAPÍTULO V AUTORIDADES COMPETENTES",
+    "CAPÍTULO VI DEL PROCEDIMIENTO PARA LA APLICACIÓN DE LAS MEDIDAS DE PROTECCIÓN",
+    "CAPÍTULO VI SANCIONES",
+    "CAPÍTULO VII DE LOS FONDOS PARA LA APLICACIÓN DE ESTA LEY"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

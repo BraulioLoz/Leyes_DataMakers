@@ -1,0 +1,1566 @@
+{
+  "0179.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nMtro. Gerardo Octavio Solís Gómez, Gobernador Interino del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa se me ha comunicado el siguiente decreto\nNÚMERO 21755/LVII/06.- EL CONGRESO DEL ESTADO DECRETA:\nSE CREA LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- La presente Ley es de orden público, interés social y de observancia general en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- El objeto de esta ley es promover y regular los métodos alternos para la prevención y en su caso la solución de conflictos, la reglamentación de organismos públicos y privados que presten estos servicios, así como la actividad que desarrollen los prestadores de dichos servicios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- Para los efectos de esta Ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acuerdo Alternativo Inicial: Documento mediante el cual las partes se obligan a someter la prevención o solución de determinado conflicto a un método alterno. Cuando conste en un contrato, se denomina cláusula compromisoria y es independiente de este;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acreditación: Es el documento por medio del cual el Instituto autoriza a una persona jurídica para actuar como centro de justicia alternativa;\nlll. Ajuste razonable: Las modificaciones y adaptaciones necesarias que se requieran para garantizar a las personas con discapacidad el trato en igualdad de condiciones para desahogar el procedimiento dentro del método alternativo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Arbitraje: Es el procedimiento adversarial mediante el cual las partes someten a la decisión de uno o varios árbitros la solución de una controversia presente o futura;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Árbitro: Persona que conduce el procedimiento de arbitraje para la solución de un conflicto mediante la emisión de un laudo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Auxiliar: Persona que intervendrá en el método alternativo a petición del prestador del servicio o de alguna de las partes para el esclarecimiento de alguna cuestión de naturaleza técnica o científica;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Centro: Institución pública o privada que preste servicios de métodos alternativos conforme a lo dispuesto en la presente Ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Certificación: Es la constancia otorgada por el Instituto que acredita a una persona como prestador del servicio;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Conciliación: Método alternativo mediante el cual uno o varios conciliadores intervienen facilitando la comunicación entre los participantes en el conflicto, proponiendo recomendaciones o sugerencias que ayuden a lograr un convenio que ponga fin al conflicto total o parcialmente;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Conciliador: Persona que interviene en el procedimiento alterno para la solución de conflictos con el fin de orientar y ayudar a que las partes resuelvan sus controversias proponiéndoles soluciones a las mismas y asesorándolas en la implementación del convenio respectivo;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Conflicto: Desavenencia entre dos o más personas que defienden intereses jurídicos contradictorios;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Convenio Final del Método Alternativo: Es el Convenio suscrito por las partes que previene o dirime en forma parcial o total un conflicto;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Instituto: Instituto de Justicia Alternativa para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Mediación: Método alternativo para la solución de conflictos no adversarial, mediante el cual uno o más mediadores, quienes no tienen facultad de proponer soluciones, intervienen únicamente facilitando la comunicación entre los mediados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Mediador: Persona imparcial frente a las partes y al conflicto que interviene en la mediación facilitando la comunicación entre los mediados a través de la aplicación de las técnicas adecuadas;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Método Alternativo: El Trámite Convencional y Voluntario, que permite prevenir conflictos o en su caso, lograr la solución de los mismos, sin necesidad de Intervención de los órganos jurisdiccionales, salvo para su cumplimiento forzoso;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Negociación: El ejercicio metódico de comunicación desarrollado por las partes, por si o a través de un legítimo representante, para obtener de la otra su consentimiento para el arreglo del conflicto;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Parte o participante: Personas que participan en los métodos alternos, en su calidad de solicitante e invitado, o sus apoderados, con el objeto de intentar resolver un conflicto;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Prestador del servicio: Se considera al mediador, conciliador o árbitro que interviene en el procedimiento de los medios alternos de justicia previstos en esta ley; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Prevención de Conflictos: construcción de estrategias y acciones orientadas a disminuir los factores de riesgo que permiten la generación y escala de los conflictos y que asimismo permite restablecer y/o reforzar la confianza y el respeto entre los ciudadanos."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Las actuaciones derivadas del procedimiento de los métodos alternativos estarán regidas por los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Voluntariedad: La participación de los interesados en el método alternativo deberá realizarse con su consentimiento y bajo su absoluta responsabilidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Confidencialidad: La información derivada de los procedimientos de los métodos alternativos no podrá ser divulgada, por lo que será intransferible e indelegable.\nSólo a petición de la autoridad ministerial y judicial se podrán entregar las actuaciones derivadas de los procedimientos de los métodos alternativos, los cuales se considerarán reservados para efectos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Flexibilidad: El procedimiento será susceptible de cambios o variaciones según las circunstancias o necesidades de los participantes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Neutralidad: El prestador del servicio alternativo deberá ser ajeno a los intereses jurídicos que sustenten las diversas partes del conflicto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Imparcialidad: El prestador del medio alternativo procederá con rectitud sin predisposición en favor o en contra de alguna de las partes;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Equidad: El prestador del servicio deberá generar condiciones de igualdad para que las partes actúen dentro del procedimiento sin ventajas indebidas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Legalidad: Sólo podrán ser objeto del procedimiento previsto en esta ley, los conflictos derivados por la violación de un derecho legítimo o por incumplimiento indebido de una obligación y que no afecten el interés público;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Honestidad: El prestador del medio alterno deberá excusarse de participar cuando reconozca que sus capacidades, limitaciones o intereses personales pueden afectar el procedimiento;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Protección a los más vulnerables: Los convenios finales se suscribirán observando adicionalmente los derechos de las niñas, niños, adolescentes, incapaces, adultos mayores e indígenas, según sea el caso;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Economía: Los prestadores del servicio procurarán ahorrar tiempo y gastos a las partes;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Ejecutoriedad: Una vez sancionado y registrado el convenio en el Instituto, se podrá exigir su cumplimiento forzoso ante un juez de primera instancia en la vía y términos establecidos en el Código de Procedimientos Civiles del Estado;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Inmediatez: El prestador del servicio tendrá conocimiento directo del conflicto y de las partes;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Informalidad: Estará ausente de las formas preestablecidas en los procedimientos jurisdiccionales, sujetándose únicamente a esta ley y la voluntad de las partes;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Accesibilidad: Toda persona sin distinciones de origen étnico, sexo, edad, condición social, religión ó estado civil tendrá derecho a los métodos alternos de justicia, por lo que se facilitará su acceso principalmente a las personas o grupos más vulnerables de la sociedad; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Alternatividad: Procurará el conciliador proponer diversas soluciones al conflicto de manera que las partes tengan opción de escoger alguna alternativa conveniente para solucionar el conflicto."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio o transacción, con excepción de lo concerniente a la violencia familiar o violencia en razón de género. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.\nLo relacionado con los mecanismos alternativos en materia penal se regirá por lo dispuesto en el Código Nacional de Procedimientos Penales, y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y en su caso, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- Los conflictos en los que se cuestionen derechos de niñas, niños y adolescentes, así como de incapaces, podrán someterse a los métodos alternos por conducto de quienes ejerzan la representación originaria o en suplencia, patria potestad o tutela, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y en la legislación civil.\nTratándose de derechos de niñas, niños y adolescentes, se escuchará a la Procuraduría de Protección de Niñas, Niños y Adolescentes para efectos de la representación coadyuvante.\nEn los convenios que pongan fin al conflicto se notificará al agente de la Procuraduría Social cuando las peticiones sometidas a los métodos alternos puedan afectar intereses públicos o cuando tengan relación con los derechos o bienes de personas adultas incapaces o ausentes, a fin de que manifieste las consideraciones que estime pertinentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- Las partes tendrán los siguientes derechos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tratándose de un centro privado, a elegir al prestador del servicio. En el caso de un centro público que preste servicios de solución de conflictos por métodos alternos, a que se les asigne uno de acuerdo al sistema que se tenga implementado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recusar al prestador del servicio que les haya sido designado por las mismas causas que se prevén para los jueces, conforme al Código de Procedimientos que resulte aplicable según la materia sobre la que verse el método alternativo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Intervenir personalmente en todas y cada una de las sesiones, excepto en los casos en que acepten que el otro participante celebre sesiones individuales con el prestador del servicio;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Durante el procedimiento allegarse el apoyo de los auxiliares que requieran, o bien, solicitar el apoyo de instituciones públicas que dispongan de personal para su asistencia técnica o profesional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Asistir a las sesiones acompañados de su asesor jurídico;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Obtener copia simple y certificada del convenio al que hubiesen llegado; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Realizar los ajustes razonables dentro del desahogo del procedimiento, si una de las partes cuenta con alguna discapacidad; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Conocer previamente los honorarios del prestador del servicio privado."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Los participantes están obligados a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Mantener la confidencialidad de los asuntos durante su trámite y después de este;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conducirse con respeto y sin violencia al prestador del servicio o a las partes, cumplir las reglas del método alternativo y observar en general un buen comportamiento durante el desarrollo de las sesiones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Asistir a cada una de las sesiones individuales o comunes personalmente o por su representante, según corresponda, salvo causa justificada; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que se contemplan en las leyes y reglamentos.\nTratándose de asesores y auxiliares, les aplicará lo dispuesto en las fracciones I y II de este\nartículo."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- La prestación de los servicios de métodos alternos se someterá y regirá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales vigentes en la materia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Constitución Política del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Lo dispuesto en la presente Ley, y las demás disposiciones de carácter general que regulen métodos alternos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Lo dispuesto en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco, con respecto a los asuntos del orden civil y familiar;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Derogado"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ley Orgánica de la Fiscalía General del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ley Orgánica de la Procuraduría Social;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La Jurisprudencia, los principios generales del Derecho, los usos y costumbres aplicables; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "El acuerdo voluntario entre los participantes."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Los métodos alternos podrán tener lugar como resultado de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un acuerdo asumido antes o después del surgimiento del conflicto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un acuerdo para someterse a un Método Alterno, derivado de una remisión de autoridad judicial o a sugerencia del Ministerio Público en los términos establecidos por la Ley; o"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por cláusula compromisoria."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- El compromiso para someterse a un método alterno puede comprender la atención de la totalidad del conflicto o parte de él. Si en el compromiso no se establecen puntos específicos del conflicto para su atención, se entenderá que el método alternativo elegido será aplicable a su totalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Los participantes deberán comparecer al procedimiento del método alternativo personalmente o a través de legítimo representante con facultades para contraer obligaciones a nombre del interesado.\nEn caso de personas con discapacidad se deberán realizar los ajustes razonables para garantizar el entendimiento de cada una de las actuaciones en las que sea parte y que se realicen durante el desahogo del método alterno.\nEn caso de niñas, niños o adolescentes deberá comparecer quien ejerza la representación originaria, tutela, o representación en suplencia, según lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y la legislación civil. En el caso de incapaces mayores de edad, deberá comparecer quien ejerza la tutela.\nEn caso, de que alguna de las partes se encuentre recluida, por la causa que se pretende resolver a través del método alternativo, o por diversa causa, las autoridades que tengan a cargo su custodia, tendrán la obligación de permitir la realización de las sesiones del método alternativo, el cual sólo se podrá realizar por centros públicos.\nLas autoridades que tengan a su cargo la custodia de alguna de las partes, deberán garantizar la seguridad y la confidencialidad de las audiencias.\nEl procedimiento de mediación o conciliación puede darse por concluido en cualquier etapa hasta antes de la firma del convenio que se eleve a categoría de sentencia, por decisión de una de las partes o por ausencia injustificada de los interesados a las sesiones programadas.\nLos actos que requieran una intervención de las partes se podrán notificar mediante fax, correo certificado con acuse de recibo, y correo electrónico, debiendo imprimirse copia de envío y recibido, y agregarse al registro, o bien se guardará en el sistema electrónico existente para tal efecto; asimismo, podrá notificarse a las partes por teléfono o cualquier otro medio, de conformidad con las disposiciones previstas en las leyes orgánicas o, en su caso, los acuerdos emitidos por los órganos competentes, debiendo dejarse constancia de ello.\nEl uso de los medios a que hace referencia este artículo, deberá asegurar que las notificaciones se hagan en el tiempo establecido y se transmita con claridad, precisión y en forma completa el contenido de la resolución o de la diligencia ordenada. En la notificación de las resoluciones se podrá aceptar el uso de la firma digital, de conformidad al reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LOS PRESTADORES DEL SERVICIO DE JUSTICIA ALTERNATIVA",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "- Los servicios de medios alternativos de solución de conflictos contemplados por ésta Ley, podrán ser prestados por personas físicas o jurídicas, públicas o privadas en el área de su conocimiento o las constituidas con ese objeto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Las personas jurídicas que presten los servicios de medios alternativos de solución de conflictos para el ejercicio de sus funciones deberán contar con la acreditación expedida por el Instituto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- Los mediadores, conciliadores y árbitros que operen en las instituciones que presten los servicios de medios alternativos de solución de conflictos deberán ser certificados por el Instituto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema para el Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.\nLa Secretaría General de Gobierno, la Fiscalía Estatal, la Procuraduría Social, la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir la certificación ni las acreditaciones a que se refiere la presente ley.\nTodas las personas acreditadas como centros de resolución de conflictos, a través de los medios alternos, invariablemente deberán dar cuenta al Instituto de los convenios que realicen para su sanción y registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- Los prestadores del servicio deberán certificarse ante el Instituto, cubriendo los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Estar en pleno ejercicio de los derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener domicilio en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No haber sido condenado por delito doloso;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cumplir con los programas de capacitación que establezca el Instituto, o bien, en el caso de personas especializadas, acreditar sus estudios y práctica en la materia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar las evaluaciones en los términos de la presente ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Contar con titulo profesional, cuando el prestador no sea profesional del Derecho deberá asesorarse de un abogado en la implementación de los convenios que deban suscribirse; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Pagar los derechos correspondientes en los términos de la Ley de Ingresos del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- Los prestadores del servicio deberán refrendar la certificación cada dos años, previa revisión del cumplimiento de las obligaciones que señala esta Ley y el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Son obligaciones de los prestadores de servicio las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cerciorarse del correcto entendimiento y comprensión que los participantes tengan del desarrollo del método alternativo elegido, desde su inicio hasta su conclusión, así como de sus alcances;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Exhortar y motivar a los participantes a cooperar en la solución del conflicto;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Declarar la improcedencia del método alternativo elegido en los casos en que así corresponda haciendo saber a las partes los motivos de la misma;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Excusarse de conocer del Método Alternativo elegido cuando se encuentre en alguno de los supuestos en que la legislación procesal aplicable al conflicto, obligue al juzgador a excusarse, salvo cuando los participantes con pleno conocimiento y por estimar que no se afecta la imparcialidad del prestador, lo acepten por escrito;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Actualizarse permanentemente en la materia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Acudir a las revisiones y evaluaciones del instituto así como proporcionar los informes estadísticos o relacionados con su actividad que le requiera el mismo, de conformidad con lo dispuesto en esta ley y en el reglamento; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cumplir lo dispuesto por el reglamento interno que expida el Consejo del Instituto."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Los centros privados deberán acreditarse ante el Instituto, cumpliendo los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Demostrar jurídicamente su constitución, existencia y representación así como definir su objeto general, objetivos específicos misión y visión;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con prestadores debidamente certificados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con el reglamento o reglamentos institucionales necesarios para su desempeño, entregando copia de cada uno al Instituto; y (sic)"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con instalaciones adecuadas para las sesiones y demás actividades, y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cumplir lo dispuesto por el reglamento interno que expida el Consejo del Instituto.\nLos centros públicos distintos al Instituto para obtener la acreditación a que se refiere el presente\nartículo deberán cumplir los requisitos a que se refieren las fracciones II y IV."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- Los centros privados deberán solicitar el refrendo de su acreditación ante el Director General del Instituto cada dos años, lo que será resuelto por el mismo Director, de manera fundada y motivada, conforme al resultado de la revisión de su desempeño, en los términos del reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Son responsabilidad de los Centros, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cumplir y hacer que las personas que prestan servicios de métodos alternos dentro de su organización, cumplan con los requisitos y obligaciones que establece esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Rendir al Instituto los informes estadísticos o relacionados con su actividad que se les requieran; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Permitir las visitas de inspección de conformidad con lo dispuesto en la presente Ley y su reglamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "- El Instituto de Justicia Alternativa del Estado de Jalisco es un órgano del Poder Judicial competente y rector en materia de medios alternativos de justicia, con autonomía técnica, así como administrativa y con las facultades y atribuciones establecidas en esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- El Instituto tendrá su domicilio en el Primer Partido Judicial y contará con las sedes regionales o municipales que resulten necesarias, a juicio del Director General del Instituto y de conformidad con el presupuesto, previa opinión del Consejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- Son atribuciones del Instituto, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar el cumplimiento de la presente Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desarrollar y promover una red de centros como sistema de Justicia alternativa en el Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Prestar el servicio de Información y orientación sobre los procedimientos alternativos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Difundir y fomentar la cultura de los Métodos Alternos, como mecanismo de prevención y solución pacífica de los conflictos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Registrar y sancionar los convenios realizados en los Centros de Mediación para que sean considerados como sentencia ejecutoriada;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Llevar una base de datos y estadísticas de los convenios registrados en el Instituto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Evaluar y en su caso certificar a los Mediadores, Conciliadores y Árbitros, así como llevar el registro de los mismos, en los términos del reglamento;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover la capacitación y actualización permanente de los Mediadores, Conciliadores y Árbitros;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Suscribir, a través del Director General, convenios de colaboración con instituciones afines, tanto nacionales como extranjeras, para cumplimentar los fines del Instituto;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar investigaciones, análisis y diagnósticos relacionados con sus funciones;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Llevar la estadística general del Instituto, de los Centros y los demás prestadores de servicio;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Rendir anualmente un informe de sus actividades;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Difundir el resultado de sus investigaciones, Informes y actividades en general a través de los medios de comunicación en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Organizar y encargarse de la función del Instituto y de sus sedes regionales;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Promover la cooperación Nacional e Internacional para el uso de los medios Alternativos de Justicia y su validez en esos ámbitos; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Evaluar los procedimientos de los medios alternativos de justicia, haciendo las recomendaciones necesarias para su buen desarrollo y calidad; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las demás que establezcan las leyes y reglamentos."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Los Centros Públicos y Privados fungirán como auxiliares tanto del Instituto como de las sedes regionales o municipales, en la solución de los conflictos sometidos a su conocimiento y de acuerdo a los procedimientos contemplados en la presente ley y su reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El instituto estará integrado por los órganos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Director General;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Consejo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un secretario técnico;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las direcciones:\na) De Métodos Alternativos de Solución de Conflictos y validación;\nb) De Acreditación, Certificación y Evaluación; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "De Administración y Planeación;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "De Capacitación y Difusión; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Con el personal técnico y administrativo necesario y que el presupuesto permita."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- La responsabilidad y representación del Instituto de Justicia Alternativa estará a cargo del Director General, mismo que será nombrado por el Congreso del Estado, y deberá reunir los mismos requisitos que exige la Constitución Política del Estado de Jalisco para ser Magistrado del Supremo Tribunal de Justicia:\nEl nombramiento del Director General del Instituto lo hará el Congreso del Estado, de acuerdo al siguiente procedimiento:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Para otorgar el nombramiento de Director General del Instituto el Congreso, a través de la Comisión de Seguridad y Justicia, deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Comisión de Seguridad y Justicia podrá aplicar a los candidatos exámenes de aptitud para conocer su perfil profesional;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Será sometida a la consideración del pleno del Congreso del Estado la lista de todos los candidatos que cumplan con los requisitos del cargo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Director General será nombrado con el voto de cuando menos las dos terceras partes de los diputados presentes;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En caso de que ningún candidato obtenga los votos necesarios, se realiza una segunda votación, y si persiste el empate se suspende la votación durante el plazo que estime razonable la Presidencia. Transcurrido el plazo, se repite la votación. Si se somete de nuevo a votación y no se reúnen los votos necesarios, se entiende desechada la propuesta y se emitirá nueva convocatoria; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El Director General durará en el cargo cuatro años, pudiendo ser reelecto por una sola ocasión, en igualdad de circunstancias con todos los aspirantes, para desempeñarlo por otro periodo igual."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- Son atribuciones del Director General del Instituto las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar el cumplimiento de esta ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Llevar la dirección técnica y administrativa del Instituto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Representar al Instituto y ejercer las atribuciones que se le confieran en esta ley, así como suscribir toda clase de convenios para el cumplimiento de sus fines;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Convocar a concurso para prestadores de servicio del Instituto y sus sedes regionales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Expedir las acreditaciones de centros y las certificaciones a los prestadores de servicio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Autorizar las sedes regionales, previa opinión del Consejo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Llevar el registro de desempeño de los prestadores de servicio;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Presentar los planes y programas anuales del instituto al Consejo, para su consideración y aprobación;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Proponer al Consejo el reglamento interno, reglamentos institucionales, y los manuales de procedimientos y de organización del instituto y sus sedes regionales, así como los formatos de las sesiones que utilizaran los centros de justicia alternativa, revisarlos anualmente y en su caso actualizar los mismos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proponer al Consejo una terna de candidatos como directores de cada área, los cuales deberán contar con título profesional con un mínimo de tres años de antigüedad y registrado en la Dirección Estatal de Profesiones;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Divulgar las funciones del Instituto y los beneficios sociales de los servicios de Justicia Alternativa y sus organismos;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Presentar dentro de los primeros quince días de cada año un informe de actividades;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Elaborar el anteproyecto de presupuesto de egresos y presentarlo al Consejo para su aprobación. Una vez aprobado el mismo, remitirlo al Presidente del Supremo Tribunal de Justicia para que lo integre en el proyecto de presupuesto de egresos del Poder Judicial;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Sancionar los convenios que resuelvan los conflictos que se le presenten al Instituto, registrarlos y elevarlos a la categoría de sentencia ejecutoriada, una vez que cumplan con los requisitos establecidos por la ley;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Ordenar visitas de inspección o supervisión a los centros para verificar el cumplimiento de las disposiciones legales que regulen los métodos alternos de solución de conflictos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Renovar, revocar o suspender la acreditación de los Centros, o la certificación a los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Nombrar al personal necesario para el funcionamiento del Instituto, conforme al presupuesto.\nIntegrar la Comisión Substanciadora del Instituto, en conjunto con los encargados de las áreas jurídica y de administración, y elaborar los dictámenes de suspensión, ceses y, en general, de todo tipo de conflictos laborales que se susciten entre el Instituto y sus servidores públicos, conforme a los procedimientos de la Ley para los Servidores Públicos del Estado de Jalisco, y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Autorizar la expedición de copias certificadas por el Secretario Técnico, de los convenios elevados a categoría de sentencia ejecutoriada, previo pago de los derechos correspondientes, cuando así lo soliciten las personas que acrediten interés jurídico, y"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Las demás que establezcan las leyes y reglamentos."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- El Consejo estará integrado de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Director General, quien lo presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": ". Dos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Fiscalía General del Estado o de la Procuraduría Social del Estado;\n\nDos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Fiscalía Estatal o de la Procuraduría Social del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Seguridad y Justicia, y de Puntos Constitucionales y Electorales, o quienes éstos designen."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Se deroga\nA propuesta de cualquier integrante se podrá invitar, con derecho a voz, a instituciones públicas, sociales privadas, o a personas que tengan que ver con el asunto a tratar."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- Los integrantes del Consejo no devengarán sueldo, es honorífico y no remunerativo.\nLas decisiones del Consejo serán tomadas por mayoría de votos, en caso de empate, el Presidente tiene voto de calidad.\nEl Secretario Técnico únicamente tendrá derecho a voz, a menos que supla al Director General en las funciones de Presidente del Consejo del Instituto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- El Consejo tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar, a propuesta del Director General, el Plan Estatal de Justicia Alternativa como instrumento rector para la promoción de los métodos alternos de prevención y en su caso la solución de conflictos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evaluar el desempeño del Instituto de Justicia Alternativa para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer los mecanismos para la adecuada coordinación y colaboración de trabajo entre las diferentes dependencias y entidades de la administración pública, así como con instituciones privadas, en lo relativo a los programas de investigación de los medios de justicia alternativa;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer visitas a los centros de resolución de conflictos en virtud de las quejas recibidas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Programar para los prestadores del servicio cursos de actualización profesional en materia de métodos alternos para la prevención o solución de conflictos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombrar a los Directores del Instituto a propuesta del Director General y previa evaluación y acreditación del cumplimiento de los requisitos establecidos en esta Ley y en el Reglamento;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aprobar anualmente, a propuesta del Director, el anteproyecto de presupuesto de egresos del Instituto;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer los costos de recuperación por los servicios de capacitación que preste el Instituto;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Resolver los dictámenes que le remita la Comisión Substanciadora del Instituto a fin de dirimir los conflictos de naturaleza laboral que se susciten entre el Instituto y sus servidores públicos, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y el reglamento respectivo; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- Para ser secretario técnico del Instituto se requiere reunir los mismos requisitos que para ser Juez de Primera Instancia. El secretario técnico será nombrado por el Titular del Poder Ejecutivo, a propuesta del Director General.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- Son obligaciones del secretario técnico, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar los acuerdos del Director General;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Auxiliar al Consejo en el ejercicio de sus funciones y fungir como Secretario de Acuerdos del mismo, con la fe pública correspondiente a su encargo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suplir en sus funciones al Director General en el caso de ausencias temporales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Convocar a sesiones a los integrantes del Consejo, previa solicitud del Presidente del mismo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Llevar el libro de actas del Consejo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que se deriven de la aplicación de esta ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- Los directores deberán ser mayores de treinta años y tener el perfil profesional siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El director de Métodos Alternativos de Solución de Conflictos y de sede regional deberá ser abogado o licenciado en derecho y reunir los requisitos que la ley establece para ser juez de primera instancia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El director de Acreditación, Certificación y Evaluación deberá ser abogado o licenciado en derecho;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El director de Coordinación deberá ser licenciado en administración o contar con título profesional en alguna carrera afín."
+              }
+            ]
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- Al director de medios alternativos de solución de asuntos y de sedes regionales le corresponde:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Turnar los asuntos que le sean planteados al prestador del servicio que corresponda tratándose de sedes, e informar a los usuarios sobre los privados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "- Cuidar el buen funcionamiento de la dirección y la calidad de sus servicios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Rendir al Director General del Instituto, en la primera quincena de noviembre, un informe"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que señale el reglamento interno."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- Al Director de Evaluación, Acreditación y Certificación le corresponde:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir, integrar y proponer al Instituto, para su acreditación o certificación, a los aspirantes a prestadores del servicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar visitas de inspección y supervisión a los prestadores de servicio;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recoger las experiencias del Centro para la realización de estudios y análisis de carácter prospectivo que realiza el instituto;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proporcionar al Instituto datos para el control del registro de prestadores de servicio así como mantenerlo actualizado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Evaluar, calificar el desempeño del prestador de servicios o centro, y en su caso proponer al Director General del Instituto el refrendo de la certificación o acreditación otorgada a éstos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Rendir al Director General del Instituto, en la primera quincena de noviembre, un informe"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que conforme a las disposiciones de esta ley y su reglamento interno le correspondan."
+              }
+            ]
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- El Director de Administración y Planeación es el encargado de la coordinación, supervisión y ejecución de las tareas que permitan el mejor cumplimiento de las funciones propias del instituto, así como la eficiente atención de las necesidades administrativas, materiales y financieras y le corresponde:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Auxiliar al Director General del Instituto en el desempeño de sus funciones administrativas internas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acordar con el Director General del Instituto el despacho de los asuntos de las áreas administrativas adscritas a su cargo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer al Director General del Instituto el programa anual de actividades de la dependencia a su cargo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Auxiliar al Director General del Instituto en la elaboración del proyecto de presupuesto del Instituto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dictar y establecer, con la aprobación del Director General, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros del Instituto, de acuerdo con la legislación vigente y con sus programas y objetivos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Coordinar los trabajos de las áreas administrativas que, por disposición expresa d (sic) la presente ley o el reglamento interior, le estén subordinadas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Desarrolla planes y métodos administrativos que promuevan la eficiencia de las funciones internas del Instituto;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Rendir al Director General del Instituto en la primera quincena de noviembre, un informe"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás que conforme a las disposiciones de esta ley y el reglamento interno le correspondan."
+              }
+            ]
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- El Centro de Capacitación y Difusión elaborará los programas de capacitación y actualización de los mediadores, conciliadores y árbitros, y los remitirá, por conducto del Director General del Instituto, al Consejo para su aprobación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- Los cursos de formación y difusión que imparta el Centro de Capacitación y Difusión del Instituto serán gratuitos para los Centros Públicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Tanto las sedes regionales, como los centros públicos y privados, sólo podrán instalarse e intervenir en las circunscripciones de los partidos Judiciales que les sea autorizado por el Instituto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- Las partes podrán elegir la sede regional del Instituto o centro que mejor convenga a sus intereses, no obstante las condiciones y naturaleza del conflicto.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA. REGLAS GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 42,
+            "Texto": "- El procedimiento en materia de medios de justicia alternativa es autónomo aunque el convenio que derive de un expediente pueda incidir en otro asunto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "El procedimiento podrá iniciarse a petición de parte interesada, de su representante legal, a propuesta del Ministerio Público o por remisión de autoridad judicial, subsistiendo la permanencia en los métodos alternos conforme a la voluntad de las partes en términos de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- El interesado elevará ante el Centro o sede regional su petición verbal, escrita o a través de medios electrónicos, debiendo expresar los antecedentes de la controversia que se pretenda resolver, el nombre, domicilio, teléfono y correo electrónico de la parte complementaria, terceros interesados, en su caso, y la declaración de someterse voluntariamente a resolver su asunto a través de alguno de los medios de justicia alternativa, manifestación de aceptación de que el procedimiento sea tramitado a través de la modalidad de medios electrónicos que para tal efecto el Instituto habilite y que cuenta con los requerimientos tecnológicos necesarios para llevar a cabo el procedimiento a través de dicha modalidad.\nLa remisión planteada por autoridad judicial sólo podrá realizarse respecto de los procesos o juicios que se encuentren bajo su jurisdicción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- El procedimiento se desarrollará mediante sesiones orales, comunes o individuales, presenciales, por medios electrónicos o mixtas, y por su confidencialidad no se levantará constancia de su contenido, menos aún de las aseveraciones que los participantes exponen. Queda prohibido grabar o guardar respaldo del audio o del video.\nLo anterior, con excepción del acuerdo inicial, pacto de confidencialidad, y la lectura del convenio que ponga fin al conflicto o parte de este, que se asentará por escrito.\nLas declaraciones y manifestaciones que se realicen con motivo del procedimiento alternativo carecerán de valor probatorio, y no podrán emplearse en un procedimiento judicial.\nSi durante el procedimiento alternativo el prestador de servicios advierte la existencia de hechos delictivos, suspenderá el trámite y dará vista al Ministerio Público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- Cuando algún prestador del servicio se encuentre con circunstancias que impidan su ejercicio conforme a los principios que rigen los medios alternativos deberá excusarse de conocer del asunto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- En el caso en que el método elegido sea la mediación, el prestador no deberá formular sugerencias, sin embargo, orientará e informará a los mediados sobre sus derechos y alcances jurídicos de las posibles soluciones; el conciliador por su parte, sí deberá realizar propuestas de soluciones equitativas y convenientes para los conciliados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- El prestador del servicio está obligado a dar por terminado un procedimiento de resolución de medio alternativo al tener conocimiento de que se ventila un asunto no susceptible de ser resuelto mediante un método alternativo, expidiendo para este efecto la declaración de sobreseimiento que corresponda.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA ETAPA PRELIMINAR",
+        "Artículos": [
+          {
+            "Artículo": 49,
+            "Texto": "- Una vez estudiada la solicitud de servicios de alguno de los medios de justicia alternativa, se determinará la viabilidad del más adecuado para la solución de la situación planteada, de ser procedente, se le notificará por escrito, correo electrónico o por medios electrónicos, esta determinación al solicitante y, en su caso, se invitará a los demás interesados a la entrevista inicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "La invitación a la parte complementaria deberá contener los siguientes datos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre y domicilio de las partes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Número de asunto e invitación girada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Lugar y fecha de expedición;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Indicación del día, hora y lugar de celebración de la entrevista inicial, o datos para acceder a su desahogo electrónico;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Nombre de la persona que solicitó el servicio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El apercibimiento en el que se haga saber a la parte complementaria que en caso de no acudir a la invitación a la entrevista inicial sin causa justificada, se estará a lo previsto en el artículo 53 de esta ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Nombre del prestador con el que deberá tener contacto el invitado a la entrevista inicial, y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Nombre y firma del director del Centro o sede regional."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- La entrega de la invitación se podrá hacer por cualquier persona o medio, incluyendo los electrónicos, cuando ello facilite la aceptación de la parte complementaria a acudir a la entrevista inicial y su deseo de participar a través de la modalidad de medios electrónicos.\nCuando la parte complementaria no cuente con los requerimientos tecnológicos necesarios, pero sea su deseo participar a través de la modalidad de medios electrónicos, se le invitará a una sesión presencial, conforme lo dispone la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- De presentarse algún inconveniente en la entrega de la invitación en los términos del\nartículo que antecede, el notificador se constituirá en el domicilio particular o sitio de localización de la parte complementaria para hacer entrega formal del original de la invitación en sobre cerrado.\nEn caso de que la invitación sea recibida por un familiar, vecino o compañero de trabajo de la persona invitada, se asentará constancia de esta circunstancia para ser anexada al legajo correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Cuando alguna de las partes no concurra a la entrevista inicial, se podrá girar otra invitación a petición expresa de la parte que si asistió; si ninguna de las partes asiste a la entrevista inicial sin causa justificada, la solicitud se archivará sin mayor trámite.\nPara los efectos de lo establecido en el párrafo anterior, los centros públicos y privados que presten servicios en métodos alternos, en su caso, deberán informar por escrito al Instituto de Justicia Alternativa de las inasistencias por segunda ocasión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- En la entrevista inicial el prestador del servicio deberá cumplir con las siguientes disposiciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se presentará ante los entrevistados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Agradecerá la asistencia de las partes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Explicará a los presentes:\na) Los objetivos de la reunión y antecedentes;\nb) Las etapas en que consiste el procedimiento;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Los efectos del convenio;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "El papel de los prestadores del servicio;\ne) Las reglas que deben observarse durante el procedimiento;\nf) El carácter voluntario, profesional, neutral, confidencial, imparcial, ágil y equitativo; y\ng) El carácter gratuito del procedimiento, tratándose de un centro público, o la forma de fijar los honorarios si se trata de un centro o prestador privado."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Invitará a las partes para que con la información proporcionada por el prestador elijan el método de justicia alternativa que estimen más adecuado a su asunto; en igual forma para que se fijen las reglas y duración para el trámite elegido y lo plasmen en el acuerdo inicial."
+              }
+            ]
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- La entrevista inicial se llevará a cabo con la sola presencia de la parte complementaria, o de ambas a juicio del prestador del servicio.\nLas partes podrán asistir a la entrevista inicial acompañados de su asesor jurídico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- Si las partes no aceptan ninguno de los medios alternativos propuestos se dará por concluido el trámite.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- Derogado",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA TRÁMITE",
+        "Artículos": [
+          {
+            "Artículo": 57,
+            "Texto": "- Si las partes aceptan voluntariamente alguno de los medios alternativos propuestos, se asentará constancia por escrito del acuerdo inicial y del pacto de confidencialidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- Cuando las partes acepten participar en el procedimiento, se les hará saber que el término del mismo será de hasta dos meses, pudiendo prolongarse por uno más si a juicio de las partes y del prestador se considera conveniente. Continuando el trámite correspondiente.\nDerogado",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- Inmediatamente después de que hubiere acuerdo de las partes y la conformidad del prestador respecto al procedimiento, se podrá desahogar la sesión de conocimiento del conflicto o en su caso se señalará hora y fecha para el desahogo de la misma. El desahogo de la sesión de conocimiento del conflicto podrá realizarse de manera presencial, por medios electrónicos o una combinación de ambas.\nLa sesión de conocimiento del conflicto se llevará a cabo conforme a las siguientes disposiciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El prestador del servicio explicará la naturaleza y origen del conflicto, sin hacer señalamientos de responsabilidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las partes deberán manifestar sus puntos de vista respecto al conflicto y las consecuencias, pudiendo solicitar las aclaraciones que consideren necesarias;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Una vez que las partes consideren suficientemente explicada la naturaleza y origen del conflicto, si el prestador de servicios estima que existen condiciones para desahogar la fase de resolución de conflicto, ésta se llevará a cabo conforme a lo señalado en esta ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Se levantará un resumen de lo más destacado de la sesión o de los acuerdos a los que se hubieren llegado, en su caso; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Si fuere necesario se fijará día y hora para la siguiente sesión."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- Los acuerdos que se propongan deberán ser viables, equitativos, legales y convenientes y serán examinados por los participantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- Las partes podrán solicitar al prestador un término hasta de tres días hábiles para tomar una decisión respecto de la aceptación, variación o rechazo del acuerdo propuesto en la sesión y, aceptado éste último, se firmará el convenio final.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- Una vez concluido el plazo a que se refiere el artículo 61 de esta ley, dentro de un término máximo de tres días hábiles siguientes, el prestador del servicio solicitará ante el Instituto la sanción del convenio final, notificando su resolución personalmente a las partes, y en caso de haber sido aprobado, registrarlo en sus archivos como convenio equiparado a sentencia ejecutoriada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "- El convenio del método alternativo, parcial o total resultante, además de los requisitos establecidos en la legislación que regule la materia del conflicto, deberá cumplir con los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Constar por escrito;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Señalar hora, lugar y fecha de su celebración;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Señalar los generales de las partes, así como el documento oficial con el que se identifiquen;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contener la firma electrónica avanzada y/o autógrafa de quienes lo suscriben, del prestador de servicio y sanción del Instituto.\nEl convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose otro en los archivos de la entidad a la que pertenezca el prestador del servicio y otro tanto ante el Instituto que lo sancionó;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Especificar el contenido del acuerdo en forma clara y precisa, detallando las circunstancias de tiempo, modo y lugar en que se cumplirán con las obligaciones contraídas por cada una de las partes; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Derogada.\nEl convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose otro en los archivos de la entidad a la que pertenezca el prestador del servicio y otro tanto ante el juez que lo validó.\nEn caso de que las partes lleguen a un convenio a través de la modalidad de medios electrónicos se fijará fecha y hora para llevar a cabo la lectura del convenio, a través de la modalidad electrónica, debiéndose enviar la propuesta de convenio cuando menos con 48 horas de anticipación de la fecha programada, para que se presenten observaciones y correcciones.\nEl día y hora fijado para la lectura del convenio se dará lectura al mismo y se enviará en formato electrónico, dándose lectura, en caso de que las partes estén de acuerdo y no existan observaciones expresaran verbalmente su aceptación y sometimiento a las cláusulas y condiciones, levantándose constancia, en caso de existir más correcciones se fijará una nueva fecha.\nEn caso de ser procedente se firmará electrónicamente con firma electrónica o el medio que se habilite para tal efecto."
+              }
+            ]
+          },
+          {
+            "Artículo": 64,
+            "Texto": "- Cuando en alguno de los medios de justicia alternativa hayan intervenido representantes deberá hacerse constar el documento con el que acreditaron dicho carácter y anexar copia certificada del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- Las obligaciones de contenido ético o moral podrán constar en el convenio pero no serán susceptibles de ejecución coactiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "- Cuando alguna de las partes no sepa o no pueda firmar, estamparán sus huellas dactilares, firmando a su ruego persona de su confianza, dejándose constancia de ello.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "- Los prestadores del servicio vigilarán que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorarán de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes.\nEn la realización del convenio y tratándose de asuntos que afecten intereses de personas adultas incapaces, o ausentes, se deberá dar vista al agente de la Procuraduría Social para efectos de su representación; en caso de niñas, niños y adolescentes, a la Procuraduría de Protección de Niñas, Niños y Adolescentes.\nLa vista a la que se refiere este artículo será por un término de cinco días; en caso de que no se reciba manifestación, se les tendrá por conforme en los términos del convenio; en todo caso, el Instituto resolverá conforme a derecho, garantizando el interés superior de la niñez.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "- El convenio sólo deberá suscribirse cuando se trate de materia objeto de algún método alternativo de solución de conflictos y no podrá contener cláusulas que atenten contra el orden público o afecten derechos de terceros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "- El convenio ratificado y sancionado por el Instituto, se considerará como sentencia que hubiere causado ejecutoria, con todos los efectos que para la ejecución forzosa de la sentencias prevén las leyes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- Cuando el convenio final del método alternativo presentado ante el Instituto para su sanción no reúna los requisitos que prevé esta ley, el Instituto prevendrá a las partes y al prestador del servicio para que dentro de un plazo de cinco días se subsanen las deficiencias señaladas. Si dentro del plazo señalado anteriormente no son solventados los requisitos y observaciones formuladas por el Instituto, éste acordará inmediatamente la no sanción del convenio final.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "- Para la ejecución forzosa del convenio sancionado, se deberá acudir al Juez de Primera Instancia en la vía y forma que así proceda. Las excepciones oponibles a la ejecución del convenio sancionado se harán valer ante la autoridad judicial en los términos que dispone el Código de Procedimientos Civiles del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "- El procedimiento de métodos alternos se tendrá por concluido en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cumplimiento del convenio final del método alternativo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por conclusión del término señalado en esta ley para el desahogo del medio alterno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por resolución motivada del prestador del servicio cuando alguno de los participantes incurra reiteradamente en un comportamiento irrespetuoso o agresivo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Por resolución motivada del prestador del servicio cuando tenga conocimiento de un hecho o acto ilícito que derive del conflicto que se pretende someter al método alternativo o del acuerdo que pudiera celebrarse;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Por decisión de alguna de las partes de no continuar con el procedimiento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Por la inasistencia de la parte complementaria al Instituto o centro de mediación o al desahogo por medios electrónicos, sin causa justificada, por dos ocasiones previa notificación correspondiente;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cuando las partes hubieren aceptado participar en el procedimiento y alguno de ellos, o su representante, incurriere en desatención a tres citaciones sin causa justificada;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Por negativa de los participantes a suscribir el convenio final del método alternativo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Por que se haya dado fin al conflicto mediante resolución judicial; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Por declaración de improcedencia por no ser derechos transigibles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DE LA ACTUACIÓN DE LOS ABOGADOS",
+        "Artículos": [
+          {
+            "Artículo": 77,
+            "Texto": "- Las partes podrán estar acompañados (sic) de sus abogados durante las sesiones desahogadas dentro del método alternativo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "- Los abogados acreditados dentro de la sesión de método alternativo limitarán su participación a asesorar a sus clientes, absteniéndose de otra clase de intervención.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI DE LA VIGILANCIA Y SANCIONES",
+        "Artículos": [
+          {
+            "Artículo": 79,
+            "Texto": "- Corresponde a los prestadores del servicio guardar el orden en las sesiones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 80,
+            "Texto": "- Cuando no fuere posible restituir el orden para el desarrollo de la sesión el prestador del servicio la suspenderá.\nLa reanudación de la sesión será valorada por el prestador del servicio cuando considere que existen condiciones de orden suficientes para su continuación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 81,
+            "Texto": "- El prestador del servicio hará del conocimiento del Director General del Instituto o, en su caso, del que funja como Director de Medios Alternativos o de sus equivalentes en la sede regional, cualquier conducta irregular de las partes o abogados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "- Si el prestador del servicio considera que la conducta irregular es grave, levantará acta circunstanciada del hecho y la enviará al instituto o sede regional para la aplicación de medidas disciplinarias que correspondan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 83,
+            "Texto": "- Cuando el prestador del servicio considere que la conducta irregular grave pudiere constituir delito denunciará los hechos al ministerio público y dará por concluido el trámite del método alternativo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "- El Instituto podrá aplicar las siguientes medidas disciplinarias a las partes y abogados:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique violar\nlas reglas de alguno de los medios de justicia alternativa establecidas en la ley o incumpla las obligaciones que esta ley le impone, y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impedimento para actuar en la sesión, y en caso de reincidencia, además, doble del monto de la multa señalada en la fracción anterior si se tratare de abogado patrocinador de alguna de las partes."
+              }
+            ]
+          },
+          {
+            "Artículo": 85,
+            "Texto": "Tratándose de prestadores del servicio que tengan el carácter de servidores públicos, en caso de violación a preceptos de la presente ley y sus reglamentos se estará a lo dispuesto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "Los prestadores que no tengan el carácter de servidores públicos, podrán ser sancionados en los términos de esta ley y de la Ley para el Ejercicio de las Actividades Profesionales del Estado, sin perjuicio de la responsabilidad laboral, administrativa, penal o civil en que pudieran incurrir.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "- El Director General del instituto podrá sancionar al prestador del servicio conforme a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique realizar el servicio contrario a la ley, su reglamento o a los términos establecidos en la cláusula compromisoria o en el acuerdo que exista entre las partes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suspensión para ejercer como prestador del servicio y del registro ante el Instituto de Mediación hasta por un plazo de seis meses, a quien:\na) Conozca de un asunto en la cual tenga impedimento legal, sin que los usuarios hayan tenido conocimiento y lo hayan así aceptado en los términos de esta ley;\nb) Ejecute actos o incurra en omisiones que produzcan un daño o perjuicio alguna ventaja indebida para alguna del (sic) las partes;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Se abstenga de declarar la improcedencia del medio alterno de conformidad con esta Ley; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Preste servicios diversos al del método alterno respecto del conflicto que la originó."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La revocación de la certificación y registro en caso de reincidir, en alguna de las acciones u omisiones establecidas en la fracción III.\nLo anterior sin perjuicio de la responsabilidades de orden penal y civil que les puedan ser exigidas por los afectados."
+              }
+            ]
+          },
+          {
+            "Artículo": 88,
+            "Texto": "- El Director General del Instituto sancionará al director del centro que hubiere incurrido en infracción a esta ley o a sus disposiciones reglamentarias, conforme a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigentes en el momento de decretarse la sanción, al centro de mediación que incumpla notificar su cambio de domicilio ante el Instituto, no cuente con espacios acondicionados para la prestación del servicio o no atienda las recomendaciones del instituto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigentes al momento de decretarse la sanción, cuando impida visitas de inspección o;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suspensión de la acreditación y registro ante el Instituto hasta por un plazo de seis meses cuando reincida en la causa señalada en la fracción anterior;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Suspensión de la acreditación y registro ante el Instituto hasta por un plazo de seis meses cuando tenga en operación a prestadores del servicio que no cumplan con los requisitos y obligaciones que establece esta Ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La revocación de la acreditación y registro ante el Instituto en caso de reincidir en el incumplimiento de lo establecido en las fracciones I y III de este artículo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Clausura del establecimiento cuando carezca del registro ante el Instituto para realizar las actividades propias de la mediación."
+              }
+            ]
+          },
+          {
+            "Artículo": 89,
+            "Texto": "Las multas podrán hacerse efectivas mediante el procedimiento administrativo de ejecución por medio de la Secretaría de la Hacienda Pública.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 90,
+            "Texto": "- El Director General del Instituto, los directores de centros públicos podrán solicitar el auxilio de la fuerza pública para guardar el orden y respeto a las partes y miembros de la institución así como para salvaguardar las instalaciones y sus recursos materiales o para efectuar clausuras, mismo que les brindaran las autoridades de seguridad publica estatales o municipales cuando sean requeridas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DE LOS RECURSOS",
+        "Artículos": [
+          {
+            "Artículo": 91,
+            "Texto": "En contra de las resoluciones del Instituto mediante las cuales se impongan sanciones, nieguen las solicitudes de autorización, acreditación, renovación o certificación a que se refiere esta ley, se podrán interponer el recurso de revisión previsto en la Ley de Justicia Administrativa del Estado, o bien, en forma optativa, promover el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Jalisco.\nEl recurso de revisión se interpondrá ante el Director General del Instituto o, en su caso, ante sus equivalentes en las sedes regionales, aun cuando se promueva contra sus actos o resoluciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 93,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 95,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 97,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 98,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "Derogado.\n\nEl presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el año fiscal 2008 contemplará las prevenciones financieras necesarias para la vigencia y aplicación del presente\ndecreto. Se autoriza al Poder Ejecutivo del Estado a realizar todas las modificaciones presupuestarias para el debido cumplimiento del presente decreto.\n\nSe abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.\n\nLa Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.\nARTÍCULOS TRANSITORIOS DEL DECRETO 28440/LXII/21\noficial “El Estado de Jalisco”.\n\nEl Instituto de Justicia Alternativa deberá realizar las adecuaciones presupuestales necesarias a efecto de que se encuentre en total operación la reforma implementada en un plazo no mayor a 180 días después de la entrada en vigor del presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 28821/LXIII/22\noficial \"El Estado de Jalisco\".\n\nEl Instituto de Justicia Alternativa, contará con un plazo de 180 días para realizar las adecuaciones necesarias en sus instalaciones de conformidad con su suficiencia presupuestal.\nTABLA DE REFORMAS Y ADICIONES\nDECRETO NÚMERO 22138/LVII/07.-Reforma el primer transitorio de la Ley (recorre la vigencia de la ley al 1º.de mayo de 2008).- Dic.27 de 2007. Sec. II.\nDECRETO NÚMERO 22216/LVIII/08.-Reforma los artículos 4º., 5º., 6º., 15, 27, 29, 52, 62, 63 67, 72, 73, 76, 84, 87 y 88; adiciona el artículo 5º. Bis; deroga los artículos 68, 70, 71 y 74, todos de la Ley de Justicia Alternativa; se adiciona un artículo 79 Bis al Código Penal y se reforman los artículos 109 frac. IV, 308 frac. IX y 313 frac. III del Código de Procedimientos Penales, todos del Estado de Jalisco.-Abr.29 de 2008. Sec. IV.\nDECRETO NÚMERO 22628/LVIII/09.- Reforma el art. 15 de la Ley de Justicia Alternativa del Estado de Jalisco.-Abr. 7 de 2009. Sec. III.\nDECRETO NÚMERO 23452/LIX/10.- Reforma y adiciona los arts. 4º, 5º, 6º, 8, 11, 15, 18, 19, 20, 22, 23, 24, 27, 28, 29, 30, 31, 33, 35, 36, 37, 38, 39, 50, 56 Bis, 61, 62, 63, 67, 72, 73, 75, 81 y 91; y deroga los arts. 92 al 98 de la Ley de Justicia Alternativa del Estado de Jalisco.-Dic. 23 de 2010. Sec. IX.\nDECRETO NÚMERO 24155/LIX/12.- Reforma el artículo 28 frac. XVII y adiciona la frac. IX al art. 31 recorriéndose las demás en su orden, de la Ley de Justicia Alternativa del Estado de Jalisco.- Nov. 20 de 2012. Sec. V.\nDECRETO NÚMERO 24467/LX/13.- Reforma y adiciona diversas disposiciones del Código Penal, del Código de Procedimientos Penales, de la Ley de Justicia Alternativa y de la Ley del Sistema de Seguridad Pública, ordenamientos todos del estado de Jalisco.-Oct. 15 de 2013. Sec. II.\nDECRETO NÚMERO 24489/LX/13.- Se reforma el artículo 5 de la Ley de Justicia Alternativa del Estado de Jalisco.-Dic. 3 de 2013. Sec. II.\nDECRETO NÚMERO 25455/LX/15.- Se reforman los artículos 5 bis, 11, 15 y 67 todos de la Ley de Justicia Alternativa del Estado de Jalisco.- Sep. 5 de 2015. sec. III.\nDECRETO NÚMERO 25794/LXI/16.- Se modifica el artículo 128 del Código de Asistencia Social del Estado de Jalisco, los artículos 8, 29, de la Ley de Justicia Alternativa del Estado de Jalisco, los artículos 8 y 21 de la Ley del Centro de Atención para las Víctimas del Delito, los artículos 18 y 62, de la Ley Orgánica del Poder Judicial del Estado de Jalisco, el artículo 70 de la Ley Sobre los\nDerechos y el Desarrollo de los Pueblos y las Comunidades Indígenas del Estado de Jalisco.- Mar. 3 de 2016 sec. II.\nDECRETO NÚMERO 25840/LXI/16.- Artículo vigésimo tercero, se reforman los artículos 84, 87 y 88 de la Ley de Justicia Alternativa del Estado de Jalisco.- Oct. 11 de 2016 sec. V. AL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16.- Oct. 11 de 2016 sec. VI.\nDECRETO NÚMERO 26857/LXI/18.- Se reforman los artículos 5, 8, 58 y 72; y se deroga el artículo 56 Bis de la Ley de Justicia Alternativa del Estado de Jalisco; Se reforma el artículo 8 de la Ley del Instituto Jalisciense de las Mujeres; Se reforman los artículos 6 y 11 de la Ley de Atención a la Juventud del Estado de Jalisco; Se reforman los artículos 10 y 18 y se adiciona el artículo 10 bis de la Ley Orgánica de la Fiscalía General del Estado de Jalisco; Se reforman los artículos 3, 16, 27 y 29 de la Ley Orgánica de la Procuraduría Social.- Sep. 13 de 2018 sec. III.\n26950/LXI/18.- Se reforman los artículos 3, 43, 50 y 53 de la Ley de Justicia Alternativa del Estado de Jalisco.- Nov. 17 de 2018 sec. IV.\n27327/LXII/19.- Se reforman los artículos 4, 8, 15, 24, 27, 29, 85, 86, 89 y 91 y se deroga la fracción V del artículo 29 de la Ley de Justicia Alternativa del Estado de Jalisco.- Ago. 29 de 2019 sec. III.\n27807/LXII/20.- Se reforma el 53 de La Ley de Justicia Alternativa del Estado de Jalisco.- Abr. 2 de 2020 sec. VI. 28440/LXII/21.- Se adiciona la fracción VIII al artículo 8, y se reforman los artículos 44, 45, 49, 50, 51, 59, la fracción IV, del 63 y 76 de la Ley de Justicia Alternativa del Estado de Jalisco.- Oct. 2 de 2021, sec. V.\n28806/LXIII/22.- Se reforma el primer párrafo del artículo 5 de la Ley de Justicia Alternativa del Estado de Jalisco.- Ago. 25 de 2022 sec. IV.\n28821/LXIII/22.- Se adiciona la fracción III recorriéndose las subsecuentes del artículo 3, se adiciona la facción VII, recorriéndose las subsecuentes en su orden del artículo 6; y se adiciona un párrafo segundo al artículo 11, recorriéndose en su orden las subsecuentes, todos de la Ley de Justicia Alternativa.- Nov. 8 de 2022, sec. VI.\n29215/LXIII/23.- Se adiciona la fracción XX al artículo 3, y se reforma la fracción IV del artículo 24 de la Ley de Justicia Alternativa del Estado de Jalisco.- Jul. 22 de 2023, sec. III.\nLEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO APROBACIÓN: 30 DE DICIEMBRE DE 2006. PUBLICACIÓN: 30 DE ENERO DE 2007. SECCIÓN IX. VIGENCIA: 1º.DE ENERO DE 2009.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.\n\nEl titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Derogado.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 30 DE DICIEMBRE DE 2006\nDiputado Presidente Enrique García Hernández\nDiputado Secretario José Ángel González Aldana\nDiputado Secretario Martha Ruth del Toro Gaytán\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 15 quince días del mes de enero de 2007 dos mil siete.\nEl Gobernador Interino del Estado Mtro. Gerardo Octavio Solís Gómez\nEl Secretario General de Gobierno C.P. José Rafael Ríos Martínez\nARTÍCULOS TRANSITORIOS DEL DECRETO 22216/LVIII/08\n\nEl Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El decreto 21755 y el presente decreto entrarán en vigor simultáneamente el día 1º.de enero de 2009, previa su publicación en el periódico oficial El Estado de Jalisco.\nARTÍCULOS TRANSITORIOS DEL DECERTO 25455/LX/15",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.\nEn todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente\nDecreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero\ntransitorio del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Segundo",
+            "Texto": "Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Tercero",
+            "Texto": "Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.\nLos procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el\nartículo 46 del Código de Asistencia Social del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Cuarto",
+            "Texto": "La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Quinto",
+            "Texto": "Se instruye a la Secretaría General de este Congreso, una vez publicado este\ndecreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26857/LXI/18\noficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

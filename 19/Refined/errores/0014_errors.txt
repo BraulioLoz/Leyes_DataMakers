@@ -1,0 +1,13 @@
+Errores y advertencias para: 0014.txt
+==================================================
+
+Ubicación: line 256
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 40 a 42
+Línea: Artículo 42.- Los sujetos obligados establecerán en su programa anual los procedimientos para la generación, administración, uso, control y migración de formatos electrónicos, así como planes de preservación y conservación de largo plazo que contemplen la migración, la emulación o cualquier otro método de preservación y conservación de los documentos de archivos electrónicos, apoyándose en las disposiciones emanadas del Consejo Nacional y del Consejo Estatal.
+------------------------------
+Ubicación: line 452
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 89 a 91
+Línea: Artículo 91.- Los sujetos obligados podrán celebrar acuerdos interinstitucionales y convenios con instituciones educativas, centros de investigación y organismos públicos o privados, para recibir servicios de capacitación en materia de archivos.
+------------------------------

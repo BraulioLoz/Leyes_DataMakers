@@ -1,0 +1,20 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 22,
+  "n_perm_fracciones": 7,
+  "n_trans_caps": 1,
+  "n_trans_articles": 2,
+  "n_trans_fracciones": 6,
+  "chapter_labels": [
+    "CAPITULO I Disposiciones Generales",
+    "CAPÍTULO II De la Aplicación del Plan",
+    "CAPÍTULO III Declaratoria de Reservas, usos y Destinos de Áreas y Predios",
+    "capítulo tercero, incisos II y III del Plan de Ordenamiento, sobre características del área y establecimiento de las Reservas, Usos y Destinos a los que remiten las claves mencionadas; y",
+    "CAPÍTULO IV Medidas de Seguridad, Sanciones y Recursos",
+    "Título Cuarto, Capítulo Unico, de la Ley de Asentamientos Humanos del Estado, para los casos a que el propio Título se contrae."
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "TÍTULO": 1
+  }
+}

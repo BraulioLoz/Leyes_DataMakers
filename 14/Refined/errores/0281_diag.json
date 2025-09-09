@@ -1,0 +1,16 @@
+{
+  "n_chapters": 3,
+  "n_perm_articles": 13,
+  "n_perm_fracciones": 33,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Derechos y Obligaciones",
+    "Capítulo III Comisión Intersecretarial"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 3
+  }
+}

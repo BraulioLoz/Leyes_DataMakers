@@ -1,0 +1,34 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 99,
+  "n_perm_fracciones": 203,
+  "n_trans_caps": 1,
+  "n_trans_articles": 13,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I",
+    "Capítulo II De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico",
+    "Capítulo III De la Priorización y el Vocacionamiento para el Desarrollo Económico",
+    "Capítulo IV",
+    "Sección Primera",
+    "Sección Segunda De los Tipos de Apoyo",
+    "Capítulo I De la Secretaría de Promoción Económica",
+    "Capítulo II Del Consejo Estatal de Promoción Económica",
+    "Capítulo III De la Junta de Gobierno del Consejo Estatal de Promoción Económica",
+    "Capítulo IV Del Director General del Consejo Estatal de Promoción Económica",
+    "Capítulo V De la Administración del Consejo Estatal de Promoción Económica",
+    "Capítulo VI Del Consejo Estatal para la Competitividad de Jalisco",
+    "Capítulo VII De la Productividad para el Desarrollo del Estado",
+    "Capítulo I",
+    "Capítulo II Del Órgano de Gobierno del Sistema de Información",
+    "Capítulo I",
+    "Capítulo II De la Verificación e Inspección",
+    "Capítulo III De las Infracciones y Sanciones a Beneficiarios del Consejo Estatalde Promoción Económica de Jalisco",
+    "Capítulo IV De las Infracciones y Sanciones a Servidores Públicos",
+    "Capítulo V Del Recurso de Inconformidad"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 18,
+    "SECCIÓN": 2
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "0197.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 27945/LXII/20 EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": 2020,
+    "Título": "LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones generales.",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "a presente Ley es de orden público e interés general, de observancia obligatoria en el estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "a presente Ley tiene por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proteger la salud de la población de los efectos nocivos del tabaco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proteger los derechos de los no fumadores a vivir y convivir en espacios 100% libres de humo de tabaco y emisiones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer las bases para la protección contra el humo de tabaco y emisiones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Instituir medidas para reducir el consumo de tabaco y para que los menores de edad no se inicien en el mismo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar la promoción, la educación para la salud, así como la difusión del conocimiento de los riesgos atribuibles al consumo y a la exposición al humo de tabaco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover la cultura de espacios 100% libres del humo del tabaco, con el objeto de proteger auténticamente a los no fumadores y fumadores, y persuadir a estos últimos a dejar de fumar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco y el control de las emisiones; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que sean necesarias para el cumplimiento de sus objetivos."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "falta de disposición expresa se aplicará, en lo sustantivo la Ley Estatal de Salud, y en todo lo demás, la Ley de Procedimiento Administrativo, ambos ordenamientos del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "ara los efectos de la presente ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Secretaría: A la Secretaría de Salud;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "CECAJ: Consejo Estatal Contra las Adicciones Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Área física cerrada con acceso al público: Espacio cubierto por un techo o que tenga como mínimo una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal;\nEspacio al aire libre para fumar: Es aquel que no tienen techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Para efectos de esta definición el concepto de techo no incluye sombrillas, palapas, tejabanes, techos abatibles o desmontables y lonas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Denuncia ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de actos o hechos que pudieran constituir infracciones a las disposiciones contenidas en esta ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Emisiones: Son las sustancias producidas y liberadas cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Espacio 100% libre de humo del tabaco y emisiones: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público en donde por razones de orden público e interés social la presente Ley prohíbe fumar, consumir o tener encendido cualquier producto de tabaco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fumador activo: Persona que inhala y exhala, intencionalmente, el humo generado por la combustión del tabaco;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fumador pasivo: A quien inhala el humo exhalado por el fumador activo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Ley: A la Ley de Protección contra la Exposición al Humo de Tabaco para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Lugar de trabajo: Espacio utilizado por las personas durante su empleo o trabajo, ya sea remunerado o voluntario, temporal o permanente. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, entre ellos, con carácter enunciativo, pero no limitativo, pasillos, ascensores, cubos de escalera, vestíbulos, estacionamiento, instalaciones conjuntas, baños, lavabos, salones, comedores, cafeterías y edificaciones anexas tales como cobertizos, así como los vehículos que se utilizan para la transportación. Los vehículos de trabajo se consideran lugares de trabajo y deben identificarse de forma específica como tales;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Programa contra el Tabaquismo: El señalado en la Ley General para el Control del Tabaco y los diseñados en coordinación con la Federación, por el Gobierno del Estado y los municipios;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Sitio de concurrencia colectiva: Al que independientemente si es abierto o cerrado, interior o exterior, concentre o reúna a personas para llevar a cabo acciones de esparcimiento, de libre asociación, prácticas o espectáculos, deportivos y similares, tales como patios escolares, balnearios, playas, parques de diversiones y acuáticos, lagunas y reservas ecológicas, centros de espectáculos, canchas, estadios, plazas y demás;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Tabaco: La planta \"Nicotina Tabacum\" y sus sucedáneos en su forma natural o modificada, en las diferentes presentaciones que se utilicen para ser fumados, chupados, mascados o utilizados como rapé;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Vapor aromático con o sin nicotina y sus derivados: A las emisiones que se desprenden del encendido, inhalación y exhalación de la combustión de sustancias derivadas del tabaco o no, que se utilizan en los cigarrillos o dispositivos electrónicos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Vehículos de transporte público: Todo aquel vehículo individual o colectivo utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, sea remunerado o no, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Transporte Oficial: Vehículo individual o colectivo propiedad del gobierno en cualquiera de sus tres niveles, utilizado para la transportación de uno o varios servidores públicos, para uso de las actividades encomendadas; y en ocasiones para apoyo de la población; y"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Verificador o inspector: persona facultada por la autoridad competente para realizar funciones de verificación o vigilancia tendientes a lograr el cumplimiento de esta ley y demás disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "as acciones de protección para la población contra la exposición del humo de tabaco comprenderán las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La promoción de la salud;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La elaboración periódica, seguimiento y evaluación de metas y logros del Programa contra el Tabaquismo que incluya al menos las conductas relacionadas con el tabaco y su impacto en la salud;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El diseño de programas, servicios de cesación y opciones terapéuticas que ayuden a dejar de fumar combinadas con consejería y otras intervenciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La declaración de espacios 100% libres de humo y de zonas diferenciadas para la emisión de humo por efectos de la combustión de tabaco; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El diseño de campañas de publicidad que promuevan la cesación y disminuyan las probabilidades de iniciarse en el consumo de los productos del tabaco."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Atribuciones de la autoridad.",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "a aplicación y vigilancia del cumplimiento de esta ley corresponde al titular del Poder Ejecutivo, a través de la Secretaría de Salud, y a los municipios del estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "a Secretaría y los municipios tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer de las denuncias presentadas por el incumplimiento de la Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Verificar e inspeccionar los establecimientos para cerciorarse del cumplimiento de las disposiciones de esta ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sancionar el incumplimiento de la presente ley y de la legislación aplicable;\nCelebrar convenios de coordinación o colaboración con instancias, públicas o privadas, federales, estatales o municipales, para el cumplimiento del objeto de esta ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover con las autoridades educativas la inclusión en programas y materiales educativos de contenidos acerca del tabaquismo, las enfermedades provocadas por el consumo de productos de tabaco y los daños a la salud derivados de la exposición al humo de tabaco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Orientar y concientizar a la población, principalmente mujeres embarazadas, niños y jóvenes adolescentes, sobre los riesgos a la salud por el consumo de tabaco y los beneficios al dejar de consumirlo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que les otorguen la presente ley y las demás disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "l procedimiento de inspección y verificación se ejecutará de conformidad con las leyes y reglamentos aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "l tratamiento e investigación del tabaquismo en el estado de Jalisco se llevará a cabo de conformidad con lo establecido en la Ley General para el Control del Tabaco, en la Ley General de Salud, en la Ley Estatal de Salud y en los convenios vigentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "stablecer programas de apoyo permanentes y los convenios con instituciones especializadas para ofrecer tratamiento y rehabilitación a los fumadores que lo soliciten.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "a Secretaría, a través del CECAJ, podrá realizar acciones de control y fomento sanitarios a fin de proteger a la población contra la exposición al humo de tabaco, lo anterior de conformidad a Ley Salud del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De los espacios protegidos a la exposición contra el humo de tabaco.",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "entro del territorio del estado de Jalisco se considerarán como espacios 100% libres de humo de tabaco y emisiones a las áreas físicas cerradas con acceso al público, los lugares de trabajo, las puertas de acceso a los interiores, los vehículos de transporte público y los sitios de concurrencia colectiva, por lo que se prohíbe fumar, consumir o mantener encendido cualquier producto del tabaco o cualquier dispositivo electrónico similar que contenga o no nicotina, lo anterior en los términos de la presente Ley y su Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "e prohíbe consumir o tener encendido cualquier producto del tabaco o dispositivo electrónico que realice funciones similares con o sin nicotina, en los establecimientos mercantiles donde se expendan al público alimentos y bebidas para su consumo en el lugar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "quellos establecimientos mercantiles que deseen contar con un espacio para fumar, este deberá ser ubicado al aire libre y, además de contar con las características descritas en el artículo 4, fracción IV de esta Ley y lo establecido para los mismos en el Reglamento de la misma, deberán estar completamente separados e incomunicados de los espacios 100% libres de humo de tabaco, no ser paso forzoso de las personas y ubicarse a la distancia que establezcan las disposiciones reglamentarias correspondientes, de cualquier puerta, ventana o baño que comunique con los espacios libres de humo de tabaco. Los espacios para fumar en exteriores no podrán ubicarse sobre las aceras o cualquier otro espacio de uso público.\nEn los espacios al aire libre para fumar no se permitirá el ingreso a menores de edad aún acompañados por un adulto así como los propietarios, poseedores, administradores o responsables de los establecimientos mercantiles deberán informar a las mujeres embarazadas sobre los riesgos que corre su salud y la del producto al ingresar a los mismos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "os propietarios, poseedores, administradores, responsables o quien obtenga provecho de los espacios 100% libres de humo de tabaco serán responsables en forma solidaria con el infractor, si existiera alguna persona fumando productos de tabaco o a través de dispositivos electrónicos de vapor aromático con o sin nicotina, fuera de las áreas destinadas para ello y no actúa al respecto, conforme lo establece esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "n los espacios 100% libres de humo de tabaco y en los espacios al aire libre para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza, debiendo incluir un número telefónico para la denuncia por incumplimiento a esta ley y reglamentos y demás disposiciones aplicables",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV De las obligaciones",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "Tienen obligación los propietarios, poseedores, responsables, empleados, autoridades y usuarios en general de los espacios 100% libres de humo de tabaco, emisiones y de los espacios al aire libre para fumar, de vigilar el cumplimiento de la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Para asegurar el derecho a la protección de la salud de las personas, será obligación del propietario, poseedor, administrador, responsable o quien obtenga provecho de un espacio 100% libre de humo de tabaco y emisiones, incluidos los mercantiles, lugares de trabajo y los de concurrencia colectiva, cuando una persona esté fumando o utilizando dispositivos electrónicos de vapor aromático con o sin nicotina, en alguno de estos espacios, en primera instancia, pedirle que deje de fumar y apague el producto de tabaco, de no hacer caso a la indicación, solicitarle se traslade al espacio al aire libre donde se permita fumar, de contar con él y, si continúa en su negativa, suspenderle el servicio y pedirle que se retire de las instalaciones; si opone resistencia, se deberá dar aviso a la fuerza pública a efecto de que ponga al infractor a disposición de la autoridad competente.\nLa responsabilidad de los propietarios, administradores o responsables, o quien obtenga provecho del uso de los espacios 100% libres de humo de tabaco y emisiones a que se refiere el presente artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la fuerza pública y le sea entregado por ésta el número de reporte respectivo.\nLos mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior quedarán establecidos en el reglamento respectivo que al afecto se expida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "os propietarios, administradores, organizadores o quien obtenga algún provecho de eventos de concurrencia colectiva serán responsables de implantar, cumplir, vigilar el cumplimiento de la Ley y su reglamento en el espacio que ocupa el mismo, solicitar a quien incumpla la Ley o su reglamento que se retire del sitio y, en su caso, dar aviso a la fuerza pública, a fin de remitir a la persona que se resista ante la autoridad correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "os conductores de los vehículos de transporte público, de vehículos oficiales y en su caso el personal que los auxilie, deberán abstenerse de fumar en el interior de los mismos. Aquellos que no acaten las disposiciones del presente ordenamiento, deberán ser reportados ante la Secretaría de Transportes del Gobierno del Estado, a través de la autoridad administrativa correspondiente que reciba la denuncia, para que aquella implemente las correcciones disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta Ley.\nEn caso de que algún pasajero de los vehículos de transporte público se niegue a cumplir con la prohibición de fumar, se le deberá exhortar a que modifique su conducta, en caso de presentar resistencia, invitarlo a que abandone el vehículo, y si la negativa persiste, dar aviso a la fuerza pública, a efecto de que sea remitido a la autoridad correspondiente.\nLos mecanismos y procedimientos que garanticen la eficacia en la aplicación de las medidas referidas en el presente artículo quedarán establecidos en el reglamento respectivo que al efecto se expida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "s obligación de los propietarios, poseedores, administradores, responsables o quien obtenga provecho de los espacios 100% libres de humo de tabaco, no permitir propaganda o la realización de eventos que inciten o promuevan el consumo del tabaco o utilización de dispositivos electrónicos de vapor aromático con o sin nicotina, dentro de los mismos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "ualquier persona podrá presentar ante la autoridad competente una denuncia por el incumplimiento de las disposiciones contenidas en la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De la participación ciudadana",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "a Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promoción de los espacios 100 % libres de humo de tabaco y emisiones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promoción de la salud individual, familiar y comunitaria, incluyendo la prevención y el abandono del tabaquismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Educación y organización social para la salud;\nInvestigación para la salud y generación de la evidencia científica en materia del control del tabaco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Difusión de las disposiciones legales en materia del control de los productos del tabaco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Coordinación con el Consejo Nacional y Estatal Contra las Adicciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinación con la Comisión Federal para la Protección contra Riesgos Sanitarios y su Comisión Estatal; y\n\nLas acciones de auxilio de aplicación de esta ley como la denuncia ciudadana."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "a Secretaría promoverá la participación activa de la sociedad civil que no esté afiliada o reciba apoyo de la industria tabacalera, en la aplicación y vigilancia de la presente ley y su reglamento y, de ser posible, deberá de colaborar con ella en la elaboración de las campañas de información continuas, para sensibilizar a la población y a los líderes de opinión respecto a los riesgos que entraña el consumo de tabaco y la exposición al humo del mismo y los beneficios por dejar de fumar y de estar expuesto al humo de tabaco.\nLas campañas de educación de la población también deberán ir dirigidas a aquellos entornos que no se encuentren contemplados en la presente ley, como es el caso de los hogares privados o vehículos particulares, para que las personas que fuman se abstengan de hacerlo en el interior de los mismos o al menos lo eviten cuando estén en presencia de menores de edad, mujeres embarazadas, personas enfermas o con discapacidad y de adultos mayores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "os alumnos, maestros, personal administrativo, padres de familia e integrantes de las asociaciones de padres de familia de las escuelas e instituciones educativas, sean públicas, sociales o privadas, deberán coadyuvar de manera individual o colectiva en la vigilancia, para que se cumpla con las prohibiciones de vender cigarros a los menores de edad, vender cigarros sueltos o por unidad, así como fumar en el interior de éstas, pudiendo dar aviso a la fuerza pública, para que sea ésta quien ponga a disposición de la autoridad competente a la persona o las personas que incumplan con este ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "os jugadores, capitanes, entrenadores y maestros, integrantes de las asociaciones y ligas deportivas deberán coadyuvar de manera individual o colectiva en la vigilancia, para que se cumpla con las prohibiciones de vender cigarros a menores de edad, vender cigarros sueltos o por unidad, así como de fumar en las canchas, pistas, albercas, gimnasios abiertos o cerrados, estadios, otras instalaciones deportivas y anexos como baños, vestidores, o servicios complementarios, debiendo dar aviso a la fuerza pública, para que sea esta quien ponga a disposición de la autoridad administrativa correspondiente a la persona o las personas que incumplan con este ordenamiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De la denuncia ciudadana",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "ualquier persona podrá presentar ante la autoridad correspondiente una queja en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, sus reglamentos y demás disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "a autoridad competente salvaguardará la identidad e integridad del ciudadano que interponga una queja.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "a Secretaría pondrá en operación o vinculará con una línea telefónica preferentemente de acceso gratuito para que los ciudadanos puedan efectuar quejas y sugerencias sobre los espacios 100% libres\nde humo de tabaco así como el incumplimiento de esta Ley, su reglamento y demás disposiciones aplicables, así como un domicilio electrónico en donde los ciudadanos podrán presentar sus quejas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII De las sanciones.",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "l incumplimiento de lo dispuesto en esta ley, y demás ordenamientos aplicables, será sancionado por la autoridad competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "as sanciones podrán ser:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación con apercibimiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Clausura temporal o definitiva, que podrá ser parcial o total; y IV. Arresto hasta por treinta y seis horas. En el caso de reincidencia, se aplicará el doble del monto de la sanción impuesta, sólo en caso de segunda reincidencia de la conducta sancionada, o subsecuentes, procede arresto hasta por 36 horas.\nPara los efectos de este capítulo se entiende por reincidencia, cuando el infractor cometa nuevamente violación a las disposiciones de la presente ley, dentro del periodo comprendido en los doce meses siguientes a partir de la comisión de la primera infracción, atendiendo al expediente que se abra por tal motivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "e sancionará con multa equivalente de 100 a 500 Unidades de Medida y Actualización, al titular, responsable o poseedor de establecimientos mercantiles con espacios al aire libre para fumar, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "No coloque la señalética correspondiente o esté incompleta;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No adecue correctamente los espacios para fumadores;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Permita que fumen en zonas prohibidas; o"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "No haga, en su caso, la denuncia correspondiente"
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "e sancionará con multa equivalente de 500 a 1000 Unidades de Medida y Actualización, al titular, responsable, o poseedor de establecimientos mercantiles con espacios 100% libres de humo, y emisiones cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "No coloque la señalética correspondiente o se encuentre incompleta;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Permita que fumen; o"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No haga la denuncia correspondiente."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "e sancionará con multa equivalente de 1000 a 4000 Unidades de Medida y Actualización, al titular de la concesión o permiso cuando se trate de vehículos de transporte público de pasajeros, en el caso de que no fijen las señalizaciones a que se refiere esta Ley, o toleren o permitan la realización de conductas prohibidas por esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "juicio de la autoridad, las sanciones a que se refiere este capítulo podrán conmutarse total o parcialmente, por la asistencia a clínicas contra el tabaquismo o similares que determine la autoridad competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "l Gobierno del Estado de Jalisco deberá garantizar que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente ley sean canalizados a la\nejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco o para llevar a cabo acciones de control epidemiológico o sanitario e investigaciones sobre el tabaquismo y sus riesgos.\nARTÍCULOS TRANSITORIOS\nPRIMERO. La presente ley entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.\nSEGUNDO. En un término de treinta días después de publicada la ley, (sic) titular del Ejecutivo Estatal deberá emitir el reglamento de la presente Ley.\nTERCERO. Los municipios deberán adecuar sus disposiciones reglamentarias a la presente ley, en un término de noventa días después de la publicación de la misma en el periódico oficial El Estado de Jalisco.\nCUARTO. Los propietarios, poseedores, responsables o autoridades de los espacios 100% libres de humo de tabaco deberán dar cumplimiento a la obligación de fijar en el interior y en el exterior de los mismos la señalización adecuada, dentro de los noventa días siguientes a partir de la entrada en vigor de la presente ley.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 3 DE SEPTIEMBRE DE 2020\nDiputada Presidenta SOFÍA BERENICE GARCÍA MOSQUEDA\nDiputado Secretario Diputada Secretaria ADENAWER GONZÁLEZ FIERROS ROSA ANGÉLICA FREGOSO FRANCO (RÚBRICA) (RÚBRICA)\nPROMULGACIÓN DEL DECRETO NÚMERO 27945/LXII/20, MEDIANTE EL CUAL SE ABROGA LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO, EXPEDIDA MEDIANTE DECRETO 24123/LIX/12; Y EXPIDE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en el Palacio de Gobierno, sede de Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 08 del mes de septiembre de 2020.\nENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno\nARTÍCULOS TRANSITORIOS DEL DECRETO 28800/LXIII/22\nPrimero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\nSegundo. En términos de lo dispuesto por los artículos 12 y 17 del presente decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 120 días naturales posteriores a la publicación del presente decreto en el periódico oficial “El Estado de Jalisco”.\nTABLA DE REFORMAS Y ADICIONES\n28800/LXIII/22.- Se reforman los artículos 2 fracciones II, III y VII, 4 fracción VI y VII, 12, 17, 18 párrafos primero y segundo, 23 fracción I y 33 párrafo primero de la Ley de Protección Contra la Exposición al Humo del Tabaco para el Estado de Jalisco.- Jul. 16 de 2022, sec. V.\nLEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO\nAPROBACIÓN: 3 DE SEPTIEMBRE DE 2020\nPUBLICACION: 19 DE SEPTIEMBRE DE 2020 SEC. III NO. 5\nVIGENCIA: 19 DE SEPTIEMBRE DE 2020",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

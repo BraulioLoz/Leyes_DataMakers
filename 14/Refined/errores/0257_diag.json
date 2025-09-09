@@ -1,0 +1,25 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 21,
+  "n_perm_fracciones": 102,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único Objeto y Definiciones",
+    "Capítulo I Atribuciones",
+    "Capítulo II Organización del Organismo",
+    "Sección Primera De la Junta de Gobierno",
+    "Sección Segunda Del Director General",
+    "Sección Tercera Del Comité Técnico",
+    "Sección Cuarta Del Patronato",
+    "Sección Quinta Del Órgano de Vigilancia",
+    "Sección Sexta Del Consejo Consultivo",
+    "Capítulo III Del Patrimonio",
+    "Capítulo IV Del Régimen Laboral"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 6
+  }
+}

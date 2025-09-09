@@ -1,0 +1,8 @@
+Errores y advertencias para: 0147.txt
+==================================================
+
+Ubicación: line 78
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 9 a 11
+Línea: ARTICULO 11.- Los vocales tendrán las siguientes atribuciones y responsabilidades.
+------------------------------

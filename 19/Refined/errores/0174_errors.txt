@@ -1,0 +1,18 @@
+Errores y advertencias para: 0174.txt
+==================================================
+
+Ubicación: line 108
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 10 a 13
+Línea: ARTÍCULO 13.- DEL PLAZO PARA INTERPONER LA SOLICITUD
+------------------------------
+Ubicación: line 114
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 13 a 15
+Línea: ARTÍCULO 15.- DE LA ADMISIÓN O DESECHAMIENTO
+------------------------------
+Ubicación: line 126
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 15 a 17
+Línea: ARTÍCULO 17.- DE LA PUBLICACIÓN DE EDICTOS.
+------------------------------

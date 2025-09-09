@@ -1,0 +1,30 @@
+{
+  "n_chapters": 17,
+  "n_perm_articles": 105,
+  "n_perm_fracciones": 353,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones generales",
+    "CAPÍTULO II De las autoridades, los organismos auxiliares y la participación social y sus atribuciones",
+    "CAPÍTULO III Del Sistema Estatal de Protección Civil",
+    "CAPÍTULO IV Del Consejo Estatal de protección Civil",
+    "CAPÍTULO V De la Unidad Estatal de Protección Civil y Bomberos",
+    "CAPITULO VI De la integración y funcionamiento de los Sistemas Municipales de Protección Civil",
+    "CAPITULO VII De las unidades Internas de protección civil",
+    "CAPITULO VIII De la organización voluntaria",
+    "CAPÍTULO VIII Bis De La Red Estatal de Brigadas Comunitarias",
+    "CAPITULO IX De los programas de protección civil",
+    "CAPITULO X De la coordinación del Sistema Estatal con los Sistemas Nacional y municipales",
+    "CAPITULO XI De la educación y la capacitación en materia de protección civil",
+    "CAPITULO XII De la declaratoria de emergencia",
+    "CAPÍTULO XIII De las Inspecciones",
+    "CAPÍTULO XIV De las medidas de seguridad y de las sanciones",
+    "CAPITULO XV De las notificaciones",
+    "CAPITULO XVI Del recurso de revisión"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 17
+  }
+}

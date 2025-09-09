@@ -1,0 +1,15 @@
+{
+  "n_chapters": 2,
+  "n_perm_articles": 5,
+  "n_perm_fracciones": 10,
+  "n_trans_caps": 1,
+  "n_trans_articles": 20,
+  "n_trans_fracciones": 6,
+  "chapter_labels": [
+    "CAPÍTULO I NATURALEZA Y OBJETO DE LA LEY",
+    "CAPÍTULO II DEL EJERCICIO, OBJETO Y JURISDICCIÓN"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 2
+  }
+}

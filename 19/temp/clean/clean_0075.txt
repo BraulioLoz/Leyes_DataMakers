@@ -1,0 +1,977 @@
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE NUEVO LEÓN TEXTO ORIGINAL
+LEY PUBLICADA EN EL PERIÓDICO OFICIAL NÚMERO 153 III DE FECHA 11 DE DICIEMBRE DE 2019.
+JAIME HELIODORO RODRÍGUEZ CALDERÓN, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+DECRETO
+NÚM…… 193
+Artículo Único.- Se expide la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León, para quedar como sigue:
+LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE NUEVO LEÓN
+TÍTULO PRIMERO DISPOSICIONES GENERALES Capítulo I Del Objeto de la Ley
+Artículo 1. La presente Ley es de orden público y de observancia general en todo el Estado de Nuevo León, y es reglamentaria de los artículos 6o., fracciones III y V, y 15, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Nuevo León, en materia de protección de datos personales en posesión de sujetos obligados.
+Todas las disposiciones de esta Ley, según corresponda, y en el ámbito de su competencia, son de aplicación y observancia directa para los sujetos obligados pertenecientes al orden estatal y municipal.
+La Comisión ejercerá las atribuciones y facultades que le otorga esta Ley, independientemente de las otorgadas en las demás disposiciones aplicables.
+Tiene por objeto establecer las bases, principios y procedimientos para garantizar el derecho que tiene toda persona a la protección de sus datos
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura personales, en posesión de sujetos obligados.
+Son sujetos obligados por esta Ley, en el ámbito estatal y municipal, cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos.
+Los sindicatos y cualquier otra persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal serán responsables de los datos personales, de conformidad con la normatividad aplicable para la protección de datos personales en posesión de los particulares.
+En todos los demás supuestos diferentes a los mencionados en el párrafo anterior, las personas físicas y morales se sujetarán a lo previsto en las leyes y demás disposiciones jurídicas aplicables.
+Artículo 2. Son objetivos de la presente Ley:
+I. Establecer las bases y condiciones que regirán el tratamiento de los datos personales y el ejercicio de los derechos de acceso, rectificación, cancelación y oposición, mediante procedimientos sencillos y expeditos;
+II. Regular la organización y operación del Sistema Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales a que se refieren esta Ley y la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, en lo relativo a sus funciones para la protección de datos personales en posesión de sujetos obligados;
+IIII. Garantizar la observancia de los principios de protección de datos personales previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
+IV. Proteger los datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, del Estado y de los municipios, con la finalidad de regular su debido tratamiento;
+V. Garantizar que toda persona pueda ejercer el derecho a la protección de los datos personales;
+VI. Fijar los estándares y parámetros que permitan la implementación, mantenimiento y actualización de medidas de seguridad de carácter administrativo, técnico y físico que permitan la protección de los datos personales;
+VII. Promover, fomentar y difundir una cultura de protección de datos
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura personales;
+VIII. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio que correspondan para aquellas conductas que contravengan las disposiciones previstas en esta Ley;
+IX. Regular los medios de impugnación y procedimientos para la interposición de acciones de inconstitucionalidad y controversias constitucionales por parte de la Comisión; de conformidad con sus facultades respectivas; y
+X. Establecer un catálogo de sanciones para aquellas conductas que contravengan las disposiciones previstas en la presente Ley.
+Artículo 3. Para los efectos de la presente Ley se entenderá por:
+I. Áreas: Instancias de los sujetos obligados previstas en los respectivos reglamentos interiores, estatutos orgánicos o instrumentos equivalentes, que cuentan o puedan contar, dar tratamiento, y ser responsables o encargadas de los datos personales;
+II. Aviso de privacidad: Documento a disposición del titular de forma física, electrónica o en cualquier formato generado por el responsable, a partir del momento en el cual se recaben sus datos personales, con el objeto de informarle los propósitos del tratamiento de los mismos;
+III. Bases de datos: Conjunto ordenado de datos personales referentes a una persona física identificada o identificable, condicionados a criterios determinados, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento, almacenamiento y organización;
+IV. Bloqueo: La identificación y conservación de datos personales una vez cumplida la finalidad para la cual fueron recabados, con el único propósito de determinar posibles responsabilidades en relación con su tratamiento, hasta el plazo de prescripción legal o contractual de éstas.
+Durante dicho periodo, los datos personales no podrán ser objeto de tratamiento y transcurrido éste, se procederá a su cancelación en la base de datos que corresponda;
+V. Comité de Transparencia: Instancia a la que hace referencia el artículo 56 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+VI. Cómputo en la nube: Modelo de provisión externa de servicios de cómputo bajo demanda, que implica el suministro de infraestructura, plataforma o programa informático, distribuido de modo flexible, mediante
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura procedimientos virtuales, en recursos compartidos dinámicamente;
+VII. Comisión: Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, el cual es el organismo garante en el Estado en materia de protección de datos personales en posesión de los sujetos obligados;
+VIII. Consejo: Consejo Estatal a que se refiere el artículo 32 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+IX. Consentimiento: Manifestación de la voluntad libre, específica e informada del titular de los datos mediante la cual autoriza el tratamiento de los mismos;
+X. Datos personales: Cualquier información concerniente a una persona física identificada o identificable expresada en forma numérica, alfabética, alfanumérica, gráfica, fotográfica, acústica o en cualquier otro formato. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información, siempre y cuando esto no requiera plazos, medios o actividades desproporcionadas;
+XI. Datos personales sensibles: Aquellos que se refieran a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. Se consideran sensibles, de manera enunciativa más no limitativa, los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud pasado, presente o futuro, datos genéticos o datos biométricos, creencias religiosas, filosóficas y morales, opiniones políticas y preferencia sexual;
+XII. Derechos ARCO: Los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+XIII. Días: Días hábiles;
+XIV. Disociación: El procedimiento mediante el cual los datos personales no pueden asociarse al titular ni permitir, por su estructura, contenido o grado de desagregación, la identificación del mismo;
+XV. Documento de seguridad: Instrumento que describe y da cuenta de manera general sobre las medidas de seguridad técnicas, físicas y administrativas adoptadas por el responsable para garantizar la confidencialidad, integridad y disponibilidad de los datos personales que posee;
+XVI. Encargado: La persona física o jurídica, pública o privada, ajena a la organización del responsable, que sola o conjuntamente con otras
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura trate datos personales a nombre y por cuenta del responsable;
+XVII. Evaluación de impacto en la protección de datos personales: Documento mediante el cual los sujetos obligados que pretendan poner en operación o modificar políticas públicas, programas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales, valoran los impactos reales respecto de determinado tratamiento de datos personales, a efecto de identificar y mitigar posibles riesgos relacionados con los principios, deberes y derechos de los titulares, así como los deberes de los responsables y encargados, previstos en la normativa aplicable;
+XVIII. Fuentes de acceso público: Aquellas bases de datos, sistemas o archivos que por disposición de ley puedan ser consultadas públicamente cuando no exista impedimento por una norma limitativa y sin más exigencia que, en su caso, el pago de una contraprestación, tarifa o contribución. No se considerará fuente de acceso público cuando la información contenida en la misma sea obtenida o tenga una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás normativa aplicable;
+XIX. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XX. Ley: Ley de Protección de Datos Personales del Estado de Nuevo León;
+XXI. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+XXII. Ley General: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+XXIII. Ley General de Transparencia: Ley General de Transparencia y Acceso a la Información Pública;
+XXIV. Medidas compensatorias: Mecanismos alternos para dar a conocer a los titulares el aviso de privacidad, a través de su difusión por medios masivos de comunicación u otros de amplio alcance;
+XXV. Medidas de seguridad: Conjunto de acciones, actividades, controles o mecanismos administrativos, técnicos y físicos que permitan garantizar la confidencialidad, disponibilidad e integridad de los datos personales;
+XXVI. Medidas de seguridad administrativas: Políticas y procedimientos para la gestión, soporte y revisión de la seguridad de los datos personales a nivel organizacional, la identificación, clasificación y
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura borrado seguro de los datos personales, así como la sensibilización y capacitación del personal, en materia de protección de datos personales;
+XXVII. Medidas de seguridad físicas: Conjunto de acciones y mecanismos para proteger el entorno físico de los datos personales y de los recursos involucrados en su tratamiento. De manera enunciativa más no limitativa, se deben considerar las siguientes actividades:
+a) Prevenir el acceso no autorizado al perímetro de la organización del responsable, sus instalaciones físicas, áreas críticas, recursos y datos personales;
+b) Prevenir el daño o interferencia a las instalaciones físicas, áreas críticas de la organización del responsable, recursos y datos personales;
+c) Proteger los recursos móviles, portátiles y cualquier soporte físico o electrónico que pueda salir de la organización del responsable; y
+d) Proveer a los equipos que contienen o almacenan datos personales de un mantenimiento eficaz, que asegure su disponibilidad e integridad;
+XXVIII. Medidas de seguridad técnicas: Conjunto de acciones y mecanismos que se valen de la tecnología relacionada con hardware y software para proteger el entorno digital de los datos personales y los recursos involucrados en su tratamiento. De manera enunciativa más no limitativa, se deben considerar las siguientes actividades:
+a) Prevenir que el acceso a los datos personales, así como a los recursos, sea por usuarios identificados y autorizados;
+b) Generar un esquema de privilegios para que el usuario lleve a cabo las actividades que requiere con motivo de sus funciones;
+c) Revisar la configuración de seguridad en la adquisición, operación, desarrollo y mantenimiento del software y hardware; y
+d) Gestionar las comunicaciones, operaciones y medios de almacenamiento de los recursos informáticos en el tratamiento de datos personales;
+“XXIX. Plataforma: La Plataforma de Transparencia a que se hace referencia en el Título Tercero de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+XXX. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General de Transparencia y Acceso a la Información Pública;
+XXXI. Programa Estatal de Protección de Datos Personales: Programa Estatal de Protección de Datos Personales;
+XXXII. Remisión: Toda comunicación de datos personales realizada exclusivamente entre el responsable y encargado, dentro o fuera del territorio del Estado;
+XXXIII. Responsable: Cualquier autoridad, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, fideicomisos y fondos públicos y partidos políticos del estado de Nuevo León, que decide y determina los fines, medios y demás cuestiones relacionadas con determinado tratamiento de datos personales;
+XXXIV. Sistema Estatal: El Sistema Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales a que se refiere el artículo 27 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
+XXXV. Supresión: La baja archivística de los datos personales conforme a la normativa archivística aplicable, que resulte en la eliminación, borrado o destrucción de los datos personales bajo las medidas de seguridad previamente establecidas por el responsable;
+XXXVI. Titular: La persona física a quien corresponden los datos personales;
+XXXVII. Transferencia: Toda comunicación de datos personales dentro o fuera del territorio mexicano, realizada a persona distinta del titular, del responsable o del encargado;
+XXXVIII. Tratamiento: Cualquier operación o conjunto de operaciones efectuadas mediante procedimientos físicos o automatizados aplicados a los datos personales, relacionadas de manera enunciativa más no limitativa, con la obtención, uso, registro, organización, conservación, elaboración, utilización, estructuración, adaptación, modificación, extracción, consulta, comunicación, difusión, almacenamiento, posesión, acceso, manejo, aprovechamiento, transferencia y en general cualquier uso o disposición de datos personales, y
+XXXIX. Unidad de Transparencia: Instancia a la que hace referencia el artículo 58 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
+Artículo 4. La presente Ley será aplicable a cualquier tratamiento de
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura datos personales que obren en soportes físicos o electrónicos, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento, almacenamiento y organización.
+Artículo 5. Para los efectos de la presente Ley, se considerarán como fuentes de acceso público:
+I. Las páginas de Internet o medios remotos o locales de comunicación electrónica, óptica y de otra tecnología, siempre que el sitio donde se encuentren los datos personales esté concebido para facilitar información al público y esté abierto a la consulta general;
+II. Los directorios telefónicos en términos de la normativa específica;
+III. Los diarios, gacetas o boletines oficiales, de acuerdo con su normativa;
+IV. Los medios de comunicación social; y
+V. Los registros públicos conforme a las disposiciones que les resulten aplicables.
+Para que los supuestos enumerados en el presente artículo sean considerados fuentes de acceso público será necesaria que su consulta pueda ser realizada por cualquier persona no impedida por una norma limitativa, o sin más exigencia que, en su caso, el pago de una contraprestación, derecho o tarifa.
+No se considerará una fuente de acceso público cuando la información contenida en la misma sea o tenga una procedencia ilícita.
+Artículo 6. El Estado garantizará la privacidad de los individuos y deberá velar porque terceras personas no incurran en conductas que puedan afectarla arbitrariamente.
+El derecho a la protección de los datos personales solamente se limitará por razones de seguridad nacional, en términos de la ley en la materia, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
+Artículo 7. Por regla general no podrán tratarse datos personales sensibles, salvo que se cuente con el consentimiento expreso de su titular o en su defecto:
+I. Los mismos sean estrictamente necesarios para el ejercicio y cumplimiento de las atribuciones y obligaciones expresamente previstas en las normas que regulan la actuación del responsable;
+II. Se dé cumplimiento a un mandato legal;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+III. Se cuente con el consentimiento expreso y por escrito de su titular;
+IV. Sean necesarios por razones de seguridad pública, orden público, salud pública o salvaguarda de derechos de terceros; y
+V. Se trate de los casos establecidos en el artículo 23 de esta Ley.
+En el tratamiento de datos personales de menores de edad, el responsable deberá privilegiar el interés superior de la niña, el niño y el adolescente, en términos de las disposiciones legales aplicables.
+Artículo 8. La aplicación e interpretación de la presente Ley se realizará conforme a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Nuevo León, los Tratados Internacionales de los que el Estado mexicano sea parte, así como las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, privilegiando en todo momento la interpretación que más favorezca al titular.
+Para el caso de la interpretación, se podrán tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de protección de datos personales.
+Artículo 9. A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria las disposiciones del Código de Procedimientos Civiles para el Estado de Nuevo León y de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+Capítulo II Del Sistema Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales
+Artículo 10. El Sistema Estatal se conformará de acuerdo con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León. En materia de protección de datos personales, dicho Sistema tiene como función coordinar y evaluar las acciones relativas a la política pública transversal de protección de datos personales, así como establecer e implementar criterios y lineamientos en la materia, de conformidad con lo señalado en la presente Ley, la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normatividad aplicable.
+Artículo 11. El Sistema Estatal contribuirá a mantener la plena vigencia del derecho a la protección de datos personales a nivel estatal, en los tres órdenes de gobierno.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Este esfuerzo conjunto e integral, aportará a la implementación de políticas públicas con estricto apego a la normatividad aplicable en la materia; el ejercicio pleno y respeto del derecho a la protección de datos personales y la difusión de una cultura de este derecho y su accesibilidad.
+“Artículo 12. Además de los objetivos previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, el Sistema Estatal tendrá como objetivo diseñar, ejecutar y evaluar un Programa Estatal de Protección de Datos Personales que defina la política pública y establezca, como mínimo, objetivos, estrategias, acciones y metas para:
+I. Promover la educación y una cultura de protección de datos personales entre la sociedad;
+II. Fomentar el ejercicio de los derechos de acceso, rectificación, cancelación y oposición;
+III. Capacitar a los sujetos obligados en materia de protección de datos personales;
+IV. Impulsar la implementación y mantenimiento de un sistema de gestión de seguridad a que se refiere el artículo 40 de la presente Ley, así como promover la adopción de estándares nacionales e internacionales y buenas prácticas en la materia; y
+V. Prever los mecanismos que permitan medir, reportar y verificar las metas establecidas.
+El Programa Estatal de Protección de Datos Personales, se constituirá como un instrumento rector para la integración y coordinación del Sistema Estatal, y deberá determinar y jerarquizar los objetivos y metas que éste debe cumplir, así como definir las líneas de acción generales que resulten necesarias.
+El Programa Estatal de Protección de Datos Personales deberá evaluarse y actualizarse al final de cada ejercicio anual y definirá el conjunto de actividades y proyectos que deberán ser ejecutados durante el siguiente ejercicio.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+Artículo 13. El Sistema Estatal contará con un Consejo Estatal. En la
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura integración, organización, funcionamiento y atribuciones del Consejo Estatal se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás disposiciones aplicables.
+“Artículo 14. El Sistema Estatal, además de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normativa aplicable, tendrá las siguientes funciones en materia de protección de datos personales:
+I. Promover el ejercicio del derecho a la protección de datos personales en el Estado;
+II. Fomentar entre la sociedad una cultura de protección de los datos personales;
+III. Analizar, opinar y proponer a las instancias facultadas para ello proyectos de reforma o modificación de la normativa en la materia;
+IV. Acordar y establecer los mecanismos de coordinación que permitan la formulación y ejecución de instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendentes a cumplir con los objetivos y fines del Sistema Estatal, de la presente Ley y demás disposiciones que resulten aplicables en la materia;
+V. Emitir acuerdos y resoluciones generales para el funcionamiento del Sistema Estatal;
+VI. Formular, establecer y ejecutar políticas generales en materia de protección de datos personales;
+VII. Promover la coordinación efectiva de las instancias que integran el Sistema Estatal y dar seguimiento a las acciones que para tal efecto se establezcan;
+VIII. Diseñar e implementar políticas en materia de protección de datos personales;
+IX. Establecer mecanismos eficaces para que la sociedad participe en los procesos de evaluación de las políticas y las instituciones integrantes del Sistema Estatal;
+X. Desarrollar proyectos comunes de alcance estatal para medir el cumplimiento y los avances de los responsables;
+XI. Suscribir convenios de colaboración que tengan por objeto coadyuvar al cumplimiento de los objetivos del Sistema Estatal y aquellos previstos en la presente Ley y demás disposiciones que
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura resulten aplicables en la materia;
+XII. Promover e implementar acciones para garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales;
+XIII. Proponer códigos de buenas prácticas o modelos en materia de protección de datos personales;
+XIV. Promover la comunicación y coordinación con autoridades federales, de los demás Estados, municipios, autoridades y organismos internacionales, con la finalidad de impulsar y fomentar los objetivos de la presente Ley;
+“XV. Proponer acciones para vincular el Sistema Estatal con otros sistemas y programas nacionales, regionales o locales;”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+XVI. Promover e impulsar el ejercicio y tutela del derecho a la protección de datos personales, a través de la implementación, organización y operación de la Plataforma Estatal, a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normativa aplicable;
+XVII. Aprobar el Programa Estatal de Protección de Datos Personales al que se refiere el artículo 12 de esta Ley;
+XVIII. Expedir criterios adicionales para determinar los supuestos en los que se está ante un tratamiento intensivo o relevante de datos personales, de conformidad con lo dispuesto por los artículos 89 y 90 de esta Ley;
+XIX. Expedir las disposiciones administrativas necesarias para la valoración del contenido presentado por los sujetos obligados en la Evaluación de impacto en la protección de datos personales, a efecto de emitir las recomendaciones no vinculantes que correspondan; y
+XX. Las demás que se desprendan de la presente Ley.”
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura *N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+Artículo 15. El Consejo Estatal funcionará conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás ordenamientos aplicables.
+TÍTULO SEGUNDO PRINCIPIOS Y DEBERES Capítulo I De los Principios
+Artículo 16. El responsable deberá observar los principios de licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad en el tratamiento de datos personales.
+Artículo 17. El tratamiento de datos personales por parte del responsable deberá sujetarse a las facultades o atribuciones que la normatividad aplicable le confiera.
+Artículo 18. Todo tratamiento de datos personales que efectúe el responsable deberá estar justificado por finalidades concretas, lícitas, explícitas y legítimas, relacionadas con las atribuciones que la normatividad aplicable les confiera.
+El responsable podrá tratar datos personales para finalidades distintas a aquéllas establecidas en el aviso de privacidad, siempre y cuando cuente con atribuciones conferidas en la ley y medie el consentimiento del titular, salvo que sea una persona reportada como desaparecida, en los términos previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia.
+Artículo 19. El responsable no deberá obtener y tratar datos personales, a través de medios engañosos o fraudulentos, privilegiando la protección de los intereses del titular y la expectativa razonable de privacidad.
+Artículo 20. Para los efectos del artículo anterior de la presente Ley, se entenderá que el responsable actúa de forma engañosa o fraudulenta cuando:
+I. Medie dolo, mala fe o negligencia en el tratamiento de datos personales que lleve a cabo;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura II. Realice un tratamiento de datos personales que dé lugar a una discriminación injusta o arbitraria contra el titular; o
+III. Vulnere la expectativa razonable de protección de datos personales.
+Artículo 21. Cuando no se actualicen algunas de las causales de excepción previstas en el artículo 23 de la presente Ley, el responsable deberá contar con el consentimiento previo del titular para el tratamiento de los datos personales, el cual deberá otorgarse de forma:
+I. Libre: Sin que medie error, mala fe, violencia o dolo que puedan afectar la manifestación de voluntad del titular;
+II. Específica: Referida a finalidades concretas, lícitas, explícitas y legítimas que justifiquen el tratamiento, e
+III. Informada: Que el titular tenga conocimiento del aviso de privacidad previo al tratamiento a que serán sometidos sus datos personales.
+En la obtención del consentimiento de menores de edad o de personas que se encuentren en estado de interdicción o incapacidad declarada conforme a la ley, se estará a lo dispuesto en las reglas de representación previstas en la legislación civil que resulte aplicable.
+Artículo 22. El consentimiento podrá manifestarse de forma expresa o tácita. Se deberá entender que el consentimiento es expreso cuando la voluntad del titular se manifieste verbalmente, por escrito, por medios electrónicos, ópticos, signos inequívocos o por cualquier otra tecnología.
+El consentimiento será tácito cuando habiéndose puesto a disposición del titular el aviso de privacidad, éste no manifieste su voluntad en sentido contrario.
+Por regla general será válido el consentimiento tácito, salvo que la ley o las disposiciones aplicables exijan que la voluntad del titular se manifieste expresamente.
+Tratándose de datos personales sensibles el responsable deberá obtener el consentimiento expreso y por escrito del titular para su tratamiento, a través de su firma autógrafa, firma electrónica o cualquier mecanismo de autenticación que al efecto se establezca, salvo en los casos previstos en el artículo 23 de esta Ley.
+Artículo 23. El responsable no estará obligado a recabar el consentimiento del titular para el tratamiento de sus datos personales en los siguientes casos:
+I. Cuando una ley así lo disponga, debiendo dichos supuestos ser acordes con las bases, principios y disposiciones establecidos en esta
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Ley, en ningún caso, podrán contravenirla;
+II. Cuando las transferencias que se realicen entre responsables, sean sobre datos personales que se utilicen para el ejercicio de facultades propias, compatibles o análogas con la finalidad que motivó el tratamiento de los datos personales;
+III. Cuando exista una orden judicial, resolución o mandato fundado y motivado de autoridad competente;
+IV. Para el reconocimiento o defensa de derechos del titular ante autoridad competente;
+V. Cuando los datos personales se requieran para ejercer un derecho o cumplir obligaciones derivadas de una relación jurídica entre el titular y el responsable;
+VI. Cuando exista una situación de emergencia que potencialmente pueda dañar a un individuo en su persona o en sus bienes;
+VII. Cuando los datos personales sean necesarios para efectuar un tratamiento para la prevención, diagnóstico, la prestación de asistencia sanitaria;
+VIII. Cuando los datos personales figuren en fuentes de acceso público;
+IX. Cuando los datos personales se sometan a un procedimiento previo de disociación, o
+X. Cuando el titular de los datos personales sea una persona reportada como desaparecida en los términos de la ley en la materia.
+Artículo 24. El responsable deberá adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados los datos personales en su posesión, a fin de que no se altere la veracidad de éstos.
+Se presume que se cumple con la calidad en los datos personales cuando éstos son proporcionados directamente por el titular y hasta que éste no manifieste y acredite lo contrario.
+Cuando los datos personales hayan dejado de ser necesarios para el cumplimiento de las finalidades previstas en el aviso de privacidad y que motivaron su tratamiento conforme a las disposiciones que resulten aplicables, deberán ser suprimidos, previo bloqueo en su caso, y una vez que concluya el plazo de conservación de los mismos.
+Los plazos de conservación de los datos personales no deberán exceder aquéllos que sean necesarios para el cumplimiento de las finalidades que
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura justificaron su tratamiento, y deberán atender a las disposiciones aplicables en la materia de que se trate y considerar los aspectos administrativos, contables, fiscales, jurídicos e históricos de los datos personales.
+En la supresión de los datos personales, el responsable deberá implementar métodos y técnicas orientadas a la eliminación definitiva de éstos.
+Artículo 25. El responsable deberá establecer y documentar los procedimientos para la conservación y, en su caso, bloqueo y supresión de los datos personales que lleve a cabo, en los cuales se incluyan los periodos de conservación de los mismos, de conformidad con lo dispuesto en el artículo 24 de la presente Ley.
+En los procedimientos a que se refiere el párrafo anterior, el responsable deberá incluir mecanismos que le permitan cumplir con los plazos fijados para la supresión de los datos personales, así como para realizar una revisión periódica sobre la necesidad de conservar los datos personales.
+Artículo 26. El responsable sólo deberá tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para la finalidad que justifica su tratamiento.
+El responsable procurará realizar esfuerzos razonables para tratar los datos personales al mínimo necesario, con relación a las finalidades que motivan su tratamiento.
+Artículo 27. El responsable deberá informar al titular, a través del aviso de privacidad, la existencia y características principales del tratamiento al que serán sometidos sus datos personales, a fin de que pueda tomar decisiones informadas al respecto.
+Por regla general, el aviso de privacidad deberá ser difundido por los medios electrónicos y físicos con que cuente el responsable.
+Para que el aviso de privacidad cumpla de manera eficiente con su función de informar, deberá estar redactado y estructurado de manera clara y sencilla.
+“Cuando resulte imposible dar a conocer al titular el aviso de privacidad, de manera directa o ello exija esfuerzos desproporcionados, el responsable podrá instrumentar medidas compensatorias de comunicación masiva de acuerdo con los criterios que para tal efecto emita el Sistema Estatal.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+Artículo 28. El aviso de privacidad tendrá por objeto informar al titular sobre los alcances y condiciones generales del tratamiento, a fin de que esté en posibilidad de tomar decisiones informadas sobre el uso de sus datos personales y, en consecuencia, mantener el control y disposición sobre ellos.
+Artículo 29. El aviso de privacidad a que se refiere el artículo 3, fracción II, se pondrá a disposición del titular en dos modalidades: Simplificado e integral. El aviso simplificado deberá contener la siguiente información:
+I. La denominación del responsable;
+II. Las finalidades del tratamiento para las cuales se obtienen los datos personales, distinguiendo aquéllas que requieran el consentimiento del titular;
+III. Cuando se realicen transferencias de datos personales que requieran consentimiento, se deberá informar:
+a) Las autoridades, poderes, entidades, órganos y organismos gubernamentales de los tres órdenes de gobierno y las personas físicas o morales a las que se transfieren los datos personales; y
+b) Las finalidades de estas transferencias;
+IV. Los mecanismos y medios disponibles para que el titular, en su caso, pueda manifestar su negativa para el tratamiento de sus datos personales para finalidades y transferencias de datos personales que requieren el consentimiento del titular; y
+V. El sitio donde se podrá consultar el aviso de privacidad integral.
+La puesta a disposición del aviso de privacidad al que refiere este artículo no exime al responsable de su obligación de proveer los mecanismos para que el titular pueda conocer el contenido del aviso de privacidad integral al que se refiere el artículo 30 de esta Ley.
+Los mecanismos y medios a los que se refiere la fracción IV de este artículo, deberán estar disponibles para que el titular pueda manifestar su negativa al tratamiento de sus datos personales para las finalidades o transferencias que requieran el consentimiento del titular, previo a que ocurra dicho tratamiento.
+Artículo 30.- El aviso de privacidad integral, además de lo dispuesto en las fracciones del artículo 29 de esta Ley, al que refiere la fracción V del artículo anterior deberá contener, al menos, la siguiente información:
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+I. El domicilio del responsable;
+II. Los datos personales que serán sometidos a tratamiento, identificando aquéllos que son sensibles;
+III. El fundamento legal que faculta al responsable para llevar a cabo:
+a) El tratamiento de datos personales; y
+b) Las transferencias de datos personales que, en su caso, efectúe con autoridades, poderes, entidades, órganos y organismos gubernamentales de los tres órdenes de gobierno y las personas físicas o morales de carácter privado;
+IV. Las finalidades del tratamiento para las cuales se obtienen los datos personales, distinguiendo aquéllas que requieren el consentimiento del titular;
+V. Los mecanismos, medios y procedimientos disponibles para ejercer los derechos ARCO;
+VI. El domicilio de la Unidad de Transparencia; y
+VII. Los medios a través de los cuales el responsable comunicará a los titulares los cambios al aviso de privacidad.
+Artículo 31. El responsable deberá poner a disposición del titular el aviso de privacidad simplificado en los siguientes momentos:
+I. Cuando los datos personales se obtienen de manera directa del titular previo a la obtención de los mismos; y
+II. Cuando los datos personales se obtienen de manera indirecta del titular previo al uso o aprovechamiento de éstos.
+Las reglas anteriores, no eximen al responsable de proporcionar al titular del dato el aviso de privacidad integral en un momento posterior, conforme a las disposiciones aplicables de la presente Ley.
+Artículo 32. Cuando el responsable pretenda tratar los datos personales para una finalidad distinta, deberá poner a su disposición un nuevo aviso de privacidad con las características del nuevo tratamiento previo al aprovechamiento de los datos personales para la finalidad respectiva.
+Artículo 33. Para la difusión del aviso de privacidad, el responsable podrá valerse de formatos físicos, electrónicos, sonoros o cualquier otra tecnología, siempre y cuando garantice y cumpla con el principio de información a que se refiere la presente Ley.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Artículo 34. El responsable deberá implementar los mecanismos previstos en el artículo 35 de la presente Ley para acreditar el cumplimiento de los principios, deberes y obligaciones establecidos en la presente Ley y rendir cuentas sobre el tratamiento de datos personales en su posesión al titular o a la Comisión, según corresponda, caso en el cual deberá observar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y los Tratados Internacionales en los que el Estado mexicano sea parte; en lo que no se contraponga con la normativa mexicana podrá valerse de estándares o mejores prácticas nacionales o internacionales para tales fines.
+Artículo 35. Entre los mecanismos que deberá adoptar el responsable para cumplir con el principio de responsabilidad establecido en la presente Ley están, al menos, los siguientes:
+I. Destinar recursos autorizados para tal fin para la instrumentación de programas y políticas de protección de datos personales;
+II. Elaborar políticas y programas de protección de datos personales, obligatorios y exigibles al interior de la organización del responsable;
+III. Poner en práctica un programa de capacitación y actualización del personal sobre las obligaciones y demás deberes en materia de protección de datos personales;
+IV. Revisar periódicamente las políticas y programas de seguridad de datos personales para determinar las modificaciones que se requieran;
+V. Establecer un sistema de supervisión y vigilancia interna y/o externa, incluyendo auditorías, para comprobar el cumplimiento de las políticas de protección de datos personales;
+VI. Establecer procedimientos para recibir y responder dudas y quejas de los titulares;
+VII. Diseñar, desarrollar e implementar sus políticas públicas, programas, servicios, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento de datos personales, de conformidad con las disposiciones previstas en la presente Ley y las demás que resulten aplicables en la materia; y
+VIII. Garantizar que sus políticas públicas, programas, servicios, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento de datos personales, cumplan por defecto con las obligaciones previstas en la presente Ley y las demás que resulten aplicables en la materia.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Capítulo II De los Deberes
+Artículo 36. Con independencia del tipo de sistema en el que se encuentren los datos personales o el tipo de tratamiento que se efectúe, el responsable deberá establecer y mantener las medidas de seguridad de carácter administrativo, físico y técnico para la protección de los datos personales, que permitan protegerlos contra daño, pérdida, alteración, destrucción o su uso, acceso o tratamiento no autorizado, así como garantizar su confidencialidad, integridad y disponibilidad.
+Lo anterior, sin perjuicio de lo establecido por las disposiciones vigentes en materia de seguridad emitidas por las autoridades competentes al sector que corresponda, cuando éstas contemplen una protección mayor para el titular o complementen lo dispuesto en la presente Ley y demás normativa aplicable.
+Artículo 37. Las medidas de seguridad adoptadas por el responsable deberán considerar:
+I. El riesgo inherente a los datos personales tratados;
+II. La sensibilidad de los datos personales tratados;
+III. El desarrollo tecnológico;
+IV. Las posibles consecuencias de una vulneración para los titulares;
+V. Las transferencias de datos personales que se realicen;
+VI. El número de titulares;
+VII. Las vulneraciones previas ocurridas en los sistemas de tratamiento; y
+VIII. El riesgo por el valor potencial cuantitativo o cualitativo que pudieran tener los datos personales tratados para una tercera persona no autorizada para su posesión.
+Artículo 38. Para establecer y mantener las medidas de seguridad para la protección de los datos personales, el responsable deberá realizar, al menos, las siguientes actividades interrelacionadas:
+I. Crear políticas internas para la gestión y tratamiento de los datos personales, que tomen en cuenta el contexto en el que ocurren los tratamientos y el ciclo de vida de los datos personales, es decir, su obtención, uso y posterior supresión;
+II. Definir las funciones y obligaciones del personal involucrado en el
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura tratamiento de datos personales;
+III. Elaborar un inventario de datos personales y de los sistemas de tratamiento;
+IV. Realizar un análisis de riesgo de los datos personales, considerando las amenazas y vulnerabilidades existentes para los datos personales y los recursos involucrados en su tratamiento, como pueden ser, de manera enunciativa más no limitativa, hardware, software, personal del responsable, entre otros;
+V. Realizar un análisis de brecha, comparando las medidas de seguridad existentes contra las faltantes en la organización del responsable;
+VI. Elaborar un plan de trabajo para la implementación de las medidas de seguridad faltantes, así como las medidas para el cumplimiento cotidiano de las políticas de gestión y tratamiento de los datos personales;
+VII. Monitorear y revisar de manera periódica las medidas de seguridad implementadas, así como las amenazas y vulneraciones a las que están sujetos los datos personales; y
+VIII. Diseñar y aplicar diferentes niveles de capacitación del personal bajo su mando, dependiendo de sus roles y responsabilidades respecto del tratamiento de los datos personales.
+Artículo 39. Con relación a la fracción I del artículo 38 de esta Ley, el responsable deberá incluir en el diseño e implementación de las políticas internas para la gestión y tratamiento de los datos personales, al menos, lo siguiente:
+I. Los controles para garantizar que se valida la confidencialidad, integridad y disponibilidad de los datos personales;
+II. Las acciones para restaurar la disponibilidad y el acceso a los datos personales de manera oportuna en caso de un incidente físico o técnico;
+III. Las medidas correctivas en caso de identificar una vulneración o incidente en los tratamientos de datos personales;
+IV. El proceso para evaluar periódicamente las políticas, procedimientos y planes de seguridad establecidos, a efecto de mantener su eficacia;
+V. Los controles para garantizar que únicamente el personal autorizado podrá tener acceso a los datos personales para las finalidades concretas, lícitas, explícitas y legítimas que originaron su tratamiento; y
+VI. Las medidas preventivas para proteger los datos personales contra su destrucción accidental o ilícita, su pérdida o alteración y el
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura almacenamiento, tratamiento, acceso o transferencias no autorizadas o acciones que contravengan las disposiciones de la presente Ley y demás que resulten aplicables.
+Artículo 40. Las acciones relacionadas con las medidas de seguridad para el tratamiento de los datos personales deberán estar documentadas y contenidas en un sistema de gestión.
+Se entenderá por sistema de gestión al conjunto de elementos y actividades interrelacionadas para establecer, implementar, operar, monitorear, revisar, mantener y mejorar el tratamiento y seguridad de los datos personales, de conformidad con lo previsto en la presente Ley y las demás disposiciones que le resulten aplicables en la materia.
+Artículo 41. De manera particular, el responsable deberá elaborar un documento de seguridad que contenga, al menos, lo siguiente:
+I. El inventario de datos personales y de los sistemas de tratamiento;
+II. Las funciones y obligaciones de las personas que traten datos personales;
+III. El análisis de riesgos;
+IV. El análisis de brecha;
+V. El plan de trabajo;
+VI. Los mecanismos de monitoreo y revisión de las medidas de seguridad; y
+VII. El programa general de capacitación.
+Artículo 42. El responsable deberá actualizar el documento de seguridad cuando ocurran los siguientes eventos:
+I. Se produzcan modificaciones sustanciales al tratamiento de datos personales que deriven en un cambio en el nivel de riesgo;
+II. Como resultado de un proceso de mejora continua, derivado del monitoreo y revisión del sistema de gestión;
+III. Como resultado de un proceso de mejora para mitigar el impacto de una vulneración a la seguridad ocurrida, y
+IV. Implementación de acciones correctivas y preventivas ante una vulneración de seguridad.
+Artículo 43. En caso de que ocurra una vulneración a la seguridad, el
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura responsable deberá analizar las causas por las cuales se presentó e implementar en su plan de trabajo las acciones preventivas y correctivas para adecuar las medidas de seguridad y el tratamiento de los datos personales si fuese el caso a efecto de evitar que la vulneración se repita.
+Artículo 44. Además de las que señalen las leyes respectivas y la normatividad aplicable, se considerarán como vulneraciones de seguridad, en cualquier fase del tratamiento de datos, al menos, las siguientes:
+I. La pérdida o destrucción no autorizada;
+II. El robo, extravío o copia no autorizada;
+III. El uso, acceso o tratamiento no autorizado, o
+IV. El daño, la alteración o modificación no autorizada.
+Artículo 45. El responsable deberá llevar una bitácora de las vulneraciones a la seguridad en la que se describa ésta, la fecha en la que ocurrió, el motivo de ésta y las acciones correctivas implementadas de forma inmediata y definitiva.
+Artículo 46. El responsable deberá informar sin dilación alguna al titular, y a la Comisión, las vulneraciones que afecten de forma significativa los derechos patrimoniales o morales, en cuanto se confirme que ocurrió la vulneración y que el responsable haya empezado a tomar las acciones encaminadas a detonar un proceso de revisión exhaustiva de la magnitud de la afectación, a fin de que los titulares afectados puedan tomar las medidas correspondientes para la defensa de sus derechos.
+Artículo 47. El responsable deberá informar al titular al menos lo siguiente:
+I. La naturaleza del incidente;
+II. Los datos personales comprometidos;
+III. Las recomendaciones al titular acerca de las medidas que éste pueda adoptar para proteger sus intereses;
+IV. Las acciones correctivas realizadas de forma inmediata, y
+V. Los medios donde puede obtener más información al respecto.
+Artículo 48. En caso de que ocurra una vulneración a la seguridad de los datos personales, el responsable deberá analizar las causas por las cuales se presentó e implementar en su plan de trabajo las acciones
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura preventivas y correctivas para adecuar las medidas de seguridad y el tratamiento de los datos personales si fuese el caso, a efecto de evitar que la vulneración se repita.
+Artículo 49. Una vez recibida una notificación de vulneración por parte del responsable, la Comisión deberá realizar las investigaciones previas que haya lugar con la finalidad de allegarse de elementos que le permitan, en su caso, iniciar un procedimiento de verificación en términos de lo dispuesto en la presente Ley.
+Artículo 50. El responsable deberá establecer controles o mecanismos que tengan por objeto que todas aquellas personas que intervengan en cualquier fase del tratamiento de los datos personales, guarden confidencialidad respecto de éstos, obligación que subsistirá aún después de finalizar sus relaciones con el mismo.
+Lo anterior, sin menoscabo de lo establecido en las disposiciones de acceso a la información pública.
+Artículo 51. La Comisión podrá publicar directrices, recomendaciones y mejores prácticas en materia de seguridad de los datos personales, de acuerdo con los estándares nacionales e internacionales actuales en la materia.
+TÍTULO TERCERO DERECHOS DE LOS TITULARES Y SU EJERCICIO Capítulo I De los Derechos de Acceso, Rectificación, Cancelación y Oposición
+Artículo 52. En todo momento el titular o su representante podrán solicitar al responsable, el acceso, rectificación, cancelación u oposición al tratamiento de los datos personales que le conciernen, de conformidad con lo establecido en el presente Título. El ejercicio de cualquiera de los derechos ARCO no es requisito previo, ni impide el ejercicio de otro.
+Artículo 53. El titular tendrá derecho de acceder a sus datos personales que obren en posesión del responsable, así como conocer la información relacionada con las condiciones, generalidades y particularidades de su tratamiento.
+Artículo 54. El titular tendrá derecho a solicitar al responsable la rectificación o corrección de sus datos personales, cuando estos resulten ser inexactos, incompletos o no se encuentren actualizados.
+Artículo 55. El titular tendrá derecho a solicitar la cancelación de sus datos personales de los archivos, registros, expedientes y sistemas del responsable, a fin de que los mismos ya no estén en su posesión y dejen
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura de ser tratados por este último.
+Artículo 56. Si los datos personales hubieran sido transmitidos con anterioridad a la rectificación o cancelación y este fuera procedente, el responsable del tratamiento deberá notificarlo a quien se hayan transmitido, quien deberá también proceder a la rectificación o cancelación de los mismos.
+Artículo 57. El titular podrá oponerse al tratamiento de sus datos personales o exigir que se cese en el mismo, cuando:
+I. Aun siendo lícito el tratamiento, el mismo debe cesar para evitar que su persistencia cause un daño o perjuicio al titular; y
+II. Sus datos personales sean objeto de un tratamiento automatizado, el cual le produzca efectos jurídicos no deseados o afecte de manera significativa sus intereses, derechos o libertades, y estén destinados a evaluar, sin intervención humana, determinados aspectos personales del mismo o analizar o predecir, en particular, su rendimiento profesional, situación económica, estado de salud, preferencias sexuales, fiabilidad o comportamiento.
+En aquellos tratamientos de datos personales a que se refiere la fracción II del presente artículo, el responsable deberá informar al titular sobre la existencia del mismo e incluir una evaluación o valoración humana que, entre otras cuestiones, contemple la explicación de la decisión adoptada por la intervención humana.
+Artículo 58. El responsable no podrá llevar a cabo tratamientos automatizados de datos personales que tengan como efecto la discriminación de las personas por su origen étnico o racial, su estado de salud presente, pasado o futuro, su información genética, sus opiniones políticas, su religión o creencias filosóficas o morales y su preferencia sexual.
+Capítulo II Del Ejercicio de los Derechos de Acceso, Rectificación, Cancelación y Oposición
+Artículo 59. La recepción y trámite de las solicitudes para el ejercicio de los derechos ARCO que se formulen a los responsables, se sujetará al procedimiento establecido en el presente Título y demás disposiciones que resulten aplicables en la materia.
+Artículo 60. Para el ejercicio de los derechos ARCO será necesario acreditar la identidad del titular y, en su caso, la identidad y personalidad con la que actúe el representante.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura El ejercicio de los derechos ARCO por persona distinta a su titular o a su representante, será posible, excepcionalmente, en aquellos supuestos previstos por disposición legal, o en su caso, por mandato judicial.
+En el ejercicio de los derechos ARCO de menores de edad o de personas que se encuentren en estado de interdicción o incapacidad, de conformidad con las leyes civiles, se estará a las reglas de representación dispuestas en la misma legislación.
+Tratándose de datos personales concernientes a personas fallecidas, la persona que acredite tener un interés jurídico, de conformidad con las leyes aplicables, podrá ejercer los derechos que le confiere el presente Capítulo, siempre que el titular de los derechos hubiere expresado fehacientemente su voluntad en tal sentido o que exista un mandato judicial para dicho efecto.
+En caso de que la persona fallecida no hubiere expresado fehacientemente su voluntad, a que se refiere el párrafo anterior, bastará que la persona que pretende ejercer los derechos ARCO acredite su interés jurídico en los términos previstos en los Lineamientos expedidos por la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León.
+En la acreditación del titular o su representante, el responsable deberá seguir las siguientes reglas:
+I. El titular podrá acreditar su identidad a través de los siguientes medios:
+a) Identificación oficial;
+b) Instrumentos electrónicos o mecanismos de autenticación permitidos por otras disposiciones legales o reglamentarias que permitan su identificación fehacientemente; o
+c) Aquellos mecanismos establecidos por el responsable de manera previa, siempre y cuando permitan de forma inequívoca la acreditación de la identidad del titular.
+II. Cuando el titular ejerza sus derechos ARCO a través de su representante, éste deberá acreditar su identidad y personalidad presentando ante el responsable:
+a) Copia simple de la identificación oficial del titular;
+b) Identificación oficial del representante; e
+c) Instrumento público, o carta poder simple firmada ante dos testigos, o declaración en comparecencia personal del titular.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Artículo 61. El ejercicio de los derechos ARCO deberá ser gratuito. Sólo podrán realizarse cobros para recuperar los costos de reproducción, certificación o envío, conforme a la normatividad que resulte aplicable.
+Para efectos de acceso a datos personales, las leyes que establezcan los costos de reproducción y certificación deberán considerar en su determinación que los montos permitan o faciliten el ejercicio de este derecho.
+Cuando el titular proporcione el medio magnético, electrónico o el mecanismo necesario para reproducir los datos personales, los mismos deberán ser entregados sin costo a éste.
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples. Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del titular.
+El responsable no podrá establecer para la presentación de las solicitudes del ejercicio de los derechos ARCO algún servicio o medio que implique un costo al titular.
+Artículo 62. El responsable deberá establecer procedimientos sencillos que permitan el ejercicio de los derechos ARCO, cuyo plazo de respuesta no deberá exceder de veinte días contados a partir del día siguiente a la recepción de la solicitud.
+El plazo referido en el párrafo anterior podrá ser ampliado por una sola vez hasta por diez días cuando así lo justifiquen las circunstancias, y siempre y cuando se le notifique al titular dentro del plazo de respuesta.
+En caso de resultar procedente el ejercicio de los derechos ARCO, el responsable deberá hacerlo efectivo en un plazo que no podrá exceder de quince días contados a partir del día siguiente en que se haya notificado la respuesta al titular.
+Artículo 63. En la solicitud para el ejercicio de los derechos ARCO no podrán imponerse mayores requisitos que los siguientes:
+I. El nombre del titular y su domicilio o cualquier otro medio para recibir notificaciones;
+II. Los documentos que acrediten la identidad del titular y, en su caso, la personalidad e identidad de su representante;
+III. De ser posible, el área responsable que trata los datos personales y ante el cual se presenta la solicitud;
+IV. La descripción clara y precisa de los datos personales respecto de los
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura que se busca ejercer alguno de los derechos ARCO, salvo que se trate del derecho de acceso;
+V. La descripción del derecho ARCO que se pretende ejercer, o bien, lo que solicita el titular; y
+VI. Cualquier otro elemento o documento que facilite la localización de los datos personales, en su caso.
+Tratándose de una solicitud de acceso a datos personales, el titular deberá señalar la modalidad en la que prefiere que éstos se reproduzcan. El responsable deberá atender la solicitud en la modalidad requerida por el titular, salvo que exista una imposibilidad física o jurídica que lo limite a reproducir los datos personales en dicha modalidad, en este caso deberá ofrecer otras modalidades de entrega de los datos personales fundando y motivando dicha actuación.
+En caso de que la solicitud de protección de datos no satisfaga alguno de los requisitos a que se refiere el presente artículo, y el responsable no cuente con elementos para subsanarla, deberá prevenir al titular, dentro de los cinco días siguientes a la presentación de la solicitud de ejercicio de los derechos ARCO, por una sola ocasión, para que subsane las omisiones dentro de un plazo de diez días contados a partir del día siguiente al de la notificación.
+Transcurrido el plazo sin desahogar la prevención por parte del titular, se tendrá por no presentada la solicitud de ejercicio de los derechos ARCO.
+La prevención tendrá el efecto de interrumpir el plazo que tiene el Responsable, para resolver la solicitud de ejercicio de los derechos ARCO, por lo que comenzará a computarse al día siguiente del desahogo por parte del titular.
+En el ejercicio del derecho de rectificación, el titular deberá precisar los datos a corregir. Asimismo, podrá aportar todos los elementos necesarios a fin de que el responsable realice la modificación correspondiente.
+Con relación a una solicitud de cancelación, el titular deberá señalar las causas que lo motiven a solicitar la supresión de sus datos personales en los archivos, registros o bases de datos del responsable.
+En el caso de la solicitud de oposición, el titular deberá manifestar las causas legítimas o la situación específica que lo llevan a solicitar el cese en el tratamiento, así como el daño o perjuicio que le causaría la persistencia del tratamiento, o en su caso, las finalidades específicas respecto de las cuales requiere ejercer el derecho de oposición.
+Las solicitudes para el ejercicio de los derechos ARCO deberán presentarse ante la Unidad de Transparencia del responsable, que el titular considere competente, a través de escrito libre, formatos, medios
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura electrónicos o cualquier otro medio que al efecto establezca la Comisión, o bien, vía Plataforma Nacional.
+El responsable deberá dar trámite a toda solicitud para el ejercicio de los derechos ARCO y entregar el acuse de recibo que corresponda, y podrá establecer formularios, sistemas y otros métodos simplificados para facilitar a los titulares el ejercicio de los derechos ARCO.
+Los medios y procedimientos habilitados por el responsable para atender las solicitudes para el ejercicio de los derechos ARCO deberán ser de fácil acceso y con la mayor cobertura posible considerando el perfil de los titulares y la forma en que mantienen contacto cotidiano o común con el responsable.
+Artículo 64. Cuando el responsable no sea competente para atender la solicitud para el ejercicio de los derechos ARCO, deberá hacer del conocimiento del titular dicha situación dentro de los tres días siguientes a la presentación de la solicitud, y en caso de poderlo determinar, orientarlo hacia el responsable competente.
+En caso de que el responsable declare inexistencia de los datos personales en sus archivos, registros, sistemas o expediente, dicha declaración deberá constar en una resolución del Comité de Transparencia que confirme la inexistencia de los datos personales.
+Si el responsable es competente para atender parcialmente la solicitud para el ejercicio de los derechos ARCO, deberá dar respuesta conforme a su competencia.
+En caso de que la Unidad de Transparencia del responsable advierta que la solicitud para el ejercicio de los derechos ARCO corresponda a un derecho diferente de los previstos en la presente Ley, deberá reconducir la vía haciéndolo del conocimiento al titular.
+Artículo 65. Cuando las disposiciones aplicables a determinados tratamientos de datos personales establezcan un trámite o procedimiento específico para solicitar el ejercicio de los derechos ARCO, el responsable deberá informar al titular sobre la existencia del mismo, en un plazo no mayor a cinco días siguientes a la presentación de la solicitud para el ejercicio de los derechos ARCO, a efecto de que este último decida si ejerce sus derechos a través del trámite específico, o bien, por medio del procedimiento que el responsable haya institucionalizado para la atención de solicitudes para el ejercicio de los derechos ARCO conforme a las disposiciones establecidas en este Capítulo.
+Artículo 66. Las causas en las que el ejercicio de los derechos ARCO no será procedente son:
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura I. Cuando el titular o su representante no estén debidamente acreditados para ello;
+II. Cuando los datos personales no se encuentren en posesión del responsable;
+III. Cuando exista un impedimento legal;
+IV. Cuando se lesionen los derechos de un tercero;
+V. Cuando se obstaculicen actuaciones judiciales o administrativas;
+VI. Cuando exista una resolución de autoridad competente que restrinja el acceso a los datos personales o no permita la rectificación, cancelación u oposición de los mismos;
+VII. Cuando la cancelación u oposición haya sido previamente realizada;
+VIII. Cuando el responsable no sea competente;
+IX. Cuando sean necesarios para proteger intereses jurídicamente tutelados del titular; o
+X. Cuando sean necesarios para dar cumplimiento a obligaciones legalmente adquiridas por el titular;
+En todos los casos anteriores, el responsable deberá informar al titular el motivo de su determinación, en el plazo de hasta veinte días a los que se refiere el primer párrafo del artículo 62 de la presente Ley y demás disposiciones aplicables, y por el mismo medio en que se llevó a cabo la solicitud, acompañando en su caso, las pruebas que resulten pertinentes.
+Artículo 67. Contra la negativa de dar trámite a toda solicitud para el ejercicio de los derechos ARCO o por falta de respuesta del responsable, procederá la interposición del recurso de revisión a que se refiere el artículo 108 de la presente Ley.
+Capítulo III De la Portabilidad de los Datos
+Artículo 68. Cuando se traten datos personales por vía electrónica en un formato estructurado y comúnmente utilizado, el titular tendrá derecho a obtener del responsable una copia de los datos objeto de tratamiento en un formato electrónico estructurado y comúnmente utilizado que le permita seguir utilizándolos.
+Cuando el titular haya facilitado los datos personales y el tratamiento se base en el consentimiento o en un contrato, tendrá derecho a transmitir
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura dichos datos personales y cualquier otra información que haya facilitado y que se conserve en un sistema de tratamiento automatizado a otro sistema en un formato electrónico comúnmente utilizado, sin impedimentos por parte del responsable del tratamiento de quien se retiren los datos personales.
+“El Sistema Estatal establecerá mediante lineamientos los parámetros a considerar para determinar los supuestos en los que se está en presencia de un formato estructurado y comúnmente utilizado, así como las normas técnicas, modalidades y procedimientos para la transferencia de datos personales.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+TÍTULO CUARTO RELACIÓN DEL RESPONSABLE Y ENCARGADO Capítulo Único Responsable y Encargado
+Artículo 69. El encargado deberá realizar las actividades de tratamiento de los datos personales sin ostentar poder alguno de decisión sobre el alcance y contenido del mismo, así como limitar sus actuaciones a los términos fijados por el responsable.
+Artículo 70. La relación entre el responsable y el encargado deberá estar formalizada mediante contrato o cualquier otro instrumento jurídico que decida el responsable, de conformidad con la normativa que le resulte aplicable, y que permita acreditar su existencia, alcance y contenido.
+En el contrato o instrumento jurídico que decida el responsable se deberán prever, al menos, las siguientes cláusulas generales relacionadas con los servicios que preste el encargado:
+I. Realizar el tratamiento de los datos personales conforme a las instrucciones del responsable;
+II. Abstenerse de tratar los datos personales para finalidades distintas a las instruidas por el responsable;
+III. Implementar las medidas de seguridad conforme a los instrumentos jurídicos aplicables;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura IV. Informar al responsable cuando ocurra una vulneración a los datos personales que trata por sus instrucciones;
+V. Guardar confidencialidad respecto de los datos personales tratados;
+VI. Suprimir o devolver los datos personales objeto de tratamiento una vez cumplida la relación jurídica con el responsable, siempre y cuando no exista una previsión legal que exija la conservación de los datos personales;
+VII. Abstenerse de transferir los datos personales salvo en el caso de que el responsable así lo determine, o la comunicación derive de una subcontratación, o por mandato expreso de la autoridad competente;
+VIII. La posibilidad de incurrir en responsabilidades y sanciones civiles o penales que correspondan por el uso inadecuado de los datos personales;
+IX. El nivel o niveles de protección requeridos para los datos de acuerdo a su naturaleza; y
+X. La obligación de permitir verificaciones a las medidas de seguridad adoptadas mediante la inspección de la información y documentación que se estime necesaria en el lugar o establecimiento donde se lleva a cabo el tratamiento de los datos personales.
+Los acuerdos entre el responsable y el encargado relacionados con el tratamiento de datos personales no deberán contravenir la presente Ley y demás disposiciones aplicables, así como lo establecido en el aviso de privacidad correspondiente.
+Artículo 71. Cuando el encargado incumpla las instrucciones del responsable y decida por sí mismo sobre el tratamiento de los datos personales, asumirá el carácter de responsable conforme a la legislación en la materia que le resulte aplicable.
+Artículo 72. El encargado podrá, a su vez, subcontratar servicios que impliquen el tratamiento de datos personales por cuenta del responsable, siempre y cuando medie la autorización expresa de este último. El subcontratado asumirá el carácter de encargado en los términos de la presente la Ley y demás disposiciones que resulten aplicables en la materia.
+Cuando el contrato o el instrumento jurídico mediante el cual se haya formalizado la relación entre el responsable y el encargado, prevea que este último pueda llevar a cabo a su vez las subcontrataciones de servicios, la autorización a la que refiere el párrafo anterior se entenderá como otorgada a través de lo estipulado en éstos.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Artículo 73. Una vez obtenida la autorización expresa del responsable, el encargado deberá formalizar la relación adquirida con el subcontratado a través de un contrato o cualquier otro instrumento jurídico que decida, de conformidad con la normatividad que le resulte aplicable, y permita acreditar la existencia, alcance y contenido de la prestación del servicio en términos de lo previsto en el presente Capítulo.
+Artículo 74. El responsable podrá contratar o adherirse a servicios, aplicaciones e infraestructura en el cómputo en la nube, y otras materias que impliquen el tratamiento de datos personales, siempre y cuando el proveedor externo garantice políticas de protección de datos personales equivalentes a los principios y deberes establecidos en la presente Ley y demás disposiciones que resulten aplicables en la materia.
+En su caso, el responsable deberá delimitar el tratamiento de los datos personales por parte del proveedor externo a través de cláusulas contractuales u otros instrumentos jurídicos.
+Artículo 75. Para el tratamiento de datos personales en servicios, aplicaciones e infraestructura de cómputo en la nube y otras materias, en los que el responsable se adhiera a los mismos mediante condiciones o cláusulas generales de contratación, sólo podrá utilizar aquellos servicios en los que el proveedor:
+I. Cumpla, al menos, con lo siguiente:
+a) Tener y aplicar políticas de protección de datos personales afines a los principios y deberes aplicables que establece la presente Ley y demás normativa aplicable;
+b) Transparentar las subcontrataciones que involucren la información sobre la que se presta el servicio;
+c) Abstenerse de incluir condiciones en la prestación del servicio que le autoricen o permitan asumir la titularidad o propiedad de la información sobre la que preste el servicio; y
+d) Guardar confidencialidad respecto de los datos personales sobre los que se preste el servicio;
+II. Cuente con mecanismos, al menos, para:
+a) Dar a conocer cambios en sus políticas de privacidad o condiciones del servicio que presta;
+b) Permitir al responsable limitar el tipo de tratamiento de los datos personales sobre los que se presta el servicio;
+c) Establecer y mantener medidas de seguridad para la protección de los
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura datos personales sobre los que se preste el servicio;
+d) Garantizar la supresión de los datos personales una vez que haya concluido el servicio prestado al responsable y que este último haya podido recuperarlos; y
+e) Impedir el acceso a los datos personales a personas que no cuenten con privilegios de acceso, o bien, en caso de que sea a solicitud fundada y motivada de autoridad competente, informar de ese hecho al responsable.
+En cualquier caso, el responsable no podrá adherirse a servicios que no garanticen la debida protección de los datos personales, conforme a la presente Ley y demás disposiciones que resulten aplicables en la materia.
+TÍTULO QUINTO COMUNICACIONES DE DATOS PERSONALES Capítulo Único De las Transferencias y Remisiones de Datos Personales
+Artículo 76. Toda transferencia de datos personales, sea ésta estatal, nacional o internacional, se encuentra sujeta al consentimiento de su titular, salvo las excepciones previstas en los artículos 23, 77 y 81 de esta Ley.
+Artículo 77. Toda transferencia deberá formalizarse mediante la suscripción de cláusulas contractuales, convenios de colaboración o cualquier otro instrumento jurídico, de conformidad con la normatividad que le resulte aplicable al responsable, que permita demostrar el alcance del tratamiento de los datos personales, así como las obligaciones y responsabilidades asumidas por las partes.
+Lo dispuesto en el párrafo anterior, no será aplicable en los siguientes casos:
+I. Cuando la transferencia se realice entre responsables, en virtud del cumplimiento de una disposición legal o en el ejercicio de atribuciones expresamente conferidas a éstos; o
+II. Cuando la transferencia sea internacional y se encuentre prevista en una ley o tratado suscrito y ratificado por México, o bien, se realice a petición de una autoridad extranjera u organismo internacional competente en su carácter de receptor, siempre y cuando las facultades entre el responsable transferente y receptor sean homólogas, o bien, las
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura finalidades que motivan la transferencia sean análogas o compatibles respecto de aquéllas que dieron origen al tratamiento del responsable transferente.
+Artículo 78. Cuando la transferencia sea nacional o estatal, el receptor de los datos personales deberá tratar los datos personales, comprometiéndose a garantizar su confidencialidad y únicamente los utilizará para los fines que fueron transferidos atendiendo a lo convenido en el aviso de privacidad que le será comunicado por el responsable transferente.
+Artículo 79. El responsable sólo podrá transferir o hacer remisión de datos personales fuera del territorio del Estado cuando el tercero receptor o el encargado se obliguen a proteger los datos personales conforme a los principios y deberes que establece la presente Ley y las disposiciones que resulten aplicables en la materia.
+Artículo 80. En toda transferencia de datos personales, el responsable deberá comunicar al receptor de los datos personales el aviso de privacidad conforme al cual se tratan los datos personales frente al titular.
+Artículo 81. El responsable podrá realizar transferencias de datos personales sin necesidad de requerir el consentimiento del titular, en los siguientes supuestos:
+I. Cuando la transferencia esté prevista en esta Ley u otras leyes, convenios o Tratados Internacionales suscritos y ratificados por el México;
+II. Cuando la transferencia se realice entre responsables, siempre y cuando los datos personales se utilicen para el ejercicio de facultades propias, compatibles o análogas con la finalidad que motivó el tratamiento de los datos personales;
+III. Cuando la transferencia sea legalmente exigida para la investigación y persecución de los delitos, así como la procuración o administración de justicia;
+IV. Cuando la transferencia sea precisa para el reconocimiento, ejercicio o defensa de un derecho ante autoridad competente, siempre y cuando medie el requerimiento de esta última;
+V. Cuando la transferencia sea necesaria para la prevención o el diagnóstico médico, la prestación de asistencia sanitaria, tratamiento médico o la gestión de servicios sanitarios, siempre y cuando dichos fines sean acreditados;
+VI. Cuando la transferencia sea precisa para el mantenimiento o cumplimiento de una relación jurídica entre el responsable y el titular;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+VII. Cuando la transferencia sea necesaria por virtud de un contrato celebrado o por celebrar en interés del titular, por el responsable y un tercero;
+VIII. Cuando se trate de los casos en los que el responsable no esté obligado a recabar el consentimiento del titular para el tratamiento y comunicación de datos personales, conforme a lo dispuesto en el artículo 23 de la presente Ley, o
+IX. Cuando la transferencia sea necesaria por razones de seguridad.
+La actualización de algunas de las excepciones previstas en este artículo, no exime al responsable de cumplir con las obligaciones previstas en el presente Capítulo que resulten aplicables.
+Artículo 82. Las remisiones nacionales e internacionales de datos personales que se realicen entre responsable y encargado no requerirán ser informadas al titular, ni contar con su consentimiento.
+El encargado, será considerado responsable con las obligaciones propias de éste, cuando:
+I. Destine o utilice los datos personales con una finalidad distinta a la autorizada por el responsable; o
+II. Efectúe una transferencia, incumpliendo las instrucciones del responsable;
+El encargado no incurrirá en responsabilidad cuando, previa indicación expresa del responsable, remita los datos personales a otro encargado designado por este último, al que hubiere encomendado la prestación de un servicio, o transfiera los datos personales a otro responsable conforme a lo previsto en el Contrato.
+Artículo 83. Toda subcontratación de servicios por parte del encargado que implique el tratamiento de datos personales deberá ser autorizada por el responsable, y se realizará en nombre y por cuenta de este último.
+Una vez obtenida la autorización, el encargado deberá formalizar la relación con el subcontratado a través de cláusulas contractuales u otro instrumento jurídico que permita acreditar su existencia, alcance y contenido. La persona física o moral subcontratada asumirá las mismas obligaciones que se establezcan para el encargo en la Ley y demás disposiciones aplicables.
+La obligación de acreditar que la subcontratación se realizó con autorización del responsable corresponderá al encargado.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Artículo 84. Cuando las cláusulas contractuales o los instrumentos jurídicos mediante los cuales se haya formalizado la relación entre el responsable y el encargado, prevean que este último pueda llevar a cabo a su vez las subcontrataciones de servicios, la autorización a la que refiere el artículo anterior se entenderá como otorgada a través de lo estipulado en éstos.
+En caso de que la subcontratación no hay sido prevista en las cláusulas contractuales o en los instrumentos jurídicos a los que refiere el párrafo anterior, el encargado deberá obtener la autorización correspondiente del responsable previo a la subcontratación.
+En ambos casos, se deberá observar lo previsto en el artículo 83 de esta Ley.
+Artículo 85. El responsable, en caso de considerarlo necesario, podrá solicitar la opinión de la Comisión respecto al cumplimiento de lo dispuesto por la presente Ley en aquellas transferencias nacionales e internacionales de datos personales que efectúe.
+TÍTULO SEXTO ACCIONES PREVENTIVAS EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES Capítulo I De las Mejores Prácticas
+Artículo 86. Para el cumplimiento de las obligaciones previstas en la presente Ley, el responsable podrá desarrollar o adoptar, en lo individual o en acuerdo con otros responsables, encargados u organizaciones, esquemas de mejores prácticas que tengan por objeto:
+I. Elevar el nivel de protección de los datos personales;
+II. Armonizar el tratamiento de datos personales en un sector específico;
+III. Facilitar el ejercicio de los derechos ARCO por parte de los titulares;
+IV. Facilitar las transferencias de datos personales;
+V. Complementar las disposiciones previstas en la normatividad que resulte aplicable en materia de protección de datos personales; y
+VI. Demostrar ante la Comisión el cumplimiento de la normatividad que resulte aplicable en materia de protección de datos personales.
+Artículo 87. Todo esquema de mejores prácticas que busque la validación o reconocimiento por parte de la Comisión deberá:
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+I. Cumplir con los parámetros que para tal efecto emitan, según corresponda, la Comisión conforme a los criterios que fije el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales; y
+II. Ser notificado ante la Comisión de conformidad con el procedimiento establecido en los parámetros señalados en la fracción anterior, a fin de que sean evaluados y, en su caso, validados o reconocidos e inscritos en el registro al que refiere el último párrafo de este artículo.
+La Comisión deberá emitir las reglas de operación de los registros en los que se inscribirán aquellos esquemas de mejores prácticas validados o reconocidos; asimismo podrá inscribir los esquemas de mejores prácticas que hayan reconocido o validado en el registro administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de acuerdo con las reglas que fije este último.
+Artículo 88. Cuando el responsable pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que a su juicio y de conformidad con esta Ley impliquen el tratamiento intensivo o relevante de datos personales, deberá realizar una Evaluación de impacto a la protección de datos personales, y presentarla ante la Comisión, la cual podrá emitir recomendaciones no vinculantes especializadas en la materia de protección de datos personales.
+El contenido de la evaluación de impacto a la protección de datos personales deberá determinarse por el Sistema Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+Artículo 89. Para efectos de esta Ley se considerará que se está en presencia de un tratamiento intensivo o relevante de datos personales en función de:
+I. El número de titulares;
+II. El público objetivo;
+III. Que existan riesgos inherentes a los datos personales a tratar;
+IV. La sensibilidad de los datos personales;
+V. Que se efectúen o pretendan efectuar transferencias de datos personales;
+VI. El desarrollo de la tecnología utilizada, en su caso;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+VII. La relevancia del tratamiento de datos personales en atención al impacto social o, económico del mismo, o bien, del interés público que se persigue; y
+VIII. Los demás factores que la Comisión determine.
+“Artículo 90. El Sistema Estatal podrá emitir criterios adicionales con sustento en parámetros objetivos que determinen que se está en presencia de un tratamiento intensivo o relevante de datos personales, de conformidad con lo dispuesto en el artículo anterior.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+Artículo 91. Los sujetos obligados que realicen una Evaluación de impacto en la protección de datos personales, deberán presentarla ante la Comisión, treinta días anteriores a la fecha en que se pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología, ante la Comisión, a efecto de que emitan las recomendaciones no vinculantes correspondientes.
+Artículo 92. La Comisión deberá emitir, de ser el caso, recomendaciones no vinculantes sobre la Evaluación de impacto en la protección de datos personales presentado por el responsable.
+El plazo para la emisión de las recomendaciones a que se refiere el párrafo anterior será dentro de los treinta días siguientes contados a partir del día siguiente a la presentación de la evaluación.
+Artículo 93. Cuando a juicio del sujeto obligado se puedan comprometer los efectos que se pretenden lograr con la posible puesta en operación o modificación de políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales o se trate de situaciones de emergencia o urgencia, no será necesario realizar la Evaluación de impacto en la protección de datos personales.
+Capítulo II De las Bases de Datos en Posesión de Instancias de Seguridad, Procuración y Administración de Justicia
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Artículo 94. La obtención y tratamiento de datos personales, en términos de lo que dispone esta Ley, por parte de las sujetos obligados competentes en instancias de seguridad, procuración y administración de justicia, está limitada a aquellos supuestos y categorías de datos que resulten necesarios y proporcionales para el ejercicio de las funciones en materia de seguridad nacional, seguridad pública, o para la prevención o persecución de los delitos. Deberán ser almacenados en las bases de datos establecidas para tal efecto.
+Las autoridades que accedan y almacenen los datos personales que se recaben por los particulares en cumplimiento de las disposiciones legales correspondientes, deberán cumplir con las disposiciones señaladas en el presente Capítulo.
+Artículo 95. En el tratamiento de datos personales así como en el uso de las bases de datos para su almacenamiento, que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y administración de justicia deberá cumplir con los principios establecidos en el Título Segundo de la presente Ley.
+Artículo 96. Los responsables de las bases de datos a que se refiere este Capítulo, deberán establecer medidas de seguridad de nivel alto, para garantizar la integridad, disponibilidad y confidencialidad de la información, que permitan proteger los datos personales contra daño, pérdida, alteración, destrucción o el uso, acceso o tratamiento no autorizado.
+TÍTULO SÉPTIMO RESPONSABLES EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS Capítulo I Comité de Transparencia
+Artículo 97. Cada responsable contará con un Comité de Transparencia, el cual se integrará y funcionará conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normativa aplicable.
+El Comité de Transparencia será la autoridad máxima en materia de protección de datos personales.
+Artículo 98. Para los efectos de la presente Ley y sin perjuicio de otras atribuciones que le sean conferidas en la normatividad que le resulte aplicable, el Comité de Transparencia tendrá las siguientes funciones:
+I. Coordinar, supervisar y realizar las acciones necesarias para garantizar
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura el derecho a la protección de los datos personales en la organización del responsable, de conformidad con las disposiciones previstas en la presente Ley y en aquellas disposiciones que resulten aplicables en la materia, en coordinación con el oficial de protección de datos personales, en su caso;
+II. Instituir, en su caso, procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO;
+III. Confirmar, modificar o revocar las determinaciones en las que se declare la inexistencia de los datos personales, o se niegue por cualquier causa el ejercicio de alguno de los derechos ARCO;
+IV. Establecer y supervisar la aplicación de criterios específicos que resulten necesarios para una mejor observancia de la presente Ley y en aquellas disposiciones que resulten aplicables en la materia;
+V. Supervisar, en coordinación con las áreas o unidades administrativas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad;
+VI. Dar seguimiento y cumplimiento a las resoluciones emitidas por la Comisión;
+VII. Establecer programas de capacitación y actualización para los servidores públicos en materia de protección de datos personales; y
+VIII. Dar vista al órgano interno de control o instancia equivalente en aquellos casos en que tenga conocimiento, en el ejercicio de sus atribuciones, de una presunta irregularidad respecto de determinado tratamiento de datos personales; particularmente en casos relacionados con la declaración de inexistencia que realicen los responsables.
+Capítulo II De la Unidad de Transparencia
+Artículo 99. Cada responsable contará con una Unidad de Transparencia, se integrará y funcionará conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, esta Ley y demás normativa aplicable, que tendrá las siguientes funciones:
+I. Auxiliar y orientar al titular que lo requiera con relación al ejercicio del derecho a la protección de datos personales;
+II. Gestionar las solicitudes para el ejercicio de los derechos ARCO;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+III. Establecer mecanismos para asegurar que los datos personales solo se entreguen a su titular o su representante debidamente acreditados;
+IV. Informar al titular o su representante el monto de los costos a cubrir por la reproducción y envío de los datos personales, con base en lo establecido en las disposiciones normativas aplicables;
+V. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO;
+VI. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos ARCO; y
+VII. Asesorar a las áreas adscritas al responsable en materia de protección de datos personales.
+Artículo 100. Los responsables que en el ejercicio de sus funciones sustantivas lleven a cabo tratamientos de datos personales relevantes o intensivos, podrán designar a un oficial de protección de datos personales, especializado en la materia, quien realizará las atribuciones mencionadas en el artículo que antecede y formará parte de la Unidad de Transparencia “y del Comité de Transparencia.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+“La persona designada como oficial de protección de datos deberá contar con la jerarquía o posición dentro de la organización del responsable que le permita implementar políticas transversales en esta materia.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+El oficial de protección de datos personales será designado atendiendo a su experiencia y cualidades profesionales, en particular, a sus conocimientos en la materia y deberá contar con recursos suficientes para llevar a cabo sus atribuciones.
+Artículo 101. Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a la
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura recepción, trámite y entrega de las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
+Artículo 102. El responsable procurará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales.
+Artículo 103. En la designación del titular de la Unidad de Transparencia, el responsable estará a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normativa aplicable.
+TÍTULO OCTAVO DE LA COMISIÓN Capítulo I De la Comisión
+Artículo 104. En la integración, procedimiento de designación y funcionamiento de la Comisión se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normativa aplicable.
+Artículo 105. Para los efectos de la presente Ley y sin perjuicio de otras atribuciones que les sean conferidas en la normatividad que les resulte aplicable, el Pleno de la Comisión tendrá las siguientes atribuciones:
+I. Garantizar el ejercicio del derecho a la protección de datos personales en posesión de sujetos obligados;
+II. Interpretar, en el ámbito de sus atribuciones, esta Ley, así como los ordenamientos que les resulten aplicables y que deriven de la Ley General y de la Constitución Política de los Estados Unidos Mexicanos;
+III. Emitir disposiciones administrativas de carácter general para la debida aplicación y cumplimiento de las obligaciones previstas en la presente Ley;
+IV. Conocer, sustanciar y resolver, en el ámbito de sus respectivas competencias, de los recursos de revisión interpuestos por los titulares, en términos de lo dispuesto en la presente Ley y demás disposiciones que resulten aplicables en la materia;
+V. Presentar petición fundada al Instituto, para que conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten, en términos de lo previsto en la presente Ley y demás disposiciones que resulten aplicables en la materia;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+VI. Conocer, sustanciar y resolver los procedimientos de verificación, de los hechos que sean o pudieran ser constitutivos de infracciones a esta Ley y demás disposiciones de la materia y, en su caso, determinar e imponer las medidas de apremio y sanciones, según corresponda, de conformidad con lo señalado en la presente Ley;
+VII. Conocer y resolver los recursos interpuestos por los titulares en contra de las resoluciones, acciones u omisiones de los responsables en el ámbito local;
+VIII. Imponer las medidas de apremio y sanciones, según corresponda, de conformidad con lo señalado en la presente Ley, para asegurar el cumplimiento de sus resoluciones;
+IX. Promover y difundir el ejercicio del derecho a la protección de datos personales;
+X. Coordinarse con las autoridades competentes para que las solicitudes para el ejercicio de los derechos ARCO y los recursos de revisión que se presenten en lenguas indígenas, sean atendidos en la misma lengua;
+XI. Garantizar, en el ámbito de sus respectivas competencias, condiciones de accesibilidad para que los titulares que pertenecen a grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales;
+XII. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de la presente Ley;
+XIII. Hacer del conocimiento de las autoridades competentes, la probable responsabilidad derivada del incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones que resulten aplicables;
+XIV. Proporcionar al Instituto los elementos que requiera para resolver los recursos de inconformidad que le sean presentados, en términos de lo previsto en el Título Noveno, Capítulo III de la Ley General y demás disposiciones que resulten aplicables en la materia;
+XV. Proporcionar apoyo técnico a los responsables para el cumplimiento de las obligaciones establecidas en la presente Ley;
+XVI. Suscribir convenios de colaboración con la Comisión para el cumplimiento de los objetivos previstos en la presente Ley y demás disposiciones aplicables;
+XVII. Otorgar certificaciones en materia de derecho a la protección de datos personales, de conformidad con los lineamientos de evaluación, capacitación, y cumplimiento emitidos por la Comisión;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura XVIII. Divulgar y emitir recomendaciones, estándares y mejores prácticas en las materias reguladas por la presente Ley;
+XIX. Vigilar, evaluar y verificar el cumplimiento de la presente Ley y demás disposiciones aplicables;
+XX. Llevar a cabo acciones y actividades que promuevan el conocimiento del derecho a la protección de datos personales, así como de sus prerrogativas;
+XXI. Presidir el Sistema Estatal a que se refiere el artículo 10 de la presente Ley;
+XXII. Aplicar indicadores y criterios para evaluar el desempeño de los responsables respecto del cumplimiento de la presente Ley y demás disposiciones que resulten aplicables;
+“XXIII. Promover e impulsar el ejercicio y tutela del derecho a la protección de datos personales a través de la implementación y administración de la Plataforma Estatal a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normativa aplicable;”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+XXIV. Promover la capacitación y actualización en materia de protección de datos personales entre los responsables;
+“XXV. Administrar, en el ámbito de sus competencias, la Plataforma Estatal de Transparencia;”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+XXVI. Interponer, acciones de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado, que vulneren el derecho a la protección de datos personales;
+XXVII. Celebrar convenios con los organismos garantes y responsables que coadyuven al cumplimiento de los objetivos previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia,
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+XXVIII. Emitir, en su caso, las recomendaciones no vinculantes correspondientes a la Evaluación de impacto en protección de datos personales que le sean presentadas; y
+XXIX. Las demás que le confiera la presente Ley y demás ordenamientos aplicables.
+Capítulo III De la Coordinación y Promoción del Derecho a la Protección de Datos Personales
+Artículo 106. Los responsables deberán colaborar con la Comisión, para capacitar y actualizar de forma permanente a todos sus servidores públicos en materia de protección de datos personales, a través de la impartición de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente.
+Artículo 107. La Comisión, en el ámbito de sus competencias, deberá:
+I. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas de todos los niveles y modalidades del Estado, se incluyan contenidos sobre el derecho a la protección de datos personales, así como una cultura sobre el ejercicio y respeto de éste;
+II. Impulsar en conjunto con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre el derecho a la protección de datos personales que promuevan el conocimiento sobre este tema y coadyuven con la Comisión y los Organismos en sus tareas sustantivas; y
+III. Fomentar la creación de espacios de participación social y ciudadana que estimulen el intercambio de ideas entre la sociedad, los órganos de representación ciudadana y los responsables.
+TÍTULO NOVENO DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS Capítulo I Disposiciones Comunes a los Recursos de Revisión
+Artículo 108. El titular o su representante podrá interponer un recurso de revisión ante la Comisión, o bien, ante la Unidad de Transparencia, a
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura través de los siguientes medios:
+I. Por escrito libre en el domicilio de la Comisión, o en las oficinas habilitadas que al efecto se establezcan;
+II. Por correo certificado con acuse de recibo;
+III. Por formatos que al efecto emita la Comisión;
+IV. Por los medios electrónicos que para tal fin se autoricen, o
+V. Cualquier otro medio que al efecto establezca la Comisión.
+Se presumirá que el titular acepta que las notificaciones le sean efectuadas por el mismo conducto que presentó su escrito, salvo que acredite haber señalado uno distinto para recibir notificaciones.
+Artículo 109. El titular podrá acreditar su identidad a través de cualquiera de los siguientes medios:
+I. Identificación oficial;
+II. Firma electrónica avanzada o del instrumento electrónico que lo sustituya; o
+III. Mecanismos de autenticación autorizados por la Comisión publicados mediante acuerdo general en el Periódico Oficial del Estado.
+La utilización de la firma electrónica avanzada o del instrumento electrónico que lo sustituya eximirá de la presentación de la copia del documento de identificación.
+Artículo 110. Cuando el titular actúe mediante un representante, éste deberá acreditar su personalidad en los siguientes términos:
+I. Si se trata de una persona física, a través de carta poder simple suscrita ante dos testigos, anexando copia de las identificaciones de los suscriptores, o instrumento público, o declaración en comparecencia personal del titular y del representante ante la Comisión; o
+II. Si se trata de una persona moral, mediante instrumento público.
+Artículo 111. La interposición de un recurso de revisión concerniente a personas fallecidas, podrá realizarla la persona que acredite tener un interés jurídico o legítimo conforme a la normativa aplicable.
+Artículo 112. En la sustanciación de los recursos de revisión, las notificaciones que emita la Comisión, surtirán efectos al día siguiente en que se practiquen.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Las notificaciones podrán efectuarse:
+I. Personalmente en los siguientes casos:
+a) Se trate de la primera notificación;
+b) Se trate del requerimiento de un acto a la parte que deba cumplirlo;
+c) Se trate de la solicitud de informes o documentos;
+d) Se trate de la resolución que ponga fin al procedimiento de que se trate; y
+e) En los demás casos que disponga la ley;
+II. Por correo certificado con acuse de recibo o medios digitales o sistemas autorizados por la Comisión y publicados mediante acuerdo general en el Periódico Oficial Estado, cuando se trate de requerimientos, emplazamientos, solicitudes de informes o documentos y resoluciones que puedan ser impugnadas;
+III. Por correo postal ordinario con acuse de recibo o por correo electrónico ordinario cuando se trate de actos distintos de los señalados en las fracciones anteriores, o
+IV. Por estrados, cuando la persona a quien deba notificarse no sea localizable en su domicilio, se ignore éste o el de su representante.
+Artículo 113. El cómputo de los plazos señalados en el presente Título comenzará a correr a partir del día siguiente a aquél en que haya surtido efectos la notificación correspondiente. Concluidos los plazos fijados a las partes, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse, sin necesidad de acuse de rebeldía por parte de la Comisión.
+Artículo 114. El titular y el responsable o cualquier autoridad deberán atender los requerimientos de información en los plazos y términos que la Comisión establezca.
+Artículo 115. Cuando el titular, el responsable o cualquier autoridad se nieguen a atender o cumplimentar los requerimientos, solicitudes de información y documentación, emplazamientos, citaciones o diligencias notificadas por la Comisión, según corresponda, o facilitar la práctica de las diligencias que hayan sido ordenadas, o entorpezca las actuaciones de la Comisión, según corresponda, tendrán por perdido su derecho para hacerlo valer en algún otro momento del procedimiento y la Comisión tendrá por ciertos los hechos materia del procedimiento y resolverá con los elementos que disponga.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Artículo 116. En la sustanciación de los recursos de revisión, las partes podrán ofrecer las siguientes pruebas:
+I. La documental pública;
+II. La documental privada;
+III. La inspección;
+IV. La pericial;
+V. La testimonial;
+VI. La confesional, excepto tratándose de autoridades;
+VII. Las imágenes fotográficas, páginas electrónicas, escritos y demás elementos aportados por la ciencia y tecnología; y
+VIII. La presunción legal y humana.
+La Comisión podrá allegarse de los medios de prueba que consideren necesarios, sin más limitación que las establecidas en la ley.
+Para la consecución de la verdad y la justicia que constituyen un interés fundamental y común de las partes, el Comisionado Ponente a quien se le haya turnado para su substanciación un recurso, denuncia o asunto diverso, podrá en todo tiempo ordenar que se subsane toda omisión que notare en el desarrollo del procedimiento, denuncia o asunto; asimismo, y con independencia de los elementos de convicción que rindan las partes, decretará la práctica de cualquier diligencia y la aportación o ampliación de pruebas que se estime necesarias y conducentes, sin más limitación que sean de las reconocidas por la presente Ley y que tengan relación con los hechos controvertidos.
+Capítulo II Del Recurso de Revisión ante la Comisión
+Artículo 117. El titular, por sí mismo o a través de su representante, podrán interponer un recurso de revisión ante la Comisión o, en su caso, ante la Unidad de Transparencia del responsable que haya conocido de la solicitud para el ejercicio de los derechos ARCO, dentro de un plazo que no podrá exceder de quince días contados a partir del día siguiente a la fecha de la notificación de la respuesta.
+Transcurrido el plazo previsto para dar respuesta a una solicitud para el ejercicio de los derechos ARCO sin que se haya emitido ésta, el titular o,
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura en su caso, su representante podrán interponer el recurso de revisión dentro de los quince días siguientes al que haya vencido el plazo para dar respuesta.
+Artículo 118. El recurso de revisión procederá en los siguientes supuestos:
+I. Se clasifiquen como confidenciales los datos personales sin que se cumplan las características señaladas en las leyes que resulten aplicables;
+II. Se declare la inexistencia de los datos personales;
+III. Se declare la incompetencia por el responsable;
+IV. Se entreguen datos personales incompletos;
+V. Se entreguen datos personales que no correspondan con lo solicitado;
+VI. Se niegue el acceso, rectificación, cancelación u oposición de datos personales;
+VII. No se dé respuesta a una solicitud para el ejercicio de los derechos ARCO dentro de los plazos establecidos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
+VIII. Se entregue o ponga a disposición datos personales en una modalidad o formato distinto al solicitado, o en un formato incomprensible;
+IX. El titular se inconforme con los costos de reproducción, envío o tiempos de entrega de los datos personales;
+X. Se obstaculice el ejercicio de los derechos ARCO, a pesar de que fue notificada la procedencia de los mismos;
+XI. No se dé trámite a una solicitud para el ejercicio de los derechos ARCO;
+XII. Ante la falta de respuesta del responsable; y
+XIII. En los demás casos que dispongan las leyes.
+Artículo 119. Los requisitos exigibles en el escrito de interposición del recurso de revisión serán los siguientes:
+I. El área responsable ante quien se presentó la solicitud para el ejercicio de los derechos ARCO;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura II. El nombre completo del titular que recurre o su representante y, en su caso, del tercero interesado, así como el domicilio o medio que señale para recibir notificaciones;
+III. La fecha en que fue notificada la respuesta al titular, o bien, en caso de falta de respuesta la fecha de la presentación de la solicitud para el ejercicio de los derechos ARCO;
+IV. El acto que se recurre y los puntos petitorios, así como las razones o motivos de inconformidad;
+“V. La copia de la solicitud a través de la cual ejerció sus derechos ARCO y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+VI. En su caso, copia de la respuesta que se impugna y de la notificación correspondiente; y
+VII. Los documentos que acrediten la identidad del titular y, en su caso, la personalidad e identidad de su representante.
+Al recurso de revisión se podrán acompañar las pruebas y demás elementos que considere el titular procedentes someter a juicio de la Comisión.
+En ningún caso será necesario que el titular ratifique el recurso de revisión interpuesto.
+Artículo 120. Una vez presentado el recurso de revisión, la Comisión deberá acordar la admisión o desechamiento del mismo, en un plazo que no podrá exceder de cinco días siguientes a la fecha en que se haya recibido. La Comisión exhortará a llegar a una conciliación entre el titular y el responsable.
+De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y la Comisión deberá verificar el cumplimiento del acuerdo respectivo.
+Artículo 121. Admitido el recurso de revisión y sin perjuicio de lo dispuesto por el artículo 117 de la presente Ley, la Comisión promoverá la conciliación entre las partes, de conformidad con el siguiente procedimiento:
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura I. La Comisión requerirá a las partes que manifiesten, por cualquier medio, su voluntad de conciliar, en un plazo no mayor a siete días, contados a partir de la notificación de dicho acuerdo, mismo que contendrá un resumen del recurso de revisión y de la respuesta del responsable si la hubiere, señalando los elementos comunes y los puntos de controversia.
+La conciliación podrá celebrarse presencialmente, por medios remotos o locales de comunicación electrónica o por cualquier otro medio que determine la Comisión. En cualquier caso, la conciliación habrá de hacerse constar por el medio que permita acreditar su existencia.
+Queda exceptuado de la etapa de conciliación, cuando el titular sea menor de edad y se haya vulnerado alguno de los derechos contemplados en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, vinculados con la Ley y el Reglamento, salvo que cuente con representación legal debidamente acreditada;
+II. Aceptada la posibilidad de conciliar por ambas partes, la Comisión señalará el lugar o medio, día y hora para la celebración de una audiencia de conciliación, la cual deberá realizarse dentro de los diez días siguientes en que la Comisión haya recibido la manifestación de la voluntad de conciliar de ambas partes, en la que se procurará avenir los intereses entre el titular y el responsable.
+El conciliador podrá, en todo momento en la etapa de conciliación, requerir a las partes que presenten en un plazo máximo de cinco días, los elementos de convicción que estime necesarios para la conciliación.
+El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes la audiencia por una ocasión. En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación dentro de los cinco días siguientes.
+De toda audiencia de conciliación se levantará el acta respectiva, en la que conste el resultado de la misma. En caso de que el responsable o el titular o sus respectivos representantes no firmen el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa;
+III. Si alguna de las partes no acude a la audiencia de conciliación y justifica su ausencia en un plazo de tres días, será convocado a una segunda audiencia de conciliación, en el plazo de cinco días; en caso de que no acuda a esta última, se continuará con el recurso de revisión. Cuando alguna de las partes no acuda a la audiencia de conciliación sin justificación alguna, se continuará con el procedimiento;
+IV. De no existir acuerdo en la audiencia de conciliación, se continuará con el recurso de revisión;
+V. De llegar a un acuerdo, éste se hará constar por escrito y tendrá
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura efectos vinculantes. El recurso de revisión quedará sin materia y la Comisión deberá verificar el cumplimiento del acuerdo respectivo;
+VI. El cumplimiento del acuerdo dará por concluido la sustanciación del recurso de revisión, en caso contrario, la Comisión reanudará el procedimiento; y
+VII. El plazo al que se refiere el artículo siguiente de la presente Ley será suspendido durante el periodo de cumplimiento del acuerdo de conciliación.
+Artículo 122. La Comisión resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días, el cual podrá ampliarse hasta por veinte días por una sola vez.
+Artículo 123. Durante el procedimiento a que se refiere el presente Capítulo, la Comisión deberá aplicar la suplencia de la queja a favor del titular, siempre y cuando no altere el contenido original del recurso de revisión, ni modifique los hechos o peticiones expuestas en el mismo, así como garantizar que las partes puedan presentar los argumentos y constancias que funden y motiven sus pretensiones.
+Artículo 124. Si en el escrito de interposición del recurso de revisión el titular no cumple con alguno de los requisitos previstos en el artículo 119 de la presente Ley y la Comisión no cuente con elementos para subsanarlos, deberá requerir al titular, por una sola ocasión, la información que subsane las omisiones en un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la presentación del escrito.
+El titular contará con un plazo que no podrá exceder de cinco días, contados a partir del día siguiente al de la notificación de la prevención, para subsanar las omisiones, con el apercibimiento de que, en caso de no cumplir con el requerimiento, se desechará el recurso de revisión.
+La prevención tendrá el efecto de interrumpir el plazo que tiene la Comisión para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo.
+Artículo 125. Las resoluciones podrán:
+I. Sobreseer o desechar el recurso de revisión por improcedente;
+II. Confirmar la respuesta del responsable;
+III. Revocar o modificar la respuesta del responsable, o
+IV. Ordenar la entrega de los datos personales, en caso de omisión del responsable.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Las resoluciones establecerán, en su caso, los plazos y términos para su cumplimiento y los procedimientos para asegurar su ejecución. Los responsables deberán informar a la Comisión, el cumplimiento de sus resoluciones.
+Ante la falta de resolución por parte de la Comisión, se entenderá confirmada la respuesta del responsable.
+Cuando la Comisión determine durante la sustanciación del recurso de revisión que se pudo haber incurrido en una probable responsabilidad por el incumplimiento a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables en la materia, deberán hacerlo del conocimiento del órgano interno de control o de la instancia competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
+Artículo 126. El recurso de revisión podrá ser desechado por improcedente cuando:
+I. Sea extemporáneo por haber transcurrido el plazo establecido en el artículo 117 de la presente Ley;
+II. El titular o su representante no acrediten debidamente su identidad y personalidad de este último;
+III. La Comisión haya resuelto anteriormente en definitiva sobre la materia del mismo;
+IV. No se actualice alguna de las causales del recurso de revisión previstas en el artículo 118 de la presente Ley;
+V. Se esté tramitando ante los tribunales competentes algún recurso o medio de defensa interpuesto por el recurrente, o en su caso, por el tercero interesado, en contra del acto recurrido;
+VI. El recurrente modifique o amplíe su petición en el recurso de revisión, únicamente respecto de los nuevos contenidos, o
+VII. El recurrente no acredite interés jurídico.
+El desechamiento no implica la preclusión del derecho del titular para interponer un nuevo recurso de revisión.
+Artículo 127. El recurso de revisión solo podrá ser sobreseído cuando:
+I. El recurrente se desista expresamente;
+II. El recurrente fallezca;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+III. Admitido el recurso de revisión, se actualice alguna causal de improcedencia en los términos de la presente Ley;
+IV. El responsable modifique o revoque su respuesta de tal manera que el recurso de revisión quede sin materia, o
+V. Quede sin materia el recurso de revisión.
+Artículo 128. La Comisión deberá notificar a las partes y publicar las resoluciones, en versión pública, a más tardar, al tercer día siguiente de su aprobación.
+Artículo 129. Las resoluciones de la Comisión serán vinculantes, definitivas e inatacables para los responsables.
+Los titulares podrán impugnar dichas resoluciones en los términos que establezcan las leyes aplicables.
+Artículo 130. Los titulares o sus representantes podrán optar por acudir ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales interponiendo el recurso de inconformidad previsto en esta Ley o ante el Poder Judicial de la Federación mediante el Juicio de Amparo.
+En los casos en que a través del recurso de inconformidad se modifique o revoque la resolución de la Comisión éste deberá emitir una nueva resolución dentro del plazo de quince días, contados a partir del día siguiente de la notificación o que tenga conocimiento de la resolución del Instituto Nacional, atendiendo los términos señalados en la misma.
+Capítulo IV De la Atracción de los Recursos de Revisión
+Artículo 131. El pleno del Instituto Nacional, cuando así lo apruebe la mayoría de sus Comisionados, de oficio o a petición fundada de la Comisión, podrá ejercer la facultad de atracción para conocer de aquellos recursos de revisión que por su interés y trascendencia así lo ameriten, en los plazos y términos previstos en la Ley General y demás normativa aplicable.
+En este caso, cesará la substanciación del recurso de revisión a cargo de la Comisión.
+Capítulo V De los Criterios de Interpretación
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Artículo 132. Una vez que hayan causado ejecutoria las resoluciones dictadas en los recursos que se sometan a su competencia, la Comisión podrá emitir los criterios de interpretación que estime pertinentes y que deriven de lo resuelto en dichos asuntos.
+Artículo 133. La Comisión podrá emitir criterios que serán de carácter orientador para los sujetos obligados, que se establecerán por reiteración al resolver tres casos análogos de manera consecutiva en el mismo sentido, por al menos dos terceras partes del Pleno de la Comisión, derivados de resoluciones que hayan causado estado.
+Todo criterio que emita la Comisión, deberá contener una clave de control para su debida identificación.
+La Comisión podrá interrumpir el criterio si estima la inaplicabilidad del razonamiento en él contenido, a fin de dejarlo sin efectos. Para proceder a la interrupción a que se refiere este artículo, se requerirá la resolución de un recurso en el que se sostenga un criterio contrario al previamente establecido.
+La aprobación de un criterio por parte de los integrantes de la Comisión, no será motivo para vincular a los nuevos integrantes que, en su caso, formen parte del propio organismo garante en lo sucesivo, por lo que el tema contenido en el criterio en cuestión podrá ser discutido bajo la nueva integración del organismo garante, mismo que podrá ser interrumpido.
+Cualquier persona podrá denunciar ante la Comisión, la contradicción de criterios.
+TÍTULO DÉCIMO FACULTAD DE VERIFICACIÓN DE LA COMISIÓN Capítulo Único Del Procedimiento de Verificación
+Artículo 134. La Comisión tendrá la atribución de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley y demás ordenamientos que se deriven de ésta.
+En el ejercicio de las funciones de vigilancia y verificación, el personal de la Comisión deberá guardar confidencialidad sobre la información a la que tengan acceso en virtud de la verificación correspondiente.
+El responsable no podrá negar el acceso a la documentación solicitada con motivo de una verificación, o a sus bases de datos personales, ni podrá invocar la reserva o la confidencialidad de la información.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Artículo 135. La verificación podrá iniciarse:
+I. De oficio cuando la Comisión cuente con indicios que hagan presumir fundada y motivada la existencia de violaciones a la presente Ley y demás normatividad que resulte aplicable;
+II. Por denuncia del titular cuando considere que ha sido afectado por actos del responsable que puedan ser contrarios a lo dispuesto por la presente Ley y demás normativa aplicable; o
+III. Por denuncia de cualquier persona cuando tenga conocimiento de presuntos incumplimientos a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables en la materia.
+El derecho a presentar una denuncia precluye en el término de un año contado a partir del día siguiente en que se realicen los hechos u omisiones materia de la misma. Cuando los hechos u omisiones sean de tracto sucesivo, el término empezará a contar a partir del día hábil siguiente al último hecho realizado.
+La verificación no se admitirá en los supuestos de procedencia del recurso de revisión, previstos en la presente Ley.
+Previo a la verificación respectiva, la Comisión podrá desarrollar investigaciones previas, con el fin de contar con elementos para fundar y motivar el acuerdo de inicio respectivo.
+Artículo 136. Para la presentación de una denuncia no podrán solicitarse mayores requisitos que los que a continuación se describen:
+I. El nombre de la persona que denuncia, o en su caso, de su representante;
+II. El domicilio o medio para recibir notificaciones de la persona que denuncia;
+III. La relación de hechos en que se basa la denuncia y los elementos con los que cuente para probar su dicho;
+IV. El responsable denunciado y su domicilio, o en su caso, los datos para su identificación y/o ubicación;
+V. La firma del denunciante, o en su caso, de su representante. En caso de no saber firmar, bastará la huella digital.
+La denuncia podrá presentarse por escrito libre, o a través de los formatos, medios electrónicos o cualquier otro medio o tecnología que al efecto establezca la Comisión.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Una vez recibida la denuncia, la Comisión deberá acusar recibo de la misma. El acuerdo correspondiente se notificará al denunciante.
+Artículo 137. La verificación iniciará mediante una orden escrita que funde y motive la procedencia de la actuación por parte la Comisión, la cual tiene por objeto requerir al responsable la documentación e información necesaria vinculada con la presunta violación y/o realizar visitas a las oficinas o instalaciones del responsable, o en su caso, en el lugar donde estén ubicadas las bases de datos personales respectivas.
+El acuerdo de inicio del procedimiento de verificación deberá señalar lo siguiente:
+I. El nombre del denunciante y su domicilio;
+II. El objeto y alcance del procedimiento, precisando circunstancias de tiempo y lugar. En los casos en que se actúe por denuncia, la Comisión podrá ampliar el objeto y alcances del procedimiento respecto del contenido de aquélla, debidamente fundada y motivada;
+III. La denominación del responsable y su domicilio;
+IV. El lugar y fecha de la emisión del acuerdo de inicio; y
+V. La firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición.
+Artículo 138. La Comisión deberá notificar el acuerdo de inicio del procedimiento de verificación al responsable denunciado.
+Artículo 139. Para el desahogo del procedimiento de verificación, la Comisión podrá, de manera conjunta, indistinta y sucesivamente:
+I. Requerir al responsable denunciado la documentación e información necesaria vinculada con la presunta violación y/o;
+II. Realizar visitas de verificación a las oficinas o instalaciones del responsable denunciado, o en su caso, en el lugar donde se lleven a cabo los tratamientos de datos personales.
+Lo anterior, a fin de allegarse de los elementos relacionados con el objeto y alcance de esté.
+Artículo 140. El denunciante y el responsable estarán obligados a atender y cumplimentar los requerimientos, solicitudes de información y documentación, emplazamientos, citaciones o diligencias notificadas por la Comisión, o bien, a facilitar la práctica de las diligencias que hayan sido ordenadas.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+En caso de negativa o entorpecimiento de las actuaciones de la Comisión, el denunciante y responsable tendrán por perdido su derecho para hacerlo valer en algún otro momento dentro del procedimiento y la Comisión tendrá por ciertos los hechos materia del procedimiento y resolverá con los elementos que disponga.
+Artículo 141. En los requerimientos de información y/o visitas de inspección que realice la Comisión con motivo de un procedimiento de verificación, el responsable no podrá negar el acceso a la documentación solicitada con motivo de una verificación, o a sus bases de datos personales, ni podrá invocar la reserva o la confidencialidad de la información en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normatividad que resulte aplicable.
+Artículo 142. Las visitas de verificación que lleve a cabo la Comisión podrán ser una o varias en el curso de un mismo procedimiento, las cuales se deberán desarrollar conforme a las siguientes reglas y requisitos:
+I. Cada visita de verificación tendrá un objeto y alcance distinto y su duración no podrá exceder de cinco días;
+II. La orden de visita de verificación contendrá:
+a) El objeto, alcance y duración que, en su conjunto, limitarán la diligencia;
+b) La denominación del responsable verificado;
+c) La ubicación del domicilio o domicilios a visitar; y
+d) El nombre completo de la persona o personas autorizadas a realizar la visita de verificación las cuales podrán ser sustituidas, aumentadas o reducidas en su número en cualquier tiempo por la Comisión, situación que se notificará al responsable sujeto a procedimiento; y
+III. Las visitas de verificación se practicarán en días y horas hábiles y se llevarán a cabo en cualquier domicilio, local, establecimiento, oficina, sucursal del responsable verificado, incluyendo el lugar en que, a juicio de la Comisión, se encuentren o se presuma la existencia de bases de datos o tratamientos de los mismos.
+La Comisión podrá autorizar que servidores públicos de otras autoridades federales, locales y municipales, en el ámbito de sus respectivas competencias, auxilien en cuestiones técnicas o específicas para el desahogo de la misma.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Artículo 143. En la realización de las visitas de verificación los verificadores autorizados y los responsables verificados deberán estar a lo siguiente:
+I. Los verificadores autorizados se identificarán ante la persona con quien se entienda la diligencia, al iniciar la visita;
+II. Los verificadores autorizados requerirán a la persona con quien se entienda la diligencia designe a dos testigos;
+III. El responsable verificado estará obligado a:
+a) Permitir el acceso a los verificadores autorizados al lugar señalado en la orden para la práctica de la visita;
+b) Proporcionar y mantener a disposición de los verificadores autorizados la información, documentación o datos relacionados con la visita;
+c) Permitir a los verificadores autorizados el acceso a archiveros, registros, archivos, sistemas, equipos de cómputo, discos o cualquier otro medio de tratamiento de datos personales; y
+d) Poner a disposición de los verificadores autorizados, los operadores de los equipos de cómputo o de otros medios de almacenamiento, para que los auxilien en el desarrollo de la visita;
+IV. Los verificadores autorizados podrán obtener copias de los documentos o reproducir, por cualquier medio, documentos, archivos e información generada por medios electrónicos, ópticos o de cualquier otra tecnología, que tengan relación con el procedimiento; y
+V. La persona con quien se hubiese entendido la visita de verificación tendrá derecho de hacer observaciones a los verificadores autorizados durante la práctica de las diligencias, mismas que se harán constar en el acta correspondiente.
+Concluida la visita de verificación, los verificadores autorizados deberán levantar un acta final en la que se deberá hacer constar en forma circunstanciada los hechos u omisiones que hubieren conocido, la cual, en su caso, podrá engrosarse con actas periciales.
+Los hechos u omisiones consignados por los verificadores autorizados en las actas de verificación harán prueba plena de la existencia de tales hechos o de las omisiones encontradas.
+Artículo 144. En las actas de visita de verificación, la Comisión deberá hacer constar lo siguiente:
+I. La denominación del responsable verificado;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+II. La hora, día, mes y año en que se inició y concluyó la diligencia;
+III. Los datos que identifiquen plenamente el lugar en donde se practicó la visita de verificación, tales como calle, número, población o colonia, municipio o delegación, código postal y entidad federativa, así como número telefónico u otra forma de comunicación disponible con el responsable verificado;
+IV. El número y fecha del oficio que ordenó la visita de verificación;
+V. El nombre completo y datos de identificación de los verificadores autorizados;
+VI. El nombre completo de la persona con quien se entendió la diligencia;
+VII. El nombre completo y domicilio de las personas que fungieron como testigos
+VIII. La narración circunstanciada de los hechos relativos a la diligencia;
+IX. La mención de la oportunidad que se da para ejercer el derecho de hacer observaciones durante la práctica de las diligencias; y
+X. El nombre completo y firma de todas las personas que intervinieron en la visita de verificación, incluyendo los verificadores autorizados.
+Si se negara a firmar el responsable verificado, su representante o la persona con quién se entendió la visita de verificación, ello no afectará la validez del acta debiéndose asentar la razón relativa.
+El responsable verificado podrá formular observaciones en la visita de verificación, así como manifestar lo que a su derecho convenga con relación a los hechos contenidos en el acta respectiva, o bien, podrá hacerlo por escrito dentro de los cinco días siguientes a la fecha en que se hubiere realizado la visita de verificación.
+Artículo 145. Para la verificación en instancias de seguridad pública, se requerirá en la resolución, la aprobación, por mayoría calificada de los integrantes de la Comisión; así como de una fundamentación y motivación reforzada de la causa del procedimiento, debiéndose asegurar la información sólo para uso exclusivo de la autoridad y para los fines establecidos en el artículo 151 de la presente Ley.
+Artículo 146.El procedimiento de verificación deberá tener una duración máxima de cincuenta días.
+Artículo 147. La Comisión podrá ordenar medidas cautelares, si del desahogo de la verificación advierten un daño inminente o irreparable en
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura materia de protección de datos personales, siempre y cuando no impidan el cumplimiento de las funciones ni el aseguramiento de bases de datos de los sujetos obligados.
+Estas medidas sólo podrán tener una finalidad correctiva y será temporal hasta entonces los sujetos obligados lleven a cabo las recomendaciones hechas por la Comisión.
+Artículo 148. La aplicación de medidas cautelares no tendrán por efecto:
+I. Dejar sin materia el procedimiento de verificación; o
+II. Eximir al responsable del cumplimiento de las obligaciones previstas en la presente Ley.
+Artículo 149. Si durante el procedimiento de verificación, la Comisión advierte nuevos elementos que pudieran modificar la medida cautelar previamente impuesta, éste deberá notificar al responsable, al menos, con 24 horas de anticipación la modificación a que haya lugar, fundando y motivando su actuación.
+Artículo 150. El titular podrá solicitar a la Comisión la aplicación de medidas cautelares cuando considere que el presunto incumplimiento del responsable a las disposiciones previstas en la presente Ley, le causa un daño inminente o irreparable a su derecho a la protección de datos personales.
+Para tal efecto, la Comisión deberá considerar los elementos ofrecidos por el titular, en su caso, así como aquellos que tenga conocimiento durante la sustanciación del procedimiento de verificación, para determinar la procedencia de la solicitud del titular.
+Artículo 151. El procedimiento de verificación concluirá con la resolución que emita la Comisión, en la cual, se establecerán las medidas que deberá adoptar el responsable en el plazo que la misma determine.
+Artículo 152. En la resolución la Comisión podrá ordenar medidas correctivas para que el responsable las acate en la forma, términos y plazos fijados para tal efecto, así como señalar las medidas de apremio o sanciones para asegurar el cumplimiento de ésta.
+Las resoluciones que emita la Comisión con motivo del procedimiento de verificación, podrán hacerse del conocimiento de la autoridad competente en materia de responsabilidades administrativas.
+Artículo 153. La Comisión podrá llevar a cabo, de oficio, investigaciones previas y verificaciones preventivas, a efecto de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley y demás ordenamientos que se deriven de ésta, de conformidad con las
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura disposiciones previstas en este Capítulo.
+Artículo 154. Los responsables podrán voluntariamente someterse a la realización de auditorías que tengan por objeto verificar la adaptación, adecuación y eficacia de los controles, medidas y mecanismos implementados para el cumplimiento de las disposiciones previstas en la presente Ley y demás normativa que resulte aplicable.
+El informe de auditoría deberá dictaminar sobre la adecuación de las medidas y controles implementados por el responsable, identificar sus deficiencias, así como proponer acciones correctivas complementarias, o bien, recomendaciones que en su caso correspondan.
+Artículo 155. Las auditorias voluntarias a que se refiere el artículo anterior, sólo procederán respecto a los tratamientos de datos personales que el responsable esté llevando a cabo al momento de presentar su solicitud a la Comisión, y que dichos tratamientos se consideren relevantes o intensivos en los términos de la presente Ley.
+En ningún caso, las auditorías voluntarias podrán equipararse a la manifestación de impacto a la protección de datos personales a que se refiere la presente Ley.
+Artículo 156. Las auditorías voluntarias a que se refiere la presente Ley no procederán cuando, la Comisión tenga conocimiento de una denuncia, o bien, esté sustanciando un procedimiento de verificación relacionado con el mismo tratamiento de datos personales que se pretende someter a este tipo de auditorías.
+TÍTULO DÉCIMO PRIMERO MEDIDAS DE APREMIO Y RESPONSABILIDADES Capítulo I De las Medidas de Apremio
+Artículo 157. Para el cumplimiento de las resoluciones se deberá observar lo dispuesto en el Título Octavo, Capítulo IV de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
+Artículo 158. La Comisión podrá imponer las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+I. La amonestación pública; y
+II. La multa, equivalente a la cantidad de ciento cincuenta hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura El incumplimiento de los sujetos obligados será difundido en los portales de obligaciones de transparencia de la Comisión y considerados en las evaluaciones que realicen éstos.
+En caso de que el incumplimiento de las determinaciones de la Comisión implique la presunta comisión de un delito, este deberá denunciar los hechos ante la autoridad competente.
+Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+Artículo 159. Si a pesar de la ejecución de las medidas de apremio previstas en el artículo 158 de esta Ley no se cumpliere con la resolución, se requerirá el cumplimiento al superior jerárquico para que en el plazo de cinco días lo obligue a cumplir sin demora.
+De persistir el incumplimiento, se aplicarán sobre aquéllas medidas de apremio establecidas en el artículo anterior. Transcurrido el plazo, sin que se haya dado cumplimiento, se dará vista a la autoridad competente en materia de responsabilidades.
+Artículo 160. Las medidas de apremio a que se refiere el presente Capítulo, deberán ser aplicadas por la Comisión por sí misma, o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las leyes respectivas.
+Artículo 161. Las multas que fije la Comisión se harán efectivas por la Secretaría de Finanzas y Tesorería General del Estado a través de los procedimientos que las leyes establezcan.
+Artículo 162. Para calificar las medidas de apremio establecidas en el presente Capítulo, la Comisión deberá considerar:
+I. La gravedad de la falta del responsable, determinada por elementos tales como el daño causado; los indicios de intencionalidad; la duración del incumplimiento de las determinaciones emitidas por la Comisión y la afectación al ejercicio de sus atribuciones;
+II. La condición económica del infractor; y
+III. La reincidencia.
+La Comisión establecerá mediante lineamientos de carácter general, las atribuciones de las áreas encargadas de calificar la gravedad de la falta de observancia a sus determinaciones y de la notificación y ejecución de las medidas de apremio que apliquen e implementen, conforme a los elementos desarrollados en este Capítulo.
+Artículo 163. En caso de reincidencia, la Comisión podrá imponer una
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura multa equivalente hasta el doble de la que se hubiera determinado.
+Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
+Artículo 164. Las medidas de apremio deberán aplicarse e implementarse en un plazo máximo de quince días, contados a partir de que sea notificada la medida de apremio al infractor.
+Artículo 165. La amonestación pública será impuesta por la Comisión y será ejecutada por el superior jerárquico inmediato del infractor con el que se relacione.
+Artículo 166. La Comisión podrá requerir al infractor la información necesaria para determinar su condición económica, apercibido de que en caso de no proporcionar la misma, las multas se cuantificarán con base a los elementos que se tengan a disposición, entendidos como los que se encuentren en los registros públicos, los que contengan medios de información o sus propias páginas de Internet y, en general, cualquiera que evidencie su condición, quedando facultada para requerir aquella documentación que se considere indispensable para tal efecto a las autoridades competentes.
+Artículo 167. En contra de la imposición de medidas de apremio, procede el recurso correspondiente ante el Poder Judicial de la Federación.
+Artículo 168. En caso que, del contenido de las actuaciones y constancias de los procedimientos ventilados ante la Comisión, se advierta la presunta comisión de delitos y éstos se persigan de oficio, se deberá dar el aviso correspondiente al ministerio público, remitiéndole copia de las constancias conducentes.
+Artículo 169. En caso de que el incumplimiento de las determinaciones de la Comisión implique la presunta comisión de un delito, éste deberá denunciar los hechos ante la autoridad competente.
+Capítulo II De las Sanciones
+Artículo 170. Serán causa de sanción por incumplimiento de las obligaciones establecidas en la materia de la presente Ley, las siguientes:
+I. Por omitir publicar o poner a disposición de los titulares, el aviso de privacidad, ya sea total o parcialmente, tanto el integral como el simplificado;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+II. Por no inscribir oportunamente las bases de datos personales, en el registro que para tal efecto lleva la Comisión;
+III. Por declarar con dolo, negligencia o mala fe, la inexistencia de datos personales, cuando éstos existan total o parcialmente en sus archivos;
+IV. Por no dar respuesta oportuna a las solicitudes de ejercicios de derechos ARCO, o bien, por no comunicar al titular del dato la falta de competencia del sujeto obligado;
+V. Por entregar información relativa a datos personales, de manera errónea o incompleta, requerida en una solicitud de protección de datos personales;
+VI. Por actuar con negligencia, dolo o mala fe, en la debida sustanciación de las solicitudes de derechos ARCO;
+VII. Por no rendir, en tiempo y forma, contestación a un recurso de revisión interpuesto en el ejercicio de los derechos de protección de datos personales;
+VIII. Por invocar falsas causales para la prórroga o ampliación del plazo para contestar solicitudes que supongan negligencia o descuido;
+IX. Por el incumplimiento a los principios previstos en esta Ley;
+“X. Por incumplir con el deber de ”secreto y” confidencialidad a que está obligado;
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+XI. Por transgredir las medidas de protección y confidencialidad a que se refiere la presente Ley;
+XII. Por cambiar sustancialmente la finalidad originaria del tratamiento de datos personales;
+XIII. Llevar a cabo la transferencia de datos personales, en contravención a lo previsto en la presente Ley;
+XIV. Por mantener datos de carácter personal inexactos, siempre que resulte imputable a los sujetos obligados, al no efectuar las rectificaciones o cancelaciones de los mismos;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura XV. Por incumplir las medidas de seguridad y protección de las bases de datos personales determinados en la presente Ley, y en los lineamientos expedidos por la Comisión;
+XVI. Por impedir, obstaculizar o negar indebidamente el ejercicio de los derechos relativos a la protección de los datos personales;
+XVII. No atender las medidas cautelares establecidas por la Comisión;
+XVIII. Por clasificar o confirmar, como tal, indebidamente datos personales, con dolo, negligencia o mala fe, cuando no cumpla con las características que señala esta Ley, o la Ley de Transparencia y Acceso a la Información Pública del Estado. Esta causal solo procederá cuando exista una resolución previa de la Comisión, respecto del criterio de clasificación;
+XIX. Por usar, crear, transmitir, tratar, usar, sustraer, destruir, ocultar, inutilizar, divulgar, mutilar, alterar o modificar total o parcialmente de manera indebida, datos personales a los cuales tenga acceso, o bien, se encuentren bajo su custodia o posesión;
+XX. Omitir la entrega del informe anual y demás informes a que se refiere el artículo 57, fracción VII de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León, o bien, entregar el mismo de manera extemporánea;
+XXI. Dar tratamiento, de manera intencional, a los datos personales en contravención a los principios y deberes establecidos en la presente Ley;
+XXII. Por facilitar a terceros, datos personales que obre en sus archivos o sistemas de datos personales, sin la existencia debida del contrato de transmisión;
+XXIII. Por la planeación de cualquier acto que implique la indebida comunicación de datos personales de las bases de datos personales por cualquier medio, con fines de lucro indebido;
+XXIV. Crear bases de datos personales en contravención a lo dispuesto por el artículo 7 de la presente Ley;
+XXV. Por no proporcionar oportunamente la información que solicite la Comisión, en el ejercicio de sus competencias legales;
+XXVI. Por impedir u obstaculizar de cualquier forma, el ejercicio de las facultades de protección de datos personales de la Comisión;
+XXVII. Por incumplir u obstaculizar de cualquier forma, el cumplimiento de las resoluciones emitidas por la Comisión;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura XXVIII. Por no cesar en el uso ilegitimo o ilícito de los tratamientos de datos personales, a pesar de habérsele requerido por parte de la Comisión;
+XXIX. Por la comunicación de datos personales considerados confidenciales, en el caso de archivos de seguridad pública, o de orden fiscal, judicial o de salud;
+XXX. Presentar vulneraciones a los datos personales por la falta de implementación de medidas de seguridad según los artículos 36, 37 y 38 de la presente Ley;
+XXXI. Realizar actos para intimidar o inhibir a los titulares en el ejercicio de los derechos ARCO; y
+XXXII. No acatar las resoluciones emitidas por la Comisión;
+“Artículo 171. Las causas de responsabilidad previstas en las fracciones I, II, III, V, VII, VIII, IX y X son consideradas leves; las fracciones XI, XII, XIV, XV, XVI, XVII y XIX son consideradas graves; y las fracciones IV, VI, XIII, XVIII, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI y XXXII, son consideradas muy graves para efectos de la sanción.
+En caso de que la presunta infracción hubiere sido cometida por algún integrante de un partido político, la investigación y, en su caso, sanción, corresponderá a la autoridad electoral competente. Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+Artículo 172. Para las conductas a que se refiere el artículo anterior se dará vista a la autoridad competente para que imponga o ejecute la sanción.
+Artículo 173. Las responsabilidades que resulten de los procedimientos administrativos correspondientes, derivados de la violación a lo dispuesto por el artículo 170 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
+La Comisión podrá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+Artículo 174. Ante incumplimientos por parte de los partidos políticos, la Comisión, dará vista, a la Comisión Estatal Electoral, para que investiguen, resuelvan y, en su caso, sancionen lo conducente, sin perjuicio de las sanciones establecidas para los partidos políticos.
+En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, la Comisión, deberá dar vista al órgano interno de control del sujeto obligado relacionado con éstos, cuando sean servidores públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
+Artículo175. En aquellos casos en que el presunto infractor tenga la calidad de servidor público, la Comisión deberá remitir a la autoridad competente, junto con la denuncia correspondiente, un Expediente en que se contengan todos los elementos que sustenten la presunta responsabilidad administrativa.
+La autoridad que conozca del asunto, deberá informar de la conclusión del procedimiento y, en su caso, de la ejecución de la sanción a la Comisión.
+A efecto de sustanciar el procedimiento citado en este artículo, la Comisión, deberá elaborar una denuncia dirigida al Órgano interno de control o equivalente, con la descripción precisa de los actos u omisiones que, repercuten en la adecuada aplicación de la presente Ley y que constituyen una responsabilidad.
+Asimismo, deberá elaborar un expediente que contenga todos aquellos elementos de prueba que considere pertinentes para sustentar la existencia entre los hechos controvertidos y las pruebas presentadas.
+La denuncia y el Expediente deberán remitirse al Órgano interno de control o equivalente dentro de los quince días siguientes a partir de que la Comisión tenga conocimiento de los hechos.
+Artículo 176. En caso de que el incumplimiento de las determinaciones de la Comisión implique la presunta comisión de un delito, éste deberá denunciar los hechos ante la autoridad competente.
+“Artículo 177. La Comisión podrá imponer las siguientes sanciones económicas al responsable, de conformidad con la gravedad de la infracción que haya cometido, de la siguiente manera:”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+I. Las infracciones señaladas como leves, serán sancionadas con multa de 100 a 500 veces el valor diario de la Unidad de Medida y Actualización;
+II. Las infracciones señaladas como graves, serán sancionadas con multa de 501 A 1,000 veces el valor diario de la Unidad de Medida y Actualización; y
+III. Las infracciones señaladas como muy graves serán sancionas con multa de 1,001 a 10,000 veces el valor diario de la Unidad de Medida y Actualización.
+“Artículo 178. Toda multa o sanción de carácter económico impuesta por la Comisión, se entenderá a cargo del patrimonio personal del servidor público sancionado, en ningún caso podrá cubrirse el importe de la misma con recursos provenientes del erario, sujetándose, en su caso, a lo siguiente:
+I.- En caso de reincidencia o desacato a una resolución, la Comisión podrá solicitar al superior jerárquico del servidor público responsable o a las autoridades competentes;
+a) El inicio del procedimiento de separación temporal del responsable, hasta por seis meses;
+b) La separación definitiva del responsable; o
+c) La inhabilitación del cargo del servidor público, hasta por cinco años, de conformidad con los procedimientos establecidos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León. En caso de que el incumplimiento sea realizado por autoridad que goce de fuero constitucional, se procederá en los términos que señale la ley de la materia.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+“Artículo 179. Las sanciones se aplicarán de conformidad con los siguientes criterios:
+I. La naturaleza del dato;
+II. La capacidad económica del responsable;
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura
+III. La gravedad de la falta cometida;
+IV. La reincidencia;
+V. El carácter intencional o no, de la acción u omisión constitutiva de la infracción; y
+VI. El monto del beneficio indebido, el daño o perjuicio económico derivado del incumplimiento.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+Artículo 180. La Comisión podrá presentar denuncias ante las autoridades competentes por cualquier conducta prevista en el presente capítulo y aportar las pruebas que considere pertinentes.
+“Artículo 181. La Comisión remitirá, mediante oficio dirigido a la Secretaría de Finanzas y Tesorería General del Estado, las sanciones impuestas a los sujetos obligados, las cuales tendrán el carácter de créditos fiscales, para efecto que lleve a cabo el procedimiento administrativo de ejecución, la cual estará obligada a presentar informes mensuales del estado que guarda la ejecución de las multas a la Comisión.”
+*N. de E. La porción normativa entrecomillada fue declarada inválida en sesión celebrada en fecha 23 de mayo de 2023, por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 3/2020.
+TRANSITORIOS
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Segundo. Se derogan todas aquellas disposiciones en materia de protección de datos personales, que contravengan lo dispuesto por la presente Ley.
+Tercero. La Comisión en un plazo de noventa días naturales deberá emitir los lineamientos a que se refiere esta Ley y publicarlos en el Periódico Oficial del Estado.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura Cuarto. El Sistema Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales deberá emitir el Programa Estatal de Protección de Datos Personales a que se refiere esta Ley y publicarlo en el Periódico Oficial del Estado, a más tardar dentro de un año a partir de la entrada en vigor del presente Decreto, independientemente del ejercicio de otras atribuciones que se desprenden de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
+Quinto. Las solicitudes presentadas, así como los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las autoridades que los hubieren iniciado
+Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los seis días del mes de noviembre de dos mil diecinueve.
+PRESIDENTE: DIP. JUAN CARLOS RUÍZ GARCÍA; PRIMERA SECRETARIA: DIP. ALEJANDRA LARA MAIZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTTI VILLARREAL.- Rúbricas.-
+Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 14 de noviembre de 2019.
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN JAIME HELIDORO RODRÍGUEZ CALDERÓN. -RÚBRICA
+EL C. SECRETARIO GENERAL DE GOBIERNO MANUEL FLORENTINO GONZÁLEZ FLORES. -RÚBRICA
+EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO CARLOS ALBERTO GARZA IBARRA. -RÚBRICA.
+ENCARGADO DEL DESPACHO DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL
+GERARDO GUAJARDO CANTÚ.- RÚBRICA.
+“2019, AÑO DE LA LUCHA CONTRA LA VIOLENCIA HACIA LAS MUJERES”
+Decreto Núm. 193 expedido por la LXXV Legislatura N. de E.: A continuación, se transcriben los Resolutivos Tercero y Cuarto, de la Acción de Inconstitucionalidad 3/2020, dictada por el Tribunal en Pleno de la Suprema Corte de Justicia de la Nación en fecha 23 de mayo de 2023.
+“… TERCERO. Se declara la invalidez de los artículos 3, fracción XXIX, 12, 14 fracción XV, 27, párrafo cuarto, 68, párrafo tercero, 90, 100, párrafos primero, en su porción normativa “y del Comité de Transparencia”, y segundo, 105, fracciones XXIII y XXV, 119, fracción V, 170, fracción X, en su porción normativa “secreto y”, 171, 177, 178, 179 y 181 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León, expedida mediante el DECRETO NÚM. 193, publicado en el periódico oficial de dicha entidad federativa el once de diciembre de dos mil diecinueve, en atención a lo previsto en el apartado V de esta determinación.
+CUARTO. Se declara la invalidez, por extensión, del artículo 14 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León, expedida mediante el DECRETO NÚM. 193, publicado en el periódico oficial de dicha entidad federativa el once de diciembre de dos mil diecinueve, por las razones expuestas en el apartado VI de esta ejecutoria…”

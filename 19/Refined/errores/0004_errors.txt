@@ -1,0 +1,13 @@
+Errores y advertencias para: 0004.txt
+==================================================
+
+Ubicación: line 720
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 235 a 326
+Línea: Artículo 326 (sic).- Todas las pruebas, salvo los casos especificados en la ley, podrán recibirse con asistencia de las partes.
+------------------------------
+Ubicación: line 1992
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 804 a 825
+Línea: Artículo 825 (sic).- La tercera sección se llamará de administración y contendrá:
+------------------------------

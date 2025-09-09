@@ -1,0 +1,32 @@
+{
+  "n_chapters": 18,
+  "n_perm_articles": 54,
+  "n_perm_fracciones": 184,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único Objeto y Definiciones",
+    "Capítulo Primero Atribuciones",
+    "Capítulo Segundo Organización",
+    "Sección Primera Junta de Gobierno",
+    "Sección Segunda Coordinación General",
+    "Sección Tercera Centros de Justicia para las Mujeres",
+    "Sección Cuarta Órgano Interno de Control",
+    "Capítulo Tercero Del Patrimonio",
+    "Capítulo Cuarto Del Régimen Laboral",
+    "Capítulo Único De las Instancias que brindan Atención Integral en los Centros de Justicia para las Mujeres, regionales o municipales",
+    "Sección Primera Secretaría de Igualdad Sustantiva entre Mujeres y Hombres",
+    "Sección Quinta Secretaría de Desarrollo Económico",
+    "Sección Novena Instituto Jalisciense de Ciencias Forenses",
+    "Sección Décima Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de Jalisco",
+    "Sección Décima Cuarta Procuraduría de Protección de Niñas, Niños y Adolescentes",
+    "Sección Décima Quinta Colaboración con instituciones públicas o privadas",
+    "Capítulo Primero De las Organizaciones de la Sociedad Civil",
+    "Capítulo Segundo De la Asamblea Participativa"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8,
+    "SECCIÓN": 10
+  }
+}

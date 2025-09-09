@@ -1,0 +1,25 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 103,
+  "n_trans_caps": 1,
+  "n_trans_articles": 14,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Del Sistema de Información Estratégica del Estado de Jalisco y sus Municipios",
+    "Capítulo III Atribuciones del Instituto",
+    "Capítulo IV Patrimonio del Instituto",
+    "Sección Primera Disposiciones generales",
+    "Sección Segunda Junta de Gobierno",
+    "Sección Tercera Director General",
+    "Sección Cuarta Consejo Consultivo",
+    "Sección Primera Del Órgano Interno de Control",
+    "Sección Segunda De las relaciones laborales",
+    "Sección Tercera De la Extinción del Instituto"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4,
+    "SECCIÓN": 7
+  }
+}

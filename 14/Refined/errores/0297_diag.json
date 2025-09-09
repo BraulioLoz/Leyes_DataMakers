@@ -1,0 +1,26 @@
+{
+  "n_chapters": 13,
+  "n_perm_articles": 63,
+  "n_perm_fracciones": 145,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPITULO I Disposiciones Generales",
+    "CAPITULO II De los Usuarios de los Servicios de los Centros de Atención Infantil",
+    "CAPITULO III De la Distribución de Competencias",
+    "CAPÍTULO IV De la Política Estatal",
+    "CAPITULO V Del Consejo Estatal",
+    "CAPITULO VI De las Atribuciones, objeto y fines",
+    "CAPITULO VII Del Registro Estatal y las modalidades y tipos de los Centros de Atención",
+    "CAPITULO VIII De las Medidas de Seguridad y Protección Civil",
+    "CAPITULO IX De las Autorizaciones",
+    "CAPITULO X De la Capacitación y Certificación",
+    "CAPITULO XI De la Inspección y Vigilancia",
+    "CAPITULO XII De las Medidas Precautorias",
+    "CAPITULO XIII De las Infracciones y Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 13
+  }
+}

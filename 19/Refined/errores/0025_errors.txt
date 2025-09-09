@@ -1,0 +1,8 @@
+Errores y advertencias para: 0025.txt
+==================================================
+
+Ubicación: line 180
+Tipo: warning
+Mensaje: Titulo sin sufijo válido (línea ignorada)
+Línea: título profesional; que en ningún caso excederá de un tanto más del importe de los derechos que se pagan por el servicio establecido en el artículo 185 fracción IV de la Ley Federal de Derechos;
+------------------------------

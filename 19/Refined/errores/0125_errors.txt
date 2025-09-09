@@ -1,0 +1,18 @@
+Errores y advertencias para: 0125.txt
+==================================================
+
+Ubicación: line 240
+Tipo: warning
+Mensaje: Titulo sin sufijo válido (línea ignorada)
+Línea: Título Designación
+------------------------------
+Ubicación: line 480
+Tipo: warning
+Mensaje: Capitulo sin sufijo válido (línea ignorada)
+Línea: Capítulo Designación 01. Muestreo de materiales pétreos para mezclas asfálticas M·MMP·4·04·001/02 02. Granulometría de materiales pétreos para mezclas asfálticas M·MMP·4·04·002/02
+------------------------------
+Ubicación: line 536
+Tipo: warning
+Mensaje: Capitulo sin sufijo válido (línea ignorada)
+Línea: Capítulo Designación 001. Muestreo de materiales asfálticos M·MMP·4·05·001/00 002. Viscosidad dinámica de cementos y residuos asfálticos M·MMP·4·05·002/02 003. Viscosidad cinemática de cementos asfálticos M·MMP·4·05·003/02 004. Viscosidad saybolt-furol en materiales asfálticos M·MMP·4·05·004/00 005. Viscosidad rotacional brookfield de cementos asfálticos M·MMP·4·05·005/02 006. Penetración en cementos y residuos asfálticos M·MMP·4·05·006/00 007. Punto de inflamación cleveland en cementos asfálticos M·MMP·4·05·007/00 008. Solubilidad de cementos y residuos asfálticos M·MMP·4·05·008/00 009. Punto de reblandecimiento en cementos asfálticos M·MMP·4·05·009/00 010. ebas en el residuo de la película delgada de cementos asfálticos M·MMP·4·05·010/02 011. Ductilidad de cementos y residuos asfálticos M·MMP·4·05·011/00 012. Destilación de emulsiones asfálticas M·MMP·4·05·012/00 013. Asentamiento de emulsiones asfálticas M·MMP·4·05·013/02 014. Retenido en las mallas N°20 y N°60 en emulsiones asfálticas M·MMP·4·05·014/02 015. Cubrimiento del agregado en emulsiones asfálticas M·MMP·4·05·015/00 016. Miscibilidad con cemento pórtland de emulsiones asfálticas M·MMP·4·05·016/00 017. Carga eléctrica de las partículas de emulsiones asfálticas M·MMP·4·05·017/00 018. Demulsibilidad de emulsiones asfálticas M·MMP·4·05·018/00 019. Índice de ruptura de emulsiones asfálticas catiónicas M·MMP·4·05·019/02 020. Punto de inflamación tag en asfaltos rebajados M·MMP·4·05·020/02 021. Destilación de asfaltos rebajados M·MMP·4·05·021/02
+------------------------------

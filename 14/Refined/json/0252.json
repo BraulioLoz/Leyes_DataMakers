@@ -1,0 +1,575 @@
+{
+  "0252.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 28500/LXII/21 EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": 2021,
+    "Título": "LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE COINVERSIÓN PARA EL DESARROLLO SOSTENIBLE DE JALISCO (COINVIERTE)",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo Único Objeto y definiciones",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "1. La presente Ley Orgánica tiene por objeto regular la organización y el funcionamiento del organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco (COINVIERTE).",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "1. Para los efectos de esta Ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirección General: La Dirección General del Organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Junta de Gobierno: El órgano máximo de decisión del Organismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ley: La Ley Orgánica del Organismo Público Descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco (COINVIERTE);"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Organismo: El organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco (COINVIERTE); y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Reglamento: El Reglamento que emita la Junta de Gobierno."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "1. La Agencia de Coinversión para el Desarrollo Sostenible de Jalisco (COINVIERTE), es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios, cuyo objeto es la administración, operación y distribución de recursos e inmuebles propiedad del Organismo para propiciar, promover, planear, diseñar y ejecutar planes y proyectos estratégicos en los sectores: agropecuario, agroindustrial, industrial, energético,\ncomercial, turístico y de servicios públicos y privados, encaminados al fomento económico, social y ambiental de impacto metropolitano y regional para el desarrollo sostenible del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "1. El Organismo tendrá su domicilio oficial en el Área Metropolitana de Guadalajara, sin perjuicio de que podrá establecer oficinas en otras regiones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Atribuciones",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "1. El Organismo tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fomentar y promover el desarrollo regional sostenible;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover, planear, diseñar y ejecutar toda clase de planes y proyectos estratégicos que le sean autorizados por la Junta de Gobierno, en los sectores: agropecuario, agroindustrial, industrial, energético, comercial, turístico y de servicios, públicos y privados, encaminados al fomento económico, social y ambiental de impacto metropolitano y regional;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinar las actividades relativas a la integración, seguimiento, control y evaluación de los proyectos estratégicos del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Participar en forma conjunta con los tres órdenes de gobierno involucrados, conforme a las disposiciones legales y los respectivos convenios de coordinación, en la formulación, aprobación, ejecución, control, evaluación y revisión de los planes y proyectos regionales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Procurar la coherencia entre los proyectos estratégicos y los instrumentos de planeación del desarrollo del Estado y el ordenamiento territorial de esta entidad federativa, de conformidad con la legislación aplicable;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Participar en esquemas de inversión conjunta con los sectores social, privado y gubernamental para el financiamiento y realización de proyectos de fomento, fortalecimiento y ampliación de infraestructura y equipamiento, industrial, comercial, turístico, agroindustrial y de servicios, así como energía y cualquier sector productivo; para el desarrollo de infraestructura si fuera el caso, el organismo deberá conveniar con la Secretaría de Infraestructura y Obra pública para su ejecución;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Adquirir, enajenar, donar, administrar y arrendar bienes muebles e inmuebles cuando así convenga al objeto del organismo y así lo apruebe su Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Realizar y/o contratar los estudios técnicos justificativos y de soporte de análisis social, económico y territorial; de costo eficiencia y costo-beneficio; de impacto social, económico, urbano y ambiental que resulten necesarios; así como de las actividades de investigación y capacitación para la planeación, preparación, promoción y gestión de proyectos estratégicos para el desarrollo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Realizar y/o contratar estudios necesarios para el diseño, ejecución y operación de proyectos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinarse y/o celebrar convenios de colaboración técnica con dependencias, organismos y entidades públicas, instituciones académicas y con los sectores social y privado, nacionales o extranjeros;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Realizar acciones necesarias tendientes a la obtención de recursos;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Celebrar convenios, contratos y en general toda clase de instrumentos jurídicos y financieros, así como los necesarios para su participación en fondos de objeto público y privado;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Diseñar y ejecutar programas especiales de apoyo económico para atender las necesidades de los sectores productivos ante situaciones de emergencia o catástrofes naturales en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Diseñar y ejecutar programas específicos de apoyo económico para detonar la demanda de sectores productivos con alto impacto social y/o económico en el Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás que le confieran otras disposiciones legales o reglamentarias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Organización del Organismo",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "1. El Organismo contará con la siguiente estructura orgánica:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dirección General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La estructura administrativa, técnica y de operación que establezca su Reglamento Interno de conformidad con su presupuesto; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Órgano Interno de Control."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "1. La estructura administrativa y demás personal técnico y operativo del Organismo se conformará en los términos que establezca su Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección I De la Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "1. La Junta de Gobierno, será el máximo órgano de gobierno y estará integrada por los siguientes miembros y sus respectivos suplentes, quienes tendrán derecho a voz y voto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una Presidencia que será designada por el titular del Poder Ejecutivo del Estado de entre cualquiera de las tres personas representantes de la sociedad civil integrantes de la Junta de Gobierno, quien tendrá voto de calidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Una Secretaría Técnica que será la Dirección General, quien participará únicamente con derecho a voz;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las personas titulares, o sus representantes debidamente acreditados, de cada una de las siguientes dependencias del Poder Ejecutivo del Estado de Jalisco:\na) Secretaría de la Hacienda Pública;\nb) Coordinación General Estratégica de Crecimiento y Desarrollo Económico;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Coordinación General Estratégica de Desarrollo Social;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Coordinación General Estratégica de Gestión Integral del Territorio;\ne) Coordinación General Estratégica de Seguridad; y\nf) La Contraloría del Estado, quien participará únicamente con derecho a voz."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Tres representantes de la sociedad civil que serán designados por el Titular del Ejecutivo del Estado.\n2. La Junta de Gobierno podrá invitar además, con derecho a voz, a los representantes de los diversos sectores público y privado que considere oportuno.\n3. Los cargos como integrante de la Junta de Gobierno del Organismo son honoríficos, y por tanto no remunerados."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "1. La Junta de Gobierno sesionará en los términos que disponga su Reglamento.\n2. En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación será en tiempo real para propiciar la correcta deliberación de las ideas y asuntos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobados se acredita con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "1. La Junta de Gobierno cuenta con las siguientes facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fungir como órgano de gobierno del Organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar el Estatuto Orgánico o reglamento interno del Organismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar el anteproyecto de Presupuesto de Egresos del Organismo, su plantilla de personal y el clasificador por objeto del gasto;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprobar el Plan Institucional y los programas operativos anuales del Organismo, y los demás instrumentos de planeación y programación que le correspondan;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo, de acuerdo con el programa sectorial;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar las políticas, bases y lineamientos generales para la contratación de servicios, adquisiciones, arrendamientos y otros rubros similares, conforme a la ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aprobar la constitución de órganos auxiliares de apoyo del Organismo no contemplados en la ley, decreto de creación, Estatuto Orgánico o Reglamento Interno; los que en ningún caso tendrán autonomía administrativa, financiera o presupuestal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Aprobar anualmente, previo informe del Órgano Interno de Control, los dictámenes de las auditorías practicadas, los estados financieros del Organismo y autorizar la publicación de los mismos;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Aprobar la suscripción de los actos jurídicos a nombre del Organismo, que afecten su patrimonio, constituyan deuda o trascienden el periodo constitucional del Gobernador del Estado en turno, sin perjuicio de la autorización que corresponda al Congreso del Estado, en su caso;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aprobar la celebración de los contratos y convenios de los que el Organismo sea parte;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Enviar proyectos de leyes, reglamentos o decretos al Gobernador del Estado, en las materias de su competencia, para su consideración;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Recibir y conocer los informes internos que presenten los encargados de los órganos y unidades administrativas del Organismo;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Conocer de las quejas y denuncias que se presenten en contra del titular del Organismo;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Nombrar y remover al personal del Organismo, a propuesta de la persona titular de la Dirección General, conforme a las disposiciones legales y reglamentarias aplicables;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Proponer al Gobernador del Estado, por conducto de la Secretaría de la Hacienda Pública, y de las dependencias coordinadoras de sector correspondientes, los proyectos de escisión o de convenios de fusión con otras Entidades;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Proponer a la Secretaría de la Hacienda Pública la constitución de reservas y su aplicación, en caso de excedentes económicos del Organismo;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Aprobar los informes periódicos que rinda la Dirección General;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Aprobar las bases para cancelar adeudos a cargo de terceros y a favor del Organismo cuando sea notoria la imposibilidad práctica de su cobro e informar a la Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Controlar y evaluar la forma en que los objetivos del Organismo sean alcanzados y la manera en que las estrategias básicas sean conducidas;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Atender los informes sobre control y auditoría que le remita el órgano interno de control;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Vigilar la imposición de las medidas correctivas a que haya lugar;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Implementar las políticas, lineamientos, acuerdos y demás disposiciones emitidas por la dependencia a la que se encuentre sectorizado, así como remitirle la información que le sea requerida; y"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Las demás que establezcan otras disposiciones legales o reglamentarias aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección II De la Dirección General",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "1. La titularidad del organismo recae en la persona titular de la Dirección General, que es designada y removida libremente por el Gobernador del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "1. Para ser titular de la Dirección General se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener nacionalidad mexicana, en ejercicio de sus derechos civiles y políticos; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con título profesional preferentemente en la materia que se trate o acreditar experiencia en la misma al momento de su designación."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "1. La persona titular de la Dirección General tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fungir como órgano ejecutivo del Organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar legalmente al Organismo, para lo cual podrá:\na) Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;\nb) Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Formular querellas y otorgar perdón;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Ejercitar y desistirse de acciones jurisdiccionales estatales y federales;\ne) Comprometer asuntos en arbitraje y celebrar transacciones; y\nf) Otorgar, sustituir y revocar poderes generales y especiales con las facultades que les competan."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Administrar los recursos financieros, humanos y materiales del Organismo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ejecutar los acuerdos de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular el Plan Institucional, los programas operativos anuales y los demás instrumentos de planeación y programación del Organismo y proponerlos a la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Formular el proyecto de Presupuesto de Egresos del Organismo, junto con su plantilla de personal y el clasificador por objeto del gasto y proponerlos a la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer para su nombramiento a las y los funcionarios públicos del nivel inmediato inferior al suyo;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer las medidas y mecanismos que aseguren la calidad, eficacia y eficiencia en la operación del Organismo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Diseñar y operar mecanismos de evaluación de la eficiencia y eficacia del desempeño del Organismo y presentar a la Junta de Gobierno un informe semestral de los resultados obtenidos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Establecer y operar los sistemas de control necesarios para alcanzar las metas u objetivos propuestos en los planes y programas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Recabar, organizar y publicar información estadística sobre el desempeño del Organismo;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Elaborar y presentar a la Junta de Gobierno un informe trimestral del avance en las metas y objetivos de los planes y programas del Organismo y de la gestión financiera y administrativa del mismo, sin perjuicio de los informes especiales que le requiera la Junta de Gobierno en cualquier tiempo;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Suscribir en su caso, los contratos colectivos e individuales de trabajo del Organismo con sus trabajadores;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Proponer al presidente de la Junta de Gobierno la celebración de reuniones o sesiones extraordinarias cuando existan asuntos que así lo ameriten;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Definir las políticas de instrumentación de los sistemas de control y evaluación que sean necesarios;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Tomar las acciones correspondientes para corregir las deficiencias que se detecten y presentar a la Junta de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control y evaluación, su funcionamiento y programas de mejoramiento; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las demás que establezcan otras disposiciones legales o reglamentarias aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección III Del Órgano Interno de Control",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "1. El Organismo tendrá un Órgano Interno de Control en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.\n2. El funcionamiento y atribuciones de dicho Órgano se sujetarán a las disposiciones que determine la Contraloría del Estado, tomando como ejes rectores los principios de transparencia, máxima publicidad, austeridad, disciplina financiera, rendición de cuentas y respecto a los derechos humanos.\n3. La estructura del citado Órgano será determinada por la Junta de Gobierno, conforme a la disponibilidad presupuestaria y en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como atendiendo a las recomendaciones que en su caso emita el Comité Coordinador del Sistema Estatal Anticorrupción sobre el Fortalecimiento Institucional de los Órganos Internos de Control.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Del Patrimonio",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "1. El Patrimonio del Organismo se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes inmuebles y muebles que le asigne el Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las aportaciones en numerario, servicios y subsidios que proporcione el Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones que perciba conforme a los convenios o contratos que celebre;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los productos que obtenga por la prestación de sus servicios, las cantidades y comisiones que obtenga por los servicios que preste, las cuales se determinarán por la Junta de Gobierno, conforme a las disposiciones aplicables;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los bienes y derechos que adquiera por cualquier título;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los rendimientos que obtenga de la inversión de sus recursos, salvo aquellos que tenga que devolver o reintegrar por mandato legal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "1. Los ingresos que con motivo de sus actividades obtenga el Organismo deberán destinarse para satisfacer cabalmente las necesidades operativas que le permitan subsistir y garantizar la consecución de su objeto, buscando en todo momento su óptimo funcionamiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Régimen Laboral",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "1. El régimen laboral de los trabajadores al servicio del Organismo, se regirá conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Las funciones del órgano auxiliar denominado Agencia de Proyectos Estratégicos y del organismo público descentralizado denominado Consejo Estatal de Promoción Económica serán asumidas por el organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.\nLos asuntos en trámite ante los entes que se extinguen, pasarán a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado, con excepción de aquéllos que se encuentren en litigio o controversia y el Consejo sea parte o hubiese sido señalado como autoridad responsable.\nEl Poder Ejecutivo, a través de las Secretarías de Desarrollo Económico, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras, presupuestales y operativas necesarias para que los servicios y funciones de los entes que se extinguen se presten en forma ininterrumpida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración designe liquidador de los entes que se extinguen, facultándolo para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.\nEl liquidador que sea designado intervendrá de inmediato para tomar el control y disponer del patrimonio de dichos entes, sin perjuicio de que adopte las medidas jurídicas, administrativas, financieras y operativas para que los servicios y funciones se presten en forma ininterrumpida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Las facultades, derechos y obligaciones establecidos a cargo de los entes que se extinguen, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales o de las que se encuentren en litigio y/o controversia, serán asumidas por el organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los recursos económicos y materiales, así como los derechos, valores, fondos, bienes muebles, bienes inmuebles y obligaciones de los entes que se extinguen pasarán al organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, con excepción de los necesarios para garantizar el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación y los que se encuentren en litigio y/o controversia respecto de los cuales el liquidador tendrá representación jurídica de los mismos y una vez que exista sentencia firme o se encuentren libres de controversia pasarán al organismo público descentralizado denominado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO\nTRANSITORIO del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1º de enero al 31 de diciembre del año 2021.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Las relaciones laborales que tengan los entes que se extinguen con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaria de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar los entes que se extinguen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "La Contraloría del Estado deberá realizar una auditoría a los entes que se extinguen, y en caso de encontrar alguna probable responsabilidad, procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "Todos aquellos convenios, contratos, trámites, autorizaciones y demás actos vigentes, iniciados con base en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco que regulaba a la Agencia de Proyectos Estratégicos, así como los artículos de la Ley para el Desarrollo Económico del Estado de Jalisco, que regulaba al Consejo Estatal de Promoción Económica, se sujetarán a lo previsto en los mismos y a las disposiciones conforme a las cuales se hayan celebrado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "El organismo público descentralizado Agencia de Coinversión para el Desarrollo Sostenible de Jalisco, deberá emitir su reglamento dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Segundo",
+            "Texto": "Las referencias que en cualquier otro ordenamiento se establezca en relación a los entes que se extinguen, se tendrán por hechas a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Tercero",
+            "Texto": "Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 28 de octubre de 2021\nDiputado Presidente CARLOS EDUARDO SÁNCHEZ CARRILLO\nDiputada Secretaria IRMA VERÓNICA GONZÁLEZ OROZCO\nDiputada Secretaria MARÍA ESTHER LÓPEZ CHÁVEZ\nEn Mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 1 del mes de noviembre de 2021.\nENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno\nLEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO AGENCIA DE COINVERSIÓN PARA EL DESARROLLO SOSTENIBLE DE JALISCO (COINVIERTE)\nAPROBACIÓN: 28 de octubre de 2021\nPUBLICACIÓN: 31 de diciembre de 2021 sec. BIS\nVIGENCIA: 1 de enero de 2022",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

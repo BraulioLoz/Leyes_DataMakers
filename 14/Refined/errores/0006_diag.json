@@ -1,0 +1,19 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 91,
+  "n_perm_fracciones": 53,
+  "n_trans_caps": 1,
+  "n_trans_articles": 18,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPITULO I",
+    "CAPITULO II Excepciones y Defensas",
+    "CAPITULO I De la Personalidad",
+    "CAPITULO II De las Formalidades y de las Actuaciones Judiciales",
+    "Título Sexto de este código. (este párrafo fue reformado por Decreto 28327/LXII/21 publicado en el Periódico Oficial El Estado de Jalisco el día seis de Julio del dos mil veintiuno, el cual fue declarado inválido en el resolutivo SEGUNDO, de la sentencia derivada de la Acción de Inconstitucionalidad 118/2021 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, la que surtió efectos el día ocho de Agosto del dos mil veintitrés, fecha en que fue notificado el Congreso del Estado de Jalisco de los resolutivos, debiéndose aplicar las disposiciones vigentes a que se refiere el artículo quinto transitorio de la reforma constitucional publicada en el Diario Oficial de la Federación el quince de septiembre de dos mil diecisiete de conformidad en los apartados VI y VII de la sentencia referida)."
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4,
+    "TÍTULO": 1
+  }
+}

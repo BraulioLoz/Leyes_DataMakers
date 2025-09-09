@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 33,
+  "n_perm_fracciones": 105,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LAS ATRIBUCIONES",
+    "CAPÍTULO III DE LA JUNTA DE GOBIERNO",
+    "CAPÍTULO IV DEL DIRECTOR GENERAL",
+    "CAPÍTULO V DEL CONSEJO CONSULTIVO",
+    "CAPÍTULO VI DEL ÓRGANO INTERNO DE CONTROL",
+    "CAPÍTULO VII DEL PATRIMONIO DEL ORGANISMO",
+    "CAPÍTULO VIII DEL PERSONAL DEL ORGANISMO",
+    "Capítulo IX Del Defensor de Audiencia"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

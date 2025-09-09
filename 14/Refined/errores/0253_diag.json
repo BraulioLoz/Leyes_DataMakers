@@ -1,0 +1,22 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 17,
+  "n_perm_fracciones": 83,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO OBJETO Y DEFINICIONES",
+    "CAPÍTULO I ATRIBUCIONES",
+    "CAPÍTULO II ORGANIZACIÓN DE LA AGENCIA",
+    "Sección Primera De la Junta de Gobierno",
+    "Sección Segunda Del Director General",
+    "Sección Tercera Del Órgano de Control",
+    "CAPÍTULO III PATRIMONIO DEL ORGANISMO",
+    "CAPÍTULO IV DEL RÉGIMEN LABORAL"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 3
+  }
+}

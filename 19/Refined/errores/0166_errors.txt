@@ -1,0 +1,8 @@
+Errores y advertencias para: 0166.txt
+==================================================
+
+Ubicación: line 49
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 6 a 8
+Línea: ARTÍCULO 8º.- La Junta Directiva, órgano de gobierno de la Universidad, estará integrada por doce miembros que serán:
+------------------------------

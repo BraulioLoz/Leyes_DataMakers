@@ -1,0 +1,33 @@
+{
+  "n_chapters": 19,
+  "n_perm_articles": 70,
+  "n_perm_fracciones": 184,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 10,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Sujetos y causas de Juicio Político",
+    "Sección Primera Disposiciones generales",
+    "Sección Segunda Requisitos de la denuncia de juicio político",
+    "Sección Tercera Examen previo",
+    "Sección Cuarta Sobreseimiento",
+    "Sección Quinta Pruebas",
+    "Sección Sexta Etapa de Sentencia",
+    "Sección Séptima Aplicación de las sanciones",
+    "Sección primera Disposiciones generales",
+    "Sección segunda Del procedimiento",
+    "Sección tercera De la declaración de procedencia de juicio penal por la comisión de delitos federales",
+    "Capítulo IV Disposiciones comunes para los procedimientos de juicio político y declaración de procedencia",
+    "Capítulo I Observancia de la Ley General de Responsabilidades Administrativas",
+    "Capítulo II Causas de responsabilidades administrativas no graves",
+    "Sección Primera Disposiciones Generales",
+    "Sección Segunda De su Estructura",
+    "Capítulo IV Procedimientos de responsabilidad administrativa y sus recursos",
+    "Capítulo IV Facilidades para presentar las declaraciones fiscal, patrimonial y de intereses"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7,
+    "SECCIÓN": 12
+  }
+}

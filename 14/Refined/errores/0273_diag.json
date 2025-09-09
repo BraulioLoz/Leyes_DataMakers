@@ -1,0 +1,29 @@
+{
+  "n_chapters": 16,
+  "n_perm_articles": 48,
+  "n_perm_fracciones": 99,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Primero",
+    "Capítulo Segundo De las Autoridades",
+    "Capítulo Tercero De los derechos de las niñas, niños y adolescentes con cáncer.",
+    "Capítulo Primero De la Coordinación y colaboración",
+    "Capítulo Segundo De la Red Estatal",
+    "Capítulo Tercero",
+    "Capítulo Primero De la Atención Integral",
+    "Capítulo Segundo De la Prevención, Detección, Diagnóstico y Referencia Temprana",
+    "Capítulo Tercero De la Atención y Tratamiento",
+    "Capítulo Cuarto Oportunidades de las y los beneficiarios del programa",
+    "Capítulo Primero Disposiciones Generales. Del Fondo para la Detección y Tratamiento del Cáncer. Objeto.",
+    "Capítulo Segundo Del financiamiento del Fondo para la Detección y Tratamiento del Cáncer",
+    "Capítulo Primero",
+    "Capítulo Único De la información estadística",
+    "Capítulo Único",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 16
+  }
+}

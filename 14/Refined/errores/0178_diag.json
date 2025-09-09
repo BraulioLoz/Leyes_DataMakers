@@ -1,0 +1,34 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 152,
+  "n_perm_fracciones": 134,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 13,
+  "chapter_labels": [
+    "CAPITULO I Disposiciones Generales",
+    "CAPITULO II De las Notificaciones y de los Términos",
+    "CAPITULO III De los Impedimentos, Excusas y Recusaciones",
+    "CAPITULO IV De la Improcedencia y del Sobreseimiento",
+    "CAPITULO V De la Demanda",
+    "CAPÍTULO VI De la Contestación",
+    "CAPITULO VII De las Pruebas",
+    "CAPITULO VIII De los Incidentes",
+    "CAPITULO IX De las Medidas Cautelares",
+    "Capitulo IX bis Facultad de Atracción",
+    "CAPITULO X De las Audiencias de Desahogo de Pruebas",
+    "CAPITULO XI De la Sentencia",
+    "CAPITULO XII De la Aclaración de Sentencia",
+    "CAPITULO XIII De la Excitativa de Justicia",
+    "CAPITULO XIV De la Ejecución de las Sentencias",
+    "Sección I De la Reclamación",
+    "Sección II De la Apelación",
+    "CAPITULO XVI De las Responsabilidades",
+    "CAPÍTULO XVII De los Procedimientos Especiales",
+    "CAPÍTULO XVIII Del juicio en línea"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 18,
+    "SECCIÓN": 2
+  }
+}

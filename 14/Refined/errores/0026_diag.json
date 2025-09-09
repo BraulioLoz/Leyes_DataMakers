@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 22,
+  "n_perm_fracciones": 32,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II De los exámenes",
+    "Capítulo III Del Centro Estatal de Evaluación y Control de Confianza y de la Unidad de Control de Confianza de la Fiscalía General del Estado",
+    "Capítulo IV Responsabilidades y sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

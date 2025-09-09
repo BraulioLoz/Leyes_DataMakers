@@ -1,0 +1,2313 @@
+{
+  "0003.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto.\nNÚMERO 27229/LXII/19 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE EL CÓDIGO DE ASISTENCIA SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019, DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL",
+    "Año_publicación": 2019,
+    "Título": "CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Las disposiciones de este Código son de orden público e interés social y tienen por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer las bases de un Sistema Estatal de Asistencia Social, que promueva la prestación de los servicios a que se refiere la legislación general y estatal aplicable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar y promover las acciones de los organismos en el Estado que presten los servicios asistenciales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Garantizar la concurrencia y colaboración de los gobiernos federal, estatal y municipal, así como la participación del sector privado, en la prestación de los servicios de asistencia social;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Regular el funcionamiento de las instituciones públicas y privadas que presten servicios asistenciales; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer los lineamientos para apoyar a los sujetos de asistencia social señalados en este ordenamiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Son de aplicación supletoria de este Código, la Ley de Asistencia Social y la Ley General de los Derechos de Niñas, Niños y Adolescentes; así como la Ley de los Derechos de Niñas, Niños y Adolescentes, la Ley Estatal de Salud, el Código Civil, el Código de Procedimientos Civiles y la Ley para la Operación de Albergues, todos estos ordenamientos del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- Para los efectos de este Código, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asistencia Social: el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas su desarrollo integral, así como la protección física, mental y social de quienes se encuentren en condición de vulnerabilidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asistencia Social Privada: los servicios que prestan las personas físicas y jurídicas privadas a que se refiere este Código;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Asistencia Social Pública: los servicios que promueven y prestan las dependencias e instituciones públicas dedicadas a la asistencia social;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Comité Técnico: el Comité Técnico para la Asignación de Subsidios de Asistencia Social;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Consejo Jalisciense: el Consejo Jalisciense de Asistencia Social;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Hogar Cabañas: el Hogar Juan Cruz Ruiz de Cabañas y Crespo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Organismo Estatal: el organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Organismo Municipal: el organismo público descentralizado de cada municipio denominado Sistema Municipal para el Desarrollo Integral de la Familia;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Procuraduría: la Procuraduría de Protección de Niñas, Niños y Adolescentes;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Secretaría: la Secretaría del Sistema de Asistencia Social; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Sistema Estatal: el Sistema Estatal de Asistencia Social del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Para los efectos de este Código se consideran servicios de asistencia social los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La atención a personas que por sus problemas de discapacidad o situación de calle, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La atención en centros de asistencia social o albergues, así como en establecimientos especializados de atención a los sujetos de asistencia social de manera prioritaria, previstos en este Código;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La promoción de bienestar y el desarrollo de acciones para la preparación de personas adultas mayores carentes de recursos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El ejercicio de la tutela de personas incapaces, así como de representación y tutela de niñas, niños y adolescentes, en los términos de las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a niñas, niños y adolescentes, adultos mayores, con discapacidad, incapaces, en situación de calle o jefes de familias monoparentales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La prestación de servicios funerarios a personas carentes de recursos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La orientación nutricional y la alimentación a personas de escasos recursos y a la población de zonas marginales;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante su participación activa y organizada en acciones que se lleven a cabo en su propio beneficio;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover e impulsar el desarrollo comunitario bajo la perspectiva de cultura de paz;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las acciones que garanticen el ejercicio de los derechos de niñas, niños y adolescentes y la satisfacción de sus necesidades;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "La prestación de servicios de salud a personas sin capacidad económica para hacer frente a dichas necesidades;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "El apoyo con educación y capacitación laboral a los sujetos de asistencia social;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "La prevención del desamparo, abandono o maltrato y la protección a los sujetos que la padecen;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "El apoyo a mujeres en períodos de gestación o lactancia, con especial atención a las adolescentes en situación de vulnerabilidad;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "La prevención de la discapacidad, la habilitación y la rehabilitación e integración a la vida productiva o activa de personas con algún tipo de discapacidad;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que transitan por el territorio de la entidad; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.\nLos sujetos de asistencia social tendrán derecho a recibir los servicios a los que hace referencia el presente\nartículo sin discriminación alguna, por lo que, cualquier acto u omisión discriminatorio que genere negación, distinción, exclusión, rechazo, menoscabo, impedimento o restricción de sus derechos o libertades, será causa de responsabilidad que se sancionará conforme al presente Código, a la Ley Estatal para Promover la Igualdad, Prevenir y Eliminar la Discriminación."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- Son sujetos de asistencia social de manera prioritaria, los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las niñas, niños y adolescentes en condiciones de vulnerabilidad, aquellos que se encuentran en alguno de los siguientes grupos:\na) De la y en la calle;\nb) Con enfermedades terminales;\n\nMigrantes separados;\nj) Migrantes no acompañados;\nk) Refugiados o desplazados;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Violentados, maltratados, abusados o explotados;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Con problemas de adicciones;\ne) Con discapacidad;\nf) En conflicto con la ley;\ng) Hijas e hijos de personas privadas de su libertad;\nh) Víctimas de delito;"
+              },
+              {
+                "Fracción": "L",
+                "Texto": "Las embarazadas o que sean madres,"
+              },
+              {
+                "Fracción": "M",
+                "Texto": "Huérfanos;\nn) Con enfermedades o trastornos mentales;\nñ) Con desnutrición;\no) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos; y\np) Hijas o hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Personas con problemas de alcoholismo u otras adicciones, cuando por estas causas se encuentren en estado de abandono o en situación de calle;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Mujeres en período de gestación o lactancia, carentes de recursos económicos o víctimas de violencia;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Personas adultas mayores que se encuentren en estado de desamparo, marginación o maltrato;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Personas con discapacidad en los términos de este ordenamiento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Personas en situación de calle;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Familiares que dependan económicamente de quienes se encuentren privados de su libertad por causas penales y que por ello queden en estado de desamparo o en situación de calle;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Familiares directos, tales como ascendientes, descendientes o colaterales hasta el primer grado, que dependan económicamente de quienes hayan perdido la vida y que sus circunstancias socioeconómicas lo ameriten;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Familiares directos, tales como ascendientes, descendientes o colaterales hasta el primer grado, de personas desaparecidas y que sus circunstancias socioeconómicas lo ameriten;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las víctimas de la comisión de delitos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las personas afectadas por un desastre y que queden en estado de necesidad o desamparo;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Personas que por alguna enfermedad se encuentren en estado de abandono o en situación de calle;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Los jefes de familias monoparentales, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las personas que sufran o padezcan algún trastorno o enfermedad mental, siempre y cuando sus ingresos o de la familia o institución a la cual dependan, sean insuficientes para su subsistencia y satisfacer sus necesidades médicas."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- El solicitante de los servicios asistenciales a que se refiere este Código deberá estar previamente inscrito en el Registro Estatal de Asistencia Social. Si no está inscrito al momento de solicitarlos, se le registrará en el acto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Los servicios de asistencia social que se otorguen a las personas que lo soliciten serán gratuitos cuando sus posibilidades económicas no les permitan aportar una cuota de recuperación en apoyo a dichas acciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II Del Sistema Estatal de Asistencia Social",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "- El Sistema Estatal tiene por objeto llevar a cabo coordinadamente, los servicios de asistencia social a que se refiere este ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- El Sistema Estatal se integra por las dependencias, organismos públicos descentralizados y entidades de la administración pública, tanto estatal como municipal y por las personas físicas y jurídicas privadas, que presten servicios de asistencia social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- El titular del Poder Ejecutivo, a través de la Secretaría, tendrá respecto de la asistencia social las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de asistencia social, así como la difusión de las mismas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar el estricto cumplimiento de este Código, así como las disposiciones que se dicten con base en éste, sin perjuicio de las facultades que en la materia competen a las dependencias y entidades de la administración pública federal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Formular, conducir y evaluar la prestación de los servicios asistenciales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas, para formar y capacitar recursos humanos en la materia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer y coordinar el Sistema Estatal de Información, el Registro Estatal y el Directorio Estatal de las Instituciones de Asistencia Social;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinar, a través de los convenios respectivos con los municipios, la prestación y promoción de los servicios de asistencia social;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Concertar acciones con el sector privado mediante convenios que regulen la prestación y promoción de los servicios de asistencia social, con la participación que corresponda a las dependencias o entidades del Gobierno Federal, del Estado y de los municipios;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Representar a la beneficencia pública del Estado para todo efecto legal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Vigilar, coordinar, supervisar y asesorar a las instituciones de asistencia y beneficencia, públicas y privadas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover y prestar servicios de asistencia social, además de diseñar y ejecutar programas que impulsen el desarrollo humano y la asistencia social;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Fomentar la participación organizada de la ciudadanía en las tareas de asistencia social y determinar los criterios generales para la participación de los usuarios de los servicios de asistencia social; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las demás que le otorguen el presente Código y las demás leyes aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De la Coordinación",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "- El Titular del Poder Ejecutivo a través de la Secretaría, coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal, en el ámbito de su respectiva competencia. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.\nParticipará como integrante del Sistema Nacional de Asistencia Social Pública y Privada, de conformidad a la legislación de la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- En la prestación de servicios asistenciales, el Organismo Estatal y la Secretaría actuarán en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que les otorguen las leyes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Para la debida coordinación del Sistema Estatal de Asistencia Social, los titulares de la Secretaría, el Organismo Estatal, la Procuraduría, el Hogar Cabañas y Procuraduría Social se reunirán por lo menos cada tres meses a fin de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Determinar los criterios generales para la prestación de los servicios de asistencia social pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evaluar el desempeño de las instituciones de asistencia social y beneficencia pública del Gobierno del Estado, así como de las instituciones de beneficencia privada, coordinadas por la Secretaría y el Organismo Estatal; así como proponer se tomen las medidas necesarias para el logro adecuado de sus objetivos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar y evaluar anualmente un Programa Estatal de Asistencia Social, siguiendo los lineamientos del Plan Estatal de Desarrollo, así como presentar su respectivo informe;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Revisar y evaluar la situación de niñas, niños y adolescentes que se encuentren a cargo del Hogar Cabañas u otros centros de asistencia social o albergues, en familias de acogida o en acogimiento pre-adoptivo, así como los procedimientos de adopción;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Revisar y evaluar las acciones aplicadas para el desarrollo integral de los sujetos de la asistencia social previstos en este Código;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Evaluar el sistema estatal de información y el registro estatal de asistencia social; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover los trabajos de investigación sobre asistencia social, a fin de mejorar la prestación de los servicios asistenciales."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social a nivel estatal y municipal, el Ejecutivo del Estado, a través de la Secretaría y el Organismo Estatal, en el ámbito de sus respectivas competencias, promoverá la celebración de convenios entre éstos y los Organismos Municipales de la Entidad, a fin de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer y operar programas conjuntos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la concurrencia de instancias del gobierno estatal y municipal en la aportación de recursos financieros, procurando fortalecer el patrimonio de los organismos municipales; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer programas para el cumplimiento de los fines de la asistencia social estatal o municipal, sin perjuicio de lo que al respecto establezcan otros ordenamientos legales de la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- El Ejecutivo del Estado, a través de la Secretaría y, en su caso, con la participación del Organismo Estatal, en el ámbito de sus respectivas competencias:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de servicios de asistencia social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Celebrar convenios o contratos para la coordinación de acciones de asistencia social con el sector privado de la entidad, con objeto de registrar y coordinar su participación en la realización de programas de asistencia social;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover con base en el principio de la solidaridad social, la organización y participación de la comunidad en la prestación de servicios asistenciales para el desarrollo integral del ser humano y la familia, así como de los grupos sociales más vulnerables, por medio de las siguientes acciones:\na) Fomentar hábitos de conducta y valores en la cultura de paz, que contribuyan a la dignificación humana, a la protección de los grupos sociales más vulnerables y a su superación; y\nb) Promoción del servicio voluntario para la realización de tareas básicas de asistencia social bajo la dirección de las autoridades correspondientes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Gestionar estímulos fiscales para las personas físicas o jurídicas que apoyen los programas de asistencia social, siempre y cuando se encuentren registradas en el Directorio Estatal de las Instituciones de Asistencia Social de la Secretaría; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover y gestionar ante los municipios y demás entes públicos, de acuerdo a las posibilidades, estímulos y beneficios fiscales, en su caso, a favor de los sujetos de asistencia social."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera Del Sistema Estatal de Información de Asistencia Social",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "- La Secretaría coordinará e implementará el Sistema Estatal de Información de Asistencia Social con la participación del Organismo Estatal, relacionando los servicios de asistencia social que se brindan en el Estado, a través de las distintas instituciones de asistencia social públicas y privadas.\nEl Sistema Estatal de Información de Asistencia Social promoverá el establecimiento de mecanismos que permitan un intercambio sistemático de información, con los Ayuntamientos de la entidad a fin de conocer las demandas de servicios de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención.\nEl Sistema Estatal de Información de Asistencia Social constituye un medio de consulta actualizado, que permite la generación de información estratégica para el diagnóstico, planeación, evaluación, seguimiento y toma de decisiones en materia de políticas públicas para la asistencia social en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- Las instituciones de asistencia social públicas y privadas están obligadas a proporcionar a la Secretaría la información que se requiera para el Sistema Estatal de Información de Asistencia Social.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Registro Estatal de Asistencia Social",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "- El Registro Estatal de Asistencia Social es el mecanismo que permite tener control y registro de las personas que se benefician en el Estado de los servicios asistenciales por conducto de instituciones públicas y privadas.\nEl Registro Estatal de Asistencia Social tiene por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer con puntualidad el destino de los apoyos otorgados por los servicios de asistencia social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evitar duplicidades e irregularidades en el otorgamiento de los servicios de asistencia social; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Unificar y sistematizar la información de los beneficiarios de los servicios de asistencia social."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- La Secretaría, en coordinación con el Organismo Estatal, establecerán los lineamientos para implementar el formato de inscripción en el Registro Estatal de Asistencia Social, de conformidad con el presente Código y las demás normas aplicables.\nLas instituciones públicas y privadas de asistencia social del Estado están obligadas a registrar y actualizar la información de los beneficiarios de servicios asistenciales.\nLos datos personales de los beneficiarios que se integren en la base de datos del Registro Estatal de Asistencia Social, serán preservados en los términos de la ley aplicable en la materia, protegiendo aquéllos de carácter confidencial y haciendo públicos los que constituyan información fundamental.\nLa información del Registro Estatal de Asistencia Social no puede ser usada para fines comerciales, electorales, ni para otra de índole distinta a la consulta ciudadana y a los fines establecidos de políticas públicas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera Del Directorio Estatal de las Instituciones de Asistencia Social",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "- El Directorio Estatal de las Instituciones de Asistencia Social tiene como objeto dar publicidad a los servicios y apoyos asistenciales que presten las instituciones públicas y privadas, así como su localización en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- El Directorio Estatal se conformará con las inscripciones de las instituciones de asistencia social que se tramiten:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "A través del Organismo Estatal; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "A través del Consejo Jalisciense.\nEste Directorio estará a cargo de la Secretaría, quien otorgará una constancia a aquellas instituciones inscritas."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- En la inscripción de las instituciones se anotarán los datos que las identifiquen, el tipo de servicios asistenciales que prestan, sus recursos y ámbito geográfico de acción, así como la indicación de su representante legal. Las modificaciones a los datos anteriores también deberán ser inscritas, dentro de los treinta días siguientes a que se realicen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- Las instituciones privadas inscritas en el Directorio Estatal de las Instituciones de Asistencia Social que acrediten la supervisión de sus funciones asistenciales, recibirán un reconocimiento por parte del Consejo Jalisciense.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- El Sistema Estatal para el Desarrollo Integral de la Familia, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y demás funciones que le asigna este Código y las demás disposiciones legales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- El Organismo Estatal deberá realizar las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover y prestar servicios de asistencia social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Apoyar el desarrollo integral de la persona, la familia y la comunidad, así como prevenir y atender la violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover acciones de apoyo educativo para la integración social y de capacitación para el trabajo a los sujetos de asistencia social en el Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover e impulsar el desarrollo físico y psíquico de niñas, niños y adolescentes, así como su adecuada integración a la sociedad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover acciones para el bienestar de las personas adultas mayores, así como para la preparación e incorporación a esta etapa de la vida;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Operar establecimientos en beneficio de los sujetos de la asistencia social;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Llevar a cabo acciones en materia de discapacidad, en los términos de la legislación federal y estatal de la materia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Realizar estudios e investigaciones en torno a la asistencia social;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la profesionalización de la prestación de servicios de asistencia social;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cooperar con el Sistema Estatal de Información en materia de Asistencia Social y con el Registro Estatal de Asistencia Social;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover y participar en programas de educación especial;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Operar la Procuraduría de Protección de Niñas, Niños y Adolescentes, de conformidad a la legislación general y estatal de la materia;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Elaborar el programa e impartir los cursos prematrimoniales a que hace referencia el Código Civil del Estado de Jalisco. El Organismo Estatal deberá coordinarse con los organismos municipales para su impartición, de acuerdo a las necesidades;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Promover la participación de las familias jaliscienses en el desarrollo de programas públicos relacionados con la vida familiar;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Realizar estudios e investigaciones sobre la familia; así como promover acciones a favor de su atención, defensa y protección;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Realizar acciones de apoyo para los migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad, en coordinación con autoridades de los tres órdenes de gobierno;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Requerir información a instituciones públicas y privadas sobre asuntos relacionados con niñas, niños y adolescentes, de acuerdo con la propuesta que les haga el Sistema Estatal de Protección; las instituciones están obligadas a entregar la información a la brevedad en los términos que la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, este Código y su regulación establezcan;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Dictar las medidas cautelares y providencias precautorias para el caso de una urgencia;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Aprobar recomendaciones y emitir protocolos y acuerdos de aplicación e instituciones públicas estatales y municipales, organismos e instituciones privadas, así como de observancia general en el Estado y sus municipios;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Ejecutar las acciones y políticas necesarias para atender la primera infancia dentro del ámbito de su competencia;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Mandar publicar en el periódico oficial \"El Estado de Jalisco\" los protocolos, acuerdos y recomendaciones que sean de aplicación general en el Estado y sus municipios; y XXIII. Las demás que establezcan las leyes aplicables en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- La promoción y prestación de servicios asistenciales que realice cada municipio del Estado, se realizará a través del Organismo Municipal, que se encargará de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer y operar los programas de asistencia social conforme a los lineamientos que emita el Organismo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la colaboración de los distintos niveles del gobierno en la aportación de recursos para la operación de programas asistenciales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fortalecer los proyectos asistenciales mediante el fomento de la participación de las instituciones privadas de cada municipio, para ampliar la cobertura de los beneficios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fungir como delegado institucional de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia, de conformidad a la legislación general y estatal aplicable; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los demás señalados en este Código."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- En caso de desastres que causen daños a la población, el Organismo Estatal en el ámbito de su competencia, sin perjuicio de las acciones que en auxilio de los damnificados realicen otras dependencias y entidades de la administración pública, coordinará las tareas de asistencia social de los distintos sectores que actúen en beneficio de aquéllos durante la fase inmediata posterior a un desastre, sin menoscabo de que continúen recibiendo el apoyo de los programas institucionales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II Del Patrimonio del Organismo Estatal",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "- El patrimonio del Organismo Estatal se integrará con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes muebles e inmuebles que sean de su dominio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de los gobiernos federal y estatal, le otorguen;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones, donaciones y demás liberalidades que reciba de personas físicas o jurídicas, nacionales o extranjeras;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los rendimientos, recuperaciones, derechos y demás ingresos que les generen sus inversiones, bienes y operaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las concesiones, permisos, licencias, y autorizaciones que se le otorguen conforme a la ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las aportaciones por la prestación de servicios y por los honorarios que le correspondan;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los fideicomisos que los particulares y dependencias públicas, constituyan en favor del Organismo Estatal, como opción viable para dar continuidad a los programas asistenciales a través del tiempo; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los demás bienes que obtengan por cualquier título."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- El Organismo Estatal quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- La vigilancia financiera y administrativa, así como la práctica de auditorías en el Organismo Estatal, estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo, sin perjuicio de la intervención que corresponda a la Auditoría Superior del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "- Para el estudio, planeación y despacho de los asuntos que le competen, el Organismo Estatal contará con los siguientes órganos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Presidencia de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Dirección General;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La Procuraduría de Protección de Niñas, Niños y Adolescentes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las unidades técnicas y de administración que determinen la ley, así como las autoridades del mismo organismo y que se autoricen en su presupuesto de egresos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda De la Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 32,
+            "Texto": "- La Junta de Gobierno es la máxima autoridad del Organismo Estatal, y se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será el titular de la Secretaría; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Hasta ocho Consejeros, los cuales serán designados por el Gobernador del Estado, entre los cuales se encontrarán los siguientes:\na) Los titulares de la Secretaría General de Gobierno, de la Hacienda Pública, de la Contraloría del Estado, y la Coordinación General Estratégica de Desarrollo Social o sus respectivos representantes;\nb) Un representante de alguna institución de asistencia social privada inscrita, reconocida y propuesta por la Secretaría; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Hasta tres Consejeros que por necesidades del propio Organismo Estatal se deban integrar, quienes deberán contar con experiencia en materia de asistencia social conforme a este ordenamiento.\nLos integrantes de la Junta de Gobierno contarán con voz y voto en las sesiones de la Junta de Gobierno. Ésta contará además con un secretario técnico que será el Director General del Organismo Estatal, quien concurrirá a las sesiones con voz pero sin voto.\nLos cargos a que se refiere el presente artículo serán honoríficos."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- La Junta de Gobierno tendrá las siguientes facultades",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dictar los lineamientos generales para la planeación y ejecución de los servicios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Planear y dirigir los servicios que preste el Organismo Estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estudiar y aprobar el presupuesto anual y sus modificaciones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Estudiar y aprobar las propuestas de condonación de las deudas incobrables para su cancelación, de conformidad con las disposiciones aplicables en materia de contabilidad gubernamental y de fiscalización y rendición de cuentas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Conocer y aprobar el informe de actividades que rinda la Presidencia, así como los estados financieros del Organismo Estatal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expedir las disposiciones de carácter general necesarias para la adecuada organización, funcionamiento técnico y administrativo del Organismo Estatal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Contribuir a la promoción de actividades para la obtención de recursos que permitan el incremento del patrimonio del Organismo Estatal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Aprobar el organigrama general del Organismo Estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Representar al Organismo Estatal, con facultades generales para pleitos y cobranzas, actos de administración y de dominio;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Delegar facultades para pleitos y cobranzas y actos de administración; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que sean necesarias para el ejercicio de las facultades anteriores."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- La Junta de Gobierno sesionará cuantas veces sea necesario para el desahogo de los asuntos de su competencia y por lo menos una vez por trimestre.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera De la Presidencia de la Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "- La Presidencia tendrá las facultades y obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar y apoyar la ejecución de los acuerdos de la Junta de Gobierno y las acciones que sean necesarias para el cumplimiento de los objetivos del Organismo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Facilitar el desarrollo de las actividades del Organismo Estatal, aprobando al efecto los procedimientos para su ejecución;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del Organismo Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan en favor del Organismo Estatal que por ley le correspondan;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar y testificar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas o privadas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director General del Organismo Estatal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Convocar a la Junta de Gobierno a sesiones ordinarias y extraordinarias;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Rendir anualmente el informe general de actividades del Organismo Estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Supervisar la correcta aplicación del presupuesto; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que sean necesarias para el ejercicio de las facultades anteriores."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- La presidencia, previo el conocimiento y opinión de la Junta de Gobierno, podrá integrar los comités técnicos necesarios para el estudio y establecimiento de mecanismos que aseguren la coordinación interinstitucional e intersectorial en la atención de las tareas asistenciales. Estos comités estarán integrados por los representantes que al efecto designen las dependencias y entidades competentes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Cuarta Del Director General del Organismo Estatal",
+        "Artículos": [
+          {
+            "Artículo": 37,
+            "Texto": "- Para ser Director General del Organismo Estatal, se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mexicano en pleno goce de sus derechos civiles;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Poseer título profesional y contar con experiencia en materia administrativa y asistencial;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Tener cuando menos treinta años de edad al día de su nombramiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- El Director General tendrá las siguientes facultades y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar los acuerdos y disposiciones de la Junta de Gobierno y de la Presidencia para el logro de los objetivos del Organismo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presentar al conocimiento y aprobación de la Junta de Gobierno, los proyectos y planes de trabajo, presupuestos, informes de actividades y estados financieros del Organismo Estatal, así como los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formule la Contraloría del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Expedir, con aprobación de la Presidencia, autorizar los nombramientos del personal del Organismo Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Llevar las relaciones de trabajo de acuerdo con las disposiciones legales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Planear, dirigir y controlar el funcionamiento del Organismo Estatal, con sujeción a las instrucciones de la Presidencia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Celebrar convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo Estatal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Actuar en representación del Organismo Estatal, con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes. Podrá delegar las facultades para pleitos y cobranzas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Ejecutar las penas convencionales, así como determinar las sanciones que, en su caso, procedan por rescisión, en contra de los proveedores y demás entes o personas que, habiendo celebrado algún contrato o acuerdo de voluntades con el Organismo Estatal, incumplan con el mismo en su perjuicio, de conformidad con la ley que regula la materia de compras gubernamentales y contratación de servicios; y\n\nLas demás que sean necesarias para el ejercicio de sus funciones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Quinta De la Procuraduría de Protección de Niñas, Niños y Adolescentes",
+        "Artículos": [
+          {
+            "Artículo": 39,
+            "Texto": "- La Procuraduría de Protección de Niñas, Niños y Adolescentes es la entidad para la efectiva protección y restitución de los derechos de las niñas, niños y adolescentes, se regirá, atenderá y dará seguimiento a los asuntos que le devienen de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.\nServirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, guarda y custodia institucional, tutela y asistencia a niñas, niños y adolescentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Los organismos municipales deberán realizar funciones de delegados institucionales, así como el Hogar Cabañas, en los términos y conforme a las disposiciones que regulan la materia, sin que tal delegación pueda ser ejercida por particulares.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Sexta Del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar",
+        "Artículos": [
+          {
+            "Artículo": 41,
+            "Texto": "- El Consejo Estatal Para la Prevención y Atención de la Violencia Intrafamiliar, se constituye como parte del Organismo Estatal para la planeación, apoyo normativo, de consulta, de evaluación y de atención, respecto de las políticas y criterios generales relativos a la prevención y atención de la violencia intrafamiliar y contará con autonomía técnica. Se regirá de conformidad con la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.\nEl personal y sus unidades, serán nombrados por el Organismo Estatal y dependerán de éste, de acuerdo a las posibilidades de su presupuesto.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 42,
+            "Texto": "- El Consejo Jalisciense de Asistencia Social es un órgano consultivo, constituido como un ente público de participación ciudadana, que tiene como finalidad velar por los intereses de la ciudadanía en la implementación de la política de asistencia social en el estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- El Consejo Jalisciense estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será designado por el Gobernador del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Titular de la Secretaría o su representante;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante del Colegio de Notarios de Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un representante de cada una de las áreas asistenciales que conforman el Directorio Estatal de Instituciones de Asistencia Social, nombrado por el Gobernador a propuesta del Secretario, de las que a continuación se enumeran:\na) Asistencia Infantil;\nb) Bienestar Social;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Educativa;\n\nClubes Sociales y de Servicio; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Gerontológico;\ne) Rehabilitación y Educación Especial; y\nf) Servicios Médicos."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un representante por cada uno de los organismos o asociaciones mayoritarias, nombrado por el Gobernador a propuesta del Secretario, de cada uno de los siguientes sectores:\na) Empresarial;\nb) Servicios Médicos y Hospitalarios; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Dos personas designadas por el Gobernador, los cuales deberán ser de reconocida vocación al servicio de la comunidad.\nEl Consejo contará con un Secretario Técnico que será el Subsecretario para el Desarrollo y Vinculación con Organizaciones de la Sociedad Civil de la Secretaría, mismo que sólo tendrá derecho a voz. Los cargos a que se refiere el presente artículo serán honoríficos.\nLos Consejeros referidos en las fracciones I, III, IV, V y VI, durarán en su encargo el periodo de dos años."
+              }
+            ]
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- El Consejo deberá sesionar de manera ordinaria una vez cada dos meses y de manera extraordinaria cuando convoque la Presidencia o la mayoría de los Consejeros. Las sesiones del Consejo serán públicas.\nPara que el Consejo pueda sesionar válidamente es necesario que sea citado cuando menos con veinticuatro horas de anticipación y se requiere la asistencia de la mitad más uno de sus integrantes con derecho a voto. Las decisiones del Consejo se tomarán por mayoría simple de los presentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- El Consejo Jalisciense tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Velar por los intereses de la ciudadanía en la implementación de la política de asistencia social en el estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Otorgar el reconocimiento a las personas jurídicas que se dediquen a la asistencia social privada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Otorgar un reconocimiento a los donantes de alimentos que se hayan distinguido por sus contribuciones a favor de los más necesitados;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Vigilar que los donativos lleguen a las Asociaciones Civiles o Fundaciones que se dediquen a la asistencia social privada;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Solicitar al Comité Técnico para la Asignación de Subsidios de Asistencia Social la verificación del cumplimiento de las reglas de operación por parte de las instituciones privadas de asistencia social elegidas para recibir subsidios;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Designar de entre sus miembros, a los integrantes de la Comisión Asistencial; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que le confieran otros ordenamientos legales o reglamentarios."
+              }
+            ]
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- El Consejo Jalisciense contará con una Comisión Asistencial que será integrada por cinco de sus miembros designados por el propio Consejo, por el periodo de un año, pudiendo ser reelectos para otro periodo similar.\nLa Comisión Asistencial contará con un Secretario Técnico que será Subsecretario para el Desarrollo y Vinculación con Organizaciones de la Sociedad Civil de la Secretaría, mismo que sólo tendrá derecho a voz. Los cargos a que se refiere el presente artículo serán honoríficos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- La Comisión Asistencial deberá sesionar de manera ordinaria una vez al mes y de manera extraordinaria cuando convoque su Presidente o la mayoría de sus integrantes.\nPara que la Comisión Asistencial pueda sesionar válidamente es necesario que sea citado cuando menos con veinticuatro horas de anticipación y se requiere la asistencia de la mitad más uno de sus integrantes con derecho a voto. Todas las sesiones de la Comisión serán públicas. Las decisiones de la Comisión se tomarán por mayoría simple de los presentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- La Comisión Asistencial tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar el estudio y valoración para que se otorgue el reconocimiento a las personas jurídicas que se dediquen a la asistencia social privada;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar que los donativos lleguen a las Asociaciones Civiles o Fundaciones que se dediquen a la asistencia social privada e informar al Consejo Jalisciense;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir informe respecto al cumplimiento de las reglas de operación por parte de las instituciones privadas de asistencia social elegidas para recibir subsidio y turnarlo al Consejo Jalisciense; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que por delegación o disposición legal o reglamentaria se le asignen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 49,
+            "Texto": "- El Comité Técnico para la Asignación de Subsidios de Asistencia Social es un órgano consultivo, constituido como un ente público de participación ciudadana, sectorizado a la Secretaría del Sistema de Asistencia Social, que tiene el carácter deliberativo y resolutivo respecto a la valoración y asignación de subsidios de Asistencia Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- El Comité Técnico estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Titular de la Secretaría, quien lo presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Titular de la Secretaría General de Gobierno o su representante;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Titular de la Secretaría de la Hacienda Pública o su representante;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Titular de la Contraloría del Estado o su representante;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dos representantes de asociaciones civiles que se encuentren inscritas en el Directorio Estatal de Instituciones de Asistencia Social, designados por el Consejo a propuesta del Titular de la Secretaría; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Un representante de una Universidad privada o pública, designado por el Gobernador a propuesta del Titular de la Secretaría.\nLos integrantes del Comité serán cargos honoríficos, quienes tendrán derecho a voz y voto. El Comité contará con un Secretario Técnico, que será el Subsecretario para el Desarrollo y Vinculación con Organizaciones de la Sociedad Civil de la Secretaría, quien sólo contará con derecho a voz.\nEl Presidente del Comité podrá invitar con derecho a voz a representantes de autoridades u organismos privados, académicos e investigadores, conocedores de los asuntos a tratar en cada sesión, para la aportación de opiniones."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- El Comité Técnico deberá sesionar de manera ordinaria una vez al mes y de manera extraordinaria cuando convoque su Presidente o la mayoría de sus integrantes.\nPara que el Comité Técnico pueda sesionar válidamente es necesario que sea citado cuando menos con veinticuatro horas de anticipación y se requiere la asistencia de la mitad más uno de sus integrantes con derecho a voto. Todas las sesiones del Comité serán públicas.\nLas decisiones del Comité Técnico se tomarán por mayoría simple de los presentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- El Comité Técnico tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar las reglas de operación para acceder a la asignación de subsidios para la asistencia social privada, a propuesta de la Subsecretaría para el Desarrollo y Vinculación con Organizaciones de la Sociedad Civil de la Secretaría;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evaluar los proyectos presentados por las organizaciones de la sociedad civil, conforme las reglas de operación aprobadas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Resolver a qué institución privada de asistencia social de las inscritas en el Directorio Estatal de las Instituciones de Asistencia Social, se le asignará subsidios para la asistencia social privada;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Recibir del Consejo Jalisciense las solicitudes de verificación del cumplimiento de las reglas de operación por parte de las instituciones privadas de asistencia social elegidas para recibir subsidios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Turnar a la Subsecretaría para el Desarrollo y Vinculación con Organizaciones de la Sociedad Civil de la Secretaría, las solicitudes de verificación del cumplimiento de las reglas de operación, recibidas por el Consejo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer al titular de la Secretaría, la imposición de sanciones a las instituciones privadas, por el incumplimiento a las reglas de operación de los programas para los que fueron asignados los subsidios, conforme al informe presentado por la Subsecretaría para el Desarrollo y Vinculación con Organizaciones de la Sociedad Civil de la Secretaría, que lleve a cabo en el ejercicio de sus atribuciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar al Consejo Jalisciense de los subsidios otorgados, así como de las sanciones impuestas por el incumplimiento de las reglas de operación de los subsidios otorgados; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que por delegación o disposición legal o reglamentaria se le asignen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "- El Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas, es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de niñas, niños y adolescentes que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "-El Hogar Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines, tiene las siguientes facultades y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La asistencia material y educativa a las personas residentes en el Hogar Cabañas en los términos del Código Civil del Estado, así como la protección y tutela de los mismos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Inculcar en la niñez que se encuentra asilada en el Hogar Cabañas, los principios de solidaridad social;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fungir como delegado institucional de la Procuraduría de Protección de Niñas, Niños y Adolescentes de conformidad al presente Código, respecto de las personas residentes en el Hogar Cabañas que no tengan quien ejerza la representación originaria;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar en las personas residentes, los valores éticos que les permitan desarrollarse plenamente en las condiciones actuales de la vida social;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La promoción de toda clase de actividades para obtener recursos destinados al aumento de fondos del"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Conservar y acrecentar el patrimonio del Hogar Cabañas; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aceptar o repudiar las herencias, legados y donaciones, rechazándolas cuando impliquen mayores cargas que beneficios."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II Del Patrimonio del Hogar Cabañas",
+        "Artículos": [
+          {
+            "Artículo": 55,
+            "Texto": "- El patrimonio del Hogar Cabañas se integrará con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes inmuebles y muebles que sean de su dominio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de los gobiernos federal, estatal y municipales les otorguen;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones, donaciones y demás liberalidades que reciba de personas físicas o jurídicas, nacionales o extranjeras;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los rendimientos, recuperaciones, derechos y demás ingresos que les generen sus inversiones, bienes y operaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las aportaciones por la prestación de servicios y por los honorarios que le correspondan;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los fideicomisos que los particulares y dependencias públicas constituyan a favor del Hogar Cabañas; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los demás bienes que obtenga por cualquier título."
+              }
+            ]
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- El Hogar Cabañas quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "El control, evaluación, vigilancia financiera y administrativa, así como la práctica de auditorías en el Hogar Cabañas estarán a cargo de su Órgano Interno de Control, sin perjuicio de la intervención que le corresponda a la Auditoria Superior del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De los Órganos de Gobierno del Hogar Cabañas",
+        "Artículos": [
+          {
+            "Artículo": 58,
+            "Texto": "- Para el estudio, planeación y despacho de los asuntos que le competen, el Hogar Cabañas contará con los siguientes órganos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Presidencia de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Dirección General; IV. La Delegación Institucional,"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un Órgano Interno de Control, y Vl. Las unidades técnicas y de administración que determinen las autoridades del mismo Hogar Cabañas y que se autoricen en su presupuesto de egresos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera De la Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 59,
+            "Texto": "- La Junta de Gobierno es la máxima autoridad del Hogar Cabañas y estará conformada por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será el Titular de la Secretaría; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Hasta ocho Consejeros, designados por el Gobernador del Estado, entre los cuales se deberán de encontrar los siguientes:\na) Los titulares de la Secretaría General de Gobierno, de la Hacienda Pública, de la Contraloría del Estado, y la Coordinación General Estratégica de Desarrollo Social o sus respectivos representantes;\nb) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de niñas, niños y adolescentes, con mayor mérito, inscrita, reconocida y propuesta por la Secretaría;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "El Director General del Organismo Estatal;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Hasta dos Consejeros que por tas necesidades del propio Hogar Cabañas se deban integrar, los cuales deberán ser de reconocida inclinación y vocación al servicio de la comunidad; y\ne) El titular de la Delegación Institucional del Hogar Cabañas.\nLos integrantes de la Junta de Gobierno contarán con voz y voto en las sesiones de la Junta de Gobierno. Ésta contará además con un secretario técnico que será el Director General del Hogar Cabañas, quien concurrirá a las sesiones con voz pero sin voto\nLos cargos de Consejeros a que se refiere el presente artículo serán honoríficos."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Hogar Cabañas, previa convocatoria de su Presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- Serán facultades de la Junta de Gobierno las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquellas niñas, niños y adolescentes cuya situación económica o social lo amerite;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Verificar que la Delegación Institucional procure para las personas residentes un hogar familiar por mecho de la adopción o de custodias temporales."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer las medidas que tiendan a mejorar el tratamiento integral de las personas residentes, con el máximo rendimiento de sus recursos económicos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Supervisar el diseño, planeación y ejecución de los proyectos de vida individualizado de los adolescentes residentes;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar su presupuesto anual, así como los programas de trabajo que presente el Director General del"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover actividades tendientes a obtener recursos para aumentar los fondos de que dispone el Hogar Cabañas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aplicar los fondos obtenidos conforme a las prioridades del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Expedir las disposiciones de carácter general necesarias para la adecuada organización, funcionamiento técnico y administrativo del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Aprobar el Organigrama General del Hogar Cabañas y sus modificaciones;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Solicitar al órgano Interno de Control la práctica de auditorías contables y administrativas, así como visitas de inspección a todos los órganos del Hogar Cabañas cuando lo estime necesario;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Aprobar los dictámenes de las auditorías practicadas al Hogar Cabañas y los estados financieros;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Dictar las medidas necesarias para conservar el patrimonio del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Acordar la derivación y atención necesaria de residentes que no cubran con el perfil establecido en los lineamientos de ingreso y permanencia; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que señale este código y los reglamentos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- La Junta de Gobierno será el órgano vigilante y responsable de que la Institución se conduzca conforme a las normas jurídicas que regulan su funcionamiento, debiendo, en los casos que así proceda, girar las instrucciones correspondientes al Director General del Hogar Cabañas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Presidente de la Junta de Gobierno del Hogar Cabañas",
+        "Artículos": [
+          {
+            "Artículo": 63,
+            "Texto": "- El Presidente del Hogar Cabañas tendrá facultades y obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar y apoyar la ejecución de los acuerdos de la Junta de Gobierno y las acciones que sean necesarias para el cumplimiento de los objetivos del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Facilitar el desarrollo de las actividades del Hogar Cabañas, aprobando al efecto los procedimientos para su ejecución;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan en favor del Hogar Cabañas, que por ley le correspondan;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar y testificar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas o privadas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director General del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Convocar a la Junta de Gobierno a sesiones ordinarias y extraordinarias;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Rendir anualmente el informe general de actividades del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Vigilar la correcta aplicación del presupuesto; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que señalen este código y los reglamentos aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera Del Director General del Hogar Cabañas",
+        "Artículos": [
+          {
+            "Artículo": 64,
+            "Texto": "- Para ser Director General del Hogar Cabañas se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mexicano en pleno goce de sus derechos civiles;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con experiencia en materia administrativa y asistencial;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Haber residido en el Estado por lo menos los tres años anteriores al día de su nombramiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Tener cuando menos treinta años de edad el día de su nombramiento; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ser de reconocida honorabilidad y tener vocación de servicio social."
+              }
+            ]
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- El Director General del Hogar Cabañas, tendrá las siguientes facultades y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar los acuerdos que dicte la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejercer la representación legal del Hogar Cabañas, con facultades generales de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes, así como delegar las\nfacultades para pleitos y cobranzas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Planear, dirigir y controlar el funcionamiento del Hogar Cabañas, con sujeción a los acuerdos de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar a la Junta de Gobierno para los fines de su estudio y aprobación el plan anual de actividades y su proyecto de presupuesto anual;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar con su firma las disposiciones de fondos, previa autorización de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Celebrar convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ejecutar las penas convencionales, así como determinar las sanciones que, en su caso, procedan por rescisión, en contra de los proveedores y demás entes o personas que, habiendo celebrado algún contrato o acuerdo de voluntades con el Hogar Cabañas, incumplan con el mismo en su perjuicio, de conformidad con la ley que regula la materia de compras gubernamentales y contratación de servicios;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "VIII. Expedir, con aprobación de la Junta de Gobierno, los nombramientos de la Delegación Institucional y demás personal del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Llevar las relaciones de trabajo de acuerdo con las disposiciones legales;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Conceder licencias al personal del Hogar Cabañas en los términos de Ley;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Supervisar las unidades técnicas y administrativas que integran el Hogar Cabañas;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Promover y gestionar ante toda clase de autoridades, personas físicas o jurídicas, la incorporación al patrimonio del Hogar Cabañas de los bienes y frutos que por la ley o actos de particular deben pertenecerle;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover ante la Junta de Gobierno las medidas que considere convenientes para mayor rendimiento del patrimonio del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Cuidar que se conserve el orden en los diferentes departamentos del Hogar Cabañas, y de que todos los empleados y personas residentes cumplan con sus obligaciones;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Vigilar que los alimentos sean sanos y suficientes y que no falte ropa ni ningún otro bien indispensable a las personas residentes;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Vigilar que se mantengan en adecuadas condiciones de higiene las instalaciones del Hogar Cabañas;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Vigilar que se observe la más estricta moralidad en los departamentos;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Vigilar la comercialización de los artículos elaborados en el Hogar Cabañas;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Imponer medidas disciplinarias a las personas residentes;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Permitir a las personas residentes que visiten a sus familiares siempre que ello, no sea en perjuicio de su educación;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Asignar a las personas residentes quehaceres que tiendan al logro de su mejor educación;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Llevar el control de los ingresos del Hogar Cabañas por concepto de herencias, legados, donaciones, productos, derechos y demás percepciones;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Aplicar los fondos que provengan de donativos a los servicios del Hogar Cabañas salvo el caso de que el donante especifique el destino de la donación en cuyo caso será respetada su voluntad;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Autorizar con su firma las actas y las copias de ésta y de los documentos que existan en los archivos del Hogar Cabañas; y"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Las demás que señalen este código y los reglamentos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 66,
+            "Texto": "- Las relaciones de trabajo de las instituciones de asistencia social pública, tales como el Organismo Estatal, el Hogar Cabañas y los organismos municipales; con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "- El personal del Organismo Estatal, del Hogar Cabañas y de los organismos municipales, estará incorporado al Instituto de Pensiones del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 68,
+            "Texto": "- Para los efectos de este ordenamiento, se consideran instituciones de asistencia social privada, las personas jurídicas, constituidas por voluntad de los particulares, de conformidad con las leyes vigentes, que lleven a cabo acciones de promoción, investigación o financiamiento para actos de asistencia social o que presten servicios asistenciales sin fines de lucro, en los términos de este código.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "- La capacidad jurídica de las instituciones de asistencia social privada está circunscrita a los términos marcados por el objeto de su institución, por las disposiciones contenidas en el Código Civil del Estado de Jalisco y por el presente Código.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "- Las personas jurídicas que se dediquen a la asistencia social privada, antes de iniciar sus labores, deberán contar con la anuencia de la Secretaría debiendo constituirse como fundaciones o asociaciones de acuerdo a lo que prevé la legislación civil en el capítulo de las personas jurídicas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "- La Secretaría realizará el registro, análisis y propuesta de la constitución de aquellas instituciones de asistencia social privada que pretenda integrarse al Sistema de Asistencia Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "- Los notarios públicos darán cuenta a la Secretaría, de los actos que autoricen en razón de los cuales se origine o pueda originarse algún interés para la asistencia social privada, ya sea que en el acto se instituye alguna obra o se relacionen con las ya instituidas.\nNo se concederán permisos para la realización de eventos destinados a la asistencia social, si no se justifica haber cumplido con las disposiciones de este capítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- Se equiparan a las instituciones de asistencia social privada, las fundaciones o asociaciones para la concesión de premios para estudios, investigaciones, descubrimientos o actos que tengan por objeto un adelanto en las ciencias o en las artes o un beneficio a la humanidad o a las personas sujetos de asistencia social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "- Los actos de asistencia social privada pueden ser ejercitados en las siguientes formas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por persona individual, mediante la creación y dotación de un establecimiento o fundación de manera transitoria, independiente del fundador;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por una institución formada, ya sea por un conjunto de bienes cuyo asiento no pertenece a ninguna persona o sociedad, constituida conforme a la ley, o por una organización social cuyos fines sean independientes del interés particular, así como de la vida de cada uno de sus miembros; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por persona individual que emplea sus recursos para obras de asistencia social, la cual depende inmediata o directamente de dicha persona y está sujeta a su voluntad, así como al término de su vida; de tal suerte que al morir dicha persona, se extinga la obra de beneficencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 75,
+            "Texto": "- Se consideran eventos destinados a la asistencia social, los efectuados por cualquiera de las instituciones antes mencionadas, cuyos productos en todo o en parte, se destinen a la asistencia social, quedando sujetos dichos actos a la autorización y vigilancia de la Secretaría y de los Ayuntamientos en el ámbito de su competencia",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II Patrimonio de las Instituciones de Asistencia Social Privada",
+        "Artículos": [
+          {
+            "Artículo": 76,
+            "Texto": "- Las instituciones de asistencia social privada no podrán poseer más bienes raíces que los necesarios para su objeto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 77,
+            "Texto": "- Las instituciones de asistencia social privada pueden adquirir y aceptar donaciones, herencias y legados, pero los bienes inmuebles que se les transmitieran serán enajenados dentro de un plazo de tres años, contados a partir del momento en que se rebase el límite dispuesto por el artículo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "- La venta se verificará en subasta pública ante la autoridad judicial correspondiente, con las formalidades establecidas por la ley de la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "- Si tres años después de la adjudicación, el patrono, apoderado, juntas o administradores de la institución no hubiesen procedido a la venta de los inmuebles, la promoverá judicialmente la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 80,
+            "Texto": "- Para aceptar o repudiar una donación, legado o herencia condicional u onerosa, las instituciones necesitan autorización de la Secretaría; teniendo la obligación de aceptar las no onerosas, previo aviso que efectúe a la misma; lo anterior conforme a lo dispuesto por el Código Civil del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 81,
+            "Texto": "- La distribución y aprovechamiento de las cantidades que se dejen en numerario a las instituciones de asistencia social privada por herencia o legado, deben ser vigiladas por la Secretaría.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De las Fundaciones de Asistencia Social Privada",
+        "Artículos": [
+          {
+            "Artículo": 82,
+            "Texto": "- La Secretaría será la encargada de hacer el análisis respectivo a las solicitudes de constitución de fundaciones y hará la propuesta relativa al Consejo Jalisciense, para que se otorgue el reconocimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 83,
+            "Texto": "- Hecha la declaratoria de viabilidad por el Secretario General de Gobierno, la remitirá a la Secretaría, para que por su conducto se comunique a la fundación que se pretenda crear y se inscriba en el Registro Público de la Propiedad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "- En caso de que los herederos, albaceas o miembros del patronato designados por el testador no acrediten en los autos del juicio testamentario haber cumplido oportunamente con lo estipulado por el Código Civil del Estado, los jueces que oficialmente tengan conocimiento de la disposición testamentaria, darán aviso a la Secretaría, a fin de que éste proceda a exigir la constitución de la fundación, a cuyo efecto será considerada parte en el juicio testamentario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "- Cualquier persona podrá informar a la Secretaría de las disposiciones testamentarias en que se prevean actos de asistencia social privada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "- Son miembros del patronato de una fundación aquéllos que dispone el Código Civil del Estado. En las faltas temporales o absolutas lo serán los nombrados por la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "- No pueden ser miembros del patronato, directores ni administradores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los funcionarios o empleados públicos; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los albaceas de la sucesión en que se constituya un legado en favor de alguna obra de asistencia social privada o instituya a ésta heredera. Esta incapacidad solamente subsistirá durante el tiempo del ejercicio del albaceazgo."
+              }
+            ]
+          },
+          {
+            "Artículo": 88,
+            "Texto": "- En caso de controversia sobre quién tiene el derecho de ser miembro del patronato, los jueces decidirán provisionalmente y mientras concluye el litigio quién de los contendientes integrará el patronato y lo pondrá en posesión de su cargo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV De las Asociaciones de Asistencia Social Privada",
+        "Artículos": [
+          {
+            "Artículo": 89,
+            "Texto": "- Para efectos de este Código, se considerarán asociaciones dedicadas a la asistencia social privada, aquéllas que se constituyan de acuerdo con el Código Civil del Estado, para alguno de los fines indicados en el presente ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 90,
+            "Texto": "- Las asociaciones que quieran gozar de los derechos que concede este Código, deberán presentar el acta constitutiva y los estatutos de la asociación en que conste:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los nombres, apellidos y domicilios de los asociados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La denominación de la asociación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El objeto de la misma;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los fondos de la asociación y la forma y términos en que hayan de exhibirse o recaudarse;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las bases para la dirección o administración de la asociación, expresando las juntas, consejos o personas que hayan de tenerlas a su cargo y la manera como hayan de ser electas o designadas; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Todos los datos necesarios para el esclarecimiento de la voluntad de los asociados y la manera de ejecutarla."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V De la Administración de las Instituciones de Asistencia Social Privada",
+        "Artículos": [
+          {
+            "Artículo": 91,
+            "Texto": "- Si los benefactores hubieren establecido bases para la enajenación de bienes, se estará a ellas y se obrará de acuerdo con lo prevenido en el presente Código y en el Código Civil del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "- El presidente del patronato, directores o administradores no pueden desempeñar estos cargos en dos o más instituciones de asistencia social privada. Tampoco pueden desempeñar en una misma institución los cargos de director, administrador y tesorero; el cónyuge, así como las personas que tengan parentesco con los sujetos arriba mencionados no podrán ejercer estos cargos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 93,
+            "Texto": "- En los casos en que sea heredera una institución de asistencia social privada y en la herencia intervengan por cualquier causa los miembros del patronato, directores o administradores de la fundación; así como cuando estén interesados esas mismas personas tanto en la herencia como en la gestión de la institución, quedarán separados de sus cargos por el tiempo que dure el juicio sucesorio, nombrándose, en su caso, por la Secretaría un administrador provisional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "- En el caso del artículo anterior son atribuciones del administrador provisional:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar el caudal que hereda la fundación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Actuar con toda diligencia durante la tramitación del juicio sucesorio;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover el pronto despacho del juicio y de sus incidentes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Reclamar las infracciones de ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar la conducta del albacea, dando cuenta a la Secretaría de todos los actos en que pueden resultar perjudicados los intereses de la obra de beneficencia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Dar parte al juez de la sucesión de los abusos que advierta cuando el caso fuere urgente;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer que se dicten las providencias necesarias para la conservación de los bienes; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que la Secretaría le designe."
+              }
+            ]
+          },
+          {
+            "Artículo": 95,
+            "Texto": "- Las atribuciones que al administrador provisional señala el artículo anterior, se ejercerán de acuerdo y bajo el patrocinio y dirección de la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "- Los miembros del patronato, directores o administradores, llevarán libros de contabilidad pormenorizados y uno especial destinado a formar la historia de la fundación o asociación y de todo lo que con ella se relacione.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 97,
+            "Texto": "- Los miembros del patronato, directores o administradores, salientes rendirán cuenta de su administración a los entrantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 98,
+            "Texto": "- La Secretaría ejercerá su vigilancia con el objeto de impedir la distracción o dilapidación de los fondos, los fraudes de los administradores, miembros del patronato o directores o la inejecución de la voluntad de los fundadores; pero dejando a los ejecutores libertad de acción.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI De los Apoyos a las Fundaciones y Asociaciones",
+        "Artículos": [
+          {
+            "Artículo": 99,
+            "Texto": "- Las fundaciones y asociaciones de asistencia social privada constituidas con arreglo a este Código, gozarán de la reducción de un noventa por ciento en las contribuciones que deban al Estado.\nEl Gobierno del Estado y los municipios podrán establecer estímulos de la misma naturaleza de conformidad con lo que señalen sus presupuestos de egresos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I De las Autoridades Judiciales",
+        "Artículos": [
+          {
+            "Artículo": 100,
+            "Texto": "- Los jueces y tribunales tienen obligación de dar aviso a la Secretaría, de los negocios y sucesiones en que se instituya una obra de asistencia social o que se relacionen con alguna institución de asistencia social privada; comunicando todos los procedimientos y resoluciones cuya falta de conocimiento pueda perjudicar a las instituciones. En caso de sucesión con el aviso se acompañará copia simple del testamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 101,
+            "Texto": "- En las sucesiones en las que de cualquier modo debe interesarse la asistencia social privada, la intervención de la Secretaría comenzará desde la iniciación de los juicios y tendrá derecho de nombrar interventor en los términos del Código Civil del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la Intervención de la Procuraduría Social",
+        "Artículos": [
+          {
+            "Artículo": 102,
+            "Texto": "- Los agentes de la Procuraduría Social, intervendrán en los negocios judiciales en que la asistencia social fuere parte, dando cuenta a la Secretaría de todas y cada una de las diligencias en que intervinieron, así como de las promociones que hicieran.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 103,
+            "Texto": "- La falta de cumplimiento de las obligaciones que a los agentes de la Procuraduría Social impone este Código, será causa de responsabilidad y la Secretaría, la sancionará conforme a derecho proceda.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 104,
+            "Texto": "- El Estado, por conducto de la Procuraduría Social, en los términos que determine su ley orgánica y el presente libro, deberá prestar los servicios de defensoría de oficio, asesoría jurídica y patrocinio en negocios judiciales en forma gratuita, a las personas físicas que por sus condiciones y circunstancias especiales, sociales o económicas se vean en la necesidad de tales servicios o cuando las leyes así lo dispongan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 105,
+            "Texto": "- Cuando la Procuraduría Social desempeñe las funciones a que se refiere el artículo anterior, deberá realizar, en los términos que establezca su ley orgánica, las gestiones necesarias para lograr la conciliación de las partes en conflicto, sin que los actos de mediación que realice la Procuraduría Social, impliquen instancia alguna, ni la suspensión o interrupción de términos judiciales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 106,
+            "Texto": "- Para el desempeño de las funciones que le atribuye este libro, la Procuraduría Social podrá celebrar convenios de colaboración con la Dirección de Profesiones del Estado, Fiscalía Estatal, la defensoría de oficio federal, las universidades públicas y privadas, colegios y barras de abogados, así como con otras instituciones, dependencias o asociaciones afines, con el propósito de que éstas faciliten a la Procuraduría Social apoyos técnicos y humanos para el mejor desempeño de sus atribuciones.\nLos convenios a que se refiere el presente artículo, en ningún momento implicarán la substitución, en las facultades de la Procuraduría Social, por parte de las entidades con las que hubiere celebrado convenios. Cuando por virtud de dichos convenios, intervengan prestadores del servicio social o pasantes, se entiende que éstos actúan como auxiliares de los servidores públicos de la Procuraduría Social, sin contar con cargo alguno.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la Defensoría Pública",
+        "Artículos": [
+          {
+            "Artículo": 107,
+            "Texto": "- En asuntos del orden penal, la defensoría pública deberá proporcionar en los términos previstos en el artículo 20, apartado B, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, siempre que el imputado no pudiere o no quisiere nombrar defensor, tanto en la investigación como en el proceso penal, en la forma en que lo determine el Código Nacional de Procedimientos Penales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 108,
+            "Texto": "- En los juzgados especializados en materia penal y mixtos de primera instancia y en las Salas del Supremo Tribunal de Justicia del Estado que conozcan de asuntos del orden penal, la Procuraduría Social tendrá adscrito al menos un defensor.\nHabrá un coordinador para los defensores de oficio adscritos a las agencias del Ministerio Público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 109,
+            "Texto": "- En los asuntos del orden familiar la Procuraduría Social deberá asignar un defensor público cuando se lo solicite alguna de las partes. Se procurará evitar en lo posible llegar a juicio, ayudando al interesado a resolver su problemática con la colaboración de las instancias de servicios interdisciplinarios que prevé la ley.\nEn los casos a que se refiere este artículo, la Procuraduría Social deberá continuar patrocinando al interesado hasta la conclusión del procedimiento judicial, en tanto éste no revoque formalmente su determinación de continuar bajo la asistencia legal de la Procuraduría Social o haga la designación de un abogado particular.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De los Servicios Jurídicos Gratuitos en otros Ramos de la Administración de Justicia",
+        "Artículos": [
+          {
+            "Artículo": 110,
+            "Texto": "- La Procuraduría Social, en los términos previstos en el presente capítulo y en su ley orgánica, tendrá a su cargo la prestación de los servicios de asesoría legal gratuita y patrocinio en negocios judiciales, en los asuntos del orden civil, mercantil y administrativo; así como en el área penal en los casos expresamente previstos en este capítulo diversos a los supuestos en que procede el nombramiento de defensor de oficio, y en la materia laboral, en favor de los trabajadores al servicio del Estado y sus municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 111,
+            "Texto": "- La Procuraduría Social no prestará servicios en favor de personas jurídicas ya sean de derecho público o privado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 112,
+            "Texto": "- La Procuraduría Social deberá atender a toda persona física que acuda a hacer consultas sobre problemas o situaciones jurídicas concretas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 113,
+            "Texto": "- El patrocinio en negocios judiciales a que se refiere el presente capítulo, será proporcionado por la Procuraduría Social, siempre que exista solicitud de parte interesada que carezca de los recursos económicos necesarios para sufragar los honorarios de un abogado particular. Para comprobar la falta de recursos, la Procuraduría Social podrá realizar un estudio socioeconómico cuando lo estime conveniente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 114,
+            "Texto": "- En casos urgentes o cuando existieren términos judiciales que pudiesen precluir a causa de la demora en la prestación de los servicios necesarios, la Procuraduría Social los prestará en forma inmediata.\nUna vez realizados los trámites urgentes, en los casos en que se realice el estudio socioeconómico, si el solicitante no reúne las condiciones exigidas por la ley para recibir el servicio, la Procuraduría Social se abstendrá, previa comunicación hecha al interesado, de continuar su intervención en el asunto, siempre que le conceda un término suficiente para obtener los servicios de un abogado y que las consecuencias inmediatas de tal abstención no impliquen un riesgo para el resultado final del asunto encomendado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 115,
+            "Texto": "- Cuando los resultados de un estudio socioeconómico originen la negativa de la Procuraduría Social a patrocinar al interesado en un negocio judicial, éste podrá solicitar al Procurador Social la revisión del caso, a fin de que revoque confirme o modifique la determinación anteriormente dictada.\nLa solicitud de revisión que haga el particular no deberá llenar formalidad alguna, sólo se limitará a señalar el caso concreto y las causas por las cuales solicita la intervención de la Procuraduría Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 116,
+            "Texto": "- La resolución del procurador en los casos de revisión, deberá dictarse en un término de diez días hábiles contados a partir de la presentación de la solicitud de revisión, en caso contrario se entenderá que la resolución del procurador es favorable al interesado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 117,
+            "Texto": "- La Procuraduría Social podrá suspender o dar por terminada su intervención en patrocinio de un procedimiento judicial, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Efectuado el estudio socioeconómico a que se refiere este capítulo, determine que las condiciones del interesado le permiten obtener los servicios de un abogado particular;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El interesado se asista, en cualquier diligencia o trámite judicial, de los servicios de uno o varios abogados particulares; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El interesado manifieste su determinación de no continuar haciendo uso de los servicios de la Procuraduría Social."
+              }
+            ]
+          },
+          {
+            "Artículo": 118,
+            "Texto": "- En los casos a que se refieren las fracciones I y II del artículo anterior, la Procuraduría Social deberá dar aviso formal al interesado, en el cual le manifieste los motivos y fundamentos de su determinación.\nEl aviso deberá notificarse al interesado con el término suficiente para que se haga asistir de abogado particular y, la Procuraduría Social, deberá cuidar que con ello no se ponga en riesgo el éxito del negocio judicial que hubiere patrocinado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I Del Objeto y de las Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 119,
+            "Texto": "- El presente Libro tiene por objeto fomentar, encausar y regular las donaciones gratuitas para la satisfacción de las carencias alimentarias de la población más necesitada del Estado y tiene por objetivos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover, orientar y regular las donaciones de alimentos para evitar el desperdicio injustificado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer los principios y criterios que orienten las políticas del Sistema Estatal de Asistencia Social, para promover acciones que generen una cultura de aprovechamiento y donación altruista de alimentos para la población menos favorecida;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contribuir a satisfacer las necesidades alimentarias de la población vulnerable; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar y regular los bancos de alimentos."
+              }
+            ]
+          },
+          {
+            "Artículo": 120,
+            "Texto": "- Queda prohibido el desperdicio irracional e injustificado de productos alimenticios, cuando estos sean susceptibles de donación para su aprovechamiento altruista por alguna persona jurídica privada de beneficencia reconocida oficialmente por el Consejo Jalisciense.\nLas personas con intención de donar alimentos quedarán exentos de la responsabilidad señalada en el párrafo anterior, cuando habiendo dado cuenta de ello al banco de alimentos, éste no acuda oportunamente a recogerlos.\nLa obligatoriedad de evitar el desperdicio de alimentos alcanza a la cadena de valor completa de la producción, transformación y distribución de alimentos.\nLa prevención del desperdicio de alimentos deberá atender el destino útil de sus materias primas como a productos terminados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 121,
+            "Texto": "- Son beneficiarios de las disposiciones de este libro las personas que en el Estado carecen de los medios necesarios para satisfacer sus necesidades alimentarias básicas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 122,
+            "Texto": "- La Secretaría de Salud supervisará la distribución higiénica de los alimentos e implementará programas de asesoría, capacitación y evaluación en la materia.\nAsí mismo deberá elaborar programas alimentarios considerando las estadísticas y zonas con población en riesgo de desnutrición para encausar las acciones a dichas zonas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 123,
+            "Texto": "- El Organismo Estatal y los Organismos Municipales promoverán la asistencia alimentaria altruista y participarán en los esfuerzos públicos y privados que se desarrollen para tal efecto.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De las facultades del Sistema Estatal de Asistencia Social",
+        "Artículos": [
+          {
+            "Artículo": 124,
+            "Texto": "- Corresponde a la Secretaría crear una política transversal en materia de aprovechamiento y donación altruista de alimentos, en coordinación con el Organismo Estatal, los Organismos Municipales y la Secretaría de Salud, además de las instancias competentes del gobierno de Jalisco, que considere al menos las actividades siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la donación altruista de alimentos entre la población y los sectores público y privado por medio de campañas permanentes de sensibilización que incluyan la divulgación de sus beneficios entre la población más necesitada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar la creación y fortalecimiento de los Bancos de Alimentos, enfocados al manejo y aprovechamiento de las donaciones altruistas."
+              }
+            ]
+          },
+          {
+            "Artículo": 125,
+            "Texto": "- La Secretaría tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Generar estudios y bases de datos sobre las necesidades alimentarias en el Estado, para lo que podrá solicitar el apoyo de las instituciones y asociaciones públicas o privadas señaladas en este mismo Código;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la celebración de convenios entre donantes y donatarios, públicos y privados, para incentivar la donación de alimentos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinar los esfuerzos públicos y privados, destinando las donaciones a bancos de alimentos, y a programas públicos de asistencia y desarrollo social, evitando la saturación de oferta de alimentos en algunas zonas o regiones del Estado en detrimento de otras; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Supervisar que el destino de los alimentos se entregue a la población objetivo señalado en este Código."
+              }
+            ]
+          },
+          {
+            "Artículo": 126,
+            "Texto": "- Corresponde al Congreso del Estado:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Incluir una partida presupuestal para el rescate de alimentos de productores agrícolas cuando estos estén destinados al desperdicio, y cuando éstos sean susceptibles de donación para su aprovechamiento altruista por alguna persona jurídica de beneficencia reconocida por el Consejo Jalisciense;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar el presupuesto necesario para la ejecución del programa de donación altruista de alimentos, el cual no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base a la cifra de inflación señalada en los Criterios Generales de Política Económica para el ejercicio fiscal que se está presupuestando, en tanto no se satisfaga la demanda alimentaria en el Estado; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir de la Secretaría, a través de la Comisión Legislativa competente en materia de desarrollo humano e integración social, los estudios que definan el piso mínimo anual para el funcionamiento de este programa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De los Bancos de Alimentos",
+        "Artículos": [
+          {
+            "Artículo": 127,
+            "Texto": "Los bancos de alimentos son todas aquellas personas jurídicas públicas o privadas de beneficencia que tengan por objeto recibir en donación alimentos, almacenarlos o distribuirlos con la finalidad de satisfacer las carencias alimentarias de la población necesitada del Estado. Estas personas jurídicas estarán sujetas a la legislación sanitaria estatal y federal, además deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener establecimientos que reúnan las condiciones sanitarias adecuadas para el manejo de alimentos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener personal capacitado y equipo para conservar, manejar y transportar higiénicamente los alimentos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cumplir con las normas oficiales mexicanas y los lineamientos técnicos que al efecto se expidan;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Distribuir los alimentos oportunamente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No comercializar con los alimentos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Destinar las donaciones a personas de escasos recursos económicos o en situación de necesidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Evitar desvíos o mal uso de los alimentos en perjuicio de las personas de escasos recursos, productores, comerciantes o de la hacienda pública;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Informar anualmente a la Secretaría de los donativos recibidos y de los aplicados;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Observar las disposiciones administrativas y medidas de control que dicte la Secretaría en materia de donación de alimentos mediante instrucciones de carácter general;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar convenios con los donantes en los que se especifique, cuando menos, los tiempos de entrega y condiciones o requerimientos para la misma; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que determine la ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 128,
+            "Texto": "- Se consideran Bancos de Alimentos con reconocimiento oficial a aquellos que obtengan su inscripción con tal carácter ante la Secretaría, para tal fin, ésta llevará un registro de éstos, los que para obtenerlo deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer en sus estatutos que sus directivos no percibirán retribución lucrativa por el desempeño de sus cargos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que en caso de liquidación, su patrimonio pasará a formar parte de otra personas jurídica similar o en su defecto al Organismo Estatal; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con un manual de funcionamiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 129,
+            "Texto": "- Los bancos de alimentos podrán solicitar una cuota de recuperación que no exceda del diez por ciento del valor comercial del producto, siempre y cuando el beneficiario tenga posibilidades de cubrirla.\nLa imposibilidad de pagar la cuota de recuperación no será motivo para negar el suministro de alimentos al beneficiario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 130,
+            "Texto": "- Las cuotas de recuperación y balances financieros de las operaciones de los bancos de alimentos deberán reportarse anualmente a la Secretaría.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV De los Donantes de Alimentos",
+        "Artículos": [
+          {
+            "Artículo": 131,
+            "Texto": "- Son donantes de alimentos todas aquellas personas físicas o jurídicas que con fines altruistas entregan productos comestibles a los bancos de alimentos para su distribución entre la población más necesitada.\nLos productos comestibles a los que se refiere el párrafo anterior deberán reunir las condiciones necesarias de calidad e higiene a fin de ser aptos para el consumo de los beneficiarios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 132,
+            "Texto": "Los donantes de alimentos pueden suprimir la marca de los objetos que donen cuando así lo estimen conveniente, conservando los datos que identifiquen la caducidad y descripción del producto. No obstante lo anterior, si alguna empresa patrocina a algún banco de alimentos, sea en especie o en numerario, podrá solicitar se le reconozca su participación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 133,
+            "Texto": "- Los donantes de alimentos quedan exentos de responsabilidad en caso de daño a la salud de los beneficiarios, siempre y cuando los productos alimenticios cumplan con las condiciones que señala esta ley.\nLos Bancos de alimentos sólo serán responsables de los daños que se causen, cuando se acredite que existió negligencia o dolo en la recepción, cuidado o distribución de los productos alimenticios.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V De los Estímulos y Sanciones",
+        "Artículos": [
+          {
+            "Artículo": 134,
+            "Texto": "- Los donantes podrán acogerse a los estímulos y beneficios que señale la legislación tributaria federal y estatal, así como a los convenios de colaboración que para tal efecto realice el Gobierno del Estado o los ayuntamientos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 135,
+            "Texto": "- El Consejo Jalisciense entregará anualmente un reconocimiento público a los donantes de alimentos que se hayan distinguido por sus contribuciones a favor de los más necesitados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 136,
+            "Texto": "- Las violaciones a lo establecido por el presente Libro, su reglamento y demás disposiciones que de él emanen, serán sancionadas por la Secretaría o dependencia que corresponda de la administración pública del Estado o de los ayuntamientos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 137,
+            "Texto": ". Se aplicará a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización.",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los funcionarios públicos, empleados o directivos de los bancos de alimentos que participen en el desvío de alimentos donados y que fueron recibidos por estas personas jurídicas para su distribución, ya sea que se utilicen para su aprovechamiento personal o de terceros que no los requieren. La sanción se aumentará hasta en un cien por ciento cuando se comercialice con estos alimentos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los que ordenen, participen o practiquen el desperdicio irracional e injustificado de alimentos. Igual sanción recibirán quienes habiéndosele solicitado alimentos en donación no los diere y los desperdiciara injustificadamente; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los que teniendo conocimiento de que los alimentos no se encuentran aptos para el consumo, ordene o participe en la donación a los bancos de alimentos o la distribución de los mismos entre la población más necesitada."
+              }
+            ]
+          },
+          {
+            "Artículo": 138,
+            "Texto": "- Para lo no previsto en el presente Libro se estará a lo señalado en el Libro Tercero de este Código.\nARTÍCULO SEGUNDO. Se adiciona un artículo 168 Bis al Código Civil del Estado de Jalisco…\nARTÍCULO TERCERO. Se reforma el artículo 78 de la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco…\nARTÍCULO CUARTO. Se reforma el artículo 25 de la Ley de Ingresos del Estado de Jalisco, para el Ejercicio Fiscal 2019…\nARTÍCULO QUINTO. Se reforman los artículos 2°, 9°, 10, 17, 18, 22, 23, 25, 26, 28, 31-B, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 45, 47, 48, 50, 51, 52, 53, 55, 59, 61, 69, 72, 73, 75, 76, 76 BIS, 78, 80, 82, 83, 84, 85, 86, 87, 88, 90, 94, 95, 100, 106, 107, 113, 115, 132, 137-A, 147, 153, 157, 158, 159, 161, 163, 164, 165, 168, 172, 173, 174, 175, 176, 180, 181, 182, 183, 194, 196, 198, 206 y 208 del Código Fiscal del Estado de Jalisco\nARTÍCULO SEXTO. Se reforma el artículo 19 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, …\nARTÍCULO SÉPTIMO. Se extingue el organismo público descentralizado denominado Instituto de Asistencia Social del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor el día de su publicación en el periódico oficial <El Estado de Jalisco=.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial <El Estado de Jalisco\". SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar Cabañas, las funciones serán ejercidas por el Órgano Interno de Control de la Secretaría a la que se encuentre sectorizado el organismo, sin perjuicio de la intervención que le corresponda a los entes fiscalizadores. TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional. CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.\nARTÍCULOS TRANSITORIOS AL DECRETO 28852/LXIII/22\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial <El Estado de Jalisco=. SEGUNDO. El Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes (SIPINNA) a través de su Secretaría Ejecutiva, deberá de diseñar la Estrategia Estatal para la Atención Integral en Primera Infancia de conformidad con lo establecido en este decreto, dentro de los 120 días posteriores a la entrada en vigor del presente decreto, la cual podrá contar con el apoyo de las dependencias que están sectorizadas a la Coordinación General Estratégica de Desarrollo Social. Asimismo, la Secretaría Ejecutiva del Sistema, deberá acompañar el proceso de Planeación, Programación y Presupuestación, con la finalidad de orientar el gasto público a la atención de la Estrategia Estatal para la Atención Integral de Primera Infancia. En la elaboración de la Estrategia se considerará la opinión de las dependencias para el establecimiento del cumplimiento de metas. TERCERO. La Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco, elaborará los estudios de campo y diagnósticos correspondientes para determinar la demanda en los sectores públicos y privados del Estado que presten servicios con horarios no convencionales, con la oportunidad de proyectar la necesidad del servicio de los Centros de Desarrollo Infantil al área donde pueda aplicar. CUARTO. La Secretaría de Salud del Estado de Jalisco en coordinación con el Organismo Público Descentralizado de Servicios de Salud Jalisco, incluirá como un proyecto prioritario la implementación de más Bancos de Leche Humana a lo largo del Estado de Jalisco y fortalecerá el existente tomando en consideración los puntos que establece la PROY-NOM-050-SSA2-2018. QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Publico del Estado de Jalisco, determinará los recursos suficientes para la implementación y ejecución del Programa y acciones generados por la Estrategia Estatal para la Atención Integral en Primera Infancia, con el presupuesto previamente asignado. SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023. SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.\nTABLA DE REFORMAS Y ADICIONES\n27972/LXll/20.- Se reforma el artículo 86 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Jalisco; Se reforman los articules 57, 58, 59, 61 y 65 del Código de Asistencia Social del Estado de Jalisco; Se reforman los art1culos 639, 774, 775 y 776 del Código Civil del Estado de Jalisco.- Sep. 19 de 2020 sec. IV.\n28746/LXIII/22.- Se reforma el artículo 4 del Código de Asistencia Social del Estado de Jalisco.- Mar. 19 de 2022 sec. V.\n28852/LXIII/22.- Se reforman los artículos 4 y 25 del Código de Asistencia Social del Estado de Jalisco. Noviembre 5 de 2022. Sec. VIII\nCÓDIGO DE ASISTENCIA SOCIAL\nAPROBACIÓN: 30 DE ENERO DE 2019\nPUBLICACION: 1 DE FEBRERO DE 2019 BIS ED. ESPECIAL\nVIGENCIA: 1 DE FEBRERO DE 2019",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga el Código de Asistencia Social contenido en el Decreto número 17002, así como sus modificaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se derogan todas las disposiciones legales que se opongan al presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Las funciones del Instituto Jalisciense de Asistencia Social (IJAS) relacionadas con las labores de asistencia social y beneficencia, serán asumidas por la Secretaría del Sistema de Asistencia Social.\nLas funciones relacionadas con los depósitos vehiculares y administración de bienes serán absorbidas por la Secretaría de Administración y la captación de recursos estará a cargo de la Secretaría de la Hacienda Pública.\nLa titularidad, administración y funciones de las dependencias directas del Instituto Jalisciense de Asistencia Social pasarán al Sistema Estatal para el Desarrollo Integral de la Familia conforme a la tabla siguiente:\nDependencia Directa Entidad que se hará cargo de las funciones Unidad Asistencial para Indigentes (UAPI) Sistema Estatal para el Desarrollo Integral de la Familia (DIF) Centro de Terapias Especiales Recintos Funerarios Centros de Capacitación para el Trabajo Asilo Leónidas K. Demus\nLos asuntos en trámite relacionados con las funciones sustantivas del Instituto Jalisciense de Asistencia Social que se extingue y sus dependencias directas, pasarán a las secretarías y entidades señaladas en este artículo, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado.\nEl Poder Ejecutivo, a través de las Secretarías del Sistema de Asistencia Social, de Administración y de la Hacienda Pública, así como del Sistema Estatal para el Desarrollo Integral de la Familia, todos del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que las labores de asistencia social y beneficencia; las funciones relacionadas con los depósitos vehiculares y administración de bienes; así como los servicios y funciones de las dependencias directas; se presten en forma ininterrumpida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo quinto transitorio del Presupuesto de Egresos del Estado de Jalisco para el periodo comprendido del 1° de enero al 31 de diciembre del año 2019.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS), facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo, incluidos los procesos jurisdiccionales que se encuentren en trámite.\nLa Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS).",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social (IJAS), pasarán a las dependencias que, en su caso, determine el Gobernador del Estado, garantizando el cumplimiento de las obligaciones contraídas previo al inicio del procedimiento de liquidación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Las relaciones laborales que tenga el Instituto Jalisciense de Asistencia Social (IJAS) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, tomando en consideración que los empleados de dicho organismo son servidores públicos como lo prevé la Constitución Política del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense de Asistencia Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social, y en caso de encontrar alguna responsabilidad, deberá ejercer las acciones correspondientes ante las autoridades competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado denominado Instituto Jalisciense de Asistencia Social que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por las Secretarías del Sistema de Asistencia Social, de Administración y de la Hacienda Pública, conforme a la siguiente tabla:\nANTERIOR NUEVO (En materia de las labores de asistencia social y/o beneficencia)\nSecretaría del Sistema de Asistencia Social\n(En materia de depósitos vehiculares y administración de bienes)\nSecretaría de Administración\n(En materia de captación de recursos)\nSecretaría de la Hacienda Pública",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Segundo",
+            "Texto": "Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 29 DE ENERO DE 2019\nDiputado Presidente SALVADOR CARO CABRERA\nDiputada Secretaria\nDiputado Secretario\nMIRIAM BERENICE RIVERA RODRÍGUEZ\nFCO. JAVIER ROMO MENDOZA\n(RÚBRICA)\nPROMULGACIÓN DEL DECRETO 27229/LXII/19, MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO DE ASISTENCIA SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019, DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 30 DE ENERO DE 2019.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 31 treinta y un días del mes de enero de 2019 dos mil diecinueve.\nENRIQUE ALFARO RAMÍREZ El Gobernador Constitucional del Estado de Jalisco\nJUAN ENRIQUE IBARRA PEDROZA El Secretario General de Gobierno\nARTÍCULOS TRANSITORIOS DEL DECRETO 27972/LXll/20",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

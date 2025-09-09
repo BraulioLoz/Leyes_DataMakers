@@ -1,0 +1,34 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 50,
+  "n_perm_fracciones": 211,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De los Principios y Valores del servicio público en la Administración Pública del Estado",
+    "Capítulo III De las Reglas de Integridad",
+    "Sección Primera De la Actuación Pública",
+    "Sección Segunda De la información pública",
+    "Sección Tercera De las Contrataciones Públicas, Licencias, Permisos, Autorización y Concesiones",
+    "Sección Cuarta De los Programas Gubernamentales",
+    "Sección Quinta De los trámites y servicios",
+    "Sección Sexta De los Recursos Humanos",
+    "Sección Séptima De la Administración de Bienes Muebles e Inmuebles",
+    "Sección Octava De los Procesos de Evaluación",
+    "Sección Novena Del Control Interno",
+    "Sección Décima Del Procedimiento Administrativo",
+    "Capítulo V De la salvaguarda de los principios y valores",
+    "Capítulo VI De la Vigilancia y aplicación del Código",
+    "Sección Primera De la Contraloría",
+    "Sección Segunda De la Unidad Especializada",
+    "Sección Tercera De los Comités",
+    "Sección Cuarta",
+    "Capítulo VII Mecanismos de capacitación y difusión"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "SECCIÓN": 14
+  }
+}

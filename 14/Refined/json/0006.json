@@ -1,0 +1,814 @@
+{
+  "0006.JSON": {
+    "Decreto": "EVERARDO TOPETE, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber.\nQue por la Secretaría del Congreso del Estado me ha sido comunicado el siguiente\nDECRETO\nNUMERO 4409.- El Congreso del Estado decreta:\nCODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO",
+    "Año_publicación": 2021,
+    "Título": "CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPITULO I",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- El ejercicio de las acciones requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La existencia de un derecho, o la necesidad de declararlo, preservarlo, o constituirlo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La violación de un derecho o el desconocimiento de una obligación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La capacidad para ejercitar la acción por sí o por legítimo representante; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El interés y legitimación del actor que la ejercita o deduce."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- La acción procede en juicio, aún cuando no se exprese su nombre o se exprese equivocadamente, con tal de que se determine con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- La acción real puede ejercitarse contra cualquier poseedor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- La reivindicación compete al propietario de la cosa que no la tiene en su posesión, para que se declare que le corresponde el dominio sobre ella y que el poseedor se la entregue con sus frutos y accesiones en los términos prescritos por el Código Civil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- El tenedor de la cosa puede declinar la responsabilidad del juicio designando al poseedor que lo sea a título de dueño.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- El poseedor que niegue tener la posesión la perderá en beneficio del demandante.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Puede ser demandada la reivindicación del poseedor que dejó de serlo para evitar los efectos de la acción reivindicatoria. El demandado que paga la estimación de la cosa, puede ejercitar a su vez la reivindicación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- Al adquirente con justo título y de buena fe, le compete la acción para que el poseedor de mala fe le restituya la cosa con sus frutos y accesiones en los términos prescritos por el Código Civil. Igual acción le compete contra el que teniendo título de igual calidad ha poseído por menos tiempo. No procede esta acción en los casos en que ambas posesiones fuesen dudosas o el demandado tuviere su título registrado y el actor no.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Procederá la acción negatoria para obtener la declaración de libertad, o de la reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes, la tildación o anotación en el Registro de la Propiedad, y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto a la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño que tenga derecho real sobre la heredad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraríe el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor podrá exigir del reo que afiance el respeto del derecho.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Se intentará la acción hipotecaria para constituir, ampliar, registrar, dividir y cancelar una hipoteca; o bien para demandar el pago, rescisión, vencimiento anticipado, o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de registrada la cédula hipotecaria, cambiare de dueño o poseedor jurídico del predio, con éste continuará el juicio, sin perjuicio de la responsabilidad que le corresponda al deudor original conforme a la ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- La petición de herencia se deducirá por el heredero, por el legatario o por quien haga sus veces; y se da contra el albacea o contra el poseedor de las cosas hereditarias con el carácter de heredero o cesionario de éste, y contra el que no alegue título ninguno de posesión de bien hereditario, o dolosamente dejó de poseerlo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- La petición de herencia se ejercitará para que sea declarado heredero el demandante, se le haga entrega de los bienes hereditarios con sus accesiones, sea indemnizado y le rindan cuentas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- Para deducir las acciones mancomunadas, sean reales o personales, se considerará parte legítima cualquiera de los acreedores, salvo que del mismo título aparezca que uno de ellos se ha reservado aquel derecho.\nEl comunero puede deducir las acciones relativas a la cosa común, en calidad de dueño, salvo pacto en contrario o ley especial. No podrá sin embargo, transigir ni comprometer en árbitros de negocio, sin consentimiento unánime de los demás condueños.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Al perturbado en la posesión jurídica o derivada de un bien inmueble, compete el interdicto de retener la posesión contra el perturbador, el que mandó tal perturbación o contra el que a sabiendas y directamente, se aproveche de ella y contra el sucesor del despojante. El objeto de esta acción es poner término a la perturbación, indemnizar al poseedor, y que el demandado afiance no volver a perturbar y sea conminado con multa o arresto, para el caso de reincidencia.\nLa procedencia de esta acción requiere: que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta o a impedir el ejercicio del derecho; que se reclame dentro de un año y que el poseedor no haya obtenido la posesión de su contrario por fuerza, clandestinamente o a ruego.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituido y le competerá la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y a la vez conminarlo con multa y arresto para el caso de reincidencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- La acción de recuperar la posesión se deducirá dentro del año siguiente a los actos violentos o vías de hecho causantes del despojo. No procede en favor de aquél que con relación al demandado, poseía clandestinamente por la fuerza o a ruego; pero sí contra el propietario despojante que transfirió el uso y aprovechamiento de la cosa por medio de contrato.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Al poseedor de predio o derecho real sobre él, compete la acción para suspender la conclusión de la obra perjudicial a sus posesiones, su demolición o modificación, en su caso, y la restitución de las cosas al estado anterior o la obra nueva. Compete también al vecino del lugar cuando la obra nueva se construya en bienes de uso común.\nSe da contra quien la mandó construir, sea poseedor o detentador de la heredad donde se construya.\nPara los efectos de esta acción por obra nueva, se entiende por tal, no solamente la construcción de nueva planta, sino también la que se realiza sobre edificio antiguo, añadiéndole, quitándole o dándole una forma distinta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- La acción de obra peligrosa se da al poseedor jurídico o derivado de una propiedad contigua o cercana, que pueda resentirse o padecer por la ruina o derrumbe de la otra, caída de un árbol u otro objeto análogo; y su finalidad es la de que se adopten medidas urgentes para evitar los riesgos que ofrezca el mal estado de los objetos referidos; obtener la demolición total o parcial de la obra, o la destrucción del objeto peligroso. Compete la misma acción a quienes tengan derecho privado o público de paso por las inmediaciones de la obra, árbol u otro objeto peligroso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero cuyo derecho dependa de la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible, que sea demandado por la totalidad de la prestación, puede hacer concurrir al juicio a sus codeudores, siempre que su cumplimiento no sea de tal naturaleza que sólo pueda satisfacerse por el demandado.\nEl tercero obligado a la evicción deberá ser llamado a juicio oportunamente, para que le perjudique la sentencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio y nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil, perjudican aún a los que no litigaron.\nLas acciones del estado civil fundadas en la posesión de estado, surtirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.\nEn todos los juicios del orden familiar que estén relacionados con violencia intrafamiliar, el Juez a petición de parte o de oficio, durante el periodo probatorio, deberá ordenar la realización de dictámenes periciales al demandado para determinar, en su caso, si lo condena a someterse a tratamientos reeducativos, integrales, especializados y gratuitos que serán presentados por instituciones públicas y cuya duración no podrá ser mayor a seis meses, siempre y cuando la acción resulte procedente. La negativa del demandado a someterse a dichos dictámenes periciales, previa aplicación de las medidas de apremio previstas en este código, hará presumir la necesidad de los tratamientos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal ya sea de dar, de hacer o no hacer determinado acto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente, siempre que no se trate de un acto solemne y alguna de esas partes lo hubiere cumplido de modo voluntario, aunque sea parcialmente con la aceptación de la otra, también en el caso de que la parte que no cumpla un contrato se rehuse a firmar el documento necesario para darle forma legal al mismo, la parte que sí cumplió tendrá acción para exigir que el obligado extienda el documento correspondiente.\nTratándose de contratos de enajenación, la acción procede si se acredita que la persona que transmitió el bien contaba con la legitimación legal suficiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- Las acciones, defensas y recursos que correspondan a la masa de la herencia, podrán ser ejercitadas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por cualquiera de los herederos o legatarios, si no están en funciones el interventor o el albacea de la sucesión; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por el interventor o el albacea, si han sido ya nombrados, y están en funciones; o por cualquier heredero o legatario, cuando requerido judicial o notarialmente el albacea o el interventor, rehusen o descuiden deducirlos."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Ninguna acción podrá ejercitarse sino por aquél a quien compete, o por su representante legítimo. No obstante el acreedor podrá ejercitar las acciones que competan a su deudor, cuando conste el crédito de aquel título ejecutivo y excitado éste para deducirlas, descuide o rehuse hacerlo. El tercero demandado puede paralizar la acción pagando al demandante el monto de su crédito.\nLas acciones derivadas de derechos inherentes a la persona del deudor, nunca se ejercitarán por el acreedor.\nLos acreedores que acepten la herencia que corresponde a su deudor, ejercitarán las acciones pertenecientes a éste, en los términos en que el Código Civil lo permita.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- Las acciones que se ejerciten contra los herederos no obligan a éstos sino en proporción a sus cuotas, salvo en todo caso la responsabilidad que les resulte cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes o por dolo o fraude en la administración de bienes indivisos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- Cuando haya varias acciones contra una misma persona, respecto de una misma cosa y que provengan de una misma causa, deberán intentarse en una sola demanda, y por el ejercicio de una o más quedan extinguidas las otras.\nNo podrán acumularse en la misma demanda las acciones contrarias o contradictorias; ni las posesorias con las petitorias. Tampoco serán acumulables acciones que por su cuantía o naturaleza correspondan a jurisdicciones diferentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando alguno públicamente se jacte de que otro es su deudor o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquél de quien se dice que es deudor, podrá ocurrir al Juez de su propio domicilio pidiéndole que señale un término al jactancioso para que deduzca la acción que afirme tener, apercibido de que no haciéndolo en el plazo designado, se le tendrá por desistido de la acción que ha sido objeto de la jactancia. Este juicio se sustanciará sumariamente. No se reputa jactancioso al que en algún acto judicial o administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa. La acción de la jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos y hechos que la originan;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando por haberse interpuesto tercería ante un Juez Menor, por cuantía mayor de la que fija la ley para los negocios de su competencia, se hayan remitido los autos a otro juzgado y el tercero opositor no concurra a continuar la tercería; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, a quien pueda exigir que la deduzca, oponga o continúe desde luego y si el citado para ello se rehusare, lo podrá hacer aquél."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse, salvo en los casos en que la ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentimiento del reo. En todos los casos el desistimiento producirá el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.\nTambién podrá extinguirse la acción:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por prescripción o caducidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por convenio o transacción de las partes interesadas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por el allanamiento, por el cumplimiento voluntario de lo reclamado, antes de la sentencia definitiva o por haberse logrado el fin perseguido en el juicio o procedimiento respectivo; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Por cualesquiera otra de las causas establecidas por la ley.\nTodo allanamiento, convenio o desistimiento deberá formularse por escrito debidamente ratificado, bien sea por el tribunal del conocimiento del negocio o ante fedatario público.\nNo podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- La caducidad de la instancia operará de pleno derecho, cualquiera que sea el estado del juicio, desde la notificación del primer auto que se dicte en el mismo hasta antes de la citación para sentencia, si transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de alguna de las partes tendiente a la prosecución del procedimiento. Los efectos y formas de su declaración se sujetarán a las normas siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La caducidad de la instancia es de orden público y opera por el sólo transcurso del tiempo antes señalado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La caducidad extingue el proceso y deja sin efecto los actos procesales, pero no la acción, ni el derecho sustantivo alegado, salvo que por el transcurso del tiempo éstos ya se encuentren extinguidos; en consecuencia se podrá iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la parte final de la fracción V de este artículo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio, restablece las cosas al estado que guardaban antes de la presentación de la demanda y deja sin efecto los embargos preventivos y medidas cautelares decretados. Se exceptúan de la ineficacia susodicha las resoluciones firmes que existan dictadas sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La caducidad de la segunda instancia deja firmes las resoluciones apeladas. Así lo declarará el tribunal de apelación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La caducidad de los incidentes se causa por el transcurso de noventa días naturales contados a partir de la notificación de la última determinación judicial, sin promoción tendiente a la prosecución del procedimiento incidental, la declaración respectiva sólo afectará a las actuaciones del incidente sin abarcar las de la instancia principal cuando haya quedado en suspenso ésta por la admisión de aquél, en caso contrario afectará también ésta, siempre y cuando haya transcurrido el lapso de tiempo señalado en el párrafo primero de este artículo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Para los efectos previstos por el artículo que regula la interrupción de la prescripción, se equipara a la desestimación de la demanda la declaración de caducidad del proceso;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "No tiene lugar la declaración de caducidad:\na) En los juicios universales de concursos y sucesiones, pero si en los juicios con ellos relacionados que se tramiten acumulada o independientemente, que de aquéllos surjan o por ellos se motiven;\nb) En las actuaciones de jurisdicción voluntaria;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "En los juicios de alimentos y en los de divorcio; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "En los juicios seguidos ante la justicia de paz;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El término de caducidad se interrumpirá por la sola presentación por cualquiera de las partes, de promoción que tienda a dar continuidad al juicio;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Contra la resolución que declare la caducidad procede el recurso de apelación con efectos suspensivos, y la que la niegue no admite recurso; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las costas serán a cargo del actor; pero serán compensables con las que corran a cargo del demandado en los casos previstos por la ley y además en aquellos en que opusiere reconvención, compensación, nulidad y, en general, las excepciones que tiendan a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- Las acciones duran lo que la obligación que representan, menos en los casos que la ley señale distintos plazos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO II Excepciones y Defensas",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "- El ejercicio de las acciones se combate con la oposición de excepciones; pero los demandados podrán hacer valer las demás defensas que permita la ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- La excepción procede en juicio aún cuando no se exprese su nombre o se exprese equivocadamente, con tal de que se determine con claridad y precisión el hecho en que se hace consistir la defensa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- Se podrán oponer como excepciones dilatorias:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La incompetencia del Juez;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La litispendencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La conexidad de causa;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La falta de personalidad o capacidad procesal del actor o del demandado por no tener el carácter o representación con que se le demande;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La falta de cumplimiento del plazo o condición a que está sujeta la obligación reclamada;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La división, orden o excusión;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El compromiso arbitral; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En general las que, sin atacar en su fondo la acción deducida, tiendan a impedir legalmente el procedimiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- Sólo serán admitidas en su caso, las excepciones de espera, prórroga o novación de contrato, si se fundaren en prueba documental.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- Las excepciones de incompetencia, litispendencia, conexidad de causa, falta de personalidad o capacidad procesal, se substanciarán en la forma y términos que establece esta ley y se resolverán en forma previa a decidir el juicio en lo principal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- La incompetencia puede promoverse por declinatoria o por inhibitoria que se sustanciará conforme al Capítulo III del Título Tercero.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- La excepción de litispendencia procede cuando un juez conoce ya de la misma cuestión sobre la cual es demandado el reo. El que la oponga debe señalar con precisión el juzgado donde se sigue el primer juicio y se tramitará conforme a lo dispuesto en este artículo. Si se declara procedente esta excepción, el juicio posterior no producirá efecto alguno.\nLa excepción de litispendencia, se opondrá precisamente al contestar la demanda y el que la haga valer, deberá acompañar a su escrito, las copias certificadas que acrediten la existencia del juicio que\nya se haya tramitado o que se esté tramitando o pedir al juzgado en el mismo escrito, que practique inspección judicial en los autos correspondientes.\nAdmitida la excepción, sin suspender el procedimiento, se correrá traslado a la contraria por tres días para que manifieste lo que a su derecho convenga respecto a la excepción planteada y transcurrido dicho término con la contestación o sin ella, el juez resolverá lo que proceda. Practicará la inspección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- La excepción de falta de personalidad procede cuando alguna de las partes carezca de la calidad necesaria para comparecer en juicio o en no acreditar conforme a las disposiciones aplicables el carácter o representación con que reclame o conteste.\nEsta excepción no puede oponerse al que comparece en juicio por su propio derecho; ni se puede desconocer la que se haya reconocido en el documento o acto contractual que genere el derecho que se reclama.\nLa excepción de falta de capacidad procede cuando alguna de las partes carezca de la que se requiere para comparecer en juicio.\nLas excepciones de falta de personalidad o capacidad, deberán hacerse valer al contestar la demanda; al admitirse la excepción, sin suspender el procedimiento, se correrá traslado a la parte contraria por el término de tres días para que manifieste lo que a su derecho convenga; ambas partes con sus escritos acompañarán los documentos que acrediten lo expresado en aquellos; transcurrido dicho término con la contestación o sin ella, el juez, previa citación de las partes, dictará la sentencia interlocutoria, misma que sólo será apelable, en el caso que se declare procedente la excepción y aquella que la desestime, no admitirá recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- Las demás excepciones se opondrán precisamente al contestar la demanda y se resolverán en la sentencia definitiva, salvo el caso de las que se funden en hechos supervenientes.\nLas excepciones supervenientes se harán valer hasta antes de la sentencia y dentro de los tres días siguientes al en que tenga conocimiento de ellas la parte que las proponga; se substanciarán en incidente, por cuerda separada, y su resolución se reservará para la definitiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- La excepción de cosa juzgada o la eficacia refleja de la misma, procede cuando por sentencia firme pronunciada en diverso juicio se encuentre ya resuelto el mismo fondo substancial controvertido nuevamente en el juicio de donde se oponga tal excepción y concurran identidad en las cosas, causas, en las personas y en las calidades con que éstas intervinieron. Procede la eficacia refleja, cuando alguna parte del fondo del asunto ya fue decidido.\nSe entiende que hay identidad de personas siempre que los litigantes del segundo pleito sean causahabientes de los que contendieron en el pleito anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.\nEsta excepción produce efecto tanto contra los que litigaron como contra aquellos que fueron legalmente llamados a juicio, salvo el proceso fraudulento y excluye la posibilidad de volver a tratar en juicio la cuestión resuelta por sentencia firme. Tanto el juez como el tribunal de alzada deben examinar y declarar de oficio la cosa juzgada si tuvieren conocimiento de ella.\nEn las cuestiones relativas al estado civil de las personas y a las de validez o nulidad de las disposiciones testamentarias, la presunción de cosa juzgada es eficaz contra terceros aunque no hubiesen litigado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- No pueden oponerse excepciones contrarias.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- Habrá falta de legitimación activa en la causa, cuando el actor no sea titular del derecho que se reclame; y pasiva, cuando el demandado no sea titular del deber que se exige.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO I De la Personalidad",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "- Todo el que, conforme a la Ley, estén en el pleno ejercicio de sus derechos civiles puede comparecer en juicio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- Por los que no se hallen en el caso del artículo anterior comparecerán sus representantes legítimos o a través de gestor judicial. Los ausentes o ignorados serán representados como se previene en el Código Civil del Estado.\nEl mandatario o apoderado de una persona jurídica, tiene que acreditar la existencia de su representada y que la persona que le confirió el mandato o poder a nombre de la misma, tiene facultades para ello, para lo cual deberá insertarse en la escritura respectiva las cláusulas relativas, o bien, relacionados los documentos en que consten aquellas y agregado copia auténtica de éstos en el testimonio que de dichos poderes o mandatos se presenten.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o por medio del procurador con poder bastante.\nLas partes e interesados podrán designar por escrito, en cualquier etapa procesal, abogado patrono legalmente autorizado para el ejercicio profesional quien no podrá delegar en otro su función o nombrar diverso abogado patrono.\nLa designación aceptada faculta al abogado para recabar, ofrecer, desahogar y objetar pruebas; interponer y continuar los recursos e incidentes, formular alegatos y en general, realizar todos los actos procesales salvo la adquisición de inmuebles que le correspondan a quien lo designó exceptuando la transacción, el desistimiento, la adquisición de inmuebles y los actos personalísimos que la ley o el juez señalen. Cuando hubiere varios designados, podrán actuar conjunta o separadamente, pero en la práctica de diligencias o audiencias sólo uno de ellos podrá llevar la voz.\nEl designado en los términos de éste artículo tendrá las mismas obligaciones que un mandatario especial con respecto a su patrocinado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- El tribunal examinará la personalidad de las partes bajo su responsabilidad; no obstante, el litigante podrá en cualquier momento impugnarla salvo el caso de haber sido resuelto éste presupuesto antes de manera expresa y esté consentido el fallo. La resolución que desconozca la personalidad es apelable en ambos efectos, la que la reconozca no admite recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- El que no estuviere presente en el lugar del juicio ni tuviere persona que legítimamente lo represente, será citado en la forma prescrita en el Capítulo IV de este Título; pero si la diligencia de que se trata fuere urgente o perjudicial la dilatación a juicio del tribunal, el ausente será representado por el Agente de la Procuraduría Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- En el caso del artículo anterior, si se presentare por el ausente una persona que pueda comparecer en juicio, será admitida como gestor judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- La gestión judicial es admisible para promover en interés del actor o del demandado y en su caso del tercero llamado a juicio.\nEl gestor deberá sujetarse a las disposiciones del Código Civil que reglamentan la gestión de negocios y tendrá los derechos y facultades de un procurador.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- El gestor judicial, antes de ser admitido, deberá dar fianza de que el interesado pasará por lo que él haga, y de pagar lo juzgado y sentenciado e indemnizar los perjuicios y gastos que se causen. La fianza será calificada por el tribunal, bajo su responsabilidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- El fiador del gestor judicial renunciará a todos los beneficios legales observándose en este caso lo dispuesto por los artículos que reglamenta la fianza legal o judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción o defensa, deberán litigar unidas y bajo una misma representación. A este efecto, dentro de los tres días siguientes al en que se les notifique la admisión de su demanda o contestación, nombrarán procurador judicial que los represente a todos con las facultades necesarias para la continuación del juicio; o elegirán de entre ellos mismos un representante común.\nSi no nombraren procurador ni hicieren elección de representante, o no se pusieren de acuerdo en ella, el juez nombrará representante común escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualesquiera de los interesados.\nEl procurador nombrado tendrá las facultades que en el poder se le concedan.\nEl representante común tendrá las mismas facultades que si litigare exclusivamente por su propio derecho, excepto las de transigir o comprometer en árbitro; a menos de que expresamente le fueren también concedidas por los interesados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- Mientras continúe el abogado patrono, procurador o representante común en su cargo, las notificaciones y citaciones que se le hagan tendrán la misma validez que si se hicieren a los representados, sin que le sea permitido pedir que se entiendan con éstos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- Respecto de los poderes otorgados fuera del Estado, se observará lo dispuesto en los artículos 330 y 331.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO II De las Formalidades y de las Actuaciones Judiciales",
+        "Artículos": [
+          {
+            "Artículo": 52,
+            "Texto": "- Las actuaciones judiciales y los ocursos deberán escribirse o registrase a través de medios electrónicos en idioma español. Los documentos o registros digitales redactados o hablados en idioma extranjero deberán ser acompañados con la correspondiente traducción; en caso de que sea objetada dicha traducción, el juez designará un perito. Para darle curso a la objeción, deberá estarse a lo establecido al respecto a la Sección Segunda del Capítulo IV del",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Título Sexto de este código. (este párrafo fue reformado por Decreto 28327/LXII/21 publicado en el Periódico Oficial El Estado de Jalisco el día seis de Julio del dos mil veintiuno, el cual fue declarado inválido en el resolutivo SEGUNDO, de la sentencia derivada de la Acción de Inconstitucionalidad 118/2021 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, la que surtió efectos el día ocho de Agosto del dos mil veintitrés, fecha en que fue notificado el Congreso del Estado de Jalisco de los resolutivos, debiéndose aplicar las disposiciones vigentes a que se refiere el artículo quinto transitorio de la reforma constitucional publicada en el Diario Oficial de la Federación el quince de septiembre de dos mil diecisiete de conformidad en los apartados VI y VII de la sentencia referida).",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "- En las actuaciones judiciales no se emplearán abreviaturas, ni se borrarán ni se rasparán las palabras, sobre las equivocadas sólo se pondrá una línea delgada que permita la lectura, salvándose al final con toda precisión el error cometido. La infracción de este artículo será castigada disciplinariamente, sin perjuicio de que el interesado pueda pedir la nulidad y de que se proceda penalmente contra el infractor en caso de delito.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, con la firma de los servidores públicos judiciales que deban intervenir en el acto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- Las actuaciones jurídicas se practicarán en días y horas hábiles. Son días hábiles o laborables todos los del año menos los sábados y domingos, así como el 1º. de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º. y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los casos de suspensión de labores del tribunal. Los demás días hasta hoy declarados festivos o luctuosos, lo serán para la conmemoración respectiva, pero no impedirán las actuaciones judiciales.\nSe entienden horas hábiles las que median desde las siete a las diecinueve horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes, así como para las publicaciones que se manden hacer en periódicos o diarios que se editen en días feriados, no hay días ni horas inhábiles. En los demás casos el juez o tribunal podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.\nComenzada una diligencia, podrá continuarse aún cuando hayan concluido los días y horas señalados como hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- Salvo lo dispuesto en el artículo siguiente, todo escrito por el cual se inicie un procedimiento y los subsecuentes, incluyendo en el que se haga valer el recurso de apelación o queja, deberán ser presentados ante el propio juzgado.\nTratándose de escritos subsecuentes, se deberá expresar el número de expediente del juicio de que se trate, así como nombre de quien lo suscribe.\nLos demás escritos relativos al recurso de apelación o queja, se presentarán ante la sala que conozca de los mismos, señalando de manera clara, el número de toca correspondiente.\nLos escritos que sean de término, podrán presentarse el día en que este concluya fuera de las horas hábiles y hasta antes de las veinticuatro horas en el domicilio del secretario designado para ello por el tribunal correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "- Dónde exista oficialía de partes común se presentarán, para ser turnados al juzgado que corresponda:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los escritos por los cuales se inicie un procedimiento; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los ocursos que sean de término, fuera de las labores del juzgado, pero antes de las diecinueve horas; después de las diecinueve horas y hasta las veinticuatro horas se podrán presentar las promociones en el domicilio del secretario autorizado para ello por la ley o el tribunal."
+              }
+            ]
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- Los interesados podrán acompañar una copia simple de sus escritos a fin de que se les devuelva con la anotación de la fecha, hora de presentación y detalle de los anexos exhibidos, firmada por el servidor público que la reciba.\nLa omisión de la anotación antes citada, dará lugar a imponer al infractor multa de siete veces el valor diario de la Unidad de Medida y Actualización, aparte de la sanción que merezca conforme a la Ley Orgánica del Poder Judicial del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario o por notario público, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria si lo pidiere.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- Las actuaciones judiciales que se perdieren serán repuestas a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal del Estado.\nLa reposición se substanciará incidentalmente con intervención del Agente de la Procuraduría Social.\nSin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y la falta posterior del expediente.\nQuedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- El incidente a que se refiere el artículo anterior, se promoverá ante el mismo juez o tribunal que conozca del negocio.\nLas partes interesadas, en su respectivo escrito de demanda y contestación, deberán de manifestar bajo protesta de decir verdad, el estado que guardaban las actuaciones judiciales extraviadas y acompañar los documentos relativos a los mismos que tengan en su poder.\nSi las manifestaciones de ambas partes son conformes entre sí, o no existiere oposición manifiesta de la parte contraria al promovente de la reposición, se decretará la misma de acuerdo a lo manifestado y acreditado por el citado promovente. Si no fueren conformes, se convocará a una audiencia, misma que se celebrará aún sin la asistencia de las partes, en la que en su caso, se tratará de avenir a las mismas en sus inconformidades, y en base al resultado de ello y de los documentos presentados, se pronunciará la resolución correspondiente.\nEn caso de que apareciere o fuere encontrado el expediente original, o constancia auténtica, el procedimiento respectivo continuará de acuerdo al estado procesal que guarde el más adelantado, debiéndose acumular ambos expedientes. De existir discrepancia en el contenido de ambos expedientes, prevalecerá el del original.\nLa resolución que decida el incidente de reposición, será apelable en efecto devolutivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- Para obtener copia o testimonio de cualquier documento que obre en un procedimiento judicial, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de\nla parte contraria, quien tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "- Las actuaciones serán nulas cuando les falte alguna de las formalidades esenciales que prescribe este Código de manera que quede sin defensa alguna de las partes, y cuando la ley expresamente lo determine, pero no podrá ser invocada esa nulidad por la parte que dio lugar a ella.\nLa nulidad establecida en beneficio de una de las partes o colitigante no puede ser invocada por la otra u otro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "- Las notificaciones hechas en forma distinta a la prevenida en el capítulo V del Título Segundo de este Código, serán nulas; pero si la persona que invoca la nulidad se hubiere manifestado en juicio sabedora de la providencia, la notificación surtirá desde entonces sus efectos, como si estuviese legítimamente hecha.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- La nulidad de una actuación debe reclamarse en la siguiente en que intervenga el que la promueve, de la cual se deduzca que éste tiene conocimiento o se ha ostentado sabedor de la misma, de su ejecución, o busca la continuación del procedimiento; en cuyos supuestos quedará revalidada de pleno derecho, con excepción de la nulidad por defecto en el emplazamiento, cuando por tal motivo se deje en estado de indefensión al demandado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "- Las nulidades previstas en el artículo anterior se promoverán ante el mismo juez o tribunal que conozca del negocio y se tramitarán en la siguiente forma:\nPara admitir el incidente de nulidad, será indispensable precisar las actuaciones que se impugnen, el motivo y fundamento de tal impugnación y las pruebas que se invoquen como base para ello, debiendo acompañar o señalar las documentales.\nAdmitido el incidente, se correrá traslado a la parte contraria para que dentro del término de tres días manifieste lo que a su derecho corresponda.\nSi la parte contraria se manifiesta conforme, se declarará desde luego la nulidad de la actuación impugnada y las subsiguientes sin perjuicio de lo que determine el juez al respecto. Si no estuviere conforme, expresará sus motivos y fundamentos y en el mismo escrito, ofrecerá sus pruebas, para lo cual exhibirá o señalará las documentales.\nEn esta clase de incidentes, sólo serán admisibles las pruebas documentales, salvo los casos en que se alegue la falsedad de una actuación o que ésta se practicó en días y horas inhábiles, en cuyo caso podrán desahogarse cualquier medio probatorio dentro de un término de quince días hábiles.\nLa preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, y hacer las demás gestiones que para ello se requirieran, y sólo en caso de que demuestren la imposibilidad de preparar directamente el desahogo de algunas de las pruebas que les fueron admitidas, el juez, en auxilio y a solicitud del oferente, deberá expedir los oficios o citaciones, a efecto de que dichas pruebas se desahoguen en la audiencia respectiva, de no hacerlo, se declarará desierta la prueba ofrecida.\nLas resoluciones que decidan o desechen los incidentes de nulidad de actuaciones sólo serán impugnables a través del recurso de apelación que se haga valer en contra de la sentencia definitiva mediante la expresión de los agravios correspondientes, salvo aquella en la que se declare la nulidad del emplazamiento, la que se tramitará desde luego en ambos efectos.\nEn el caso de que proceda la nulidad, dejará sin efecto desde luego el acto impugnado y las actuaciones posteriores al mismo. En este caso impondrá al responsable una multa de siete a veinte veces el valor diario de la Unidad de Medida y Actualización y se le condenará al pago de los gastos y costas. (La porción normativa resaltada fue declarada Inconstitucional en el resolutivo SEGUNDO de la Declaratoria General de Inconstitucionalidad 9/2022 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, la que surtió sus efectos generales el día 5 de Septiembre del año 2023,\nfecha en que fue notificado el Congreso del Estado de Jalisco de los resolutivos, de conformidad con el considerando SEGUNDO de la ejecutoria referida)",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "- Queda expresamente prohibido dictar otros trámites que los que para cada caso determina este Código. Queda igualmente prohibido dictar auto mandando agregar un escrito a sus antecedentes, dar cuenta con él, sentar certificaciones que no sean las prevenidas por la ley y en general, toda tramitación inútil para la sustanciación del recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- Las audiencias de los negocios serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio y las demás en que, a juicio del tribunal, se considere que sean privadas.\nEl acuerdo será reservado, sin perjuicio de que las actuaciones anteriores puedan ser consultadas por los interesados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará por conducto de la Comisión Estatal Indígena a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- Los agentes de la Procuraduría Social intervendrán en todos los juicios en los que:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se afecten los intereses sociales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se afecte a la persona, bienes o derechos de incapaces mayores de edad y ausentes, adultos mayores o con discapacidad, a criterio del Juez; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En todos los casos que dispusiere la ley.\nLa intervención del agente de la Procuraduría Social en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio; procurar la legalidad del procedimiento y salvaguardar los derechos de sociedad, de las personas incapaces, adultos mayores y ausentes para lo cual podrá imponerse de los autos en la secretaría y podrá solicitar se le entreguen copias de los mismos.\nEn los asuntos en que deba intervenir el agente de la Procuraduría Social, se le dará vista por cinco días para que manifieste de manera fundada y motivada lo que a la representación social corresponda; transcurrido el término se continuará el procedimiento"
+              }
+            ]
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- En los asuntos relacionados con niñas, niños y adolescentes intervendrá la Procuraduría de Protección de Niñas, Niños y Adolescentes con la representación coadyuvante y en suplencia, según sea el caso, sin perjuicio de la intervención que corresponda a la representación social.\nEl juez dará vista o citará a la Procuraduría de Protección de Niñas, Niños y Adolescentes, quedando ésta facultada en juicio para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio.\nLa Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o de delegados institucionales, de conformidad a la legislación estatal y general de los Derechos de Niñas, Niños y Adolescentes, Código de Asistencia Social y el Código\nEl Juez, en todos los procedimientos en donde participen niñas, niños y adolescentes, ordenará notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes, para que haga valer lo que a su representación corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "- Los jueces y magistrados a quienes corresponda, presidirán todos los actos de prueba. El secretario facultado por la ley deberá estar presente y dar fe de dicha actuación autorizando la misma. En caso de incumplimiento serán sancionados con suspensión hasta de quince días independientemente de otra responsabilidad que pudiera resultarles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "- Toda diligencia judicial de audiencia, se asentará en un acta circunstanciada, en la que se deberá de hacer constar que se dio fe de conocimiento o de los medios sustitutos que se utilizaron para identificar a los comparecientes.\nCuando no se conozca a los comparecientes, y siempre que no fuese posible su identificación por medio de documentos oficiales, se le identificará por dos testigos propuestos por aquél, que manifestarán bajo protesta de decir verdad, la identidad del compareciente.\nEl servidor público judicial podrá dar fe de conocimiento en los términos antes citados, cuando el compareciente, se hubiere identificado ante él con los documentos indicados en el párrafo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "- Cuando se reciba declaración de persona que desconozca el español, se hará por medio de intérprete.\nSi el declarante carece del sentido de la vista o no sabe leer, su declaración le será leída por persona por él designada y, en su defecto, por el secretario, antes de ser firmada.\nSi el declarante fuere sordomudo, y sabe leer o escribir, será examinado por escrito; si es necesario, mediante intérprete.\nEl intérprete al que se refieren los párrafos primero y tercero del presente artículo será designado por el juez, a costa del interesado, siendo necesario que éste invoque en su escrito respectivo la necesidad del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos al tribunal y a las partes entre sí, corrigiendo en el acto las faltas que se cometan, con multas que no podrán pasar: en los juzgados de paz, del importe de tres veces el valor diario de la Unidad de Medida y Actualización; en los juzgados menores, del importe de siete veces el valor diario de la Unidad de Medida y Actualización; y en los juzgados de primera instancia y en el Supremo Tribunal, hasta el importe de ciento veinte veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha en que se cometa la falta que se está sancionando.\nPara imponer la sanción económica se tomará en cuenta la gravedad del caso y la situación económica de la persona a quien se imponga. Podrán también emplear el uso de la fuerza pública.\nSi las faltas llegaren a constituir delitos, se procederá criminalmente contra los que los cometieron, consignando al culpable a la autoridad competente, con testimonio de lo conducente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- Se aplicará indistintamente como corrección o sanción disciplinaria a los servidores públicos del Poder Judicial del Estado, sin perjuicio de lo que dispongan otras leyes al respecto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El apercibimiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La amonestación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La suspensión que no exceda de un mes; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La multa, que no excederá del importe de ciento veinte veces el valor diarios de la Unidad de Medida y Actualización vigente, que se duplicará en cado de reincidencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 74,
+            "Texto": "- Los jueces, para hacer cumplir sus determinaciones, deberán emplear cualesquiera de los siguientes medios de apremio que juzguen eficaces:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La multa por el importe de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización; la cual podrá duplicarse en caso de reincidencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El auxilio de la fuerza pública y el fracturar la cerraduras si fuere necesario;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El cateo por orden escrita, fundado y motivado; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La privación de la libertad hasta por treinta y seis horas.\nSi el caso exige mayor sanción, se dará parte a la autoridad competente."
+              }
+            ]
+          },
+          {
+            "Artículo": 75,
+            "Texto": "- Las correcciones disciplinarias y las medidas de apremio previstas en este código se aplicarán por el tribunal o por los jueces según las circunstancias del caso, y a su libre discreción, pero no en forma simultánea.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al magistrado o juez que se le oiga en justicia, lo que se hará en una audiencia dentro del tercer día, en la que se resolverá sin ulterior recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 77,
+            "Texto": "- Son obligaciones de los secretarios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Hacer constar el día y hora en que se presenten los escritos y si estos contienen firma o no de los interesados, conforme a lo establecido por el artículo 52 de este Código, así como la de su abogado patrono;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuidar que los escritos presentados sean claramente legibles y dar cuenta con ellos y sus anexos, a más tardar dentro de las veinticuatro horas de su presentación, bajo la pena de cubrir, por concepto de multa, el importe de siete veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás que merezcan conforme a la Ley Orgánica del Poder Judicial del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Llevar un control y registro de los escritos y anexos que se presenten, así como de los expedientes que se formen, los primeros deberán cerrarse con la firma del juez y los últimos con su certificación en la que se haga constar año y número de expediente que integran dicho registro;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Formar expedientes individuales con los escritos y autos iniciales de cada procedimiento, al que se unirán en el orden de su fecha, los escritos y actuaciones subsecuentes; rubricarán en su centro y foliarán en su parte superior todas éstas y pondrán el sello del juzgado en el fondo del cuaderno de manera que queden selladas las dos caras. Cada expediente deberá de contener una carátula de protección e identificación, en la que deberá constar el número y año de su registro, el juzgado que conozca del mismo, y el nombre y apellidos de los interesados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular diariamente, por triplicado, autorizada con su firma y el sello del tribunal, una lista de los negocios acordados o resueltos, expresando en ella el número del expediente, la naturaleza del juicio y los nombres y apellidos de los interesados. Uno de los ejemplares se pondrá a disposición del público, antes de las trece horas, en un lugar de fácil acceso de sus oficinas; el otro se guardará en el archivo del juzgado; y el tercero se remitirá al Boletín Judicial para que se publique en el número del día siguiente, antes de las nueve de la mañana.\nPor ningún motivo se incluirán en la lista los negocios o resoluciones que tengan por objeto el depósito de personas, el lanzamiento, el requerimiento de pago, el mandamiento de pago o aseguramiento de bienes o cualquier otra diligencia semejante de carácter reservado, a juicio del juez;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Formar una colección del Boletín Judicial de tres meses anteriores al día que corra, y estará siempre a disposición del público para resolver cualquier controversia; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que la ley les imponga."
+              }
+            ]
+          },
+          {
+            "Artículo": 78,
+            "Texto": "- En ningún caso se entregarán los autos a las partes, para que los lleven fuera del tribunal. Las frases \"dar vista\" o \"correr traslado\", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, se les entreguen copias, tomar apuntes, alegar o glosar cuentas.\nQueda exceptuado de lo anterior cuando el Juzgador ordene dar vista o citar para desahogo de audiencia al Agente de la Procuraduría Social, ordenará se corra traslado de los autos originales previo acuse de recibido, hasta por cinco días al Agente de la Procuraduría Social en el domicilio de la institución, para que se imponga de los mismos y esté en posibilidad de manifestar lo que en derecho",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "- Los tribunales nunca admitirán incidentes ni recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de substanciación alguna y en su caso, consignarán el hecho al Ministerio Público para que se apliquen las sanciones del Código Penal.\nLos incidentes ajenos al negocio principal deberán ser desechados de oficio por los jueces.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 80,
+            "Texto": "- Los incidentes no suspenderán el procedimiento, se tramitarán con un escrito de cada parte. El término para contestar una demanda incidental es de cinco días. Si se promueve prueba deberá ofrecerse en los escritos respectivos de demanda o contestación, fijando los puntos sobre los que verse y se citará para audiencia dentro del término de ocho días en que se reciba, se oirán las alegaciones y se citará para sentencia interlocutoria que deberá pronunciarse dentro de los ocho días siguientes. La resolución que decida un incidente no admite recurso.\nSe exceptúa de lo anterior los incidentes de nulidad de actuaciones, de competencia y las demás cuestiones incidentales que tienen previstos trámites especiales en este código para su substanciación.\nCuando en cualquier etapa del juicio, se denuncien hechos delictuosos relacionados con el negocio; el juez o tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene el",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 88,
+            "Texto": "el Código de Procedimientos Penales del Estado.\nSi la denuncia se refiere a la falsedad de un documento presentado al juicio al comunicar los hechos al ministerio público, se le remitirá original y sellado el documento argüido de falso, el cual rubricarán el juez y el secretario, dejando en los autos, en lugar de aquél, copia autorizada.\nLa preparación de las pruebas queda a cargo de las partes en la forma y términos previstos por el",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "e este Código.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 81,
+            "Texto": "- En cualquier estado del negocio podrán los jueces o tribunales citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenimiento o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Estas juntas, lo mismo que todas las diligencias, se verificarán en el juzgado o tribunal, a menos de que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón de edad, enfermedad u otra circunstancia grave de las personas que deban intervenir, el juzgado o tribunal designe lugar diverso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "- Los jueces y los tribunales podrán para mejor proveer: (este párrafo fue reformado por Decreto 28327/LXII/21 publicado en el Periódico Oficial El Estado",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "Este Código entrará en vigor el día primero de enero de mil novecientos treinta y nueve.\n\nEste decreto entrará en vigor a partir de los 60 días siguientes a la fecha de su publicación en el Periódico Oficial \"El Estado de Jalisco\", con excepción del artículo 55 que entrarán en vigor a partir del día 1o. de Enero de 1995, previa su publicación en el Periódico Oficial \"El Estado de Jalisco\", derogándose todas las disposiciones que se opongan al presente.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Jalisco.\n\nEl presente decreto entrará en vigor treinta días después de su publicación en el Periódico\n\nEste decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.\n\nEl presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial <El Estado de Jalisco=.\n\nEl presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial <El Estado de Jalisco=.\n\nEl presente Decreto entrará en vigor noventa días después al de su publicación en el\n\nEl presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico\n\nEl presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el\n\nEl presente decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial <El Estado de Jalisco=.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Los negocios pendientes en la fecha que expresa el artículo anterior seguirán sustanciándose conforme a las disposiciones de este Código; pero si los términos que señala para un acto judicial fueren menores que los concedidos en la legislación anterior, se observará ésta para computarlos.\nLos jueces y tribunales en su primer proveído, que deberá ser notificado personalmente, harán saber a las partes lo que se previene en este artículo.\n\nLos procedimientos iniciados de acuerdo a los ordenamientos cuyas modificaciones se proponen continuarán conforme a los preceptos que se derogan.\n\nLas reformas que mediante el presente decreto se aprueban sólo serán aplicables respecto a los créditos que se contraten con posterioridad a su entrada en vigor.\nARTICULOS TRANSITORIOS DEL DECRETO NUMERO 19486\n\nLos procedimientos de adopción que se hayan iniciado antes de la entrada en vigor del presente decreto se seguirán de conformidad con las disposiciones legales vigentes al momento de su iniciación.\nARTICULOS TRANSITORIOS DEL DECRETO NUMERO 20398\n\nLas Revisiones de oficio que se encuentren en trámite al momento de la entrada en vigor de este decreto seguirán rigiéndose por las disposiciones vigentes al inicio de su substanciación.\nARTÍCULO TRANSITORIO DEL DECRETO NUMERO 20421\n\nLas autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.\n\nEn las sucesiones iniciadas con anterioridad a la entrada en vigor de este decreto, deberá seguirse el proceso conforme a las disposiciones vigentes en la fecha del fallecimiento del autor de la sucesión.\n\nSe deroga el decreto número 14,156 que crea a la Procuraduría para Asuntos Indígenas del Gobierno del Estado, sin embargo esta seguirá funcionando en tanto se integra y entra en funciones la Comisión.\n\nSe derogan todas las disposiciones que se opongan al presente decreto.\n\nLas garantías que hasta antes de la entrada en vigor de esta reforma, hayan sido otorgadas por el gobierno del Estado y los ayuntamientos en los juicios civiles en que sean parte, serán canceladas.\nARTÍCULOS TRANSITORIOS DEL DECRETO 22694\n\nSe derogan las disposiciones que se opongan al presente.\n\nSe autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de las dependencias correspondientes, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento del presente decreto, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor de este decreto, de lo cual informará al Congreso del Estado.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24800/LX/13\n\nSe abroga la Ley de la Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.\n\nLos procedimientos iniciados antes de la entrada en vigor del presente Decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24954/LX/14\n\nLos juicios iniciados antes de la entrada en vigor del presente Decreto continuarán su tramitación conforme a las reglas vigentes al momento de su inicio.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24969/LX/2014\n\nSe derogan todas las disposiciones que se opongan al presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24995/LX/14\n\nLos juicios que se encuentren en trámite a la entrada en vigor del presente decreto, podrán substanciarse con estas reglas siempre que no se afecten derechos de terceros.\nARTÍCULOS TRANSITORIOS DEL DECRETO 25455/LX/15\n\nSe abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado\n\nSe abroga la Ley de Extinción de Dominio del Estado de Jalisco, publicada en el periódico oficial El Estado de Jalisco, el 13 de agosto de 2011.\n\nLo previsto en el artículo 57, fracción VI, de la reforma a la Ley del Notariado del Estado de Jalisco, no será aplicable a los Notarios que hubiesen obtenido su nombramiento o fiat antes de la entrada en vigor del presente decreto.\n\nEl Supremo Tribunal de Justicia, así como el Consejo de la Judicatura, ambos del Estado de Jalisco, deberán realizar las acciones que correspondan, a efecto que los juicios en línea inicien su operación a más tardar doce meses después de la entrada en vigor del presente\ndecreto.\nTABLA DE REFORMAS Y ADICIONES\nDECRETO NÚMERO 5122. Se reforman los artículos 529, 685, 686, 687, y 689. Publicado en el Periódico Oficial El Estado de Jalisco, el 9 de marzo de 1946.\nDECRETO NÚMERO 5902. Se reforman los artículos 23, 24, 27, 34, 39, 60, 139, 142, 174, 175, 176, 177, 178, 179, 193, 210, 215, 248 bis, 312, 333, 345, 353, 359, 409, 527, 813 bis y 867; y se suprimen los artículos 180 a 183 y 594 a 596. Publicado en el Periódico Oficial El Estado de Jalisco, el día 31 de diciembre de 1953.\nDECRETO NÚMERO 6028. Se reforma el artículo 445 y suprime los artículos 452 a 455 y 458 a 462. Publicado en el Periódico Oficial El Estado de Jalisco, el día 3 de marzo de 1955.\nDECRETO NÚMERO 7193. Se reforma el artículo 60. Publicado en el Periódico Oficial El Estado de Jalisco, el día 12 de Noviembre de 1957.\nDECRETO NÚMERO 7773. Se reforman los artículos 1051 y 1052. Publicado en el Periódico Oficial El Estado de Jalisco, el día 11 de diciembre de 1962.\nDECRETO NÚMERO 8230. Se reforman los artículos 205, 244, 528, 560, 804, 809, 818, 891, 893 y\n1002. Publicado en el Periódico Oficial El Estado de Jalisco, el día 7 de marzo de 1967.\nDECRETO NÚMERO 8625. Se reforman los artículos 37, 64, 67, 78, 94, 110, 129, 142, 268, 269, 296, 297, 299, 309, 311, 353, 419, 420, 425, 428, 451, 621, 622, 624, 636, 637, 639, 667, 671, 687, 688, 697 y 724; y suprime los artículos 623, 626 a 635, 638 y 641. Publicado en el Periódico Oficial El Estado de Jalisco, el día 27 de agosto de 1970.\nDECRETO NÚMERO 8725. Se reforma el artículo 1027. Publicado en el Periódico Oficial El Estado de Jalisco, el día 25 de mayo de 1971.\nDECRETO NÚMERO 8958. Se adiciona el artículo 758. Publicado en el Periódico Oficial El Estado de Jalisco, el día 15 de marzo de 1973.\nDECRETO NÚMERO 9223. Se reforma el rubro del Capítulo III del Título Quinto; los artículos 221, 222, 223, 224, 225, 228, 231, 233, 767, 1040 fracción III, 1047, 1049 y 1064; y deroga los artículos 226, 229, 230 y 232. Publicado en el Periódico Oficial El Estado de Jalisco, el día 31 de julio de 1975.\nDECRETO NÚMERO 9616. Se reforman los artículos 456, 556, 672, 760, 777 fracción II, 839, 979 y\n1052. Publicado en el Periódico Oficial El Estado de Jalisco, el día 22 de diciembre de 1977.\nDECRETO NÚMERO 9978. Se reforma el artículo 60. Publicado en el Periódico Oficial El Estado de Jalisco, el día 10 de abril del 1979.\nDECRETO NÚMERO 11498. Se reforma el artículo 456. Publicado en el Periódico Oficial El Estado de Jalisco, el día 17 de diciembre de 1983.\nDECRETO NÚMERO 11937. Se reforma el artículo 758. Publicado en el Periódico Oficial El Estado de Jalisco, el día 17 de enero de 1985.\nDECRETO NÚMERO 13841. Se reforman y adicionan los artículos 52, 57, 58, 62, 68, 72, 105, 109, 114, 115, 118, 119, 124, 172, 178, 205, 244, 300, 301, 356 fracción I, 358, 436, 467, 470, 529 fracciones I y II, 618 fracción I, 620, 639, 971 fracción III, 1065, 1067 y 1082. Publicado en el Periódico Oficial El Estado de Jalisco, el día 11 de enero de 1990.\nDECRETO NÚMERO 14464. Se reforman y adicionan los artículos 965 fracción V, 967 fracción V, 1001, 1002, 1027 fracciones II, III y IV, 1040 fracciones I y IV y 1041 fracción III. Publicado en el Periódico Oficial El Estado de Jalisco, el día 17 de diciembre de 1991.\nDECRETO NÚMERO 15766. Se reforman y adicionan los artículos 1, fracción IV; 23, 27, 29, 33 fracciones III, IV, V, VI y VII; 34, 36, 37, 38, 39, 41, 42, 43, 46, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 92, 93 fracción III; 95, 96, 100, 101, 105, 106, 107, 108, 109 fracciones I, II, III, V, VI y VII; 110, 111, 112, 113, 114, 116, 117 fracción II; 118, 119, 123, 124, 125, 127, 128, 129, 130, 132, 134, 135, 138, 142 fracción I; 143 fracción II; 145, 146, 149, 151, 152, 153, 154, 161 fracciones V, X, XII y XIII; 164, 168, 169, 171, 178, 185, 189, 197, 203, 205, 206, 208, 210, 211, 212, 215, 216, 218, 219, 224, 225, 226, 227, 228, 235, 236, 247, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 267 fracciones II y III; 269, 271, 273, 276, 279, 281, 286, 290, 291, 293, 294, 295, 296, 299, 300 fracciones II, III y IV; 301, 302, 303, 304, 305, 308, 309, 310, 314, 317, 318, 320, 322, 323, 324, 325, 328, 329 fracciones de la I a la IX; 332, 335, 337, 340, 341, 342, 344, 349, 351, 352, 353, 354, 355, 356, 357, 359, 360, 361, 363, 364, 365, 366, 367, 368, 369, 370, 372, 373, 375, 377, 378, 379, 381, 382, 408, 409, 418, 419, 420, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 446, 449, 451, 452, 453, 454, 455, 456, 457, 470, 471, 478, 479, 482, 483, 486, 487, 490, 497, 499, 501, 503, 504, 505, 506, 511, 512 fracciones III y IV; 520, 521 fracciones IV, V, VI, VII, VIII, IX y X; 523, 525, 526 fracción I; 527, 528 fracción I; 529 fracciones II, VI, XII y XV; 535, 536, 548, 550, 555, 556, 557, 559, 560, 561, 562 fracción III; 564, 565, 566, 567, 568, 569, 570, 572, 583 fracciones IV y V; 597, 600, 605, 606, 616, 617, 618, 621, 637, 639, 642 fracciones I y II; 645, 646, 648, 649 fracciones I y III; 651, 652 fracción II; 654, 658, 659, 661, 664, 667, 668, 669, 670, 671, 672, 674, 675, 676, 678, 679, 680, 681, 682, 683 fracciones de la III a la V; 684, 685, 686, 687, 688, 689, 690, 692, 694, 695, 696, 699, 701, 710, 711, 712, 713, 719, 722, 723, 724, 726, 729, 730, 731, 732, 739, 740, 742, 743 fracción V, 758, 763, 764, 765, 766, 775, 803, 816, 817, 832, 837, 842, 852, 857 fracciones de la II a la V; 860 fracción VII; 868, 879, 881, 882, 888, 893, 940, 942, 943, 944, 946, 949, 952, 954, 955, 965 fracciones I y V; 967 fracción V; 976, 978, 979, 988, 993, 994, 995, 1001, 1002 fracciones III, IV y V; 1005, 1013, 1016, 1018, 1023, 1026, 1027, 1028, 1029, 1031, 1034, 1037, 1039, 1050, 1052, 1055, 1064 y 1065; Crea los artículos 29 Bis, 33 Bis, 38 Bis, 39 Bis, 89 A, 89 B, 89 C, 89 D, 89 E, 89 F, 89 G, 91 Bis, 92 A, 92 B, 93 Bis, 104 A, 104 B, 112 Bis, 220 Bis, 282 Bis, 289 Bis, 420 Bis, 529 A, 529 B, 529 C, 642 Bis, 955 Bis; y Deroga los artículos 97,\n98, 120, 121, 122, 133, 187, 201, 204, 231, 263, 264, 265, 280, 298 fracción VIII; 306, 327, 338, 339, 347, 350, 358, 384, 385, 386, 396 fracción II; 416, 445, 463, 464, 465, 466, 467, 468, 480, 484, 507, 573, 584, 585, 586, 587, 588, 589, 590, 591, 619, 624, 625, 636, 647, 660, 662, 673, 733, 734, 735, 736, 737, 738, 741, 962 y 1030. Publicado en el Periódico Oficial El Estado de Jalisco, el día 31 de diciembre de 1994. Sec. II.\nFe de erratas al decreto 15766.- Ene. 26 de 1995. Sec. II.\nFe de erratas al decreto 15766.- Jun. 29 de 1995. Sec. II.\nDECRETO NÚMERO 15990. Se reforma el primer párrafo del art. 55, publicado en el Periódico Oficial El Estado de Jalisco, el día 2 de diciembre de 1995. Sec.II.\nDECRETO NÚMERO 16410. Se reforma el art. 684, publicado en el Periódico Oficial El Estado de Jalisco, el día 4 de enero de 1997.\nDECRETO NÚMERO 17125. Se reforman los arts. 221, 222, 223, 224, 225 y 228 del Título Quinto,\nCapítulo III, publicado en el Periódico Oficial El Estado de Jalisco, el día 27 de enero de 1998. Sec. IV.\nDECRETO NÚMERO 17340. Se suprime la frac. II del art. 857, debiendo la frac. III tomar el número II, y así sucesivamente hasta llegar a la frac. IV, publicado en el Periódico Oficial El Estado de Jalisco, el día 3 de marzo de 1998. Sec. IV.\nDECRETO NÚMERO 18767.- Se modifican los artículos 758 y 759.-Feb. 3 de 2001.\nDECRETO NÚMERO 18954.- Reforma los artículos 11, 618 fracción II, 637, 669 segundo párrafo, 670, 672, 675, 676, 677, 678; adiciona los artículos 273 párrafo tercero, 639 segundo párrafo, 680 párrafos del tercero al séptimo y 680 Bis del Código de Procedimientos Civiles.-Mar.13 de 2001. Sec. XIV.\nDECRETO NÚMERO 18974.-Se reforman y adicionan los párrafos segundo y tercero del artículo 686 del Código de Procedimientos Civiles del Estado de Jalisco.-Abr.12 de 2001. Sec. IV.\nDECRETO NÚMERO 19425.- Adiciona cuatro párrafos al art. 576, adiciona un párrafo al art. 669, reforma el tercer párrafo y elimina el último del art. 680 y deroga el art. 680 bis.-Dic.29 de 2001. Sec. VII.\nFe de erratas al Decreto 19425. Feb. 26 de 2002.\nDECRETO NÚMERO 19486.- Se deroga el Capítulo IV del Título Sexto que comprende los arts. 520 al 554 y crea el Capítulo IV del Título Sexto del Código Civil denominado <De la Adopción=; y se reforman los artículos 161 frac. VIII, 1029 y 1031 del Código de Procedimientos Civiles, ambos ordenamientos del Estado de Jalisco.-Jun.22 de 2002. Sec. IV.\nDECRETO NÚMERO 19601.- Se reforma la frac. IV del art. 74 del Código de Procedimientos Civiles.-Nov.28 de 2002. Sec. II.\nDECRETO NÚMERO 20398.- Reforma los artículos 23, 29, 56, 111, 112, 329, 353, 457 y 873.- Dic.30 de 2003. Sec. XVIII.\nFe de erratas al Decreto 20398. Abr. 29 de 2004. Sec. II.\nDECRETO NÚMERO 20421/LVII/06.- Adiciona los artículos 686 bis, 686 ter y 692 bis y reforma los artículos 685, 686, 687 y 688.-Dic.30 de 2003. Sec. XXIII.\nFe de erratas al Decreto 20421. Ago. 26 de 2004. Sec. II.\nDECRETO NÚMERO 20597.- Reforma el art. 80.-Sep.30 de 2004. Sec. III.\nDECRETO NÚMERO 21402/LVII/06.- Reforma el artículo 967.-Ago.26 de 2006. Sec. II.\nDECRETO NÚMERO 21420/LVII/06.- Reforma el artículo 2882 del Código Civil y adiciona el\nartículo 817 bis al Código de Procedimientos Civiles del Estado de Jalisco.-Ago.26 de 2006. Sec.",
+            "Fracciones": [
+              {
+                "Fracción": "V",
+                "Texto": "DECRETO NÚMERO 21423/LVII/06.- Reforma los artículos 42 y 363.-Sep. 7 de 2006. Sec. III.\nDECRETO NÚMERO 21432/LVII/06.- Se adiciona una fracción al artículo 298 recorriéndose el actual contenido de las demás fracciones y el artículo 406 bis.-Sep.14 de 2006. Sec. II.\nDECRETO NÚMERO 21593/LVII/06.- Reforma el artículo 38 de la Ley para los Servidores Públicos; el artículo 20 de la Ley de Justicia Administrativa y el artículo 55 del Código de Procedimientos Civiles, ordenamientos todos del Estado de Jalisco.-Dic. 2 de 2006. Sec. VI.\nDECRETO NÚMERO 21700/LVII/06.-Reforma los artículos 146, 491, 648 y 1893; adiciona el art. 653 bis y se adiciona un transitorio décimo al decreto 15776 que contiene el Código Civil del Estado; se reforman los artículos 293 y 692 bis y se adiciona el art. 359 bis del Código de Procedimientos Civiles, y se adiciona el art. 259 bis del Código de Procedimientos Penales, todos estos ordenamientos del Estado de Jalisco.-Ene.11 de 2007. Sec. IV.\nDECRETO NÚMERO 21743/LVII/06.- Reforma el art. 817 bis del Código de Procedimientos Civiles, adiciona el art. 55 bis de la Ley del Registro Público de la Propiedad.-Ene.23 de 2007. Sec. III.\nDECRETO NÚMERO 21746/LVII/06.- Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indígenas del Estado de Jalisco; reforma los artículos 14, 22, 33 y 63 de la Ley de Ejecución de Penas; reforma el art. 41 frac. II del Código Penal; Reforma los artículos 6 y 93 frac. III, inciso f) del Código de Procedimientos Penales; reforma los artículos 52, 87 y 316 y adiciona el art. 68 bis del Código de Procedimientos Civiles; y reforma el art. 17 del Código Civil, todos del Estado de Jalisco.-Ene.11 de 2007. Sec. III.\nDECRETO NÚMERO 21794/LVII/07.- Reforma el párrafo tercero del artículo 363 del Código de Procedimientos Civiles del Estado de Jalisco.-Feb.22 de 2007. Sec. II.\nDECRETO NÚMERO 21818/LVII/07.- Reforma los artículos 520, 521, 523, 531, 537, 572, 577 y 598 y adiciona el artículo 639 del Código Civil; reforma el art. 1028 del Código de Procedimientos Civiles; adiciona el art. 93 del Código de Procedimientos Penales; reforma los artículos 40, 49 y 68 de la Ley del Registro Civil; reforma los artículos 35, 37, 38, 50 y 53 del Código de Asistencia Social; reforma los artículos 11 y 12 de la Ley de los Derechos de las Niñas, los Niños y Adolescentes, todos estos ordenamientos del Estado de Jalisco.- Feb.22 de\n2007. Sec. X.\nDECRETO NÚMERO 21851/LVIII/07.- Se reforman los artículos 90, 113, 115, 137, 207, 215, 380, 388, 394, 438, 446, 493, 510, 511, 521, 532, 535, 546, 577, 596, 621, 650, 653, 657, 670, 673, 678, 682, 728, 735, 790, 794, 828, 834, 835, 1688, 1869, 2568, 2614, 2813, 2884, 2988, 2995, 3008, 3071, 2095, 3111 y 3118, del Código Civil; reforma los artículos 44, 60, 141, 170, 171, 457, 517, 768, 769, 782, 808, 817, 821, 831, 833, 850, 857, 858, 890, 939, 940, 944, 949, 950, 957, 966, 967, 968, 970, 973, 985, 986, 989, 993, 999, 1002, 1004, 1006, 1007, 1008, 1009, 1011, 115, 1021, 1028, 1029, 1033, 1034, 1038, 1042, 1050, 1051, 1052, 1054 y 1062 del Código de Procedimientos Civiles; y reforma el artículo 56 de la Ley de Desarrollo, Protección, Integración Social y Económica del Adulto Mayor, todas del Estado de Jalisco.-May.31 de\n2007. Sec. III.\nDECRETO NÚMERO 21881/LVIII/07.- Aprueba el Arancel de Abogados del Estado de Jalisco y reforma el artículo 642 del Código de Procedimientos Civiles.-Oct. 4 de 2007. Sec. IV.\nDECRETO NÚMERO 22219/LVIII/08.- Crea la Ley de Acceso de las Mujeres a una vida libre de Violencia del Estado de Jalisco; reforma la Ley Orgánica del Poder Ejecutivo, Ley del Gobierno y la Administración Pública Municipal, Ley del Instituto Jalisciense de las Mujeres, Código Civil, Código de Procedimientos Civiles, Código Penal, Código de Procedimientos Penales, Ley de Responsabilidades de los Servidores Públicos, Ley de Educación, Ley de los Derechos de las Niñas, los Niños y Adolescentes, Ley para la Prevención y Atención de la Violencia Intrafamiliar y Ley Orgánica de la Procuraduría General de Justicia, todas del Estado de Jalisco.-May.27 de 2008. Sec. II.\nDECRETO NÚMERO 22282/LVIII/08.- Se reforman los arts. 694, 695, 697 y 700 del Código de Procedimientos Civiles del Estado de Jalisco.- Oct. 2 de 2008. Sec. III.\nDECRETO NÚMERO 22554/LVIII/08.- Se adiciona un cuarto párrafo al artículo 249 del Código de Procedimientos Civiles del Estado de Jalisco.-Nov.25 de 2008. Sec. II.\nDECRETO NÚMERO 22578/LVIII/09.- Se adiciona un artículo 68 ter y reforma los arts. 70, 78, 80, 109, 592, 759, 767, 817 bis y 957 del Código de Procedimientos Civiles del Estado de Jalisco.-Feb. 5 de 2009. Sec. III.\nDECRETO NÚMERO 22694/LVIII/09.- Se reforman los artículos 117, 618, 1027, 1029, se adiciona un Capítulo al Título Undécimo y se adecua la redacción del Capítulo VI del Título Décimo Tercero del Código de Procedimientos Civiles.- Oct.24 de 2009. Sec. IX.\nDECRETO NÚMERO 23155/LIX/10.- Se reforma el primer párrafo del art. 29-Bis.- Oct. 30 de 2010. Sec. II.\nDECRETO NÚMERO 23311/LIX/10.- Se reforma el art. 421.- Dic. 9 de 2010. Sec. V.\nDECRETO NÚMERO 23465/LIX/10.- Reforma el párrafo segundo del artículo 279 del Código de Procedimientos Civiles del Estado de Jalisco.-Ene. 8 de 2011. Sec. IV.\nDECRETO NÚMERO 23466/LIX/10.- Reforma el artículo 406 del Código Civil y el 764 del Código de Procedimientos Civiles del Estado de Jalisco.-Ene. 8 de 2011. Sec. IV.\nDECRETO NÚMERO 23467/LIX/10.- Reforma el primer párrafo del artículo 871 del Código de Procedimientos Civiles del Estado de Jalisco.-Ene. 8 de 2011. Sec. IV.\nDECRETO NÚMERO 23551/LIX/11.- Reforma los artículos 967 y 969 y adiciona el art. 971-Bis del Código de Procedimientos Civiles del Estado de Jalisco.- Jul. 30 de 2011. Sec. VII.\nDECRETO NÚMERO 23554/LIX/11.- Se adiciona un capítulo VII, denominado <De la Extinción de Dominio de Bienes=, y los artículos 953 bis y 953 ter al Título Décimo Segundo del Código de Procedimientos Civiles del Estado de Jalisco.- Ago. 13 de 2011. Sec. III.\nDECRETO NÚMERO 23928/LIX/11.- Se reforma el art. 497 del Código de Procedimientos Civiles del Estado de Jalisco.- Dic. 27 de 2011. Sec. V.\nDECRETO NÚMERO 23933/LIX/11.- Se reforman los arts. 477, 504, 506 y 508 del Código de Procedimientos Civiles.- Dic. 27 de 2011. Sec. V.\nDECRETO NÚMERO 24800/LX/13.- Se reforma el artículo 406-Bis del Código de Procedimientos Civiles del Estado de Jalisco.- Dic. 26 de 2013. Sec. III.\nDECRETO NÚMERO 24842/LX/14.- Se reforman los artículos 68 ter fracción II, 70 segundo párrafo, 93 Bis primer párrafo, 100, 271 párrafo segundo, 279, 282 Bis, 290, 297, 298 fracción VIII, 302 fracción I, 303, 304, 416, 427 último párrafo, 457, 623, 624, 625, 685, 721 Bis y 721 Ter; se derogan los artículos 296, 299, 305, 419, 686 Bis y 686 Ter; y se adiciona una sección primera bis al capítulo IV del título sexto comprendido por los artículos 328 Bis y 328 Ter del Código de Procedimientos Civiles del Estado de Jalisco.- Abr. 8 de 2014 secc. V.\nFe de erratas relativa al decreto número 24842.- May. 9 de 2014. 8 ter Edición Especial.\nDECRETO NÚMERO 24954/LX/14.- Se reforman los artículos 693, 694, 695, 696, 697, 698 y 700 del Código de Procedimientos Civiles del Estado de Jalisco.- Oct. 9 de 2014 sec. II\nDECRETO NÚMERO 24969/LX/2014.- Que adiciona un tercer párrafo a la fracción III del artículo 83 del Código de Procedimientos Civiles del Estado de Jalisco, reforma el artículo 37, adiciona un segundo párrafo al artículo 39 y reforma las fracciones III y IV del artículo 41 de la Ley Orgánica del Poder Judicial del Estado de Jalisco. Oct. 9 de 2014 sec. II\nDECRETO NÚMERO 24977/LX/14.- Se reforma los artículos 225, 226 y 227 del Código de Procedimientos Civiles del Estado de Jalisco. Oct. 9 de 2014 sec. IV\nDECRETO NÚMERO 24994/LX/14.- Se reforman los artículos 68 ter, 89-C, 161, 229, 230, 231, 232, 233, 249, 618, 721 Bis, 721 ter, 764, 767, 1035, 1037, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047 y 1049 1049 Bis y se adiciona el artículo 721 quater del Código de Procedimientos Civiles del Estado de Jalisco.- Nov. 25 de 2014. sec. V.\nDECRETO NÚMERO 24995/LX/14. Se reforman los artículos 427, 441, 825, 831, 840, 967, 967 BIS, 968, 969, 970, 970 BIS, 970 TER, 971, 972, 973, 974, 979, 980, 981, 1014, 1018, 1022, 1023, 1024, 1025, 1026, 1027 y se modifica el nombre del Capítulo Tercero del Título Décimo Tercero, del Código de Procedimientos Civiles del Estado de Jalisco.- Nov. 29 de 2014. sec. LI.\nFE DE ERRATAS AL DECRETO 24995.- Abr. 21 de 2015 sec. VI\nDECRETO NÚMERO 25401/LX/15.- modifica los artículos 267 y 273 del Código de Procedimientos Civiles del Estado de Jalisco.- Ago. 22 de 2015 sec. V.\nDECRETO NÚMERO 25455/LX/15.- Se reforman los artículos 29, 68 ter, 109, 141, 249, 721 bis, 721 ter, 767, 768, 769, 817, 831, 857, 918, 934, 967, 975, 979, 981, 983, 987, 995, 1001, 1002, 1012, 1013, 1016, 1021, 1022, 1027, 1028, 1029, 1031, 1032, 1033, 1034, 1036, 1037, 1038, 1040, 1042, 1046, 1049 bis, 1050, 1064; se derogan los artículos 771, 965, 966, 976, 977, 988, 989, 990, 991, 992, 993, 1005, 1045, 1047, 1048, 1049; y se adicionan los artículos 68 quáter, 721 quáter, todos del Código de Procedimientos Civiles del Estado de Jalisco.- Sep. 5 de 2015. sec. III.\nDECRETO NÚMERO 25436/LX/15.- Se reforman los artículos 860 y 971 del Código de Procedimientos Civiles del Estado de Jalisco.- Sep. 19 de 2015 sec. III.\nDECRETO NÚMERO 25853/LXI/16.- Se adiciona un párrafo al artículo 282 Bis del Código de Procedimientos Civiles del Estado de Jalisco.- Jul. 9 de 2016 sec. V.\nDECRETO NÚMERO 25840/LXI/16.- Artículo tercero se reforman los artículos 58, 66, 72, 73, 74, 77, 105, 115, 172, 178, 205, 282 bis, 300, 301, 363, 420, 434, 455, 456, 620, 692 bis, 696, 1065, 1067 y 1082 del Código de Procedimientos Civiles del Estado de Jalisco.- Oct. 11 de 2016 sec. V.\nAL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16. Oct. 11 de 2016 sec. VI.\nDECRETO NÚMERO 25907/LXI/16.- Artículo segundo. Se reforman los artículos 860, 911 y 971 del Código de Procedimientos Civiles del Estado de Jalisco.- Nov. 26 de 2016 sec. LI\nDECRETO NÚMERO 26275/LXI/17.- Se reforman los artículos 52 y 112 fracción VII del Código de Procedimientos Civiles del Estado de Jalisco.- Mar. 11 de 2017 sec. VII.\nDECRETO NÚMERO 26426/LXI/17.- Se reforman los artículos 244, 528 y 560 del Código de Procedimientos Civiles del Estado de Jalisco.- Sep. 19 de 2017 sec. III.\nDECRETO NÚMERO 26752/LXI/18.- Se deroga el artículo 971 del Código de Procedimientos Civiles del Estado de Jalisco.- Abr. 21 de 2018 sec. III.\nDECRETO NÚMERO 26926/LXI/18.- Se reforma los artículos 2, 3, 9, 21, 35, 43, 50, 57, 58, 62, 67, 70, 84, 90, 96, 101,123, 125, 128, 142, 149, 158, 159, 160, 167, 171, 174, 175, 176, 177, 178, 179, 207, 208 y 212, adiciona los artículos 53 bis y 206 bis, y deroga los artículos 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 y 196 de la Ley del Notariado; reforma los artículos 405 bis, 2842, 2845 y 3118 del Código Civil; reforma los artículos 758, 765, 770, 935 bis, 935 ter, 938, 1058, 1060, 1062 y 1063, y adiciona el capítulo IV bis al título décimo segundo y el artículo 775 bis del Código de Procedimientos Civiles; y reforma los artículos 122, 131, 133, 134 y 135 de la Ley del Registro Civil, todos ordenamientos del Estado de Jalisco.- Sep. 1 de 2018 sec. VI\nDECRETO NÚMERO 27373/LXII/19.- Se reforman los artículos 37 y 44 de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco; Se reforman los artículos 227 y 721 ter del Código de Procedimientos Civiles del Estado de Jalisco Y Se reforman los artículos 56 y 81 de la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.- Oct. 19 de 2019 sec. XIII.\nDECRETO NÚMERO 27800/LXII/20.- Se reforman los artículos 685, 688 y 689 del Código de Procedimientos Civiles del Estado de Jalisco y se reforma el artículo 2045 del Código Civil del estado de Jalisco.- Feb. 18 de 2020 sec. III.\nDECRETO NÚMERO 28327/LXII/21.- Se reforman los artículos 52, 82, 282 bis, 284 y 290 y se adiciona el Título Decimoquinto, todos del Código de Procedimientos Civiles del Estado de Jalisco.- Jul.6 de 2021 sec. VIII.\nTABLA DE SENTENCIAS DE LA SUPREMA CORTE DE JUSTICIA\nA.I. 118/2021.- Declara inválido el decreto 28327/LXII/21 que reforma varios artículos del Código de Procedimientos Civiles, surtiendo efectos a partir del 8 de agosto de 2023.\nDeclaratoria General de Inconstitucionalidad 9/2022 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, resolutivo SEGUNDO, declara inconstitucional parte del artículo 66. Surtió sus efectos generales el día 5 de Septiembre del año 2023, fecha en que fue notificado el Congreso del Estado de Jalisco.\nCÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO\nAPROBACION: 10 DE AGOSTO DE 1938.\nPUBLICACION: PERIODICO OFICIAL EL ESTADO DE JALISCO, 24 DE DICIEMBRE DE 1938.\nVIGENCIA: 1 DE ENERO DE 1939."
+              }
+            ]
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "La tramitación y resolución de los recursos interpuestos al entrar en vigor esta ley, se sujetarán a las disposiciones de la misma; pero respecto de su procedencia regirán las disposiciones del Código anterior.\n\nLas funciones del secretario conciliador serán atendidas por el servidor público judicial que determine el Pleno del Supremo Tribunal de Justicia, en tanto se realizan las designaciones correspondientes conforme lo permita el presupuesto de egresos del Poder Judicial del Estado.\n\nLas reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial <El Estado de Jalisco=.\nARTÍCULOS TRANSITORIOS DEL DECRETO 21743\n\nEl Archivo de Instrumentos Públicos adoptará los lineamientos generales que expida el titular del Poder Ejecutivo con relación a los avisos de testamento que remitirá al Registro Nacional de Avisos de Testamento.\nARTÍCULOS TRANSITORIOS DEL DECRETO 21746\n\nEl Presupuesto de Egresos del Estado para el ejercicio fiscal 2007 deberá establecer la partida presupuestal asignada a la Comisión Estatal Indígena.\n\nEl Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.\n\nLos delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.\nARTÍCULOS TRANSITORIOS DEL DECRETO 23554/LIX/11\n\nEl Gobernador del Estado de Jalisco expedirá, dentro de los cuarenta y cinco días hábiles siguientes a la publicación del presente Decreto, el Reglamento de la Ley de la Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.\n\nEl titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.\n\nLos procedimientos de extinción de dominio comenzados antes de la entrada en vigor de este decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su iniciación.\n\nLo previsto en el artículo 21 fracción V, del presente decreto, no será aplicable a quienes hayan obtenido patente de aspirante al ejercicio del notariado con anterioridad a la entrada en vigor del presente decreto",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "En los casos comprendidos en los dos artículos anteriores, procederá la caducidad de la instancia en los términos fijados por este Código; pero los plazos señalados en el\nartículo 29, empezarán a contarse a solicitud de parte interesada, desde la fecha en que se notifique personalmente a los litigantes el proveído judicial que recaiga a la solicitud.\n\nLas normas de esta iniciativa que aluden al Consejo de Familias, se entenderán referidas al Consejo de Tutelas en tanto se reforma el Código Civil del Estado; asimismo los artículos 733, 734, 735, 736, 737 y 738 que se derogan tendrán vigencia en tanto lo establecido en los mismos no se prevea en el citado Código Civil.\nNota: El decreto número 15766 fue publicado en el Periódico Oficial \"El Estado de Jalisco\" del día 31 de diciembre de 1994. Secc. II.\nARTICULOS TRANSITORIOS DEL DECRETO NUMERO 18954\n\nEl Ejecutivo deberá de integrar la Comisión Estatal Indígena dentro de los 45 días siguientes a la entrada en vigor de la presente ley.\n\nEl Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado\n\nLa Secretaría General de Gobierno y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.\n\nEl Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.\n\nHasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.\n\nLos Notarios adscritos a alguno de los municipios de los señalados en la fracción I del\nartículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "En los concursos cuya tramitación esté pendiente al entrar en vigor esta ley, si no hubiere Síndico provisional nombrado el Juez hará la designación, pudiendo recaer el nombramiento en el administrador que estuviere en funciones. Si ya hubiere citado a los acreedores para el nombramiento de Síndico provisional, al celebrarse la junta, podrán aquéllos hacer la designación de acuerdo con las disposiciones del Código anterior. Si la elección del mencionado Síndico estuviere hecha ya por los acreedores, el nombrado seguirá en funciones hasta la designación del definitivo. Lo mismo se observará respecto de los interventores.\n\nLa Junta de Gobierno de la Comisión Estatal Indígena expedirá el reglamento interno de dicha entidad en un plazo de noventa días, contados a partir de la entrada en vigor de esta ley.\n\nEl Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.\n\nSe faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento de este decreto.\n\nSe faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.\n\nSe autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26275/LXI/17\n\nLas presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.\nARTÍCULOS TRANSITORIOS DEL DECRETO 28327/LXII/21\noficial <El Estado de Jalisco=. Se derogan todas las disposiciones que se opongan al presente\ndecreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Los Síndicos que estén ya nombrados en los concursos, garantizarán su manejo dentro de un plazo de sesenta días contados desde que entre en vigor este Código, bajo pena de ser removidos de plano si no lo hacen y salvo que la mayoría de acreedores lo dispensen de tal obligación.\n\nLos bienes en posesión o los adquiridos por la Procuraduría para Asuntos Indígenas del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión Estatal Indígena.\n\nLos procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán a cabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.\nARTÍCULOS TRANSITORIOS DEL DECRETO 22554\n\nSe faculta a la Secretaría de Desarrollo Económico del Gobierno del Estado, para que se lleve a cabo los procesos de mejora regulatoria necesarios para el cumplimiento del decreto.\n\nLos recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.\nEn todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Septimo",
+            "Texto": "Los interventores que estén nombrados en los juicios sucesorios y que administren bienes, garantizarán su dentro del plazo de sesenta días contados desde que entre en vigor este Código, bajo pena de ser removidos de plano si no lo hacen.\nCon respecto a los albaceas regirá lo que previene el artículo 4 transitorio del Código Civil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Para la regulación y liquidación de las costas en los negocios pendientes al entrar en vigor esta ley, se observarán las disposiciones de la misma si con su aplicación no se violan derechos adquiridos; en caso contrario regirán las disposiciones del Código anterior en lo no compatible con el presente.\n\nLos asuntos pendientes de trámite de la Procuraduría para Asuntos Indígenas seguirán a cargo de la Comisión Estatal Indígena.\n\nCuando otros ordenamientos legales del Estado de Jalisco se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada.\n\nEl titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente\nDecreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "Mientras se establece el boletín judicial las notificaciones que deban hacerse por este medio, conforme a las disposiciones de este Código, se practicarán como se dispone en el\nartículo 125, salvo que se trate de los casos previstos en las fracciones II y III del artículo 117, en los cuales los edictos se publicarán en el Periódico Oficial del Estado y en el diario de mayor circulación a juicio del Juez.\n\nSi para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su plan de desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.\n\nLa vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el\n\nLos Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Decimo",
+            "Texto": "Salvo lo que se dispone en estos transitorios, quedan abrogadas las leyes anteriores de Procedimientos Civiles.\nSalón de Sesiones del H. Congreso del Estado Guadalajara, Jal., a 10 de agosto de 1938\nDiputado Presidente Lic. Constancio Hernández Alvirde\nDiputado Secretario Francisco Santiago\nDiputado Secretario Francisco Chavira Rojas\nPor lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.\nDado en el Palacio de Gobierno del Estado, a los veinte días del mes de agosto de mil novecientos treinta y ocho.\nEl Gobernador Constitucional del Estado. Everardo Topete.\nEl Secretario General de Gobierno.\nLic. J. Carlos Osorio.\nARTICULOS TRANSITORIOS DEL DECRETO NÚMERO 15766",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El presente decreto que contiene reformas al Código Civil del Estado de Jalisco y Código de Procedimientos Civiles del Estado de Jalisco entrará en vigor al día 14 de febrero de 2004, previa su publicación en el Periódico Oficial <El Estado de Jalisco=.\nARTÍCULOS TRANSITORIOS DEL DECRETO 21432\n\nEl presente decreto entrará en vigor a los treinta días naturales siguientes a la de su publicación en el periódico oficial \"El Estado de Jalisco\".\nARTÍCULOS TRANSITORIOS DEL DECRETO 26926/LXI/18",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Consejo Consultivo de la Comisión Estatal Indígena deberá estar instalado dentro de los 180 días siguientes a la entrada en vigor de la presente ley.\n\nEl Gobierno del Estado de Jalisco deberá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de este decreto.\n\nEl Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "El titular del Poder Ejecutivo estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.\nARTÍCULOS TRANSITORIOS DEL DECRETO 22219\n\nLos certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24842/LX/14\n\nLos municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero\ntransitorio del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Segundo",
+            "Texto": "Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Tercero",
+            "Texto": "Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.\nLos procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el\nartículo 46 del Código de Asistencia Social del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Cuarto",
+            "Texto": "La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Quinto",
+            "Texto": "Se instruye a la Secretaría General de este Congreso, una vez publicado este\ndecreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.\nARTÍCULOS TRANSITORIOS DEL DECRETO 25436/LX/15",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

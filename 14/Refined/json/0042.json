@@ -1,0 +1,741 @@
+{
+  "0042.JSON": {
+    "Decreto": "Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco. Estados Unidos Mexicanos. Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente\nDECRETO\nNÚMERO 24800/LX/13.- EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y SE REFORMAN DIVERSOS ORDENAMIENTOS DE ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "1. La presente Ley es de orden público e interés general y tiene por objeto regular el uso y servicios de la firma electrónica avanzada.\n2. La firma electrónica avanzada tiene la finalidad de simplificar, facilitar y agilizar los actos y negocios jurídicos, comunicaciones, procedimientos administrativos y jurisdiccionales entre los sujetos obligados del sector público, los particulares y las relaciones que mantengan entre sí.\n3. Para la creación de la firma electrónica avanzada, así como para la celebración de sus actos jurídicos en que se haga uso de la misma, además de lo contenido en la presente Ley, se deberá observar lo dispuesto en el Código Civil del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "1. Se consideran sujetos obligados de la presente Ley los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En el Poder Ejecutivo: el Titular de éste, así como los de sus respectivas dependencias y entidades;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En el Poder Legislativo: el Congreso del Estado y sus órganos administrativos, técnicos y auxiliares;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En el Poder Judicial: el Supremo Tribunal de Justicia, juzgados de primera instancia, menores y de paz, el Instituto de Justicia Alternativa del Estado y el Consejo de la Judicatura del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los Ayuntamientos del Estado de Jalisco, así como los organismos paramunicipales de la Administración Pública Municipal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los entes públicos estatales autónomos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los prestadores de servicios de certificación; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los particulares que soliciten el uso de la firma electrónica avanzada, en los términos de la presente Ley.\n2. Los Titulares de las entidades públicas determinarán los servidores públicos que, para los efectos de su cargo, harán uso de la firma electrónica avanzada o bien, los que establezcan en el propio reglamento de la dependencia o entidad pública de que se trate."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "1. Para los efectos de esta Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los particulares y los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y Municipal, que utilicen la firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Actuaciones electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y en su caso, las resoluciones administrativas o jurisdiccionales que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios electrónicos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de sistemas de información para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por la Ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Autoridad Certificadora: las dependencias y entidades de la Administración Pública Estatal o Federal que conforme a las disposiciones jurídicas, tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión, administración y registro de certificados digitales, así como para proporcionar servicios relacionados con los mismos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Certificado electrónico: el documento firmado electrónicamente por el prestador de servicios de certificación que vincula datos de firma electrónica al firmante y confirma su identidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Certificado electrónico de proceso: el documento firmado electrónicamente por el prestador de servicios de certificación que vincula datos de verificación de firma electrónica al proceso y confirma su identidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Datos de creación de firma electrónica o clave privada: las claves criptográficas, datos o códigos únicos que genera el firmante de manera secreta para crear y vincular su firma electrónica;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Datos de verificación de firma electrónica o clave pública: las claves criptográficas, datos o códigos únicos que utiliza el destinatario para verificar la autenticidad de la firma electrónica del firmante;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Destinatario: la persona que recibe el mensaje de datos que envía el firmante como receptor designado por este último con relación a dicho mensaje;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dispositivo de creación de firma electrónica: el programa o sistema informático que sirve para aplicar los datos de creación de firma electrónica;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Dispositivo de verificación de firma electrónica: el programa o sistema informático que sirve para aplicar los datos de verificación de firma electrónica;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Fecha electrónica: los datos que en forma electrónica sean generados por el sistema informático para constar el día y la hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "FIEL: la designación con la que se conoce al certificado digital de firma electrónica avanzada expedido por el Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Firma electrónica avanzada: los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden inequívocamente al firmante, con la finalidad de asegurar\nla integridad y autenticidad del mismo, de tal forma que éste vinculada únicamente al firmante y a los datos a los que se refiere, de manera que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Firmante: la persona o proceso que utiliza los datos de firma electrónica;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Intermediario: la persona que envía o reciba un mensaje de datos a nombre de un tercero o bien que preste algún otro servicio con relación a dicho mensaje;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Medios electrónicos: los dispositivos tecnológicos utilizados para trasmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas o de cualquier otra tecnología;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Mensaje de datos: la información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Prestador de servicios de certificación: la persona o entidad pública que preste servicios relacionados con la firma electrónica avanzada y que expide certificados digitales;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Resguardante de certificado de proceso: la persona responsable de un certificado de firma electrónica para un proceso específico y su aplicación;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Secretaría: la Secretaría General de Gobierno del Estado de Jalisco, a través de la dependencia correspondiente;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Sistema de información: el sistema utilizado para generar, enviar, recibir, archivar o procesar un mensaje de datos; y"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Titular: la persona a favor de quien se expide un certificado de firma electrónica."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "1. El uso de la firma electrónica avanzada tiene los siguientes principios rectores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Neutralidad tecnológica: que implica hacer uso de la tecnología necesaria sin que se favorezca a alguna en lo particular;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autenticidad: la certeza de que un mensaje de datos ha sido emitido por el firmante y por lo tanto le es atribuible su contenido y las consecuencias jurídicas que del mismo se deriven por la expresión de su voluntad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conservación: que un mensaje de datos puede existir permanentemente y es susceptible de reproducción;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Confidencialidad: la información se encuentra controlada, protegida de su acceso y de su distribución no autorizada;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Integridad: el mensaje de datos que ha permanecido completo e inalterado, sin considerar los cambios que hubiere sufrido el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No Repudio: la firma electrónica avanzada contenida en documentos electrónicos, garantiza la autoría e integridad del documento y que dicha firma corresponde exclusivamente al firmante."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "1. Queda prohibido el uso de la firma electrónica avanzada a aquellas personas o entidades que realicen actos y negocios jurídicos o procedimientos administrativos que no cumplan con lo\nestablecido por el artículo que antecede, que requieran de la comparecencia de los servidores públicos o de los particulares y para la disposiciones legales que exijan la firma autógrafa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "1. Las autoridades estatales o municipales deben dar el mismo trato a los particulares que hagan uso de la firma electrónica avanzada en aquellos trámites o procedimientos administrativos que se sigan ante las mismas, respecto de aquellos que no la utilicen.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la Firma Electrónica Avanzada",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "1. La firma electrónica avanzada tiene, respecto de la información consignada en el mensaje de datos, el mismo valor que la firma autógrafa, respecto de los datos consignados en papel y, en consecuencia, tendrá el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "1. Los actos administrativos que se deban notificar podrán constar por escrito en documento impreso o digital.\n2. En caso de resoluciones administrativas, jurisdiccionales o actos entre dependencias y entidades que consten en documentos impresos, el funcionario competente, en representación de la dependencia o entidad de que se trate, podrá expresar su voluntad para emitir la resolución o acto plasmado en el documento impreso con una línea o cadena expresada en caracteres alfanuméricos asociados al documento electrónico original, generada mediante el uso de su firma electrónica avanzada y amparada por un certificado electrónico vigente a la fecha de la resolución.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "1. De conformidad con el artículo que antecede, los documentos impresos que contengan la cadena de caracteres alfanuméricos, resultando del acto de firmar con la firma electrónica avanzada, previa verificación por el sistema de información que lo emitió, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.\n2. Asimismo, la integridad y autoría del documento impreso que contengan la cadena de caracteres alfanuméricos resultado del acto de firmar con la firma electrónica avanzada y amparada por un certificado electrónico vigente a la fecha de la resolución, deberá ser verificable; por lo tanto, la Secretaría establecerá los mecanismos a través de los cuales se podrá comprobar la integridad y autoría del documento señalado en el párrafo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "1. El representante legal de una persona jurídica, para presentar documentos digitales en nombre de ésta, deberá utilizar la firma electrónica avanzada de la propia persona jurídica. La tramitación de los datos de creación de firma electrónica avanzada de una persona jurídica, sólo la podrá efectuar un representante o apoderado legal de dicha persona, a quien le haya sido otorgado ante fedatario público, un poder general para actos de dominio o de administración.\n2. Se presume que los documentos digitales que contengan firma electrónica avanzada de las personas jurídicas, fueron presentados por el administrador único, el presidente del consejo de administración o la persona o personas, cualquiera que sea el nombre con el que se les designe, que tengan conferida la dirección general, la gerencia general o la administración de la persona jurídica de que se trate, en el momento en el que se presentaron los documentos digitales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "1. Para que una firma electrónica avanzada se considere válida, deberá satisfacer los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que los datos de creación de la firma electrónica avanzada o clave privada, correspondan inequívocamente al firmante;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que los datos de creación de la firma electrónica avanzada o clave privada, se encuentren bajo el control exclusivo del firmante desde el momento de su creación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Que sea posible detectar cualquier alteración posterior a la creación de la firma electrónica"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Que sea posible detectar cualquier alteración a la integridad del mensaje de datos, realizada posteriormente a su firma;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Que esté respaldada por un certificado electrónico expedido por algún prestador de servicios de certificación o bien, por una autoridad certificadora; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los demás establecidos en los ordenamientos jurídicos aplicables.\n2. Lo dispuesto por el presente artículo se entiende sin perjuicio de que la autenticidad de la firma electrónica avanzada pueda comprobarse por cualquier otro medio o, en su defecto, se aporten las pruebas que demuestren lo contrario."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III Del Certificado Electrónico",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "1. El certificado electrónico es válido cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Es expedido por una autoridad certificadora o por un prestador de servicios de certificación; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Responde a las formalidades o formatos estándares reconocidos internacionalmente, fijados por la Secretaría."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "1. El formato de certificado electrónico a que se refiere el artículo anterior contendrá al menos los siguientes datos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La expresión de ser certificado electrónico;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El lugar, fecha y hora de expedición;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El código de identificación único;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los datos personales necesarios que identifiquen inequívocamente al titular del certificado electrónico; en el caso de las entidades públicas, se deberá anotar la dependencia o entidad para la cual labora el servidor público y el cargo que ocupa;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los datos del prestador de servicios de certificación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El periodo de vigencia, que en ningún caso podrá ser superior a cuatro años;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La referencia de la tecnología empleada para la creación de la firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Número de serie;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Autoridad certificadora que lo emitió;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Algoritmo de firma;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Dirección de correo electrónico del titular del certificado digital; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Clave Única del Registro de Población del titular del certificado digital."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "1. Las causas de suspensión de las facultades para expedir certificados electrónicos por parte de los prestadores de servicios de certificación son las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por solicitud del firmante, poderdante o representado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por resolución judicial o administrativa que lo ordene;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Porque se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas jurídicas. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Porque la sociedad escindente o la sociedad fusionada desaparezcan con motivo de la escisión o fusión, respectivamente. En el primer caso, la suspensión la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigencia de un certificado electrónico a nombre del firmante expedido con anterioridad por otro prestador de servicios de certificación para fines idénticos; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Por cualquier otra causa que se establezca en los ordenamientos legales aplicables.\n2. Cuando las Autoridades Certificadoras o los Prestadores de Servicio de Certificación revoquen un certificado expedido por cualquiera de ellos, este hecho se registrará en la lista de certificados revocados publicada en el sitio de internet del prestador de servicios de certificación emisor."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "1. Se consideran causas de revocación del certificado electrónico las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por solicitud del firmante, poderdante o representado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por resolución judicial o administrativa que lo ordene;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por fallecimiento de la persona física titular del certificado. En este caso la revocación deberá solicitarse por un tercero legalmente autorizado, quien deberá acompañar el acta de defunción correspondiente;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cuando se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas jurídicas. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cuando la sociedad escindente o la sociedad fusionada desaparezcan con motivo de la escisión o fusión, respectivamente. En el primer caso, la revocación la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cuando se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales, situación que no afectará los derechos de terceros de buena fe;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cuando se ponga en riesgo la confidencialidad de los datos de creación de firma electrónica"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cuando se compruebe que los documentos que presentó el titular de un certificado electrónico para acreditar su identidad son falsos;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Cuando termine el empleo, cargo o comisión del servidor público, por el cual le haya sido concedido el uso de la firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Por la modificación en las circunstancias del firmante que ya no correspondan con los datos contenidos en el certificado electrónico; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Por cualquier otra que se establezca en el certificado electrónico.\n2. Las Autoridades Certificadoras o los Prestadores de Servicio de Certificación revoquen un certificado expedido por cualquiera de ellos se registrará en la lista de certificados revocados publicada en el sitio de internet del prestador de servicios de certificación emisor."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "1. Verificada por la Autoridad Certificadora o el prestador de servicios de certificación la causa de revocación del certificado electrónico, publicará inmediatamente en su servicio de consulta tal circunstancia de revocación.\n2. La Autoridad Certificadora o el prestador de servicios de certificación comunicará al firmante acerca de la revocación del certificado electrónico especificando la causa por la cual queda sin efectos.\n3. La revocación del certificado electrónico comienza a surtir efectos a partir del momento en que la autoridad certificadora o el prestador de servicios de certificación la hace pública en su servicio de consulta.\n4. La revocación del certificado electrónico no tiene efectos retroactivos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "1. Los certificados electrónicos expedidos fuera del Estado de Jalisco, tendrán validez y producirán los efectos jurídicos reconocidos en la presente ley.\n2. De igual manera tendrán validez los expedidos por las autoridades certificadoras federales o estatales.\n3. Los certificados electrónicos expedidos fuera de la República Mexicana tendrán la validez y producirán los efectos jurídicos reconocidos en la presente Ley, siempre y cuando tales certificados sean reconocidos por las autoridades certificadoras a que se refiere el artículo 23 de la propia Ley y se garantice, en la misma forma que lo hacen con sus propios certificados, el cumplimiento de los requisitos, el procedimiento, así como la validez y vigencia del certificado, en los términos establecidos en los tratados internacionales celebrados por el Estado Mexicano.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV Del Mensaje de Datos",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "1. La información del mensaje de datos tiene plena validez, eficacia jurídica y obligatoriedad, cuando el mismo contenga firma electrónica avanzada de conformidad con los requisitos señalados en la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "1. Todo mensaje de datos se tendrá por emitido en el lugar que tenga registrado el firmante dentro del certificado electrónico y por recibido en el lugar donde el destinatario tenga establecido el suyo, salvo acuerdo en contrario.\n2. Se tendrá por recibido el mensaje de datos y enterado el destinatario, cuando el sistema de información genere el acuse de recibo correspondiente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "1. Sin perjuicio de lo establecido por otros ordenamientos legales, el titular de un certificado electrónico tiene los siguientes derechos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir su certificado electrónico y cuando así lo solicite, constancia de existencia y registro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Revocar y, en su caso, solicitar un nuevo certificado, cuando así convenga a su interés;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir información sobre el funcionamiento y características de la firma electrónica avanzada, las condiciones precisas para la utilización del certificado electrónico y sus límites de uso, los costos del servicio y los términos por los cuales se obligan la Autoridad Certificadora o el prestador de servicios de certificación y el firmante;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Conocer el domicilio y la dirección electrónica de la Autoridad Certificadora o del prestador de servicios de certificación y de la Secretaría para solicitar aclaraciones, presentar quejas o reportes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los demás que convenga con la Autoridad Certificadora o el prestador de servicios de certificación."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "1. El titular del certificado electrónico tienes las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proporcionar datos veraces, completos, oportunos y exactos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Mantener el control exclusivo de los datos de creación de su firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Solicitar la revocación del certificado electrónico a la Autoridad Certificadora o al prestador de servicios de certificación, inmediatamente después de que conozca de alguna circunstancia que hubiera comprometido la confidencialidad y seguridad de su firma electrónica avanzada;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Informar, a la brevedad posible, sobre cualquier modificación a los datos personales que estén contenidos en el certificado electrónico; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cualquier otra que se acuerde al momento de la firma del certificado electrónico o se establezca dentro de las disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "1. Será responsabilidad del destinatario:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Verificar la fiabilidad de la firma electrónica avanzada; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Revisar los límites de uso de la firma electrónica avanzada y su validez, así como la vigencia o revocación del certificado electrónico. Los elementos necesarios para verificar lo anterior, deberán ponerse a disposición del destinatario, a través de la Autoridad Certificadora, del prestador de servicios de certificación o del firmante."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI Del Prestador de Servicios de Certificación",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "1. Los servicios de certificación, previa autorización de la Secretaría, podrán ser prestados por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los fedatarios públicos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las personas físicas y jurídicas habilitadas para tal efecto; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las entidades públicas estatales y municipales."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "1. La Secretaría es la autoridad certificadora para emitir certificados electrónicos en términos de esta Ley, para personas físicas, jurídicas o entidades públicas.\n2. Las personas y titulares de las dependencias o entidades señaladas en el artículo que antecede pueden solicitar su autorización ante la Secretaría, previo cumplimiento de los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Solicitar por escrito su autorización como prestador de servicios de certificación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con la infraestructura y elementos humanos, materiales, económicos y tecnológicos necesarios para prestar el servicio de certificación, que permitan garantizar la seguridad, confidencialidad y conservación de la información;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cumplir los procedimientos para la tramitación y expedición del certificado electrónico, así como las medidas que garanticen su formalidad, conservación y consulta del registro;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "No haber sido condenadas por delitos contra el patrimonio o falsedad que ameriten pena privativa de libertad o inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público, ni tampoco las personas que operen o accedan a los sistemas de información del prestador de servicios de certificación en su condición de servidores públicos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar garantía y mantenerla actualizada de acuerdo a los lineamientos y condiciones que estipule la Secretaría en el reglamento respectivo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Sujetarse por escrito a las revisiones que determine la Secretaría para comprobar el cumplimiento de los requisitos establecidos en el presente artículo.\n3. Una vez cumplido con lo anterior, la Secretaría deberá resolver la solicitud en un plazo no mayor a sesenta días hábiles. De lo contrario se tendrá por no concedida la autorización."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "1. Los prestadores de servicios de certificación tendrán las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Probar, por los medio establecidos en el reglamento de la presente Ley, que tiene la capacidad técnica y fiabilidad necesaria para prestar los servicios de certificación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Utilizar sistemas confiables que estén protegidos contra todo tipo de alteración y que garanticen la seguridad técnica y jurídica de los procesos de certificación a los que sirven de soporte; al efecto, la Secretaría emitirá los lineamientos conducentes para el cumplimiento a lo dispuesto en este artículo, a fin de que cada sujeto obligado logre crear y administrar un sistema de trámites electrónicos que establezca el control de accesos, los respaldos y la recuperación de información, con mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia, basándose en las mejores prácticas naciones e internacionales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer las medidas necesarias contra la falsificación de los certificados electrónicos, así como garantizar la confidencialidad durante el procedimiento de creación y entrega de la firma electrónica avanzada al firmante;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Determinar con precisión la fecha y la hora en la que expidió o revocó, en su caso, un certificado electrónico;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Poner a disposición del firmante los dispositivos de creación y verificación de firma electrónica"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Mantener mediante un medio seguro, el archivo y registro de los certificados electrónicos que expida, así como toda la información y documentación relativa a éstos, al menos durante un periodo de diez años contando a partir del momento de su expedición. Tanto el archivo como el registro deberán ser actualizados respecto de la vigencia o revocación de los certificados electrónicos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dar aviso a la Secretaría de los certificados electrónicos que expida y de las modificaciones que se hagan a los mismos dentro de los dos meses siguientes a que éstas se lleven a cabo. Dentro del mismo término, deberá dar aviso y remitir copia de los certificados electrónicos expedidos y sus modificaciones al Archivo de Instrumentos Públicos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Manejar sistemas confiables que permitan almacenar y conservar los certificados electrónicos sin alteración y susceptibles de comprobar su autenticidad, así como mantener la confidencialidad de los datos personales aportados por el firmante para la creación de su firma electrónica"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Solicitar a la Secretaría que verifique si existe otro certificado electrónico vigente con fines idénticos, en cuyo caso, se abstendrá de otorgar el certificado electrónico solicitado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "No almacenar ni copiar los datos de creación de la firma electrónica avanzada de la persona que haya solicitado sus servicios;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Recabar del firmante sólo aquellos datos necesarios para la expedición de su certificado electrónico, quedando en libertad de proporcionar información adicional;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Abstenerse de certificar su propia firma electrónica; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las demás que establezca esta Ley u otras disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "1. Los prestadores de servicios de certificación formularán una declaración de prácticas de certificación que estará disponible al público de manera accesible, gratuita y como mínimo, a través de medios electrónicos, en la que señalarán de conformidad a lo establecido por esta Ley y otras disposiciones jurídicas aplicables:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las obligaciones que se comprometen a cumplir con relación a la creación y verificación de la firma electrónica avanzada y expedición de los certificados electrónicos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las condiciones de la solicitud, expedición, vigencia, uso o revocación de los certificados electrónicos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los costos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las medidas y sistemas de seguridad; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los mecanismos de información sobre la vigencia de los certificados electrónicos, y en su caso, la coordinación de acciones con los Registros Públicos correspondientes que permitan el intercambio de información de manera inmediata sobre la vigencia del poder o representación legal indicados en el certificado electrónico mediante el cual comparece el firmante."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "1. La información privada y los datos que el firmante aporte al prestador de servicios de certificación para la expedición de su certificado electrónico, se rigen de conformidad a lo establecido en la legislación aplicable en materia de protección de datos personales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "1. El prestador de servicios de certificación cesará en sus funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por decisión del prestador de servicios de certificación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por disolución, escisión o extinción de la sociedad mediante la cual se constituyó en persona jurídica;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por fallecimiento o incapacidad declarada judicialmente de la persona física; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Por suspensión o cancelación de la autorización emitida por la Secretaría."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII De las Responsabilidades y Sanciones",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "1. El prestador de servicios de certificación que incumpla con las obligaciones establecidas en la presente Ley y tomando en cuenta la gravedad de la infracción, será sancionado por la Secretaría con suspensión hasta por un año o la cancelación de su autorización en caso de reincidencia\n2. El prestador de servicios de certificación que atente contra la secrecía o la veracidad de la información contenida en los mensajes de datos, será sancionado con la cancelación de la autorización.\n3. El procedimiento referido en el párrafo anterior se llevará a cabo de conformidad a lo señalado por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "1. Las sanciones a que hace referencia el artículo que antecede, se aplicarán sin perjuicio de las demás que le pudieran corresponder al prestador de servicios de certificación por la comisión de delitos, por responsabilidad civil, penal o administrativa que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "1. Cuando un prestador de servicios de certificación hubiese sido sancionado de conformidad con lo establecido por el artículo 29 de la presente Ley o hubiese cesado en el ejercicio de sus actividades, su archivo y registro quedarán temporalmente en resguardo del Archivo de Instrumentos Públicos, hasta en tanto no se determine a qué prestador de servicios de certificación le serán transferidos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "1. Cuando el prestador de servicios de certificación sea suspendido de conformidad a lo establecido por el artículo 29, su archivo y su registro le serán devueltos dentro de los cinco días hábiles posteriores a que formule su petición al Archivo de Instrumentos Públicos, lo cual podrá realizar a partir del día siguiente a aquél en que se hubiese cumplido la sanción.\n2. En caso de cancelación de la autorización o cese de actividades, el archivo y registro se transferirán de forma definitiva a otro prestador de servicios de certificación.\n3. El firmante cuyo certificado electrónico haya sido transferido a otro prestador de servicios de certificación, podrá optar entre quedarse con éste o elegir algún otro.\nARTÍCULO SEGUNDO. Se reforma el artículo 1308 del Código Civil del Estado de Jalisco.\nARTÍCULO TERCERO. Se reforman los en sus artículos 4, 5, 23 y 24 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.\nARTÍCULO CUARTO. Se reforman los artículos 77, 81, 83 y se adiciona el artículo 76-Bis de la Ley del Notariado del Estado de Jalisco.\nARTÍCULO QUINTO. Se reforma el artículo 406-Bis del Código de Procedimientos Civiles del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”. Se derogan todas las disposiciones que se opongan al presente\ndecreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga la Ley de la Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.\n\nEl Supremo Tribunal de Justicia, así como el Consejo de la Judicatura, ambos del Estado de Jalisco, deberán realizar las acciones que correspondan, a efecto que los juicios en línea inicien su operación a más tardar doce meses después de la entrada en vigor del presente\ndecreto.\nTABLA DE REFORMAS Y ADICIONES\n27932/LXII/20.- Se reforma el artículo 2 de la Ley de Firma Electrónica Avanzada para el Estado de Jalisco.- Ago. 6 de 2020 sec. II. .\n28327/LXII/21.- Se reforman los artículos 1, 2, 3 y 8 todos de la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.- Jul.6 de 2021 sec. VIII.\nLEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS\nAPROBACIÓN: 5 DE DICIEMBRE DE 2013.\nPUBLICACIÓN: 26 DE DICIEMBRE DE 2013. SECCIÓN III.\nVIGENCIA: 27 DE DICIEMBRE DE 2013.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Gobernador del Estado de Jalisco expedirá, dentro de los cuarenta y cinco días hábiles siguientes a la publicación del presente Decreto, el Reglamento de la Ley de la Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "La Secretaría General de Gobierno y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento de este decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Se faculta a la Secretaría de Desarrollo Económico del Gobierno del Estado, para que se lleve a cabo los procesos de mejora regulatoria necesarios para el cumplimiento del decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Gobierno del Estado de Jalisco deberá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de este decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Cuando otros ordenamientos legales del Estado de Jalisco se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 5 de diciembre de 2013\nDiputado Presidente HÉCTOR PIZANO RAMOS\nDiputada Secretaria\nDiputado Secretario IDOLINA COSÍO GAONA VÍCTOR MANUEL SÁNCHEZ OROZCO (rúbrica) (rúbrica)\nPROMULGACIÓN DEL DECRETO 24800, MEDIANTE EL CUAL SE EXPIDE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS. APROBADO POR EL HONORABLE CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 05 DE DICIEMBRE DEL 2013.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 10 diez días del mes de diciembre de 2013 dos mil trece.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ\nEl Secretario General de Gobierno ARTURO ZAMORA JIMÉNEZ\nARTÍCULOS TRANSITORIOS DEL DECRETO 28327/LXII/21",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

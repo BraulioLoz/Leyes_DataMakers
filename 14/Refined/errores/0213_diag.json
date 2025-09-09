@@ -1,0 +1,41 @@
+{
+  "n_chapters": 27,
+  "n_perm_articles": 175,
+  "n_perm_fracciones": 271,
+  "n_trans_caps": 1,
+  "n_trans_articles": 11,
+  "n_trans_fracciones": 2,
+  "chapter_labels": [
+    "Capítulo I Del Ámbito de Aplicación y Principios Generales",
+    "Capítulo II De las Obligaciones de las Entidades Públicas Patronales",
+    "Capítulo III De las Obligaciones y Derechos de los Afiliados, Pensionados y sus Beneficiarios",
+    "Capítulo I",
+    "Capítulo II De las Aportaciones y Bases de Cotización",
+    "Capítulo III De los Fondos de Aportación",
+    "Sección Primera",
+    "Sección Segunda De la Pensión por Jubilación",
+    "Sección Tercera De la Pensión por Edad Avanzada",
+    "Sección Cuarta De la Pensión por Invalidez",
+    "Sección Quinta De la Pensión por Viudez y Orfandad",
+    "Sección Sexta De la Prestación Económica por Muerte del Pensionado",
+    "Sección Séptima De las Disposiciones Comunes para la Pensión por Viudez y Orfandad y para la Prestación Económica por Muerte del Pensionado",
+    "Capítulo V Del Ramo de Servicios Médicos para los Pensionados y sus Beneficiarios",
+    "Capítulo VI Del Sistema de Créditos a Corto y Mediano Plazos",
+    "Capítulo VII Del Sistema de Vivienda y Créditos Hipotecarios",
+    "Capítulo VIII Del Fondo de Garantía",
+    "Capítulo IX Del Sistema de Prestaciones Sociales y Culturales",
+    "Capítulo Único",
+    "Capítulo I Del Objeto y Atribuciones",
+    "Capítulo II De los Órganos de Gobierno",
+    "Capítulo III Del Patrimonio",
+    "Capítulo IV De las Reservas e Inversiones",
+    "Capítulo Único",
+    "Capítulo I De las Responsabilidades Administrativas",
+    "Capítulo II De los delitos",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 20,
+    "SECCIÓN": 7
+  }
+}

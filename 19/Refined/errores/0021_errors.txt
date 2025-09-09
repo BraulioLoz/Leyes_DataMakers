@@ -1,0 +1,8 @@
+Errores y advertencias para: 0021.txt
+==================================================
+
+Ubicación: line 245
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 40 a 42
+Línea: Artículo 42.- Las reclamaciones de los usuarios de la defensa pública deberán ser dirigidas al Director General con copia al Consejo y serán resueltas de manera inimpugnable por el primero.
+------------------------------

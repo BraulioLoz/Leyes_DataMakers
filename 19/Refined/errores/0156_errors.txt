@@ -1,0 +1,8 @@
+Errores y advertencias para: 0156.txt
+==================================================
+
+Ubicación: line 46
+Tipo: warning
+Mensaje: Capitulo sin sufijo válido (línea ignorada)
+Línea: CAPÍTULO IIII DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL
+------------------------------

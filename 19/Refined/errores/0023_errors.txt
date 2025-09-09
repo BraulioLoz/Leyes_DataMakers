@@ -1,0 +1,8 @@
+Errores y advertencias para: 0023.txt
+==================================================
+
+Ubicación: line 346
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 87 a 89
+Línea: Artículo 89.- Considerando la diversidad de bienes y servicios que se desarrollan en el medio rural, se articulará un sistema comercial, que apoyará y favorecerá la consolidación de la oferta de las empresas rurales en las diferentes ramas productivas ubicadas en territorio nuevoleonés.
+------------------------------

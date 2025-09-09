@@ -1,0 +1,23 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 40,
+  "n_perm_fracciones": 101,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO De la Denominación y Objeto",
+    "CAPITULO SEGUNDO De las Atribuciones del Centro",
+    "CAPITULO TERCERO De la Integración",
+    "CAPITULO CUARTO De las Atribuciones del Consejo",
+    "CAPITULO QUINTO Del Control y Vigilancia",
+    "CAPITULO SEXTO De los Derechos de la Víctima del Delito",
+    "CAPITULO SEPTIMO Del Fondo para el Auxilio a las Víctimas del Delito",
+    "CAPITULO OCTAVO De los Requisitos para obtener los Beneficios que Otorga el Centro",
+    "CAPITULO NOVENO De la Colaboración de las Autoridades",
+    "CAPITULO DECIMO Del Régimen Laboral"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 10
+  }
+}

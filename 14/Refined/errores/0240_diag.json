@@ -1,0 +1,24 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 40,
+  "n_perm_fracciones": 260,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I De la Naturaleza, Fines y Atribuciones",
+    "CAPÍTULO II Del Patrimonio Universitario",
+    "CAPÍTULO III De la Organización Académica y Administrativa",
+    "SECCIÓN PRIMERA De la Junta de Gobierno",
+    "SECCIÓN SEGUNDA Del Titular de la Rectoría",
+    "SECCIÓN TERCERA",
+    "SECCIÓN CUARTA Instancias Colegiadas",
+    "SECCIÓN QUINTA Del Órgano Interno de Control",
+    "CAPÍTULO IV De las y los Estudiantes",
+    "CAPÍTULO V De la Suplencia de los Titulares"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 5
+  }
+}

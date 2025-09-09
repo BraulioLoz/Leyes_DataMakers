@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 33,
+  "n_perm_fracciones": 155,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LOS OBJETIVOS Y ATRIBUCIONES",
+    "CAPÍTULO III DE LA INTEGRACIÓN Y ATRIBUCIONES DE SUS ÓRGANOS DE GOBIERNO",
+    "CAPÍTULO IV DEL PATRIMONIO DEL ORGANISMO",
+    "CAPÍTULO V DEL ÓRGANO DE VIGILANCIA"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "n_chapters": 14,
+  "n_perm_articles": 47,
+  "n_perm_fracciones": 150,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I",
+    "Capítulo II Declaración de área o región metropolitana",
+    "Capítulo III",
+    "Capítulo IV Constitución de las instancias de coordinación metropolitana",
+    "Capítulo V Reconocimiento de las zonas metropolitanas federales",
+    "Título Tercero Sistema Integral de Desarrollo Metropolitano",
+    "Capítulo I",
+    "Capítulo II Junta de Coordinación Metropolitana",
+    "Capítulo III Instituto de Planeación y Gestión de Desarrollo",
+    "Capítulo IV Consejo Ciudadano Metropolitano",
+    "Capítulo V Consejo Consultivo de Desarrollo metropolitano",
+    "Capítulo VI Agencias Metropolitanas",
+    "Capítulo VII Mesas de Gestión Metropolitana"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 13,
+    "TÍTULO": 1
+  }
+}

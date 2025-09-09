@@ -1,0 +1,25 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 23,
+  "n_perm_fracciones": 71,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Secretaría",
+    "Capítulo III Consejo Consultivo",
+    "Capítulo IV Solicitud de Protección, Evaluación y Determinación del Riesgo",
+    "Capítulo V Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección",
+    "Capítulo VI Convenios de Cooperación",
+    "Capítulo VII Inconformidades",
+    "Capítulo VIII Transparencia y Acceso a la Información",
+    "Capítulo IX Sanciones",
+    "Título Vigésimo Cuarto, denominado \"De los Delitos contra la Libertad de Expresión\" y el",
+    "CAPÍTULO ÚNICO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 10,
+    "TÍTULO": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 41,
+  "n_perm_fracciones": 30,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De las Indemnizaciones",
+    "CAPÍTULO III Del Procedimiento",
+    "CAPÍTULO IV De la Concurrencia",
+    "CAPÍTULO V Del Derecho del Estado y Municipios de Repetir contra los Servidores Públicos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

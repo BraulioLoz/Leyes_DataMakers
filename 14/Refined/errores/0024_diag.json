@@ -1,0 +1,28 @@
+{
+  "n_chapters": 14,
+  "n_perm_articles": 65,
+  "n_perm_fracciones": 241,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Bases Generales Para el Desarrollo de una Sociedad Basada en el Conocimiento",
+    "Capítulo III Divulgación y Vinculación entre Investigación, Academia y Sector Productivo",
+    "Capítulo IV Del Programa Sectorial de Innovación, Ciencia y Tecnología para el Desarrollo",
+    "Capítulo V De la participación del sector productivo",
+    "Capítulo VI Del Consejo Consultivo de la Secretaria de Innovación Ciencia y Tecnología",
+    "Capítulo VII Del COECYTJAL",
+    "Sección Primera Funciones del COECYTJAL",
+    "Sección Segunda De la Integración y Funcionamiento del COECYTJAL",
+    "Sección Tercera Del Patrimonio del COECYTJAL",
+    "Capítulo VIII Instrumentos de Apoyo a la Investigación Científica, el Desarrollo Tecnológico, la Innovación y el Desarrollo del Conocimiento.",
+    "Sección Primera Del Presupuesto",
+    "Sección Segunda Del Fondo Estatal de Ciencia y Tecnología",
+    "Sección Tercera Del Premio Estatal de Innovación, Ciencia y Tecnología"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8,
+    "SECCIÓN": 6
+  }
+}

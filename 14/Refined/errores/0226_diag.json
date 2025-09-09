@@ -1,0 +1,39 @@
+{
+  "n_chapters": 26,
+  "n_perm_articles": 165,
+  "n_perm_fracciones": 416,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Consejo de Participación Ciudadana y Popular para la Gobernanza",
+    "Capítulo III Autoridades del Sistema Estatal",
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Políticas Gubernamentales",
+    "Capítulo III Plebiscito",
+    "Capítulo IV Referéndum",
+    "Capítulo V Ratificación Constitucional",
+    "Capítulo VI Iniciativa Ciudadana",
+    "Capítulo VII Ratificación de Mandato",
+    "Capítulo VIII Revocación de Mandato",
+    "Capítulo IX Consulta Popular",
+    "Capítulo X Presupuesto Participativo",
+    "Capítulo XI Comparecencia Pública",
+    "Capítulo XII Proyecto Social",
+    "Capítulo XIII Asamblea Popular",
+    "Capítulo XIV Ayuntamiento Abierto",
+    "Capítulo XV Colaboración Popular",
+    "Capítulo XVI Planeación Participativa",
+    "Capítulo XVII Diálogo Colaborativo",
+    "Capítulo XVIII Contraloría Social",
+    "Capítulo Único",
+    "Capítulo I Responsabilidades de los Partidos Políticos",
+    "Capítulo II Responsabilidades de los Servidores Públicos",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 26
+  }
+}

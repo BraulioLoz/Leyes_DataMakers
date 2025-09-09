@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 23,
+  "n_perm_fracciones": 61,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO Disposiciones Generales",
+    "CAPÍTULO SEGUNDO",
+    "CAPÍTULO TERCERO De los Premios",
+    "CAPÍTULO CUARTO De las Condecoraciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

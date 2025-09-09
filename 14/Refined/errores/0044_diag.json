@@ -1,0 +1,30 @@
+{
+  "n_chapters": 17,
+  "n_perm_articles": 60,
+  "n_perm_fracciones": 192,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I De las Autoridades",
+    "Capítulo II De las atribuciones de las autoridades",
+    "Capítulo I De la Integración y Atribuciones del Sistema",
+    "Capítulo II De las Sesiones",
+    "Capítulo Único",
+    "Capítulo Único",
+    "Capítulo I De su Integración y fines",
+    "Capítulo II De los Criterios y Bases para el Otorgamiento de Apoyos",
+    "Capítulo III De los Compromisos de los Beneficiarios",
+    "Capítulo Único",
+    "Capítulo I De la Cultura Indígena",
+    "Capítulo II De la Cultura Popular, Urbana, Festividades y Tradiciones",
+    "Capítulo III Del Fomento al Libro y la Lectura",
+    "Capítulo IV Del uso de los Espacios Públicos Destinados a la Cultura",
+    "Capítulo V Del fomento a la actividad cinematográfica",
+    "Capítulo Único De la Integración y Administración del Fideicomiso"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 17
+  }
+}

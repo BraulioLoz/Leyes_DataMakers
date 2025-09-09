@@ -1,0 +1,8 @@
+Errores y advertencias para: 0127.txt
+==================================================
+
+Ubicación: line 403
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 72 a 74
+Línea: Artículo 74.- Toda resolución dictada por la autoridad administrativa deberá hacerse constar por escrito, y contendrá:
+------------------------------

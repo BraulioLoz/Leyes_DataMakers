@@ -1,0 +1,2751 @@
+{
+  "processed_files": [
+    "0001.txt",
+    "0002.txt",
+    "0003.txt",
+    "0004.txt",
+    "0005.txt",
+    "0006.txt",
+    "0007.txt",
+    "0008.txt",
+    "0009.txt",
+    "0010.txt",
+    "0011.txt",
+    "0012.txt",
+    "0013.txt",
+    "0014.txt",
+    "0015.txt",
+    "0016.txt",
+    "0017.txt",
+    "0018.txt",
+    "0019.txt",
+    "0020.txt",
+    "0021.txt",
+    "0022.txt",
+    "0023.txt",
+    "0024.txt",
+    "0025.txt",
+    "0026.txt",
+    "0027.txt",
+    "0028.txt",
+    "0029.txt",
+    "0030.txt",
+    "0031.txt",
+    "0032.txt",
+    "0033.txt",
+    "0034.txt",
+    "0035.txt",
+    "0036.txt",
+    "0037.txt",
+    "0038.txt",
+    "0039.txt",
+    "0040.txt",
+    "0041.txt",
+    "0044.txt",
+    "0045.txt",
+    "0046.txt",
+    "0047.txt",
+    "0048.txt",
+    "0049.txt",
+    "0050.txt",
+    "0051.txt",
+    "0052.txt",
+    "0053.txt",
+    "0054.txt",
+    "0055.txt",
+    "0056.txt",
+    "0057.txt",
+    "0058.txt",
+    "0059.txt",
+    "0060.txt",
+    "0061.txt",
+    "0062.txt",
+    "0063.txt",
+    "0064.txt",
+    "0065.txt",
+    "0066.txt",
+    "0067.txt",
+    "0068.txt",
+    "0069.txt",
+    "0070.txt",
+    "0071.txt",
+    "0072.txt",
+    "0073.txt",
+    "0074.txt",
+    "0075.txt",
+    "0076.txt",
+    "0077.txt",
+    "0078.txt",
+    "0079.txt",
+    "0080.txt",
+    "0081.txt",
+    "0082.txt",
+    "0083.txt",
+    "0084.txt",
+    "0085.txt",
+    "0086.txt",
+    "0087.txt",
+    "0088.txt",
+    "0089.txt",
+    "0090.txt",
+    "0091.txt",
+    "0092.txt",
+    "0093.txt",
+    "0094.txt",
+    "0095.txt",
+    "0096.txt",
+    "0097.txt",
+    "0098.txt",
+    "0099.txt",
+    "0100.txt",
+    "0101.txt",
+    "0102.txt",
+    "0103.txt",
+    "0104.txt",
+    "0105.txt",
+    "0106.txt",
+    "0107.txt",
+    "0108.txt",
+    "0109.txt",
+    "0110.txt",
+    "0111.txt",
+    "0112.txt",
+    "0113.txt",
+    "0114.txt",
+    "0115.txt",
+    "0116.txt",
+    "0117.txt",
+    "0118.txt",
+    "0119.txt",
+    "0120.txt",
+    "0121.txt",
+    "0122.txt",
+    "0123.txt",
+    "0124.txt",
+    "0125.txt",
+    "0126.txt",
+    "0127.txt",
+    "0128.txt",
+    "0129.txt",
+    "0130.txt",
+    "0131.txt",
+    "0132.txt",
+    "0133.txt",
+    "0134.txt",
+    "0135.txt",
+    "0136.txt",
+    "0137.txt",
+    "0138.txt",
+    "0139.txt",
+    "0140.txt",
+    "0141.txt",
+    "0142.txt",
+    "0143.txt",
+    "0144.txt",
+    "0145.txt",
+    "0146.txt",
+    "0147.txt",
+    "0148.txt",
+    "0149.txt",
+    "0150.txt",
+    "0151.txt",
+    "0152.txt",
+    "0153.txt",
+    "0154.txt",
+    "0155.txt",
+    "0156.txt",
+    "0157.txt",
+    "0158.txt",
+    "0159.txt",
+    "0160.txt",
+    "0161.txt",
+    "0162.txt",
+    "0163.txt",
+    "0164.txt",
+    "0165.txt",
+    "0166.txt",
+    "0167.txt",
+    "0168.txt",
+    "0169.txt",
+    "0170.txt",
+    "0171.txt",
+    "0172.txt",
+    "0173.txt",
+    "0174.txt",
+    "0175.txt",
+    "0176.txt",
+    "0177.txt",
+    "0178.txt",
+    "0179.txt",
+    "0180.txt",
+    "0181.txt"
+  ],
+  "files": {
+    "0001.txt": {
+      "output": "0001.json",
+      "law_name": "Constitución Política del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 8,
+        "capitulos": 25,
+        "secciones": 15,
+        "articulos": 215
+      },
+      "issues": []
+    },
+    "0002.txt": {
+      "output": "0002.json",
+      "law_name": "Código Civil para el Estado de Nuevo León",
+      "counts": {
+        "libros": 4,
+        "titulos": 43,
+        "capitulos": 194,
+        "secciones": 0,
+        "articulos": 3073
+      },
+      "issues": [
+        {
+          "location": "line 583",
+          "message": "Secuencia de artículos salta de 148 a 150",
+          "issue_type": "warning",
+          "line_text": "Art. 150. DEROGADO. P.O. 08 DE ENERO DE 2018."
+        },
+        {
+          "location": "line 2277",
+          "message": "Secuencia de artículos salta de 892 a 894",
+          "issue_type": "warning",
+          "line_text": "Art. 894.- El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajenos, adquiere la propiedad de unas y otros, pero con la obligación de pagarlos en todo caso y de resarcir los daños y perjuicios si ha procedido de mala fé."
+        },
+        {
+          "location": "line 3259",
+          "message": "Secuencia de artículos salta de 1510 a 1512",
+          "issue_type": "warning",
+          "line_text": "Art. 1512.- A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales."
+        },
+        {
+          "location": "line 5590",
+          "message": "Secuencia de artículos salta de 2910 a 2912",
+          "issue_type": "warning",
+          "line_text": "Art. 2912.- En los casos de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado el encargado del Registro, a fin de que pueda servirles de prueba en el juicio correspondiente."
+        }
+      ]
+    },
+    "0003.txt": {
+      "output": "0003.json",
+      "law_name": "Código de Ética para el Congreso del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 5,
+        "articulos": 38
+      },
+      "issues": []
+    },
+    "0004.txt": {
+      "output": "0004.json",
+      "law_name": "Código de Procedimientos Civiles del Estado de Nuevo León",
+      "counts": {
+        "libros": 4,
+        "titulos": 18,
+        "capitulos": 73,
+        "secciones": 4,
+        "articulos": 1293
+      },
+      "issues": [
+        {
+          "location": "line 720",
+          "message": "Secuencia de artículos salta de 235 a 326",
+          "issue_type": "warning",
+          "line_text": "Artículo 326 (sic).- Todas las pruebas, salvo los casos especificados en la ley, podrán recibirse con asistencia de las partes."
+        },
+        {
+          "location": "line 1992",
+          "message": "Secuencia de artículos salta de 804 a 825",
+          "issue_type": "warning",
+          "line_text": "Artículo 825 (sic).- La tercera sección se llamará de administración y contendrá:"
+        }
+      ]
+    },
+    "0005.txt": {
+      "output": "0005.json",
+      "law_name": "Código Fiscal del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 8,
+        "secciones": 8,
+        "articulos": 267
+      },
+      "issues": []
+    },
+    "0006.txt": {
+      "output": "0006.json",
+      "law_name": "Código Penal para el Estado de Nuevo León",
+      "counts": {
+        "libros": 2,
+        "titulos": 24,
+        "capitulos": 104,
+        "secciones": 0,
+        "articulos": 598
+      },
+      "issues": [
+        {
+          "location": "line 187",
+          "message": "Secuencia de artículos salta de 45 a 47",
+          "issue_type": "warning",
+          "line_text": "ARTICULO 47.- EL JUEZ FIJARA DENTRO DE LOS MINIMOS Y MAXIMOS LEGALES LA SANCION, TENIENDO EN CUENTA LAS SIGUIENTES CIRCUNSTANCIAS, EN CUANTO LA LEY NO LAS CONSIDERE ESPECIFICAMENTE COMO CONSTITUTIVAS DEL DELITO O MODIFICATIVAS DE LA RESPONSABILIDAD:"
+        },
+        {
+          "location": "line 332",
+          "message": "Secuencia de artículos salta de 89 a 96",
+          "issue_type": "warning",
+          "line_text": "ARTICULO 96."
+        },
+        {
+          "location": "line 813",
+          "message": "Secuencia de artículos salta de 195 a 197",
+          "issue_type": "warning",
+          "line_text": "ARTICULO 197-BIS.- QUIEN LE VENDA AUN MENOR DE DIECIOCHO AÑOS O LE PROPORCIONE POR CUALQUIER CONCEPTO SUBSTANCIAS TÓXICAS, TALES COMO THINERS, SOLVENTES, SAROLOS, PEGAMENTOS, CEMENTOS PLÁSTICOS O CUALQUIERA OTRA QUE PRODUZCA EFECTOS SIMILARES CON LA FINALIDAD DE SER CONSUMIDAS POR EL MENOR CON PROPÓSITOS ENERVANTES, SE LE SANCIONARÁ CON LA PENA DE PRISIÓN DE CUATRO A DOCE AÑOS Y MULTA HASTA DE SETECIENTAS CUOTAS."
+        }
+      ]
+    },
+    "0007.txt": {
+      "output": "0007.json",
+      "law_name": "Ley Ambiental del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 29,
+        "secciones": 18,
+        "articulos": 313
+      },
+      "issues": []
+    },
+    "0008.txt": {
+      "output": "0008.json",
+      "law_name": "Ley  de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 92
+      },
+      "issues": []
+    },
+    "0009.txt": {
+      "output": "0009.json",
+      "law_name": "Ley de Administración Financiera para el Estado de Nuevo Leon",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 13,
+        "secciones": 18,
+        "articulos": 174
+      },
+      "issues": []
+    },
+    "0010.txt": {
+      "output": "0010.json",
+      "law_name": "Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 102
+      },
+      "issues": []
+    },
+    "0011.txt": {
+      "output": "0011.json",
+      "law_name": "Ley de Agua Potable y Saneamiento para el Estado de Nuevo Leon",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 13,
+        "secciones": 0,
+        "articulos": 78
+      },
+      "issues": []
+    },
+    "0012.txt": {
+      "output": "0012.json",
+      "law_name": "Ley de Amnistía para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 12
+      },
+      "issues": []
+    },
+    "0013.txt": {
+      "output": "0013.json",
+      "law_name": "Ley de Aparcería Agrícola del Estado de Nuevo Leon",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 42
+      },
+      "issues": []
+    },
+    "0014.txt": {
+      "output": "0014.json",
+      "law_name": "Ley de Archivos para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 25,
+        "secciones": 0,
+        "articulos": 103
+      },
+      "issues": [
+        {
+          "location": "line 256",
+          "message": "Secuencia de artículos salta de 40 a 42",
+          "issue_type": "warning",
+          "line_text": "Artículo 42.- Los sujetos obligados establecerán en su programa anual los procedimientos para la generación, administración, uso, control y migración de formatos electrónicos, así como planes de preservación y conservación de largo plazo que contemplen la migración, la emulación o cualquier otro método de preservación y conservación de los documentos de archivos electrónicos, apoyándose en las disposiciones emanadas del Consejo Nacional y del Consejo Estatal."
+        },
+        {
+          "location": "line 452",
+          "message": "Secuencia de artículos salta de 89 a 91",
+          "issue_type": "warning",
+          "line_text": "Artículo 91.- Los sujetos obligados podrán celebrar acuerdos interinstitucionales y convenios con instituciones educativas, centros de investigación y organismos públicos o privados, para recibir servicios de capacitación en materia de archivos."
+        }
+      ]
+    },
+    "0015.txt": {
+      "output": "0015.json",
+      "law_name": "Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 12,
+        "capitulos": 58,
+        "secciones": 37,
+        "articulos": 432
+      },
+      "issues": [
+        {
+          "location": "line 183",
+          "message": "Secuencia de artículos salta de 7 a 9",
+          "issue_type": "warning",
+          "line_text": "Artículo 9. Corresponde al Gobernador del Estado:"
+        },
+        {
+          "location": "line 328",
+          "message": "Secuencia de artículos salta de 15 a 17",
+          "issue_type": "warning",
+          "line_text": "Artículo 17. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, tendrá las siguientes funciones:"
+        },
+        {
+          "location": "line 421",
+          "message": "Secuencia de artículos salta de 24 a 26",
+          "issue_type": "warning",
+          "line_text": "Artículo 26. El convenio que se celebre según lo previsto en el artículo anterior contendrá:"
+        },
+        {
+          "location": "line 1654",
+          "message": "Secuencia de artículos salta de 174 a 176",
+          "issue_type": "warning",
+          "line_text": "Artículo 176. Los Atlas de riesgos se elaborarán y consultarán conforme al procedimiento que se establece en el siguiente párrafo, según corresponda al espacio territorial que"
+        },
+        {
+          "location": "line 1694",
+          "message": "Secuencia de artículos salta de 181 a 183",
+          "issue_type": "warning",
+          "line_text": "Artículo 183. Adicionalmente a lo anterior, toda nueva construcción o fraccionamiento, deberá de contribuir económicamente, a las obras de manejo integral de aguas pluviales y de drenaje pluvial contenidas en el programa sectorial de infraestructura para el manejo de las aguas pluviales, conforme al tipo y nivel de riesgo que represente su ubicación dentro de la cuenca."
+        },
+        {
+          "location": "line 2650",
+          "message": "Secuencia de artículos salta de 304 a 306",
+          "issue_type": "warning",
+          "line_text": "Artículo 306. Para la obtención de las autorizaciones de fusión, subdivisión, relotificación o parcelación, el solicitante deberá cumplir con los siguientes requisitos:"
+        },
+        {
+          "location": "line 3426",
+          "message": "Secuencia de artículos salta de 429 a 431",
+          "issue_type": "warning",
+          "line_text": "Artículo 431. Para apoyar el funcionamiento de los observatorios, las dependencias y entidades de la Administración Pública Federal, estatal, municipal y de las demarcaciones territoriales:"
+        }
+      ]
+    },
+    "0016.txt": {
+      "output": "0016.json",
+      "law_name": "Ley de Asociaciones Público Privadas para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 13,
+        "secciones": 24,
+        "articulos": 130
+      },
+      "issues": []
+    },
+    "0017.txt": {
+      "output": "0017.json",
+      "law_name": "Ley de Cambio Climático del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 14,
+        "secciones": 3,
+        "articulos": 58
+      },
+      "issues": [
+        {
+          "location": "line 235",
+          "message": "Secuencia de artículos salta de 17 a 19",
+          "issue_type": "warning",
+          "line_text": "Artículo 19.- El Consejo Técnico se integrará por un mínimo de doce miembros, que podrán ser provenientes del sector social, académico y de investigación, con reconocido mérito y experiencia en materia de cambio climático, debiendo observarse que la cuarta parte de los integrantes de este Consejo deberán contar con la certificación otorgada por parte de la Escuela Nacional de Protección Civil."
+        },
+        {
+          "location": "line 260",
+          "message": "Secuencia de artículos salta de 23 a 25",
+          "issue_type": "warning",
+          "line_text": "Artículo 25.- El Programa Estatal será elaborado por la Secretaría, siguiendo las pautas que marcan el Acuerdo de París y los estudios sobre cambio climático del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) de la Organización de las Naciones Unidas. Será puesto a consideración y aprobado por la Comisión tras la revisión previa del Consejo Técnico."
+        }
+      ]
+    },
+    "0018.txt": {
+      "output": "0018.json",
+      "law_name": "Ley de Ciencia, Tecnología e Innovación del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 3,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 47
+      },
+      "issues": []
+    },
+    "0019.txt": {
+      "output": "0019.json",
+      "law_name": "Ley de Coordinación Hacendaria del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 39
+      },
+      "issues": []
+    },
+    "0020.txt": {
+      "output": "0020.json",
+      "law_name": "Ley de Copropiedades Rurales",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 44
+      },
+      "issues": []
+    },
+    "0021.txt": {
+      "output": "0021.json",
+      "law_name": "Ley de Defensoría Pública para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 8,
+        "articulos": 45
+      },
+      "issues": [
+        {
+          "location": "line 245",
+          "message": "Secuencia de artículos salta de 40 a 42",
+          "issue_type": "warning",
+          "line_text": "Artículo 42.- Las reclamaciones de los usuarios de la defensa pública deberán ser dirigidas al Director General con copia al Consejo y serán resueltas de manera inimpugnable por el primero."
+        }
+      ]
+    },
+    "0022.txt": {
+      "output": "0022.json",
+      "law_name": "Ley de Desarrollo Forestal Sustentable del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 9,
+        "capitulos": 25,
+        "secciones": 11,
+        "articulos": 175
+      },
+      "issues": [
+        {
+          "location": "line 310",
+          "message": "Secuencia de artículos salta de 28 a 30",
+          "issue_type": "warning",
+          "line_text": "Artículo 30.- En la planeación del desarrollo forestal, la Corporación, elaborará un Programa Estatal Forestal, en el que se considerará la problemática actual del sector y se indicará las alternativas de solución al mismo."
+        },
+        {
+          "location": "line 326",
+          "message": "Secuencia de artículos salta de 34 a 36",
+          "issue_type": "warning",
+          "line_text": "Artículo 36.- Los gobiernos municipales coadyuvarán con la Corporación en los términos que prevea el Reglamento de esta Ley, para la realización y actualización del Inventario Estatal Forestal y de Suelos."
+        },
+        {
+          "location": "line 574",
+          "message": "Secuencia de artículos salta de 87 a 89",
+          "issue_type": "warning",
+          "line_text": "Artículo 89 Bis 24.- La operación y administración de los Centros Municipales e Intermunicipales de Manejo del Fuego, se regirá por la metodología del Sistema de Comando de Incidentes y Mando Unificado, según se establezca en las normas oficiales mexicanas."
+        }
+      ]
+    },
+    "0023.txt": {
+      "output": "0023.json",
+      "law_name": "Ley de Desarrollo Rural Integral Sustentable del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 10,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 121
+      },
+      "issues": [
+        {
+          "location": "line 346",
+          "message": "Secuencia de artículos salta de 87 a 89",
+          "issue_type": "warning",
+          "line_text": "Artículo 89.- Considerando la diversidad de bienes y servicios que se desarrollan en el medio rural, se articulará un sistema comercial, que apoyará y favorecerá la consolidación de la oferta de las empresas rurales en las diferentes ramas productivas ubicadas en territorio nuevoleonés."
+        }
+      ]
+    },
+    "0024.txt": {
+      "output": "0024.json",
+      "law_name": "Ley de Desarrollo Social para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 59
+      },
+      "issues": []
+    },
+    "0025.txt": {
+      "output": "0025.json",
+      "law_name": "Ley de Educación del Estado",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 8,
+        "secciones": 23,
+        "articulos": 144
+      },
+      "issues": [
+        {
+          "location": "line 180",
+          "message": "Titulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "título profesional; que en ningún caso excederá de un tanto más del importe de los derechos que se pagan por el servicio establecido en el artículo 185 fracción IV de la Ley Federal de Derechos;"
+        }
+      ]
+    },
+    "0026.txt": {
+      "output": "0026.json",
+      "law_name": "Ley de Egresos del Estado de Nuevo León para el Ejercicio Fiscal 2023",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 107
+      },
+      "issues": []
+    },
+    "0027.txt": {
+      "output": "0027.json",
+      "law_name": "Ley de Emergencia Policial, Reglamentaria de la Fracción XVIII del Artículo 85 de la Constitución Política del Estado Libre y Soberano de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 0
+      },
+      "issues": []
+    },
+    "0028.txt": {
+      "output": "0028.json",
+      "law_name": "Ley de Entrega Recepción para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 29
+      },
+      "issues": []
+    },
+    "0029.txt": {
+      "output": "0029.json",
+      "law_name": "Ley de Expropiación por Causa de Utilidad Pública",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 20
+      },
+      "issues": []
+    },
+    "0030.txt": {
+      "output": "0030.json",
+      "law_name": "Ley de Fiscalización Superior del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 19,
+        "secciones": 4,
+        "articulos": 109
+      },
+      "issues": []
+    },
+    "0031.txt": {
+      "output": "0031.json",
+      "law_name": "Ley de Fomento a la Inversión y al Empleo para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 61
+      },
+      "issues": []
+    },
+    "0032.txt": {
+      "output": "0032.json",
+      "law_name": "Ley de Fomento a la Micro, Pequeña y Mediana Empresa para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 0,
+        "articulos": 40
+      },
+      "issues": []
+    },
+    "0033.txt": {
+      "output": "0033.json",
+      "law_name": "Ley de Fomento a las Actividades  Agropecuarias del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 8
+      },
+      "issues": []
+    },
+    "0034.txt": {
+      "output": "0034.json",
+      "law_name": "Ley de Fomento al Turismo del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 73
+      },
+      "issues": []
+    },
+    "0035.txt": {
+      "output": "0035.json",
+      "law_name": "Ley de Fomento de la Sociedad Civil Organizada para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 47
+      },
+      "issues": [
+        {
+          "location": "line 3",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "CAPÍTULO l DISPOSICIONES GENERALES"
+        }
+      ]
+    },
+    "0036.txt": {
+      "output": "0036.json",
+      "law_name": "Ley de Fomento para la Construcción de Edificios de Estacionamiento de Vehículos",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 8
+      },
+      "issues": []
+    },
+    "0037.txt": {
+      "output": "0037.json",
+      "law_name": "Ley de Gobierno Municipal del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 11,
+        "capitulos": 43,
+        "secciones": 6,
+        "articulos": 240
+      },
+      "issues": []
+    },
+    "0038.txt": {
+      "output": "0038.json",
+      "law_name": "Ley de Hacienda del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 8,
+        "secciones": 14,
+        "articulos": 321
+      },
+      "issues": [
+        {
+          "location": "line 406",
+          "message": "Secuencia de artículos salta de 89 a 91",
+          "issue_type": "warning",
+          "line_text": "ARTICULO 91.-Cuando se solicite la suspensión provisional o definitiva de una orden de clausura, además de garantizarse el interés fiscal en las formas que establece el Código Fiscal del Estado, la Tesorería General podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la determinación del juicio."
+        }
+      ]
+    },
+    "0039.txt": {
+      "output": "0039.json",
+      "law_name": "Ley de Hacienda para los Municipios del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 173
+      },
+      "issues": []
+    },
+    "0040.txt": {
+      "output": "0040.json",
+      "law_name": "Ley de Indulto para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 0
+      },
+      "issues": []
+    },
+    "0041.txt": {
+      "output": "0041.json",
+      "law_name": "Ley de Infraestructura Física Educativa y Deportiva de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 35
+      },
+      "issues": []
+    },
+    "0044.txt": {
+      "output": "0044.json",
+      "law_name": "Ley de Instituciones Asistenciales Públicas y Privadas para las Personas Adultas Mayores en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 40
+      },
+      "issues": []
+    },
+    "0045.txt": {
+      "output": "0045.json",
+      "law_name": "Ley de Instituciones Asistenciales que Tienen bajo su Guarda, Custodia o Ambas a Niñas, Niños y Adolescentes en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 9,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 44
+      },
+      "issues": []
+    },
+    "0046.txt": {
+      "output": "0046.json",
+      "law_name": "Ley de Juicio Político del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 2,
+        "capitulos": 2,
+        "secciones": 0,
+        "articulos": 32
+      },
+      "issues": []
+    },
+    "0047.txt": {
+      "output": "0047.json",
+      "law_name": "Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 2,
+        "capitulos": 21,
+        "secciones": 0,
+        "articulos": 208
+      },
+      "issues": [
+        {
+          "location": "line 397",
+          "message": "Secuencia de artículos salta de 56 a 58",
+          "issue_type": "warning",
+          "line_text": "Artículo 58. Los Magistrados del Tribunal, bajo su responsabilidad se excusarán de intervenir en los siguientes casos:"
+        }
+      ]
+    },
+    "0048.txt": {
+      "output": "0048.json",
+      "law_name": "Ley de Justicia Cívica para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 11,
+        "capitulos": 23,
+        "secciones": 0,
+        "articulos": 92
+      },
+      "issues": []
+    },
+    "0049.txt": {
+      "output": "0049.json",
+      "law_name": "Ley de la Beneficencia Privada para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 130
+      },
+      "issues": []
+    },
+    "0050.txt": {
+      "output": "0050.json",
+      "law_name": "Ley de la Comisión Estatal de Derechos Humanos del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 13,
+        "secciones": 0,
+        "articulos": 72
+      },
+      "issues": [
+        {
+          "location": "line 224",
+          "message": "Secuencia de artículos salta de 55 a 102",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 102, APARTADO \"B\" DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DE ACUERDO CON LAS DISPOSICIONES DE LA LEY DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS."
+        }
+      ]
+    },
+    "0051.txt": {
+      "output": "0051.json",
+      "law_name": "Ley de la Corporación para el Desarrollo Agropecuario de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 29
+      },
+      "issues": []
+    },
+    "0052.txt": {
+      "output": "0052.json",
+      "law_name": "Ley de la Corporación para el Desarrollo Turístico de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 29
+      },
+      "issues": []
+    },
+    "0053.txt": {
+      "output": "0053.json",
+      "law_name": "Ley de la Institución Policial Estatal Fuerza Civil",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 44
+      },
+      "issues": [
+        {
+          "location": "line 65",
+          "message": "Secuencia de artículos salta de 6 a 8",
+          "issue_type": "warning",
+          "line_text": "Artículo 8.- Organización"
+        }
+      ]
+    },
+    "0054.txt": {
+      "output": "0054.json",
+      "law_name": "Ley de la Juventud para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 0,
+        "articulos": 48
+      },
+      "issues": []
+    },
+    "0055.txt": {
+      "output": "0055.json",
+      "law_name": "Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 8,
+        "capitulos": 20,
+        "secciones": 0,
+        "articulos": 70
+      },
+      "issues": []
+    },
+    "0056.txt": {
+      "output": "0056.json",
+      "law_name": "Ley de los Derechos de las Personas Indígenas y Afromexicanas en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 1,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 49
+      },
+      "issues": [
+        {
+          "location": "line 93",
+          "message": "Secuencia de artículos salta de 13 a 15",
+          "issue_type": "warning",
+          "line_text": "Artículo 15.- El Estado, a través de la Secretaría del Trabajo, promoverá los derechos laborales y ofrecerá programas de capacitación laboral y de empleo entre los indígenas y afromexicanos."
+        }
+      ]
+    },
+    "0057.txt": {
+      "output": "0057.json",
+      "law_name": "Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 31,
+        "secciones": 0,
+        "articulos": 203
+      },
+      "issues": []
+    },
+    "0058.txt": {
+      "output": "0058.json",
+      "law_name": "Ley de Mecanismos Alternativos para la Solución de Controversias para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 55
+      },
+      "issues": []
+    },
+    "0059.txt": {
+      "output": "0059.json",
+      "law_name": "Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 11,
+        "capitulos": 24,
+        "secciones": 13,
+        "articulos": 282
+      },
+      "issues": [
+        {
+          "location": "line 498",
+          "message": "Secuencia de artículos salta de 20 a 22",
+          "issue_type": "warning",
+          "line_text": "Artículo 22. El Instituto será conformado por:"
+        },
+        {
+          "location": "line 1656",
+          "message": "Secuencia de artículos salta de 170 a 172",
+          "issue_type": "warning",
+          "line_text": "Artículo 172. Son susceptibles de permiso, en los términos de esta Ley y su Reglamento, las siguientes modalidades del servicio de transporte:"
+        }
+      ]
+    },
+    "0060.txt": {
+      "output": "0060.json",
+      "law_name": "Ley de Nomenclatura del Estado y Municipios de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 7
+      },
+      "issues": []
+    },
+    "0061.txt": {
+      "output": "0061.json",
+      "law_name": "Ley de Obras Públicas para el Estado y Municipios de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 129
+      },
+      "issues": []
+    },
+    "0062.txt": {
+      "output": "0062.json",
+      "law_name": "Ley de Participación Ciudadana para el Estado de Nuevo León",
+      "counts": {
+        "libros": 5,
+        "titulos": 6,
+        "capitulos": 16,
+        "secciones": 11,
+        "articulos": 127
+      },
+      "issues": []
+    },
+    "0063.txt": {
+      "output": "0063.json",
+      "law_name": "Ley de Pensiones, Seguro de Vida y Otros Beneficios a los Veteranos de la Revolución",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 9
+      },
+      "issues": []
+    },
+    "0064.txt": {
+      "output": "0064.json",
+      "law_name": "Ley de Planeación Estratégica del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 31
+      },
+      "issues": []
+    },
+    "0065.txt": {
+      "output": "0065.json",
+      "law_name": "Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 16,
+        "secciones": 0,
+        "articulos": 79
+      },
+      "issues": []
+    },
+    "0066.txt": {
+      "output": "0066.json",
+      "law_name": "Ley de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 70
+      },
+      "issues": [
+        {
+          "location": "line 23",
+          "message": "Secuencia de artículos salta de 1 a 3",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 3.- Los ejes rectores que deberán regir en toda política pública en materia de prevención del delito son:"
+        }
+      ]
+    },
+    "0067.txt": {
+      "output": "0067.json",
+      "law_name": "Ley de Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 34
+      },
+      "issues": []
+    },
+    "0068.txt": {
+      "output": "0068.json",
+      "law_name": "Ley de Profesiones del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 11,
+        "secciones": 3,
+        "articulos": 66
+      },
+      "issues": [
+        {
+          "location": "line 9",
+          "message": "Titulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "TITULO PARA SU EJERCICIO"
+        }
+      ]
+    },
+    "0069.txt": {
+      "output": "0069.json",
+      "law_name": "Ley de Propiedad en Condominio de Inmuebles para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 8,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 64
+      },
+      "issues": []
+    },
+    "0070.txt": {
+      "output": "0070.json",
+      "law_name": "Ley de Protección a la Salud Bucal para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 13
+      },
+      "issues": []
+    },
+    "0071.txt": {
+      "output": "0071.json",
+      "law_name": "Ley de Protección al Parto Humanizado y a la Maternidad Digna del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 2,
+        "articulos": 44
+      },
+      "issues": [
+        {
+          "location": "line 79",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "Capítulo llI De los Derechos de las Mujeres Sección Primera Durante el Embarazo"
+        }
+      ]
+    },
+    "0072.txt": {
+      "output": "0072.json",
+      "law_name": "Ley de Protección Civil para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 2,
+        "capitulos": 15,
+        "secciones": 0,
+        "articulos": 122
+      },
+      "issues": []
+    },
+    "0073.txt": {
+      "output": "0073.json",
+      "law_name": "Ley de Protección contra Incendios y Materiales Peligrosos del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 10
+      },
+      "issues": []
+    },
+    "0074.txt": {
+      "output": "0074.json",
+      "law_name": "Ley de Protección contra la Exposición al Humo del Tabaco del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 7,
+        "articulos": 58
+      },
+      "issues": []
+    },
+    "0075.txt": {
+      "output": "0075.json",
+      "law_name": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 11,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 180
+      },
+      "issues": [
+        {
+          "location": "line 515",
+          "message": "Secuencia de artículos salta de 93 a 95",
+          "issue_type": "warning",
+          "line_text": "Artículo 95. En el tratamiento de datos personales así como en el uso de las bases de datos para su almacenamiento, que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y administración de justicia deberá cumplir con los principios establecidos en el Título Segundo de la presente Ley."
+        }
+      ]
+    },
+    "0076.txt": {
+      "output": "0076.json",
+      "law_name": "Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 17,
+        "secciones": 0,
+        "articulos": 165
+      },
+      "issues": []
+    },
+    "0077.txt": {
+      "output": "0077.json",
+      "law_name": "Ley de Protección y Fomento Apícola del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 15,
+        "secciones": 0,
+        "articulos": 99
+      },
+      "issues": []
+    },
+    "0078.txt": {
+      "output": "0078.json",
+      "law_name": "Ley de Remuneraciones de los Servidores Públicos del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 2,
+        "articulos": 39
+      },
+      "issues": []
+    },
+    "0079.txt": {
+      "output": "0079.json",
+      "law_name": "Ley de Responsabilidad Patrimonial del Estado y Municipios de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 36
+      },
+      "issues": []
+    },
+    "0080.txt": {
+      "output": "0080.json",
+      "law_name": "Ley de Responsabilidades Administrativas del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 16,
+        "secciones": 23,
+        "articulos": 227
+      },
+      "issues": [
+        {
+          "location": "line 222",
+          "message": "Secuencia de artículos salta de 42 a 44",
+          "issue_type": "warning",
+          "line_text": "Artículo 44. La Contraloría y los Órganos Internos de Control, observarán el protocolo de actuación que, en su caso, emita el Comité Coordinador del Sistema Estatal Anticorrupción."
+        },
+        {
+          "location": "line 422",
+          "message": "Secuencia de artículos salta de 80 a 82",
+          "issue_type": "warning",
+          "line_text": "Artículo 82. Para la imposición de las sanciones por faltas de particulares se deberán considerar los siguientes elementos:"
+        }
+      ]
+    },
+    "0081.txt": {
+      "output": "0081.json",
+      "law_name": "Ley de Salud Mental para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 110
+      },
+      "issues": [
+        {
+          "location": "line 416",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "Capítulo Xl Bis De Ia detección, prevención y atención al suicidio"
+        }
+      ]
+    },
+    "0082.txt": {
+      "output": "0082.json",
+      "law_name": "Ley de Seguridad Privada para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 14,
+        "secciones": 0,
+        "articulos": 48
+      },
+      "issues": []
+    },
+    "0083.txt": {
+      "output": "0083.json",
+      "law_name": "Ley de Seguridad Pública para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 10,
+        "capitulos": 42,
+        "secciones": 17,
+        "articulos": 302
+      },
+      "issues": []
+    },
+    "0084.txt": {
+      "output": "0084.json",
+      "law_name": "Ley de Señalamientos Viales para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 2,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 20
+      },
+      "issues": []
+    },
+    "0085.txt": {
+      "output": "0085.json",
+      "law_name": "Ley de Sociedades Mutualistas del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 2,
+        "secciones": 0,
+        "articulos": 33
+      },
+      "issues": []
+    },
+    "0086.txt": {
+      "output": "0086.json",
+      "law_name": "Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 9,
+        "capitulos": 28,
+        "secciones": 0,
+        "articulos": 210
+      },
+      "issues": []
+    },
+    "0087.txt": {
+      "output": "0087.json",
+      "law_name": "Ley de Víctimas del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 14,
+        "secciones": 11,
+        "articulos": 124
+      },
+      "issues": []
+    },
+    "0088.txt": {
+      "output": "0088.json",
+      "law_name": "Ley del Catastro",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 39
+      },
+      "issues": []
+    },
+    "0089.txt": {
+      "output": "0089.json",
+      "law_name": "Ley del Derecho a la Alimentación Adecuada y Combate contra el Desperdicio de Alimentos para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 37
+      },
+      "issues": []
+    },
+    "0090.txt": {
+      "output": "0090.json",
+      "law_name": "Ley del Instituto de Evaluación Educativa de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 4,
+        "articulos": 28
+      },
+      "issues": []
+    },
+    "0091.txt": {
+      "output": "0091.json",
+      "law_name": "Ley del Instituto de la Vivienda de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 3,
+        "articulos": 25
+      },
+      "issues": []
+    },
+    "0092.txt": {
+      "output": "0092.json",
+      "law_name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 11,
+        "capitulos": 24,
+        "secciones": 4,
+        "articulos": 207
+      },
+      "issues": []
+    },
+    "0093.txt": {
+      "output": "0093.json",
+      "law_name": "Ley del Instituto Estatal de Cultura Física y Deporte",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 4,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0094.txt": {
+      "output": "0094.json",
+      "law_name": "Ley del Instituto Estatal de la Juventud",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 4,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0095.txt": {
+      "output": "0095.json",
+      "law_name": "Ley del Instituto Estatal de las Mujeres",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 5,
+        "articulos": 34
+      },
+      "issues": []
+    },
+    "0096.txt": {
+      "output": "0096.json",
+      "law_name": "Ley del Instituto Estatal de Seguridad Pública",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 8,
+        "secciones": 0,
+        "articulos": 21
+      },
+      "issues": []
+    },
+    "0097.txt": {
+      "output": "0097.json",
+      "law_name": "Ley del Instituto Registral y Catastral del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 31
+      },
+      "issues": []
+    },
+    "0098.txt": {
+      "output": "0098.json",
+      "law_name": "Ley del Notariado del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 16,
+        "secciones": 0,
+        "articulos": 190
+      },
+      "issues": []
+    },
+    "0099.txt": {
+      "output": "0099.json",
+      "law_name": "Ley del Organismo Público Descentralizado Denominado Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos (SIMEPRODE)",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 1,
+        "secciones": 0,
+        "articulos": 19
+      },
+      "issues": []
+    },
+    "0100.txt": {
+      "output": "0100.json",
+      "law_name": "Ley del Patrimonio Cultural del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 87
+      },
+      "issues": []
+    },
+    "0101.txt": {
+      "output": "0101.json",
+      "law_name": "Ley del Periódico Oficial del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 26
+      },
+      "issues": []
+    },
+    "0102.txt": {
+      "output": "0102.json",
+      "law_name": "Ley del Registro Civil para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 12,
+        "secciones": 0,
+        "articulos": 72
+      },
+      "issues": [
+        {
+          "location": "line 114",
+          "message": "Secuencia de artículos salta de 23 a 25",
+          "issue_type": "warning",
+          "line_text": "Artículo 25.- Estará a cargo de los Oficiales extender las actas relativas a:"
+        },
+        {
+          "location": "line 153",
+          "message": "Secuencia de artículos salta de 40 a 42",
+          "issue_type": "warning",
+          "line_text": "Artículo 42.- Son funciones del Titular del Archivo Estatal del Registro Civil:"
+        }
+      ]
+    },
+    "0103.txt": {
+      "output": "0103.json",
+      "law_name": "Ley del Servicio Civil del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 15,
+        "secciones": 0,
+        "articulos": 121
+      },
+      "issues": []
+    },
+    "0104.txt": {
+      "output": "0104.json",
+      "law_name": "Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 3,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 78
+      },
+      "issues": []
+    },
+    "0105.txt": {
+      "output": "0105.json",
+      "law_name": "Ley del Sistema Estatal Anticorrupción para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 1,
+        "secciones": 0,
+        "articulos": 55
+      },
+      "issues": []
+    },
+    "0106.txt": {
+      "output": "0106.json",
+      "law_name": "Ley Electoral para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 10,
+        "capitulos": 42,
+        "secciones": 19,
+        "articulos": 401
+      },
+      "issues": []
+    },
+    "0107.txt": {
+      "output": "0107.json",
+      "law_name": "Ley en Materia de Desaparición y Búsqueda de Personas para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 12,
+        "secciones": 1,
+        "articulos": 96
+      },
+      "issues": []
+    },
+    "0108.txt": {
+      "output": "0108.json",
+      "law_name": "Ley Estatal de Salud",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 16,
+        "secciones": 0,
+        "articulos": 197
+      },
+      "issues": [
+        {
+          "location": "line 17",
+          "message": "Secuencia de artículos salta de 2 a 4",
+          "issue_type": "warning",
+          "line_text": "ARTICULO 4o.- EN LOS TÉRMINOS DE LA LEY GENERAL DE SALUD Y DE LA PRESENTE LEY, CORRESPONDE AL ESTADO:"
+        },
+        {
+          "location": "line 177",
+          "message": "Secuencia de artículos salta de 20 a 27",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 27 DE LA LEY GENERAL DE SALUD."
+        },
+        {
+          "location": "line 870",
+          "message": "Secuencia de artículos salta de 132 a 134",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 134.- SE SANCIONARÁ CON MULTA EQUIVALENTE DE 50 A 500 UNIDADES DE MEDIDA Y ACTUALIZACIÓN (UMA) VIGENTE, LA VIOLACIÓN DE LAS"
+        }
+      ]
+    },
+    "0109.txt": {
+      "output": "0109.json",
+      "law_name": "Ley Estatal del Deporte",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 92
+      },
+      "issues": []
+    },
+    "0110.txt": {
+      "output": "0110.json",
+      "law_name": "Ley Ganadera del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 10,
+        "capitulos": 24,
+        "secciones": 0,
+        "articulos": 191
+      },
+      "issues": []
+    },
+    "0111.txt": {
+      "output": "0111.json",
+      "law_name": "Ley Orgánica de la Administración Pública para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 55
+      },
+      "issues": []
+    },
+    "0112.txt": {
+      "output": "0112.json",
+      "law_name": "Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 15,
+        "secciones": 0,
+        "articulos": 84
+      },
+      "issues": []
+    },
+    "0113.txt": {
+      "output": "0113.json",
+      "law_name": "Ley Orgánica de la UNIVERSIDAD Autónoma de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 43
+      },
+      "issues": []
+    },
+    "0114.txt": {
+      "output": "0114.json",
+      "law_name": "Ley Orgánica del Centro de Conciliación Laboral del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 3,
+        "articulos": 55
+      },
+      "issues": []
+    },
+    "0115.txt": {
+      "output": "0115.json",
+      "law_name": "Ley Orgánica del Hospital Universitario \"Dr . José Eleuterio González\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 14
+      },
+      "issues": []
+    },
+    "0116.txt": {
+      "output": "0116.json",
+      "law_name": "Ley Orgánica del Poder Judicial del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 10,
+        "capitulos": 24,
+        "secciones": 8,
+        "articulos": 185
+      },
+      "issues": []
+    },
+    "0117.txt": {
+      "output": "0117.json",
+      "law_name": "Ley Orgánica del Poder Legislativo del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 10,
+        "capitulos": 12,
+        "secciones": 0,
+        "articulos": 105
+      },
+      "issues": []
+    },
+    "0118.txt": {
+      "output": "0118.json",
+      "law_name": "Ley Orgánica que Crea la Escuela Normal Superior del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 0
+      },
+      "issues": []
+    },
+    "0119.txt": {
+      "output": "0119.json",
+      "law_name": "Ley para el Impulso, Desarrollo y Promoción de la Industria Cinematográfica y Audiovisual del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 10,
+        "secciones": 4,
+        "articulos": 47
+      },
+      "issues": [
+        {
+          "location": "line 41",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "CAPÍTULO ll DE LAS ATRIBUCIONES DE LA SECRETARÍA DE TURISMO"
+        }
+      ]
+    },
+    "0120.txt": {
+      "output": "0120.json",
+      "law_name": "Ley para el Reconocimiento al Mérito Cívico \"Presea Estado de Nuevo León\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 35
+      },
+      "issues": []
+    },
+    "0121.txt": {
+      "output": "0121.json",
+      "law_name": "Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 29
+      },
+      "issues": []
+    },
+    "0122.txt": {
+      "output": "0122.json",
+      "law_name": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 8,
+        "secciones": 0,
+        "articulos": 27
+      },
+      "issues": []
+    },
+    "0123.txt": {
+      "output": "0123.json",
+      "law_name": "Ley para la Atención, Protección e Inclusión de las Personas con la Condición del Espectro Autista y Otras Condiciones de la NEURODIVERSIDAD para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 3,
+        "articulos": 16
+      },
+      "issues": []
+    },
+    "0124.txt": {
+      "output": "0124.json",
+      "law_name": "Ley para la Conservación y Protección del Arbolado Urbano del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 15,
+        "secciones": 0,
+        "articulos": 79
+      },
+      "issues": []
+    },
+    "0125.txt": {
+      "output": "0125.json",
+      "law_name": "Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 13,
+        "articulos": 119
+      },
+      "issues": [
+        {
+          "location": "line 240",
+          "message": "Titulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "Título Designación"
+        },
+        {
+          "location": "line 480",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "Capítulo Designación 01. Muestreo de materiales pétreos para mezclas asfálticas M·MMP·4·04·001/02 02. Granulometría de materiales pétreos para mezclas asfálticas M·MMP·4·04·002/02"
+        },
+        {
+          "location": "line 536",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "Capítulo Designación 001. Muestreo de materiales asfálticos M·MMP·4·05·001/00 002. Viscosidad dinámica de cementos y residuos asfálticos M·MMP·4·05·002/02 003. Viscosidad cinemática de cementos asfálticos M·MMP·4·05·003/02 004. Viscosidad saybolt-furol en materiales asfálticos M·MMP·4·05·004/00 005. Viscosidad rotacional brookfield de cementos asfálticos M·MMP·4·05·005/02 006. Penetración en cementos y residuos asfálticos M·MMP·4·05·006/00 007. Punto de inflamación cleveland en cementos asfálticos M·MMP·4·05·007/00 008. Solubilidad de cementos y residuos asfálticos M·MMP·4·05·008/00 009. Punto de reblandecimiento en cementos asfálticos M·MMP·4·05·009/00 010. ebas en el residuo de la película delgada de cementos asfálticos M·MMP·4·05·010/02 011. Ductilidad de cementos y residuos asfálticos M·MMP·4·05·011/00 012. Destilación de emulsiones asfálticas M·MMP·4·05·012/00 013. Asentamiento de emulsiones asfálticas M·MMP·4·05·013/02 014. Retenido en las mallas N°20 y N°60 en emulsiones asfálticas M·MMP·4·05·014/02 015. Cubrimiento del agregado en emulsiones asfálticas M·MMP·4·05·015/00 016. Miscibilidad con cemento pórtland de emulsiones asfálticas M·MMP·4·05·016/00 017. Carga eléctrica de las partículas de emulsiones asfálticas M·MMP·4·05·017/00 018. Demulsibilidad de emulsiones asfálticas M·MMP·4·05·018/00 019. Índice de ruptura de emulsiones asfálticas catiónicas M·MMP·4·05·019/02 020. Punto de inflamación tag en asfaltos rebajados M·MMP·4·05·020/02 021. Destilación de asfaltos rebajados M·MMP·4·05·021/02"
+        }
+      ]
+    },
+    "0126.txt": {
+      "output": "0126.json",
+      "law_name": "Ley para la Detección y Tratamiento Oportuno e Integral del Cáncer en la Infancia y la Adolescencia del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 13,
+        "secciones": 0,
+        "articulos": 44
+      },
+      "issues": []
+    },
+    "0127.txt": {
+      "output": "0127.json",
+      "law_name": "Ley para la Igualdad entre Mujeres y Hombres del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 24,
+        "secciones": 0,
+        "articulos": 79
+      },
+      "issues": [
+        {
+          "location": "line 403",
+          "message": "Secuencia de artículos salta de 72 a 74",
+          "issue_type": "warning",
+          "line_text": "Artículo 74.- Toda resolución dictada por la autoridad administrativa deberá hacerse constar por escrito, y contendrá:"
+        }
+      ]
+    },
+    "0128.txt": {
+      "output": "0128.json",
+      "law_name": "Ley para la Integración del Acervo Bibliográfico en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 21
+      },
+      "issues": []
+    },
+    "0129.txt": {
+      "output": "0129.json",
+      "law_name": "Ley para la Mejora Regulatoria y la Simplificación Administrativa del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 6,
+        "capitulos": 18,
+        "secciones": 6,
+        "articulos": 104
+      },
+      "issues": [
+        {
+          "location": "line 341",
+          "message": "Secuencia de artículos salta de 57 a 59",
+          "issue_type": "warning",
+          "line_text": "Artículo 59.- En los municipios, preferentemente metropolitanos, se creará el SARE, como un mecanismo que integra y consolida todos los trámites municipales para abrir una micro, pequeña, mediana o grande empresa que realiza actividades de bajo riesgo para la salud, seguridad y el medio ambiente garantizando el inicio de operaciones en un máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada y aceptada por la autoridad correspondiente. El SARE deberá contener al menos los siguientes elementos y criterios:"
+        }
+      ]
+    },
+    "0130.txt": {
+      "output": "0130.json",
+      "law_name": "Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 14,
+        "secciones": 0,
+        "articulos": 115
+      },
+      "issues": []
+    },
+    "0131.txt": {
+      "output": "0131.json",
+      "law_name": "Ley para la Promoción de Valores y Cultura de la Legalidad del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 2,
+        "secciones": 0,
+        "articulos": 24
+      },
+      "issues": []
+    },
+    "0132.txt": {
+      "output": "0132.json",
+      "law_name": "Ley para la Protección, Apoyo y Promoción de la Lactancia Materna del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 2,
+        "articulos": 30
+      },
+      "issues": [
+        {
+          "location": "line 139",
+          "message": "Secuencia de artículos salta de 21 a 23",
+          "issue_type": "warning",
+          "line_text": "Artículo 23.- Son sanciones administrativas:"
+        }
+      ]
+    },
+    "0133.txt": {
+      "output": "0133.json",
+      "law_name": "Ley para la Protección de los Derechos de las Personas con Discapacidad",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 19,
+        "secciones": 0,
+        "articulos": 77
+      },
+      "issues": []
+    },
+    "0134.txt": {
+      "output": "0134.json",
+      "law_name": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 3,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 29
+      },
+      "issues": []
+    },
+    "0135.txt": {
+      "output": "0135.json",
+      "law_name": "Ley para Prevenir, Atender, Combatir y Erradicar la Trata de Personas en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 0,
+        "articulos": 28
+      },
+      "issues": []
+    },
+    "0136.txt": {
+      "output": "0136.json",
+      "law_name": "Ley para Prevenir, Atender y Erradicar el Acoso y la Violencia Escolar del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 2,
+        "capitulos": 13,
+        "secciones": 0,
+        "articulos": 77
+      },
+      "issues": []
+    },
+    "0137.txt": {
+      "output": "0137.json",
+      "law_name": "Ley para Prevenir la Obesidad y el Sobrepeso en el Estado y Municipios de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 0,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0138.txt": {
+      "output": "0138.json",
+      "law_name": "Ley para Prevenir y Eliminar la Discriminación en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 12,
+        "secciones": 5,
+        "articulos": 102
+      },
+      "issues": [
+        {
+          "location": "line 461",
+          "message": "Secuencia de artículos salta de 72 a 75",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 75.- Cuando el contenido de la queja, a juicio del Consejo, se refiera a casos graves, o bien exista el riesgo inminente de afectar nuevamente a la persona peticionaria o agraviada, el asunto no podrá someterse al procedimiento de conciliación con las autoridades o particulares presuntamente responsables de la discriminación, por lo que se continuará con la investigación o, si se contara con elementos suficientes, se procederá a su resolución."
+        }
+      ]
+    },
+    "0139.txt": {
+      "output": "0139.json",
+      "law_name": "Ley para Regular el Acceso Vial y Mejorar la Seguridad de los Vecinos en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 13
+      },
+      "issues": []
+    },
+    "0140.txt": {
+      "output": "0140.json",
+      "law_name": "Ley para Regular el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 21
+      },
+      "issues": []
+    },
+    "0141.txt": {
+      "output": "0141.json",
+      "law_name": "Ley que Crea al Organismo Público Descentralizado Denominado Instituto del Agua del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 22
+      },
+      "issues": []
+    },
+    "0142.txt": {
+      "output": "0142.json",
+      "law_name": "Ley que Crea al Organismo Público Descentralizado Denominado Parque Fundidora",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 23
+      },
+      "issues": []
+    },
+    "0143.txt": {
+      "output": "0143.json",
+      "law_name": "Ley que Crea al Organismo Público Descentralizado Denominado Parques y Vida Silvestre de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 4,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0144.txt": {
+      "output": "0144.json",
+      "law_name": "Ley que Crea el Colegio de Educación Profesional Técnica del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 0,
+        "articulos": 22
+      },
+      "issues": []
+    },
+    "0145.txt": {
+      "output": "0145.json",
+      "law_name": "Ley que Crea el Colegio Militarizado \"General Mariano Escobedo\" del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 5,
+        "capitulos": 12,
+        "secciones": 0,
+        "articulos": 48
+      },
+      "issues": []
+    },
+    "0146.txt": {
+      "output": "0146.json",
+      "law_name": "Ley que Crea el Consejo Estatal de Adopciones",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 12
+      },
+      "issues": []
+    },
+    "0147.txt": {
+      "output": "0147.json",
+      "law_name": "Ley que Crea el Consejo para la Cultura y las Artes de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 18
+      },
+      "issues": [
+        {
+          "location": "line 78",
+          "message": "Secuencia de artículos salta de 9 a 11",
+          "issue_type": "warning",
+          "line_text": "ARTICULO 11.- Los vocales tendrán las siguientes atribuciones y responsabilidades."
+        }
+      ]
+    },
+    "0148.txt": {
+      "output": "0148.json",
+      "law_name": "Ley que Crea el Instituto de Capacitación y Educación para el Trabajo del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 24
+      },
+      "issues": []
+    },
+    "0149.txt": {
+      "output": "0149.json",
+      "law_name": "Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 48
+      },
+      "issues": []
+    },
+    "0150.txt": {
+      "output": "0150.json",
+      "law_name": "Ley que Crea el Instituto de Investigación, Innovación y Estudios de Posgrado para la Educación del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 6,
+        "secciones": 0,
+        "articulos": 20
+      },
+      "issues": []
+    },
+    "0151.txt": {
+      "output": "0151.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado de Participación Ciudadana Denominado \"Corporación para el Desarrollo de la Zona Fronteriza de Nuevo León\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 9,
+        "secciones": 0,
+        "articulos": 27
+      },
+      "issues": []
+    },
+    "0152.txt": {
+      "output": "0152.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Denominado Colegio de Estudios Científicos y Tecnológicos del Estado de Nuevo León, CECYTENL",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 1,
+        "secciones": 0,
+        "articulos": 17
+      },
+      "issues": []
+    },
+    "0153.txt": {
+      "output": "0153.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Denominado Museo de Historia Mexicana",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 5,
+        "secciones": 0,
+        "articulos": 16
+      },
+      "issues": []
+    },
+    "0154.txt": {
+      "output": "0154.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Denominado \"Red Estatal de Autopistas de Nuevo León\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 18
+      },
+      "issues": []
+    },
+    "0155.txt": {
+      "output": "0155.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Denominado \"Sistema de Caminos de Nuevo León\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 4,
+        "secciones": 0,
+        "articulos": 20
+      },
+      "issues": []
+    },
+    "0156.txt": {
+      "output": "0156.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Denominado Sistema de Radio y Televisión de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 0,
+        "articulos": 32
+      },
+      "issues": [
+        {
+          "location": "line 46",
+          "message": "Capitulo sin sufijo válido (línea ignorada)",
+          "issue_type": "warning",
+          "line_text": "CAPÍTULO IIII DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL"
+        }
+      ]
+    },
+    "0157.txt": {
+      "output": "0157.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Denominado Sistema de Transporte Colectivo \"Metrorrey\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 17
+      },
+      "issues": []
+    },
+    "0158.txt": {
+      "output": "0158.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado \"Operadora de Servicios Turísticos de Nuevo León\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 0
+      },
+      "issues": []
+    },
+    "0159.txt": {
+      "output": "0159.json",
+      "law_name": "Ley que Crea el Organismo Público Descentralizado Servicios de Salud de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 11
+      },
+      "issues": []
+    },
+    "0160.txt": {
+      "output": "0160.json",
+      "law_name": "Ley que Crea el Registro Estatal de Asesores Inmobiliarios del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 3,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 45
+      },
+      "issues": []
+    },
+    "0161.txt": {
+      "output": "0161.json",
+      "law_name": "Ley que Crea la Escuela para Padres, Madres o Quienes Ejerzan la Tutela, Guarda o Custodia del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 23
+      },
+      "issues": []
+    },
+    "0162.txt": {
+      "output": "0162.json",
+      "law_name": "Ley que Crea la Medalla de Honor \"Fray Servando Teresa de Mier\" del H. Congreso del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 37
+      },
+      "issues": [
+        {
+          "location": "line 52",
+          "message": "Secuencia de artículos salta de 19 a 21",
+          "issue_type": "warning",
+          "line_text": "Artículo 21.- Una vez recibidas las propuestas por la Comisión de Juventud, ésta procederá al análisis, estudio e investigación de las"
+        }
+      ]
+    },
+    "0163.txt": {
+      "output": "0163.json",
+      "law_name": "Ley que Crea la Unidad de Integración Educativa de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 0
+      },
+      "issues": []
+    },
+    "0164.txt": {
+      "output": "0164.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD de Ciencias de la Seguridad del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 7,
+        "articulos": 40
+      },
+      "issues": []
+    },
+    "0165.txt": {
+      "output": "0165.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Gral. Mariano Escobedo",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 4,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0166.txt": {
+      "output": "0166.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Politécnica de Apodaca",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 42
+      },
+      "issues": [
+        {
+          "location": "line 49",
+          "message": "Secuencia de artículos salta de 6 a 8",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 8º.- La Junta Directiva, órgano de gobierno de la Universidad, estará integrada por doce miembros que serán:"
+        }
+      ]
+    },
+    "0167.txt": {
+      "output": "0167.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Politécnica de García",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 8,
+        "secciones": 0,
+        "articulos": 43
+      },
+      "issues": []
+    },
+    "0168.txt": {
+      "output": "0168.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Tecnológica Bilingüe Franco Mexicana de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 4,
+        "capitulos": 10,
+        "secciones": 0,
+        "articulos": 43
+      },
+      "issues": []
+    },
+    "0169.txt": {
+      "output": "0169.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Tecnológica Cadereyta",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 6,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0170.txt": {
+      "output": "0170.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Tecnológica Linares",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 6,
+        "secciones": 6,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0171.txt": {
+      "output": "0171.json",
+      "law_name": "Ley que Crea la UNIVERSIDAD Tecnológica Santa Catarina",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 7,
+        "secciones": 4,
+        "articulos": 30
+      },
+      "issues": []
+    },
+    "0172.txt": {
+      "output": "0172.json",
+      "law_name": "Ley que Crea las Juntas de Mejoramiento Moral, Cívico y Material en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 17
+      },
+      "issues": []
+    },
+    "0173.txt": {
+      "output": "0173.json",
+      "law_name": "Ley que Crea una Institución Pública Descentralizada con Personalidad Jurídica Propia y con Domicilio en la Ciudad de Monterrey que se Denominará \"Servicios de Agua y Drenaje de Monterrey\"",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 19
+      },
+      "issues": []
+    },
+    "0174.txt": {
+      "output": "0174.json",
+      "law_name": "Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 0,
+        "secciones": 0,
+        "articulos": 32
+      },
+      "issues": [
+        {
+          "location": "line 108",
+          "message": "Secuencia de artículos salta de 10 a 13",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 13.- DEL PLAZO PARA INTERPONER LA SOLICITUD"
+        },
+        {
+          "location": "line 114",
+          "message": "Secuencia de artículos salta de 13 a 15",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 15.- DE LA ADMISIÓN O DESECHAMIENTO"
+        },
+        {
+          "location": "line 126",
+          "message": "Secuencia de artículos salta de 15 a 17",
+          "issue_type": "warning",
+          "line_text": "ARTÍCULO 17.- DE LA PUBLICACIÓN DE EDICTOS."
+        }
+      ]
+    },
+    "0175.txt": {
+      "output": "0175.json",
+      "law_name": "Ley que Regula el Uso de Vehículos Recreativos Todo Terreno en el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 11,
+        "secciones": 0,
+        "articulos": 62
+      },
+      "issues": [
+        {
+          "location": "line 80",
+          "message": "Secuencia de artículos salta de 18 a 20",
+          "issue_type": "warning",
+          "line_text": "Artículo 20.- Compete a los Presidentes Municipales:"
+        }
+      ]
+    },
+    "0176.txt": {
+      "output": "0176.json",
+      "law_name": "Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 31
+      },
+      "issues": []
+    },
+    "0177.txt": {
+      "output": "0177.json",
+      "law_name": "Ley que Regula las Características, Uso y Difusión del Escudo del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 12
+      },
+      "issues": []
+    },
+    "0178.txt": {
+      "output": "0178.json",
+      "law_name": "Ley Reglamentaria del Artículo 95 de la Constitución Política del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 3,
+        "capitulos": 14,
+        "secciones": 3,
+        "articulos": 73
+      },
+      "issues": []
+    },
+    "0179.txt": {
+      "output": "0179.json",
+      "law_name": "Ley Reglamentaria del Registro Público de la Propiedad y del Comercio para el Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 21,
+        "secciones": 0,
+        "articulos": 77
+      },
+      "issues": []
+    },
+    "0180.txt": {
+      "output": "0180.json",
+      "law_name": "Ley Sobre el Sistema Estatal de Asistencia Social del Estado de Nuevo León",
+      "counts": {
+        "libros": 0,
+        "titulos": 0,
+        "capitulos": 3,
+        "secciones": 0,
+        "articulos": 41
+      },
+      "issues": []
+    },
+    "0181.txt": {
+      "output": "0181.json",
+      "law_name": "Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado",
+      "counts": {
+        "libros": 0,
+        "titulos": 7,
+        "capitulos": 18,
+        "secciones": 0,
+        "articulos": 76
+      },
+      "issues": []
+    }
+  },
+  "totals": {
+    "libros": 15,
+    "titulos": 515,
+    "capitulos": 2048,
+    "secciones": 409,
+    "articulos": 17900
+  },
+  "warnings": 62,
+  "errors": 0
+}

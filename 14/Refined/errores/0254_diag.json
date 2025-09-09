@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 24,
+  "n_perm_fracciones": 84,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Atribuciones",
+    "Capítulo II Organización del Centro",
+    "Capítulo III Junta de Gobierno",
+    "Capítulo IV Dirección General",
+    "Capítulo V Patrimonio del Centro",
+    "Capítulo VI Régimen Laboral",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

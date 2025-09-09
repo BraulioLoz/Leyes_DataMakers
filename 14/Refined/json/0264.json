@@ -1,0 +1,381 @@
+{
+  "0264.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 27786/LXII/19 EL CONGRESO DEL ESTADO DECRETA:\nSE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO Y EXPIDE SU LEY ORGÁNICA.",
+    "Año_publicación": 2019,
+    "Título": "LEY ORGÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente ley tiene por objeto regular la organización y el funcionamiento de la Plataforma Abierta de Innovación y Desarrollo de Jalisco, como un organismo público descentralizado del Poder Ejecutivo del Estado, dotado de personalidad jurídica y patrimonio propio.\nSu patrimonio se integrará en términos de lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.\nLos ingresos que obtenga el organismo con motivo de sus actividades, deberán destinarse para satisfacer sus necesidades operativas que le permitan operar y garantizar la adecuada prestación de los servicios que ofrezca, buscando en todo momento el cumplimiento de su objeto, así como su óptimo funcionamiento.\nEl régimen laboral de sus trabajadores se regirá conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para efectos de este ordenamiento, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta de Gobierno: El órgano máximo de gobierno de la Plataforma;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Plataforma: El organismo público descentralizado denominado Plataforma Abierta de Innovación y Desarrollo de Jalisco; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Secretaría: La Secretaría de Innovación, Ciencia y Tecnología, autoridad educativa en la aplicación de la presente ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "La Plataforma, como ente de educación superior, tiene por objeto ofrecer formación actualizada y capacitación de recursos humanos, a través de un modelo educativo innovador y flexible, basado en diversas modalidades educativas para el aprendizaje, de conformidad a su Reglamento Interno y mediante el uso de tecnologías de información y comunicación actuales y emergentes para el desarrollo de la innovación y el emprendimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "La Plataforma tendrá su domicilio legal dentro del Área Metropolitana de Guadalajara y podrá establecer sedes en el resto de la República Mexicana, de acuerdo a las necesidades propias de su operación y según sus posibilidades presupuestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Serán disposiciones supletorias de la presente ley y su Reglamento, la Ley de Educación del Estado Libre y Soberano de Jalisco, la Ley de Responsabilidades Políticas y Administrativas, el Código Civil y la Ley para los Servidores Públicos, todas de aplicación en el Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II Estructura y atribuciones de la Plataforma",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "La Plataforma contará con la siguiente estructura orgánica:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Director;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La estructura administrativa, técnica y de operación que establezca su Reglamento Interno, de conformidad con su presupuesto; y\nEl órgano interno de control del organismo.\nAsimismo, la Plataforma podrá contar con un Consejo Consultivo como órgano auxiliar y de asesoría, integrado, en su caso, previa invitación y aceptación de los miembros propuestos por la Junta de Gobierno y en los términos que establezca su Reglamento Interno.\nLos cargos como miembro integrante del Consejo Consultivo no recibirán remuneración alguna por el desempeño de sus actividades."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "La Plataforma tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ofrecer educación superior y continua en cualquier tipo, modalidad o nivel y los servicios inherentes al cumplimiento de su objeto, para el desarrollo de conocimientos, habilidades y competencias para profesionales que se definan en su Reglamento Interno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Impulsar mediante su oferta educativa el incremento en la cobertura con programas pertinentes y de calidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover programas de investigación en los sectores estratégicos del Estado de Jalisco y en general promover la investigación científica y tecnológica para fortalecer el conocimiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ofrecer servicios educativos, apoyándose en las tecnologías de información y comunicación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Impulsar y promover el uso y adopción de tecnologías de información y comunicación en el ámbito de su competencia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Impulsar estrategias de participación y colaboración con los sectores público, privado y social, para proyectar sus actividades y servicios en los sectores estratégicos del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Impulsar el desarrollo de talento en las áreas que fomenta la Plataforma, en los ciudadanos y profesionales, para responder a las necesidades de la sociedad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fungir como centro capacitador y evaluador de competencias, conforme a las normas y disposiciones aplicables, haciendo uso, en su caso de diversas modalidades y enfoques educativos;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Expedir títulos, certificados, diplomas, constancias, distinciones especiales y demás documentos inherentes a sus funciones;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover el fortalecimiento de la cultura de transparencia y rendición de cuentas, en su ámbito de competencia;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Impulsar programas de enseñanza enfocado al desarrollo de competencias y habilidades para los empleos y demandas de la era digital; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás que le señale la presente ley y otras disposiciones legales y reglamentarias aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "La Junta de Gobierno será el órgano máximo de gobierno de la Plataforma y estará integrada por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Gobernador del Estado o la persona que él designe, quien lo presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un representante de la Secretaría de Innovación, Ciencia y Tecnología de Jalisco, preferentemente la persona titular de la Dirección competente en materia de Educación Superior, Investigación y Posgrado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tres representantes del Gobierno del Estado, designados por la persona Titular del Poder Ejecutivo, entre los que se deberá encontrar la persona titular de la Secretaría de la Hacienda Pública;\nTres representantes de los sectores estratégicos del Estado con amplia experiencia académica, profesional o empresarial, designados por el Gobernador;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Titular del órgano interno de control del organismo o un representante de la Contraloría del Estado; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Un Secretario Técnico, que será el Director.\nLos integrantes señalados en las fracciones V y VI tendrán derecho a voz, pero no a voto.\nLas decisiones serán tomadas por mayoría simple de votos de los integrantes presentes y, en caso de empate, el presidente tendrá voto de calidad.\nPor cada integrante propietario de la Junta de Gobierno habrá un suplente, quien será designado por su titular y contará con las mismas facultades que el propietario.\nEl cargo de integrante de la Junta de Gobierno será honorífico, por lo que no recibirá retribución, emolumento, ni compensación alguna por su desempeño.\nLos integrantes de la Junta de Gobierno a los que se refieren las fracciones III, IV y V podrán ser designados para cargos de Dirección en la Plataforma, siempre y cuando sea cuando menos un año después de su separación del cargo que hayan desempeñado en la Junta de Gobierno."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "El presidente de la Junta de Gobierno podrá invitar a participar a las sesiones a personas de la sociedad o de instituciones públicas o privadas, con derecho a voz, pero no a voto, atendiendo a la pertinencia de su perfil en uno o varios de los asuntos a tratar en las mismas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "La Junta de Gobierno sesionará de manera ordinaria por lo menos una vez cada año, y de manera extraordinaria las veces que sean necesarias en razón de que exista algún asunto que así lo amerite, conforme a las formalidades que se establezcan en su Reglamento Interno.\nCorresponde al Secretario Técnico de la Junta de Gobierno convocar por instrucciones de su presidente a las sesiones de la misma, proponiendo para tal efecto el orden del día correspondiente y levantar las actas respectivas, debiendo notificar de manera oportuna a sus integrantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "La Junta de Gobierno tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer los sectores estratégicos del Estado de Jalisco a los cuales dirigirá sus servicios la Plataforma;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar las normas, disposiciones reglamentarias y lineamientos para la organización, funcionamiento académico, administrativo y financiero de la Plataforma;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer los lineamientos de ingreso, permanencia y egreso de los estudiantes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer los términos de ingreso, promoción y permanencia del personal académico, conforme a la normatividad aplicable;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Planear, desarrollar, evaluar y actualizar programas de superación y actualización para personal académico, administrativo y de soporte, dirigidos tanto a los integrantes de la Plataforma, como a la población en general;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Diseñar, desarrollar, evaluar y actualizar sus planes y programas de estudio y ponerlos a consideración de la Secretaría para la validación correspondiente;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover e instrumentar la evaluación, acreditación y certificación, por normas nacionales e internacionales, de la oferta educativa, programas y procesos estratégicos de la Plataforma;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fijar las reglas generales de vinculación a las que deberá sujetarse la Plataforma para la ejecución de sus acciones;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Estudiar y aprobar el anteproyecto del presupuesto anual de ingresos y de egresos de la Plataforma, mismos que remitirán a la dependencia cabeza de sector para su inclusión en el proyecto de Presupuesto de Egresos del Gobierno del Estado, así como aprobar la plantilla de personal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aprobar los planes y programas anuales de la Plataforma;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Analizar, y en su caso, aprobar los estados financieros de la Plataforma;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Aprobar el nombramiento, suspensión o cese de los dos niveles subsecuentes al del Director a propuesta éste, conforme a las disposiciones jurídicas aplicables;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Estudiar, y en su caso, aprobar, en su caso, los Sistemas de Gestión que le presente el Director;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Analizar las propuestas formuladas por el Director para otorgar distinciones, grados honoríficos y reconocimientos a las personalidades que, por su estrecha vinculación con la Plataforma y sus aportaciones al desarrollo de la educación y la competitividad del Estado;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Evaluar el informe anual de actividades que rinda el Director, así como las matrices de indicadores para resultados y evaluar los avances y resultados de sus objetivos; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Las demás que les sean conferidas en este ordenamiento y en las demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Director es el representante legal de la Plataforma y la autoridad administrativa y académica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Director será nombrado y removido libremente en cualquier tiempo por el Gobernador del Estado, durará en el cargo un periodo de tres años, podrá ser ratificado hasta por un periodo igual.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Son requisitos para ser Director los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mayor de 30 años;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Poseer cuando menos grado académico de maestría;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Poseer una reconocida experiencia académica y profesional en el campo objeto de la Plataforma; y\nSer persona de amplia solvencia moral y de reconocido prestigio."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El Director tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fungir como órgano ejecutivo de la Plataforma y dirigir su funcionamiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conducir las labores de planeación y evaluación general de las funciones académicas de la"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer los mecanismos de evaluación periódica del desempeño académico y profesional del personal de la Plataforma de conformidad con la normatividad aplicable;\nSometer a la Junta de Gobierno la aprobación y actualización del modelo educativo de la"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ejercer conforme a las normas aplicables el presupuesto de la Plataforma y preservar los bienes que constituyen el patrimonio de ésta;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer las medidas administrativas y operativas para el funcionamiento de la Plataforma;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Presentar a la Junta de Gobierno, para su aprobación, los proyectos de reglamentación y otras normas y disposiciones generales, necesarias para el funcionamiento de la Plataforma;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Celebrar los convenios, contratos y acuerdos necesarios con otras instituciones estatales, nacionales o internacionales para el cumplimiento del objeto de la Plataforma;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Presentar a la Junta de Gobierno, para su aprobación, los Sistemas de Gestión necesarios para el desempeño de la Plataforma;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cumplir y hacer cumplir las normas y disposiciones que expida la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Formular y presentar a la Junta de Gobierno, el anteproyecto de presupuesto anual de ingresos y egresos, junto con su plantilla de personal y el clasificador por objeto del gasto de conformidad con la normatividad aplicable;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Presentar a la Junta de Gobierno, para su aprobación, los estados financieros de la Plataforma;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Rendir a la Junta de Gobierno los informes que esta le solicite:"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Someter a consideración de la Junta de Gobierno el nombramiento, suspensión o cese del personal de la Plataforma de los dos niveles subsecuentes al del propio Director, conforme a las disposiciones jurìdicas aplicables;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Contratar y remover al personal que no sea de la competencia directa de la Junta de Gobierno, conforme a las disposiciones jurídicas aplicables;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Administrar y ejercer los ingresos que obtenga la Plataforma por los servicios que preste en el ejercicio de sus facultades y en el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Expedir las disposiciones internas necesarias para el funcionamiento administrativo y docente de la"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Instrumentar el proceso de evaluación de los programas académicos, y de certificación de los procesos estratégicos de gestión;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Delegar sus facultades de representante de la Plataforma en el titular del área jurídica o en uno o más apoderados, para que ejerzan individual o conjuntamente las funciones que corresponda, conforme al Código Civil del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Emitir opinión técnica para la revalidación y equivalencias de estudios realizados en otras instituciones educativas nacionales e internacionales, de conformidad con la normatividad aplicable; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquellas que le confiere la Junta de Gobierno."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III Órgano Interno de Control",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "La Plataforma tendrá un órgano interno de control en términos de lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.\nEl funcionamiento y atribuciones de dicho órgano se sujetarán a las disposiciones que determine la Contraloría del Estado, tomando como ejes rectores los principios de transparencia, máxima publicidad, austeridad, disciplina financiera, rendición de cuentas y respeto a los derechos humanos.\nLa estructura del órgano referido en el párrafo anterior será determinada por la Junta de Gobierno, conforme a la disponibilidad presupuestaria y en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como atendiendo a las Recomendaciones que en su caso emita el Comité Coordinador del Sistema Estatal Anticorrupción sobre el Fortalecimiento Institucional de los Órganos Internos de Control.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "La Junta de Gobierno aprobará el proyecto de Reglamento Interno del organismo público descentralizado denominado “Plataforma Abierta de Innovación y Desarrollo de Jalisco”, dentro de un plazo máximo de seis meses, contados a partir de que entre en vigor el presente ordenamiento.\n\nEl Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se autoriza al Titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública y la Secretaría de Administración, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 17 DE DICIEMBRE DE 2019\nDiputada Presidente MARÍA PATRICIA MEZA NÚÑEZ\nDiputada Secretaria\nDiputado Secretario MARÍA ESTHER LÓPEZ CHÁVEZ JORGE EDUARDO GONZÁLEZ ARANA\n(Rúbrica)\nPROMULGACIÓN DEL DECRETO NÚMERO 27786/LXII/19, MEDIANTE EL CUAL SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO Y EXPIDE SU LEY ORGÁNICA.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libe y Soberano de Jalisco, al día 19 (diecinueve) del mes de diciembre de 2019 (dos mil diecinueve)\nING. ENRIQUE ALFARO RAMÍREZ Gobernador Constitucional del Estado de Jalisco\nMTRO. JUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno\nARTÍCULOS TRANSITORIOS DEL DECRETO 29250/LXIII/23\n\nEl Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.\nTABLA DE REFORMAS Y ADICIONES\n28375/LXII/21.- Se reforma el artículo 5 de la Ley Orgánica que crea al Organismo Público Descentralizado Denominado Plataforma Abierta de Innovación y Desarrollo de Jalisco.- May. 15 de 2021, sec. IV.\n29179/LXIII/23.- Se reforma la fracción III del el artículo 8, de la Ley Orgánica que Crea al Organismo Público Descentralizado denominado Plataforma Abierta de Innovación y Desarrollo de Jalisco.- May. 23 de 2023 sec. IV.\n29250/LXIII/23.- Se reforman las fracciones X y XI y se adiciona la fracción XII al artículo 7 de la Ley Orgánica que crea al Organismo Público Descentralizado denominado Plataforma Abierta de Innovación y Desarrollo de Jalisco.- Oct. 7 de 2023, sec. VII.\nLEY ORGÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO\nAPROBACIÓN: 17 de diciembre de 2019\nPUBLICACIÓN: 28 de diciembre de 2019 sec. VII\nVIGENCIA: 29 de diciembre de 2019",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

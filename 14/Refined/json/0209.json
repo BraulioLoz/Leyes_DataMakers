@@ -1,0 +1,1647 @@
+{
+  "0209.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 24869/LX/14 EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": null,
+    "Título": "LEY DE VIVIENDA DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley es regulatoria en materia de vivienda y de observancia general en el Estado de Jalisco y sus Municipios. Sus disposiciones son de orden público e interés social y tiene por objeto establecer la política, los programas, los instrumentos y apoyos para que toda familia pueda disfrutar de vivienda adecuada, digna y decorosa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Se considera vivienda adecuada, digna y decorosa, aquella que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, accesibilidad, asequibilidad, salubridad, que cuente con los servicios básicos, con una buena distribución que garantice a quien la habite un disfrute cómodo de ésta, con una adecuada ubicación, que propicie la integración social, cultural y urbana de los habitantes, que brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Se declara de utilidad pública la vivienda como área prioritaria para el desarrollo de Jalisco. El Estado impulsará y organizará las actividades inherentes a la materia, por sí y con la participación de los sectores público, social y privado.\nLa política estatal y los programas, así como el conjunto de instrumentos y apoyos que señala este ordenamiento, conducirán el desarrollo y promoción de las actividades de las dependencias y entidades de la Administración Pública Estatal en materia de vivienda, su coordinación con el Ejecutivo Federal, los gobiernos municipales, y la concertación con los sectores público, social y privado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la propiedad, posesión y legítima tenencia, así como el combate a la invasión de predios y al crecimiento irregular de los asentamientos humanos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Las disposiciones de esta ley deberán aplicarse bajo principios de equidad e inclusión social, de manera que la población del Estado de Jalisco sin importar su origen étnico, género, edad, discapacidad, condición social o económica, condiciones de salud, estado civil, preferencia sexual, oficio y convicción ética o religiosa, puedan ejercer su derecho constitucional de vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Serán de aplicación supletoria a lo dispuesto por este ordenamiento, el Código Civil del Estado de Jalisco, la Ley de Obra Pública del Estado de Jalisco, la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, el Código Urbano para el Estado de Jalisco, la Ley de Salud del Estado de Jalisco y demás disposiciones que tengan relación con la materia de vivienda en el Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Esta Ley tiene por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer y regular las acciones, instrumentos y apoyos para que toda familia jalisciense pueda disfrutar de una vivienda adecuada, digna y decorosa;\n\nEn general todo lo relacionado para que los sujetos beneficiados adquirieran por cualquier medio de financiamiento, vivienda en propiedad; construyan; reparen; amplíen y mejoren las que tengan en propiedad y liberen los adeudos contraídos por estos conceptos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Regular las acciones que en el rubro de la vivienda, realicen el sector público, privado y social, para garantizar que la población reclamante de este beneficio y derecho, que los reciba de manera puntual, en cantidad y calidad, pero además, que se cumplan los perfiles de seguridad en la construcción de ésta, que sea para un hábitat placentero de las familias que viven en el Estado de Jalisco, y que constituya así un patrimonio para la familia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer los lineamientos generales de la política y programas de vivienda en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Conducir y coordinar los programas de vivienda y las acciones que en este sentido realice el Gobierno del Estado y los particulares; así como los correlacionados que en materia ·de vivienda se implementen y deriven de programas y convenios de coordinación que el Estado y los Municipios celebren con la Federación debiendo concurrir en ellas las disposiciones vigentes en la entidad de carácter económico, social, urbanas y poblacionales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer los mecanismos jurídicos y financieros para que la población que resulte beneficiada, sea debidamente asesorada y adquiera créditos y bienes apegados a derecho, procurando siempre que los créditos sean accesibles a los acreditados y en condiciones de equidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Propiciar con acciones y apoyos fiscales que alienten en su favor, al sector privado y social que invierta en proyectos de vivienda de tipo medio, interés social y popular;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer mecanismos para que concurran, se coordinen y coadyuven en proyectos de vivienda de interés social y popular, el Gobierno Federal, Estatal y Municipales así como sus organismos descentralizados y en concertación con los sectores público, social y privado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Orientar la política y programas de vivienda junto con los criterios de protección y promoción para la población vulnerable de bajos recursos económicos y en situación de riesgo del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Definir las modalidades de vivienda, para que conforme a cada una de ellas se destine el crédito correspondiente, generando condiciones propicias al promotor, y en concurrencia el adquiriente y beneficiado puedan pagarlo en los plazos que se fije para ello; adjudicando los créditos de vivienda a favor de los realmente necesitados;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinar las acciones de las dependencias estatales y municipales que tengan responsabilidad en el rubro de la construcción de vivienda con el objeto de que la presente Ley no entre en conflicto jurídico con las normas que crean y regulen estos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Establecer los mecanismos financieros para planear los recursos de que dispondrán los particulares y en su caso, conforme a la normatividad de las instituciones de crédito y sociedades cooperativas para el otorgamiento de créditos accesibles suficientes de acuerdo a las leyes de la materia, para:\na) Adquisición de vivienda;\nb) Construcción de vivienda;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Adquisición de lotes destinados a la construcción de vivienda;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Adquisición de pie de casa;\ne) Reparación de vivienda;\nf) Autoproducción de vivienda;\ng) Autoconstrucción de vivienda;\nh) Ampliación o mejoramiento de vivienda; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Promover, coordinar, financiar y ejecutar programas de construcción y acciones de vivienda en los municipios del Estado de Jalisco, respetando para ello, lo dispuesto en los ordenamientos aplicables;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Priorizar en su caso, los programas y acciones de vivienda de interés social y popular a la población de bajos ingresos;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Crear suficientes reservas territoriales, conjuntamente con los municipios, y establecer la oferta pública de suelo que se destine a vivienda de interés social y popular, así como sus servicios, acorde a la vocación natural en cuanto al uso del suelo, evitando la creación de centros de población en áreas críticas o de posibles contingencias ambientales negativas;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Crear los mecanismos necesarios para hacer llegar los recursos financieros necesarios al organismo coordinador, y rector de las políticas y programas de vivienda del Estado, a fin de que se amplíe la cobertura de acceso a los créditos de vivienda, a los trabajadores no asalariados, marginados de las zonas urbanas y rurales, trabajadores con ingresos inferiores a cuatro veces el valor diario de la Unidad de Medida y Actualización;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Motivar y coordinar programas y acciones de vivienda de interés social y popular, que en la entidad ejecute: la Federación, el Estado, los municipios y el sector privado y social, con el objeto de que en suma de esfuerzos, se dé satisfacción a la garantía constitucional en materia de vivienda;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Apoyar la construcción de la infraestructura de servicios para la vivienda, a través de la participación organizada de la comunidad, el Municipio, el Estado y Federación;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Apoyar, motivar y promover la producción y distribución de materiales básicos para la construcción y acciones de vivienda, a efecto de reducir sus costos y mejorar la calidad;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Integrar los programas y acciones de vivienda en su entorno ecológico, protegiendo y rescatando los recursos naturales y el medio ambiente del mismo;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Apoyar y promover acciones solidarias de la población, que se organicen para desarrollar vivienda. Así mismo, impulsar la autoconstrucción organizada y ordenada así como otras actividades relacionadas con este fin; e"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Informar y difundir los programas y acciones de vivienda que ejecuten el Estado y los municipios, con el objeto de que la población que se encuentre en los perfiles de destino de estos programas y acciones, tengan una oportuna difusión y máxima participación en los mismos, procurando que la población en general obtenga los suficientes conocimientos educacionales y científicos sobre el hábitat natural y el entorno de la vivienda, como elemento generador de la armonía social."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Para los efectos de esta Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acción de Vivienda: la actividad tendiente a la producción, distribución, uso y mejoramiento de viviendas, así como el equipamiento y los servicios urbanos de las mismas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autoproducción de vivienda: es el proceso de gestión de suelo, construcción y distribución de vivienda de interés social bajo el control directo de sus usuarios de forma individual o colectiva, la cual puede desarrollarse mediante la contratación de terceros o por medio de procesos de autoconstrucción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autoconstrucción de vivienda: el proceso de construcción o edificación de la vivienda de interés social realizada directamente por sus propios usuarios, en forma individual, familiar o colectiva;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ayuda de Beneficio Social: aquellos porcentajes o montos fijados en los términos de esta Ley; que disminuyen la deuda de los beneficiarios o la condonan;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Beneficiario: el ciudadano favorecido de una acción de vivienda o de un crédito de vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Crédito de Vivienda: son los préstamos que se conceden con la finalidad de adquirir un terreno, construir, rehabilitar, mejorar y ampliar, complementar o adquirir una vivienda;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Estímulos: las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales de interés social;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Instituto: el Instituto Jalisciense de la Vivienda;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Lote con servicios básicos: la acción urbanística de terreno rústico, con obras mínimas, como la red de agua potable y drenaje, con toma y descarga domiciliaria, conformación de vialidad y lotificación con mejoras, donde el resto de las obras sean concluidas en coordinación con los Ayuntamientos a corto plazo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Mejoramiento de vivienda: la acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Pie de casa: a la construcción de una vivienda, con un área común, cocina y baño, dentro de un proyecto progresivo y sobre una superficie mínima que establezcan los reglamentos de construcción de los municipios;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Población en situación de riesgo: aquella que habita una vivienda en condiciones inseguras física y socialmente, bajo inminente amenaza de colapso y que pone en peligro su vida;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Población vulnerable: Aquella de bajos recursos económicos constituida por adultos mayores, discapacitados, jefes de familia, madres solteras, población indígena, población con empleo temporal o informal de bajos recursos económicos;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Proceso habitacional: la secuencia de actividades u operaciones de planeación, producción, distribución, uso y mejoramiento de las viviendas, así como de los materiales, elementos o componentes que las integran y el equipamiento de los servicios urbanos de la misma;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Producción social de vivienda: aquélla que se realiza bajo el control de auto productores y auto constructores que operan sin fines de lucro y orientada para atender las necesidades habitacionales de la población de bajos ingresos, incluyendo a la que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías, con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Productor social de vivienda: la persona física o jurídica que en forma individual o colectiva produce vivienda sin fines de lucro;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Política Estatal de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realice el Gobierno del Estado y los Ayuntamientos, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "SEMADET: La Secretaría de Medio Ambiente y Desarrollo Territorial;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Sector privado: toda persona física o jurídica que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Sector público de vivienda: toda dependencia, entidad u organismos de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Sector social: toda persona física o jurídica, familia o grupo social, aún sin personalidad jurídica, que sin fines preponderantes de lucro, realicen acciones o procesos de vivienda en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Sistema de Información: el Sistema Estatal de Información e Indicadores de Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Suelo para vivienda: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Vivienda: área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Vivienda ecológica: aquélla a la que se apliquen criterios ecológicos y ecotecnologías para promover una mejora en la calidad de vida en el usuario sin deteriorar la calidad del medio ambiente;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Vivienda progresiva: la acción destinada a satisfacer las necesidades habitacionales y cambiantes de las familias desde las etapas iniciales, en un proceso paulatino y discontinuo de construcción y adaptación;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Vivienda de interés social: la vivienda cuyo precio máximo de venta al público al término de su edificación, no exceda de la cantidad de cinco mil cuatrocientos veinticinco veces el valor diario de la Unidad de Medida y Actualización al término de su edificación, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince veces el valor anual de la Unidad de Medida y Actualización, y no excede de la cantidad de nueve mil ciento veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Vivienda terminada: la acción habitacional que se realiza en un proceso continuo y único de construcción."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Las Políticas y los Programas Estatales de Vivienda, así como los instrumentos y apoyos a la vivienda, deberán considerar los distintos tipos de modalidades de producción habitacional, entre otras: la promovida empresarialmente y la autoproducida o autoconstruida, en propiedad, arrendamiento o en otras formas legítimas de tenencia; así como las diversas necesidades habitacionales: adquisición o habitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda; vivienda nueva; y la capacitación, asistencia integral e investigación de vivienda y suelo, propiciando que la oferta de vivienda adecuada, digna y decorosa refleje los costos de suelo, de infraestructura, servicios, edificación, financiamiento y titulación más bajos de los mercados respectivos, para lo cual incorporarán medidas de información, competencia, transparencia y las demás que sean convenientes para lograr este propósito.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DE LAS COMPETENCIAS",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "El organismo coordinador y rector que tiene a su cargo la política y programas de vivienda del Gobierno del Estado de Jalisco es el Instituto Jalisciense de la Vivienda, en los términos del presente ordenamiento y la respectiva ley orgánica. Podrá celebrar convenios o acuerdos de colaboración con el Gobierno Federal, Organismos Internacionales, Organizaciones lntergubernamentales y con las dependencias u organismos municipales para que dentro del marco jurídico que los regula, actúen en la medida establecida, en la ejecución de la política sectorial y el desarrollo habitacional de la entidad mediante programas de vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Las dependencias y entidades del Gobierno del Estado y, en su caso, de los Municipios, que elaboren programas y acciones de vivienda, se sujetarán a: los lineamientos y políticas que en ese rubro establezcan la normatividad del sector vivienda de la Federación, esta Ley, los convenios de coordinación con\nel Instituto, la normatividad del sector urbano aplicable y los Planes de Desarrollo u Ordenamiento Urbano aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Son autoridades competentes en la aplicación de las disposiciones legales de vivienda, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Gobernador del Estado de Jalisco, por conducto del Instituto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La SEMADET; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Ayuntamientos del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Instituto tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Formular, coordinar, conducir y ejecutar la política y programas de vivienda en el Estado, en congruencia de los lineamientos de la Política Nacional, el Plan Estatal de Desarrollo y en concordancia de otros programas que incidan en la acción del rubro de vivienda, así como evaluar y vigilar su cumplimiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Apoyar, reconocer, estimular y fomentar la participación de personas o instituciones académicas y organismos sociales o privados, en acciones de planeación y construcción de vivienda, así como asesoría de las mismas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda del Estado, otorgando atención preferente a la población en situación de pobreza;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Crear mecanismos e instrumentos económicos que estimulen las acciones relacionadas con la construcción de viviendas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar y, en su caso, promover la celebración de convenios con el Gobierno Federal, con organismos internacionales, con organizaciones intergubernamentales, con los Gobiernos de otras entidades federativas y municipios, para ejecutar los programas y acciones de vivienda, que en el Estado se realicen, a fin de que tengan concordancia con los Planes Nacional y Estatal de Desarrollo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Apoyar a las autoridades municipales que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar a la sociedad del Estado de Jalisco, sobre las acciones que se realicen en materia de suelo y vivienda;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": ". Aprobar los programas de vivienda en el Estado en congruencia de los lineamientos de la Política Nacional, el Plan Estatal de Desarrollo y en concordancia de otros programas que incidan en la acción del rubro de vivienda;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Establecer las medidas conducentes para asegurar el cumplimiento de los programas y orientaciones aprobados en materia de vivienda, en particular, fijar prioridades cuando fuere necesario en los aspectos no previstos en las normas generales y asignar en consecuencia los recursos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover la coordinación de las decisiones que adopten otros organismos públicos en aspectos de vivienda y conexos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Verificar el cumplimiento de las normas vigentes y evaluar la realización de los programas de vivienda;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Requerir toda clase de información en materia de vivienda, a las dependencias y organismos públicos y privados que operen en el estado en materia de vivienda y que ayuden a verificar el cumplimiento de las disposiciones vigentes, la evaluación de las acciones y programas autorizados;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover la coordinación de las acciones que tengan por objeto modernizar y eficientar las instituciones, procesos y procedimientos que garanticen la seguridad jurídica de la propiedad en el Estado de Jalisco, que regula esta Ley;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Ordenar la práctica de actos de verificación y visitas a los beneficiarios y terceros con ellos relacionados para revisar el cumplimiento de sus obligaciones prevista en la Ley, y en su caso, en coordinación con las instancias que hayan coadyuvado en la acción de vivienda; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás que en el rubro de vivienda le asigne la Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Son atribuciones de la SEMADET, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer y coadyuvar en la integración, coordinación y análisis de la política de vivienda y de los programas de vivienda del Estado en materia ambiental;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la participación ciudadana y vecinal en la elaboración, ejecución, evaluación y revisión de los programas y acciones de vivienda, haciendo efectiva la consulta pública sobre el respeto del entorno ecológico; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover acciones de información y capacitación dirigidas al personal de la administración pública estatal y municipal, relacionados con materia de medio ambiente en la supervisión de acciones del sector de vivienda."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Para la oportuna toma de decisiones en la programación e instrumentación de los Programas de Vivienda del Gobierno del Estado y con el fin de presentar eficiencia sobre los indicadores geográfico, económico y sociodemográfico, se establecerá con el Instituto de Información Estadística y Geográfica del Estado de Jalisco; el Sistema Estatal de Información e Indicadores de Vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Los municipios asumen las siguientes atribuciones por conducto de sus Ayuntamientos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar que se cumpla la normatividad en materia de vivienda en el ámbito de su competencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formular, aprobar y administrar los programas municipales de suelo y vivienda, de conformidad con los lineamientos de la Política Nacional y Estatal de Vivienda, en congruencia con los programas estatales correspondientes, sus planes y programas de desarrollo urbano y demás ordenamientos aplicables, así como evaluar y vigilar su cumplimiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda en su ámbito territorial, otorgando atención preferente a la población en situación de pobreza;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer las zonas para el desarrollo urbano integral con criterios de sustentabilidad y de conformidad con la legislación aplicable en materia de desarrollo urbano;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Coordinar con el Gobierno del Estado, la ejecución y el seguimiento del correspondiente programa estatal de vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Prestar, en términos de las disposiciones jurídicas aplicables, los servicios públicos municipales a los predios en los que se realicen acciones de vivienda derivados de los diferentes programas de vivienda federal, estatal y municipal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover obras de infraestructura en las reservas territoriales de uso habitacional, para fomentar el crecimiento urbano ordenado en los términos y modalidades de la legislación urbanística aplicable;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover con participación de los sectores público, social y privado, la oferta de vivienda de interés social en zonas consolidadas."
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Implementar las medidas a su alcance a fin de garantizar la simplificación de los trámites administrativos, respecto a la ejecución de acciones de vivienda."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinar acciones con el Gobierno del Estado con la finalidad de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Coordinar acciones en materia de suelo y vivienda con municipios colindantes; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás que establezcan otros ordenamientos legales en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DE LA COORDINACIÓN",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "Para cumplir con el objeto de esta Ley, el Instituto, con la participación que corresponda a las demás dependencias y entidades de la Administración Pública Estatal, celebrará convenios y acuerdos que tendrán por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer los mecanismos para garantizar una adecuada distribución de responsabilidades, así como la congruencia y complementariedad entre las políticas, programas y acciones de vivienda y suelo, con el gobierno federal y municipios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aplicar recursos para la ejecución de las acciones previstas en los programas de vivienda;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar una oferta competitiva de suelo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar y apoyar los procesos de producción social de vivienda, de vivienda rural e indígena;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Organizar y promover la producción y distribución de materiales de construcción que satisfagan las normas oficiales mexicanas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fomentar el desarrollo de sistemas constructivos mejorados y modulados acordes a los patrones culturales y al entorno bioclimático de las regiones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Brindar asistencia y capacitación a los organismos locales para la programación, instrumentación, ejecución y evaluación de programas de vivienda;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer medidas que fortalezcan la capacidad de gestión de los municipios y precisar las responsabilidades de los involucrados para la formulación y ejecución de programas de vivienda y de suelo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la homologación normativa y la simplificación de los trámites administrativos que se requieran para la ejecución de acciones de vivienda, reconociendo los distintos tipos y modalidades de producción habitacional;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Destinar inversión para detonar proyectos de infraestructura y equipamiento promovidos por los municipios y encabezar la gestión para promover la participación de las instancias del Gobierno Federal;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover incentivos estatales a la edificación de vivienda popular y de interés social;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Facilitar mecanismos de información y elaboración de estudios sobre las necesidades; inventario, modalidades y características de la vivienda; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "La realización de las demás acciones tendientes a cumplir con los fines previstos en esa Ley.\nEn los propios acuerdos o convenios se establecerán los términos y condiciones necesarios que permitan asegurar la correcta aplicación, utilización y destino de los recursos, así como los criterios para su control y evaluación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DE LOS PRINCIPIOS GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "La Política Estatal de Vivienda, tiene por objeto cumplir los fines del presente ordenamiento y deberá considerar los siguientes principios y lineamientos generales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquélla que se encuentre en situación de pobreza, marginación, riesgo o vulnerabilidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover su congruencia con los programas de desarrollo económico, social y urbano del Gobierno del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Incorporar estrategias que fomenten la concurrencia de los sectores público, social y privado para satisfacer las necesidades de vivienda, en su diversidad de tipo y modalidad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover convenios con la Federación, organismos internacionales y municipios, encaminados a fortalecer la colaboración, la seguridad jurídica y la implementación de los objetivos de la política de vivienda;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar la calidad de la vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer los mecanismos para que la construcción de la vivienda respete el entorno ecológico, la preservación y el uso eficiente de los recursos naturales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Propiciar el diseño de la vivienda y la construcción de la misma considerando el desarrollo integral de las personas con discapacidad física;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proporcionar vivienda temporalmente en los casos de familias desalojadas por estar en riesgo su seguridad, de acuerdo con las disposiciones establecidas en la legislación de desarrollo urbano, de protección civil, o como resultado de algún desastre natural, en la medida que la situación de emergencia lo requiera, durante el tiempo que se lleven a cabo las labores tendientes de rehabilitación o mejoramiento requeridos, de acuerdo con la disponibilidad presupuesta;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover un sistema financiero que considere el cofinanciamiento y cuya aplicación se base en el ahorro, el crédito y la ayuda de beneficio social, en el que se encuentren las bases para la población que no es considerada sujeta de crédito desde el esquema bancario, además de la población vulnerable y en situación de riesgo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover la adecuación de las reglas de operación del sector financiero, bancario y constructor de vivienda, con la finalidad de que también consideren las necesidades y circunstancias de cada sector social y económico;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Fortalecer la capacidad financiera del Instituto para ampliar su atención, diversificar las modalidades de financiamiento e instrumentar mecanismos que mejoren la recuperación crediticia;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Coordinar, fomentar, reconocer y concretar la participación de los diferentes productores de vivienda, tales como personas, instituciones y organismos de los sectores público, social y privado;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Dar mantenimiento y mejorar el inventario habitacional existente;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Destinar recursos a la investigación tecnológica, a la innovación y promoción de sistemas constructivos socialmente apropiados;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Generar una base estadística habitacional en el Estado de Jalisco, que incluya tanto a los diferentes productores como a los beneficiarios para mejorar la política, programas y acciones de vivienda;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Propiciar que las acciones de vivienda constituyan un factor de sustentabilidad ambiental, ordenación territorial y desarrollo urbano;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Promover que los proyectos de vivienda, así como sus procesos productivos, se adecuen a los rasgos culturales y locales para procurar su identidad y diversidad; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Entablar una distribución y atención equilibrada de las acciones de vivienda en el Estado de Jalisco, considerando las necesidades y condiciones regionales, así como los distintos tipos y modalidades del proceso habitacional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DE LA PROGRAMACIÓN DE VIVIENDA",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "La planeación de los programas de vivienda en el Estado de Jalisco, se formularán, aprobarán y publicarán en congruencia con la Política Nacional de Vivienda, el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo.\nLa formulación de los programas en materia de vivienda, estarán a cargo del Gobierno del Estado o de los Ayuntamientos en sus respectivos ámbitos de competencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Los programas de vivienda se formularán para articular las actividades, acciones y producciones cuyo fin sea la acción de vivienda a través de los sectores público, social y privado. Para su elaboración se tomará en cuenta los aportes de las dependencias y entidades de la Administración Pública Federal, además de considerar los principios y líneas de la política estatal de vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Para efecto de cumplir los programas de vivienda del Gobierno del Estado, el Instituto deberá asegurar el cumplimiento de aquéllos aprobados mediante un proceso permanente de control y evaluación, priorizar sus acciones y proponer soluciones a las acciones no previstas en los planes de desarrollo urbano y de vivienda.\nEn la formulación de la programación estatal de vivienda, se considerarán las propuestas de los gobiernos municipales, así como los sectores social y privado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Sin perjuicio de lo establecido en las disposiciones presupuestales aplicables, cuando se utilicen recursos federales, las evaluaciones deberán sujetarse a las normas y lineamientos que determine la Federación.\nLas dependencias, entidades y organismos de los gobiernos municipales que financien o instrumenten programas y acciones de vivienda con recursos federales, tendrán la obligación de proporcionar toda la información y las facilidades necesarias para la realización de su evaluación",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Las actividades relacionadas con la vivienda se programarán a través de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los Programas de Vivienda del Gobierno Federal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Plan Estatal de Desarrollo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Programas de Vivienda del Gobierno del Estado, mismos que regirán la ejecución de acciones específicas; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los programas sectoriales, regionales o institucionales de los municipios y del Instituto."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "El Programa de Vivienda del Estado de Jalisco contendrá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diagnostico físico y poblacional de la situación habitacional del Estado, así como los escenarios de corto, mediano y largo plazo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Congruencia con la programación de desarrollo económico, social, urbano y de medio ambiente del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Objetivos generales y particulares;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Estrategia general de largo y mediano plazo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Estrategia e instrumentos financieros;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Estrategia para propiciar la participación de la población, de los productores sociales y privados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Metas de mediano y largo plazo compatibles con los intereses del sector público, social y privados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Pautas de programación anual;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Mecanismos de coordinación con la Federación;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Estrategias, medidas, apoyos y coordinación de instrumentos para atender las necesidades de vivienda de la población, las tácticas para desarrollar acciones de vivienda, y las medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos indirectos de la vivienda derivados del pago de impuestos y derechos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Lineamientos de concertación con los productores sociales y privados; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás que señalen otros ordenamientos legales en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "El Programa Sectorial Anual de Vivienda contendrá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los objetivos y metas a alcanzar a corto plazo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Prioridades y estrategias generales y particulares;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Instrumentos, proyectos y acciones por tipo o modalidad de producción habitacional;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Recursos presupuestales y fuentes de financiamiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Mecanismos de coordinación interinstitucional y de participación de los sectores público, social o privado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El vínculo con los Programas Nacional y Estatal en materia de Vivienda;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los medios de financiamiento y los recursos económicos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los procedimientos de información y evaluación en la ejecución del programa; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Los procedimientos que permitan orientar e informar con oportunidad y claridad a los posibles beneficiarios de una vivienda."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Para el cumplimiento de los programas, el Instituto establecerá acciones que comprendan:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acciones de construcción de vivienda;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acciones de autoproducción de vivienda;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acciones de autoconstrucción de vivienda;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Acciones para mejoramiento de vivienda;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acciones de producción social de vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Acciones para lotes con servicios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Programas de autofinanciamiento;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Programas Especiales, de acuerdo a los convenios suscritos por los Ejecutivos Federal y Estatal, así como los celebrados con el gobierno municipal u organismos internacionales; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás que surjan de las demandas sociales."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "El Instituto directamente o por medio de intemediarios financieros aprobados, concederá los créditos de vivienda con la finalidad de adquirir terreno, construir, rehabilitar, mejorar, ampliar, complementar o adquirir una vivienda, mediante la elaboración de padrones de beneficiarios y convenios con los intermediarios financieros, una vez cumplimentados los requisitos así como los estudios socioeconómicos y crediticios.\nLos padrones deberán ser publicados en el sitio de Internet del Instituto, de conformidad a lo dispuesto por la ley de transparencia estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "El Instituto presentará anualmente al Gobernador del Estado antes del quince de agosto de cada año, la propuesta presupuestal que contendrá las necesidades contempladas en los Programas de Vivienda, con la finalidad de que se verifique la disponibilidad de recursos económicos para el ejercicio de dichos programas, dentro del Presupuesto de Egresos del Gobierno del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "La presupuestación anual del gasto que en materia de vivienda y suelo programen el Gobierno del Estado y los Municipios, por sí o en concurrencia con otros niveles de Gobierno o en concertación con los sectores social o privado, deberán tomar en cuenta los criterios de proporcionalidad, equidad y preferencia en la atención de lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las diversas regiones y municipios de la entidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las diferentes necesidades de los segmentos demográficos, objetivo de la política y programas en la materia, otorgando preferencia a los grupos y personas que se encuentran en situación de pobreza, marginación y vulnerabilidad social;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los diferentes tipos y modalidades de vivienda y suelo; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las prioridades derivadas del diagnóstico situacional y los ajustes derivados de la evaluación de resultado anual."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "En la formulación de sus presupuestos anuales de egresos, el Estado y los Municipios considerarán las visiones de mediano y largo plazo necesarias para garantizar la viabilidad, continuidad y complementariedad de la política, los programas y acciones y procesos habitacionales.\nPara tal efecto, podrán establecer en sus respectivos presupuestos de egresos, previsiones de gasto multianuales cuando la ejecución terminación total de alguna acción o proceso habitacional requiera comprometer recursos de ejercicios fiscales posteriores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "El Gobierno del Estado y los Ayuntamientos, deberán integrar y administrar en sus respectivos ámbitos de competencia, un fondo para la implementación de políticas públicas en materia de vivienda para la atención de damnificados o de población en situación de riesgo.\nEl destino de los recursos del fondo deberá de ser empleado previo dictamen emitido por el Instituto que justifique su necesidad, y los recursos ejercidos bajo su amparo deberán de comprobarse de manera detallada y transparente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DE LA CONCERTACIÓN CON LOS SECTORES SOCIAL Y PRIVADO",
+        "Artículos": [
+          {
+            "Artículo": 32,
+            "Texto": "El Instituto promoverá la participación de los sectores social y privado en la instrumentación de los programas y acciones de vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Los acuerdos y convenios que se celebren con los sectores social y privado podrán tener por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Buscar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza o vulnerable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la seguridad jurídica de la vivienda y del suelo a través del órgano correspondiente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Financiar y construir proyectos de vivienda, así como de infraestructura y equipamiento destinados a la misma;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Desarrollar, aplicar y evaluar normas, tecnologías, técnicas y procesos constructivos que reduzcan los costos de construcción y operación, faciliten la autoproducción o autoconstrucción de vivienda, eleven la calidad y la eficiencia energética de la misma y propicien la preservación y el cuidado del ambiente y los recursos naturales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ejecutar acciones y obras urbanas para la construcción, mejoramiento y conservación de vivienda, así como para la adquisición de suelo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Mantener actualizada la información referente al inventario habitacional, para su integración al Sistema de Información;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Implementar los programas para que los insumos y materiales para la construcción y mejoramiento de la vivienda sean competitivos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Desarrollar y proponer modelos educativos para formar especialistas en vivienda, capacitar a usuarios y fomentar la investigación en vivienda y suelo; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás acciones que acuerden las partes para el cumplimiento de esta Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DEL SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE VIVIENDA",
+        "Artículos": [
+          {
+            "Artículo": 34,
+            "Texto": "El Sistema Estatal de Información e Indicadores de Vivienda, tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Estatal de Vivienda, así como el fortalecimiento de la oferta articulada de vivienda en Jalisco y estará a cargo y será administrado por el Instituto de Información Estadística y Geográfica del Estado de Jalisco.\nEl Instituto de Información Estadística y Geográfica del Estado de Jalisco, integrará y administrará el Sistema de Información, el cual se sujetará y se conformará con la información que proporcione el Instituto Jalisciense de la Vivienda, las dependencias y entidades de la Administración Pública de los tres órdenes de gobierno y la organización del sector social y privado en aspectos vinculados con la vivienda y el terreno, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "El Instituto de Información Estadística y Geográfica del Estado de Jalisco y el Instituto Jalisciense de la Vivienda, establecerán las bases y mecanismos de coordinación necesarios con la Comisión Nacional de Vivienda y el Instituto Nacional de Estadística y Geografía y demás autoridades relativas, para integrar y actualizar periódicamente el Sistema Nacional de Información e Indicadores de Vivienda.\nLas bases y mecanismos de coordinación referidas en el párrafo anterior, tendrán como propósito compartir la información generada en el levantamiento de censos, encuestas o conteos de vivienda y suelo, económicas y socio demográficas y de la cuenta satélite de vivienda en México, derivadas del sistema de cuentas nacionales y de otros conteos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "El Sistema de Información contendrá los elementos que permita mantener actualizado el inventario habitacional, determinar los cálculos sobre el rezago y las necesidades de vivienda, su calidad y espacios, su acceso a los servicios básicos, así como la adecuada planeación de la oferta de vivienda, los requerimientos de suelo y la focalización de programas y acciones en la materia.\nEntre otros indicadores de evaluación, deberán considerarse cuando menos los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Metas por cobertura territorial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Beneficiarios por grupos de ingreso en veces el valor diario de la Unidad de Medida y Actualización vigente y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, arrendamiento o del mejoramiento del parque habitacional;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Evaluación de los productos habitacionales en términos de su ubicación en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones y municipios; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales."
+              }
+            ]
+          },
+          {
+            "Artículo": 37,
+            "Texto": "El Sistema de Información deberá contener también información relativa del beneficiario y del beneficio obtenido.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "El Sistema de Información, en los casos de emergencia por algún desastre natural u otros motivos, podrá servir como herramienta de apoyo para determinar de forma ágil las necesidades que se presenten para combatir dichas situaciones de riesgo o emergencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "Las autoridades u organismos estatales y municipales que operen programas de vivienda y que otorguen cualquier tipo de subsidio o beneficio, deberán ingresar en el registro los datos de toda persona beneficiada con la finalidad de fomentar la transparencia, distribución equitativa de los subsidios y beneficios en materia de vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Los gobiernos de los municipios, la organización de los sectores social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información correspondiente en el marco de los acuerdos y convenios que al efecto se celebren con el Instituto de Información Estadística y Geográfica del Estado de Jalisco y el Instituto Jalisciense de la Vivienda.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEXTO DE LOS ADQUIRENTES Y BENEFICIARIOS",
+        "Artículos": [
+          {
+            "Artículo": 41,
+            "Texto": "Por ser fin primordial, el de proveer a los habitantes del Estado de terreno urbano o vivienda a los que de ella carezcan, para que construyan o establezcan su hogar en forma adecuada, digna, decorosa y permanente, pudiendo de esta manera integrar un patrimonio familiar con las facilidades que su condición económica les permita, las operaciones a través de las cuales se transmita un bien inmueble, se realizarán con las personas que reúnan los requisitos señalados en la presente Ley y demás ordenamientos aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Pueden ser beneficiarios aquellas familias o personas que habiten en el Estado de Jalisco y que preferentemente se encuentren en una situación de marginación, pobreza o vulnerabilidad social que soliciten su incorporación a los programas de vivienda que se ejecuten en el Estado o Municipio según se trate, conforme a los requisitos y obligaciones señaladas en la presente Ley y demás normatividad aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Los beneficiarios de algún crédito de vivienda deben cumplir con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mayor de edad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Carecer de acceso a financiamiento de la vivienda;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Residir en el Estado de Jalisco, al menos con tres años de anticipación a la fecha de su solicitud, y de dos años en la localidad en la que pretenda adquirir el inmueble;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "No ser propietario, el solicitante, cónyuge, concubina o concubinario, de otro predio o casa habitación.\nLos propietarios de vivienda sólo podrán ser beneficiarios de acciones o programas destinados a la rehabilitación, aplicación o mejoramiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Que su lote o vivienda, requiera la implementación de acciones de vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No haber sido beneficiario de un crédito federal, estatal o municipal anterior, para adquisición de vivienda;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Que en el lugar donde preste sus servicios tenga una antigüedad mayor de un año y que la percepción de su ingresos, no le sean suficientes para adquirir un lote o vivienda a través de empresas dedicadas a la comercialización de inmuebles o por medio de contratos con particulares;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Presentar declaración, bajo protesta de decir verdad, en la que manifieste que habitará la vivienda y que su uso será exclusivamente habitacional, sujetándose a las sanciones correspondientes en caso de incumplimiento;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Comprobar el nivel socioeconómico o de ingresos requerido por el programa de vivienda de que se trate, estando obligado a permitir por parte de las autoridades del Instituto, la verificación de la información que proporcione; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "En el caso de la población informal, la determinación de sus ingresos se ajustará a lo que establezcan las reglas de operación de Instituto.\nPara determinar el cumplimiento los requisitos antes mencionados, el Instituto practicará al solicitante un estudio socioeconómico que formará parte integral del expediente del beneficiario.\nLas condiciones en particular en que deban concertarse las operaciones traslativas de dominio de inmuebles, serán fijadas por el Instituto y quedarán establecidas en los contratos respectivos.\nAtendiendo al beneficio social que produzcan las acciones que ejecute el Instituto, en materia de impuesto predial y de transmisiones patrimoniales, las fincas o terrenos de interés social y popular que· enajene, gozarán de los beneficios fiscales vigentes en la legislación de la materia.\nLos adquirentes de vivienda o terreno destinado a su construcción podrán aceptar conforme a las disposiciones del Código Civil del Estado de Jalisco, que el mismo quede de pleno derecho constituido en patrimonio de familia."
+              }
+            ]
+          },
+          {
+            "Artículo": 44,
+            "Texto": "El Instituto diseñará y aplicará instrumentos jurídicos y medidas de control, para asegurar que los bienes por él enajenados, sean destinados por los adquirentes a los propósitos y usos comprendidos dentro de los fines del Instituto.\nPara el otorgamiento de beneficios distintos a los señalados en el artículo que antecede, se deberán tomar en cuenta, según sea la operación de que se trate, los requisitos ahí establecidos, para determinar las personas que han de ser beneficiadas con los programas que desarrolle el Instituto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "Cualquier acto de cesión de derechos o traslativo de dominio respecto a los bienes adquiridos a través del apoyo del Instituto, y que los adquirentes pretendan llevar a cabo con terceras personas, deberán contar con la autorización por escrito del Instituto, en aquellos casos en que no haya sido pagado totalmente el precio por parte de sus adquirentes, sin este requisito no podrán celebrarse dichos actos. El presente artículo deberá insertarse en los documentos o títulos de propiedad correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "Todas las operaciones que celebre el Instituto con las personas que satisfagan los requisitos de los artículos 42 y 43 de esta Ley, deberán someterse a los lineamientos y condiciones de pago que su Junta de Gobierno establezca.\nToda venta a plazos se hará con la reserva de dominio a favor del Instituto mediante garantía hipotecaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "El Instituto procederá a revocar o a rescindir la asignación de la vivienda, además de la cancelación en el padrón de beneficiarios de los programas de vivienda, a recuperar la posesión de la vivienda y, en su caso, recuperar los recursos otorgados a través del crédito, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una vez asignada la vivienda, el beneficiario no la habite dentro de un plazo de 70 días naturales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Instituto, en ejercicio de las facultades de visita y verificación, se compruebe que el beneficiario no ha habitado la vivienda en forma continua, durante el término de cinco años;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El beneficiario se haya obligado a reintegrar a la entidad ejecutora la cantidad dada en subsidio;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El beneficiario no continúe la edificación de la vivienda; o"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que señale la normatividad aplicable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DE LAS FACULTADES DE VERIFICACIÓN Y VISITAS",
+        "Artículos": [
+          {
+            "Artículo": 48,
+            "Texto": "El Instituto y los Ayuntamientos, por separado o de manera conjunta y en coordinación, conforme a su competencia respectiva, podrán realizar actos de verificación y visitas a los beneficiarios para el cumplimiento de sus obligaciones previstas en esta Ley, en su Reglamento y en la normatividad aplicable de acuerdo a los programas de vivienda.\nPara tales efectos, podrán ordenar la realización de visitas, requiriendo a los particulares la exhibición de documentos que acrediten el cumplimiento de sus obligaciones respecto de la vivienda con que fueron beneficiados, así como vigilar que se cumplan con las disposiciones en materia de vivienda, levantando el acta circunstanciada correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "En la realización de visitas de inspección para requerir a los particulares la documentación relativa al cumplimiento de sus obligaciones, las autoridades deberán sujetarse a las siguientes disposiciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Sólo podrá llevarse a cabo una visita de inspección mediante la emisión de una orden, misma que deberá constar por escrito, estar debidamente fundada y motivada, contener la firma del servidor público facultado para su emisión, el objeto y duración de la misma y nombre de quien desahogará la diligencia;\n\nNombre del visitado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Una vez constituido el visitador en el domicilio a inspeccionar, deberá cerciorarse que es el mismo que contiene la orden de inspección, debiendo asentar en el acta de visita, los medios de convicción de que se valió para tal efecto;\n\nHora, día, mes y año en que se inicie y concluya la visita;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Requerirá la presencia del visitado o su representante legal, en caso de no encontrarlo, deberá dejar citatorio para que lo espere a más tardar dentro de las veinticuatro horas siguientes a la entrega del citatorio para el desahogo de la diligencia, mismo que deberá contener el apercibimiento que de hacer caso omiso se entenderá la diligencia con quien en ese momento se encuentre en el domicilio a inspeccionar, debiendo dejar el citatorio en poder de quien en ese momento se encuentre en el domicilio, y si no estuviera persona alguna en el domicilio, lo dejará fijado en la puerta;\n\nDirección donde se encuentra el domicilio visitado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Si la persona con quien deba entenderse la diligencia no se encontrare en el día y hora señalada en el citatorio respectivo, la diligencia deberá entenderla el visitador con quien en ese momento se encuentre en el domicilio, ante quien deberá identificarse debidamente. Le hará entrega de la orden de visita original, quedando copia en poder del visitador y le requerirá a la persona con quien se entienda la diligencia, designe dos testigos de asistencia, apercibiéndole que en caso de no ejercer este derecho, no tenerlos o los designados se negaren a firmar o fungir como tales, el visitador los designará sin que ello invalide los efectos de la diligencia;\n\nNúmero y fecha de la orden que la originó;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Se procederá a levantar acta circunstanciada haciendo constar los hechos que ocurran durante la diligencia, así como el incumplimiento a esta Ley y normatividad aplicable, en su caso, debiendo ser firmada por todas aquellas personas que intervengan en la diligencia. La negativa del visitado a firmar el acta no invalida la diligencia, debiendo asentar esa circunstancia el visitador; y\n\nNombre de la persona con quien se entendió la verificación, del visitador y de los testigos que intervinieron en la misma, incluidos los que en su caso se negaren a fungir como tales o a firmar, así como de los medios de identificación de cada una de ellas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Una vez concluida la diligencia de verificación, se entregará copia de la misma al visitado o con quien se entienda.\nEl acta de visita deberá contener como mínimo lo siguiente:\n\nManifestación del visitado, si quisiera hacerla; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Firma de los que intervinieron en la diligencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 50,
+            "Texto": "La persona con quien se entienda la diligencia de verificación está obligada a permitir el acceso al personal autorizado al lugar o lugares sujetos a verificación, en los términos contenidos en la orden escrita referida, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de la presente Ley y demás disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "Una vez concluida la visita domiciliaria, el acta circunstanciada se hará del conocimiento de la autoridad ordenadora, quien en caso de encontrar hechos u omisiones infractores a las disposiciones contenidas en esta Ley o a la normatividad aplicable, procederá mediante notificación personal a requerir al visitado, adopte de manera inmediata las medidas correctivas que sean necesarias, debiendo fundar y motivar dicho requerimiento, concediéndole un término de cinco días hábiles para que proceda a subsanar los hechos o incumplimientos, manifieste lo que a su derecho e interés convenga, o en su caso, aporte pruebas que acrediten el cumplimiento de las obligaciones que la presente Ley y la normatividad aplicable le imponen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "Transcurrido el término a que se refiere el artículo anterior y desahogadas las pruebas que en su caso aporte el visitado, la autoridad ordenadora procederá a emitir la resolución respectiva en un término de ocho días hábiles, debidamente fundada y motivada, respecto de los hechos o incumplimientos detectados en la diligencia de verificación y/o visita, imponiendo en su caso las sanciones respectivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Una vez agotado el procedimiento antes descrito y no habiéndose interpuesto el medio de defensa previsto en esta Ley, se procederá a levantar el acta de la diligencia siguiendo para ello el procedimiento establecido en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "Contra la resolución prevista en el artículo anterior, el visitado podrá interponer el recurso previsto en esta Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 55,
+            "Texto": "Los instrumentos y apoyos en materia de financiamiento para la ejecución de las acciones, programas de vivienda y procesos habitacionales destinados a satisfacer las necesidades de vivienda y suelo de la población, serán el crédito, los fondos, los montos de inversión, las transferencias y subsidios que para tal efecto destinen la Federación, el Estado y los Municipios, así como el ahorro de los beneficiarios y otras aportaciones de los sectores social y privado.\nEl Gobierno del Estado, propondrá a la autorización del Congreso, preferentemente, la cantidad igual al presupuesto total ejercido por el Instituto el año inmediato anterior, más el coeficiente de inflación oficial autorizado por el Instituto Nacional de Estadística y Geografía, para la formulación, evaluación y ejecución de los programas de acciones de vivienda que ayuden al cumplimiento de sus políticas sociales en este rubro, conforme al Plan Estatal de Desarrollo, en coordinación con el Programa Estatal de Vivienda, cuales serán ejecutados a través del Instituto.\nEl Instituto y los municipios, por conducto de sus dependencias y entidades competentes, se coordinarán con la Federación, para convenir acciones y procesos habitacionales, mismos que se sujetarán a la legislación y normatividad aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "El Estado y los Municipios fomentarán esquemas financieros que combinen recursos provenientes del crédito, ahorro, transferencias, subsidios y otras aportaciones para generar opciones adecuadas a las necesidades regionales y de los distintos sectores de la población de vivienda y suelo, preferentemente de los que se encuentren en situación de pobreza, marginación y vulnerabilidad social.\nEl Instituto y la dependencia o entidad de la Administración Pública Municipal competente en la materia, incorporarán en sus Programas Operativos Anuales y en sus respectivos presupuestos de egresos, los esquemas y estrategias de financiamiento de las acciones y programas de vivienda para el ejercicio fiscal que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "El Instituto propondrá a las dependencias competentes, las medidas de financiamiento y estímulos para el cumplimiento de los programas de vivienda, así como los sistemas de control, seguimiento y evaluación de los mismos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "Para el financiamiento a la producción y adquisición de vivienda, se impulsarán las siguientes medidas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover la canalización de recursos financieros a tasas de interés preferenciales compatibles con el Programa de Vivienda; que estimulen la planeación, la construcción y equipamiento de la vivienda popular o de interés social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Diversificar los esquemas de financiamiento, de conformidad con los niveles de ingresos de la población que se busca beneficiar;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar y ampliar las fuentes de fondeo y los esquemas de financiamiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar la utilización de los recursos del mercado que permitan un flujo constante de financiamiento a largo plazo, con costos de intermediación financiera competitivos; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar la participación de más y diversas instituciones financieras, a efecto de generar una mayor competitividad en el sector."
+              }
+            ]
+          },
+          {
+            "Artículo": 59,
+            "Texto": "Los programas de vivienda se financiarán de acuerdo a las siguientes modalidades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Crédito o préstamo con garantía hipotecaria, otorgado por el sistema bancario;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Inversión directa del Gobierno del Estado, cuya aplicación se hará a través del Instituto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Inversión de otros organismos públicos federales de vivienda; que operan en el Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ahorro colectivo de los beneficiarios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Políticas de subsidio federal, estatal o municipal cuando las hubiera; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cualquier otro fondo destinado a la consecución del objeto de esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "Los recursos del Instituto, a efecto de cumplir con su finalidad, se destinarán a realizar las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Efectuar estudios y proyectos relativos a la vivienda;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Adquirir suelo urbano para vivienda;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Producir vivienda;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Producir o adquirir materiales, elementos y componentes de la vivienda;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar apoyos financieros a la dotación o mejoramiento de la infraestructura, el equipamiento y los servicios urbanos necesarios o complementarios de la vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Conceder créditos para la adquisición, construcción, mejoramiento y rehabilitación de vivienda;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Otorgar subsidios para la adquisición de vivienda o suelo para la vivienda;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fomentar actividades de investigación científicas, técnicas o cualesquiera otras relacionadas con la construcción de vivienda;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover el mejoramiento de las condiciones habitacionales de la población de bajos recursos económicos, en vulnerabilidad o en situación de riesgo; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás acciones que las leyes y reglamentos señalen."
+              }
+            ]
+          },
+          {
+            "Artículo": 61,
+            "Texto": "Los créditos de vivienda que se concedan a través de los programas de vivienda, conllevan la devolución total de los mismos en su valor actualizado. En consecuencia sólo podrán otorgarse en proporción a la capacidad de pago del beneficiario y con las debidas garantías, formalizándose dicho acto mediante escritura pública.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "Por concepto de servicio de amortizaciones e intereses, ningún crédito de vivienda otorgado por los institutos de vivienda debe superar el treinta por ciento de los ingresos nominales mensuales del beneficiario.\nSi por efecto de la situación económica, el pago del crédito llegara a representar más del treinta por ciento de los ingresos nominales mensuales del beneficiario, el deudor tendrá derecho a acogerse a las soluciones que el Instituto establezca, con el objeto de no superar esta proporción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "En el caso de la extensión del plazo de recuperación, como solución otorgada por el Instituto de conformidad con el párrafo segundo del artículo que antecede, éste se documentará mediante acta que se inscribirá en el Registro Público de la Propiedad, sin cargo alguno para el acreditado, dándole nueva fecha a la\n. inscripción para el cómputo de sus plazos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "En los contratos de crédito otorgados por el Gobierno Estatal, deberán contemplar seguros de vida, de desempleo, de incapacidad total y permanente y de daños a la vivienda.\nEn caso de que el solicitante no pueda demostrar plenamente sus ingresos, la determinación de comprobación de los mismos se ajustará a lo que establezcan las reglas de operación del Instituto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "La adulteración o falsificación de la documentación aportada, así como cualquier falsedad u ocultamiento en la declaración de ingresos o cualquier otro dato, será causal suficiente para desechar una solicitud de crédito o para obligar a la cancelación de los préstamos concedidos, haciéndolo exigibles inmediatamente, inclusive por la vía de apremio, sin perjuicio de las sanciones que establezca la autoridad civil o penal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DE LOS ESTÍMULOS AL SECTOR PRIVADO QUE PRODUZCA VIVIENDA",
+        "Artículos": [
+          {
+            "Artículo": 66,
+            "Texto": "El Gobierno del Estado, en las disposiciones reglamentarias y administrativas que dicte al respecto, establecerá y aplicará las medidas concretas de apoyo y fomento a la producción y a los productores sociales de vivienda, entre ellas, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover la regulación de la tenencia de la tierra, de la vivienda y de los conjuntos o unidades habitacionales, mediante las facilidades administrativas y regístrales necesarios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover los estímulos, apoyos y facilidades que sean otorgados por las diversas autoridades, a los productores de vivienda cuando sea procedente; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El instituto, por sí o a solicitud de los municipios, organismos y otros grupos sociales y privados, que tengan por objeto el desarrollo del financiamiento popular o la necesidad de vivienda, vivienda popular o de interés social, podrá transmitirles a titulo oneroso áreas o predios del dominio del Instituto, en los términos de esta Ley, siempre y cuando:\na) Los bienes sean utilizados en los programas de vivienda;\nb) Que sean congruentes con los programas sectoriales de vivienda autorizados; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Que los solicitantes cuenten con programas financieros."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA DE LOS SUBSIDIOS",
+        "Artículos": [
+          {
+            "Artículo": 67,
+            "Texto": "Los subsidios que en materia de vivienda y de suelo otorgue el Instituto, se destinarán exclusivamente de forma corresponsable con los subsidios que otorgue el Gobierno Federal y serán aplicados, definidos, identificados y medidos de acuerdo a lo previsto en la legislación aplicable y las reglas de operación que para los mismos se establezcan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "Los programas que otorguen subsidios para la vivienda se sujetarán a lo que determine el presupuesto de egresos para el ejercicio fiscal correspondiente. Para el otorgamiento de los subsidios, las dependencias y entidades competentes deberán observar los siguientes criterios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los montos de los subsidios deberán diferenciarse según los niveles de ingreso de sus destinatarios, dando atención preferente a las familias con los más bajos ingresos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los subsidios deberán ser objetivos, identificarse y cuantificarse claramente, estableciendo los requisitos y criterios de selección que deben satisfacer los destinatarios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los subsidios deberán ser establecidos con equidad, tanto para los hogares beneficiarios, como para las regiones y municipios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los montos y procedimientos de asignación de los subsidios deberán ser transparentes, y establecer con claridad la temporalidad y responsables de su ejercicio, control y seguimiento; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Para distribuir los subsidios entre las entidades federativas, los municipios y los hogares a beneficiar, se deberán tomar en consideración las condiciones de rezago, necesidades habitacionales, modalidades de atención y el grado de marginación o pobreza, entre otros."
+              }
+            ]
+          },
+          {
+            "Artículo": 69,
+            "Texto": "Para garantizar la aplicación de los principios de equidad e inclusión social en el acceso a los subsidios, el Instituto, elaborará reglas para su distribución atendiendo lo dispuesto en el artículo 5 de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "Las instancias que otorguen subsidios en materia de vivienda, deberán proporcionar la información de los beneficiarios al Instituto, quien la remitirá al Instituto de Información Estadística y Geográfica del Estado de Jalisco para su integración al Sistema Estatal de Información e Indicadores de Vivienda.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IX DE LAS NORMAS ADMINISTRATIVAS PARA LA CONSTRUCCIÓN DE VIVIENDA",
+        "Artículos": [
+          {
+            "Artículo": 71,
+            "Texto": "Las acciones para la producción y el mejoramiento de vivienda que lleven a cabo los organismos de vivienda se sujetarán a las disposiciones reglamentarias, administrativas, técnicas y constructivas que den condiciones de calidad avaladas por las dependencias estatales y municipales correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "Las normas para la construcción de vivienda que procurarán atender los desarrolladores y constructores de vivienda que participen en programas o proyectos específicos del Gobierno del Estado y de los Municipios, serán las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La utilización de ecotécnicas y de ingeniería ambiental aplicable a la vivienda. Entre otros aspectos deberá considerarse la racionalización del uso del agua y cuando sean factibles sus sistemas de reutilización;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La utilización de los componentes prefabricados y sus sistemas de reutilización;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El aprovechamiento de fuentes alternas de energía;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La calidad y tipo de materiales, productos, componentes, procedimientos constructivos, sistemas de edificación y el uso de los mismos conforme a cada localidad o región;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los mecanismos para fomentar y mejorar la producción masiva de vivienda;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Observar las medidas de ingeniería sanitaria y de salubridad establecidas por las disposiciones aplicables, a fin de que la vivienda cuente con los satisfactores y los materiales de construcción adecuados, que garanticen la buena higiene y seguridad habitacional de las mismas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La observancia de las condiciones climatológicas que prevalezcan en la localidad; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La adopción de medidas que eviten la contaminación visual, auditiva, del aire, el agua y el suelo."
+              }
+            ]
+          },
+          {
+            "Artículo": 73,
+            "Texto": "El Instituto y las dependencias municipales correspondientes, promoverán la aplicación de tecnologías de bajo costo y alta productividad para la construcción de vivienda y, en particular, apoyará la creación de tecnologías que puedan utilizar las personas o grupos organizados que autoproduzcan su vivienda. Asimismo, buscará que la tecnología sea la adecuada a los requerimientos sociales y regionales y a las características de la población urbana y rural, estableciendo mecanismos de investigación y experimentación tecnológicas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "El Instituto, considerando la opinión de la SEMADET, así como de las dependencias respectivas, emitirá los lineamientos necesarios para controlar la transferencia de tecnología y atender las normas de calidad para la producción industrial de materiales básicos para la construcción de vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "Las disposiciones de administración y mantenimiento de conjuntos habitacionales y en general de la vivienda realizada por las entidades de la Administración Pública Estatal y Municipal propiciarán que dichas acciones queden a cargo de las asociaciones de los usuarios.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO X DE LA RESERVA TERRITORIAL Y DESARROLLO DE VIVIENDA",
+        "Artículos": [
+          {
+            "Artículo": 76,
+            "Texto": "Los apoyos e instrumentos que el Gobierno del Estado establezca en materia de suelo, se dirigirán a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Apoyar a los gobiernos municipales, en la generación de una oferta de suelo para el desarrollo de acciones de vivienda; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fomentar esquemas y programas que contemplen recursos provenientes de crédito, ahorro y subsidio, para la adquisición de suelo.\nSe deberá observar para tales efectos las disposiciones legales en materia de asentamientos humanos, agrarios y ambientales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 77,
+            "Texto": "El Instituto y los Ayuntamientos instrumentarán acciones, programas y estímulos con la participación de propietarios y desarrolladores para generar suelo con servicios, preferentemente para beneficio de la población en situación de pobreza, marginación y vulnerabilidad y de los productores sociales de vivienda,\npara lo cual celebrará los convenios y acuerdos necesarios sin contravenir lo establecido en la Ley aplicable en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "Los programas apoyados con recursos de las dependencias, entidades u organismos estatales, que se destinen a la constitución de reservas territoriales y de aprovechamiento de suelo para su incorporación al desarrollo habitacional, deberán observar los planes y programas de desarrollo urbano vigentes.\nCuando se trate de suelo de origen ejidal o comunal, la promoción de su incorporación al desarrollo urbano deberá hacerse con la intervención de la Comisión para la Regularización de la Tenencia de la Tierra, en los términos de las disposiciones aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "Las reservas territoriales se destinarán a las necesidades de suelo urbano para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como para dar solución al problema de los asentamientos humanos irregulares y al desarrollo desequilibrado de los centros de población de la entidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 80,
+            "Texto": "Cualquier adquisición de suelo o acción de vivienda, ya sea a propuesta del sector público, privado o social, deberá prever en sus proyectos de desarrollo habitacional, programas de manejos de residuos y desechos derivados de la construcción, tratamiento de aguas residuales, ahorro de energía eléctrica, de acuerdo a la normatividad aplicable y además observar las disposiciones legales en materia de asentamientos humanos y agraria.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DE LAS DENUNCIAS",
+        "Artículos": [
+          {
+            "Artículo": 81,
+            "Texto": "Toda persona podrá denunciar por escrito ante el Instituto cualquier hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen en la materia relacionada con la vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "La denuncia que se realice por escrito debe constar de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El nombre, domicilio y demás datos del denunciante, y en su caso, su representante legal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los actos, hechos u omisiones denunciados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los datos que permitan identificar al particular o presunta autoridad infractora; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las pruebas que en su caso ofrezca el denunciante.\nUna vez recibida la denuncia, el Instituto, según corresponda, procederá a realizar la verificación y visita, y en su caso, imponer las medidas de seguridad o las acciones procedentes conforme a Ley y en un término no mayor a quince días hábiles, harán del conocimiento del denunciante, el trámite que se haya dado a la denuncia.\nCuando por incumplimiento a las disposiciones de esta Ley, se hubieren ocasionado daños y perjuicios al denunciante, éste podrá solicitar al Instituto, la formulación de un dictamen técnico, el cual tendrá valor de prueba.\nEste derecho se ejercerá ante el Instituto, quien oirá previamente a los interesados y en su caso a los afectados, resolviendo lo conducente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DE LAS RESPONSABILIDADES",
+        "Artículos": [
+          {
+            "Artículo": 83,
+            "Texto": "Los servidores públicos que intervengan en los programas de vivienda que utilicen su posición para beneficiarse de los procesos de producción y adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado de Jalisco, sin perjuicio de las responsabilidades civiles, penales, administrativas, patrimoniales o de cualquier otra naturaleza legal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "El Instituto informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la difusión de sus programas y reglas de operación a todos los promotores y productores sociales y privados, y al público en general de conformidad con la legislación de transparencia y acceso a la información del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA DEL RECURSO DE REVOCACIÓN",
+        "Artículos": [
+          {
+            "Artículo": 85,
+            "Texto": "Procede el recurso de revocación contra la resolución definitiva dictada en el procedimiento administrativo instaurado con motivo de la aplicación de esta Ley y disposiciones que de ella emanen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "Para los efectos del presente capítulo, la SEMADET y el Instituto, en el ámbito de sus respectivas competencias, deberán conocer y resolver el recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "El recurso de revocación se interpondrá por escrito por la parte que se considere agraviada, dentro de los quince días hábiles siguientes al que se hubiera hecho la notificación del acto que se reclama o aquél en que se ostenta sabedor del mismo y se contará en ellos el día del vencimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 88,
+            "Texto": "El escrito de interposición del recurso de revocación, deberá presentarse ante la autoridad que emitió el acto impugnado y deberá expresar:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La autoridad a la que se dirige;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El nombre y domicilio del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que señale para efecto de notificaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El acto que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La mención de la autoridad que haya dictado la resolución, ordenando o ejecutando el acto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los agravios que le causan; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las pruebas que ofrezca que tengan relación inmediata y directa con el acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro.\nEn caso de que el recurrente omitiere cumplir alguno de los requisitos, la autoridad que conozca del recurso lo requerirá para que en un término de tres días subsane tales omisiones. En caso de no hacerlo se desechará por notoriamente improcedente.\nEn ningún caso se admitirá la gestión de negocios; las pruebas deberán desahogarse o desecharse por su propia naturaleza y las que no sean documentales, se señalará fecha de audiencia para su desahogo."
+              }
+            ]
+          },
+          {
+            "Artículo": 89,
+            "Texto": "Interpuesto el recurso y recibidas las copias del escrito de expresión de agravios, la autoridad receptora integrará el expediente original junto con el escrito de agravios, dándole trámite al mismo.\nPara el caso de existir tercero perjudicado que haya gestionado el acto contra el que se interpone el recurso, se le notificará y correrá traslado con copia de los agravios, para que en el término de tres días hábiles manifieste lo que a su interés convenga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 90,
+            "Texto": "La autoridad administrativa podrá decretar para mejor proveer, estando facultada para requerir los informes y pruebas que estime pertinentes y para el caso de que el informe acredite que los documentos\nofrecidos como prueba obran en los archivos públicos, deberá solicitar oportunamente copia certificada de los mismos. Si no le fueren expedidos, se podrá requerir directamente al funcionario o autoridad que los tenga bajo su custodia para que los expida y envíe a la autoridad requirente dichas copias.\nTranscurrido el término a que se refiere el párrafo segundo del artículo 89, se fijará día y hora para una audiencia de recepción de pruebas y alegatos, y concluida se ordenará se pase el expediente para dictar la resolución que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Lo solicite expresamente el recurrente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No se siga perjuicio al interés social o se contravengan disposiciones de orden público; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En los casos en que resulte procedente la suspensión del acto que se reclama· pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos si el recurrente otorga garantía bastante a favor del Instituto, que corresponda para reparar el daño e indemnizar los perjuicios que con ella se causaren si no obtiene resolución favorable, contando la autoridad receptora de los recursos con facultad discrecional para fijar el monto de la garantía a otorgar.\nLa autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los tres días hábiles siguientes a su interposición."
+              }
+            ]
+          },
+          {
+            "Artículo": 92,
+            "Texto": "El recurso se tendrá por no interpuesto cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "No se haya acompañado la documentación que acredite la personalidad del recurrente o ésta, no se acredite legalmente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No sea presentado en el término concedido por esta Ley, por resultar extemporáneo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El recurrente haya sido requerido conforme a lo dispuesto en la presente Ley y no dé cumplimiento; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cuando se promueva contra actos que sean materia de otro recurso que se encuentre pendiente de resolución."
+              }
+            ]
+          },
+          {
+            "Artículo": 93,
+            "Texto": "Procederá el sobreseimiento del recurso cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El promovente se desista expresamente de su recurso; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando hayan cesado los efectos del acto impugnado;"
+              }
+            ]
+          },
+          {
+            "Artículo": 94,
+            "Texto": "La autoridad encargada de resolver el recurso podrá confirmar, modificar o revocar el acto impugnado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 95,
+            "Texto": "La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará sólo el examen de dicho punto.\nLa autoridad examinará en su conjunto los agravios, así como los demás razonamientos del recurrente a fin de resolver la cuestión planteada. Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de treinta días hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "Para la substanciación y resolución del recurso de revocación, será supletorio la Ley del Procedimiento Administrativo del Estado de Jalisco y en lo no previsto por esta, será el Código de Procedimientos Civiles del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga la Ley de Vivienda para el Estado de Jalisco y sus Municipios, contenida en el Decreto 18730 y sus posteriores reformas.\n\nEl Gobierno del Estado, así como los Ayuntamientos del Estado de Jalisco contarán con un plazo de noventa días naturales, siguientes a la entrada en vigor del presente decreto para realizar las modificaciones a los reglamentos, disposiciones administrativas y lineamientos generales que resulten aplicables y necesarios para el correcto cumplimiento de los artículos reformados en el presente decreto.\nTABLA DE REFORMAS Y ADICIONES\n25840/LXI/16.- Artículo quincuagésimo sexto, se reforman los artículos 7, 8 y 36 de la Ley de Vivienda del Estado de Jalisco.- Oct. 11 de 2016. sec. V\nAL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16. Oct. 11 de 2016 sec.",
+            "Fracciones": [
+              {
+                "Fracción": "VI",
+                "Texto": "28796/LXIII/22.- Se reforma el artículo 8 y 16 de la Ley de Vivienda del Estado de Jalisco.- Jul. 16 de 2022, sec."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "28805/LXIII/22.- Se reforman los artículos 1, 2, 7 fracción l, 9 y 41 de la Ley de Vivienda del Estado de Jalisco.- Nov. 8 de 2022, sec. VI.\nLey de Vivienda del Estado de Jalisco\nAprobación: 8 de mayo de 2014.\nPublicación: 9 de mayo de 2014. 8 Bis Edición Especial\nVigencia: 10 de mayo de 2014."
+              }
+            ]
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Los asuntos que se encuentren en trámite con fundamento en la Ley de Vivienda para el Estado de Jalisco y sus Municipios, seguirán sustanciándose y resolverán conforme a lo dispuesto en la misma.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "En tanto se expiden las disposiciones reglamentarias, administrativas y técnicas que se deriven de esta Ley, continuarán aplicándose los reglamentos y acuerdos que sobre la materia se hubieren expedido con anterioridad en todo lo que no se oponga a este ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Se concede un plazo de noventa días hábiles para que el Gobernador del Estado expida las disposiciones reglamentarias administrativas y técnicas a que se refiere el transitorio anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Los recursos humanos, financieros y materiales del Organismo Público Descentralizado denominado “Inmobiliaria y Promotora de Vivienda de Interés Público”, pasarán a formar parte del Instituto Jalisciense de la Vivienda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Se derogan las disposiciones que se opongan a la presente Ley.\nSALON DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 8 DE MAYO DE 2014\nDiputada Presidenta NORMA ANGÉLICA CORDERO PRADO (Rúbrica)\nDiputado Secretario\nDiputado Secretario\nJAIME ISMAEL DÍAZ BRAMBILA NICOLAS MAESTRO LANDEROS (Rúbrica) (Rúbrica)\nPROMULGACIÓN DEL DECRETO 24869/LX/14, MEDIANTE EL CUAL SE EXPIDE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO; APROBADO POR EL HONORABLE CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 08 DE MAYO DEL 2014.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 8 ocho días del mes de mayo de 2014 dos mil catorce.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ (RÚBRICA)\nEl Secretario General de Gobierno ARTURO ZAMORA JIMÉNEZ (RÚBRICA)\nARTÍCULOS TRANSITORIOS DEL DECRETO 28805/LXIII/22",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

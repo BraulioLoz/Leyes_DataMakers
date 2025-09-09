@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 55,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De los Derechos de las Madres Jefas de Familia",
+    "Capítulo III Del Apoyo Económico Estatal y Municipal",
+    "Capítulo IV De las Acciones Gubernamentales",
+    "Capítulo V Del Consejo Estatal para la Protección de las Madres Jefas de Familia"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

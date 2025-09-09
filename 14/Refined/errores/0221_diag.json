@@ -1,0 +1,32 @@
+{
+  "n_chapters": 19,
+  "n_perm_articles": 159,
+  "n_perm_fracciones": 154,
+  "n_trans_caps": 1,
+  "n_trans_articles": 17,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones generales",
+    "CAPÍTULO II De la Dirección General del Registro Civil",
+    "CAPÍTULO III De los oficiales del Registro Civil",
+    "CAPÍTULO IV De los procedimientos",
+    "CAPÍTULO V De las Actas de Nacimiento",
+    "CAPÍTULO VI De los registros extemporáneos de nacimiento",
+    "CAPÍTULO VII De las Actas de Reconocimiento de Hijo",
+    "CAPÍTULO VIII De las Actas de Adopción",
+    "CAPÍTULO IX De las Actas de Tutela",
+    "CAPÍTULO X De las Actas de Emancipación",
+    "CAPÍTULO XI De las Actas de Matrimonio",
+    "CAPÍTULO XII De las Actas de Divorcio",
+    "CAPÍTULO XIII De las Actas de Defunción",
+    "CAPÍTULO XIV De las actas de ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para Administrar Bienes",
+    "CAPÍTULO XV De las Certificaciones",
+    "CAPÍTULO XV-Bis Del Registro de Deudores Alimentarios Morosos",
+    "CAPÍTULO XVI De la nulificación, rectificación, aclaración y testadura de las actas del Registro Civil",
+    "CAPÍTULO XVII De las visitas de orientación e inspección",
+    "CAPÍTULO XVIII De las Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 19
+  }
+}

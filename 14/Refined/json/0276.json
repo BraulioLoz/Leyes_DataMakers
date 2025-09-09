@@ -1,0 +1,918 @@
+{
+  "0276.JSON": {
+    "Decreto": "Lic. Francisco Javier Ramírez Acuña, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto:\nNÚMERO 20357.- EL CONGRESO DEL ESTADO DECRETA:\nSe expide la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco para quedar como sigue:",
+    "Año_publicación": null,
+    "Título": "LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Las disposiciones contenidas en la presente Ley son de orden público e interés general y tienen por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer las bases para la coexistencia pacífica de los miembros de la familia como célula básica de la sociedad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover y estimular una cultura que favorezca y coadyuve a crear un marco objetivo de libertad y equidad, entre los integrantes de la familia, con el propósito de erradicar la violencia intrafamiliar; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer las bases de coordinación y colaboración, y competencia de los servicios con que cuenta el Estado, instituciones y procedimientos para la atención de personas receptoras y generadoras de violencia intrafamiliar."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para cumplir los objetivos de la presente Ley, el Ejecutivo del Estado a través de sus dependencias y entidades deberán brindar apoyo institucional y técnico para prevenir y atender los asuntos de violencia intrafamiliar.\nTodos los servidores públicos de las dependencias y entidades del sector público que en el ejercicio de sus funciones tengan conocimiento de incidentes relacionados con la violencia intrafamiliar, deberán hacerlo del conocimiento del Consejo o de la autoridad competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Son autoridades para la aplicación y vigilancia del cumplimiento de esta ley en el ámbito de sus respectivas competencias:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Al Ejecutivo a través de:\na) La Secretaría del Sistema de Asistencia Social;\nb) La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "La Secretaría de Educación;\ne) La Secretaría de Salud;\nf) La Fiscalía Estatal;\ng) La Secretaría de Seguridad; y\nh) El Organismo Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar y sus Unidades de Atención; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Ayuntamientos del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Para cumplir los objetivos de la presente Ley, las autoridades competentes del Estado y los Ayuntamientos, deberán brindar apoyo institucional y técnico para prevenir y atender los asuntos de violencia intrafamiliar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LOS CONCEPTOS",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "Para efecto de esta Ley, se entiende por:\nFamilia: Conjunto de personas unidas por parentesco, matrimonio o concubinato, que como célula fundamental de la sociedad es una institución de interés público y ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores necesarios en la formación y perfeccionamiento de la persona y de la sociedad.\nLas relaciones familiares deben aspirar a servir al pleno entendimiento de los valores de la existencia humana. Por ello, tenderán a excluir toda subordinación o sometimiento vejatorios de la dignidad humana;\nViolencia Intrafamiliar: Es la acción u omisión intencional que ponga en peligro o afecte la integridad física, psicológica o sexual, que se ejerce en contra de algún miembro de la familia, por otro integrante de la misma, independientemente de que pudiere constituir delito.\nSe equipara a violencia intrafamiliar el maltrato físico o psicológico que se infiere en contra del tutor, curador, pupilo, amasia o amasio, hijos de éste o aquélla, de quien habite en el domicilio del agresor o de la persona a quien el agresor le deba dar cuidado o protección.\nPersona generadora de violencia intrafamiliar: Quien realiza actos u omisiones que provoquen situaciones de violencia intrafamiliar;\nPersonas receptoras de violencia intrafamiliar: Quien recibe, o se le provoque de cualquier forma, alguna o varias de las acciones u omisiones de violencia intrafamiliar, por parte de persona con la que tengan algún vínculo familiar, o su equiparación;\nModelos de Atención: Los sistemas integrales y multidisciplinarios mediante los cuales se captan, atienden, da seguimiento, y se evalúan las situaciones de violencia intrafamiliar, sistematizando los resultados de los procesos, para retroalimentar los propios modelos;\nPrograma Permanente: Es el proyecto para la prevención y atención de la violencia intrafamiliar, el cual se integra con los programas y estrategias institucionales, públicas y privadas;\nConsejo: El Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar.\nPrevención: Las medidas tendientes a evitar que se produzca la violencia en cualquiera de sus modalidades, entre las personas que tengan algún vínculo o parentesco familiar.\nAtención: Los servicios que se presten con el fin de proteger a los receptores de la violencia intrafamiliar, así como de quienes la generan.\nOrganismo Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I DE LAS AUTORIDADES Y ACCIONES PÚBLICAS",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "El Estado coadyuvará en el resguardo de la familia como un espacio de afecto, seguridad y desarrollo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Le corresponde a la Secretaría del Sistema de Asistencia Social, además del despacho de los asuntos descritos que la Ley Orgánica del Poder Ejecutivo establece, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover acciones y programas de protección social a las víctimas de la violencia"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fomentar en coordinación con instituciones especiales públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia intrafamiliar cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias en comunidades, barrios y colonias, para prevenir, identificar y canalizar a las autoridades correspondientes, los casos de violencia intrafamiliar, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención, identificación y canalización de casos de violencia intrafamiliar, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento, a través de su participación en las brigadas interinstitucionales y multidisciplinarias;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Elaborar programas de capacitación para los funcionarios públicos y demás personas que por la naturaleza de sus funciones, les corresponda, en cualquier momento del proceso de atención, tener contacto con los sujetos involucrados en actos de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Introducir en sus programas de bienestar social, la asistencia, prevención, identificación y canalización de casos de la violencia intrafamiliar; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover, a través de los medios de comunicación, campañas permanentes encaminadas a sensibilizar y concientizar a la población sobre los derechos, las formas en que se expresa, se previene y combate la violencia intrafamiliar en coordinación con las instancias competentes, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento, a través de su participación en las brigadas interinstitucionales y multidisciplinaria;"
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Corresponde a la Secretaría General de Gobierno, además del despacho de los asuntos señalados en la Ley Orgánica del Poder Ejecutivo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "coadyuvar en los programas de prevención, atención y difusión contra la violencia intrafamiliar y vigilar el cumplimiento de la presente Ley; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Difundir el contenido y alcance de la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Compete a la Secretaría de Educación, además del despacho de los asuntos descritos en e (sic) la Ley Orgánica del Poder Ejecutivo, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desarrollar programas educativos, de nivel preescolar, primaria y secundaria, que fomenten la corresponsabilidad familiar en sana convivencia, con base a los derechos y obligaciones de sus integrantes, de acuerdo a su edad y experiencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fomentar la capacitación sobre la detección y prevención de la violencia intrafamiliar al personal docente en todos los niveles de educación que le competan; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Diseñar y operar en los planteles educativos programas de detección y canalización de víctimas de violencia intrafamiliar a las unidades de atención respectivos; así como la creación de grupos de atención de violencia intrafamiliar, integrados por padres de familia, personal\ndocente y alumnado."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Le corresponde a la Secretaría de Salud, además del despacho de los asuntos precisados en la Ley Orgánica del Poder Ejecutivo, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseñar y poner en práctica programas de capacitación, detección, prevención y atención a personas receptoras y generadoras de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer bases y directrices en la elaboración de los Partes Médicos que se instrumenten en el Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por conducto de trabajadoras sociales y médicos, promover programas de intervención temprana a través de brigadas interinstitucionales y multidisciplinarias para prevenir, identificar y canalizar los asuntos de violencia intrafamiliar a las autoridades correspondientes,"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar campañas públicas tendientes a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene o combate la violencia intrafamiliar, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover que se preste la atención inmediata a las víctimas de la violencia intrafamiliar, en las diversas instituciones médicas, públicas y privadas, promoviendo a la vez, el conocimiento de los derechos, de la diversidad de servicios especializados y de los programas de atención y acompañamiento; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Difusión y aplicación en todos los sectores de salud (sic) la norma oficial aplicable, referente a la prestación de servicios de salud, y los criterios para la atención médica de la violencia intrafamiliar."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "La Secretaría de Seguridad, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, para los efectos de esta ley, tendrá las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinarse con la Fiscalía Estatal para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Instaurar cursos de formación y capacitación a los elementos de seguridad sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención; e"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar.\nmultidisciplinarias, para prevenir, identificar y canalizar los casos de violencia intrafamiliar."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "La Fiscalía Estatal, además de las atribuciones señaladas en la Ley Orgánica de la Fiscalía del Estado de Jalisco, para los efectos de esta ley tendrá las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Turnar a las instancias competentes, los casos en que de la carpeta de investigación se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables, una vez aplicado el tratamiento especializado por el personal capacitado; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a la policía investigadora y adoptar las medidas pertinentes cuando se presente\nalgún caso.\nmultidisciplinarias, para prevenir, identificar y canalizar los casos de violencia intrafamiliar."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Corresponde al Organismo Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Llevar a cabo el proceso de seguimiento control y evaluación del Programa Estatal para la Prevención y Atención de la Violencia Intrafamiliar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Incorporar a sus programas acciones de asistencia y prevención de la violencia intrafamiliar; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas y victimarios de la violencia intrafamiliar.\nmultidisciplinarias en comunidades de escasos recursos para prevenir, identificar y canalizar a las autoridades correspondientes, los casos de violencia intrafamiliar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DEL CONSEJO ESTATAL PARA LA PREVENCIÓN, ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR EN EL ESTADO",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "El Consejo Estatal Para la Prevención y Atención de la Violencia Intrafamiliar, se constituye como parte del Organismo Estatal para la planeación y apoyo normativo, de consulta, de evaluación, y de atención, respecto de las políticas y criterios generales, relativos a la prevención y atención de la violencia intrafamiliar, con autonomía técnica.\nLos fines del Consejo son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer las políticas públicas y los criterios rectores, relacionados con la prevención y atención de los asuntos sobre violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer las bases de modelos de atención y coordinación entre las instituciones del Estado y Municipios, en torno a la violencia intrafamiliar; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar y apoyar los trabajos de investigación y análisis relacionados con la violencia intrafamiliar."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El órgano rector del Consejo será la Junta de Gobierno, la cual se conformará por los titulares de las entidades y dependencias enumeradas a continuación, o por quienes estos designen:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, la cual lo presidirá y designará a un Director de dicha Secretaría para que funja como Secretario Técnico;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretaría del Sistema de Asistencia Social;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presidente del Organismo Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Secretaría de Educación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Secretaría de Salud;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Secretaría de Seguridad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fiscalía Estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Supremo Tribunal de Justicia del Poder Judicial del Estado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Comisión Estatal de Derechos Humanos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Procuraduría de Protección de Niñas, Niños y Adolescentes;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Hogar Cabañas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Tres especialistas en la materia propuestos por las instituciones de educación superior más representativas en el Estado, nombrados por el Presidente del Consejo, y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Tres representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia intrafamiliar, invitados anualmente con carácter de vocales mediante convocatoria del Presidente de la Junta de Gobierno."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Consejo Estatal para la Atención y Prevención de la Violencia Intrafamiliar promoverá la participación de los Ayuntamientos, quienes podrán apoyarlo en su respectivo ámbito de competencia. Cuando el caso lo requiera, los Ayuntamientos serán invitados a participar con derecho a voz y voto, a las sesiones del Consejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Los representantes de los organismos de las dependencias y entidades señaladas en los artículos anteriores, serán personas con el perfil adecuado para desempeñar el cargo, el cual será honorífico y dentro de sus funciones estará el dar seguimiento, control y evaluación de los programas y acciones concretas que determine el Consejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "El presidente del consejo podrá invitar a los servidores públicos que por sus funciones sea conveniente que asistan a las sesiones del consejo en calidad de invitados especiales, así como cualquier otra persona que por su conocimiento, prestigio, experiencia o cualquiera otra cualidad, se considere que pueda ser convocado a las sesiones del consejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "El Consejo sesionará, al menos una vez al mes, de manera ordinaria a convocatoria del Presidente o de manera extraordinaria a propuesta del Presidente o de cinco de los Consejeros. La convocatoria contendrá el orden del día y bastará que asistan el Presidente y la mayoría de los Consejeros acreditados para que pueda existir quórum, los acuerdos se tomarán por mayoría de votos, en caso de empate, el voto del presidente será de calidad.\nEn los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nlll. Se debe garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.\nLa convocatoria de la celebración de las sesiones a distancia, así como la redacción y la protocolización de las correspondientes actas, estarán sujetas a las mismas normas\nque rigen las sesiones presenciales, en lo que les sea aplicable.\nEn caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "El Consejo tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer los lineamientos administrativos y técnicos que permitan afrontar eficazmente la violencia intrafamiliar, así como aprobar los modelos de atención psicoterapéuticos y de salud más adecuados, elaborados previamente por el equipo técnico;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar el Programa Estatal para la Prevención y Atención de la Violencia Intrafamiliar, así como las adecuaciones propuestas por el equipo técnico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con la asesoría de un equipo técnico integrado por profesionistas con reconocida trayectoria y nombradas por el propio consejo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Convenir con los Ayuntamientos para que coadyuven a la realización de las finalidades de la presente Ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Crear y Operar las Unidades de Atención;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Coordinar la capacitación para los servidores públicos de las diferentes dependencias y entidades, a quienes corresponda la atención y prevención de la violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Incorporar programas de acción social desde el núcleo donde se genera la violencia intrafamiliar, incorporando a la sociedad organizada en la operación de los mismos, estableciendo y manteniendo vínculos de trabajo específico, intercambio de información y propuestas de modelos de atención;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover en coordinación con las instituciones especializadas, publicas y privadas, el estudio e investigación sobre violencia intrafamiliar en el Estado tendientes a incluir principios y procedimientos para abordar su (sic) prevenciones y solución, difundir los resultados que deriven de dichos estudios, así como avances logrados en el ámbito nacional e internacional;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la creación de un Patronato que auxilie al Consejo para la obtención de fondos financieros que permitan el fortalecimiento del presupuesto designado para el desarrollo de los programas y determinar las directrices y prioridades para el manejo de los recursos presupuestarios que le sean asignados al Consejo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar campañas publicitarias para la concientización de la población en general, acerca de los efectos de la violencia intrafamiliar y su prevención, mediante la elaboración, publicación y distribución de material informativo; así como contribuir a la difusión de la legislación que establece medidas para la no Violencia Intrafamiliar;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover la creación de instituciones privadas, fundaciones y asociaciones civiles para la atención y prevención de la violencia intrafamiliar, así como las instalaciones de albergues para víctimas de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Impulsar la formación de promotores comunitarios cuya función básica será estimular el programa Estatal de la Prevención y atención de la Violencia Intrafamiliar;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Realizar convenios de coordinación y colaboración vía Ejecutivo del Estado con los medios de comunicación a fin de que participen en la difusión de las acciones preventivas y asistenciales de esta Ley;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Vigilar la aplicación y cumplimiento del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar, derivado de esta Ley, así como recabar las opiniones de las unidades para tales efectos;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Evaluar trimestralmente los logros y avances del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Proponer al Organismo Estatal el nombramiento de los empleados del Consejo y sus Unidades; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Aprobar su reglamento interior."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "El Presidente del Consejo tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidir las sesiones del Consejo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Convocar al Consejo a las sesiones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer el orden del día y someterlo a consideración de los miembros del Consejo para su aprobación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Someter a la consideración del Consejo, los proyectos de actualización y ampliación del Programa Estatal para la Prevención y Atención de la Violencia Intrafamiliar;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Coordinar los trabajos de los integrantes del Consejo y recibir, atender y resolver los asuntos que le planteen cualesquiera de ellos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Vigilar el cumplimiento de los acuerdos del Consejo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir los informes de los organismos que atienden directamente los casos de violencia"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Elaborar y presentar un informe anual de actividades ante la Junta de Gobierno del Organismo Estatal y los miembros del Consejo; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás que le encomiende el Consejo y el Reglamento interior."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Son atribuciones del Director:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar los acuerdos y acciones que disponga el Consejo dentro del marco del Programa Permanente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser el Representante legal del Consejo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar y someter a la consideración del Presidente, el proyecto de calendario de sesiones del Consejo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Someter a consideración del Consejo a los profesionistas y técnicos que integren las unidades de atención;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Estar presente en todas las sesiones del Consejo, con derecho a voz y no voto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Levantar actas circunstanciadas de cada sesión y someterlas a votación para su aprobación en su caso;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Revisar los informes de los órganos o instituciones que conozcan casos de violencia intrafamiliar, y dar contestación a las cuestiones técnicas y consultas planteadas respecto de tema de su competencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Revisar y dictaminar acerca de los proyectos de convenios en que pueda ser parte el Consejo en materia de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Presentar al Consejo en forma periódica, informes y resultados de las acciones emprendidas dentro del marco del programa permanente;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Imponer las sanciones administrativas a través de las Unidades de Atención;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Llevar el registro de las personas físicas y organismos no gubernamentales invitados a participar en las sesiones del Consejo; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás funciones que le sean encomendadas, mediante acuerdo del Consejo y el reglamento interior."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Para ser Director General se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mayor de 25 años; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con título profesional preferentemente en psicología, derecho, trabajo social, o carrera afín."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "El Consejo Estatal en coordinación con el Sistema Municipal de Desarrollo Integral de la Familia procurará la integración de Consejos Municipales para la Prevención y Atención de la Violencia Intrafamiliar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DEL PROGRAMA ESTATAL PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "El Consejo, y los organismos públicos y privados involucrados en la prevención y atención de la violencia intrafamiliar, se coordinarán para la elaboración, aprobación y ejecución del Programa, que deberá comprender objetivos, metas, lineamientos, políticas públicas y cuando menos, las siguientes líneas de acción:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La formación y capacitación de personal para la prevención y atención de la violencia"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las estrategias generales y particulares para la prevención de la violencia intrafamiliar, incluyendo las orientaciones que deberá seguir la Campaña Permanente que se desarrolle para el efecto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La prestación de servicio de albergues para la atención de emergencias y tratamientos ordinarios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La creación de las Unidades de Atención y Seguimiento para la asistencia multidisciplinaria;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La instalación de líneas telefónicas para la atención ininterrumpida de emergencias relacionadas con casos de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La impartición de cursos de Escuela de Padres;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La integración de grupos de apoyo para sujetos generadores y receptores de violencia intrafamiliar; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los criterios de clasificación, investigación y uso de la estadística generada en el tratamiento de la violencia intrafamiliar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DE LAS ACCIONES PRIVADAS",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "El Estado incentivará todas las iniciativas del sector privado y social, con miras a la creación de centros o establecimientos de asistencia, habilitación y rehabilitación para la atención de la violencia intrafamiliar de conformidad por lo dispuesto por el Código de Asistencia Social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "El personal que atienda y dirija los centros o establecimientos, deberán acudir a capacitación que para el efecto impartan las autoridades.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DE LOS SERVIDORES PÚBLICOS",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "Siempre que un servidor público, interviniere en el uso de sus funciones, con cuestiones de violencia intrafamiliar, deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Informar a las personas de manera clara, sencilla y concreta sobre los servicios públicos o privados disponibles para la atención de violencia intrafamilar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Remitir de inmediato al Ministerio Público aquellos casos donde prevea la existencia de un delito;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Canalizarla de inmediato, dependiendo de su propia competencia, a alguna institución de salud, cuando acuda una persona que indique que ha sufrido golpes, heridas o cualquier daño físico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que se le sea proporcionada la ayuda urgente necesaria, así como también si la persona sólo expresa razonable temor, de sufrir agresiones probablemente graves en su persona o familiares; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Asistir a la capacitación correspondiente que en materia de violencia intrafamiliar se imparta.\nLa capacitación tendrá una estrategia que deberá estar dirigida a la prevención, sensibilización atención y comprensión de la complejidad de este fenómeno social."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Las instituciones, organismos e instancias públicas o privadas que conozcan o atiendan casos en los que sea presumible la existencia de violencia intrafamiliar, remitirán a la Secretaría Técnica del Consejo, reportes individualizados en los que se haga una exposición general del problema que les fue planteado, así como las acciones que se tomaron de forma inmediata. En tales informes también se podrá solicitar al Consejo apoyo para la solución del problema planteado, si este ha sido atendido. Tal apoyo podrá ser informativo, o de soporte técnico para la aplicación de los modelos de atención que en el caso de que se trate puedan ser aplicables. Todo esto, con el fin de que se pueda dar seguimiento a todos los casos de maltrato intrafamiliar que se registren por las autoridades del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I DE LA ATENCIÓN Y TRATAMIENTO ESPECIALIZADO",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "La atención de la violencia intrafamiliar tiene como finalidad salvaguardar la integridad y derechos de las personas receptoras y el tratamiento integral de las generadoras de la violencia intrafamiliar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "La atención especializada que se proporcione en materia de violencia intrafamiliar por cualquier institución, sea pública, o privada tendrá las siguientes características:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tenderá a la resolución de fondo del problema de la violencia intrafamiliar, respetando la dignidad y la diferencia de las partes involucradas, a través de acciones de tipo terapéutico, educativo y de protección;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Se basará en modelos psicoterapéuticos adecuados y específicos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II UNIDADES DE ATENCIÓN",
+        "Artículos": [
+          {
+            "Artículo": 32,
+            "Texto": "- Las unidades de atención se constituyen como órganos administrativos del\nConsejo, y tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar acciones y programas de prevención, protección y atención a las personas receptoras de violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conocer de los métodos alternos para la prevención y en su caso la solución de conflictos, de conformidad con la Ley de Justicia Alternativa del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aplicar medidas de apremio y sanciones administrativas cuando procedan;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Denunciar los hechos de violencia intrafamiliar de los que tenga conocimiento, que ameriten la intervención del Ministerio Público;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Canalizar a las personas víctimas de violencia intrafamiliar a las defensorías de oficio para que reciban la asistencia necesaria;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Atender con modelos psicoterapéuticos a las personas receptoras y generadoras de violencia, para prevenir y erradicar esta conducta;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Procurar atención, o en su caso canalizar a las clínicas de salud o centros hospitalarios, a las víctimas de violencia intrafamiliar que requieran atención médica;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Llevar un registro con la información obligatoria de quienes afrontan violencia intrafamiliar; características sociodemográficas de los actores del hecho, estructura de la familia, forma de la violencia denunciada, medidas adoptadas, curso y evaluación del tratamiento; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Difundir mediante campañas que establezca el Consejo, la importancia en la prevención y atención de la violencia intrafamiliar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "- El procedimiento que se siga ante las unidades deberá ser breve, sencillo y gratuito, sólo estará sujeto a las mínimas formalidades que se requieran para el trámite de la queja y la investigación de los hechos privilegiando la conciliación.\nEl procedimiento se iniciará con una queja, que no requiere de ningún requisito de formalidad.\nLos procedimientos previstos en el presente capítulo no son requisito previo para llevar a cabo cualquier servicio asistencial o procedimiento jurisdiccional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- Las unidades de atención deberán conocer, tramitar y resolver a través del procedimiento previsto en el presente capítulo, los asuntos que sean de su conocimiento y constituyan conflictos de violencia intrafamiliar.\nTodo el personal de las instituciones involucradas en la prevención y atención de la violencia intrafamiliar, deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrán ser consultados por quienes intervengan en ellos, sus apoderados, y el Consejo, al que se le deberán mandar los informes a que se refiere este (sic) Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "La dirección y el impulso de los procesos o procedimientos corresponde a quienes deben instruirlos, para cuyo efecto cuidarán de su rápida tramitación, sin perjuicio de la garantía de audiencia que corresponda a las personas interesadas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II PRESENTACIÓN DE LA QUEJA",
+        "Artículos": [
+          {
+            "Artículo": 36,
+            "Texto": "Están legitimados para presentar las quejas e iniciar el procedimiento ante las instancias competentes, la víctima, un familiar, vecino o cualquier otra persona, quien bajo protesta de decir verdad presentará su queja o denuncia por escrito o comparecencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "Los procedimientos y métodos alternos para la prevención y en su caso la solución de conflictos, se llevarán a cabo de conformidad con la Ley de Justicia Alternativa del Estado de Jalisco. Las unidades en un término no mayor de 48 horas deberán conocer de la existencia de la situación de violencia intrafamiliar, pudiendo citar a las siguientes personas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El receptor de la violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El generador de la violencia intrafamiliar;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cualquier miembro de la familia; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los maestros y directivos de las instituciones educativas, así como los Médicos, y directores de instituciones hospitalarios, cuando con motivos (sic) de su actividad, detecten cualquier circunstancia que haga presumible la existencia de violencia intrafamiliar.\nLas unidades que conozcan de estos asuntos deberán garantizar el derecho de los menores a ser escuchados y a tomar en cuenta su opinión, haciéndoles saber en un lenguaje claro y comprensible, acorde con su edad y madurez, cuáles son sus derechos.\nDichas unidades podrán recabar oficiosamente la opinión de los menores cuando lo consideren necesario y sea posible, haciéndoles saber los derechos que les otorga la ley, de la manera prevista en el párrafo anterior.\nLas unidades podrán solicitar el apoyo de cualquier institución a fin de estar asesoradas en el momento que se recabe la opinión de los menores.\nEn todos los casos deberá darse intervención a la Procuraduría de Protección de Niñas, Niños y Adolescentes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DEL TRÁMITE Y RESOLUCIÓN DE LOS CONFLICTOS EN VIOLENCIA INTRAFAMILIAR",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "Las unidades de atención serán las competentes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Para el conocimiento, trámite y resolución de los conflictos en materia de violencia intrafamiliar de conformidad con la Ley de Justicia Alternativa del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En estos casos el procedimiento lo instruirá el Titular de la Unidad de Atención, quien podrá delegar su atención, a los integrantes de la Unidad, preferentemente a quienes cuenten con especializaciones en psicología o psiquiatría; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Quienes medien, o concilien, podrán auxiliarse de quienes conforman el equipo técnico interdisciplinario de la Unidad, o solo a aquellos cuya opinión estime necesaria."
+              }
+            ]
+          },
+          {
+            "Artículo": 39,
+            "Texto": "La información suministrada será mantenida en estricta confidencialidad, así como el nombre de la persona informante, mientras no sea legalmente necesario revelar su identidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "En los casos en que se considere que una persona es generadora de violencia intrafamiliar, sea por la vía administrativa o jurisdiccional, se podrá establecer en los convenios, el sometimiento al programa de terapia familiar aprobado por el Consejo. También podrá ordenársele, en su caso, participación concurrente en programas de rehabilitación por el consumo de alcohol u otras drogas.\nEl término de los programas se fijará tomando en consideración los resultados de las terapias, previa evaluación.\nLas unidades deberán informar a la Procuraduría de Protección de Niñas, Niños y Adolescentes el seguimiento y cumplimiento a sus determinaciones para la prevención y solución a los conflictos de violencia intrafamiliar. De acuerdo a la naturaleza y gravedad del caso, las unidades deberán dar vista a la Fiscalía del Estado para los efectos legales conducentes, de conformidad con el artículo 32 fracción IV de la presente Ley.\nLas unidades deberán vigilar el cumplimiento de sus resoluciones para dar solución a los conflictos de violencia intrafamiliar, y no podrán dar por concluido ni archivar ningún asunto, sin antes dictar acuerdo en el que verifiquen que se les dio cumplimiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV MEDIDAS EMERGENTES",
+        "Artículos": [
+          {
+            "Artículo": 45,
+            "Texto": "Los titulares de las Unidades de Atención, en caso de urgencia, informados de una situación de violencia intrafamiliar o requeridos al efecto, adoptarán las medidas que estimen convenientes, según la gravedad del caso, incluyendo la hospitalización y el tratamiento médico, psicoterapéutico y rehabilitación de la persona receptora de la violencia intrafamiliar, así como aquellas para prevenir la repetición de los hechos de la violencia intrafamiliar, para tal fin contarán con el apoyo de los organismos competentes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO INFRACCIONES Y SANCIONES",
+        "Artículos": [
+          {
+            "Artículo": 46,
+            "Texto": "Se considerarán infracciones a la presente ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "No asistir sin causa justificada a los citatorios que formulen las autoridades competentes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El incumplimiento al convenio derivado de los procedimientos de conciliación; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las faltas graves cometidas en el desarrollo de las audiencias en las cuales procederá arresto administrativo de hasta treinta y seis horas."
+              }
+            ]
+          },
+          {
+            "Artículo": 47,
+            "Texto": "Las sanciones aplicables a las infracciones previstas en el artículo anterior serán reguladas por el reglamento, y podrán ser:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Apercibimiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Arresto hasta por treinta y seis horas, en el caso de faltas graves cometidas durante el desarrollo de la audiencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 48,
+            "Texto": "Cuando las autoridades, dependencias y entidades y servidores públicos de los poderes estatales y gobiernos municipales no cumplan con lo señalado en este ordenamiento legal y disposiciones reglamentarias serán sancionadas con conformidad en las disposiciones contenidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se deroga el Libro Sexto del Código de Asistencia Social para el Estado de Jalisco, así como todas las disposiciones que se opongan a la presente Ley .\n\nSe derogan todas las disposiciones que se opongan al presente decreto.\n\nEn todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Los procedimientos iniciados en la vigencia del Libro Sexto del Código de de (sic) Asistencia Social para el Estado de Jalisco, se seguirán conforme al mismo hasta agotar las instancias correspondientes.\n\nEl Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Una vez entrada en vigor la presente ley, el titular del poder Ejecutivo del Estado deberá, en un plazo de 90 días naturales, expedir el reglamento de la Ley para la Prevención y Atención de la Violencia Intrafamiliar para el Estado de Jalisco.\n\nEl Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la\ncreación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.\n\nA partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.\nTRANSITORIO CON DECRETO 27373/LXII/21",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "La instalación del nuevo Consejo Estatal se efectuará, 30 días una vez entrada en vigor la presente Ley.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 4 de diciembre del 2003\nDiputado Presidente Leobardo Treviño Marroquín\nDiputado Secretario Ignacio Bañuelos Valera\nDiputado Secretario Miguel Ángel Monraz Ibarra\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 09 nueve días del mes de diciembre de 2003 dos mil tres.\nEl Gobernador Constitucional del Estado Lic. Francisco Javier Ramírez Acuña\nEl Secretario General de Gobierno Lic. Héctor Pérez Plazola\nARTÍCULOS TRANSITORIOS DEL DECRETO 22219\n\nEl Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán a cabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.\nARTÍCULO TRANSITORIOS DEL DECRETO 22747",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercera",
+            "Texto": "En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Único",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\nTABLA DE REFORMAS Y ADICIONES\nFe de erratas.-Feb. 26 de 2004. Sec. IV.\nDecreto 22219/LVIII/08.- Crea la Ley de Acceso de las Mujeres a una vida libre de Violencia del Estado de Jalisco; reforma la Ley Orgánica del Poder Ejecutivo, Ley del Gobierno y la Administración Pública Municipal, Ley del Instituto Jalisciense de las Mujeres, Código Civil, Código de Procedimientos Civiles, Código Penal, Código de Procedimientos Penales, Ley de Responsabilidades de los Servidores Públicos, Ley de Educación, Ley de los Derechos de las Niñas, los Niños y Adolescentes, Ley para la Prevención y Atención de la Violencia Intrafamiliar y Ley Orgánica de la Procuraduría General de Justicia, todas del Estado de Jalisco.-May.27 de 2008. Sec. II.\nDecreto 22747/LVIII/09.- Reforma el artículo 15 de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.-Oct. 24 de 2009. Sec. V.\nDecreto 24914/LX/14.- Se reforman los artículos 3 fracción I incisos a) y e), 7 primer párrafo, 11 y 15 fracciones I y VI; y se deroga el inciso f) de la fracción I del artículo 3, el artículo 12 y la fracción VII del artículo 15, de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.- Ago. 9 de 2014 sec. II.\nDecreto 25840/LXI/16.- Artículo cuadragésimo segundo, se reforma el artículo 47 de la Ley\npara la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.- Oct. 11 de 2016 sec. V.\nAL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16. Oct. 11 de 2016 sec. VI.\nDecreto 27321/LXII/19.- Se reforman los artículos 3, 7, 11, 12, 15 y 48 de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.- Ago. 29 de 2019 sec. II.\nDecreto 27373/LXII/19.- Se reforman los artículos 37 y 44 de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco; Se reforman los artículos 227 y 721 ter del Código de Procedimientos Civiles del Estado de Jalisco y se reforman los artículos 56 y 81 de la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.- Oct. 19 de 2019 sec. XIII.\nDecreto 28405/LXII/21.- Se reforma el artículo 19 de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.- Jul. 6 de 2021. Secc. IV.\nDecreto 29533/LXIII/24.- Se reforman los artículos 7, 10, 12 Y 13 de la Ley para la Prevención y Atención de la Violencia Intrafamiliar del Estado de Jalisco.- Mar. 9 de 2024, sec. IV.\nLEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO\nAPROBACION: 4 DE DICIEMBRE DE 2003.\nPUBLICACION: 18 DE DICIEMBRE DE 2003 SECCION LXX.\nVIGENCIA: 19 DE DICIEMBRE DE 2003.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

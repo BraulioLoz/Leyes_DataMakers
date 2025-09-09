@@ -1,0 +1,22 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 17,
+  "n_perm_fracciones": 90,
+  "n_trans_caps": 1,
+  "n_trans_articles": 13,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único Objeto y definiciones",
+    "Capítulo I Atribuciones",
+    "Capítulo II Organización del Organismo",
+    "Sección I De la Junta de Gobierno",
+    "Sección II De la Dirección General",
+    "Sección III Del Órgano Interno de Control",
+    "Capítulo III Del Patrimonio",
+    "Capítulo IV Del Régimen Laboral"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 3
+  }
+}

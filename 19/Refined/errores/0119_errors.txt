@@ -1,0 +1,8 @@
+Errores y advertencias para: 0119.txt
+==================================================
+
+Ubicación: line 41
+Tipo: warning
+Mensaje: Capitulo sin sufijo válido (línea ignorada)
+Línea: CAPÍTULO ll DE LAS ATRIBUCIONES DE LA SECRETARÍA DE TURISMO
+------------------------------

@@ -1,0 +1,8 @@
+Errores y advertencias para: 0075.txt
+==================================================
+
+Ubicación: line 515
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 93 a 95
+Línea: Artículo 95. En el tratamiento de datos personales así como en el uso de las bases de datos para su almacenamiento, que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y administración de justicia deberá cumplir con los principios establecidos en el Título Segundo de la presente Ley.
+------------------------------

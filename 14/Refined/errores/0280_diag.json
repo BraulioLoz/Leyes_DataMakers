@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 45,
+  "n_perm_fracciones": 170,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 3,
+  "chapter_labels": [
+    "Capítulo Primero. Disposiciones Generales.",
+    "Capítulo Segundo De las Autoridades Responsables",
+    "Capítulo Tercero Del Procedimiento de Regularización",
+    "Capítulo Cuarto De la Titulación de Predios o Lotes"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 22,
+  "n_perm_fracciones": 21,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPITULO II De los distintos honores",
+    "CAPÍTULO III De la Integración del Expediente y la Declaración de Beneméritos",
+    "CAPÍTULO IV De la Comisión para Honrar la Memoria de las personas Beneméritas del Estado de Jalisco"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

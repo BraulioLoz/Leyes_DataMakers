@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 32,
+  "n_perm_fracciones": 71,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales",
+    "Capítulo II De la distribución de competencias",
+    "Capítulo III De las bibliotecas",
+    "Capítulo IV",
+    "Capítulo V Del Sistema Estatal de Bibliotecas"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

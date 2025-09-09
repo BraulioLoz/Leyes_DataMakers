@@ -1,0 +1,869 @@
+{
+  "ley": "Ley para la Mejora Regulatoria y la Simplificación Administrativa del Estado de Nuevo León",
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "sufijo": "PRIMERO",
+      "nombre": "DE LA MEJORA REGULATORIA",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "ÚNICO",
+          "nombre": "DE LAS DISPOSICIONES GENERALES, OBJETO, ÁMBITO DE APLICACIÓN Y SUJETOS OBLIGADOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "1",
+              "nota": [],
+              "contenido": "La presente Ley tiene como objetivo crear el Sistema Estatal de Mejora Regulatoria, así como establecer las disposiciones y los principios rectores de mejora regulatoria y simplificación administrativa a las que deben de sujetarse la Administración Pública Estatal, así como las bases generales concernientes a la Administración Pública Municipal, a través de la coordinación de acciones entre las autoridades y los sectores social y privado, procurando el uso de las tecnologías de la información, a fin de permitir el desarrollo económico del Estado, con base en principios de máxima eficacia y transparencia gubernamental.\nAl efecto, esta Ley ordena la creación de un Catálogo Estatal de Trámites y Servicios que incluya todos los trámites y servicios estatales y municipales, sus requisitos, costos y términos de duración, con el objetivo de generar seguridad jurídica y facilitar su\ncumplimiento mediante el uso de las tecnologías de la información. La inscripción en el Catálogo y su actualización será obligatoria."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "2",
+              "nota": [],
+              "contenido": "Las disposiciones de esta Ley son de orden público y de observancia general en el Estado de Nuevo León y sus Municipios, reglamentaria del noveno párrafo del artículo 24 de la Constitución Política del Estado Libre y Soberano de Nuevo León, obligatorio para todas las autoridades, entidades, órganos u organismos gubernamentales del ámbito estatal y municipal en sus respectivos ámbitos de competencia.\nDichas disposiciones deberán ser publicadas por los sujetos obligados en el Periódico Oficial del Estado.\nEl seguimiento e implementación de la Ley corresponde al Consejo Estatal de Mejora Regulatoria, a la Comisión Estatal de Mejora Regulatoria, Poder Judicial, Poder Legislativo y a las Comisiones Municipales de Mejora Regulatoria, en el ámbito de sus respectivas competencias.\n(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017) Se exceptúa la aplicación de esta Ley a las materias fiscales, en lo correspondiente al monto o tasas de los gravámenes, laboral, de responsabilidad de los servidores públicos, de justicia administrativa, de seguridad pública, el Sistema Estatal Anticorrupción, las Leyes establecidas en el artículo 152 de la Constitución Política del Estado Libre y Soberano de Nuevo León, el cumplimiento a sentencias dictadas por autoridades judiciales, las obligaciones que deriven de leyes federales, y al Ministerio Público en ejercicio de sus atribuciones constitucionales; así como a los trámites, servicios y actos administrativos que deriven de Programas Federales, en cuyo caso, se deberá aplicar la normatividad correspondiente.\n(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017) La presente Ley, no será́ aplicable en los procedimientos administrativos que se llevan en forma de juicio, Tribunal de Justicia Administrativa, Juicios Laborales ante la Junta de Conciliación y Arbitraje, Procedimientos de Responsabilidad de Servidores Públicos ante la Contraloría y Transparencia Gubernamental, Procedimiento de Arbitraje Médico ante la Comisión Estatal de Arbitraje Médico, Ministerio Público en ejercicio de sus atribuciones constitucionales."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "3",
+              "nota": [],
+              "contenido": "Para los efectos de esta Ley, se entiende por:\nI. Agenda común: La Agenda Común de Mejora Regulatoria, que es el instrumento que busca generar políticas públicas integrales en materia de mejora regulatoria entre el Gobierno Federal, los gobiernos de las entidades federativas, los municipios, y los órganos y organismos constitucionalmente autónomos;\nII. Análisis: El Análisis de Impacto Regulatorio;\nIII. Catálogo: El Catálogo Estatal de Trámites y Servicios;\nIV. Catálogo Municipal: El Catálogo de trámites y servicios municipales;\nV. Catálogo Nacional: El que defina la Ley General correspondiente;\nVI. COFEMER: La Comisión Federal de Mejora Regulatoria;\nVII. Comisión: La Comisión Estatal de Mejora Regulatoria o equivalente en el estado;\nVIII. Comisión Municipal: La Comisión Municipal de Mejora Regulatoria o equivalente en el municipio;\nIX. Consejo: El Consejo Estatal de Mejora Regulatoria;\nX. Derogada. (P.O. 08 DE JUNIO DE 2020)\nXI. Dependencias: Las mencionadas en la Ley Orgánica de la Administración Pública del Estado de Nuevo León;\nXII. Director: El Director General de la Comisión o puesto equivalente en el estado;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) XIII. Disposiciones de Carácter General: Los Reglamentos, Decretos, Acuerdos, normas, circulares y formatos, así como los lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y disposiciones que tengan por objeto establecer obligaciones específicas que impliquen costos de cumplimiento para los particulares, que expidan los Sujetos Obligados; con excepción de las que expida el Poder Legislativo;\nXIV. Enlace Oficial: Es el servidor público designado por los Titulares de los Sujetos Obligados con nivel jerárquico de Director o superior;\nXV. Entidades: Las mencionadas en la Ley Orgánica de la Administración Pública del Estado de Nuevo León;\nXVI. Estado: El Estado de Nuevo León;\nXVII. Inventario: El Inventario Regulatorio Electrónico;\nXVIII. Ley: La Ley para la Mejora Regulatoria y Simplificación Administrativa del Estado y Municipios de Nuevo León;\nXIX. Padrón: El Padrón Único de Inspectores y Verificadores;\nXX. Periódico Oficial.- El Periódico Oficial del Estado de Nuevo León;\nXXI. Plataforma: El sistema informático;\nXXII. Programa Anual: El Programa Anual de Mejora Regulatoria;\nXXIII. Propuesta Regulatoria: La Propuestas o proyectos de Leyes y disposiciones de carácter general que pretendan emitir cualquiera de los Sujetos Obligados, y que se presenten a la consideración de la a la consideración de la Comisión, a la Comisión Municipal o cualquier otra instancia en los términos de esta Ley;\nXXIV. Registro: El Registro de Expediente Electrónico;\nXXV. Reglamento: El Reglamento de la Ley;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) XXVI. Regulación: Las iniciativas de Ley que se presenten en el Congreso del Estado por parte del Poder Ejecutivo y cualesquier disposición de carácter general que emita el Ejecutivo del Estado;\nXXVII. SARE: El Sistema de Apertura Rápida de Empresas;\nXXVIII. Servidores públicos: Los mencionados en el párrafo primero del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nuevo León;\nXXIX. Servicio: La actividad que brinda un Sujeto Obligado de carácter potestativo, general, material o no material, continuo y disponible para personas físicas o morales del sector privado que tienen por objeto satisfacer una necesidad pública;\nXXX. Sistema: El Sistema Estatal de Mejora Regulatoria;\nXXXI. Sujetos obligados: Los mencionados en el primer párrafo del artículo 2 de la presente Ley;\na) Poder Ejecutivo: Las dependencias y entidades de la administración pública central y paraestatal;\nb) Poder Legislativo;\nc) Poder Judicial;\nd) Los Municipios, incluyendo sus dependencias, organismos desconcentrados, organismos descentralizados, empresas de participación municipal y sus fideicomisos;\ne) Cualquier otro órgano o autoridad estatal o municipal;\nXXXII. Trámite: A cualquier solicitud o entrega de información que las personas físicas o morales del sector privado hagan ante una dependencia u organismo descentralizado, ya sea para cumplir una obligación, obtener un beneficio, en general, a fin de que se emita una resolución, así como cualquier documento que dichas personas estén obligadas a conservar, no comprendiéndose aquella documentación o información que sólo tenga que presentarse en caso de un requerimiento de una dependencia u organismo descentralizado; y\nXXXIII. Página oficial: Portal en internet de los sujetos obligados;\nXXXIV. VUC: La Ventanilla Única de Construcción; y\nXXXV. VUMAT: Ventanilla Única Municipal de Atención a trámites ciudadanos."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "4",
+              "nota": [],
+              "contenido": "La mejora regulatoria se orientará por los principios, que a continuación se enuncian, sin que el orden dispuesto implique necesariamente una prelación entre los mismos:\nI. Mayores beneficios que costos para la sociedad;\nII. Seguridad jurídica que propicie la claridad de derechos y obligaciones;\nIII. Simplicidad y no duplicidad en la emisión de normas, trámites y procedimientos administrativos;\nIV. Uso de tecnologías de la información;\nV. Prevención razonable de riesgos;\nVI. Transparencia y rendición de cuentas;\nVII. Fomento a la competitividad y el empleo;\nVIII. Promoción de la libre concurrencia y competencia económica, así como del funcionamiento eficiente de los mercados;\nIX. Acceso no discriminatorio a insumos esenciales e interconexión efectiva entre redes;\nX. Reconocimiento de asimetrías en el cumplimiento regulatorio; y\nXI. Todos aquellos afines al objeto de esta Ley.\nEn caso de conflicto entre estos principios, los órganos responsables de expedir la regulación deberán ponderar los valores jurídicos tutelados a que se refiere este precepto y explicitar los criterios de decisión que subyacen a la regulación propuesta."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "5",
+              "nota": [],
+              "contenido": "Son objetivos de la política de mejora regulatoria, a través de la presente Ley lograr:\nI. Conformar, regular la organización y el funcionamiento del Sistema, así como establecer las bases de coordinación entre sus integrantes regido por los principios establecidos en el artículo 4;\nII. Asegurar la aplicación de los principios señalados en el artículo 4;\nIII. Promover la eficacia y eficiencia gubernamental en todos sus ámbitos;\nIV. Fomentar el desarrollo socioeconómico y la competitividad de la entidad;\nV. Simplificar la apertura, instalación, operación y ampliación de empresas, mejorando el ambiente de negocios;\nVI. Procurar que las Leyes y disposiciones de carácter general que se expidan generen beneficios superiores a los costos, no impongan barreras a la competencia y a la libre concurrencia, y produzcan el máximo bienestar para la sociedad;\nVII. Modernizar y agilizar los procedimientos administrativos que realizan los Sujetos Obligados, en beneficio de la población del Estado;\nVIII. Generar seguridad jurídica y transparencia en la elaboración y aplicación de las regulaciones;\nIX. Fomentar una cultura de gestión gubernamental para la atención del ciudadano;\nX. Establecer los mecanismos de coordinación y participación entre los Sujetos Obligados en materia de mejora regulatoria;\nXI. Promover la participación de los sectores social y privado en la mejora regulatoria;\nXII. Facilitar y garantizar a los particulares el ejercicio de los derechos y el cumplimiento de sus obligaciones;\nXIII. Armonizar la reglamentación municipal en el Estado, y homologar la misma dentro del área metropolitana y en la medida de lo posible al resto de los municipios;\nXIV. Fomentar el conocimiento por parte de la sociedad de la normatividad estatal y municipal;\nXV. Coadyuvar en las acciones para reducir la carga administrativa derivada de los requerimientos y procedimientos establecidos por parte de las autoridades administrativas del Estado;\nXVI. Coordinar y armonizar en su caso, las Políticas estatales y municipales de requerimientos de información y prácticas administrativas, a fin de elevar la eficiencia y productividad tanto de la administración pública estatal como de la municipal; y\nXVII. Priorizar y diferenciar los requisitos y trámites para el establecimiento de nuevas empresas y funcionamiento de las empresas preexistentes, según la naturaleza de su actividad económica considerando su tamaño, la rentabilidad social, la ubicación en zonas de atención prioritaria, así como otras características relevantes para el municipio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "SEGUNDO",
+      "nombre": "DEL SISTEMA ESTATAL DE MEJORA REGULATORIA",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "PRIMERO",
+          "nombre": "DE LOS OBJETIVOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "6",
+              "nota": [],
+              "contenido": "Para los efectos de esta Ley, se establece el Sistema Estatal de Mejora Regulatoria como un conjunto de normas, órganos, instrumentos, métodos y procedimientos que proporcionen una herramienta eficaz y eficiente que incluyen y coordinan la intervención de las Dependencias, Entidades y organismos de los sectores\npúblico, privado y social, tendientes a propiciar la desregulación, revisión, construcción o reconstrucción y mejora continua de los procedimientos para realizar trámites o para obtener servicios, así como realizar el análisis, adecuación o fortalecimiento del marco regulatorio de la Administración Pública del Estado y para la simplificación administrativa en beneficio de los ciudadanos de Nuevo León.\nEl Sistema Estatal de Mejora Regulatoria tendrá los siguientes objetivos:\nI. Optimizar y velar por el estricto cumplimiento del marco regulatorio estatal para dar una respuesta oportuna y de calidad a los Servicios que demanda la población y los diversos sectores de la sociedad;\nII. Fomentar la adopción y aplicación de la estrategia de gobierno electrónico entre los diversos órdenes de gobierno y poderes del Estado de conformidad a la legislación aplicable;\nIII. Promover la participación de los sectores económicos y sociales en la desregulación, modernización y simplificación de la Administración Pública Estatal y Municipal;\nIV. Simplificar trámites que se realicen ante las Dependencias y Entidades de la Administración Pública del Estado y los municipios para lo cual habrá de revisarse el catálogo al menos una vez al año;\nV. Asegurar la calidad y eficiencia de la regulación y transparencia en la elaboración de Trámites y Servicios Administrativos; y\nVI. Consolidar una mejora regulatoria basada en análisis, la transparencia y la consulta pública."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "7",
+              "nota": [],
+              "contenido": "El Sistema contará con los siguientes órganos:\nI. El Consejo;\nII. La Comisión;\nIII. Las Comisiones o áreas equivalentes de los poderes Legislativo y Judicial;\nIV. Las Comisiones Municipales;\nV. Los demás que se establezcan en esta Ley y otras disposiciones aplicables."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "8",
+              "nota": [],
+              "contenido": "El Consejo es el órgano responsable de coordinar la Política de mejora regulatoria y simplificación administrativa de los Poderes del Estado y de sus municipios."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "9",
+              "nota": [],
+              "contenido": "El Consejo estará integrado de la siguiente manera:\nI. El Gobernador del Estado, quien será el presidente;\n(REFORMADA, P.O. 08 DE JUNIO DE 2020) II. Titular de la Oficina Ejecutiva;\nIII. El Secretario de Economía y Trabajo;\nIV. Tres presidentes municipales de la Entidad, dos del área metropolitana y uno del resto del Estado, quienes durarán en su encargo al menos por un año, pudiendo ser ratificados sin limitación;\nV. Un representante de la Comisión Federal de Mejora Regulatoria;\nVI. Dos representantes de universidades o centros de estudios reconocidos en el Estado;\nVII. Dos Presidentes de Cámaras y Asociaciones legalmente constituidas y asentadas en el Estado;\nVIII. El Presidente del Colegio de Notarios del Estado;\nIX. Un representante del Colegio de Corredores Públicos de la Plaza de Nuevo León;\nX. El Titular de la Comisión, quien fungirá como Secretario Técnico;\nXI. Un Representante del Poder Judicial;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) XII. Tres representantes del Congreso del Estado;\nXIII. Presidente de la Comisión de Transparencia y Acceso a la Información Pública; y\nXIV. Dos ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, al desarrollo económico o social de la localidad propuestos por miembros del Consejo y aprobados por el Presidente del mismo en sesión del pleno.\n(REFORMADO, P.O. 08 DE JUNIO DE 2020) El Presidente del Consejo será suplido en sus ausencias por el Secretario de Economía y Trabajo.\nPor cada miembro propietario, el titular deberá nombrar un suplente, debiendo enviar por escrito dirigido al Secretario Técnico el documento en el que informe de su designación."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "10",
+              "nota": [],
+              "contenido": "El Consejo tendrá las siguientes atribuciones:\nI. El establecimiento de bases y principios para la efectiva coordinación entre los distintos órdenes de gobierno en materia de mejora regulatoria y simplificación administrativa;\nII. El diseño y promoción de políticas integrales en materia de mejora regulatoria y simplificación administrativa;\nIII. La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre esta materia generen las instituciones competentes de los distintos órdenes de gobierno;\nIV. El establecimiento de mecanismos de coordinación para la implementación y operación de la mejora regulatoria con los municipios;\nV. Establecer la representación de los municipios en los términos reglamentarios que se establezcan;\nVI. Aprobar, a propuesta de la Comisión, el Programa Estatal;\nVII. Conocer de los informes e indicadores de los Programas de mejora regulatoria y simplificación administrativa de las dependencias y organismos del Poder Ejecutivo, en los términos de esta Ley a través de la Comisión;\nVIII. Promover el uso de metodologías, instrumentos, programas y las mejores prácticas nacionales e internacionales en materia de mejora regulatoria;\nIX. Identificar problemáticas regulatorias que incidan en la competitividad o el desarrollo económico y social de la Entidad, emitir recomendaciones vinculatorias para los miembros del Sistema y aprobar programas especiales, sectoriales o regionales de mejora regulatoria;\nX. Establecer lineamientos para el diseño, sustanciación y resolución de trámites y procedimientos administrativos con base en los principios y objetivos de esta Ley;\nXI. Crear grupos ciudadanos de trabajo especializados para la consecución de los objetivos de esta Ley, de acuerdo a los términos reglamentarios que se establezcan;\nXII. Establecer los mecanismos de monitoreo y evaluación mediante los indicadores que servirán para supervisar el avance del Programa Estatal;\nXIII. Desarrollar y proponer su reglamento interior al titular del Ejecutivo Estatal; y\nXIV. Los demás que establezca esta Ley u otras disposiciones aplicables.\nMediante el Consejo se fijarán prioridades, objetivos, estrategias, indicadores, metas, e instancias de coordinación en materia de mejora regulatoria y simplificación administrativa, así como los criterios de monitoreo y evaluación de la regulación en los términos reglamentarios que establezca el propio Consejo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "11",
+              "nota": [],
+              "contenido": "El Consejo sesionará de forma ordinaria cuando menos tres veces al año y de forma extraordinaria las veces que sean necesarias a juicio del Presidente o del Secretario suplente responsable del tema, previa convocatoria del Secretario Técnico con una anticipación de cinco días hábiles en el caso de las ordinarias y de dos días hábiles en el caso de las extraordinarias, misma que deberá de realizarse por escrito y entregarse en el domicilio y/o correo electrónico registrado de los miembros en términos de la legislación aplicable en la entidad.\n(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)\nEl Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por medio de las dos terceras partes de los miembros asistentes.\n(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2017) De cada sesión se levantará un acta en la cual se asentará una síntesis de las discusiones y de los acuerdos tomados por el Consejo. Las actas deberán ser firmadas por los miembros del Consejo que hayan asistido a la sesión correspondiente.\n(REFORMADO, P.O. 08 DE JUNIO DE 2020)"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "12",
+              "nota": [],
+              "contenido": "La Comisión es un órgano desconcentrado de la Secretaria de Economía y Trabajo, dotada de autonomía técnica, operativa y de gestión, encargada de implementar la Política Publica en la materia."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "13",
+              "nota": [],
+              "contenido": "La Comisión tendrá las siguientes atribuciones:\nI. Coordinar la operación del Consejo, y el seguimiento de sus acuerdos;\nII. Elaborar las prioridades, objetivos, estrategias y metas del Programa Estatal y someterlos a la aprobación del Consejo;\nIII. Desarrollar y monitorear el sistema de indicadores que, en el marco del Programa Estatal y previa aprobación del Consejo, permitan conocer el avance de la mejora regulatoria en la entidad;\nIV. Proponer al Consejo recomendaciones que requieran acción inmediata, derivada de la identificación de problemáticas regulatorias que incidan en la competitividad o el desarrollo social y económico de la entidad;\nV. Establecer, operar y administrar el Catálogo;\nVI. Elaborar y someter a la aprobación del Consejo los lineamientos para la elaboración, presentación y recepción de los Programas de mejora regulatoria y simplificación administrativa;\nVII. Elaborar y presentar al Consejo informes e indicadores sobre los Programas Anuales;\nVIII. Revisar el marco regulatorio estatal, diagnosticar su aplicación e implementar programas específicos de mejora regulatoria en las dependencias y organismos del Poder Ejecutivo;\nIX. Ejecutar las acciones derivadas del Programa Estatal;\nX. Elaborar y presentar los lineamientos ante el Consejo, para recibir y dictaminar las propuestas de nuevas regulaciones, disposiciones de carácter general y/o de reforma específica, así como los Análisis que envíen a la Comisión los sujetos obligados;\nXI. Promover el uso de tecnologías de información para la sustanciación y resolución de trámites y procedimientos administrativos de conformidad con los principios y objetivos de esta Ley y demás disposiciones legales aplicables;\nXII. Promover y facilitar los mecanismos de apertura rápida de empresas a través del Programa Federal SARE;\nXIII. Brindar asesoría técnica y capacitación en materia de mejora regulatoria a dependencias y organismos del Poder Ejecutivo y de los municipios;\nXIV. Celebrar convenios de coordinación con los órganos públicos de los tres órdenes de gobierno, en el ámbito que corresponda, para asegurar la ejecución del Programa Estatal;\nXV. Convocar a las personas, instituciones y representantes de los organismos internacionales, empresariales, académicos, gubernamentales o sociales que puedan aportar conocimientos y experiencias para el cumplimiento de los objetivos de la mejora regulatoria y la simplificación administrativa; y\nXVI. Las demás que le otorguen esta Ley u otras disposiciones aplicables."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "14",
+              "nota": [],
+              "contenido": "El Titular de la Comisión será nombrado por el Gobernador del Estado, quien cumplirá con los siguientes requisitos:\nI. Ser ciudadano mexicano;\nII. Poseer título profesional en economía, derecho, administración u otras materias afines a esta Ley;\nIII. Tener experiencia directiva en materia de regulación, economía, Políticas Públicas o materias afines al objeto de la Ley; y\nIV. Contar con un desempeño profesional destacado y gozar de buena reputación."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "15",
+              "nota": [],
+              "contenido": "El Titular tendrá las siguientes atribuciones:\nI. Dirigir, técnica y administrativamente a la Comisión, a efecto de dar cumplimiento a los objetivos de la misma, de acuerdo con lo establecido en las normas legales aplicables;\nII. Proponer los objetivos, metas y prioridades del Programa Estatal y someterlo a la aprobación del Consejo;\nIII. Proponer lineamientos, esquemas e indicadores de los Programas Anuales de la entidad para su implementación;\nIV. Formular propuestas respecto de los proyectos de diagnósticos, planes y acciones que pretenda implementar la Comisión;\nV. Operar y administrar el Catálogo, de acuerdo con los lineamientos establecidos y la información recibida de trámites y servicios de las dependencias y organismos del Poder Ejecutivo;\nVI. Ejecutar los acuerdos y disposiciones del Consejo, implementando las medidas necesarias para su cumplimiento;\nVII. Diseñar los lineamientos para la recepción, integración y seguimiento de la información de los Programas Anuales, así como presentar informes y avances al Consejo;\nVIII. Someter al proceso de mejora regulatoria los proyectos regulatorios y sus correspondientes Análisis;\nIX. Coordinar la ejecución de las acciones derivadas del Programa Estatal;\nX. Presentar ante el Consejo, para su aprobación, el avance del Programa Anual;\nXI. Fungir como Enlace Oficial de coordinación con los órganos públicos de los tres órdenes de gobierno, en el ámbito que corresponda, para asegurar la ejecución del Programa Estatal y de la Agenda Común, según sea el caso;\nXII. Celebrar los convenios con los órganos públicos de los tres órdenes de gobierno, en el ámbito que corresponda, para desarrollar acciones y programas en la materia;\nXIII. Establecer los mecanismos para brindar asesoría técnica y capacitación en materia de mejora regulatoria a los sujetos obligados, así como a los municipios que lo soliciten;\nXIV. Presentar por escrito ante el Consejo el informe anual de actividades;\nXV. Informar a la Federación en caso de duplicidad de regulaciones o tramites; y\nXVI. Las demás que le otorguen esta Ley u otras disposiciones aplicables."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "16",
+              "nota": [],
+              "contenido": "Los municipios en el ejercicio de su autonomía, deberán crear respectivamente su Comisión Municipal, que tendrá las mismas atribuciones que la Comisión, debidamente adecuadas al ámbito de competencia que les corresponde.\nLos Presidentes municipales designarán y removerán a un responsable para desarrollar la mejora regulatoria y la simplificación administrativa al interior de cada municipio. El Responsable preferentemente deberá ser un servidor público con nivel jerárquico de director o superior cuyo perfil deberá ser preferentemente similar al titular de la comisión. Dicho responsable fungirá como titular de la Comisión Municipal que le corresponda."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "17",
+              "nota": [],
+              "contenido": "Los municipios reglamentarán lo conducente para la operación y estructura de su Comisión Municipal, bajo los principios rectores de la presente ley."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "SEGUNDO",
+          "nombre": "COMPETENCIA DE LOS SUJETOS OBLIGADOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "18",
+              "nota": [],
+              "contenido": "Los titulares de los sujetos obligados, designarán a un Enlace Oficial de mejora regulatoria el cual será de nivel jerárquico inmediato inferior a este, quien tendrá las siguientes atribuciones:\nI. Coordinar el proceso de mejora regulatoria y la simplificación administrativa al interior del Sujeto Obligado;\nII. Formular y someter a la opinión de la Comisión o la Comisión Municipal, según corresponda el Programa Anual;\nIII. Informar de conformidad con el calendario que establezcan las Comisiones, respecto de los avances y resultados en la ejecución del Programa Anual correspondiente;\nIV. Supervisar y asesorar en la formulación de las Propuestas regulatorias y los Análisis correspondientes;\nV. Solicitar ante la Comisión correspondiente, las actualizaciones o modificaciones al Catálogo y al Catálogo Municipal de Trámites y Servicios en el ámbito de su competencia previo acuerdo con el Titular del Sujeto Obligado;\nVI. Solicitar ante la Comisión correspondiente, las actualizaciones o modificaciones al Inventario previo acuerdo con el Titular del Sujeto Obligado;\nVII. Informar al titular del Sujeto Obligado de los resultados de su gestión en materia de mejora regulatoria;\nVIII. Colaborar con las Comisiones en la elaboración e implementación de mecanismos que permitan medir periódicamente la implementación de la mejora regulatoria en los sujetos obligados; y\nIX. Las demás que señale la presente Ley, el Reglamento, otros ordenamientos aplicables y las Comisiones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "TERCERO",
+      "nombre": "DE LOS INSTRUMENTOS DE MEJORA REGULATORIA",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "PRIMERO",
+          "nombre": "DEL INVENTARIO REGULATORIO",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "19",
+              "nota": [],
+              "contenido": "La Comisión, en colaboración con las Comisiones Municipales y los sujetos obligados, promoverá la elaboración de un Inventario, el cual deberá contener todas las regulaciones en el ámbito estatal y municipal que se encuentren vigentes.\nPara tal efecto, deberán establecerse mecanismos de coordinación con las autoridades que en el ámbito de sus respectivas competencias ya cuenten con inventarios o registros de las regulaciones estatales y municipales."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "20",
+              "nota": [],
+              "contenido": "Los sujetos obligados serán responsables de mantener actualizado el Inventario, de conformidad con las disposiciones que para tal efecto emita la Comisión, en coordinación con otras autoridades competentes."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "21",
+              "nota": [],
+              "contenido": "El Inventario deberá incorporar las regulaciones vigentes."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "22",
+              "nota": [],
+              "contenido": "La Comisión llevará el inventario, que será público, para cuyo efecto las dependencias y los organismos descentralizados de la administración pública estatal, deberán proporcionarle la siguiente información, para su inscripción, en relación con cada regulación que aplican:\nI. Nombre de la regulación;\nII. Poder emisor de la regulación (Legislativo, ejecutivo, judicial u órganos autónomos);\nIII. Tipo de ordenamiento;\nIV. Ámbito de aplicación;\nV. Sujetos regulados;\nVI. Fecha de publicación;\nVII. Fecha de última reforma;\nVIII. Vigencia;\nIX. Sector; y\nX. Referencia a los trámites que se deriven de la regulación."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "23",
+              "nota": [],
+              "contenido": "La información a que se refiere el artículo anterior deberá entregarse a la Comisión en la forma en que dicho órgano lo determine y la Comisión deberá inscribirla en el Inventario, sin cambio alguno, dentro de los cinco días hábiles siguientes.\nLas dependencias y los organismos descentralizados de la administración pública estatal, deberán notificar a la Comisión cualquier modificación a la información inscrita en el Inventario, dentro de los diez días hábiles siguientes a que entre en vigor la disposición."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "24",
+              "nota": [],
+              "contenido": "En ningún caso los sujetos obligados aplicarán regulaciones, trámites, costos o procesos adicionales a los inscritas en el Inventario, de igual manera se prohíbe aplicarlas de forma distinta a como se establezcan en el mismo. En caso de ser necesario se sujetará a lo previsto en la fracción VI del artículo 19 de la presente Ley."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "SEGUNDO",
+          "nombre": "DEL ANÁLISIS DE IMPACTO REGULATORIO",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "25",
+              "nota": [],
+              "contenido": "El análisis es una herramienta que tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que éstas representen la mejor alternativa para atender una problemática específica. Esta herramienta permite analizar sistemáticamente los impactos potenciales de las regulaciones para la toma de\ndecisiones gubernamentales, fomentando que éstas sean más transparentes y racionales, además de que brinda a la ciudadanía la oportunidad de participar en su elaboración."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "26",
+              "nota": [],
+              "contenido": "Para asegurar la consecución de los objetivos de esta Ley, los sujetos obligados adoptarán esquemas de revisión de regulaciones existentes contenidos en el inventario y de propuestas regulatorias, mediante la utilización del Análisis.\n(REFOMADA, P.O. 12 DE SEPTIEMBRE DE 2017)"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "27",
+              "nota": [],
+              "contenido": "Los análisis deben contribuir a que las regulaciones se diseñen sobre bases económicas, jurídicas y empíricas sólidas; así como promover la selección de alternativas regulatorias cuyos beneficios justifiquen los costos que imponen y que generen el máximo beneficio neto para la sociedad. La Comisión y las Comisiones Municipales, en colaboración con las autoridades encargadas de la elaboración de los Análisis, desarrollarán las capacidades necesarias para ello."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "28",
+              "nota": [],
+              "contenido": "Los procesos de diseño y revisión de las regulaciones y propuestas regulatorias, así como los Análisis correspondientes deberán enfocarse prioritariamente en contar con regulaciones que cumplan con los siguientes propósitos:\nI. Generen los mayores beneficios para la sociedad;\nII. Promuevan la coherencia de Políticas Públicas;\nIII. Mejoren la coordinación entre poderes y órdenes de gobierno;\nIV. Fortalezcan las condiciones de libre concurrencia y competencia económica y que disminuyan los obstáculos al funcionamiento eficiente de los mercados;\nV. Impulsen la atención de situaciones de riesgo mediante herramientas proporcionales a su impacto esperado;\nVI. Establezcan medidas que resulten coherentes con la aplicación de los Derechos Humanos en México; y\nVII. Busque la armonización de las regulaciones Estatales y Municipales.\n(REFOMADO, P.O. 12 DE SEPTIEMBRE DE 2017)"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "29",
+              "nota": [],
+              "contenido": "La Comisión establecerá el mecanismo para que los análisis se lleven a cabo bajo un marco estructurado para asistir a los sujetos obligados en el estudio de los efectos de las regulaciones y propuestas regulatorias, y en la realización de los ejercicios de consulta pública correspondientes. Las cuales deberán contener cuando menos:\nI. La explicación de la problemática que da origen a la necesidad de la regulación y los objetivos que ésta persigue;\nII. El análisis de las alternativas regulatorias y no regulatorias que son consideradas para solucionar la problemática, incluyendo la explicación de por qué la regulación propuesta es preferible al resto de las alternativas;\nIII. La evaluación de los costos y beneficios de la propuesta regulatoria, así como de otros impactos incluyendo, cuando sea posible, el análisis para todos los grupos afectados;\nIV. El análisis de los mecanismos y capacidades de implementación, verificación e inspección;\nV. La identificación y descripción de los mecanismos, metodologías e indicadores que serán utilizados para evaluar el logro de los objetivos de la regulación; y\nVI. La descripción de los esfuerzos de consulta llevados a cabo para generar la propuesta regulatoria y sus resultados.\n(REFOMADO, P.O. 12 DE SEPTIEMBRE DE 2017)"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "30",
+              "nota": [],
+              "contenido": "Cuando los sujetos obligados elaboren propuestas regulatorias, los presentarán a la Comisión o a la Comisión Municipal, según corresponda, junto con un análisis que contenga los elementos que ésta determine, atendiendo a lo dispuesto en el artículo 42 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el periódico Oficial o someterse a la consideración del titular del Ejecutivo Estatal o el municipio, según corresponda.\n(REFOMADO, P.O. 12 DE SEPTIEMBRE DE 2017) Los proyectos de Ley que se presenten en el Congreso del Estado, por parte del Ejecutivo Estatal o cualquier ente gubernamental que se trate de los 3 niveles al que se hace referencia en el artículo 26 de la presente legislación.\nSe podrá autorizar que el análisis se presente hasta en la misma fecha en que se someta la propuesta regulatoria al titular del Ejecutivo Estatal, el municipio o se expida la disposición, según corresponda, cuando ésta pretenda resolver o prevenir una situación de emergencia. En estos casos deberá solicitarse la autorización para el trato de emergencia ante la Comisión o a la Comisión Municipal, para lo cual deberá acreditarse que la disposición:\nI. Busque evitar un daño inminente, o bien atenuar o eliminar un daño existente a la salud o bienestar de la población, a la salud animal y sanidad vegetal, al medio ambiente, a los recursos naturales o a la economía;\nII. Tenga una vigencia no mayor de seis meses, misma que, en su caso, podrá ser renovada por una sola ocasión por un periodo igual o menor; y\nIII. No se haya solicitado previamente trato de emergencia para una disposición con contenido equivalente.\nTomando en consideración los elementos anteriormente descritos, la Comisión o la Comisión Municipal, según corresponda, deberá resolver la autorización para trato de emergencia en un plazo que no excederá de cinco días hábiles.\nSe podrá eximir la obligación de elaborar el análisis cuando la propuesta regulatoria no implique costos de cumplimiento para los particulares o tratándose de temas fiscales o sean para evitar poner en riesgo la seguridad y/o salud de la población. Cuando una dependencia, entidad o autoridad estatal o municipal estime que el proyecto pudiera estar\nen este supuesto, lo consultará con la Comisión o la Comisión Municipal, según corresponda, la cual resolverá en un plazo que no podrá exceder de cinco días hábiles, de conformidad con los criterios para la determinación de dichos costos o causas antes señaladas que al efecto establezcan en disposiciones de carácter general."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "31",
+              "nota": [],
+              "contenido": "Cuando la Comisión o la Comisión Municipal respectiva, reciba un análisis que a su juicio no sea satisfactorio, podrá solicitar al sujeto obligado correspondiente, dentro de los diez días hábiles siguientes a que reciba dicho análisis, que realice las ampliaciones o correcciones a que haya lugar. Cuando a criterio de la Comisión la manifestación siga siendo defectuosa y la disposición de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar a la dependencia o entidad respectiva que con cargo a su presupuesto efectúe la designación de un experto, quien deberá ser aprobado por la Comisión. El experto deberá revisar el análisis y entregar comentarios a la Comisión y a la propia dependencia o entidad dentro de los cuarenta días hábiles siguientes a su contratación.\n(REFOMADO, P.O. 12 DE SEPTIEMBRE DE 2017)"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "32",
+              "nota": [],
+              "contenido": "La Comisión y las Comisiones Municipales harán públicos, desde que los reciban, las disposiciones y análisis, así como los dictámenes que emitan y las autorizaciones y exenciones previstas en el presente Capítulo, con la finalidad de recabar las opiniones y comentarios de los sectores interesados. Para tal efecto, deberán establecerse plazos mínimos de consulta pública que no podrán ser menores a veinte días hábiles, de conformidad con los instrumentos jurídicos que dichas Comisiones establezcan. La determinación de dichos plazos mínimos deberá́ tomar en consideración el impacto potencial de las disposiciones que se promueven, su naturaleza jurídica y ámbito de aplicación, entre otros elementos que se consideren pertinentes y que deberán establecerse mediante disposiciones de carácter general.\nLos sujetos obligados podrán solicitar a la Comisión y las Comisiones Municipales, en el ámbito de sus respectivas competencias, la aplicación de plazos mínimos de consulta menores a los previstos en esta Ley, siempre y cuando se determine a juicio de éstas, y conforme a los criterios que para tal efecto emitan, que los beneficios de la aplicación de dichos plazos exceden el impacto de brindar un tiempo menor para conocer las opiniones de los interesados."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "33",
+              "nota": [],
+              "contenido": "Cuando a solicitud de un sujeto obligado responsable del proyecto correspondiente, la Comisión o las Comisiones Municipales determinen que la publicidad a que se refiere el artículo anterior pudiera comprometer los efectos que se pretendan lograr con la disposición, éstas no harán pública la información respectiva, hasta el momento en que se publique la disposición en el Periódico Oficial del Estado. También se aplicará esta regla cuando lo determine la Consejería Jurídica y/o área jurídica del municipio y/o sus equivalentes, previa opinión de la Comisión, respecto de las propuestas regulatorias que se pretendan someter a la consideración del titular del Ejecutivo Estatal, o el titular del Ejecutivo Municipal correspondiente."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "34",
+              "nota": [],
+              "contenido": "La Comisión o la Comisión Municipal respectiva deberán emitir y entregar al sujeto obligado correspondiente un dictamen del Análisis y del proyecto respectivo, dentro de los treinta días hábiles siguientes a la recepción del análisis, de las ampliaciones o correcciones al mismo o de los comentarios de los expertos a que se refiere el artículo 32, según corresponda.\nEl dictamen considerará las opiniones que en su caso reciba la Comisión o la Comisión Municipal respectiva de los sectores interesados y comprenderá, entre otros aspectos, una valoración sobre si se justifican las acciones propuestas en la propuesta regulatoria. Cuando el sujeto obligado de la propuesta regulatoria no se ajuste al dictamen mencionado, deberá comunicar por escrito las razones respectivas a la Comisión, en un plazo no mayor a cuarenta y cinco días hábiles, antes de emitir la disposición o someter el proyecto respectivo a la consideración del titular del Ejecutivo Estatal o el titular del Ejecutivo Municipal, según corresponda, a fin de que la Comisión emita un dictamen final al respecto dentro de los cinco días hábiles siguientes.\nEn caso de que la Comisión o la Comisión Municipal según corresponda, no reciban respuesta al dictamen o a los comentarios de los expertos a que se refiere el artículo 32, en el plazo indicado en el párrafo anterior se tendrá por desechado el procedimiento para la propuesta regulatoria respectiva.\nCuando el dictamen final contenga opiniones relacionadas con la creación, modificación o eliminación de trámites, éstas tendrán el carácter de vinculatorias para la el sujeto obligado promotor de la propuesta regulatoria, a fin de que realicen los ajustes pertinentes al mismo, previo a su emisión o a que sea sometido a la consideración del titular del Ejecutivo Estatal, el municipio o el titular del Ejecutivo Municipal, según corresponda. En caso de discrepancia entre la autoridad promovente y la Comisión respectiva, sólo el titular del Ejecutivo Estatal o del municipio correspondiente podrá revocar la decisión."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "35",
+              "nota": [],
+              "contenido": "Los municipios establecerán los procedimientos para la revisión y opinión de los análisis y señalarán a las autoridades responsables de su elaboración atendiendo a lo previsto en la presente Ley, a través del Reglamento correspondiente publicado en el Periódico Oficial del Estado.\n(REFOMADO, P.O. 12 DE SEPTIEMBRE DE 2017)"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "36",
+              "nota": [],
+              "contenido": "El Poder Ejecutivo y los Municipios deberán abstenerse de solicitar la publicación de Disposiciones de Carácter General que no hayan sido dictaminadas favorablemente por la Comisión respectiva o hayan sido sujetas de autorización o exenciones a que se refiere este Capítulo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "37",
+              "nota": [],
+              "contenido": "Las regulaciones que se publiquen en el Periódico Oficial del Estado y que establezcan costos de cumplimiento para los negocios y emprendedores, de conformidad con los criterios que al efecto emita la Comisión o las Comisiones Municipales, según corresponda, deberán establecer una vigencia que no podrá ser mayor a cinco años.\nDentro del año previo a que concluya la vigencia a que se refiere el párrafo anterior, las regulaciones deberán someterse a una revisión sobre los efectos de su aplicación ante la Comisión o las Comisiones Municipales, según corresponda, utilizando para tal efecto el análisis, con la finalidad de determinar su cancelación, modificación o ampliación de vigencia, con la finalidad de alcanzar sus objetivos originales y atender a la problemática vigente. Asimismo, podrán promoverse modificaciones adicionales al marco regulatorio vigente o acciones a los sujetos obligados correspondientes, para el logro del mayor beneficio social neto de la regulación sujeta a revisión."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "38",
+              "nota": [],
+              "contenido": "La Comisión o las Comisiones Municipales, según corresponda, podrán establecer esquemas para reducir o limitar el costo económico que resulte de las propuestas regulatorias, mediante Acuerdos publicados en el Periódico Oficial del Estado, previa aprobación del Consejo o del Ejecutivo Estatal o el municipio."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "TERCERO",
+          "nombre": "DE LOS PROGRAMAS ANUALES DE MEJORA REGULATORIA",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "39",
+              "nota": [],
+              "contenido": "Los enlaces oficiales de los sujetos obligados, deberán elaborar y presentar a la opinión de la Comisión o de la Comisión Municipal, según corresponda, dentro de los primeros 15 días naturales del mes de noviembre del año calendario previo a su implementación, un Programa Anual de Mejora Regulatoria. Dicho Programa deberá contener la planeación de las regulaciones, trámites y servicios que pretenden ser emitidos, modificados o eliminados en los próximos doce meses, así como la implementación de acciones para revisar y mejorar el acervo regulatorio y simplificar los trámites y servicios estatales y municipales. Los Programas Anuales se harán públicos en los portales electrónicos de las Comisiones y en el Periódico Oficial del Estado y/o en la Gaceta Municipal, a más tardar el 31 de diciembre del año previo a su implementación."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "40",
+              "nota": [],
+              "contenido": "El Programa Anual, estatal y municipal, tendrá como objetivo:\nI. Contribuir al proceso de actualización y perfeccionamiento constante e integral del marco jurídico y regulatorio local;\nII. Incentivar el desarrollo económico del Estado y los municipios, mediante una regulación de calidad que promueva la competitividad a través de la eficacia y la eficiencia gubernamental, que brinde certeza jurídica y que no imponga barreras innecesarias a la competitividad económica y comercial;\nIII. Reducir el número de trámites, plazos de respuesta de los sujetos obligados, y/o requisitos y formatos, así como cualquier acción de simplificación que los particulares deben cubrir para el cumplimiento de sus obligaciones o la obtención de un servicio, privilegiando el uso de herramientas tecnológicas;\nIV. Promover una mejor atención al usuario y garantizar claridad y simplicidad en las regulaciones y trámites; y\nV. Promover mecanismos de coordinación y concertación entre los sujetos obligados, en la consecución del objeto que la Ley plantea."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "41",
+              "nota": [],
+              "contenido": "Conforme a los objetivos establecidos en el Programa Anual y los Programas Municipales de Mejora Regulatoria, los sujetos obligados deberán incorporar en sus Programas Anuales el establecimiento de acciones para la revisión y mejora del marco regulatorio vigente, considerando al menos los siguientes elementos:\nI. Un diagnóstico de la regulación vigente, en cuanto a su sustento en la legislación; el costo económico y temporal que representa la regulación y los trámites; su claridad y posibilidad de ser comprendida por el particular; y los problemas para su observancia;\nII. Fundamentación y motivación;\nIII. Planeación de las regulaciones y trámites por cada sujeto obligado que pretenden ser emitidas, modificadas o eliminadas en los próximos doce meses;\nIV. Estrategia por cada sujeto obligado sobre las eliminaciones, modificaciones o creaciones de nuevas normas o de reforma específica a la regulación, justificando plenamente, de acuerdo a las razones que le da origen, su finalidad, y la materia a regular, atento al objeto y previsiones establecidos por la presente Ley;\nV. Planeación anual por cada sujeto obligado sobre la simplificación de trámites con base en lo establecido en la fracción III del artículo 40, especificando por cada acción de simplificación de los trámites el mecanismo de implementación, funcionario público responsable y fecha de conclusión; y\nVI. Observaciones y comentarios adicionales que se consideren pertinentes."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "42",
+              "nota": [],
+              "contenido": "La Comisión y las Comisiones Municipales podrán sugerir a los sujetos obligados la emisión, modificación o eliminación de regulaciones, trámites y servicios con base en lo establecido en el artículo 40 de esta Ley. Los sujetos obligados deberán brindar respuesta a las sugerencias emitidas por la Comisión o las Comisiones Municipales, según sea el caso."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "43",
+              "nota": [],
+              "contenido": "En la elaboración de los Programas Anuales, se tomará en cuenta la opinión de la comunidad representada a través de los integrantes del Consejo, debiendo prever procedimientos de revisión y consulta, para garantizar la oportuna actualización de cada programa;\nLa Comisión y las Comisiones Municipales, en el ámbito de sus respectivas atribuciones, deberán promover la consulta pública en la elaboración de los Programas Anuales, favoreciendo tanto el uso de medios electrónicos como de foros presenciales, con la finalidad de analizar las propuestas de los interesados, las cuales deberán ser consideradas para la opinión que emitan la Comisión y las Comisiones Municipales, según corresponda. Los sujetos obligados deberán brindar respuesta a la opinión a los comentarios y propuestas de los interesados, en los términos que éstas establezcan, previo a la publicación del Programa Anual."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "44",
+              "nota": [],
+              "contenido": "La Comisión y las Comisiones Municipales, en el ámbito de sus atribuciones, deberán establecer reportes periódicos de avances e indicadores para dar seguimiento a la implementación del Programa Anual y evaluar sus resultados, los cuales se harán públicos en los portales de las Comisiones."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "CUARTO",
+          "nombre": "DEL CATÁLOGO ESTATAL Y MUNICIPAL DE TRÁMITES Y SERVICIOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "45",
+              "nota": [],
+              "contenido": "La Comisión administrará mediante una plataforma electrónica el Catálogo, que será público, para cuyo efecto los sujetos obligados, deberán proporcionarle la siguiente información, en relación con cada trámite que aplican:\nI. Nombre y descripción del trámite o servicio;\nII. Homoclave que se le asigne;\nIII. Motivo y fundamento jurídico y reglamentario;\nIV. Casos en los que el trámite debe realizarse;\nV. Requisitos. En caso que existan requisitos que necesiten alguna firma, validación, certificación, autorización o visto bueno de un tercero se deberá señalar la persona, empresa o dependencia que lo emita;\nVI. Identificar si es un trámite ciudadano o empresarial;\nVII. Número de copias por requisito, en su caso;\nVIII. Si el trámite o solicitud de servicio debe realizarse mediante escrito libre o con un formato tipo. En este caso, el formato deberá estar disponible en la plataforma electrónica del Catálogo;\nIX. En caso de requerir inspección o verificación, señalar el objetivo, datos de contacto de inspectores o verificadores y los horarios de atención;\nX. Datos que deben asentarse y documentos que deben adjuntarse al trámite;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) XI. Plazo máximo de el Sujeto Obligado para resolver el trámite, en su caso, y si aplica o no la afirmativa o negativa ficta;\nXII. Monto y fundamento de la carga tributaria, en su caso, o la forma en que deberá determinarse el monto a pagar, así como el lugar y la forma en que se deben cubrir, y las alternativas para hacerlo si las hay;\nXIII. Vigencia del trámite que emitan los sujetos obligados;\nXIV. Dirección y nombre de todas las unidades administrativas ante las que debe realizarse el trámite o solicitarse el servicio;\nXV. Horarios de atención al público;\nXVI. Criterios a los que debe sujetarse la dependencia respectiva para la resolución del trámite o prestación del servicio;\nXVII. Nombre del funcionario público, domicilio, números de teléfono, fax y correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas; y\nXVIII. Diagrama que describa el proceso o procesos del trámite"
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "46",
+              "nota": [],
+              "contenido": "Adicional a la información referida en al artículo 45 los sujetos obligados deberán proporcionar a la Comisión la siguiente información por cada trámite inscrito en el Catálogo:\nI. Sector económico al que pertenece el trámite si aplica de acuerdo a la base en el Sistema de Clasificación Industrial de América del Norte (SCIAN);\nII. Identificar las etapas internas y tiempos de la dependencia para resolver el trámite;\nIII. Frecuencia mensual de solicitudes y resoluciones del trámite, y en su caso, frecuencia mensual esperada para los trámites de nuevo creación; y\nIV. Número de funcionarios públicos encargados de resolver el trámite."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "47",
+              "nota": [],
+              "contenido": "La información a que se refiere los artículos 45 y 46 deberá entregarse a la Comisión en la forma en que dicho órgano lo determine y la Comisión deberá inscribirla en el Catálogo, sin cambio alguno, dentro de los cinco días hábiles siguientes a la recepción de la misma. La Comisión podrá emitir opinión respecto de la información que se inscriba en el Catálogo, y los sujetos obligados deberán solicitar los ajustes correspondientes o notificar a la Comisión las razones para no hacerlo. En caso de discrepancia entre los sujetos obligados y la Comisión, la Consejería Jurídica o su equivalente resolverá en definitiva.\nLos sujetos obligados, deberán notificar a la Comisión cualquier modificación a la información inscrita en el Catálogo, dentro de los diez días hábiles siguientes a que entre en vigor la disposición que fundamente dicha modificación.\nLas unidades administrativas que apliquen trámites o servicios deberán tener a disposición del público la información que al respecto esté inscrita en el Catálogo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "48",
+              "nota": [],
+              "contenido": "La información a que se refiere el artículo 45, preferentemente deberá estar prevista en Leyes, reglamentos, decretos o acuerdos, o cuando proceda, en normas o acuerdos generales expedidos por los sujetos obligados, que aplican los trámites y servicios."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "49",
+              "nota": [],
+              "contenido": "La legalidad y el contenido de la información que se inscriba en el Catálogo serán de estricta responsabilidad de los sujetos obligados."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "50",
+              "nota": [],
+              "contenido": "Los municipios crearán un Catálogo Municipal Electrónica de Trámites y Servicios en el que se inscribirán los trámites, servicios, requisitos, plazos y cargas tributarias de los sujetos obligados, debiendo observarse los requisitos y formalidades a que se refieren los artículos anteriores, mismo que deberán estar respaldados por reglamentación municipal correspondiente.\nLos Catálogos de cada uno de los municipios podrán ser adicionados al Catálogo Estatal de Trámites y Servicios, a fin de constituir una sola base de datos estatal."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "51",
+              "nota": [],
+              "contenido": "El Catálogo deberá cumplir con los criterios del Catálogo Nacional de Trámites y Servicios."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "52",
+              "nota": [],
+              "contenido": "Para la inscripción de trámites en el Catálogo se fomentará que las resoluciones en sentido afirmativo al promovente, transcurrido el plazo establecido para que las autoridades brinden respuesta. Para tal efecto, las autoridades estatales y municipales deberán efectuar las adecuaciones correspondientes al marco jurídico aplicable a efecto de establecer lo anterior, o en caso contrario, manifestar a la consideración de la Comisión o las Comisiones Municipales las justificaciones para no hacerlo, conforme a los criterios que éstas definan, considerando entre otros aspectos la ocurrencia de un posible riesgo a la vida, a la sociedad, al medio ambiente o a la economía.\nTomando en consideración las justificaciones descritas en el párrafo anterior, la Comisión o las Comisiones Municipales resolverán en definitiva sobre el particular, y esta decisión sólo podrá ser revocada por el titular del Ejecutivo Estatal o Municipal, según corresponda.\n(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017) A petición del interesado, se deberá expedir constancia de la resolución afirmativa por falta de respuesta de la autoridad respectiva dentro de los cinco días hábiles siguientes a la presentación de la solicitud de la misma, sólo cuando así lo establezca el trámite inscrito en el Catálogo. Para tal efecto, las autoridades estatales y municipales, en colaboración con la Comisión y las Comisiones Municipales establecerán mecanismos que permitan obtener dicha constancia por medios electrónicos. Lo anterior es aplicable siempre y cuando no se contravenga una disposición jurídica vigente."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "53",
+              "nota": [],
+              "contenido": "Los sujetos obligados no podrán solicitar requisitos, ni trámites adicionales a los inscritos en el Catálogo, ni aplicarlos en forma distinta a como se establezcan en el mismo."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "QUINTO",
+          "nombre": "DE LA MEDICIÓN Y SIMPLIFICACIÓN DE TRÁMITES Y SERVICIOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "seccion",
+              "sufijo": "PRIMERA",
+              "nombre": "DE LA MEDICIÓN DEL COSTO DE LOS TRÁMITES Y SERVICIOS",
+              "nota": [],
+              "contenido": [
+                {
+                  "tipo": "articulo",
+                  "sufijo": "54",
+                  "nota": [],
+                  "contenido": "La Comisión con el auxilio de los sujetos obligados deberá cuantificar y medir el costo económico de los trámites inscritos en el Catálogo considerando como mínimo los siguientes elementos:\nI. El tiempo que requiere el ciudadano o empresario para acumular la totalidad de los requisitos necesarios para presentar el trámite, tomando en consideración como mínimo el tiempo destinado en la comprensión e identificación de los requisitos nuevos o aquellos con los que ya contaba el ciudadano o empresario; pago de derechos; llenado de formatos; tiempo de espera en ventanilla; creación de archivos de respaldo, tiempo requerido con personas externas o internas, y tiempo de traslado a las oficinas de gobierno;\nII. El tiempo que el sujeto obligado requiere para resolver el trámite, tomando en consideración el tiempo destinado, según sea el caso en: el cotejo y revisión de la información, análisis técnico, inspección o verificación, elaboración de dictamen o resolución, validación mediante firmas, sellos o rúbricas, entre otros;\nIII. El tiempo identificado para cada trámite, con base en la frecuencia anual y los elementos mencionados anteriormente, deberá ser monetizado, tomando como base las mejore herramientas y prácticas internacionales, para cuantificar y medir el impacto económico; y\nIV. El costo en el que incurren los agentes económicos del sector al dejar de producir por mantenerse a la espera de la resolución del trámite."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "55",
+                  "nota": [],
+                  "contenido": "Conforme a la medición del impacto económico de los trámites se creará la Clasificación Económica de los Trámites y Servicios del Estado como herramienta para identificar, monitorear y jerarquizar el costo económico de los trámites inscritos en el Catálogo."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "56",
+                  "nota": [],
+                  "contenido": "La Comisión definirá como trámites prioritarios aquellos que resulten con mayor impacto económico en la Clasificación señalada en el artículo 54 de la presente Ley. La Comisión junto con los sujetos obligados podrán emitir acciones de simplificación para reducir en lo posible el impacto económico de los trámites prioritarios.\nLas acciones de simplificación acordadas por la Comisión y los sujetos obligados se someterán durante 30 días hábiles a Consulta Pública en el portal electrónico de la Comisión, o en su caso, cuando coincida con los Programas de Mejora Regulatoria, se sumarán a dichos Programas Estatales y Municipales. Los sujetos obligados brindarán respuesta a los interesados que emitieron sugerencias o comentarios, justificando su viabilidad.\nUna vez finalizada la Consulta Pública, la Comisión publicará las acciones de simplificación de los trámites prioritarios identificando para cada una de ellas el responsable, los mecanismos de simplificación y la fecha de conclusión. Posterior a las acciones de simplificación, la Comisión hará público los ahorros monetizados que se deriven del ejercicio de simplificación."
+                }
+              ]
+            },
+            {
+              "tipo": "seccion",
+              "sufijo": "SEGUNDA",
+              "nombre": "DE LA SIMPLIFICACIÓN DE TRÁMITES",
+              "nota": [],
+              "contenido": [
+                {
+                  "tipo": "articulo",
+                  "sufijo": "57",
+                  "nota": [],
+                  "contenido": "Los titulares de los sujetos obligados deberán, mediante acuerdos generales publicados en la Gaceta Municipal o en el Periódico Oficial del Estado, establecer plazos de respuesta menores dentro de los máximos previstos en Leyes o reglamentos y podrán no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía del propio gobierno la información correspondiente. Los titulares de los sujetos obligados a nivel municipal deberán, mediante acuerdos generales o actos de Ayuntamiento, publicados en el Periódico Oficial\ndel Estado, establecer plazos de respuesta menores dentro de los máximos previstos en Leyes o reglamentos y podrán no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía dentro del propio municipio o mediante acuerdos con gobierno del estado la información correspondiente.\n(ADICIONADO, P.O. 12 DE ENERO DE 2022) Dichos plazos deberán estar colocados a la vista de los usuarios que acudan a realizar algún tipo de trámite.\n(RECORRIDO, P.O. 12 DE ENERO DE 2022) En los procedimientos administrativos, los sujetos obligados recibirán las promociones o solicitudes que, en términos de esta Ley, los particulares presenten por escrito, sin perjuicio de que dichos documentos puedan presentarse a través de medios de comunicación electrónica en las etapas que los propios sujetos obligados así lo determinen mediante reglas de carácter general publicadas en el Periódico Oficial del Estado. En estos últimos casos se emplearán, en sustitución de la firma autógrafa, medios de identificación electrónica previstos en la legislación correspondiente. El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado.\n(RECORRIDO, P.O. 12 DE ENERO DE 2022) Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las Leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos, de conformidad a lo estipulado en la legislación correspondiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "SEXTO",
+          "nombre": "DE LA FACILIDAD PARA HACER NEGOCIOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "seccion",
+              "sufijo": "PRIMERA",
+              "nombre": "DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS",
+              "nota": [],
+              "contenido": [
+                {
+                  "tipo": "articulo",
+                  "sufijo": "59",
+                  "nota": [],
+                  "contenido": "En los municipios, preferentemente metropolitanos, se creará el SARE, como un mecanismo que integra y consolida todos los trámites municipales para abrir una micro, pequeña, mediana o grande empresa que realiza actividades de bajo riesgo para la salud, seguridad y el medio ambiente garantizando el inicio de operaciones en un máximo de tres días hábiles, a partir del ingreso de la solicitud debidamente integrada y aceptada por la autoridad correspondiente. El SARE deberá contener al menos los siguientes elementos y criterios:\nI. Una ventanilla única de forma física o electrónica en donde se ofrece la información, la recepción y la gestión de todos los trámites municipales y estatales necesarios para la apertura de una empresa;\nII. Formato Único de Apertura para la solicitud del trámite, impreso o en forma electrónica;\nIII. Catálogo de giros de bajo riesgo tomando como base los del Sistema de Clasificación Industrial de América del Norte (SCIAN), el cual tendrá como objetivo determinar los giros\nempresariales que podrán realizar los trámites municipales para abrir una empresa a través del SARE;\nIV. Manual de operación del SARE en el que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el emprendedor; y\nV. Resolución máxima en menos de tres días hábiles de todos los trámites municipales para abrir una empresa."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "60",
+                  "nota": [],
+                  "contenido": "El Ayuntamiento Municipal, a través de un acuerdo, aprobará las fracciones II, III y IV señaladas en el artículo anterior, considerando su impacto económico y social, pudiendo incluso llevar a cabo la aprobación de un Reglamento Municipal del SARE.\nLos municipios publicarán en un documento oficial y en su página de Internet, en su caso, el catálogo que comprenda la clasificación de los giros o actividades a que se refiere este Artículo."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "61",
+                  "nota": [],
+                  "contenido": "La autoridad municipal no podrá solicitar requisitos, o trámites adicionales para abrir una empresa cuya actividad esté definida como de bajo riesgo conforme lo establecido en el artículo anterior."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "62",
+                  "nota": [],
+                  "contenido": "El SARE se someterá a certificación de acuerdo a los lineamientos emitidos por la COFEMER que hacen referencia al Programa de Reconocimiento y Operación del SARE (PROSARE) operado por la COFEMER."
+                }
+              ]
+            },
+            {
+              "tipo": "seccion",
+              "sufijo": "SEGUNDA",
+              "nombre": "DE LA VENTANILLA ÚNICA DE CONSTRUCCIÓN",
+              "nota": [],
+              "contenido": [
+                {
+                  "tipo": "articulo",
+                  "sufijo": "63",
+                  "nota": [],
+                  "contenido": "En los municipios, preferentemente metropolitanos, se creará la VUC como mecanismo de coordinación de todas las gestiones necesarias para la emisión de la Licencia de Construcción de obras que no rebasen los 1,500 metros cuadrados y que se encuentren reguladas en las Condicionantes de Uso de Suelo definidas por el municipio. La VUC será la encargada de recibir, validar y gestionar la totalidad de requisitos correspondientes a los trámites municipales involucrados en la emisión de la Licencia de Construcción, brindando asesoría y orientación a los ciudadanos que la visiten. La VUC contará al menos con los siguientes elementos:\nI. Una VUC que contemple un espacio físico o electrónico y único donde se gestionarán todos los trámites municipales involucrados con la licencia de construcción;\nII. Condicionantes de Uso de Suelo que definan el metraje, uso general y específico, ubicación geográfica, y la determinación de requisición de estudios de desarrollo urbano, medio ambiente, protección civil, vialidad y/o impacto urbano, según sea el caso, garantizando el bajo riesgo para dichas construcciones;\nIII. Formato único de construcción que contemple toda la información y requisitos necesarios para el proceso de emisión de la licencia de construcción;\nIV. Manual de operación de la VUC en el que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el usuario;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) V. Resolución máxima en un término no mayor de 45 días hábiles de todos los trámites municipales necesarios para construir una obra;\nVI. Padrón Único de Directores o Peritos Responsables de Obra certificados por el Municipio; y\nVII. Padrón Único de servidores externos que elaboran estudio de desarrollo urbano, medio ambiente, protección civil y vialidad certificados por el Municipio."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "64",
+                  "nota": [],
+                  "contenido": "El Ayuntamiento Municipal aprobará las condicionantes de Uso de Suelo como instrumento que determine previamente la factibilidad y los estudios requeridos para la construcción de la obra. Las condicionantes de Uso de Suelo tomarán como referencia los planes de desarrollo urbano de cada municipio, y serán el elemento principal para la emisión de la Licencia de Construcción.\nLas obras que por sus características se encuentren reguladas en las condicionantes de Uso de Suelo solicitarán únicamente el trámite de Licencia de Construcción, sin necesidad de presentar algún otro trámite relacionado con la construcción de la obra.\n(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017) La VUC deberá́ solicitar visto bueno a las autoridades de desarrollo urbano, medio ambiente, protección civil y vialidad y la que previamente determine el Municipio y sea plasmado en el manual de operación descrito en el párrafo IV del Artículo 63 de esta Ley, según sea el caso, para la resolución de la Licencia de Construcción. Previendo como plazo máximo para la respuesta por parte de las autoridades competentes, 45 días hábiles, de lo contrario se elaborará un informe para conocimiento del solicitante y de la Comisión del Ayuntamiento respectivo para su atención y seguimiento."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "65",
+                  "nota": [],
+                  "contenido": "La VUC será el único espacio físico o electrónico en donde los ciudadanos deberán acudir para gestionar los trámites señalados por la autoridad municipal, y contará con las siguientes atribuciones:\nI. Verificar la documentación entregada por el usuario y orientarle en caso de entregar documentación incorrecta e insuficiente;\nII. Enviar a las áreas competentes y autoridades de desarrollo urbano, medio ambiente, protección civil, vialidad, policía y demás que considere la autoridad municipal, según sea el caso, la información correcta y completa relevante al proceso de obtención de la Licencia de Construcción;\nIII. Recibir los resolutivos y vistos buenos emitidos por las áreas competentes y autoridades de desarrollo urbano, medio ambiente, protección civil y vialidad, según sea el caso;\nIV. Brindar asesoría, información y estatus del proceso de los trámites relacionados con la Licencia de Construcción;\nV. Llevar a cabo el pago de derechos;\nVI. Brindar la documentación necesaria para dar el resolutivo final por parte de la autoridad; y\nVII. Las demás que le sean encomendadas.\n(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2017)"
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "66",
+                  "nota": [],
+                  "contenido": "La VUC se someterá́ a certificación y evaluación al menos cada 3 años a través del Programa de Reconocimiento y Operación de la VUC operado por la COFEMER.\n(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022) SECCIÓN TERCERA DE LA VENTANILLA ÚNICA DE ATENCIÓN A TRÁMITES CIUDADANOS (VUAT) Y DE LA VENTANILLA ÚNICA MUNICIPAL DE ATENCIÓN A TRÁMITES CIUDADANOS (VUMAT).\n(REFORMADO, P.O. 10 DE JUNIO DE 2022)"
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "67",
+                  "nota": [],
+                  "contenido": "Se contará con un mecanismo de coordinación para atender en un solo sitio todas las gestiones ciudadanas para la realización de trámites y servicios que no involucren una atención personalizada especializada por parte de las dependencias estatales o municipales y se compondrá de la siguiente forma:\n(ADICIONADA, P.O. 10 DE JUNIO DE 2022) I. El Gobierno Estatal creará la Ventanilla Única de Atención a Trámites Ciudadanos (VUAT); y\n(ADICIONADA, P.O. 10 DE JUNIO DE 2022) II. Los Municipios que integran el área metropolitana crearán la Ventanilla Única Municipal de Atención a Trámites Ciudadanos (VUMAT).\n(REFORMADO, P.O. 10 DE JUNIO DE 2022) La VUMAT será la encargada de recibir, validar y gestionar la totalidad de requisitos correspondientes a los trámites municipales involucrados en la emisión de permisos, licencias, autorizaciones y demás gestiones que requiera la ciudadanía, brindando asesoría y orientación que ellos requieran. La VUMAT y la VUAT contemplarán los siguientes elementos:\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) I. Un espacio físico o electrónico y único donde se gestionarán todos los trámites y servicios que presta el Estado y los Municipios, según corresponda, que no involucren una atención personalizada especializada;\n(REFORMADA, P.O. 10 DE JUNIO DE 2022)\nII. Manuales de operaciones de la VUMAT y la VUAT, en los que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el usuario; y\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) III. Resolución por parte de la autoridad en un plazo no mayor de 30 días hábiles\n(REFORMADO, P.O. 10 DE JUNIO DE 2022)"
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "68",
+                  "nota": [],
+                  "contenido": "El Gobierno Estatal y el Ayuntamiento Municipal previo estudio y análisis, aprobará todos aquellos trámites que puedan ser resueltos desde la VUAT y la VUMAT a fin de simplificar la gestión e interacción del ciudadano con la autoridad municipal, cuyas operaciones deberán regirse bajo los siguientes principios:\nI. Contribuir al proceso de actualización y perfeccionamiento constante e integral del marco jurídico y regulatorio local;\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) II. Reducir el número de trámites y plazos de respuesta de los sujetos obligados; homologar los requisitos y/o formatos; guardar y proteger la información suministrada a la VUAT y la VUMAT por los particulares, así como cualquier acción de simplificación que los particulares deben cubrir para el cumplimiento de sus obligaciones o la obtención de un servicio, privilegiando el uso de herramientas tecnológicas;\nIII. Promover una mejor atención al usuario y garantizar claridad y simplicidad en las regulaciones y trámites;\nIV. Promover mecanismos de coordinación y concertación entre los sujetos obligados, en la consecución del objeto que la Ley plantea;\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) V. En la integración de la VUMAT y VUAT se tomará en cuenta la opinión de la comunidad, debiendo prever procedimientos de simplificación de los trámites municipales para garantizar el oportuno cumplimiento de los objetivos de estas ventanillas, según corresponda; y\nVI. El Ayuntamiento municipal deberá exigir a la comisión Municipal establecer reportes periódicos de avances e indicadores de la VUMAT para dar seguimiento a la implementación del Programa Anual y evaluar sus resultados, los cuales se harán públicos en los portales del Municipio.\n(REFORMADO, P.O. 10 DE JUNIO DE 2022)"
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "69",
+                  "nota": [],
+                  "contenido": "La VUAT será el principal espacio físico y/o electrónico al que los ciudadanos tendrán acceso para gestionar los trámites ante la autoridad estatal. La VUMAT será el principal espacio físico y/o electrónico al que los ciudadanos tendrán acceso para gestionar los trámites ante la autoridad municipal, y contarán ambas con las siguientes atribuciones:\nI. Verificar la documentación entregada por el usuario y orientarle en caso de entregar documentación incorrecta e insuficiente para el trámite que desea realizar;\nII. Enviar a las áreas competentes y autoridades municipales según sea el caso del trámite a realizar, la información correcta y completa del ciudadano a fin de que se procese el trámite respectivo sin la necesidad de tener la presencia física del interesado;\nIII. Recibir los resolutivos y vistos buenos emitidos por las áreas competentes y autoridades según sea el caso para su entrega final al ciudadano solicitante de acuerdo a los plazos establecidos para cada tramite;\nIV. Brindar asesoría, información y estatus del proceso de los trámites relacionados;\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) V. Procurar recibir mediante transferencia bancaria y cajas autorizadas por la Secretaría de Finanzas y Tesorería General del Estado y Tesorerías Municipales para el pago de derechos que correspondan a los trámites realizados;\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) VI. Brindar la documentación necesaria para dar el resolutivo final por parte de la autoridad;\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) VII. La VUAT podrá recopilar la información de los ciudadanos en la plataforma correspondiente, mediante la generación de perfiles seguros para mantener, proteger y preservar la información según corresponda, a la cual se tendrá acceso con la firma electrónica que determine el Gobierno del Estado;\n(ADICIONADA, P.O. 10 DE JUNIO DE 2022) VIII. Consultar información sobre el estado de los trámites y servicios, así como las notificaciones que se deriven de dichos trámites, y\n(ADICIONADA, P.O. 10 DE JUNIO DE 2022) VIII. (SIC) Las demás que le sean encomendadas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "SÉPTIMO",
+          "nombre": "DE LAS INSPECCIONES Y VERIFICACIONES",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "seccion",
+              "sufijo": "PRIMERA",
+              "nombre": "DE LOS CRITERIOS MÍNIMOS",
+              "nota": [],
+              "contenido": [
+                {
+                  "tipo": "articulo",
+                  "sufijo": "70",
+                  "nota": [],
+                  "contenido": "Con la finalidad de brindar la certeza jurídica a los sujetos obligados, y a los sujetos de la inspección respectiva se deberán de verificar e inspeccionar el cumplimiento de las disposiciones legales y reglamentarias de carácter local.\nSon objeto de la verificación o inspección los documentos, bienes, lugares o establecimientos donde se desarrollen actividades o presten servicios siempre que dichas\ndiligencias estén reguladas y su proceso sea determinado por una Ley o reglamento de carácter administrativo.\nTodas las verificaciones e inspecciones deberán estar normadas por una disposición de carácter administrativo y deberán de estar inscritas en el Catálogo o el Catálogo Municipal, según corresponda. Los sujetos obligados no podrán aplicar inspecciones o verificaciones adicionales a los inscritos en el Catálogo, ni aplicarlos en forma distinta a como se establezcan en el mismo. Salvo acuerdo expreso autorizado por el Ayuntamiento en caso Municipal o del Titular del Ejecutivo en caso de sujetos obligados del Estado determinando y justificando la temporalidad de la inspección. Todas las inspecciones o verificaciones deberán cumplir con los siguientes principios:\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) I. Previo a la ejecución de la visita de verificación o inspección, los servidores públicos que tengan a su cargo el desarrollo de la misma se identificaran con documento oficial, con fotografía que los acredite como tales;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) II. Durante la inspección o verificación no podrá solicitarse a los usuarios ningún requisito, formato o trámite adicional, siempre y cuando no se trate de un caso especial o extraordinario, para cuyo caso se dispondrá a los ordenamientos aplicables;\n(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017) III. No se realizará ningún cobro, pago o contraprestación durante la inspección o verificación; y\n(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2017) IV. De toda visita de verificación o inspección se levantará un acta circunstanciada de conformidad con las disposiciones legales aplicables, de la cual se dejará copia legible a la persona con la que se atienda la diligencia."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "71",
+                  "nota": [],
+                  "contenido": "La inspección y/o verificación se realizará considerando a las disposiciones siguientes:\nI. El inspector o verificador debe presentarse e identificarse ante las personas titulares de los predios, fincas, instalaciones o bienes muebles objeto de la verificación o en su caso, de sus representantes o de quienes tengan a su cargo la operación, cuidado o resguardo de las mismas, con documento idóneo, vigente y con fotografía, el cual lo acredite para realizar la verificación el día y hora señalado para la práctica de dicha diligencia, circunstancia que deberá hacerse constar en el acta que al efecto se levante, si el acto inicia en estos períodos;\nII. El resultado de la inspección o verificación se debe hacer constar en un acta circunstanciada y cuando se requieran análisis o estudios adicionales, en dictamen que se emita en forma posterior, donde se harán constar los hechos o irregularidades encontradas y en su caso, sus probables efectos, documentos de los cuales deberá entregarse copia al administrado;\nIII. En la misma acta o dictamen se debe listar los hechos y en su caso las irregularidades identificadas para dar conocimiento al administrado;\nIV. Cuando en la inspección o verificación participe una autoridad competente y se adviertan hechos que generen condiciones graves de riesgo o peligro, podrán determinarse en el mismo acto, la medida de seguridad que corresponda, de acuerdo a lo establecido en esta Ley, determinación que se hará constar en el acta circunstanciada y se notificará al administrado;\nV. En ningún caso debe imponerse sanción alguna en la misma visita de verificación; y\nVI. Si del resultado de la verificación se advierten irregularidades, el responsable del acta circunstanciada o dictamen lo remitirá a la autoridad competente, quien realizará las acciones previstas por la Ley o los reglamentos aplicables."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "72",
+                  "nota": [],
+                  "contenido": "En las Actas de inspección o verificación se debe constar como mínimo con:\nI. Nombre, denominación o razón social del visitado;\nII. Hora, día, mes y año en que se inicia y concluye la diligencia;\nIII. Calle, número y población o colonia en donde se encuentre ubicado el lugar en que se practique la visita;\nIV. En su caso, el número y fecha del oficio de comisión que motivó la diligencia;\nV. Datos generales de la persona con quien se entiende la diligencia, así como la mención del documento con el que se identifique; de igual forma el cargo de dicha persona;\nVI. Datos relativos a la actuación, incluyendo el fundamento legal en que se basó la verificación o inspección;\nVII. Declaración del visitado, si así desea hacerlo;\nVIII. En el caso de inspecciones, asentar en forma clara y precisa que se le dio debido cumplimiento conforme a lo señalado de este ordenamiento legal;\nIX. Nombre, firma y datos de los documentos con los que se identifiquen, quienes intervinieron en la diligencia, incluyendo las de los verificadores o inspectores y otras autoridades que hayan concurrido, del visitado; así como las de los testigos de asistencia;\nX. Las causas por las cuales el visitado, su representante legal con la que se entendió la diligencia, se negó a firmar si es que tuvo lugar dicho supuesto; y\nXI. Todas las demás que sean determinadas por una ley específica o reglamento de carácter administrativo.\nLa falta de alguno de los requisitos establecidos en el presente artículo, según sea el caso, será motivo de nulidad o anulabilidad."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "73",
+                  "nota": [],
+                  "contenido": "Los visitados a quienes se levante el acta de verificación o inspección, además de formular observaciones en el acto de la diligencia y ofrecer pruebas con\nrelación a los hechos contenidos en ella de forma verbal o por escrito; pueden ejercer tal derecho dentro del plazo de 15 días hábiles siguientes a la fecha en que se levantó el acta."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "74",
+                  "nota": [],
+                  "contenido": "Si del resultado de la inspección se determina la comisión de alguna infracción a las disposiciones administrativas, la autoridad podrá iniciar el procedimiento correspondiente para la imposición de las sanciones a que haya lugar, conforme los procedimientos administrativos aplicables, respetando en todo caso el derecho de audiencia y defensa."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "75",
+                  "nota": [],
+                  "contenido": "Los sujetos obligados deberán contar un mecanismo de asignación de inspectores y verificadores que cumpla con los principios de máxima publicidad, aleatoriedad, eficiencia y eficacia."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "76",
+                  "nota": [],
+                  "contenido": "La Comisión o la Comisión Municipal, según sea el caso, creará, administrará y actualizará mediante una plataforma electrónica el Padrón, para cuyo efecto los sujetos obligados, deberán proporcionarle la siguiente información, en relación con cada inspector o verificador:\nI. Nombre completo y cargo;\nII. Área administrativa y dependencia a la que pertenece;\nIII. Nombre y cargo del jefe inmediato;\nIV. Horarios de atención y servicio;\nV. Fotografía;\nVI. Vigencia de cargo;\nVII. Materia y giro de inspección o verificación; y\nVIII. Domicilio, número de teléfono y correo electrónico."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "77",
+                  "nota": [],
+                  "contenido": "La información a que se refiere el artículo anterior deberá entregarse a la Comisión o la Comisión Municipal, según sea el caso, en la forma en que dicho órgano lo determine y la Comisión deberá inscribirla en el Padrón, sin cambio alguno, salvo por mejoras ortográficas y de redacción, dentro de los cinco días hábiles siguientes a la recepción de la misma."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "78",
+                  "nota": [],
+                  "contenido": "Los sujetos obligados, deberán notificar a la Comisión o la Comisión Municipal, según sea el caso, cualquier modificación a la información inscrita en el Padrón, dentro de los diez días hábiles siguientes a que ocurra la modificación."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "79",
+                  "nota": [],
+                  "contenido": "La legalidad y el contenido de la información que se inscriba en el Padrón serán de estricta responsabilidad de los sujetos obligados."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "80",
+                  "nota": [],
+                  "contenido": "Ningún funcionario público podrá llevar a cabo actos de inspección o verificación si no se encuentra debidamente inscrito en el Padrón."
+                }
+              ]
+            },
+            {
+              "tipo": "seccion",
+              "sufijo": "SEGUNDA",
+              "nombre": "DE LA SUSPENSIÓN DE LAS VISITAS DE VERIFICACIÓN",
+              "nota": [],
+              "contenido": [
+                {
+                  "tipo": "articulo",
+                  "sufijo": "81",
+                  "nota": [],
+                  "contenido": "A fin de promover el desarrollo económico, conservar y generar empleos, promover la inversión y proporcionar seguridad y certeza jurídica, los sujetos obligados, tendrán la facultad de suspender de manera temporal por el periodo de hasta un año, las visitas de verificación administrativa a los establecimientos señalados en la fracción IX del artículo 3 de la Ley de Fomento a la Micro, Pequeña y Mediana Empresa del Estado de Nuevo León que inicien operaciones por primera vez en el estado."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "82",
+                  "nota": [],
+                  "contenido": "Para obtener los beneficios de la suspensión temporal, los titulares de las empresas mencionadas en el artículo anterior deberán darse de alta vía electrónica en el Registro que se señala en el Título V de la presente ley. Esta disposición es aplicable siempre que no sea contradictoria a la disposición jurídica vigente."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "83",
+                  "nota": [],
+                  "contenido": "Durante el periodo de tiempo que perdure la suspensión, los sujetos obligados deberán establecer programas de asistencia técnica, regularización y de facilidades fiscales que permita a las empresas beneficiadas regularizar su situación jurídica."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "84",
+                  "nota": [],
+                  "contenido": "No podrán ser objeto de este beneficio aquellas empresas de venta de alimentos o bebidas alcohólicas."
+                },
+                {
+                  "tipo": "articulo",
+                  "sufijo": "85",
+                  "nota": [],
+                  "contenido": "El beneficio se suspenderá cuando concurra alguno de los siguientes supuestos:\nI. Cuando exista denuncia ciudadana por escrito;\nII. Cuando el o los sujetos obligados tengan conocimiento de un hecho que pueda constituir algún delito;\nIII. Cuando el o los sujetos obligados al realizar la revisión de la documentación presentada para obtener el beneficio, se percaten de irregularidades o de que la empresa había iniciado operaciones con anterioridad al programa;\nIV. Cuando el o los sujetos obligados tengan conocimiento de accidentes, o siniestros ocurridos en algún establecimiento;\nV. Cuando la empresa o su representante proporcione información falsa o se conduzca con dolo, violencia o mala fe; y\nVI. Cuando el o los sujetos obligados tengan conocimiento de que existe inminente peligro para la integridad física de las personas, de la salud, de la seguridad pública o el medio ambiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "CUARTO",
+      "nombre": "DE LAS HERRAMIENTAS DE MEJORA REGULATORIA EN LOS PODERES DEL ESTADO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "PRIMERO",
+          "nombre": "DEL SISTEMA ESTADÍSTICO PARA MONITOREO Y EVALUACIÓN DE TIEMPOS EN PROCEDIMIENTOS JUDICIALES",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "86",
+              "nota": [],
+              "contenido": "El Poder Judicial del Estado deberá crear una Comisión de Mejora Regulatoria para promover al interior del Tribunal Superior de Justicia y el Consejo de la Judicatura los principios establecidos en el artículo 4 de la presente Ley."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "87",
+              "nota": [],
+              "contenido": "El Poder Judicial del Estado deberá contar con un sistema estadístico para monitoreo y evaluación de tiempos de los procedimientos judiciales mercantiles con miras a contribuir con el fortalecimiento y agilización de los procesos de resolución de controversias."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "88",
+              "nota": [],
+              "contenido": "El Poder Judicial del Estado deberá contar con un sistema de notificaciones eficiente, mediante la implementación de una central de actuarios, que es la unidad encargada de organizar el turno aleatorio y llevar el control de las diligencias y ejecuciones de todo tipo de mandamientos judiciales, lo cual permite llevar un mayor control y disminuir los tiempos de notificación a las partes involucradas en el litigio."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "89",
+              "nota": [],
+              "contenido": "El Poder Judicial del Estado deberá contar con un sistema de gestión de información judicial, como herramienta para permitir el manejo del juicio como un proceso organizacional a través de medios electrónicos, en la que intervengan diferentes funcionarios para optimizar los tiempos de traslado de los expedientes y las diferentes tareas asociadas al trámite del juicio."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "SEGUNDO",
+          "nombre": "DE LA MEJORA REGULATORIA EN EL PODER LEGISLATIVO",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "90",
+              "nota": [],
+              "contenido": "El Poder Legislativo del Estado, contribuirá en el ámbito de su competencia, a la mejora regulatoria y simplificación administrativa en el Estado a través del diseño y ejecución de planes, programas y acciones, al interior de sus instituciones, las que se apegarán, en lo conducente, a las disposiciones y principios de la presente Ley y su Reglamento."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "91",
+              "nota": [],
+              "contenido": "El Congreso del Estado de Nuevo León a través del Centro de Estudios Legislativos, realizará revisiones periódicas de las Leyes en vigor para evaluar el cumplimiento de sus objetivos y los impactos generados como resultado de su aplicación, a fin de analizar su pertinencia y mejora continua."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "QUINTO",
+      "nombre": "DEL REGISTRO DE EXPEDIENTE ELECTRÓNICO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "ÚNICO",
+          "nombre": "DE LA CREACIÓN, OBJETO Y REQUISITOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "92",
+              "nota": [],
+              "contenido": "Se crea el Registro, con el objeto de documentar por una sola vez la información sobre la constitución y funcionamiento de las personas morales y la correspondiente a las personas físicas que así lo deseen, para realizar trámites y servicios ante los sujetos obligados para lo cual se emitirá al interesado una clave de identificación personalizada y se integrará una base de datos.\nLos sujetos obligados inscribirán a los usuarios que realicen trámites y servicios en el ámbito de su competencia. Para ello integrarán una clave de identificación particularizada basada en los elementos de la Clave Única del Registro de Población para las personas físicas y para las personas morales, basado en la Cédula de Identificación Fiscal.\nSin perjuicio de lo que al efecto prevea el Reglamento, la documentación mínima que se requerirá para la inscripción en el Registro será la referente a:\nI. La acreditación de la constitución de la persona moral;\nII. La acreditación de la personalidad de representantes o apoderados; y\nIII. Cédula de Identificación Fiscal.\nAsí como las demás disposiciones aplicables de conformidad con la Ley sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "93",
+              "nota": [],
+              "contenido": "Una vez inscrito el usuario en el Registro, los sujetos obligados no deberán solicitarle la documentación integrada en la ficha particularizada correspondiente y será válida para realizar trámites o servicios en cualquiera de los sujetos obligados, salvo que el trámite o servicio de que se trate, requiera documentación particular o adicional. Así como las demás disposiciones aplicables de conformidad con la Ley sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "SEXTO",
+      "nombre": "DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "PRIMERO",
+          "nombre": "DE LAS INFRACCIONES",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "94",
+              "nota": [],
+              "contenido": "Las infracciones administrativas que se generen por el incumplimiento a lo previsto en la presente Ley, se sancionarán de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, sin perjuicio de las demás sanciones que resulten aplicables."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "95",
+              "nota": [],
+              "contenido": "La Comisión deberá informar a la Contraloría y Transparencia Gubernamental, respecto de los casos que tenga conocimiento de incumplimiento a lo\nprevisto en la presente Ley para que, en su caso, determine las acciones que correspondan."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "96",
+              "nota": [],
+              "contenido": "Sin perjuicio de las infracciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, constituyen infracciones administrativas en materia de mejora regulatoria imputables a los servidores públicos, las siguientes:\nI. Omisión de la notificación de la información a inscribirse o modificarse en el Catálogo Estatal o Municipal de Trámites y Servicios, respecto de trámites a realizarse por los particulares para cumplir con una obligación, dentro de los diez días hábiles siguientes a la entrada en vigor de la disposición que regule dicho trámite;\nII. Omisión de entrega al responsable de la Comisión de los proyectos y demás actos materia del conocimiento de ésta, acompañados con los Análisis correspondientes;\nIII. Solicitud de trámites, requisitos, cargas tributarias, datos o documentos adicionales a los inscritos en el Registro;\nIV. Incumplimiento de plazos de respuesta establecidos en cada trámite, inscrito en los Registros Estatal y Municipales, de Trámites y Servicios;\nV. Incumplimiento sin causa justificada a los programas y acciones de mejora regulatoria aprobados en el Ejercicio Fiscal que corresponda, en perjuicio de terceros;\nVI. Entorpecimiento del desarrollo de la Política Pública de mejora regulatoria en detrimento de la sociedad, mediante cualquiera de las conductas siguientes:\na) Alteración de reglas y procedimientos;\nb) Negligencia o mala fe en el manejo de los documentos o pérdida de éstos;\nc) Negligencia o mala fe en la integración de expedientes;\nd) Negligencia o mala fe en el seguimiento de trámites;\ne) Cualquier otra que pueda generar intencionalmente perjuicios o atrasos en las materias previstas en esta Ley; y\nVII. Falta de actualización del Catálogo y los Catálogos Municipales, en los términos del artículo 2 de esta Ley, su Reglamento y demás aplicables.\nLa Comisión respectiva informará por escrito a la Contraloría que corresponda, de los casos que tenga conocimiento sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.\nEn caso de no hacerlo habiéndose comprobado su pleno conocimiento, el Titular o funcionario de la Comisión incurrirá en algunas de las infracciones administrativas, así\ncomo las que sean tipificadas de conformidad a la Ley de Responsabilidad de los Servidores Públicos."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "SEGUNDO",
+          "nombre": "DE LAS CAUSAS DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "97",
+              "nota": [],
+              "contenido": "Los actos u omisiones que deriven del incumplimiento a lo previsto en esta Ley, serán causal de responsabilidad administrativa y les corresponderá las sanciones administrativas que las autoridades competentes de los estados y municipios apliquen de conformidad con la legislación aplicable en materia de responsabilidades administrativas."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "TERCERO",
+          "nombre": "DE LAS SANCIONES",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "98",
+              "nota": [],
+              "contenido": "Las infracciones administrativas a las que se refieren los artículos 95, 96 y97 de esta Ley serán imputables al servidor público que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas y sancionadas por el Órgano de Control Interno competente y/o la Contraloría del Estado."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "99",
+              "nota": [],
+              "contenido": "Sin perjuicio de lo establecido en las Leyes administrativas, el servidor público que incurra en responsabilidad con motivo del artículo 96, fracción VI, será sancionado con inhabilitación de 1 a 10 años en el servicio público estatal y municipal."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "100",
+              "nota": [],
+              "contenido": "La Comisión o la Comisión Municipal denunciará por escrito a la Controlaría que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "CUARTO",
+          "nombre": "DE LA QUEJA CIUDADANA",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "101",
+              "nota": [],
+              "contenido": "Cualquier ciudadano o persona moral de cualquier nacionalidad que opere en el Estado, o tenga el propósito evidente de operar en éste, podrán formular las quejas en los casos siguientes:\nI. Cuando cualquier dato o característica de un trámite o servicio de Dependencia o Entidad de la Administración Pública Estatal o Municipal, que pretenda aplicar la Dependencia o Entidad respectiva, no corresponda a la que aparece en la Ficha Técnica publicada en Internet dentro del Catálogo; y\nII. Cuando un trámite o servicio que ponga en riesgo la seguridad y/o salud de la población del Estado."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "102",
+              "nota": [],
+              "contenido": "La queja deberá contener lo siguiente:\nI. El nombre, denominación o razón social del quejoso;\nII. En nombre, domicilio y personalidad del compareciente;\nIII. Copia certificada de la escritura constitutiva de la persona moral, de ser mexicana o copia de documento que acredite la existencia legal de la persona moral extranjera;\nIV. Copia certificada del documento con el que se acredite la personalidad del compareciente, al tratarse de persona moral mexicana o copia de documento que acredite la personalidad de quien comparezca en representación de persona moral extranjera; y\nV. La exposición de la causa por la que se formula la queja."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "103",
+              "nota": [],
+              "contenido": "La queja se deberá presentar ante el Consejo Estatal de Mejora Regulatoria, a la Comisión Estatal de Mejora Regulatoria o su equivalente, quien deberá remitirla dentro de los diez días hábiles siguientes, con la opinión correspondiente, al Titular y al Enlace para la Mejora Regulatoria de la Dependencia o de la Entidad respectiva, para que se dé a la queja la debida atención, y solución en su caso."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "104",
+              "nota": [],
+              "contenido": "La materia de toda queja deberá ser parte de los Programas de Mejora Regulatoria."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "QUINTO",
+          "nombre": "DE LOS MEDIOS DE DEFENSA",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "105",
+              "nota": [],
+              "contenido": "Los interesados afectados por los actos y resoluciones que dicten o ejecuten las autoridades estatales o municipales, según sea el caso, con apoyo en la presente Ley, intentar directamente la vía jurisdiccional que corresponda."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 29,
+  "n_perm_fracciones": 85,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO Objeto y sujetos de la Ley",
+    "CAPÍTULO SEGUNDO De las atribuciones y obligaciones de la Secretaría",
+    "CAPÍTULO TERCERO De las atribuciones y obligaciones de los gobiernos municipales",
+    "CAPÍTULO CUARTO De las áreas verdes urbanas",
+    "CAPÍTULO QUINTO Del manejo y mantenimiento de las palmas y árboles",
+    "CAPÍTULO SEXTO Del trasplante y derribo de árboles y palmas",
+    "CAPÍTULO SÉPTIMO De la restitución",
+    "CAPÍTULO OCTAVO Del riesgo",
+    "CAPÍTULO NOVENO De las prohibiciones y sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

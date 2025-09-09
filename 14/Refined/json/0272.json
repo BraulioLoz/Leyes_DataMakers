@@ -1,0 +1,518 @@
+{
+  "0272.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nEnrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 28294/LXII/21 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE JALISCO",
+    "Año_publicación": null,
+    "Título": "SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Objeto de la Ley.\n1. La presente Ley es de orden público, interés social y tiene por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establec\nlegitimadas por ley, una vez que esta es emitida por el Juzgado de Primera Instancia competente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Reconocer, proteger y garantizar la continuidad de la personalidad jurídica y los derechos de la Persona Desaparecida; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Brindar certeza jurídica a la representación de los intereses y derechos de la Persona Desaparecida; familiares o personas legitimadas por ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Interpretación y supletoriedad de la Ley.\n1. derechos de la Persona Desaparecida y sus familiares, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, la Constitución Política del Estado de Jalisco, la Ley General, y la legislación local en materia de desaparición forzada de personas y de desaparición cometida por particulares. A falta supletoria, la legislación en materia civil y procesal civil aplicables al estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Glosario.\n1. Para efectos de esta Ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asesor Jurídico: A la persona con cargo de Asesor Jurídico adscrita a la Comisión Ejecutiva Estatal de Atención a Víctimas de Jalisco o Asesor Jurídico privado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Código Civil: Código Civil del Estado Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Código de Procedimientos Civiles: Código de Procedimientos Civiles vigente en el Estado de Jalisco."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Comisión Ejecutiva: A la Comisión Ejecutiva Estatal de Atención a Víctimas Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Comisión Estatal: A la Comisión Estatal de Derechos Humanos Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Comisión de Búsqueda: A la Comisión de Búsqueda de Personas del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Declaración Especial de Ausencia: A la Declaración Especial de Ausencia por Desaparición de Personas del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Familiares: A las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea colateralhasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad de convivencia u otras figuras jurídicas análogas; y el adoptante o adoptado con parentesco civil con la Persona Desaparecida. Asimismo, las personas que dependan"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fiscalía Especial: La Fiscalía Especial en Personas Desaparecidas, órgano especializado de la Fiscalía Estatal, encargado de iniciar, dirigir, coordinar y supervisar las investigaciones relacionadas con los delitos señalados en la legislación general y local en materia de desaparición;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Fiscalía Estatal: La Fiscalía del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Juzgado de Primera Instancia: Juzgado de Primera Instancia que conozca de asuntos en materia familiar."
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Mecanismo de Apoyo Exterior: El Mecanismo de Apoyo Exterior de Búsqueda e Investigación previsto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Persona Desaparecida: A la persona cuya ubicación y paradero se desconoce independientemente de que su ausencia se relacione o no con la comisión de un delito;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Queja: Es el acto o documento que puede presentar una persona ante un órgano autónomo en términos del artículo 10 de la Constitución Política del Estado de Jalisco; o el articulo 102 apartado B de la Constitución Política de los Estados Unidos Mexicanos, cuando sean violados sus derechos humanos o los de otra persona; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Reporte: A la comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Principios.\n1. Las acciones, medidas y procedimientos establecidos en esta Ley se rigen por los principios siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Buena Fe. El Juzgado de Primera Instancia que conozca de la solicitud, así como las autoridades competentes, presumirán la buena fe de Familiares y personas que tengan una relación afectiva inmediata y cotidiana con la Persona Desaparecida, es decir que actúan con honestidad, lealtad y sinceridad, por lo que deberán brindarles la atención que requieran para la correcta aplicación de la presente Ley, así como respetar y permitir el ejercicio efectivo de sus derechos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Celeridad. El procedimiento de la Declaración Especial de Ausencia deberá atender los plazos señalados en esta Ley y evitar cualquier tipo de retrasos indebidos o injustificados;\nceder los seis meses sin que exista una resolución de Declaración Especial de Ausencia por parte de los Juzgados de Primera Instancia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Enfoque Diferencial y Especializado. Las autoridades que apliquen esta Ley, están obligadas, en el respectivo ámbito de sus competencias, a brindar una atención especializada, garantías especiales y medidas de protección a los grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, genero, identidad de género, preferencia u orientación sexual, etnia, discapacidad; en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas. Entre los grupos antes señalados, están considerados como expuestos a un mayor riesgo de violación de sus derechos, a las niñas, niños, adolescentes, mujeres, personas mayores, personas con discapacidad, migrantes, refugiadas, solicitantes de asilo, afromexicanas, integrantes de pueblos y comunidades indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento forzado interno;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Gratuidad. con la Declaración Especial de Ausencia serán gratuitos para familiares y las personas legitimadas en esta Ley. Asimismo, las autoridades competentes que participen en los actos y procesos relacionados con la Declaración Especial de Ausencia, con cargo a su presupuesto deben erogar los costos relacionados con su trámite, incluso los que se generen después de emitida la resolución;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Igualdad y No Discriminación. En el ejercicio de los derechos y garantías de la Persona Desaparecida, familiares y personas legitimadas, en todos los procedimientos a los que se refiere la presente Ley, las autoridades involucradas en el procedimiento de Declaración Especial de Ausencia se conducirán sin distinción, exclusión o restricción motivada por origen étnico o nacional, sexo, discapacidad, condición social, económica o de salud, embarazo, lengua, religión, opinión, preferencia sexual, identidad de género, estado civil o cualquier otra que tenga por efecto impedir, anular o menoscabar el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Inmediatez. A partir de la solicitud de la Declaración Especial de Ausencia, el Juzgado de Primera Instancia haga la solicitud, familiares y personas legitimadas por esta Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Interés Superior de la Niñez.\ny adolescentes, y velar porque la protección que se les brinde sea armónica e integral, considerando su desarrollo evolutivo y cognitivo, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, tratados internacionales en la materia en los que el Estado Mexicano sea parte y la legislación aplicable;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Máxima Protección. Las autoridades deben velar por la aplicación y el cumplimiento de las medidas apropiadas para asegurar la protección más amplia a la Persona Desaparecida, familiares, personas legitimadas por esta Ley o a quien tenga un interés jurídico en la Declaración Especial de Ausencia. El Juzgado de Primera Instancia que conozca de un procedimiento de Declaración Especial de Ausencia debe suplir la deficiencia de los planteamientos consignados en la solicitud;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Perspectiva de Género.\nelemento que propicie situaciones de desventaja, discriminación o violencia contra las mujeres; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Presunción de Vida. En las acciones, mecanismos y procedimientos para la emisión de la Declaración Especial de Ausencia, las autoridades involucradas en el"
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Legitimación activa.\n1. Familiares y personas legitimadas por la Ley que tengan abierta una denuncia, queja o reporte, ante cualquier autoridad competente o un procedimiento ante una instancia internacional, podrán optar por presentar la solicitud de Declaración Especial de Ausencia ante el Juzgado de Primera Instancia\n2. De manera excepcional, bajo protesta de decir verdad y de conformidad con el principio de buena fe, familiares y personas legitimadas por esta Ley podrán presentar solicitud de Declaración Especial de Ausencia, aún sin que exista denuncia, queja, reporte previo o procedimiento ante una instancia internacional, cuando manifieste miedo, amenazas o exista un entorno coercitivo que les haya impedido acudir a las autoridades competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Sujetos legitimados para solicitar la Declaración.\n1. Pueden solicitar la Declaración Especial de Ausencia, sin orden de prelación entre los solicitantes:",
+            "Fracciones": [
+              {
+                "Fracción": "V",
+                "Texto": "La Procuraduría de Protección de Niñas, Niños y Adolescentes, a solicitud de familiares o personas legitimadas, a fin de llevar la representación coadyuvante o en suplencia de Niñas, Niños y Adolescentes desaparecidos o familiares, sin perjuicio de la intervención que corresponda a la representación social.\n2. Las personas solicitantes contempladas en las fracciones I y II podrán desistirse de continuar con el procedimiento en cualquier momento antes de emitida la Declaración Especial de Ausencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Término para interponer la solicitud.\n1. El procedimiento de Declaración Especial de Ausencia podrá solicitarse a partir de los 30 días naturales de que se haya hecho la denuncia, queja, reporte de desaparición o procedimiento ante una instancia internacional.\n2. Tratándose de la excepción establecida en el numeral 2 del artículo 5 de esta Ley, el procedimiento podrá solicitarse a partir de los 30 días naturales de que se tuvo conocimiento de la desaparición de la persona.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Obligaciones de las autoridades.\n1. La Fiscalía Estatal, la Fiscalía Especial, la Comisión Ejecutiva, la Comisión de Búsqueda y la Comisión Estatal, según corresponda, tienen la obligación de informar del procedimiento y los efectos de la Declaración Especial de Ausencia a los familiares o sus representantes legales; así",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Familiares;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "III. Las personas que funjan como representantes legales de familiares;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "como a las personas legitimadas por esta Ley, en el término de cinco días hábiles, contados a partir de que tengan verificativo los 30 días naturales referidos en el artículo anterior, debiendo dejar constancia de ello.\n2. Tratándose de la excepción establecida en el numeral 2 del artículo 5 de esta Ley, Familiares y personas legitimadas por esta Ley, aun sin contar con investigación penal abierta, un reporte, queja o procedimiento ante una instancia internacional, podrán solicitar la Declaración Especial de Ausencia 30 días naturales contados a partir de que se tuvo conocimiento de la desaparición de la persona.\n3. Cuando así lo requieran familiares o las personas legitimadas en esta Ley, la Comisión Ejecutiva asi Ausencia, en un plazo no mayor a cinco días hábiles contados a partir de la recepción de dicho requerimiento, siempre que se presente en el lapso citado en el artículo anterior\nAusencia, en términos de la legislación aplicable.\n4. La Fiscalía Especial y la Comisión Ejecutiva, facilitarán a familiares u otras personas legitimadas en términos de este artículo, el formato correspondiente para dejar constancia escrita de la petición hecha con fundamento en los dos párrafos que anteceden.\n5. La solicitud que los asesores jurídicos de la Comisión Ejecutiva hagan al Juzgado de Primera Instancia\nconformidad con los principios de perspectiva de género, interés superior de la niñez, y un enfoque diferencial y especializado.\n6. La Comisión Ejecutiva deberá otorgar las medidas de asistencia y protección necesarias a familiares durante el procedimiento, incluido el gasto que se genere con motivo del mismo, de conformidad con lo dispuesto en la Ley de Víctimas del Estado y demás normativa aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Contenido de la solicitud.",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El nombre, parentesco o relación de la persona solicitante con la Persona Desaparecida y sus datos generales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El nombre, fecha de nacimiento y el estado civil de la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El número de la averiguación previa, la carpeta de investigación, o acta circunstanciada del reporte o del expediente de queja o un procedimiento ante una instancia internacional en donde se narren los hechos de la desaparición;\nEn caso de que ninguno de estos documentos exista, por encontrarse en el supuesto del artículo 5, numeral 2; la solicitud deberá contener cualquier información que permita presumir en apariencia que la ausencia es consecuencia de la desaparición de la persona. Lo anterior, con independencia que, durante el procedimiento, el Juzgado de Primera Instancia se allegue de mayor información o elementos para resolver la Declaración Especial de Ausencia y sus efectos."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La fecha y lugar de los hechos relacionados con la desaparición; cuando no se tenga precisión sobre la fecha o el lugar, ba"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El nombre y edad de familiares o las personas legitimadas por esta Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "fuente de trabajo y, si los hubiere, datos del régimen de seguridad social al que pertenezca la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los bienes y derechos de la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los efectos que se solicita tenga la Declaración Especial de Ausencia en los términos del"
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "e esta Ley;",
+            "Fracciones": [
+              {
+                "Fracción": "IX",
+                "Texto": "Toda aquella información que la persona solicitante haga llegar al Juzgado de Primera Instancia para acreditar la identidad de la persona desaparecida; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cualquier otra información que el solicitante estime relevante para determinar los efectos de la Declaración Especial de Ausencia.\n2. Tratándose de la fracción VIII, al resolver sobre los efectos de la Declaración Especial de Ausencia que se emita, el Juzgado de Primera Instancia atender los principios consagrados en esta Ley y no exclusivamente lo que le fue solicitado."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Deber de proporcionar traductor o intérprete.\n1. Cuando la persona que solicite o participe en el procedimiento de la Declaración Especial de Ausencia pertenezca a una comunidad o pueblo indígena o sea extranjera y no hable el español, todas las autoridades que participen en el procedimiento tendrán la obligación, cada una en el ámbito de sus competencias y responsabilidades, dependiendo de la etapa en la que se encuentre la solicitud o el procedimiento, de proporcionar de oficio una persona traductora o interprete para todo acto en el que tenga que intervenir.\n2. Cuando la persona que solicite o participe en el procedimiento de la Declaración Especial de Ausencia sea una persona con discapacidad, niña, niño o adolescente o mayor, todas las autoridades que participen en el procedimiento tendrán la obligación, cada una en el ámbito de sus competencias y responsabilidades, dependiendo de la etapa en la que se encuentre la solicitud, o el procedimiento, de adoptar de oficio, las medidas especiales que les garanticen el acceso a la justicia en condiciones de igualdad y no discriminación.\n3. Particularmente, se adoptarán medidas que garanticen la comunicación como pueden ser el uso de un intérprete de lenguas de señas, el uso de lenguaje sencillo o escrito, la visualización de textos, documentos de fácil lectura, documentos Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia de fácil acceso, los sistemas auditivos, los medios de voz digitalizada y otros modos, medios y formato aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Migrantes.\n1. Cuando el procedimiento de Declaración Especial de Ausencia verse sobre una Persona Desaparecida que sea migrante, el Juzgado de Primera Instancia o para garantizar el acceso de familiares o personas legitimadas por esta Ley al procedimiento, en términos de su competencia. Asimismo, el Juzgado de Primera Instancia necesarias para la protección de la Persona Desaparecida, familiares y personas legitimadas por esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Deber de informar al país de origen de víctimas extranjeras.\n1. Al iniciar un procedimiento de Declaración Especial de Ausencia de una persona que tenga la condición de extranjera, el Juzgado de Primera Instancia\nsolicitud presentada a la Embajada, Consulado o Agregaduría del país de origen de la Persona Desaparecida.\n2. Asimismo, una vez concluido el procedimiento, el Juzgado de Primera Instancia hacer llegar una copia certificada de la resolución de Declaración Especial de Ausencia a la Embajada, Consulado o Agregaduría del país de origen de la Persona Desaparecida.\n3. En el caso de personas refugiadas, solicitantes de asilo o bajo una protección internacional, tendrán la máxima protección de acuerdo a la Convención sobre el Estatuto de Refugiados y los tratados internacionales en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Determinación de competencia.\n1. Para determinar la competencia del Juzgado de Primera Instancia\nsiguientes criterios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El domicilio de la persona que promueva la solicitud;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El último domicilio de la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El lugar en donde se presuma que ocurrió la desaparición, o"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El lugar en donde se esté llevando a cabo la investigación o la búsqueda."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Plazo para admitir la solicitud.\n1. El Juzgado de Primera Instancia que reciba la solicitud proveerá sobre la admisión de la misma en un lapso no mayor a tres días hábiles, contados a partir de su recepción y verificar la información que le sea presentada.\n2. Tratándose de la solicitud de Declaración Especial de Ausencia que se encuentren en el supuesto establecido en el numeral 2 del artículo 5 de esta Ley, el Juzgado de Primera Instancia, proveerá la admisión en el mismo plazo. Asimismo, solicitará a la Comisión de Búsqueda iniciar inmediatamente la búsqueda y localización de la persona por la que se solicita la Declaración; así como, a la Fiscalía Especial iniciar la investigación penal correspondiente, proporcionando la información que se considere pertinente sobre los hechos e identidad de la persona que se señala como desaparecida.\n3. El Juzgado de Primera Instancia prevendrá a dichas autoridades a fin de que, las acciones de búsqueda y localización; así como de investigación, no dependan ni se basen, únicamente, en la información que puedan proporcionar Familiares o personas legitimadas por esta Ley, en caso de que decidan participar. Asimismo, solicitará que se adopten las medidas de protección pertinentes a favor de dichas personas.\n4. En todo caso, el Juzgado de Primera Instancia dará vista a la Procuraduría Social del Estado de Jalisco y, en su caso, a la Procuraduría de Protección de Niñas, Niños y Adolescentes, para garantizar la legalidad, en los términos establecidos en la legislación procesal civil aplicable.\n5. Para los casos del artículo 5, numeral 2, el Juzgado de Primera Instancia al admitir la demanda, deberá girar oficio a la Fiscalía Especial para que esta a su vez realice las investigaciones correspondientes, en un plazo no mayor a 15 días hábiles.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Requerimientos y valoración de la información por el Juzgado de Primera Instancia para el análisis y resolución de la Declaración Especial de Ausencia.\n1. El Juzgado de Primera Instancia le requerirá a la Fiscalía Especial o al Ministerio Público a cargo de la investigación; a la Comisión de Búsqueda o Comisión Nacional de Búsqueda, a la\nComisión Estatal o Nacional de los Derechos Humanos, o a la Comisión Ejecutiva, según corresponda, que le remitan oficio que contenga información pertinente que obre en sus expedientes, en copia certificada o auténtica, en un plazo no mayor a 05 días hábiles.\n2. Tratándose de la solicitud de Declaración Especial de Ausencia que se encuentren en el supuesto establecido en el numeral 2 del artículo 5 de esta Ley, el Juzgado de Primera Instancia solicitará a la Comisión de Búsqueda iniciar inmediatamente la búsqueda y localización de la persona por la que se solicita la Declaración; así como a la Fiscalía Especial, iniciar la investigación penal correspondiente, proporcionando la información que se considere pertinente sobre los hechos e identidad de la persona que se señala como desaparecida.\n3. El Juzgado de Primera Instancia prevendrá a dichas autoridades a fin de que, las acciones de búsqueda y localización; así como de investigación, no dependan ni se basen, únicamente, en la información que puedan proporcionar familiares o personas legitimadas por esta Ley, en caso de que decidan participar. Asimismo, solicitará que se adopten las medidas de protección acordes a las necesidades de dichas personas.\n4. En el supuesto del numeral anterior, la Comisión de Búsqueda y Fiscalía Especial, iniciadas las acciones de búsqueda y localización, así como de investigación, contarán con un plazo no mayor a 15 días hábiles para, a su vez, remitir al Juzgado de Primera Instancia la información pertinente que obre en sus expedientes.\n5. dependencias, instituciones públicas o privadas, o personas físicas o jurídicas, incluidos familiares de la Persona Desaparecida. Quienes sean requeridos tendrán un plazo de cinco días hábiles contados a partir de que reciban el requerimiento para atenderlo.\n6. De igual forma, deberá requerir a cualquier dependencia, sea pública o privada, para acreditar la identidad y personalidad jurídica de la Persona Desaparecida, en el plazo establecido en el numeral anterior.\n7. El Juzgado de Primera Instancia las autoridades referidas en los numerales que anteceden, y valorará la información remitida por instituciones p Declaración Especial de Ausencia con la sola presunción de que la ausencia de la Persona Desaparecida se relacione con la comisión de un delito.\n8. De igual forma, el Juzgado de Primera Instancia, en los casos que proceda y, conforme a los efectos que se pretenda obtener con la declaración, dará vista a los terceros para que hagan valer los derechos que estimen pertinentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Medidas provisionales y cautelares.\n1. A fin de garantizar la Máxima Protección a la Persona Desaparecida, sus familiares y las personas legitimadas por esta Ley, el Juzgado de Primera Instancia deberá dictar las medidas provisionales y cautelares que resulten necesarias en cualquier momento a partir de la admisión de la solicitud de Declaración Especial de Ausencia.\n2. Las medidas versarán sobre aquellas necesidades específicas que advierta de la revisión de la solicitud y la información que le remitan las autoridades competentes, particularmente la Comisión Ejecutiva, sobre la guarda, alimentos, patria potestad y uso de la vivienda, así como las que considere necesarias, bajo el Principio de Máxima Protección.\n3. El Juzgado de Primera Instancia podrá, con posterioridad a la admisión, modificar las medidas cautelares decretadas u otorgar nuevas medidas, de acuerdo con la información recabada durante el procedimiento, atendiendo al Principio de Máxima Protección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Gratuidad en la publicación de edictos.\n1. de forma gratuita para familiares o per\n. 2. La Comisión Ejecutiva deberá asumir el pago que corresponda en la publicación de edictos en periódicos de amplia circulación en el estado.\n3. Si la Persona Desaparecida pertenece a una comunidad indígena, el Juzgado de Primera Instancia ordenará la publicación de los edictos en los estrados de los Ayuntamientos que estime pertinentes y, en su caso, en la lengua originaria del lugar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Plazo para resolver, en definitiva, sobre la Declaración Especial de Ausencia.\n1. Transcurridos quince días naturales desde la fecha de la última publicación de los edictos, y si no hubiere noticias de la Persona Desaparecida u oposición de alguna persona interesada, el Juzgado de Primera Instancia resolverá, en forma definitiva, sobre la Declaración Especial de Ausencia.\n2. Si hubiere noticias de la Persona Desaparecida u oposición de alguna persona interesada, el Juzgado de Primera Instancia no podrá resolver sobre la Declaración Especial de Ausencia sin escuchar a la persona y valorar la información o de las pruebas que es\nsolicitud de Declaración Especial de Ausencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Impugnación.\n1. La no admisión de la solicitud, las medidas provisionales y cautelares, así como la resolución que el Juzgado de Primera Instancia dicte respecto a la Declaración Especial de Ausencia, podrán ser impugnadas mediante la interposición del recurso de apelación, de conformidad con las disposiciones aplicables del Código de Procedimientos Civiles.\n2. Las personas con interés legítimo podrán impugnar la resolución cuando consideren que los efectos de la Declaración Especial de Ausencia no atiendan plenamente a sus derechos o necesidades.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Publicación de la resolución.\n1. Una vez que cause estado la resolución dictada por el Juzgado de Primera Instancia para garantizar la Máxima Protección a la Persona Desaparecida, familiares y personas legitimadas en esta Ley, el Juzgado de Primera Instancia de que se haga la inscripción en el Registro Civil cor\nAusencia en el Periódico Oficial del Estado, en las páginas electrónicas oficiales de la Fiscalía Estatal, Fiscalía Estado\n2. Si el Juzgado de Primera Instancia más Ayuntamientos, de conform en estos mismos medios sea publicada la resolución correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Efectos mínimos de la Declaración Especial de Ausencia.\n1. mo mínimo, los siguientes efectos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El reconocimiento de la ausencia por desaparición de la persona y la continuidad de su personalidad jurídica desde la fecha en que se consigna el hecho en la denuncia, reporte, queja, procedimiento ante instancia internacional o en la solicitud Declaración de Ausencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Garantizar la conservación de la patria potestad de la Persona Desaparecida y la protección de los derechos y bienes de las y los hijos menores de 18 años de edad o mayores de edad considerados incapaces, en términos de la Legislación aplicable, respetando sus derechos, voluntad y las preferencias en quienes puedan ejercer la patria potestad o, en su caso, a través de la designación de una persona tutora, atendiendo al principio del interés superior de la niñez, así como el respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones, y la independencia de las personas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fijar los derechos de guarda y custodia de las personas menores de 18 años de edad o mayores de edad incapaces en términos de la legislación civil aplicable, atendiendo al principio del interés superior de la niñez, así como el respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones, y la independencia de las personas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": ""
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fijar la forma y plazos para que familiares o personas legitimadas por esta Ley, puedan acceder, previo control judicial, al patrimonio de la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Permitir que las personas beneficiarias de un régimen de seguridad social derivado de una relación de trabajo de la Persona Desaparecida continúen gozando de todos los derechos y beneficios aplicables a este régimen, conforme a lo establecido en la Legislación aplicable;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Suspender de forma provisional los actos judiciales, mercantiles, civiles o administrativos en contra de los derechos o bienes de la Persona Desaparecida, conforme a la Legislación aplicable;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Declarar la inexigibilidad o la suspensión temporal de obligaciones o responsabilidades que la Persona Desaparecida tenía a su cargo, incluyendo aquellas derivadas de la adquisición de bienes a crédito y cuyos plazos de amortización se encuentren vigentes, conforme a la Legislación aplicable;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "El nombramiento de una persona representante legal con facultad de ejercer actos de administración y dominio de la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La protección de los derechos de familiares, particularmente de hijas e hijos menores de 18 años de edad, a percibir las prestaciones que la Persona Desaparecida recibía con anterioridad a la desaparición;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Disolución de la sociedad conyugal a petición expresa de la persona cónyuge presente, quien recibirá los bienes y accesorios que le correspondan hasta el día en que la Declaración Especial de Ausencia haya causado ejecutoria;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Disolución del vínculo matrimonial a petición expresa de la persona cónyuge presente, quedando en todo caso el derecho para ejercitarlo en cualquier momento posterior a la Declaración Especial de Ausencia;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las que el Juzgado de Primera Instancia determine, considerando la información que se tenga sobre las circunstancias y necesidades de cada caso; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Los demás aplicables que estén previstos en la legislación en materia civil, familiar y de los derechos de las víctimas que sean solicitados por las personas legitimadas en términos de la presente Ley.\n2. Para como viva."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Alcance de los efectos.\n1. a los criterios de\nrma que más beneficie a la Persona Desaparecida, familiares y personas legitimadas por esta Ley.\n2. prueba plena en aquellos procesos judiciales relacionados con los efectos previstos en la Declaración Especial de Ausencia.\n3. Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de reconocer la validez y los efectos de la Declaración Especial de Ausencia expedida por un Juzgado de Primera Instancia competente. La validez y los efectos de la Declaración Especial de Ausencia serán exigibles ante cualquier autoridad, en los términos del artículo 121 de la Constitución Política de los Estados Unidos Mexicanos; así como ante los particulares cuando realicen actos equivalentes a los de autoridad, que afecten los derechos de la Persona Desaparecida, familiares o personas legitimadas, en términos de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Representación legal.\n1. El Juzgado de Primera Instancia requerirá a las personas legitimadas establecidas en las fracciones I y II del numeral 1, del artículo 6 de esta Ley, para que, dentro de un plazo de 15 días naturales, a partir de que se emita la resolución de la Declaración Especial de Ausencia por Desaparición, nombren de común acuerdo a quien será la persona representante legal. En el caso de inconformidad respecto a dicho nombramiento, o de no existir acuerdo, el Juzgado de Primera Instancia elegirá entre éstas, a la persona que le parezca más idónea para desempeñar dicho cargo, o en su caso, a petición expresa de familiares, de así considerarlo pertinente, podrá nombrar a un tercero, quien deberá caucionar su representación.\n2. La persona designada como representante legal no recibirá remuneración económica por el desempeño de dicho cargo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Obligaciones de la persona representante legal.\n1. reglas del albacea en términos del Código Civil, y estará a cargo de elaborar el inventario de los bienes y derechos de la persona de cuya Declaración Especial de Ausencia se trate.\n2. Además, dispondrá de los bienes y derechos para proveer a las personas que resulten beneficiarias de los recursos económicos necesarios para su digna subsistencia, rindiendo un\ninforme mensual al Juzgado de Primera Instancia rtículo 6 de esta Ley.\n3. Juzgado de Primera Instancia a revocar el nombramiento a solicitud presentada por alguna de las personas legitimadas en las fracciones I y II del numeral 1, del artículo 6 de esta Ley.\n4. Juzgado de Primera Instancia correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Terminación del cargo de representante.\n1. El cargo de representante legal se extingue:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Con la localización con vida de la Persona Desaparecida;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando así lo solicite la persona con el cargo de representación legal al Juzgado de Primera Instancia que emitió la Declaración Especial de Ausencia para que, en términos del artículo 23 de la presente Ley, nombre una nueva persona representante legal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando fallezca la persona con el cargo de representación legal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Con la certeza de la muerte de la Persona Desaparecida y designación de albacea; o"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Con la resolución posterior a la Declaración Especial de Ausencia, que declare presuntamente muerta a la Persona Desaparecida."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Protección de los derechos laborales.\n1. La declaración especial de ausencia deberá establecer las medidas de protección de los derechos laborales y de seguridad social de la persona desaparecida, de conformidad con la Ley Federal del Trabajo, la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas y demás disposiciones aplicables.\n2. Las personas desaparecidas trabajadoras al servicio de los Poderes del Estado, de los organismos públicos autónomos y de los ayuntamientos, gozarán de estas medidas de protección en los siguientes términos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se le tendrá en situación de permiso sin goce de sueldo. En el supuesto de que la víctima o en el puesto que ocupaba en su centro de trabajo antes de la desaparición o liquidar su relación laboral conforme a la legislación aplicable, de preferirlo así la víctima;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "antigüedad, de conformidad con la legislación aplicable;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "A las personas beneficiarias en materia de seguridad social, se les reconocerán y conservarán los derechos y beneficios que establece el orden jurídico aplicable; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Se suspenderán los pagos con motivo del crédito otorgado por el Estado para la adquisición de viviendas.\n3. La medida de protección prevista en la fracción I del presente artículo cinco años, pasados los cuales no habrá obligación para el empleador. Por lo que hace a lo previsto en las demás fracciones, las medidas de protección se mantendrán hasta la localización, con o sin vida, de la Persona Ausente por Desaparición.\n4. En relación con las fracciones III y IV del presente artículo, las instituciones públicas competentes serán las encargadas de garantizar que dichas protecciones continúen, en términos de la legislación aplicable.\n5. Los beneficiarios de las personas desaparecidasa al servicio de los poderes del Estado, de los organismos públicos autónomos, órganos descentralizados, y de los ayuntamientos, en términos de la resolución de la Declaración Especial de ausencia, podrán retirar las aportaciones cotizadas del fondo para pensiones en términos de su normativa aplicable. Para el caso de que la persona desaparecida reaparezca, esta podrá reintegrar las aportaciones que sus beneficiarios hubieren retirado.\n6. Los beneficiarios de las personas desaparecidas trabajadoras al servicio de los poderes del Estado, de los organismos públicos autónomos, órganos descentralizados, y de los ayuntamientos, tendrán derecho a una indemnización por hasta el equivalente a 6 meses del sueldo que perciba el trabajador. Para tal efecto, los entes del Estado referidos, podrán constituir fideicomisos o fondos, o en su caso, hacer adecuaciones a los ya existentes para la entrega de dicha indemnización."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Suspensión de las obligaciones fiscales y mercantiles.\n1. En términos de las normativas federal y local, l\nlocalizada con o sin vida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Venta de los bienes de la persona desaparecida.\n1. Transcurridos seis meses, contados desde que se emite la resolución de la Declaración Especial de Ausencia, la persona representante legal, a petición de familiares u otra persona legitimada por esta Ley, podrá solicitar al Juzgado de Primera Instancia la venta de los bienes de la Persona declarada Ausente por Desaparición, observando las disposiciones aplicables para las enajenaciones de bienes previstas en el capítulo III del título Décimo tercero del Código de Procedimientos Civiles.\n2. las personas menores de 18 años de edad. Así como los demás principios previstos en la presente Ley.\n3. De manera excepcional, el Juzgado de Primera Instancia que emitió la resolución podrá autorizar la venta de bienes antes del plazo señalado en este artículo en casos de urgencia que ponga en riesgo la integridad o vulnerabilidad de familiares y esto amerite hacer uso de uno de los bienes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Medidas en casos de personas desaparecidas ejidatarias, comuneras o posesionarias.\n1. Cuando la solicitud de Declaración Especial de Ausencia sea sobre una persona que tenga la calidad de ejidataria, comunera o posesionaria, el Juzgado de Primera Instancia tomar en cuenta en su resolución, a fin de que sus derechos ejidales o comuneros sean ejercidos en términos de la Ley Agraria por sus familiares.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "Recuperación de bienes.\n1. S localizada con vida o se prueba que sigue con vida, en caso de que este acreditado plenamente ante autoridad jurisdiccional que hicieron creer su desaparición delibe\nenía al momento de su desaparición.\n2. En todo caso, se respetarán derechos de terceros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "Continuidad de los deberes de búsqueda e investigación.\n1. de continuar con las investigaciones encaminadas al esclarecimiento de la verdad y la reparación del daño conforme a la legislación aplicable, así como de la búsqueda de la persona desaparecida hasta que no se conozca su paradero y haya sido plenamente identificada. Tampoco las eximirá de la determinación, y en su caso enjuiciamiento y sanción, de las personas responsables de la desaparición.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Responsabilidades.\n1. Las personas servidoras públicas que omitan o incumplan con las obligaciones previstas en esta Ley, serán sancionados penal o administrativamente, de acuerdo a las leyes aplicables.\n2. La autoridad o la persona que tenga conocimiento del\no cualquier otra que corresponda para investigar e imponer las sanciones que correspondan conforme a la legislación aplicable..\n3. En caso de que la autoridad que reciba información sobre el incumplimiento a lo establecido en la presente ley no sea competente para su investigación, lo pondrá inmediatamente en conocimiento de la autoridad competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Excitativa de Justicia.\n1. Familiares y personas legitimadas por esta Ley, podrán presentar excitativa de justicia ante el Consejo de la Judicatura, si el Juzgado de Primera Instancia competente no dicta las medidas cautelares o la resolución dentro de los plazos legales respectivos.\n2. 3. Si se encuentr jurisdiccional un plazo de 48 horas para que dicte la medida cautelar o resolución correspondiente.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "iente de su publicación en el Periódico Oficial del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Congreso del Estado deberá armonizar toda la legislación estatal que sea requerida para el cumplimiento de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "procedimiento de Declaración Especial de Ausencia por Desaparición de Personas en un plazo de seis meses a partir de la entrada en vigor de esta Ley, para garantizar una protección eficaz del derecho a la personalidad respectivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "En relación a los casos denunciados con anterioridad a la entrada en vigor de la Ley, agentes del ministerio público competentes, personal adscrito a la Comisión de Búsqueda, la Comisión Ejecutiva de Atención a Víctimas del Estado, tendrán un plazo de treinta días hábiles, contado a partir del inicio de la vigencia del presente ordenamiento, para informar a familiares u otras personas legitimadas en términos de la fracción II del artículo 7 de esta Ley sobre su derecho a tramitar la solicitud de Declaración Especial de Ausencia por Desaparición de Personas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Las personas Titulares del Poder Ejecutivo y de Organismos Autónomos de Estado a los que se refiere esta Ley, contarán con un plazo de seis meses para adecuar, en su caso, las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Civil, o bien, de aquellas que se encuentren en proceso, a solicitud de\n, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Las autoridades competentes deberán otorgar suficiencia presupuestal para el cumplimiento de lo establecido por esta Ley, además el Poder Judicial conserva la obligación de prever el impacto presupuestal para la debida ejecución de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Las autoridades a las que se refiere el artículo 17 numeral 1 de esta Ley, en caso de no tener sus páginas oficiales, deberán habilitarlas para realizar las publicaciones de los edictos, en un plazo de quince días hábiles a partir de la entrada en vigor de esta Ley.\nSalón de Sesiones del Congreso del Estado Guadalajara. Jalisco, 16 de febrero de 2021\nDiputada Presidenta Mara Nadiezhda Robles Villaseñor\nDiputado Secretario Ismael Espanta Tejeda\nDiputado Secretario Carlos Eduardo Sánchez Carrillo\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 19 del mes de febrero de 2021.\nEnrique Alfaro Ramírez Gobernador Constitucional del Estado de Jalisco\nJuan Enrique Ibarra Pedroza Secretario General de Gobierno\nTABLA DE REFORMAS Y ADICIONES\n29532/LXIII/24.- Se reforma el artículo 16 de la Ley para la Declaración Especial de Ausencia por Desaparición de Personas del Estado de Jalisco.- Mar. 9 de 2024, sec. III.\nLey para la Declaración Especial de Ausencia por Desaparición de Personas del Estado de Jalisco\nAPROBACIÓN: 16 de febrero de 2021\nPUBLICACIÓN: 22 de febrero de 2021 BIS\nVIGENCIA: 23 de febrero de 2021",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

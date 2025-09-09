@@ -1,0 +1,1540 @@
+{
+  "0274.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nEmilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 23081/LVIII/09.- EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": null,
+    "Título": "LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Las disposiciones de esta ley son de orden público, interés social, de observancia general y tienen por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Respetar, promover, proteger y garantizar el pleno disfrute de los derechos humanos y libertades fundamentales de las personas con discapacidad, así como su inclusión social dentro del marco legal; se prevea la consulta estrecha, fomente el respeto, el ejercicio y goce que garantice la igualdad de oportunidades, abarcando los ámbitos social, laboral, educativo, político, cultural, deportivo, y recreativo sin distinción alguna."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer las bases para las políticas públicas para favorecer el desarrollo integral de las personas con discapacidad y su inclusión al medio social que los rodea, libre de discriminación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer normas y mecanismos para la prevención de la discapacidad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Determinar la participación y regular el funcionamiento y responsabilidades de las instancias gubernamentales responsables de la aplicación de la presente ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la participación de las organizaciones para que colaboren en el alcance de los objetivos de la presente Ley y establecer los mecanismos de apoyo a sus acciones; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Derogada."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de esta ley se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseño universal: Las medidas pertinentes para el acceso de las personas con discapacidad a la infraestructura básica, en los inmuebles, en equipamiento del entorno urbano o rural; en los espacios públicos y de transporte cada vez más inclusivos, equitativos, de uso flexible, simple e intuitivo, útiles, mínimo esfuerzo y funcionales; la información, las tecnologías y comunicaciones que consideren el uso de intérpretes de la lengua de señas, braille, fácil lectura, pictogramas, auditivo y en formatos abiertos; así mismo en los servicios e instalaciones de uso público, así como la identificación y eliminación de barreras, para el ejercicio pleno y goce de sus derechos humanos y libertades fundamentales, y su inclusión social;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acciones afirmativas: Medidas de carácter específico y temporal, cuyo objetivo es corregir situaciones patentes de desigualdad, prevenir o compensar las desventajas o dificultades en el disfrute o ejercicio de derechos y libertades que viven las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural, bajo los principios de justicia y proporcionalidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ajustes Razonables: modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios que eliminen las barreras de accesibilidad y comunicación, cuya realización no imponga una carga desproporcionada, indebida o afecte derechos de terceros, cuando se requieran, en un caso particular, para garantizar a las personas con discapacidad el goce y ejercicio, en igualdad de condiciones con los demás, de todos los derechos humanos y libertades fundamentales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ayudas Técnicas: Dispositivos técnicos, tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, psicosociales o intelectuales de las personas con discapacidad, favoreciendo su autonomía e inclusión;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Barreras de Comunicación: Todo obstáculo producido como consecuencia de la falta o deficiencia en el establecimiento de sistemas de señalización, lenguaje visual y auditivo en áreas o actividades del sector público o privado a las que pueda tener acceso el público en general, que obstaculizan a las personas con discapacidad, la comprensión del entorno y su plena inclusión;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Barreras Físicas: Todos aquellos obstáculos y elementos físicos, de ornato y de construcción que dificultan o impidan a las personas con discapacidad, su libre acceso, desplazamiento e interacción en vía pública, edificaciones y servicios públicos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Barreras Sociales y Culturales: Aquellas que se generan debido a los prejuicios, estereotipos, estigmas, exclusión y actitudes de rechazo, indiferencia, desconocimiento o discriminación a que se enfrentan las personas con discapacidad, que impiden su inclusión y participación en la comunidad, el libre desplazamiento en lugares públicos o privados, así como en el uso y disfrute de los servicios comunitarios;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "CODE: Consejo Estatal para el Fomento Deportivo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Convención: Convención Sobre los Derechos de las Personas con Discapacidad de la Organización de las Naciones Unidas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Asistente personal: Apoyo profesional, familiar o persona, que se pone a disposición de una persona con discapacidad, como un instrumento para permitir la vida autónoma e independiente; para desarrollar la actividad de asistencia personal, se deberá contar con el consentimiento del interesado a fin de garantizar su autodeterminación;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Discriminación: Cualquier distinción, exclusión o restricción de un derecho por motivos de discapacidad que tenga el propósito o efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales promoviendo su participación en los ámbitos político, económico, social, laboral, educativo, religioso, cultural, civil, deportivo y espacios adaptados, de comunicación o de otro tipo, así como la de negación de ajustes razonables;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No se excluirán las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Estenografía proyectada: Apoyos técnicos y humanos que permiten percibir y transmitir diálogos de manera simultánea a su desarrollo, por medios electrónicos, visuales o en sistema de escritura Braille;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Educación Inclusiva: Aquella que propicia la inclusión y participación plena y efectiva de las personas con discapacidad en las instituciones educativas y con personal docente, mediante la\naplicación de métodos, técnicas y materiales específicos, eliminando los obstáculos materiales y actitudes que limitan el aprendizaje, y la participación de todo el alumnado;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Habilitación: Aplicación coordinada e integral de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales que permitan a las personas con discapacidad congénita, desarrollar su máximo potencial a fin de lograr una óptima integración en los distintos ámbitos en que se desenvuelve;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Lengua de señas mexicana: Lengua de una comunidad de sordos que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimientos corporales, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Ley: Ley para la Inclusión y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Ley General: Ley General para la Inclusión de las Personas con Discapacidad;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Medidas de nivelación: Aquellas acciones a través de las cuales se busca hacer efectivo el acceso de las personas con discapacidad a la igualdad real de oportunidades, eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Medidas de inclusión: Aquellas disposiciones de carácter preventivo o correctivo, de carácter temporal, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Organizaciones: Agrupaciones civiles, legalmente constituidas para el cuidado, atención, salvaguarda de los derechos y desarrollo humano integral de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Persona con Discapacidad: Todo ser humano con ausencia o disminución congénita, genética o adquirida de alguna aptitud o capacidad motriz, de talla, mental o psicosocial, auditiva, visual e intelectual, parcial o total, debido a lo cual, y a ciertas actitudes y estructuras del entorno que le rodea, tienen dificultades para desarrollarse y participar plenamente en la vida social, de manera temporal o permanente;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Prevención: La adopción de programas, medidas y acciones encaminadas a evitar que se produzcan disminuciones o ausencias físicas, intelectuales, mentales o psicosociales y sensoriales;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Programa Estatal: El Programa Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Rehabilitación: Acciones terapéuticas, médicas, psicológicas, sociales, educativas y económicas, con enfoque integral, encaminadas a facilitar que una persona con discapacidad alcance su nivel físico, mental y sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Registro Estatal: El Registro Estatal de Certificación de Reconocimiento y Calificación de Discapacidad;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Secretaría: Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Unidad de Valoración: órgano técnico dependiente de la Secretaría de Salud;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Consulta estrecha: Es la participación e integración activa de las personas con discapacidad y su diversidad de la sociedad, para la adopción y supervisión del marco jurídico y material de políticas públicas para fomentar la igualdad inclusiva y de facto mediante medidas de acción afirmativa."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "La aplicación y seguimiento de esta Ley corresponde, en su respectivo ámbito de competencia, a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Poder Ejecutivo, a través de sus dependencias y entidades bajo su regulación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los Municipios, a través del Gobierno Municipal y de los organismos e instituciones que estén bajo su regulación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los organismos públicos, que entre su objeto tengan competencia en la materia;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las Organizaciones; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Derogada.\nEn la interpretación de las normas aplicables a personas con discapacidad prevalecerá la que les sea más favorable, y se aplicarán de manera supletoria la Ley General, la legislación para Prevenir y Eliminar la Discriminación, y la legislación general y estatal en materia de salud."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Derechos de las Personas con Discapacidad",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico mexicano, los tratados internacionales y la presente Ley, sin discriminación.",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La protección de su salud y a recibir diagnósticos, medicamentos y tratamientos de manera oportuna, con base en el consentimiento libre e informado; a acceder y recibir copia de su expediente clínico sobre su discapacidad, así como la orientación atención y canalización para su rehabilitación; la información podrá recibirla por sí o, en su caso, solicitarla por conducto de sus familiares o sus legítimos representantes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La educación inclusiva en todas sus modalidades y niveles, haciendo los ajustes razonables que se consideren necesarios, de acuerdo a la situación que presente cada persona;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener acceso comunicativo a través de la interpretación en lengua de señas mexicana, sistema de lecto-escritura braille, sistemas alternativos de comunicación y estenografía proyectada;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La inclusión social, a través del ejercicio de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Tener igualdad de oportunidades laborales para ejercer una profesión, oficio o trabajo digno y remunerado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Realizar libre elección de empleo, sin restricción de las oportunidades de acceso, permanencia y ascenso en el mismo, sin condición a su contratación como trabajadores por motivo de discapacidad o cualquier otro motivo que atente contra la dignidad humana;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Tener consideraciones preferenciales y facilidades para el uso de transporte, estacionamientos y espectáculos, y tener libre acceso y desplazamiento en vía pública y servicios públicos y privados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Participar en los programas de cultura, deporte y recreación;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Acceder a la habilitación, rehabilitación e incorporación para alcanzar una vida con calidad;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Contar cuando lo requiera en razón de su discapacidad, con asesoría y asistencia jurídicas gratuitas por parte del Estado, en cualquier procedimiento legal en materia penal, civil, familiar, laboral;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Disfrutar de los ajustes razonables en materia de accesibilidad física, de información y comunicaciones, que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "No ser señalados negativamente o estigmatizados con motivo de su estado de discapacidad;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Recibir orientación y tratamiento psicológico para la persona con discapacidad y su familia;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Tener acceso a programas asistenciales para personas con discapacidad;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Tener libre acceso a inmuebles abiertos al público y cualquier otro lugar en el que deba realizar actividades en compañía de su perro guía o animal de servicio y de los implementos necesarios para su desplazamiento;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "La persona sorda, a adquirir el aprendizaje de la Lengua de Señas Mexicana como primera lengua y el sordo hablante como segunda lengua; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las demás que establezca el orden jurídico mexicano, la Convención y esta Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De las Políticas Públicas",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "El Ejecutivo del Estado está obligado, a través de sus dependencias a generar políticas públicas mediante consulta estrecha, las que se deberán regir bajo los principios de equidad, justicia social, igualdad de oportunidades, respeto, reconocimiento de las diferencias, dignidad, inclusión, accesibilidad universal, no discriminación, interseccionalidad y transversalidad, para la protección y el ejercicio pleno de los derechos de las personas con discapacidad desde sus diferentes condiciones, para lo cual podrán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Adoptar medidas de nivelación, de inclusión y acciones afirmativas necesarias para alcanzar el objeto de esta Ley, conforme al Programa Estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Instrumentar acciones en favor de la inclusión social, laboral y económica de las personas con"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Incluir en el Proyecto de Presupuesto de Egresos correspondiente los recursos para la implementación y ejecución de las mismas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Garantizar la equidad de oportunidades a las personas con discapacidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Garantizar el desarrollo integral de las personas con discapacidad, de manera plena y autónoma, en los términos de la presente Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Consultar y garantizar la participación de las personas con discapacidad, personas físicas o jurídicas y las organizaciones en la elaboración y aplicación de políticas, legislación y programas, con base en la presente Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover y otorgar condiciones para que las familias de personas con discapacidad reciban información y capacitación para participar y apoyar los procesos de habilitación, rehabilitación e inclusión social, educativa y laboral, y de acceso a servicios adecuados de salud y educación; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás previstas por esta Ley y la legislación estatal aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Las autoridades estatales y municipales promoverán la contratación de personas con discapacidad cuando éstos cubran la profesión, oficio o actividad requerido para el puesto, en igualdad de circunstancias que otra persona.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Las autoridades podrán incluir a personas físicas y jurídicas, así como a las organizaciones de la sociedad civil en la ejecución de las políticas públicas y programas tendientes a alcanzar los objetivos de la presente ley, para lo cual brindarán los apoyos que resulten necesarios, así como los establecidos para fomentar sus actividades en los términos de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Entre las medidas a que se refiere el artículo anterior para el ejercicio pleno de los derechos de las personas con discapacidad, las autoridades deberán adoptar:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Medidas de nivelación, entre las que se encuentran las siguientes acciones:\na) Realizar ajustes razonables en materia de accesibilidad física, de información y comunicaciones;\nb) Adaptar los puestos de trabajo para personas con discapacidad;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Considerar en el diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille, cuando así se solicite;\n\nEn el desarrollo de políticas contra la discriminación;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Hacer uso de intérpretes de lengua de señas mexicana en los eventos públicos gubernamentales, así como la inclusión de los mismos, en la prestación de sus servicios de las distintas dependencias públicas;\nPara efectos del párrafo anterior, las autoridades estatales y municipales, podrán celebrar convenios de colaboración con las asociaciones de traductores e intérpretes de la Lengua de Señas Mexicana; y\ne) Homologar las condiciones y prestaciones laborales para las personas con discapacidad y los grupos en situación de discriminación o vulnerabilidad;\n\nEn las acciones de sensibilización y capacitación dirigidas a servidores públicos con el objetivo de que conozcan y respeten los derechos de las personas con discapacidad, se logre la erradicación de la discriminación y les brinden el trato y atención que requieren; y\ne) En las campañas de capacitación de servidores públicos en la aplicación de protocolos de atención a las personas con discapacidad."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Medidas de inclusión, las cuales podrán implementarse en los siguientes ámbitos:\na) En la educación para la igualdad y la inclusión dentro del sistema educativo;\nb) En el diseño, instrumentación y evaluación de las políticas públicas de los derechos de las"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Programa Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "El titular del Poder Ejecutivo expedirá el Programa Estatal. Para la elaboración y ejecución del mismo deberá considerar la participación de los municipios y se auxiliará de la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "El Programa Estatal se regirá por lo previsto para los programas especiales en la Ley de Planeación para el Estado de Jalisco y sus Municipios, y por las siguientes bases:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se publicará en el Periódico Oficial “El Estado de Jalisco” una vez al año durante el primer trimestre;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Deberá atender lo conducente del Programa Nacional emitido de conformidad con la Ley General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contendrá las políticas públicas, medidas de nivelación, de inclusión y acciones afirmativas necesarias para alcanzar el objeto de esta Ley, por las dependencias y organismos del Poder Ejecutivo y los municipios; deberá incluir un enfoque comunitario y rural que considere las necesidades y perspectivas de las personas indígenas con discapacidad, tomando en cuenta sus opiniones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecerá las bases de coordinación para dar cumplimiento al Programa Nacional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecerá acciones específicas de vinculación con el Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecerá las formas de colaboración económica para el financiamiento de las políticas públicas; e"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Incluirá lineamientos e indicadores para la evaluación y seguimiento de las políticas públicas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad tiene por objeto la coordinación y seguimiento continuo para la ejecución y evaluación de las políticas públicas para el desarrollo y la inclusión de las personas con discapacidad contenidas en el Programa Estatal, así como la difusión de sus derechos y el modo de ejercerlos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad se constituye por el Poder Ejecutivo y sus dependencias y organismos bajo su regulación, por los Gobiernos Municipales, en el ámbito de sus respectivas competencias; así como por las personas físicas o jurídicas de los sectores social y privado que presten servicios a las personas con discapacidad, en coordinación con la Secretaría.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "La Subsecretaría de Derechos Humanos es la unidad administrativa de la Secretaría cuyo encargo es coordinar el desarrollo de la política estatal y las acciones encaminadas a la promoción y protección de los Derechos Humanos, las cuales tendrán un enfoque especial en los grupos en situación de desigualdad y discriminación por edad, origen étnico, orientación sexoafectiva, identidad de género, expresión de género, situación de discapacidad o migración.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "La Subsecretaría de Derechos Humanos coadyuva con la persona titular de la Secretaría General de Gobierno en la coordinación del Sistema Estatal para la Inclusión y Desarrollo integral de las Personas con Discapacidad, a través de la Dirección de Inclusión a Personas con Discapacidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "La Subsecretaría de Derechos Humanos coadyuvará mediante la implementación de consultas estrechas cada que se requieran en la armonización legislativa a nivel estatal para su homologación con las disposiciones internacionales y nacionales en materia de Derechos Humanos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Son atribuciones de la Dirección de Inclusión a Personas con Discapacidad:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseñar y ejecutar mediante la implementación de consultas estrechas programas, proyectos, acciones, iniciativas y políticas públicas encaminadas a promover la inclusión de las personas con discapacidad y la eliminación de las condiciones de desigualdad, en cumplimiento a lo establecido en el Plan Estatal de Desarrollo y Gobernanza, la legislación correspondiente y los acuerdos nacionales e internacionales aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desarrollar trabajos de investigación y análisis relacionados con la prevención de la discapacidad, atención, inclusión y accesibilidad universal de personas con discapacidad en el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer mecanismos de coordinación y desarrollo de programas de atención e integración social, con las diversas dependencias públicas estatales y municipales, sector privado y con las organizaciones de la sociedad civil;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Servir como vínculo entre el Gobierno del Estado y las organizaciones de la sociedad civil, instituciones nacionales e internacionales, y especialistas, dedicadas a la defensa de los derechos de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Brindar orientación y acompañamiento a las personas con discapacidad, cuando éstas consideren que han sido víctimas de discriminación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Participar en el diseño de instrumentos de planeación y programación derivados de las consultas estrechas, del Plan Estatal de Desarrollo y Gobernanza y de aquellos planes y programas derivados de leyes y tratados internacionales en materia de derechos de personas con discapacidad, a efecto de que se adopten medidas de nivelación, inclusión y acciones afirmativas necesarias para promover, proteger y garantizar el pleno disfrute de sus derechos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Apoyar en la generación de anexos e instrumentos para que el anteproyecto de presupuesto de egresos del Gobierno del Estado, para que se incluyan proyectos, programas y componentes para la implementación de medidas para la atención de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Construir, promover y operar acciones afirmativas a favor de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Incentivar la aplicación de criterios técnicos de diseño universal que regulen el desarrollo urbano, construcciones, espectáculos, y en general efectuar los ajustes razonables que faciliten el acceso a la información y uso de tecnologías que faciliten la comunicación visual, táctil y auditiva, así como promover su inclusión laboral, social, recreativa, cultural, de las personas con"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Generar mecanismos de evaluación y seguimiento a la situación de las personas con discapacidad en Jalisco, llevar a cabo un registro de las personas con discapacidad y sus interseccionalidades que faciliten su atención según necesidades;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover la construcción de una cultura de derechos humanos de las personas en condición de discapacidad y sus protocolos de atención, así como promover la eliminación de desigualdad o discriminación, mediante la concientización, capacitación y profesionalización a los servidores públicos de las dependencias y entidades estatales y en el sector privado;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Colaborar con la coordinación del Sistema Estatal para la Inclusión y Desarrollo integral de las Personas con Discapacidad, el desarrollo y promoción en el sector público, privado y social de los Centros de Relevo;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Establecer y coordinar la Red Estatal para la Inclusión y el Desarrollo Integral de Personas con Discapacidad, con participación de los Ayuntamientos del Estado de Jalisco; XIV. Establecer y coordinar la Red Estatal de Organizaciones Civiles de y para Personas con Discapacidad que trabajan por su inclusión y sus derechos humanos, así como de familiares de Personas con Discapacidad; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás que le señalen otras disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De la Certificación de Reconocimiento y Calificación de Discapacidad",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "La Unidad de Valoración es un órgano técnico dependiente de la Secretaría de Salud que tiene por objeto la valoración de las personas para certificar la existencia de la discapacidad, su naturaleza, su grado y temporalidad, así como las posibilidades y requerimientos para la plena inclusión de la persona con discapacidad en el ámbito social, educativo, ocupacional, deportivo y laboral, en los términos de la Ley General, la presente Ley y su Reglamento.\nEl certificado al que se refiere el párrafo anterior deberá incluir, en su caso, si la persona con discapacidad requiere de perro guía o animal de servicio.\nPara la emisión de los certificados a que se refiere el primer párrafo de este artículo, la Unidad de Valoración se coordinará con la Secretaría de Salud, la Secretaría y el DIF Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "La Unidad de Valoración tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar estudios para proponer a la Secretaría de Salud la emisión de lineamientos técnicos para la certificación de reconocimiento y clasificación de discapacidad, los cuales deberán ser publicados en el Periódico Oficial “El Estado de Jalisco”;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Certificar la existencia de la discapacidad, su naturaleza, su grado, así como las actitudes y aptitudes de la personas con discapacidad en términos del artículo 23 párrafo segundo de esta Ley; a su vez, proponer las ayudas técnicas, medidas de nivelación o acciones afirmativas necesarias para la plena inclusión de la persona con discapacidad en los ámbitos de la salud, educativos, laborales, deportivos y sociales, en coordinación con las Dependencias y Entidades competentes en los términos que determine del Reglamento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Integrar el expediente respectivo, orientar al solicitante sobre el tratamiento adecuado a su discapacidad y remitirlo a las instituciones especializadas que proporcione dicha atención;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Derivar a la persona con discapacidad a las Instituciones gubernamentales, académicas o privadas que cuenten con programas para su desarrollo e inclusión plena;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Procurar que la atención proporcionada se realice de acuerdo a las recomendaciones emitidas para el caso en particular;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer a la Secretaría de Salud la celebración de convenios con los municipios e instituciones del sector salud a efecto de emitir los certificados de discapacidad; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que señalan otras disposiciones legales aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De la Evaluación de las Personas con Discapacidad",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "La evaluación de las personas con discapacidad se basará en criterios y lineamientos unificados, de acuerdo a la Clasificación Nacional de Discapacidades. Sus resultados se deberán asentar en un certificado de reconocimiento y clasificación de discapacidad, el cual tendrá validez ante cualquier organismo público o privado en el Estado de Jalisco y tendrá por objeto reconocer el grado de discapacidad y atención necesaria.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV De las Atribuciones de las Autoridades y Organismos Públicos",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "Corresponde a la Secretaría de Salud:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseñar, desarrollar y evaluar, en coordinación con la Secretaría, programas de prevención de discapacidades congénitas y de la primera infancia, y de orientación en materia de planificación familiar, genética, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica, higiene y seguridad en el hogar y en el trabajo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar y garantizar que las personas con discapacidad no sean discriminadas y se les trate con equidad en el acceso a todos sus programas y servicios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Llevar el Registro Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Diseñar y operar programas de educación para la salud, salud sexual y salud reproductiva y de acceso a los servicios de planificación familiar; rehabilitación, habilitación, terapia psicológica en lengua de señas mexicana y atención integral de salud dirigida a las personas con discapacidad y capacitación a los familiares;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido e insumos médicos y sanitarios para apoyar en su gestión y obtención a personas con discapacidad, priorizando a personas de escasos recursos, y fomentar la creación de centros de desarrollo de autonomía, asistenciales, temporales o permanentes, donde las personas con discapacidad sean atendidas en condiciones que respeten su dignidad y sus derechos; así como expedir los certificados de discapacidad que especifiquen si necesita o no un asistente personal de conformidad con los principios establecidos en la presente ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expedir y publicar, a propuesta de la Unidad de Valoración, los criterios y lineamientos técnicos para certificación de reconocimiento y calificación de discapacidad, mismos que serán obligatorios para las personas e instituciones públicas o privadas del Sector Salud del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer programas dirigidos a personas con discapacidad que tengan alguna enfermedad o características genéticas que pongan en riesgo la salud de los hijos por nacer;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Vigilar y garantizar que las personas con discapacidad no sean discriminadas y se les trate con equidad en la recepción y trasplante de órganos, transfusiones sanguíneas, tratamientos e intervenciones para favorecer su salud;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Expedir y publicar en el Periódico Oficial “El Estado de Jalisco”, a propuesta de la Unidad de Valoración, protocolos y normas técnicas para el diagnóstico, la atención y el tratamiento de\npersonas con discapacidad por personas físicas e instituciones públicas y privadas, con el fin de que los centros de salud y de rehabilitación cuenten con personal, instalaciones y equipos adecuados para la prestación de sus servicios;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Desarrollar programas de difusión, capacitación, especialización y actualización para el personal médico, profesionales de psicología, enfermería y trabajo social;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Garantizar un procedimiento objetivo e imparcial por profesionales de la salud para dirimir conflictos en los casos de controversia respecto de la certificación de reconocimiento y calificación de discapacidad, o por motivos de diagnóstico, la atención y el tratamiento;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Garantizar que en los servicios de salud pública y privada se cuente con apoyos estenográficos e intérprete de lengua de señas mexicana, para la adecuada atención de personas con discapacidad auditiva;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Establecer, conjuntamente con la Secretaría, programas de capacitación para familias y terceras personas, para la adecuada atención, rehabilitación y tratamiento, en su caso, de las"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Coordinar acciones con las autoridades de los tres órdenes de gobierno y, en su caso, expedir protocolos, para la atención, adecuada, recuperación y rehabilitación básica de personas migrantes mutiladas durante su tránsito por Jalisco;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás previstas en esta Ley y la legislación estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Corresponde a la Secretaría:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseñar, aplicar y evaluar la política de desarrollo social y humano para personas con"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar y supervisar los programas sociales federales para personas con discapacidad aplicados en el Estado, de acuerdo con los convenios suscritos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Garantizar la inclusión y el acceso de las personas con discapacidad a los programas de asistencia social y de desarrollo social y humano, según las reglas de operación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Diseñar y ejecutar programas que impulsen el desarrollo humano y la asistencia social para personas con discapacidad severa o dependiente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Coadyuvar en la vigilancia de la operación de albergues o instituciones que tengan bajo su cuidado y vigilancia o, en su caso, guarda y custodia, de personas con discapacidad; éstas permanecerán en dichos albergues o instituciones por el tiempo mínimo necesario bajo los principios de unidad y reunificación familiar, conforme a la legislación de la materia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover, en coordinación con la Secretaría del Sistema de Asistencia Social, programas de apoyo económico y social incluida la formación, profesionalización, regulación y acompañamiento para el asistente personal de conformidad con la disponibilidad presupuestal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Diseñar y cumplimentar en lo conducente el programa de vivienda del estado, observando el principio de accesibilidad e inclusión de las personas con discapacidad;\nLos programas de asistencia social, así como para el desarrollo social y humano de las personas con discapacidad incluirán acciones para eliminar las desventajas agravadas por la interseccionalidad de vulnerabilidades, en particular las de mujeres, la infancia y las personas mayores indígenas con discapacidad en situación de abandono y pobreza extrema; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás facultades establecidas por esta ley y la legislación estatal en la materia.\nLos programas de asistencia social, así como para el desarrollo social y humano de las personas con discapacidad incluirán acciones para eliminar las desventajas agravadas por la interseccionalidad de vulnerabilidades, en particular las de mujeres, la infancia y las personas mayores indígenas con discapacidad en situación de abandono y pobreza extrema."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Corresponde a la Secretaría de Educación:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Garantizar el acceso, inclusión y permanencia oportuna, en condiciones libres de discriminación, de las personas con discapacidad a los programas de educación en todos los niveles del sistema educativo, proporcionando la orientación y apoyos técnicos que requieran;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desarrollar investigaciones y estudios en las áreas de la psicopedagogía, desarrollo humano y desempeño laboral, con el propósito de contar con los métodos más apropiados para atender las necesidades educativas especiales de las personas con discapacidad, consistente estas últimas en los requerimientos especiales de los alumnos para compensar las dificultades mayores para acceder a los aprendizajes establecidos en el currículo que le corresponde por su edad, y pueden ser adaptaciones de acceso o adaptaciones curriculares significativas, o ambas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proporcionar educación básica en los Centros de Atención Múltiple a las personas con discapacidad, acorde a sus posibilidades de desarrollo, cuando por sus condiciones se dificulte su integración a los planteles educativos regulares;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proporcionar becas a las personas con discapacidad de escasos recursos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar y realizar las gestiones necesarias para que en las escuelas públicas y privadas se eliminen las barreras físicas y de comunicación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover en los medios de comunicación acciones permanentes que contribuyan a la formación de una cultura que contribuya a eliminar los actos discriminatorios que impidan la inclusión social de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Otorgar las facilidades que garanticen la formación, capacitación y actualización profesional de los docentes y personal de apoyo de cualquier nivel educativo, que tendrán a su cargo a alumnos con discapacidad, a fin de facilitar el proceso de su integración y permanencia educativa;\nVlll. Promover, en coordinación con la Secretaría de Educación Pública, estrategias de sensibilización sobre las discapacidades, además de fomentar el uso y reconocimiento oficial de la Lengua de Señas Mexicana y el Sistema de Escritura Braille, como sistemas complementarios a la educación básica en el Estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Diseñar e implementar programas de formación y certificación de intérpretes y especialistas en estenografía proyectada, sistema Braille y lengua de señas mexicana;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Garantizar que las niñas y los niños con discapacidad gocen del derecho a la admisión gratuita y obligatoria, libre de toda condición, así como a la atención especializada en los centros de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Promover, en colaboración con la Secretaría, que en el Sistema Estatal de Bibliotecas, salas de lectura y servicios de información públicos y privados, se incluyan equipos y apoyos técnicos con tecnología adaptada, escritura e impresión en el sistema de escritura braille, ampliadores y lectores de texto, espacios adecuados y estenografía proyectada, que garanticen su accesibilidad a las personas con discapacidad;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Garantizar la educación pluricultural y toda forma de comunicación escrita que facilite al ciego, sordo hablante, al sordo señante o semilingüe, niñas y niños con discapacidad intelectual y psicosocial el desarrollo y uso de la lengua en forma escrita; para lo cual proveerá a los centros educativos que así lo requieran, los materiales didácticos y las medidas de accesibilidad necesarios;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Garantizar la educación bilingüe bicultural, desde educación inicial, a través de la Lengua de Señas y el español, dirigida a personas sordas con la finalidad de que accedan en condiciones de equidad a la educación obligatoria;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Desarrollar programas de capacitación para padres y madres de familia, asistentes personales y tutores para que se les enseñe y se promueva la lengua de señas mexicana, el sistema de escritura braille, formatos de fácil lectura y pictogramas;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Garantizar las medidas de diseño universal que permitan el libre acceso de las personas con discapacidad a los planteles educativos, en compañía de su perro guía o animal de servicio y de los implementos necesarios para su desplazamiento;"
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Corresponde a la Secretaría del Transporte",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Implementar programas en materia de educación, cultura y seguridad vial para que a las personas con discapacidad se les respete el orden y derecho de preferencia de paso en los cruceros, accesos o zonas de paso peatonal; y se les otorguen las facilidades necesarias para que puedan abordar las unidades de transporte;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Exigir y vigilar que el transporte en general, y en particular los vehículos del servicio colectivo de pasajeros, cuenten con elevadores para el acceso de personas con discapacidad, en funcionamiento correcto, así como espacios adecuados para el ingreso y traslado de la persona con discapacidad y su perro guía o animal de servicio, y de los implementos necesarios para su desplazamiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Exigir y vigilar que el transporte cuente con accesibilidad y los requisitos de diseño universal, para que las personas con discapacidad puedan hacer uso del mismo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer las medidas para que se instalen señales visuales y auditivas en las unidades de transporte público, para garantizar el acceso seguro por parte de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar que los medios de compra o prepago o boletos del servicio colectivo de pasajeros sean accesibles a personas con discapacidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer las medidas para la instalación de señalamientos visuales y auditivos en los cruceros de las principales calles y avenidas que garanticen el cruce sin riesgo de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Determinar, en coordinación con la Secretaría, los criterios técnicos y mecanismos para el otorgamiento de los distintivos oficiales que acrediten a los vehículos de las personas con discapacidad; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás previstas por esta Ley y la legislación estatal aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Corresponde a la Secretaría de Infraestructura y Obra Pública:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover y realizar normas técnicas y programas para que los entes públicos lleven a cabo, en forma progresiva los ajustes razonables en la implementación de elementos de accesibilidad en las instalaciones abiertas al público, de uso público y privado, tanto en zonas urbanas como rurales que permitan la accesibilidad universal e inclusión total de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar y sancionar que, en todos los proyectos de construcción y modificación de obra pública a su cargo, se contemplen las características de diseño universal, accesibilidad y ajustes razonables que permitan garantizar el acceso, movilidad y uso para personas con discapacidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Vigilar, en el ámbito de su competencia, que en la planificación y urbanización de las vías, en los centro de recreación, museos, inmuebles y sus conjuntos declarados patrimonio cultural, parques y jardines públicos, se contemple la perspectiva de inclusión, accesibilidad y diseño universal, eliminando las barreras y obstáculos a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Implementar y vigilar la adecuada señalización ya sea sonora, visual o táctil para dar alerta en casos de emergencias o catástrofes que les permita conocer las áreas de evacuación, resguardo y medidas de seguridad, así como para orientar con claridad a las personas con discapacidad en su desplazamiento y uso de los espacios públicos y privados; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que establezcan las disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "La Secretaría de Medio Ambiente y Desarrollo Territorial tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Participar en el diseño, aprobación, ejecución, vigilancia y evaluación de los programas regionales y municipales de desarrollo urbano, vigilando que se cumplan los criterios que dicte la Secretaría y los establecidos por esta ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Diseñar y ejecutar los planes y programas de desarrollo urbano del Estado, con perspectiva inclusiva de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir criterios técnicos que regulen las características constructivas que deben de cumplirse en el desarrollo urbano para garantizar el acceso y movilidad de personas con discapacidad, a través del diseño universal y accesibilidad en la infraestructura, el equipamiento y los servicios urbanos, viviendas, y edificaciones de uso público y privado; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que establezcan las leyes de la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "Corresponde a la Secretaría del Trabajo y Previsión Social:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover el establecimiento de políticas en materia de trabajo, encaminadas a la inclusión laboral de las personas con discapacidad y a sus familiares, cuando éstos sean asistentes personales de personas con discapacidad severa y profunda, y en especial sean menores de edad, garantizando que, en ningún caso, la discapacidad sea motivo de discriminación para la selección, contratación y continuidad en el empleo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover el otorgamiento de estímulos fiscales y financieros y reconocimiento público a las empresas e instituciones de gobierno que cuenten con programas de contratación de personas con discapacidad en condiciones de igualdad, así como beneficios adicionales para quienes en virtud de dichas contrataciones realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Impulsar acciones entre los sectores público, social y privado para la creación y desarrollo de bolsas de trabajo, así como becas de empleo y garantice espacios laborales adecuados para las"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer y operar programas de capacitación para el trabajo y de autogestión económica, dirigidos a las personas con discapacidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Corresponde a la Secretaría de Cultura:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseñar, promover y operar programas de orientación y desarrollo de las habilidades artísticas de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar y realizar lo conducente para garantizar el acceso de las personas con discapacidad a los espacios y actividades culturales y artísticas que desarrolla;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover que los diferentes medios de expresión artística, incluyan a personas con discapacidad y promover y apoyar sus obras y expresiones; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer un programa de estímulos para que los diferentes grupos de expresión artística diseñen y publiquen trabajos que promuevan la cultura sobre la discapacidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Corresponde al DIF Estatal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Llevar a cabo programas en materia de reconocimiento y calificación de discapacidad; así como de prevención, atención, habilitación y rehabilitación de las personas con discapacidad, para lo cual promoverá la instalación y equipamiento de Unidades Básicas de Rehabilitación, tanto por el propio DIF Estatal como por los DIF Municipales, estableciendo los criterios y las normas técnicas para su operación, evaluación y seguimiento, conforme a la Norma Oficial Mexicana, los protocolos y normas técnicas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer y operar programas complementarios a la educación, dirigidos a las personas con"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Apoyar a las familias de personas con discapacidad con programas de orientación y capacitación que posibiliten que en su seno generen las condiciones para una plena integración social;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Apoyar, asesorar y capacitar a los Sistemas DIF Municipales para que establezcan programas de atención a personas con discapacidad y de orientación a sus familias;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Procurar que en la operación de sus programas asistenciales dirigidos a personas en condición de vulnerabilidad, se consideren apoyos institucionales y atención a personas con discapacidad, especialmente a aquellas que carecen de recursos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Llevar el registro y expedir la identificación a personas con discapacidad que la soliciten, en los términos y temporalidad de la regulación que al efecto se expida; dicha identificación tendrá validez en todo el territorio del Estado, remitiendo periódicamente a la Secretaría listado de las personas acreditadas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Conocer de quejas, en coordinación con los DIF municipales y la Secretaría, por presuntos actos de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Intervenir y brindar protección a las personas con discapacidad, en los casos que refiere la fracción anterior;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Celebrar convenios con los DIF Municipales, para el cumplimiento de las facultades que establece esta Ley; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que establezca esta Ley y la legislación estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Corresponde al Instituto Jalisciense de Asistencia Social:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover la creación y apoyar las actividades de las organizaciones dedicadas al apoyo, atención e inclusión de personas con discapacidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Facilitar a la Secretaría el registro actualizado de organizaciones que se dedican al apoyo, atención e inclusión de personas con discapacidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer, en coordinación con la Secretaría, programas de atención y apoyo, dirigidos a"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La asistencia y protección en albergues para la atención a personas con discapacidad en situación de calle o abandono."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Corresponde a la Comisión Estatal de Derechos Humanos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer de quejas por motivo de discriminación de personas con discapacidad en el acceso a programas y servicios públicos, así como por discriminación a sus cuidadores;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conocer de quejas por discriminación en los servicios de salud, en la recepción y trasplante de órganos, transfusiones sanguíneas, tratamiento e intervenciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Vigilar el acceso, inclusión y permanencia oportuna en condiciones de equidad, de las personas con discapacidad a los programas de educación en todos los niveles del sistema educativo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover y difundir ante las autoridades la ejecución de acciones para la formación de una nueva cultura que elimine las barreras sociales y culturales en perjuicio de las personas con"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Verificar que en ningún caso la discapacidad sea motivo de discriminación para el otorgamiento de empleo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Realizar visitas a instituciones que tengan bajo su cuidado y vigilancia, o en su caso, guarda y custodia, a personas con discapacidad, para verificar el pleno ejercicio y respeto de sus derechos humanos libres de coerción física, aislamiento, tortura y otros tratos o penas crueles, inhumanos o degradantes;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Denunciar ante las autoridades correspondientes los actos que sean violatorios de derechos humanos, en los términos de la legislación; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fungir como entidad de seguimiento independiente de la Convención, para lo cual deberá realizar un informe especial anual que contenga metas e indicadores; deberá coordinarse y coadyuvar desde el ámbito de su competencia con la Comisión Nacional de los Derechos Humanos. Presentará cada año el informe especial por escrito ante la Secretaría, y remitirá copia a los titulares de los Poderes Legislativo, Ejecutivo y Judicial."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "El CODE promoverá el derecho de las personas con discapacidad al deporte, para lo cual deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer, en coordinación con la Secretaría y la Comisión Nacional de Cultura Física y Deporte, los programas de apoyo para la práctica organizada de actividades físicas, deportivas y recreativas de las personas con discapacidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Apoyar la participación en competencias de los deportistas y equipos de personas con discapacidad, conforme al Programa Nacional de Deporte Paralímpico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Organizar la celebración periódica de actividades deportivas y competencias dirigidas a"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Procurar el acceso y libre desplazamiento en las instalaciones públicas destinadas a la práctica de actividades físicas, deportivas o recreativas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar reconocimientos y estímulos a los deportistas con discapacidad que destaquen en las diversas disciplinas deportivas, dichos estímulos se entregarán bajo los mismos criterios a todos los atletas sin que exista distinción alguna; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás previstas por esta Ley y la legislación estatal en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "Corresponde a la Secretaría de Desarrollo Económico:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Formular y aplicar políticas y programas dirigidos a personas con discapacidad para el fomento de actividades económicas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Otorgar, en la medida de lo posible, estímulos o financiamientos especiales a personas con algún tipo de discapacidad para fomentar el emprendurismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar la creación de pequeñas y medianas empresas entre las personas con algún tipo de"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Apoyar a las empresas de las personas con discapacidad en el acceso a los beneficios fiscales de los que sean susceptibles; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás previstas en esta Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De las Atribuciones Municipales",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "A los municipios, en el ámbito de su competencia, les corresponde coadyuvar al cumplimiento de los objetivos de la presente Ley, para lo que tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover la incorporación laboral de las personas con discapacidad, mediante el establecimiento de convenios con empresas del municipio y crear y operar una bolsa de trabajo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar que los proyectos de urbanización, las obras de edificación o modificaciones de edificios e infraestructura urbana y arquitectónica cumplan con los planes y programas de desarrollo urbano, las normas de diseño arquitectónico e ingeniería urbana, la Norma Oficial Mexicana y las diversas leyes y reglamentos en la materia para que se realicen los ajustes razonables que faciliten el acceso y desplazamiento de personas con discapacidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desarrollar un programa permanente de eliminación y modificación de barreras físicas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer políticas de incorporación laboral a sus dependencias y organismos, en condiciones de igualdad a personas con discapacidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover y apoyar la realización de actividades deportivas y culturales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Orientar y apoyar a las personas con discapacidad de escasos recursos, en la obtención de prótesis, órtesis, ayudas técnicas, medicinas, becas, perros guía, animales de servicio, traslados y apoyos económicos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Incorporar, de manera preferente, a las personas con discapacidad, para ser beneficiario de los programas sociales, de acuerdo a la normatividad de los mismos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Canalizar a las personas con discapacidad a las instituciones públicas y privadas, para su debida atención;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Expedir por conducto del Ayuntamiento normas municipales contra la discriminación, las cuales consistirán en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Sancionar la discriminación;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Vigilar que los espacios de recreación, espectáculos y entretenimiento, incluyendo sus lugares de estacionamiento, faciliten el libre acceso y desplazamiento de las personas con discapacidad; y en caso de incumplimiento se aplique la sanción correspondiente; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las demás previstas en esta Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Discapacidad Severa o Dependientes",
+        "Artículos": [
+          {
+            "Artículo": 36,
+            "Texto": "- Se considera que una persona tiene discapacidad severa o es dependiente, cuando de manera permanente, sus condiciones físicas o mentales no le permitan realizar sus funciones básicas de sobrevivencia sin la ayuda y asistencia de personas y asistencia médica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- La Secretaría deberá establecer programas que garanticen a las personas con discapacidad severa o dependientes, de escasos recursos, su atención médica integral.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- La atención de las personas con discapacidad severa deberá involucrar a sus familiares, por lo que la Secretaría coordinará las acciones para brindarles asesoría y capacitación en su adecuado manejo y atención y de ser necesario otorgará apoyos económicos para traslados y estancia a las personas de escasos recursos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Tipos de Discapacidad",
+        "Artículos": [
+          {
+            "Artículo": 39,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Se deroga.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Programas y Acciones",
+        "Artículos": [
+          {
+            "Artículo": 41,
+            "Texto": "Las autoridades procurarán desarrollar de manera prioritaria, al menos, las siguientes medidas de nivelación y de inclusión contenidas en el presente Título, para erradicar la discriminación, y promover la habilitación, rehabilitación e inclusión social, económica, política y cultural de personas con discapacidad:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Atención y rehabilitación médico-funcional y atención psicológica;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Educación, cultura, deporte y recreación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desarrollo económico, capacitación y empleo; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "De la accesibilidad, movilidad y eliminación de barreras físicas y de comunicación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Rehabilitación Médico-Funcional y Atención Psicológica",
+        "Artículos": [
+          {
+            "Artículo": 42,
+            "Texto": "- La rehabilitación médico-funcional estará dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten discapacidad física, mental, intelectual y sensorial calificada y cuando se detecte cualquier anomalía o deficiencia deberá iniciar de manera inmediata hasta conseguir el máximo de funcionalidad posible, así como su mantenimiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Toda persona con algún tipo de discapacidad podrá beneficiarse con la rehabilitación y habilitación médica necesaria para corregir o mejorar su estado físico, mental, cognitivo o sensorial, para lograr su inclusión educativa, laboral o social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "Los procesos de rehabilitación se complementarán con la orientación, prescripción, gestión y el apoyo para la obtención de medicamentos y adaptación de prótesis, órtesis o cualquier ayuda técnica, así como cirugías y transplantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "Corresponde a la familia de las personas con discapacidad informarse y capacitarse para participar y apoyar los procesos de habilitación, rehabilitación e inclusión social, educativa, laboral, política y cultural, así como procurarles los medios para que reciban una adecuada atención de su salud y de su educación.\nCuando en un proceso de habilitación o rehabilitación se considere necesaria la participación de algún miembro de la familia, éste deberá colaborar con el grupo de profesionistas que atienda el caso, y de ser necesario las instancias o instituciones que atiendan el caso podrán otorgarle las justificaciones por ausencia laboral o escolar que deberán ser aceptadas por el centro de trabajo o escolar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "Las autoridades velarán para que la cobertura de habilitación y rehabilitación incluya las comunidades rurales y comunidades indígenas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "La Secretaría podrá otorgar apoyos sociales a las personas con discapacidad de escasos recursos, para el traslado desde comunidades alejadas al lugar donde recibirá rehabilitación y habilitación médica, así como para su estancia, conforme a la capacidad presupuestal y las reglas de operación que al efecto se establezcan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "Todos los servidores públicos y prestadores de servicios que colaboren en dependencias públicas, estatales y municipales, organizaciones, servicios de salud y educativos, ya sean de carácter público, social o privado, especialmente los que brinden servicios a personas con discapacidad, deberán informar al DIF Estatal o a la Secretaría cuando se detecte o sospeche de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con discapacidad, a fin de que dé cumplimiento a las funciones de ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- El apoyo y orientación psicológicos estarán dirigidos a optimizar al máximo las potencialidades de la persona con discapacidad, por lo que deberán considerarse sus características, motivaciones e intereses personales, así como los factores familiares y sociales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "El apoyo y orientación psicológica para las personas con discapacidad comprenderá también programas de educación y orientación para la salud sexual, salud reproductiva y servicios de planificación familiar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Educación, Cultura, Deporte y Recreación",
+        "Artículos": [
+          {
+            "Artículo": 51,
+            "Texto": "La Secretaría de Educación vigilará que las personas con discapacidad se integren de manera inclusiva y en condiciones de igualdad y equidad, a la educación regular en escuelas públicas y privadas en los niveles básicos y en la educación inicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "La Secretaría, conjuntamente con la Secretaría de Educación, DIF Estatal, DIF Municipales y los municipios, promoverán que a los alumnos con discapacidad se les apoye con materiales educativos, ayudas técnicas y becas para mejorar el rendimiento académico y su plena inclusión al sistema educativo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "La Secretaría, conjuntamente con la Secretaría de Educación, DIF Estatal, DIF Municipales y los municipios, promoverán que se establezcan centros y programas de educación especial, dirigidas a los alumnos que por sus condiciones de discapacidad no puedan incluirse a los programas de educación regular. Asimismo, promoverán programas para la asistencia y cuidado en instancias infantiles con personal capacitado para la atención a personas menores de edad con discapacidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- La Educación Especial tendrá como objetivos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La superación de las deficiencias y de sus consecuencias y secuelas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El desarrollo de habilidades y el adiestramiento en el uso de ayudas técnicas que le permitan a la persona con discapacidad la mayor autonomía posible;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El desarrollo máximo de las potencialidades y aptitudes de la persona con discapacidad; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proporcionarle herramientas y conocimientos para facilitar a las personas con discapacidad su incorporación al mercado de trabajo."
+              }
+            ]
+          },
+          {
+            "Artículo": 55,
+            "Texto": "La Secretaría, las secretarías de Cultura y de Educación, el DIF Estatal, los DIF Municipales y los municipios deberán fomentar programas para la inclusión en la práctica y el desarrollo de las aptitudes y habilidades artísticas y culturales de las personas con discapacidad, como elemento necesario del proceso de desarrollo de potencialidades y de rehabilitación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "La Secretaría de Cultura, la Secretaría de Educación, el DIF Estatal y los DIF Municipales destinarán partidas a programas de apoyo para proporcionar materiales, ayudas técnicas, becas y recursos que promuevan actividades culturales de las personas con discapacidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "La promoción de actividades físicas, recreativas y la práctica organizada de deporte paralímpico y la participación en competencias deportivas deberán desarrollarse por el CODE, con el apoyo de las Secretarías de Cultura y Educación, DIF Estatal, DIF Municipales y los municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "El CODE, las Secretarías de Cultura y Educación, el DIF Estatal y los DIF Municipales, procurarán proporcionar materiales deportivos, ayudas técnicas, becas y recursos para promover programas de recreación y utilización del tiempo libre y la práctica organizada del deporte y la asistencia a competencias.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Rehabilitación Económica, Capacitación y Empleo",
+        "Artículos": [
+          {
+            "Artículo": 59,
+            "Texto": "La Secretaría del Trabajo y Previsión Social impulsará el diseño y la ejecución de políticas públicas a favor de las personas con discapacidad para su inclusión en el ámbito laboral, como son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La erradicación de prácticas discriminatorias que tomen a la discapacidad como motivo de negación de un empleo, cuando se cuenten con las competencias y capacidades para realizarlo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El establecimiento de mecanismos de protección y ejecución de acciones contra cualquier forma de trabajo forzoso, explotación y acoso contra personas con discapacidad en el lugar de trabajo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La promoción de acciones de nivelación a favor de la contratación de mujeres y personas indígenas con discapacidad; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El establecimiento de programas de capacitación para el empleo y la autogestión económica de las personas con discapacidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- Los procesos de rehabilitación buscarán otorgar el máximo de funcionalidad para que las personas con discapacidad puedan incorporarse al mercado de trabajo y al desarrollo de actividades productivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "La Secretaría de Trabajo y Previsión Social otorgará a personas con discapacidad programas de capacitación para el empleo, así como el apoyo y asesoría para la autogestión económica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "La Secretaría de Trabajo y Previsión Social, conjuntamente con la Secretaría y los municipios, promoverá la inclusión laboral de personas con discapacidad, en el ámbito público.\nAdemás, impulsarán su incorporación laboral a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, universidades, sindicatos y empleadores, para lo cual establecerán bolsas de trabajo y becas temporales de capacitación y promoverán el otorgamiento de estímulos económicos, fiscales y reconocimientos públicos a las empresas, instituciones y empleadores que cuenten con programas de incorporación laboral de personas con discapacidad.\nEn la promoción laboral de las personas con discapacidad se dará preferencia a quienes no cuenten con alguna pensión u otra prestación económica producto de su discapacidad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De la Accesibilidad, Movilidad y Eliminación de Barreras Físicas y de Comunicación",
+        "Artículos": [
+          {
+            "Artículo": 63,
+            "Texto": "Las autoridades diseñarán e instrumentarán programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad con el objetivo principal de que se les facilite el acceso y movilidad y sean incluidos a las actividades sociales y económicas de la comunidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "Las autoridades vigilarán que se garantice a las personas con discapacidad el acceso y movilidad en medios de transporte, espacios públicos, privados, laborales, educativos, recreativos, y en espectáculos públicos, incluyendo sus aparatos ortopédicos, sillas de ruedas, equipos, perros guía o animales de servicio.\nToda persona con discapacidad y sus perros guías o animales de servicio tienen acceso libre e irrestricto a establecimientos mercantiles, instalaciones o transportes, individuales o colectivos, sean de carácter público o privado.\nLa persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio en los términos de esta Ley o cobre por ello una tarifa adicional cuando se incluya aparatos ortopédicos, sillas de ruedas, equipos, perros guía o animales de servicio se harán acreedores a las sanciones que establece la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "La Secretaría de Medio Ambiente y Desarrollo Territorial, la Secretaría de Infraestructura y Obra Pública y los Municipios, en el ámbito de sus respectivas competencias, establecerán las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de urbanización, fraccionamiento y construcción que se sometan a su aprobación, así como las ampliaciones, reparaciones y reformas de edificios existentes, conforme a lo previsto por esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "Las dependencias de la Administración Pública del Estado y los municipios deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Observar lo señalado en el artículo anterior en la aplicación y urbanización de las vías, parques y jardines públicos, a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contemplar en el programa que regule su desarrollo urbano, la adecuación de facilidades urbanísticas y arquitectónicas, acorde a las necesidades de las personas con discapacidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 67,
+            "Texto": "En los espacios en que se presenten espectáculos públicos, centros recreativos y deportivos, y en general, en cualquier recinto de uso público, los administradores u organizadores deberán establecer espacios preferentes reservados para las personas con discapacidad. Los municipios sancionarán la obstrucción de dichos espacios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "Los ayuntamientos deberán incluir en sus reglamentos municipales normas que incluyan ajustes razonables relativos en proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "Los municipios garantizarán y vigilarán el cumplimiento para que el equipamiento que se instale en la vía pública reúna características de diseño universal y no invada el libre tránsito de las personas con discapacidad. En caso contrario, ordenarán su retiro inmediato.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "El transporte deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso a las personas con discapacidad en los términos de la legislación aplicable.\nCada unidad del servicio colectivo de pasajeros deberá contar con un mínimo de dos asientos preferenciales para personas con discapacidad, los cuales se fijarán de forma vertical, con el respaldo adherido a uno de los costados de la unidad y estarán cerca de la puerta de ingreso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "El Ejecutivo del Estado, mediante estudios técnicos, determinar en la norma t cnica correspondiente, que el transporte público, en particular las unidades del servicio colectivo de pasajeros, cuenten con aditamentos especiales, necesarios y suficientes, tales como escalones, rampas y elevadores o mecanismos especiales que permitan el abordaje y descenso a personas con discapacidad. La Secretaría del Transporte y los municipios vigilarán el cumplimiento de dicha norma técnica.\nInvariablemente los estudios y normas técnicas incluirán la instalación de aditamentos específicos, necesarios y suficientes para el abordaje y descenso de las unidades del servicio colectivo de pasajeros para las personas con discapacidad de acondroplasia esquelética de talla baja.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI Del Estacionamiento, Rampas y Paso Preferentes",
+        "Artículos": [
+          {
+            "Artículo": 72,
+            "Texto": "La regulación municipal establecerá el número de espacios de estacionamientos de uso preferencial para facilitar el traslado de personas con discapacidad tanto en la vía pública como en inmuebles con atención al público, preferentes y de fácil acceso a sus instalaciones.\nLas normas reglamentarias que al efecto expidan los Ayuntamientos privilegiarán el traslado de las personas con discapacidad.\nLa Secretaría del Transporte y los municipios vigilarán que se garantice y cumpla con las disposiciones para el uso adecuado de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública, como en lugares de acceso al público, y en su caso, aplicarán las sanciones previstas por esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "Las normas regulatorias a que se refiere el artículo anterior deberán permitir el uso de los espacios de estacionamiento de uso preferencial para facilitar el traslado de personas con discapacidad, para lo cual el conductor deberá exhibir desde el interior del vehículo en lugar visible, preferentemente encima del tablero del conductor, algún distintivo que permita identificar que el vehículo será abordado o que traslada a persona con discapacidad.\nDicho distintivo podrá ser la calcomanía oficial, el extracto de la certificación de reconocimiento y calificación de discapacidad, o la identificación que expida el DIF Estatal, vigentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "Los municipios vigilarán que se garantice y cumpla con las disposiciones para el uso adecuado de espacios de estacionamientos de uso preferencial para facilitar el traslado de personas con discapacidad en sitios públicos o al interior de empresas o instituciones con edificios de acceso al público; de las rampas y lugares de acceso y paso preferente destinados a personas con discapacidad, y para evitar que las banquetas se utilicen como estacionamientos; y en su caso, aplicarán las sanciones previstas por esta ley y la regulación municipal.\nSólo las autoridades municipales podrán imponer multas al mal uso de los espacios citados en el párrafo anterior, conforme a lo que al efecto establezca esta Ley y la regulación municipal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "TÍTULO QUINTO SANCIONES",
+        "Artículos": [
+          {
+            "Artículo": 75,
+            "Texto": "Las violaciones a lo establecido en la presente Ley, su reglamento y demás disposiciones que de ésta emanen, serán sancionadas por las autoridades estatales y municipales, en el ámbito de su competencia, conforme a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco.\nLas violaciones a la presente Ley por acciones u omisiones cometidas por los servidores públicos, en el ejercicio de sus funciones, serán sancionadas de conformidad a lo previsto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "Las autoridades estatales y municipales, en el ámbito de su competencia, aplicarán a petición de parte o de oficio, sin menoscabo de lo dispuesto por otras disposiciones legales, las siguientes sanciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Multa equivalente de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los proveedores de bienes y servicios, sea de carácter público o privado, que nieguen el acceso, la permanencia, el uso de un servicio a personas con discapacidad en los términos de esta Ley, o cobren una tarifa adicional cuando se incluyan aparatos ortopédicos, sillas de ruedas, equipos, perros guía o animales de servicio;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los padres o tutores de personas menores de edad que presenten algún tipo de discapacidad, que omitan procurarles los servicios de educación y salud;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Multa equivalente de 180 a 240 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Multa equivalente de 180 a 240 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a las escuelas públicas o privadas que nieguen la admisión de personas con discapacidad como alumnos regulares del plantel, por causa de dicha discapacidad. Para el caso de escuelas privadas la multa podrá duplicarse en caso de reincidencia y si persiste la negativa se podrá proceder a la revocación de la autorización o retiro de reconocimiento de validez de estudios correspondiente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Multa equivalente de 180 a 240 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los constructores o propietarios de obras que incumplan con las disposiciones referentes a la accesibilidad y movilidad de personas con discapacidad."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "De 250 a mil 500 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a las personas físicas e instituciones públicas y privadas que presten servicios para el diagnóstico, la atención y el tratamiento de personas con discapacidad, e incumplan con algún protocolo o norma técnica que dicte la Secretaría de Salud o cualquier Norma Oficial Mexicana, o no cuenten con la certificación correspondiente en los términos de esta Ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "De 250 a mil 500 veces de la Unidad de Medida y Actualización al momento de cometer la infracción, a quien emita certificación de reconocimiento y calificación de discapacidad sin reunir\nlos elementos que al efecto determinen los criterios y lineamientos técnicos emitidos por la Secretaría de Salud; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "De 250 a mil 500 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quien emita certificación de reconocimiento y calificación de discapacidad no remita al Registro Estatal copia del certificado dentro de los 30 días siguientes al de su emisión.\nSerá competencia de la Secretaría de Salud y de los municipios aplicar las multas establecidas en las fracciones VII, VIII y IX, sin menoscabo de las penas previstas en el Código Penal para el Estado Libre y Soberano de Jalisco, en su artículo 160, para los médicos, cirujanos y demás profesionistas similares o auxiliares por el daño que causen por dolo o culpa en la práctica de su profesión; en el artículo 161 Bis del mismo Código, por el delito de responsabilidad profesional y técnica por el daño causado al receptor del servicio por dolo o culpa, o el artículo 170 del Código, por el delito de usurpación de profesión, según corresponda.\nSerá competencia de los municipios, en los términos de la regulación municipal, la aplicación de las multas establecidas en las fracciones I, III, IV y VI. En caso de reincidencia los municipios aplicarán la sanción máxima, y respecto a las fracciones II y VI, además, podrán proceder a la suspensión de la licencia de construcción o funcionamiento, permiso o concesión, y procederá a la revocación definitiva cuando la infracción ponga en peligro la salud de las personas con discapacidad.\nLos municipios darán vista al DIF Municipal, según sea el caso, cuando tuvieren conocimiento de infracciones a la fracción III.\nSerá competencia de la Secretaría del Transporte y de los municipios aplicar las multas establecidas en la fracción II.\nSerá competencia de la Secretaría de Educación aplicar las multas establecidas en la fracción V. Cuando la infracción fuere cometida en un establecimiento de educación pública se aplicarán las sanciones administrativas establecidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.\nEn la aplicación de sanciones se considerará lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos."
+              }
+            ]
+          },
+          {
+            "Artículo": 77,
+            "Texto": "- La aplicación de una sanción deberá estar debidamente fundada y motivada y se observará lo dispuesto por las leyes administrativas aplicables y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "TÍTULO SEXTO RECURSOS",
+        "Artículos": [
+          {
+            "Artículo": 78,
+            "Texto": "- Las resoluciones que se dicten en aplicación de las disposiciones de esta Ley podrán ser impugnadas ante la misma autoridad que las emita, a través del recurso de revocación, de conformidad con lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Segundo",
+            "Texto": "Los recursos humanos, financieros y materiales asignados a la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad, así\ncomo los del Consejo de Valoración de las Personas con Discapacidad, pasarán a formar parte del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, respetando los derechos laborales de los servidores públicos involucrados; para los efectos de la operación de este artículo, el Poder Ejecutivo deberá realizar las adecuaciones administrativas necesarias en las dependencias involucradas.\n\nEl Consejo contará con noventa días a partir de la vigencia de este decreto, para reformar su reglamento, conforme a lo establecido en la presente Ley.\n\nLas funciones del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad serán asumidas por la Secretaría de Igualdad Sustantiva.\nLos asuntos en trámite iniciados ante el Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad que se extingue, serán resueltos por la Secretaría de Igualdad Sustantiva.\nEl Poder Ejecutivo, a través de las Secretarías de Igualdad Sustantiva, de Administración y de la Hacienda Pública, según corresponda, llevarán a cabo las acciones jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones del Consejo que se extingue se sigan prestando en forma ininterrumpida.\n\nEl Titular del Poder Ejecutivo deberá realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27983/LXII/20\noficial “El Estado de Jalisco”.\n\nLas personas con discapacidad que ya cuenten con el certificado expedido por la Unidad de Valoración, podrán acudir a dicho órgano para que se les expida uno nuevo con la adición de ser usuarios de perros guía o de asistencia.\nTABLA DE REFORMAS Y ADICIONES\n23938/LIX/11.- Se reforma el Transitorio Primero y se adiciona un Sexto, ambos del decreto\nnúmero 23081/LVIII/09, que contiene la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco.- Ene. 19 de 2012. Sec. III.\n24428/LX/13.- Reforma el artículo 2º de la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco.- Jul. 25 de 2013. Sec. III.\n24429/LX/13.- Reforma el artículo 7º de la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco.- Jul. 25 de 2013. Sec. III.\n24814/LX/14.- Se reforman las fracciones IV y V, y se adiciona una frac. VI al art. 32 de la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco.- Feb. 8 de\n2014. Sec. VI.\n25558/LX/15.- Se reforman 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29, 32, 33, 34, 34, 41, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66, 67, 68, 69 70, 71, 72, 73, 74, 75, y 76, adicionan los artículos 26 bis, 29 bis, 33 bis y 34 bis y se derogan los artículos 39 y 40 de la Ley para la Atención y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco, y reforma su denominación para quedar como Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Dic. 17 de 2015 sec. LXIII.\n25840/LXI/16.- Artículo cuadragésimo cuarto, se reforma el artículo 76 de la Ley para la Inclusión y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco.- Oct. 11 de 2016 sec. V.\nAL-757-LXI-16.- Aprueba la aclaración de error de la minuta de decreto 25840/LXI/16. Oct. 11 de 2016 sec. VI.\n25877/LXI/16.- Se reforma el artículo 35 de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Oct. 11 de 2016 sec. VIII.\n25903/LXI/16.- Se adiciona el artículo 5 Bis a la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Nov. 17 de 2016 sec. II.\n26412/LXI/17.- Se reforman los artículos 4, 6, 12, 26, 27, 51 y se adiciona el artículo 5 Ter, a la Ley para la Inclusión y el Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Jul. 27 de 2017 sec. IV.\n27210/LXII/18.- Se reforman los artículos 1, 2, 3, 7, 23, 26, 27, 28, 29 bis, 32, 33, 33 bis, 34, 37, 38, 48, 52, 53, 55 y 62; y se derogan los artículos 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 y 22, de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco; y extingue el Organismo Público Desconcentrado denominado Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad.- Dic. 5 de 2018, sec. Ter. Ed. Especial.\n27320/LXII/19.- Se reforman los artículos 2, 23, 55, 71, 72 y 76 de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Ago. 29 de 2019 sec.",
+            "Fracciones": [
+              {
+                "Fracción": "II",
+                "Texto": "27520/LXII/19.- Se reforman diversos artículos de la Ley de los Derechos de Niñas, Niños y Adolecentes, de la Ley para el Desarrollo Integral del Adulto Mayor, de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad y de la Ley para la Operación de Albergues, todos los ordenamientos del Estado de Jalisco.- Nov. 23 de 2019 sec. III.\n27815/LXII/20.- Se reforman los artículos 1, 2, 4, 5, 26, 26 bis, 29 y 30 de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Feb. 27 de 2020 sec.\n\n(Este Decreto fue publicado en el Periódico Oficial El Estado de Jalisco el día veintisiete de febrero del 2020 y declarado invalido en el resolutivo SEGUNDO, de la sentencia derivada de la Acción de Inconstitucionalidad 176/2020 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, la que surtirá sus efectos a los dieciocho meses siguientes al día 18 de Mayo del año 2021, fecha en que fue notificado el Congreso del Estado de Jalisco de los resolutivos, de conformidad con el considerando TERCERO de la sentencia referida).\n27983/LXII/20.- Se reforman los artículos 23, 64 y 76 de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Nov. 7 de 2020 sec. V.\n28336/LXII/20.- Se reforma la fracción VIII del artículo 27 de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Abr. 13 de 2021 sec. IV.\nAcción de Inconstitucionalidad 176/2020 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, cuyo resolutivo SEGUNDO declara inválido el decreto 27815 que surtirá sus efectos a los dieciocho meses siguientes al día 18 de Mayo del año 2021, fecha en que fue notificado el Congreso del Estado de Jalisco de los resolutivos, de conformidad con el considerando TERCERO de la sentencia referida.\n28989/LXIII/22.- Se reforman los artículos 1, 2, 4, 5, 11, 12, 13, 14, 26, 26 bis, 27, 29 y 30 de la Ley para la Inclusión y Desarrollo integral de las Personas con Discapacidad del Estado de Jalisco.- Dic. 3 de 2022, sec. V.\n29167/LXIII/23.- Se reforman los artículos 9, 23 segundo párrafo, 35 fracción VI, 64, 76 fracción II y tercer párrafo; y se adiciona la fracción XXXI al artículo 2, todos de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Mar. 28 de 2023, sec."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "29216/LXIII/23.- Se reforma el artículo 33 bis de la Ley para la Inclusión y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco.- Jul. 22 de 2023, sec. III.\n29536/LXIII/24.- Se reforma el artículo 71 de la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco.- Mar. 9 de 2024, sec. IV.\nLEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO\nAPROBACIÓN: 11 DE DICIEMBRE DE 2009. PUBLICACIÓN: 31 DE DICIEMBRE DE 2009. SECCIÓN VI. VIGENCIA: 1º.DE ENERO DE 2010."
+              }
+            ]
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Consejo dará seguimiento a las personas con discapacidad que están siendo beneficiadas con algún apoyo, servicio o trámite, así como a los asuntos pendientes o en proceso por parte de la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad, y del Consejo de Valoración de las Personas con Discapacidad.\n\nDentro de los sesenta días siguientes a la entrada en vigor de este decreto, el Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad deberá elaborar y proponer a la Secretaría de Desarrollo e Integración Social el proyecto de reglamento de la Ley para la inclusión y desarrollo integral de las personas con discapacidad, para en su caso ser propuesta para el Ejecutivo Estatal.\n\nLa Secretaría de Administración, por conducto de la persona que designe, intervendrá en el proceso de entrega recepción del organismo público desconcentrado denominado Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Las entidades y dependencias del Poder Ejecutivo del Estado y los ayuntamientos contar n con 180 días a partir de la publicación del presente decreto en el Periódico Oficial “El Estado de Jalisco”, para crear o adecuar sus reglamentos conforme a lo establecido en la presente ley y deberán definir la instancia responsable de su aplicación.\n\nDentro de los ciento veinte días siguientes a la entrada en vigor de este decreto, y según lo contenido en el artículo segundo de este decreto, la Unidad de Valoración con el apoyo del Consejo, deberá elaborar y proponer al titular de la Secretaría de Salud la expedición de protocolos y normas técnicas, para el diagnóstico, la atención y el tratamiento de personas con discapacidad, conforme a lo previsto en el artículo 23; el titular de la Secretaría de Salud deberá emitir y publicar los protocolos y normas técnicas dentro de los sesenta días posteriores, conforme al artículo 26.\n\nLas relaciones laborales que tenga el Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad con su personal de base, pasarán a formar parte de la Secretaría de Igualdad Sustantiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Se deroga el Libro Quinto del Código de Asistencia Social del Estado de Jalisco, en sus artículos del 141 al 189, así como todas las disposiciones legales que contravengan el presente\ndecreto.\n\nDentro de los ciento ochenta días siguientes a la entrada en vigor de este decreto, el Consejo deberá proponer a la Secretaría de Salud, para su publicación en el Periódico Oficial “El Estado de Jalisco”, los criterios y lineamientos t cnicos para la emisión de las certificaciones de reconocimiento y calificación de discapacidad en los términos previstos por los artículos 12 y 23, conforme al artículo segundo de este decreto.\n\nLas facultades, derechos y obligaciones establecidos a cargo del organismo público desconcentrado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidas por la Secretaría de Igualdad Sustantiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Por única ocasión el Consejo podrá emitir convocatoria para la selección del Vicepresidente y de los diez consejeros de los organismos civiles establecidos en el artículo 13 de la presente ley con los 16 integrantes restantes que se establecen en el mismo artículo, ajustándose en lo posterior a lo establecido en el artículo 15 del presente ordenamiento.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 11 de diciembre de 2009\nDiputado Presidente Carlos Rodríguez Burgara\nDiputada Secretaria Norma Angélica Aguirre Varela\nDiputado Secretario Alfredo Zárate Mendoza\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 18 días del mes de diciembre de 2009.\nEl Gobernador Constitucional del Estado Emilio González Márquez\nEl Secretario General de Gobierno Lic. Fernando Antonio Guzmán Pérez Peláez\nARTÍCULOS TRANSITORIOS DEL DECRETO 25558/LX/15\n\nHasta en tanto se expide la Clasificación Nacional de Discapacidades, la evaluación de las personas con discapacidad se realizará conforme a la Clasificación Internacional del Funcionamiento de la Discapacidad y de la Salud.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27210/LXII/18\n\nEl Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor el 6 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27815/LXII/20\noficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

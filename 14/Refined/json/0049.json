@@ -1,0 +1,1072 @@
+{
+  "0049.JSON": {
+    "Decreto": "Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco. Estados Unidos Mexicanos.\nAlberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 18501.- EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": null,
+    "Título": "LEY DE HACIENDA DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "os ingresos que la Hacienda Pública del Estado tiene derecho a percibir de conformidad con las disposiciones fiscales, serán los que se obtengan por concepto de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impuestos.\n1) Impuestos sobre los Ingresos:\na) Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuesta y Concursos de toda clase;\nb) Impuesto sobre Enajenación y Distribución de Boletos de Rifas y Sorteos;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado; y\n\nImpuesto sobre Hospedaje; y\n\nAutorizaciones para el Ejercicio Profesional y Notarial;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Impuesto a los Ingresos de Redes y Plataformas de Servicios de Empresas de Transporte Privado de Punto a Punto.\n2) Impuestos sobre la Producción, el Consumo y las Transacciones:\na) Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles;\nb) Impuesto sobre la Adquisición de Vehículos Automotores usados;\n\nImpuesto Sobre Erogaciones de Juegos con Apuestas.\n3) Impuesto sobre Nóminas y Asimilables:\na) Impuesto sobre Nóminas.\n\nServicios en los ramos de Movilidad y Transporte y su Registro;\ne) Certificaciones, Expediciones de Constancias y otros Servicios; y\nf) Servicios diversos fijados de conformidad con la presente ley o cualquier otra disposición fiscal estatal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Derechos.\n1) Derechos por la Prestación de Servicios:\na) Registro Público de la Propiedad y de Comercio;\nb) Archivo de Instrumentos Públicos y Archivo General del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Productos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprovechamientos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Participaciones y aportaciones federales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ingresos extraordinarios; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ingresos por Financiamientos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO Del Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles",
+        "Artículos": [
+          {
+            "Artículo": 2,
+            "Texto": "Es objeto de este impuesto, toda transmisión de propiedad o titularidad de derechos de bienes muebles efectuada mediante:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La adjudicación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La transmisión o promesa de cesión de derechos fiduciarios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La cesión y transmisión de derechos: hereditarios, de crédito, litigiosos y los derivados de ejecución de sentencia;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La transmisión de derechos relativos a palcos, butacas o plateas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los actos constitutivos del fideicomiso, así como los actos de ejecución de los mismos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La disolución o liquidación de la copropiedad por lo que respecta a los excedentes del valor que le correspondería a la porción de cada propietario;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La disolución o liquidación de la sociedad conyugal o sociedad legal, por lo que respecta a los excedentes del valor que le correspondería a la porción de cada cónyuge;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La enajenación, cesión o donación de acciones o partes sociales; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Todo acto o contrato por el que se enajenen o transmitan bienes muebles o derechos sobre los mismos."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "on sujetos de este impuesto, las personas físicas, jurídicas o unidades económicas, que realicen alguno de los actos o contratos previstos en el artículo anterior.\nDe la base del impuesto",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Será base de este impuesto, el valor que resulte más alto entre el de operación consignado en el documento de que se trate y, en su caso, el del avalúo pericial, valor catastral o actuaciones judiciales, conforme a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad o de sociedad legal o conyugal, el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios, herederos o cónyuges, determinado de acuerdo con lo señalado en la presente fracción;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En las ventas judiciales o administrativas de bienes muebles, el valor de adjudicación de los bienes; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tratándose de fideicomisos, el valor de los bienes fideicomitidos.\nCuando el Servicio Estatal Tributario de Jalisco advierta que el valor de operación consignado en el documento de que se trate; o el consignado en el avalúo pericial, es notoriamente inferior al que le correspondería como valor real, practicará avalúo con los elementos de que disponga, mismo que servirá de base para el pago de ese impuesto.\nEl Servicio Estatal Tributario de Jalisco podrá tomar como base de cálculo del gravamen, cualquier avaluó practicado por el perito, que conozca con motivo de la transmisión patrimonial, en el caso de que no se cuente con valores."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "ste impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de Ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "stán exentas del pago de este impuesto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las transmisiones a favor de la Federación, del Estado o de los municipios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las transmisiones de bienes y derechos, si por rescisión del contrato vuelven al enajenante los referidos bienes y derechos dentro de los sesenta días naturales siguientes a la fecha de celebración del contrato; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las adjudicaciones de los bienes hechas como consecuencia de juicios laborales y penales en favor de los trabajadores y sus beneficiarios, que hayan sido parte en los procedimientos respectivos."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "l pago de este impuesto se efectuará, según se trate, dentro de los sesenta días naturales siguientes a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La fecha de la resolución, en el caso de la adjudicación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La fecha de protocolización respectiva, tratándose de disolución o liquidación de copropiedad y de sociedades conyugales o legales, así como tratándose de la cesión o transmisión de derechos hereditarios; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La fecha del documento en que se haga constar el acto o contrato respectivo, en los casos no comprendidos en las fracciones anteriores.\nEn los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan el pago de este impuesto se hará en la Oficina Central de Recaudación Fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine persona titular del Servicio Estatal Tributario de Jalisco mediante reglas de carácter general.\nEn los municipios del Estado no previstos en el párrafo anterior, el pago se efectuará en las Oficinas de Recaudación Fiscal que correspondan."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "os bienes materia del hecho, acto o contrato, gravados con este impuesto, quedarán preferentemente afectos a garantizar el pago del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "ara los efectos del artículo 7° de esta Ley, los notarios públicos o quienes hagan sus veces, las instituciones fiduciarias y los servidores públicos, en su caso, deberán retener y enterar el impuesto causado en los términos de esta Ley, por los actos o contratos en que intervengan, gravados por este impuesto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "El entero del impuesto y avisos a que se refiere el artículo anterior se harán en las formas aprobadas por el Servicio Estatal Tributario de Jalisco debiendo proporcionar los datos y acompañar los documentos que en las mismas se indiquen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- El entero de este impuesto se hará en las oficinas señaladas en el artículo 7 de la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Los avisos deberán presentarse en el Servicio Estatal Tributario de Jalisco, dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO Del Impuesto sobre Negocios Jurídicos e Instrumentos Notariales",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Se deroga",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO Del impuesto sobre la Adquisición de Vehículos Automotores Usados",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "Es objeto de este impuesto, la adquisición, la compra-venta, donación, permuta o aportación a una sociedad, tanto de vehículos automotores usados, eléctricos, de remolques y semirremolques, así como los obtenidos por premios en rifas y sorteos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Son sujetos pasivos de este impuesto las personas físicas, jurídicas y unidades económicas que adquieran vehículos automotores usados, dentro del territorio del estado.\nSe considera que la adquisición, compra-venta, donación, permuta o aportación a una sociedad, se realizó en el Estado de Jalisco, cuando el adquirente lleve a cabo los trámites de cambio de propietario o matriculación del vehículo ante las autoridades competentes en el Estado.\nDe las bases del impuesto",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Para los efectos de este impuesto, la base gravable se determinará aplicando el siguiente procedimiento:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se considerará el valor total del vehículo establecido en la factura inicial de adquisición o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizados, sin incluir el Impuesto al Valor Agregado, siempre que se encuentre desglosado. El valor del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla siguiente:\nTABLA\nAños de antigüedad Factor\n0. 850\n0. 725\n0. 600\n0. 500\n0. 400\n0. 300\n0. 225\n0. 150 9 y más antiguos\n0. 075\nEl resultado se actualizará, en los términos del artículo 68 del Código Fiscal del Estado de Jalisco, dividiendo el Índice Nacional de Precios al Consumidor, del mes anterior al en que se realice el pago del impuesto, entre el citado Índice correspondiente al mes anterior a la fecha de factura inicial de adquisición o carta factura, del vehículo de que se trate."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tratándose de vehículos usados cuyo modelo sea del año en curso o del siguiente, el valor total consignado la factura inicial de adquisición o carta factura expedida por el fabricante, ensamblador o distribuidor autorizados, relativo al precio de la unidad, equipo opcional y otros accesorios,"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En el caso de vehículos no aptos para circular se considerará sólo el 25% del valor factura, de acuerdo al procedimiento de la fracción I de este artículo.\nSe considerará que los vehículos no son aptos para circular, cuando se destinen para la venta de partes o refacciones usadas.\nDe la cuota y pago del impuesto"
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Este impuesto se calculará aplicando a la base determinada conforme al artículo anterior, las tasas establecidas en la Ley de Ingresos del Estado.\nTratándose de vehículos usados, deberá pagarse dentro de los diez días hábiles posteriores a la fecha en que ocurra cualquiera de los siguientes hechos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Endoso de la factura o del documento que acredite legalmente la propiedad del vehículo; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La fecha de adquisición, compra-venta, donación, permuta o aportación a una sociedad, o en que hubiera sido obtenido como premio en rifa o sorteos."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Los bienes transmitidos o adquiridos quedan afectos, preferentemente, a garantizar el pago del impuesto a que se refiere este capítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Para la recaudación de este impuesto se observarán las reglas siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los contribuyentes deberán presentar la documentación que acredite la propiedad del vehículo, ante la oficina de recaudación fiscal que corresponda; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La oficina de recaudación fiscal, al efectuarse el entero del impuesto, expedirá el recibo oficial respectivo y certificará constancia de pago en la factura o documento que ampare la propiedad del vehículo.\nLos contribuyentes propietarios de vehículos automotores usados registrados en el Estado que efectúen la transmisión de un vehículo, o los contribuyentes que lo adquieran, deberán presentar ante la oficina de recaudación fiscal competente, el aviso de cambio de propietario dentro de los diez días hábiles siguientes a aquél en que se realice la adquisición, compra-venta, donación, permuta o aportación a una sociedad, adjuntando el documento que acredite dicha circunstancia."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Están exentas del pago de este impuesto, las operaciones de compra-venta de vehículos usados por cuya enajenación debe pagarse el impuesto al valor agregado, así como las relativas a vehículos eléctricos y en un 50% a los vehículos híbridos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "Son objeto de este impuesto, los ingresos en efectivo o en especie, siempre que se generen por actividades no subordinadas, realizadas en el estado, o los perciban personas domiciliadas en el mismo, que se obtengan por el libre ejercicio de una profesión, arte o actividad deportiva, cultural o prestación de un servicio mercantil.\nAsimismo, los ingresos que obtengan los agentes de seguros, administradores únicos; los miembros del consejo de administración, de vigilancia, consultivos o de cualquiera otra denominación que se les dé; así como los honorarios asimilados a salarios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "Son sujetos de este impuesto las personas físicas que, habitual o eventualmente, obtengan los ingresos a que se refiere el artículo anterior.\nCuando operen organizadas en asociaciones o sociedades, serán dichas agrupaciones los sujetos del impuesto, con responsabilidad directa por el total de los ingresos que obtengan; las personas físicas y jurídicas, que cubran las remuneraciones a que se refiere el artículo anterior de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.\nCuando se trate de servicios de medicina, las personas físicas y jurídicas, que en sus instalaciones permitan la prestación de servicios independientes en la materia, estarán obligados a recaudar el impuesto causado por los prestadores de referencia y enterarlo dentro del término que establece este\ncapítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Servirá de base para el cálculo de este impuesto, el total mensual de los ingresos que se obtengan.\nDe la tarifa",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Este impuesto se liquidará, aplicando a la base determinada en el artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente al de la percepción del ingreso, en la Oficina de Recaudación Fiscal correspondiente a su jurisdicción, o ante las instituciones de crédito autorizadas por el Servicio Estatal Tributario de Jalisco.\nLa obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados.\nDe las obligaciones",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Los sujetos que obtengan los ingresos comprendidos en este capítulo, y en su caso los retenedores o recaudadores del impuesto tendrán, además de las obligaciones establecidas en la presente Ley u otras disposiciones legales, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Pagar el impuesto en la forma y términos establecidos en este capítulo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Llevar un libro de ingresos y egresos en el que consignarán el concepto; fecha e importe del ingreso o egreso, según se trate, el nombre y el domicilio de quien efectuó el pago o del beneficiario del egreso efectuado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Expedir y recabar documentación comprobatoria de sus operaciones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Presentar los avisos de inscripción o modificaciones ante el Registro Estatal, en los términos que disponen los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cumplir con las obligaciones y disposiciones que se establece en el Código Fiscal del Estado, entre las que se señalan de manera enunciativa, mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos informes o cualquiera otra documentación a que se obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capitulo; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expedir constancia de retención del Impuesto Sobre Remuneración al Trabajo Personal no Subordinado, en el formato que al efecto apruebe el Servicio Estatal Tributario de Jalisco, de manera mensual o anual."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "En el caso de retenedores, presentar declaración informativa anual ante las Oficinas de Recaudación Fiscal del Estado o a través de los medios electrónicos que establezca el Servicio Estatal Tributario de Jalisco, en el formato oficial que ésta señale, por todas las operaciones del ejercicio, a más tardar en el mes de febrero del año siguiente al que corresponda la declaración.\nMismas obligaciones tendrán los recaudadores del impuesto, es decir, quienes permitan la utilización de sus instalaciones para la prestación de servicios independientes de medicina."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "Las personas físicas o jurídicas que contraten a sujetos obligados al pago de este impuesto y para efectos eventuales, están obligadas a conservar copia autógrafa del contrato que al efecto se celebre.\nEl Servicio Estatal Tributario de Jalisco podrá designar interventores, a fin de verificar que los pagos del impuesto se realicen en el periodo que corresponda por las actividades eventuales realizadas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "Quienes cubran remuneraciones objeto de este impuesto a contribuyentes que no estén establecidos en el estado y operen eventualmente dentro de éste, deberán retenerlo y enterarlo en la oficina de recaudación fiscal de su domicilio, dentro del plazo señalado en este capítulo.\nLas personas físicas y jurídicas que cubran las remuneraciones a que se refiere el artículo 30 de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "El Servicio Estatal Tributario de Jalisco, podrá estimar los ingresos de los sujetos de este impuesto o, en su defecto, determinar estimativamente el impuesto que los solidarios responsables debieran retener y enterar, en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando no presenten sus declaraciones, no lleven los libros o registros de contabilidad o, en su caso no expidan o recaben la documentación comprobatoria a que están obligados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando perciban ingresos gravados por este impuesto sin estar registrados; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando cubran remuneraciones efectuadas al gravamen y no se encuentren registrados como retenedores, ni cumplan con las obligaciones que, en materia de retención y entero, establece este\ncapítulo.\nPara practicar la estimación o determinación estimativa a que se refiere este artículo, se tomará en cuenta la naturaleza de las actividades realizadas por el sujeto del impuesto, o por el responsable solidario obligado a retener los honorarios usuales, por servicios similares; el importe de la renta del local que ocupe; el monto de los sueldos y honorarios pagados; la suma de los gastos, fijos y personales y, en general, todos los elementos objetivos de juicio con que se cuente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO QUINTO Del Impuesto sobre Nóminas",
+        "Artículos": [
+          {
+            "Artículo": 39,
+            "Texto": "Son objeto de este impuesto, los pagos que en efectivo o en especie, realicen personas físicas o jurídicas en el Estado de Jalisco, por concepto de remuneración al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.\nQuedan incluidas las personas físicas o jurídicas, públicas o privadas, que sin estar domiciliadas en el Estado de Jalisco, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias y cualquier ente o figura que permita tener personal subordinado dentro del mismo.\nPara efecto de este impuesto se consideran remuneraciones al trabajo personal subordinado, las contraprestaciones, ordinarias o extraordinarias, que realicen los patrones en favor de sus empleados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Son sujetos de este impuesto las personas físicas o jurídicas obligados a efectuar los pagos a que se refiere el artículo anterior.\nQuedan comprendidos como sujetos de este impuesto, la federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos.\nSerán responsables solidarios del pago de este impuesto las personas físicas o jurídicas que contraten y reciban la prestación del trabajo personal subordinado, aun cuando el pago del salario se realice por otra persona.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "Es base del impuesto sobre nóminas, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Este impuesto se liquidará de conformidad con la tarifa que al efecto establezca la Ley de Ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente en que se causó.\nDicho pago se hará mediante declaración en las oficinas de recaudación fiscal que corresponda, en los términos del artículo 47 fracciones IV y V de esta Ley, en las formas oficiales o ante las instituciones de crédito autorizadas por el Servicio Estatal Tributario de Jalisco.\nLa obligación de presentar la declaración subsistirá aun cuando no se hayan efectuado erogaciones gravadas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "Están exentas del pago de este impuesto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las erogaciones que se cubran por concepto de:\na) Participaciones de los trabajadores en las utilidades de las empresas;\nb) Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las leyes o contratos respectivos;\n\nRemuneración al trabajo personal subordinado a favor de empleados que al momento de su contratación sea su primer empleo formal, lo cual se comprobará en el supuesto de que el trabajador no cuente con algún registro en las instituciones de seguridad social o como contribuyente ante el Servicio de Administración Tributaria que lo acrediten como tal. Lo anterior, por el término del primer año al cien por ciento y durante el segundo año en un cincuenta por ciento, a partir de su contratación;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;\n\nAsociaciones de trabajadores y colegios de profesionistas."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Indemnizaciones por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales subordinados;\ne) Pagos por gastos funerarios;\nf) Gastos de viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;\ng) Aportaciones al INFONAVIT, fondos para el retiro constituidos con arreglo a las leyes de la materia y cuotas al IMSS a cargo del patrón;\nh) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o discapacitados según su evaluación en los términos del Código de Asistencia Social; e"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las erogaciones que efectúen:\na) El Estado y Municipio, así como sus organismos descentralizados, organismos autónomos fideicomisos, dependencias y entidades;\nb) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo; y"
+              }
+            ]
+          },
+          {
+            "Artículo": 44,
+            "Texto": "Los contribuyentes que otorguen mecenazgos para la creación, mantenimiento y promoción cultural, sin fines de lucro, de autores jaliscienses, podrán aplicar una exención, contra el\npago del Impuesto Sobre Nóminas a su cargo, por una cantidad equivalente al 60% del apoyo previamente acreditado, conforme a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Solo podrá accederse a este incentivo fiscal si el contribuyente se encuentra al corriente del pago de las demás obligaciones tributarias que esta ley le establezca;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El monto total del estímulo fiscal anual a distribuir no excederá del (0.006%) del total del Presupuesto del Gobierno del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de siete mil setecientos cincuenta veces al valor diario de la Unidad de Medida y Actualización por creador ni por proyecto;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El monto a acreditarse no podrá exceder del 20% del impuesto anual sobre nómina a cargo del contribuyente; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El contribuyente que otorgue el apoyo solo podrá obtener reconocimiento por el mismo, pero no podrá obtener contraprestaciones económicas directas.\nLos estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor y los que señale la Ley de Mecenazgo Cultural del Estado de Jalisco.\nLos apoyos serán inembargables, podrán proporcionarse en dinero o en especie y el contribuyente deberá entregarlo por conducto de la Secretaría de Cultura del Estado de Jalisco conforme a las reglas de operación que este organismo expida.\nEl Servicio Estatal Tributario de Jalisco, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.\nDe la estimación de erogaciones"
+              }
+            ]
+          },
+          {
+            "Artículo": 45,
+            "Texto": "El Servicio Estatal Tributario de Jalisco podrá estimar las erogaciones en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando de los informes que se obtengan de las declaraciones y datos presentados por el contribuyente ante un tercero o ante cualquier dependencia o entidad gubernamental, exista discrepancia con los datos o importes declarados en materia de este impuesto o bien cuando el contribuyente fue omiso en su pago;\nEn este caso, la autoridad fiscal dará a conocer al sujeto del impuesto, los datos contenidos en sus declaraciones e informes presentados ante un tercero o ante cualquier dependencia o entidad gubernamental, señalando el periodo sujeto a revisión, así como las cantidades que resultan como diferencia en el pago del impuesto, procediendo en los términos que establece el artículo 31-B del Código Fiscal del Estado, para que el contribuyente pueda manifestar lo que a su derecho convenga."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimarán las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que emite la Comisión Nacional de Salarios Mínimos, los cuales dé a conocer el Servicio Estatal Tributario de Jalisco mediante disposiciones de carácter general, en los términos que establezca el Código Fiscal del Estado.\nEn este caso la autoridad fiscal determinará en cantidad líquida las contribuciones omitidas, en los términos que establezca el Código Fiscal del Estado, notificando al propietario o contratista de la obra del inmueble en el que se realizó la obra privada, otorgando un plazo de diez días, para que realice las aclaraciones que a su derecho convenga, el sujeto del impuesto podrá autocorregir su situación, dentro del plazo de diez días, mediante el pago de las contribuciones omitidas, en cuyo caso se impondrá la multa mínima.\nEn caso de que no se efectúe el entero del impuesto omitido o no se realicen aclaraciones, dentro del plazo antes señalado, la autoridad fiscal procederá a hacer efectivo el crédito fiscal determinado."
+              }
+            ]
+          },
+          {
+            "Artículo": 46,
+            "Texto": "Son obligaciones de los contribuyentes de este impuesto y en su caso de los retenedores, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar los avisos de inscripción o modificación ante el Registro Estatal, con los términos que disponen los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativas, obligaciones en materia de llevar contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales, aviso, datos, informes o cualquier otra documentación a que obligue el Código Fiscal del Estado, en lo que no contravenga lo dispuesto en el presente capítulo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán presentar su aviso de inscripción y pago por separado. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, uno deberá registrarse, para efectos de pago y los demás para efectos de control;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los contribuyentes que teniendo sus matrices fuera del estado, establezcan dentro del territorio del mismo, sucursales, bodegas, agencias, oficinas y otras dependencias, cuando se encuentren gravadas por este impuesto o cuando no lo estén, deberán registrarse para efectos de pago y control;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las personas físicas o jurídicas que reciban la prestación de servicios de personal por parte de un tercero, no obstante que no paguen la nómina correspondiente de este personal, deberán retener el impuesto causado por el prestador de servicios de personal y enterarlo en el mismo plazo establecido para los sujetos de este impuesto. La misma obligación aplica a las personas físicas y jurídicas, que reciban la prestación de los citados servicios de personal por parte de un tercero, para la construcción de inmuebles ubicados en el territorio del Estado de Jalisco, sin importar que el receptor del servicio de referencia no se encuentre domiciliado en el Estado para fines fiscales.\nAsí mismo, deberán presentar su aviso de inscripción en su carácter de retenedores ante la oficina de recaudación fiscal que corresponda a su domicilio y expedir constancia de retención del Impuesto Sobre Nómina, en el formato que al efecto apruebe el Servicio Estatal Tributario de Jalisco, de manera mensual o anual.\nLas prestadoras de servicios de personal a que se refiere esta fracción, informarán mensualmente a la receptora de dicho servicio, el importe de la nómina y el impuesto correspondiente que habrá de retenerse.\nEn caso de que la prestadora de servicios de personal no proporcione la información a que se refiere el párrafo anterior para efectos de la retención respectiva, esta se determinará aplicando al valor total de los servicios prestados en el mes, consignados en los respectivos comprobantes fiscales, el factor de .90 y a su resultado se le aplicará la tasa del impuesto."
+              }
+            ]
+          },
+          {
+            "Artículo": 46,
+            "Texto": "Del total de los recursos que se recauden por el Impuesto sobre Nóminas, con las cantidades adicionales o excedentes al 2% se establecerá el Fondo para la Infraestructura Educativa del Estado de Jalisco y será constituido bajo la figura de un Fideicomiso irrevocable de inversión y administración.\nDichos recursos públicos serán administrados a través del fondo para su aplicación en la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.\nEl Presupuesto de egresos de cada ejercicio fiscal deberá contemplar la partida específica para el destino de los recursos que integran el Fondo.\nLa Secretaría de la Hacienda Pública transferirá mensualmente al Fondo los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEXTO Del impuesto sobre hospedaje",
+        "Artículos": [
+          {
+            "Artículo": 47,
+            "Texto": "Es objeto de este impuesto, el ingreso por la prestación de servicios de hospedaje, en las edificaciones regidas por la modalidad de uso en tiempo compartido, hoteles, moteles, campamentos y paraderos de casas rodantes, en inmuebles ubicados en el estado de Jalisco.\nAsimismo, para los efectos de este impuesto, se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga, incluidos los servicios de hospedaje que se oferten a través de plataformas digitales, independientemente de su temporalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "Son sujetos de este impuesto, las personas físicas o morales que presten los servicios de hospedaje.\nDe las obligaciones",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "Las personas que presten los servicios de hospedaje, así como las que tengan a su cargo la administración u operación de sistemas de tiempo compartido, están obligadas a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar los avisos de inscripción o modificación ante el Registro Estatal, en los términos que disponen, los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Trasladar el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Llevar contabilidad en los términos que establece el Código Fiscal del Estado. Además, consignar en la documentación respectiva, el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presenten; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad; conservación de la misma, de proporcionar a las autoridades fiscales, avisos, datos, informes o"
+              }
+            ]
+          },
+          {
+            "Artículo": 49,
+            "Texto": "Se entiende por plataforma digital, a la aplicación de servicios de hospedaje que la persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje en inmuebles con terceros.\nLa plataforma digital de servicios de hospedaje, deberá inscribirse ante el Registro Estatal, en el carácter mencionado a efecto de coadyuvar en el cumplimiento de lo establecido en los artículos 50, 51 y 52 de esta ley.\nDe igual forma estará obligada a retener el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo.\nDe la base del impuesto",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y, en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.\nLos servicios prestados bajo el sistema “todo incluido” por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, bebidas, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue, en caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.\nEl contribuyente podrá optar por estimar el importe relativo al servicio de hospedaje dentro del sistema “todo incluido”, sin que ningún caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de Ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "El entero del impuesto lo hará el prestador de servicios de hospedaje a más tardar el día 15 posterior a cada bimestre del año natural en las Oficinas de Recaudación Fiscal del Servicio Estatal Tributario de Jalisco o ante las instituciones de crédito autorizadas.\nLa obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.\nLa plataforma digital de servicios de hospedaje, deberá presentar a más tardar el día 15 posterior a cada bimestre del año natural, declaración para el entero del impuesto, en los términos, condiciones, lineamientos, mecanismos y formatos, que para tal efecto establezca el Servicio Estatal Tributario de Jalisco, y con apego a los ordenamientos en materia de protección de datos personales en posesión de sujetos obligados.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEPTIMO Del Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos de toda clase",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase,autorizados legalmente independientemente del nombre con el que se les designe, así comola obtención de ingresos o premios derivados dejuegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares,cuando el ingreso por la obtención de premios haya sido pagado, entregado, otorgado o distribuido en el territorio del Estado de Jalisco, independientemente del lugar en donde se realice el evento.\nSe considera que el organizador de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, obtiene el ingreso o el premio, cuando una vez realizado el evento, no exista por virtud del mismo, persona que lo haya obtenido.\nPara efectos de este impuesto, se entenderá por juegos con apuestas, a todos los permitidos y autorizados, de conformidad con la Ley Federal de Juegos y Sorteos u ordenamiento legal que los regule y disposiciones que de ellos emanen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "Son sujetos de este impuesto las personas físicas y jurídicas que obtengan los ingresos a que se refiere el artículo anterior.\nLas personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "Será base del impuesto, para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de todo tipo, el valor determinado o determinable que se obtenga.\nTratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación, adjudicación y en ausencia de ambos, el de avalúo que practique el Servicio Estatal Tributario de Jalisco.\nCuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo, juego con apuesta o concurso de que se trate, se considerará como base del impuesto el valor o precio total del evento correspondiente.\nDe la causación",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "Los contribuyentes que tengan la obligación de retener el impuesto objeto de este\ncapítulo, lo harán en el momento en que los ingresos o premios sean pagados o entregados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "Este impuesto se liquidará, aplicando a la base determinada en el artículo 57, la tasa que al afecto señale la ley de Ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "No pagarán este impuesto los reintegros que se deriven por la celebración de los eventos objeto de este impuesto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "Los sujetos obligados al pago del impuesto por responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes inmediato siguiente a aquél al que corresponda el pago. El pago se hará mediante declaración en las Oficinas de Recaudación Fiscal, correspondiente a su domicilio fiscal, en las formas oficiales o ante las instituciones de crédito autorizadas por el Servicio Estatal Tributario de Jalisco, dicho pago se entenderá definitivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "Los retenedores de este impuesto tendrán las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar su aviso de inscripción en la oficina de recaudación fiscal correspondiente a su domicilio fiscal, utilizando las formas aprobadas para tales efectos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presentar ante las mismas autoridades, los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso, reanudación o suspensión de actividades;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones, así como proporcionar constancia de retención del impuesto a la persona que obtenga el premio;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados, del pago del impuesto correspondiente, así como los avisos, datos e información que les soliciten;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el estado; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos, informes o"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO OCTAVO Del Impuesto sobre Enajenación de Boletos de Rifas y Sorteos",
+        "Artículos": [
+          {
+            "Artículo": 61,
+            "Texto": "Es objeto de este impuesto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El ingreso que se obtenga en el Estado de Jalisco, por concepto de recargas o depósitos a tarjeta electrónica o similares, enajenación de boletos, billetes, registros, contraseñas,o cualquier otro comprobante o medio que permitan participar en rifas, loterías, concursos, sorteos y juegos con apuestasindependientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La distribución de boletos, billetes, registros, contraseñas y demás comprobantes que permitan participar en los eventos o actividades referidas, aun cuando no se cobre cantidad alguna que represente el derecho a participar en los mismos."
+              }
+            ]
+          },
+          {
+            "Artículo": 62,
+            "Texto": "Son sujetos del impuesto a que se refiere el presente capítulo, las personas físicas y jurídicas que obtengan los ingresos a que se refiere el artículo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "Servirá de base para el cálculo de este impuesto, el total de los ingresos que obtenga la persona quien organice, realice o explote rifas, loterías, concursos, sorteos y juegos con apuestas, disminuyendo el monto de los premios pagados o entregados.\nCuando los boletos, billetes, registros, contraseñas y demás comprobantes, sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.\nDe la tarifa",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "Este impuesto se liquidará aplicando a la base determinada en el artículo anterior, la tasa que al efecto señale la ley de ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "Se exceptúan del pago del presente impuesto, los ingresos que obtengan los organismos descentralizados de la Administración Pública Federal, Estatal y municipios, cuya finalidad sea la obtención de recursos para destinarlos a la asistencia pública, así como las sociedades o\nasociaciones de carácter civil que se dediquen a la enseñanza y que cuenten con reconocimiento de validez oficial de estudios, siempre que los ingresos obtenidos se destinen para el apoyo de la instrucción educativa.\nLos Partidos Políticos Nacionales, que cuenten con registro vigente ante el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, no estarán obligados al pago de este impuesto en los términos de la Ley de la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "Los sujetos obligados al pago del impuesto, deberán enterarlo a más tardar dentro de los 15 días naturales inmediatos posteriores al día de la celebración del evento de que se trate, el pago se hará mediante declaración en las oficinas de recaudación fiscal, correspondiente a su domicilio fiscal, o ante las instituciones de crédito autorizadas por el Servicio Estatal Tributario de Jalisco. El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.\nEl pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Los sujetos de este impuesto tendrán las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar su aviso de inscripción en la oficina de recaudación fiscal correspondiente a su domicilio fiscal, utilizando las formas aprobadas para tales efectos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presentar ante las mismas autoridades, los avisos de cambio de domicilio, nombre o razón social, traspaso, reanudación o suspensión de actividades;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Efectuar mediante forma oficial aprobada, los pagos provisionales mensuales a más tardar el día 15 de cada mes, por los ingresos obtenidos en el mes inmediato anterior;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Informar al Servicio Estatal Tributario de Jalisco, siete días antes del inicio de la venta, en el formato oficial aprobado, el tipo de evento, precio y número de los boletos, billetes o contraseñas, la fecha de realización del mismo, así como la información y documentación que se establezca en la forma, acompañando una muestra de los referidos boletos, billetes o contraseñas.\nCuando los sujetos obligados utilicen sistemas electrónicos de control para la emisión de boletos, billetes o contraseñas de los eventos de cruce de apuestas, o de loterías, rifas, sorteos y concursos que se realicen en el Estado, deberán solicitar autorizar previa al Servicio Estatal Tributario de Jalisco, la cual verificará que cuenta con el sistema central de cómputo cuyas características técnicas, de seguridad y requerimientos de información cumplen con las disposiciones establecidas por la autoridad fiscal federal para el pago del Impuesto Especial sobre Producción y Servicios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Abstenerse de vender boletos en tanto no estén resellados por las autoridades fiscales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar una declaración, en la forma oficial aprobada, del ejercicio ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, una vez deducidos los pagos provisionales mensuales en aquellos casos en los que se esté obligado a presentarlos; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos, informes o"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO NOVENO Del Impuesto Sobre Erogaciones de Juegos con Apuestas",
+        "Artículos": [
+          {
+            "Artículo": 67,
+            "Texto": "Son objeto de este Impuesto las erogaciones efectivamente realizadas por concepto de participación en juegos con apuestas, sorteos o concursos, realizadas en el territorio del Estado de Jalisco.\nPara los efectos de este impuesto se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.\nIgualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.\nAsimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.\nIgualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.\nSe consideran como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.\nPara los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con Ia posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.\nDe los Sujetos",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Son sujetos del Impuesto las personas físicas o jurídicas que realicen las erogaciones a que refiere el artículo anterior en el territorio del Estado de Jalisco.\nSerán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o jurídicas, cuando no sean ellas quienes reciban los pagos generadores del tributo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 67 Bis;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 67 Bis;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este capítulo.\nLos operadores, administradores o quienes exploten o patrocinen los juegos referidos en el artículo 67 Bis, deberán registrase ante el Registro Estatal del Contribuyente.\nDe la Base"
+              }
+            ]
+          },
+          {
+            "Artículo": 67,
+            "Texto": "La base del Impuesto será el monto de las erogaciones efectivamente efectuadas por Ia persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.\nLas erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 67 Bis, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.\nDe la Tarifa",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Este impuesto se liquidará aplicando a la base del artículo anterior, la tasa que al efecto señale la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.\nDe la causación",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.\nEl impuesto previsto en esta Sección se causará y pagará con independencia de los impuestos a que se refiere el Capítulo séptimo y Capítulo octavo del Título segundo de esta Ley.\nDel Pago",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "El operador del establecimiento o quien reciba el pago donde se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 17 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.\nLos pagos mensuales se realizarán mediante la presentación de una declaración en la Oficina de Recaudación Fiscal correspondiente a su domicilio fiscal, en las formas oficialmente aprobadas por el Servicio Estatal Tributario de Jalisco órgano desconcentrado de la Secretaría de la Hacienda Pública del Gobierno del Estado de Jalisco y tendrán el carácter de definitivos.\nCuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 67 Ter.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO DÉCIMO Del Impuesto a los Ingresos de Redes y Plataformas del Servicio de Transporte Privado de Punto a Punto.",
+        "Artículos": [
+          {
+            "Artículo": 67,
+            "Texto": "Es objeto de este impuesto el ingreso que se obtengan por la tarifa efectivamente cobrada en cada viaje iniciado en el territorio del Estado de Jalisco, para prestar el Servicio de Transporte Privado de Punto a Punto, ofertada por Empresas de Redes de Transporte mediante aplicaciones móviles.\nDe los Sujetos",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Son sujetos de este impuesto las Empresas de Redes de Transporte que administren, operen o promocionen aplicaciones móviles y plataformas informáticas, desarrollo de\nprogramas de cómputo o prestación de servicios tecnológicos de su propiedad o sus subsidiarias o filiales, para la contratación del servicio de Transporte Privado de personas, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global, conocido como Servicio de Transporte Privado de Punto a Punto.\nDe la Base",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "La base del Impuesto lo constituyen los ingresos obtenidos por las tarifas efectivamente cobradas a las personas usuarias por el Servicio de Transporte Privado de Punto a Punto, que administren, operen y/o promocionen las Empresas de Redes de Transporte, sus subsidiarias o filiales mediante aplicaciones móviles, plataformas informáticas, programas de cómputo o prestación de servicios tecnológicos.\nDe la Tasa",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "ndecies. Se aplicará a la base del impuesto una tasa del 1.5 por ciento, sin incluir el Impuesto al Valor Agregado.\nDel Pago",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "uodecies. El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será enterado en las Oficinas de Recaudación Fiscal, a más tardar el día quince de cada mes por el total que corresponda al mes inmediato anterior, a través de las formas y medios que para tal efecto establezca el Servicio Estatal Tributario de Jalisco mediante reglas de carácter general.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Terdecies. Los sujetos que obtengan los ingresos comprendidos en este capítulo, además de las obligaciones establecidas en la presente Ley u otras disposiciones legales, observarán las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar los avisos de inscripción o modificación ante el Registro Estatal, en los términos que disponen, los artículos 50, 51 y demás aplicables del Código Fiscal del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Llevar contabilidad en los términos que establece el Código Fiscal del Estado. Además, consignar en la documentación respectiva, el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presenten; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cumplir con las obligaciones y disposiciones que establece el Código Fiscal del Estado, entre las que se señalan de manera enunciativa más no limitativa, obligaciones en materia de contabilidad; conservación de la misma, de proporcionar a las autoridades fiscales, avisos, datos, informes o\nDel Destino de los ingresos\n\nQuaterdecies. Los ingresos que se obtengan, previstos en el presente capítulo, se destinarán al Fondo Estatal de Protección al Ambiente, de conformidad con los artículos 41 Bis, 41 Ter y 41 Quárter de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO De los Derechos",
+        "Artículos": [
+          {
+            "Artículo": 68,
+            "Texto": "Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso que las leyes estatales aplicables en la materia señalen cosa distinta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale el Servicio Estatal Tributario de Jalisco. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.\nTampoco causarán pago de derechos la expedición de constancias certificadas de inexistencia de registros de nacimientos, ni las certificaciones de las copias del acta del registro de nacimiento que se soliciten para trámites exclusivamente escolares de nivel preescolar, básico y medio superior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "Para el pago de los derechos que a continuación se enuncian se observará lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tratándose de canje período general de placas de circulación de motocicletas, los derechos correspondientes deberán pagarse a más tardar el último día hábil del mes de marzo del año en que se realice el canje. Dicho plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tratándose de refrendo anual, tarjeta de circulación y holograma de automóviles, camiones, camionetas, tractores, automotores, remolques y otros vehículos, deberá realizarse en el periodo comprendido del 2 de enero al último día hábil del mes de marzo, debiendo cubrirse los derechos respectivos en ese mismo período. Este plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado.\nSe considera inscrito el vehículo en el padrón al momento en que sean dotadas las placas de circulación. Además, se estará obligado a presentar los avisos de cambio de domicilio, cambio de propietario, modificación y baja de placas por robo o baja total;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los derechos que deban causar todos los documentos que tengan que registrarse en la Dirección del Registro Público de la Propiedad y Registro Público de Comercio, establecida en la ciudad de Guadalajara, deberán ser cubiertos en la Oficina de Recaudación Fiscal anexa a la misma, o en cualquier otra que señale persona titular del Servicio Estatal Tributario de Jalisco mediante reglas de carácter general independientemente de la municipalidad de la notaría pública que los autorice; en los demás casos, deberán ser cubiertos en la Oficina de Recaudación Fiscal del lugar donde está ubicada la oficina registral. El pago se efectuará previo aviso por escrito a la Oficina de Recaudación Fiscal de parte de la oficina que prestará el servicio, en el cual se deberá mencionar, la cantidad a cubrir, concepto afectado, así como el fundamento legal correspondiente;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El pago de los derechos por los servicios prestados por la Secretaría General de Gobierno que señale la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal que señale el Servicio Estatal Tributario de Jalisco, previamente a la prestación de los servicios que los originen; también podrá pagarse este derecho en cualquiera otra que mediante reglas de carácter general expida el Servicio Estatal Tributario de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El pago de los derechos por los servicios que preste la Secretaría de Transporte que establezca la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice el Servicio Estatal Tributario de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El pago de los derechos por los servicios de inspección y vigilancia que señale la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal que corresponda al domicilio del contribuyente o en la que autorice el Servicio Estatal Tributario de Jalisco conforme a lo siguiente:\na) Las que deben hacerse mensualmente, dentro de la primera quincena del mes a que corresponda; y\nb) Los restantes, dentro de los quince días siguientes al momento de que se realice el hecho que los genere;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El pago de derechos por revisión semestral de vehículos automotores de servicio público a que se refiere la Ley de Ingresos del Estado, se hará ante la oficina de recaudación fiscal más cercana a la unidad administrativa que preste el servicio de inspección y vigilancia. Dicho entero se efectuará a más tardar el día quince de los meses de enero y julio.\nLos derechos por inspección de vehículos establecidos en las leyes de ingresos de los municipios, cuando éstos convengan la prestación del servicio con el Estado, serán cobrados por éste, el cual deberá participar a los municipios del cobro de este derecho estatal, en una cantidad no inferior a los montos que sus respectivas leyes de ingresos les autorizan;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El pago de los derechos que establezca la Ley de Ingresos del Estado, se hará en la oficina de recaudación fiscal más cercana a la dependencia que origine el derecho; con excepción de los que se refieran a certificaciones de escritura, documentos privados de carácter contractual o no contractual; copias certificadas o constancias de educación y otros servicios, referidos en dicha Ley de Ingresos del Estado, cuyo pago deberá efectuarse en la oficina de recaudación fiscal, adjunta al Registro Público de la Propiedad de la ciudad de Guadalajara.\nEn el caso del pago por incorporación de establecimientos de enseñanza privada y por inspección de las mismas, deberá hacerse dentro de los tres meses siguientes a la fecha de iniciación del calendario escolar, ante la oficina central de recaudación fiscal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "El pago de los derechos derivados de la expedición de información que se obtenga en base a la Ley de Transparencia e Información Pública del Estado de Jalisco, de conformidad al costo del servicio prestado, según lo establezca la Ley de Ingresos del Estado; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "El pago de los derechos que se generen por la verificación vehicular."
+              }
+            ]
+          },
+          {
+            "Artículo": 71,
+            "Texto": "La dependencia o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la oficina de recaudación fiscal respectiva.\nNingún otro comprobante justificará el pago correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "El servidor público que preste algún servicio por el que se genere el pago de un derecho en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo, sin responsabilidad para el Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO De los Productos Diversos",
+        "Artículos": [
+          {
+            "Artículo": 73,
+            "Texto": "Quedan comprendidos dentro de esta clasificación, los ingresos, que obtiene el Estado por concepto de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Productos Tipo Corriente:\na) Arrendamiento de muebles e inmuebles propiedad del Estado;\nb) Venta de muebles e inmuebles propiedad del Estado;\n\nProductos de archivo;\nj) Fotocopiado de los libros del Registro Público de la Propiedad y del Comercio, y demás documentos con ellos relacionados; y\nk) Otros diversos de los señalados en las fracciones anteriores, que perciba el Estado por actividades que no desarrolle en sus funciones propias de derecho público."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La explotación o enajenación de cualquiera naturaleza, de los bienes propiedad del Estado;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Resultados de establecimientos y empresas del Estado;\ne) Venta de publicaciones oficiales leyes y reglamentos que edite el Gobierno del Estado;\nf) Venta y publicaciones del Periódico Oficial El Estado de Jalisco;\ng) Venta de protocolos notariales;\nh) Venta de formas valoradas, incluyendo las hojas para copias de actas del Registro Civil;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Productos de Capital:\na) Rendimiento o intereses de capitales y valores del Estado."
+              }
+            ]
+          },
+          {
+            "Artículo": 74,
+            "Texto": "Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivas o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado y, en defecto de ellos, en las disposiciones legales que les sean aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO De los Aprovechamientos",
+        "Artículos": [
+          {
+            "Artículo": 75,
+            "Texto": "Quedan comprendidos dentro de esta clasificación además de los establecidos en la presente Ley y en las demás leyes fiscales estatales, los ingresos que obtenga el Estado por concepto de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "De los Aprovechamientos de Tipo Corriente:\na) Recargos, indemnizaciones por cheques no pagados por instituciones de crédito;\nb) Multas;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Gastos de Ejecución;\n\nReintegros;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Los que se deban percibir de acuerdo con lo establecido en el Código Urbano para el Estado de Jalisco;\ne) Incentivos derivados de la Colaboración Fiscal; y\nf) Otros aprovechamientos no especificados.\n\nIndemnizaciones;\ne) Bienes vacantes y mostrencos; y\nf) Otros aprovechamientos de capital no especificados."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "De los Aprovechamientos de Capital:\na) Intereses;\nb) Cauciones, fianzas y billetes de depósito;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO De las Participaciones y aportaciones Federales",
+        "Artículos": [
+          {
+            "Artículo": 76,
+            "Texto": "Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado, provenientes de su adhesión al Sistema Nacional de Coordinación Fiscal, así como otros ingresos que el Gobierno del Estado obtenga de la Federación, por concepto de participaciones, proveniente de otras fuentes que en su caso, se establezcan, así como las aportaciones federales que conforme al",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO De los Ingresos Extraordinarios",
+        "Artículos": [
+          {
+            "Artículo": 77,
+            "Texto": "Los ingresos extraordinarios que tendrá derecho a recibir el Estado además de los señalados en la presente Ley o en cualquier otra ley fiscal estatal se obtendrán por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Derechos que, no estando señalados en esta Ley, se establezcan de manera especial en la Ley de Ingresos del Estado; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aportaciones extraordinarias de entidades públicas o de los sectores social o privado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO De los ingresos por financiamientos",
+        "Artículos": [
+          {
+            "Artículo": 78,
+            "Texto": "Los ingresos por créditos otorgados al Estado se obtendrán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por financiamientos contratados previa autorización del Congreso del Estado; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por las obligaciones directas y contingentes a que se refiere la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, excepto el cambio de denominación del capítulo tercero, referente a la adquisición de vehículos automotores usados que entrará en vigor a partir del día primero de enero del 2001.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Estado de Jalisco”.\n\nLas disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor el día 01 de enero de 2021, previa su publicación en el periódico oficial \"El Estado de Jalisco\".\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".\n\nEl presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga el Decreto 12712 publicado el 1º de enero de 1987, que contiene la Ley de Hacienda del Estado, así como los Diversos que la modificaron 13050 del 24 de diciembre de 1987, 13422 del 29 de diciembre de 1988, 13810 del 16 de diciembre de 1989, 13898 del 17 de abril de 1990, 14038 del 20 de diciembre de 1990, 14560 del 2 de enero de 1992, 15314 del 30 de diciembre de 1993, 15700 del 10 de diciembre de 1994, 16002 del 16 de diciembre de 1995, 16025 del 28 de diciembre de 1995, 16082 del 2 de mayo de 1996, 16403 del 31 de diciembre de 1996, 16502 del 25\nde marzo de 1997, 17934 del 7 de agosto de 1999, 18041 del 7 de diciembre de 1999 y 18257 del 1º.de abril de 2000 Sección II.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 23 de agosto de 2000\nDiputado Presidente Juan Carlos de la Torre González\nDiputado Secretario Salvador Arellano Guzmán\nDiputado Secretario Carlos Gallegos García\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 08 ocho días del mes de septiembre de 2000 dos mil.\nEl Secretario General de Gobierno encargado del despacho del Ejecutivo del Estado, en ausencia del Titular de este último, con fundamento en el artículo 43 de la Constitución Política del Estado de Jalisco.\nLic. Felipe de Jesús Preciado Coronado\nEl Subsecretario General de Gobierno de Asuntos Jurídicos Dr. Mauricio Limón Aguirre\nARTÍCULOS TRANSITORIOS DEL DECRETO 25292/LX/14\n\nLas reformas contenidas en este Decreto, se aplicarán a partir de su entrada en vigor. El ejercicio de facultades de comprobación iniciadas con anterioridad a la entrada en vigor del presente\nDecreto, serán concluidos conforme las disposiciones aplicables en el momento de su inicio.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26211/LXI/16\n\nSe derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26371/LXI/17\noficial \"El Estado de Jalisco\".\n\nEn caso de que este decreto produzca afectación a los ingresos estatales, se autoriza a la Secretaría de Planeación, Administración y Finanzas a realizar las adecuaciones presupuestales y administrativas que resulten necesarias, notificando de lo anterior al Congreso del Estado.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26496/LXI/17\noficial “El Estado de Jalisco”.\n\nLa Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, deberá realizar las acciones necesarias para el debido cumplimiento de las disposiciones legales aplicables.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27260/LXI/19\n\nSe derogan los ARTÍCULOS PRIMERO y SEGUNDO, así como los artículos SEGUNDO\nTRANSITORIO, TERCERO TRANSITORIO Y CUARTO TRANSITORIO del decreto 25921/LXI/16, aprobado por este Congreso el seis de noviembre de dos mil dieciséis publicado en el periódico oficial “El Estado de Jalisco” el veinticinco de noviembre de dos mil dieciséis.\n\nLos municipios del Estado de Jalisco, deberán adecuar sus Reglamentos y Leyes de Ingresos, para establecer el no cobro de las constancias o certificados de inexistencia para el registro extemporáneo de nacimiento, a partir del ejercicio fiscal 2020.\nARTÍCULOS TRANSITORIOS DEL DECRETO 28277/LXII/20\n\nEl Ejecutivo del Estado de Jalisco, antes del 31 de diciembre de 2020, deberá realizar las adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.\n\nEl Titular del Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, constituirá un fideicomiso público, al cual aportará los ingresos provenientes de las cantidades adicionales o excedentes al 2%, para ser destinados a la rehabilitación, conservación, mantenimiento y equipamiento de la infraestructura educativa de educación básica, media superior, tecnológica y superior del Sistema Educativo Estatal.\n\nLas autorizaciones, registros y licencias que en su caso la Secretaría otorgó a las Empresas de Redes de Transporte, así como para el servicio de transporte de pasajeros mediante aplicaciones móviles que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán surtiendo efectos hasta la fecha de su vencimiento.\nUna vez que haya expirado la vigencia prevista en párrafo anterior, las Empresas de Redes de Transporte, las personas conductoras, así como los propietarios de los vehículos a través de los cuales se lleve a cabo el servicio de transporte privado de punto a punto, deberán de sujetarse a lo establecido en el presente decreto, así como las disposiciones reglamentarias y normativas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Ejecutivo del Estado de Jalisco, contará con el plazo de noventa días para emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico en materia de verificación vehicular, así como el Programa de Verificación Vehicular.\n\nLa tarifa aplicable a la contribución materia del presente decreto será incluida en la Ley de Ingresos del Estado de Jalisco para el Ejercicio Fiscal 2021.\nTRANSITORIOS DEL DECRETO 28723/LXIII/21\n\nLa operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "La Junta de Gobierno del Organismo Público Descentralizado “Agencia Integral de Regulación de Emisiones”, deberá aprobar el Reglamento Interno de la Agencia, dentro de un plazo máximo de seis meses contados a partir de la entrada en vigor del presente ordenamiento; el cual deberá ser remitido al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.\n\nEl Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.\nARTÍCULOS TRANSITORIOS DEL DECRETO 29236/LXIII/23\n\nLas personas que pretendan obtener el registro de redes de transporte por parte de la Secretaría conforme a las disposiciones establecidas en del presente Decreto, que hubieran operado mediante la autorización otorgada antes de su entrada en vigor y suscribieron convenio de colaboración para la constitución del fondo económico que refería el derogado artículo 310 fracción XVII, deberán acreditar que se encuentran al corriente de pago y cumplimiento de las obligaciones establecidas a su cargo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los establecimientos acreditados para ofrecer el servicio de verificación vehicular que a la fecha de entrada en vigor del presente decreto se encuentren vigentes deberán transitar al programa de verificación vehicular cumpliendo con las disposiciones que se establezcan conforme al presente\ndecreto. La vigencia de las acreditaciones actuales, no podrá ser excedida ni prorrogada, si antes no transitan al programa de verificación vehicular conforme a lo dispuesto en este Decreto.\n\nEl impuesto aprobado en el presente decreto, deberá considerarse en la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal del 2024.\nTABLA DE REFORMAS Y ADICIONES\nFe de erratas al Decreto 18501.-Dic.16 de 2000.\nFe de erratas al Decreto 18673 que reformó el art. 53 de la Ley de Hacienda del Estado anterior.-Mar.20 de 2001.\n19971. - Se reforman los artículos 68 y 70 fracciones V, VII y VIII y se adiciona la frac. IX al art. 70.- May.1º.de 2003. Sec. IV.\n20423. - Se reforma la frac. V del artículo 1.-Dic.27 de 2003. Sec. III.\n21512/LVII/06.- Reforma y adiciona los artículos 13, 14, 15, 17, 18, 19, 22, 24, 28, 39, 48, 49, 50, 53, 61, 63 y 70 de la Ley de Hacienda del Estado de Jalisco y se adiciona el Capítulo Octavo y el art. 23 a la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios (De las Aportaciones Federales).-Nov.11 de 2006. Sec. XLIII.\n24803/LX/13.- Se reforman los arts. 1, 4, 7, 10, 12, 17, 22, 25, 26, 34, 36, 38, 39, 40, 43, 44, 45, 50, 52, 55, 59, 60, 65, 66, 67, 69, 70, 73, 75, 76 y 77; y se adiciona el Título Octavo (De los ingresos por financiamientos) con su respectivo artículo 78.- Dic. 14 de 2013. Sec. II.\n24889/LX/14.- Se expide la Ley de Mecenazgo Cultural del Estado de Jalisco y adiciona el artículo 44 Bis de la Ley de Hacienda del Estado de Jalisco.- Jun. 14 de 2014. Sec VI.\nAcuerdo Legislativo que aclara error en el decreto 24889/LX/14.- Jul. 26 de 2014 sec. II\n24966/LX/14.- Se reforma el artículo 69 de la Ley de Hacienda del Estado de Jalisco.- Oct. 9 de 2014 sec. II\n25292/LX/14.- Se adicionan un tercer párrafo al artículo 4º; una fracción VI al artículo 60; se reforman los artículos 2° fracción III, 15 primer párrafo, 29, 35 fracciones IV y V, 45 fracción II y segundo párrafo, 46 fracciones I, II, III, IV y V, 49 fracción I, III y IV, 60 fracciones IV y V y 67 fracción VII; y se deroga la fracción VI del artículo 35, párrafos tercero y cuarto del artículo 45, las fracciones VI y VII del\nartículo 46 y el último párrafo del artículo 49 de la Ley de Hacienda del Estado de Jalisco.- Dic. 25 de\n2014. sec. II.\n26181/LXI/16.- Se reforman los artículos 19, 20, 41, 82, 87, 102, 103, 120 y 128 de la Ley del Registro Civil del Estado de Jalisco; 69 de la Ley de Hacienda de Jalisco; y 28 de la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2016.- Dic. 31 de 2016 sec. VI.\n26211/LXI/16.- Se reforman los artículos 1, 2, 4, 21, 25, 26, 28, 29, 31, 35, 37 y 46 de la Ley de Hacienda el Estado de Jalisco.- Dic. 31 de 2016 sec. VI.\n26371/LXI/17.- Se reforma el artículo 44 de la Ley de Hacienda del Estado de Jalisco.- Jun. 22 de\n2017. Sec. IV.\n26416/LXI/17.- Se reforma el artículo 65 de la Ley de Hacienda del Estado de Jalisco.- Ago. 8 de 2017 sec. X.\n26496/LXI/17.- Se reforman los artículos 47 y 52; y adiciona el artículo 49 bis, todos de la Ley de Hacienda del Estado de Jalisco.- Nov. 11 de 2017 sec. IX\n26591/LXI/17.- Deroga los artículos 1º, fracción I, numeral 2, inciso c), 13, 14, 15, 16, 17, 18, 19, 20, 21, y 22 de la Ley de Hacienda del Estado de Jalisco.- Nov. 16 de 2017 sec.IV\n27260/LXII/19.- Se establece las bases del Programa de Verificación Vehicular del Estado de Jalisco; se reforma la fracción VII del artículo 72 y se adiciona un artículo 72 bis de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; se reforman las fracciones VIII y IX y se adiciona una fracción X del artículo 70 de la Ley de Hacienda del Estado de Jalisco; se reforman los artículos 5o fracción XII,\n1|9 fracción X, 44 primer párrafo y se agrega un párrafo cuarto recorriéndose todos los demás, 51, 169 primer párrafo, fracción V, se crea una fracción VI recorriéndose todas las demás y se agrega un último párrafo, 174 primer párrafo y se elimina el séptimo párrafo recorriéndose todos los demás, se crea el\nartículo 174 bis, 185 fracciones II, III, IV, se adiciona una fracción V y se agregan tres últimos párrafos, 188 adicionándole un párrafo tercero y recorriéndose todos los demás y 190 fracción IV, de la Ley de Movilidad y Transporte del Estado de Jalisco; se crea el Organismo Público Descentralizado denominado “Agencia Integral de Regulación de Emisiones” y se expide su Ley Orgánica.- Abr. 9 de 2019 sec. VII\n27525/LXII/19.- Se reforma el artículo 69 de la Ley de Hacienda del Estado de Jalisco; Se reforma el\nartículo 57 de la Ley de Registro Civil del Estado de Jalisco y Se reforma el artículo 170 bis de la Ley de Hacienda Municipal del Estado de Jalisco.- Ene. 25 de 2020 sec. VI.\n27392/LXII/19.- Se reforman los artículos 4, 7, 10, 12, 34, 35, 36, 38, 44 Bis, 45, 46, 52, 55, 59, 66, 67, 69, 70 y 78 de la Ley de Hacienda del Estado de Jalisco.- Feb. 8 de 2020 sec. III.\n27805/LXII/20.- Se reforman los artículos 1°, 4°,7°, 10, 12, 34, 35, 36, 38, 43, 44 bis, 45, 46, 52, 53, 55, 59, 61, 67, 69, 70, 78 y se derogan los artículos 13, 14, 15, 16, 17, 18, 19, 20, 21 y 22 de la Ley de Hacienda del Estado de Jalisco.- Feb. 18 de 2020. Sec. VII.\n28277/LXII/20.- Se reforma el artículo 1° y se adiciona el Capítulo Noveno denominado “Impuesto Sobre Erogaciones de Juegos con Apuestas” dentro del Título Segundo, así como los artículos 67 bis, 67 ter, 67 quáter, 67 quinquies, 67 sexies y 67 septies, de la Ley de Hacienda del Estado de Jalisco, publicado en el Periódico Oficial “El Estado de Jalisco” el 29 de Diciembre de 2020 Secc. VII.\n28723/LXIII/21.- Se adiciona el artículos 46 Bis de la Ley de Hacienda del Estado de Jalisco.- Dic. 18 de 2021, sec. CVI.\n29236/LXIII/23.- Se adiciona el inciso d) del numeral I) del numeral 1. del Artículo 1°; el Capítulo Décimo al Título Segundo y los Artículos 67 Octies, 67 Nonies, 67 Decies, 67 Undecies, 67 Duodecies, 67 Terdecies y 67 Quaterdecies a la Ley de Hacienda del Estado de Jalisco.- Ago. 1 de 2023, sec. V.\n29526/LXIII/24.- Se reforman los artículos 4, 7, 10, 12, 34, 35, 36, 38, 43, 44-bis, 45, 46, 52, 55, 59, 66, 67, 67 Septies, 67 Duodecies, 69, y 70 de la Ley de Hacienda del Estado de Jalisco.- Feb. 24 de 2024, sec. V.\nLEY DE HACIENDA DEL ESTADO DE JALISCO\nAPROBACION: 23 DE AGOSTO DE 2000.\nPUBLICACION: 23 DE SEPTIEMBRE DE 2000. SEC. III.\nVIGENCIA: 24 DE SEPTIEMBRE DE 2000.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Las infracciones y medidas de seguridad que establecen los artículos 169 fracción V y 185 fracción ll, lll y lV de la Ley de Movilidad y Transporte del Estado de Jalisco, serán aplicables a partir del primero de enero de 2020.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Para que la Secretaría de Medio Ambiente y Desarrollo Territorial pueda ejercer la atribución conferida en el artículo 72, fracción VII, inciso d), de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente antes precisada en el presente Decreto, se deberá agotar el procedimiento de Licitación Pública Internacional a través de la Secretaria de Administración, a fin de seleccionar el proveedor al que le será otorgada la contratación a que hace referencia el numeral antes citado. Dicho procedimiento deberá llevarse a cabo de conformidad con los lineamientos establecidos en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y su Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Antes de que concluya el presente ejercicio presupuestal, la Secretaría de la Hacienda Pública del Ejecutivo del Estado en el ámbito de su competencia deberá realizar las adecuaciones administrativas necesarias a fin de dar cumplimiento con lo dispuesto en el presente decreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27525/LXII/19\noficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercera",
+            "Texto": "El Ejecutivo del Estado tendrá un plazo de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto, a efecto de que emita las disposiciones reglamentarias, adecuaciones normativas, presupuestales y administrativas aplicables.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

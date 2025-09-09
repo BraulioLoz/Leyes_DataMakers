@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 54,
+  "n_perm_fracciones": 98,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Del Sistema Estatal de Promoción de Inversiones",
+    "Capítulo III Del Organismo Público Descentralizado Invierte en Jalisco",
+    "Capítulo I De los Incentivos y Apoyos para la Promoción de Inversiones",
+    "Capítulo II De los Procedimientos para la Promoción de Inversiones",
+    "Capítulo III Del Acceso a la Información y la Protección de Datos",
+    "Capítulo IV De la Rendición de Cuentas"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

@@ -1,0 +1,13 @@
+Errores y advertencias para: 0080.txt
+==================================================
+
+Ubicación: line 222
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 42 a 44
+Línea: Artículo 44. La Contraloría y los Órganos Internos de Control, observarán el protocolo de actuación que, en su caso, emita el Comité Coordinador del Sistema Estatal Anticorrupción.
+------------------------------
+Ubicación: line 422
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 80 a 82
+Línea: Artículo 82. Para la imposición de las sanciones por faltas de particulares se deberán considerar los siguientes elementos:
+------------------------------

@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 18,
+  "n_perm_fracciones": 26,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Escudo del Estado",
+    "Capítulo III Bandera del Estado",
+    "Capítulo IV Himno del Estado",
+    "Capítulo V Responsabilidades"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

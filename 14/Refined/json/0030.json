@@ -1,0 +1,1437 @@
+{
+  "0030.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.\nEmilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente:\nDECRETO\nNÚMERO 23991/LIX/12.- EL CONGRESO DEL ESTADO DECRETA:",
+    "Año_publicación": null,
+    "Título": "LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "as disposiciones de esta ley son de orden público y de interés social, y tienen como finalidad establecer y fijar las bases para la promoción de la cultura física y el deporte; y las normas de seguridad y de salud para su fomento y práctica; establecer los fundamentos de coordinación y colaboración entre el Estado y los municipios a través de las dependencias encargadas de la promoción y el fomento de la cultura física y el deporte, al igual que entre éstos y las entidades e instituciones públicas y privadas, organismos sociales, asociaciones civiles y deportivas, que realicen las actividades de promoción, fomento, estímulo, formación, enseñanza y práctica de la cultura física y el deporte; así como sentar las bases del Sistema Estatal de Cultura Física y Deporte, que tiene como principal propósito elevar la calidad de vida de los habitantes del estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "ara efectos de esta ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Code Jalisco: el Consejo Estatal para el Fomento Deportivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Comisión: la Comisión de Apelación y Arbitraje de Cultura Física y Deporte del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Consejo Directivo: el Consejo Directivo del Code Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Consejo Técnico: el Consejo Técnico del Sistema Estatal de Cultura Física y Deporte;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Deporte adaptado: los deportes, disciplinas y pruebas adaptados para personas con discapacidad, reconocidos por las federaciones deportivas nacionales de deporte paraolímpico y por la Confederación Deportiva Mexicana;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Deporte convencional: los deportes, disciplinas y pruebas reconocidos por las federaciones deportivas nacionales y por la Confederación Deportiva Mexicana;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ley: la Ley de Cultura Física y Deporte del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Organismos deportivos: las asociaciones deportivas, consejos deportivos estudiantiles, ligas, clubes y demás entidades deportivas en el estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Programa Estatal: el Programa Estatal de Cultura Física y Deporte;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Registro: el Registro Estatal de Cultura Física y Deporte;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Reglamento: el Reglamento de la Ley de Cultura Física y Deporte del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Sistema estatal: el Sistema Estatal de Cultura Física y Deporte del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "° Los fines primordiales de la presente ley deberán ser observados por el sistema, el programa y las diferentes dependencias, todas aquellas estatales en la elaboración de sus políticas públicas y son los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coadyuvar al mejoramiento del nivel de vida social y cultural de los habitantes del estado de Jalisco y sus municipios por medio de la cultura física y el deporte;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar la creación, conservación, mejoramiento, difusión, promoción, formación, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la cultura física y el deporte;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fomentar la cultura física y el deporte como medio importante para la prevención de enfermedades y la preservación de la salud;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar el desarrollo de la cultura física y el deporte como medio importante para la prevención del delito;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte como complemento de la actuación pública;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover la práctica de la cultura física y el deporte como medida para erradicar la violencia y la drogadicción;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fomentar la integración de los municipios, las instituciones públicas y particulares, así como los sectores social y privados, en el sistema estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Ordenar la participación y las actividades de los integrantes del Sistema Estatal de Cultura Física y Deporte;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover en la práctica de la cultura física y el deporte el aprovechamiento, protección y conservación adecuada del medio ambiente, la biodiversidad y los ecosistemas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Fomentar la creación de programas institucionales para la práctica de la cultura física y el deporte en todas sus expresiones y manifestaciones;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Fomentar y ampliar el alcance de oportunidades a todas las personas sin distinción de género, edad, condición social, religión, opiniones, preferencias, capacidades o estado civil, dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Fomentar que las personas con discapacidad participen en la práctica de la cultura física y deporte en igualdad de circunstancias, siempre y cuando no represente un riesgo para su integridad o la de terceros."
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Fomentar la práctica de las artes marciales en consonancia, congruencia y armonía con los Reglamentos del Sistema Nacional del Deporte."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "a institución competente del Poder Ejecutivo del Estado de Jalisco en materia deportiva será el Code Jalisco, el cual ejercerá sus funciones de conformidad con lo que le establezcan la presente ley y su reglamento y demás disposiciones jurídicas vigentes.\nDicho organismo será el responsable de la operación del sistema estatal, y para ello utilizará como instrumento rector de la política deportiva del Estado de Jalisco al programa estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "a participación en el sistema estatal será obligatoria para todas las dependencias y entidades de la administración pública estatal. Los municipios, así como los sectores social y privado podrán participar en los términos que señalen la ley y su reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "° El Code Jalisco será responsable de coordinar, normar, evaluar y controlar todas las actividades referentes a la promoción, fomento, estímulo, formación, enseñanza y práctica de las diferentes disciplinas deportivas en el estado, en sus diversas modalidades y categorías pertenecientes al sistema estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "l Gobierno del Estado y los municipios que forman parte del Sistema Estatal del Deporte, procurarán destinar recursos presupuestarios crecientes, para apoyar la ejecución del programa estatal, así como para la construcción, el mantenimiento y conservación de las instalaciones deportivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "l Code Jalisco, conjuntamente con la Secretaría de Educación del Estado de Jalisco, promoverá la elaboración de un programa, que sumado a la asignatura de educación física que se imparte en el nivel de educación básica, incremente la carga horaria para la realización de actividades deportivas para los estudiantes y con ello coadyuvar en la formación y desarrollo integral del educando, en los términos establecidos en el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "ara los efectos de esta ley, se considerarán órganos directivos del deporte:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Code Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las dependencias o entidades municipales encargadas en materia de cultura física y deporte; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Comisión Estatal de Apelación y Arbitraje del Deporte."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Del Sistema Estatal de Cultura Física y Deporte",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "El sistema estatal es el conjunto de elementos ordenados, congruentes y uniformes encaminados a promover y fomentar la cultura física y deporte, y se compone por las entidades e instituciones públicas y privadas, organismos sociales, asociaciones civiles y deportivas, así como todas las instancias dedicadas a la actividad deportiva que de manera coordinada tienen como objetivo generar las acciones, financiamientos y programas necesarios para el fomento, ejecución, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Los poderes públicos del Estado, y los gobiernos municipales se coordinarán para la integración y funcionamiento del sistema estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la promoción, fomento, estímulo, formación, enseñanza, práctica e investigación de las diferentes disciplinas deportivas establecidas en la presente ley, cumpliendo con los requisitos señalados en el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El sistema estatal se estructurará con un Consejo Técnico, a cargo del Code Jalisco y deberá contar con representantes de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Code Jalisco, por conducto de su Director General o quien éste designe, quien presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Secretaría de Educación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Secretaría de Salud;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La Secretaría de Planeación y Participación Ciudadana;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La Comisión de Educación, Cultura y Deporte del Poder Legislativo del Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La Delegación de la Confederación Deportiva Mexicana en el estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El Director de Desarrollo del Deporte del Code Jalisco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Tres representantes de las entidades deportivas municipales;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Un representante de los consejos estatales deportivos estudiantiles; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Tres representantes de las asociaciones deportivas del estado de Jalisco, acreditados ante el Code Jalisco.\nLos integrantes del Consejo Técnico asistirán a las sesiones con derecho a voz y voto; sus cargos serán honoríficos y su funcionamiento se establecerá en el reglamento.\nEl Presidente del Consejo Técnico nombrará un Secretario Técnico, quien lo asistirá en la coordinación de las acciones administrativas y operativas del sistema, para el eficaz cumplimiento de los acuerdos y disposiciones del Consejo Técnico."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Presidente del Consejo Técnico podrá invitar a las sesiones a especialistas o invitados relacionados con la materia, quienes podrán participar con voz pero sin voto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "El Consejo Técnico se reunirá trimestralmente, para lo cual convocará a sus integrantes el Presidente a través del Secretario Técnico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Para que las reuniones del Consejo Técnico tengan validez legal, se convocará con tres días de anticipación y deberán asistir la mitad más uno de los miembros, incluido entre ellos quien presida; sus decisiones se tomarán por mayoría simple, teniendo voto de calidad el Presidente del Consejo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El sistema estatal sesionará anualmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente ley y su reglamento.\nEn los casos en que no sea posible la presencia física de los integrantes del sistema estatal, se podrá sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.\nLas sesiones para su validez deben contar con lo siguiente:\na) La identificación visual plena de sus integrantes;\nb) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la ideas y asuntos;",
+            "Fracciones": [
+              {
+                "Fracción": "C",
+                "Texto": "Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Dejar registro audiovisual de la sesión y sus acuerdos.\nEn estos casos, las convocatorias a las sesiones del sistema estatal serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.\nLa convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "El Code Jalisco coordinará las acciones que el sistema estatal determine, en el ejercicio de sus funciones, para dar cumplimiento a sus fines, sin perjuicio de las atribuciones y funciones, conforme al artículo anterior, al reglamento y a las reglas para la organización y el funcionamiento del mismo, las que remitirá al titular del Poder Ejecutivo para su expedición.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Para el adecuado cumplimiento de sus fines, el sistema estatal tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar el cumplimiento del programa estatal para coadyuvar a elevar la calidad de vida de los habitantes del estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Determinar los requerimientos de cultura física y deporte en el estado para crear y desarrollar los medios para satisfacerlos conforme a la exigencia de la sociedad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer las bases para lograr una coordinación y concertación en materia de cultura física y deporte entre las diferentes dependencias y entidades de la administración pública estatal y municipal, así como sumar la participación activa de las diferentes instituciones públicas y de particulares de los sectores social y privado, de conformidad con lo establecido en el reglamento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Diseñar y operar estrategias para fomentar la enseñanza y aprendizaje de la práctica de la cultura física y el deporte en todas sus manifestaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular programas destinados a promover y apoyar la formación, capacitación y actualización continua entre todo el personal que se dedica a trabajar o pretende hacerlo en las distintas modalidades de cultura física y deporte;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover entre las autoridades y dependencias estatales y municipales las acciones necesarias para la procuración de recursos para el remozamiento, adecuación y creación de unidades y espacios públicos destinados para la práctica de la cultura física y el deporte; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Todas las demás que le otorguen la presente ley y demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "El programa estatal será el instrumento rector de la política de cultura física y deporte del estado de Jalisco, y deberá incluir cuando menos las políticas y lineamientos en los rubros de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ciencias aplicadas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cultura física;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desarrollo del deporte convencional y adaptado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Formación y capacitación de especialistas en cultura física y deporte;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Infraestructura de instalaciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Investigación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Infraestructura de instalaciones; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Bases generales para el otorgamiento del Premio al Mérito Deportivo, que se entregará anualmente, de acuerdo a lo que establezca el reglamento de la presente ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "La elaboración del programa estatal será responsabilidad del Code Jalisco, conforme a lo dispuesto en el Plan Estatal de Desarrollo y Gobernanza, así como considerando las opciones\nde los integrantes del sistema estatal y se incluirán los eventos y competencias que organice o en que participe el Estado.\nEn el reglamento de la presente ley se establecerán los lineamientos a partir de los cuales participarán las dependencias que forman parte del sistema estatal, para definir los criterios, objetivos, acciones y metas respecto a cada uno de los temas dentro del ámbito de su competencia.\nLos eventos y actividades no incluidos en el programa estatal podrán ser aprobados en reuniones del Consejo Directivo o el Director General conforme al reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Primera Disposiciones generales",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "El Code Jalisco es el organismo público descentralizado de la administración pública estatal encargado de realizar las funciones deportivas y de fomento a la cultura física en los términos de la presente ley, el cual contará con personalidad jurídica y patrimonio propios y domicilio en la ciudad de Guadalajara, Jalisco, pudiendo establecer delegaciones en las regiones o municipios que lo requieran, de conformidad con su disponibilidad presupuestaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "El Code Jalisco tendrá las atribuciones y obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Organizar, administrar, coordinar, evaluar y ejecutar acciones y programas inherentes al funcionamiento, políticas y propósitos planteados en el sistema estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar el programa estatal y someterlo a consideración del titular del Poder Ejecutivo para su aprobación y, en su caso, publicación, así como coordinar, ejecutar y evaluar su cumplimiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Representar al deporte jalisciense ante las autoridades e instancias que sea necesario;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coordinar el uso de los espacios e instalaciones de propiedad estatal destinados al deporte, así como proponer y fomentar la construcción de áreas de las diferentes disciplinas deportivas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar acuerdos, convenios y bases con las autoridades deportivas federales, de los estados y municipios dentro del ámbito de sus atribuciones y facultades, a fin de promover con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y el deporte en la entidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Implementar las medidas y programas necesarios para establecer un programa institucional de evaluación, seguimiento y certificación de los centros deportivos y escuelas adscritas al Code Jalisco en donde se practique el deporte en todas sus modalidades;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinar las acciones necesarias para establecer lineamientos de participación, cuidado, atención y seguimiento de los deportistas jaliscienses en cualquier clase de competición o justa deportiva nacional o internacional, dentro del ámbito de sus atribuciones y facultades y sin contravenir lo dispuesto por las normas internacionales y estatutos de las federaciones nacionales y de la Comisión Nacional de Cultura Física y Deporte;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer las acciones necesarias para implementar un programa de desarrollo, formación y seguimiento de talentos deportivos en el estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Incorporar al sistema estatal a los municipios que así lo decidan y fomentar la inclusión a aquellos que aún no formen parte;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover la gestión de recursos adicionales a su presupuesto para el cumplimiento de sus fines;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Operar el Registro Estatal de Cultura Física y Deporte y fomentar la inscripción en el mismo;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Emitir lineamientos para la organización y desarrollo del sistema estatal, y someterlos a consideración del titular del Poder Ejecutivo para su aprobación y, en su caso, publicación;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Planear y fomentar la enseñanza y práctica de la cultura física y el deporte en todas sus modalidades y categorías en Jalisco y procurar que sean acordes con lineamientos y características especiales de salvaguarda a su condición, salud y posibilidad física correspondiente;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Proponer los mecanismos para la adecuada coordinación y colaboración de trabajo entre las diferentes dependencias y entidades de la administración pública federal, estatal y municipal, así como instituciones educativas públicas o privadas, en lo relativo a los programas de investigación, en las ciencias aplicadas y técnicas de la cultura física y el deporte;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Programar cursos de capacitación, actualización, formación y demás actividades para que el personal técnico adquiera una mejor preparación y desarrollo para los deportistas jaliscienses en coordinación con los integrantes del sistema estatal;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Concertar y coadyuvar con los integrantes del sistema estatal en la realización de acciones para la rehabilitación de jóvenes con problemas de carácter somático, mental y de adaptación social mediante programas deportivos, en coordinación con las otras dependencias del sector público y privado;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Emitir opinión de los proyectos de desarrollo de la cultura física y deporte en el estado, cuando así le sea requerido y de acuerdo con su disponibilidad presupuestaria;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Implementar las medidas necesarias para el acceso a los estímulos que establecen esta ley y su reglamento en igualdad de condiciones y circunstancias a deportistas y entrenadores en todas las modalidades del deporte;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Crear, administrar y mantener actualizado el registro estatal en los términos de esta ley;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Realizar anualmente la edición de la Copa Jalisco de Futbol; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "El Code Jalisco es la única institución autorizada para otorgar la representatividad del estado de Jalisco en la participación de cualquier actividad deportiva, cumpliendo con lo establecido en el reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Segunda Del Consejo Directivo",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "El Consejo Directivo del Code Jalisco se conformará por el Director General del Code Jalisco y los titulares o representantes de las siguientes entidades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Secretaría de Educación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretaría de Plantación y Participación Ciudadana;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Secretaría de Salud;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Secretaría de Igualdad Sustantiva entre Hombres y Mujeres;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cámara Nacional de Comercio de la entidad; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cámara de Industriales de la entidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "El Director General será nombrado por el Gobernador del Estado a propuesta en terna presentada por el titular de la Secretaría de Educación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Serán atribuciones del Consejo Directivo del Code Jalisco, las que a continuación se enuncian:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar la aplicación de los recursos para el cumplimiento de los objetivos, en conocimiento del programa estatal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la asignación de recursos económicos que propicien el incremento de la cobertura de personas favorecidas por los programas del sistema estatal, a través de la ampliación de diversas fuentes de financiamiento públicas y privadas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Examinar y en su caso aprobar la cuenta anual del Code Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Aprobar el reglamento interno del Code Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Facultar al Director General para otorgar y revocar poderes generales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar el anteproyecto de presupuesto anual para ser sometido al Secretario de Educación del Estado de Jalisco para su aprobación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aprobar los planes y programas del organismo; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que otorguen otras leyes, reglamentos o acuerdos."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "El Consejo Directivo tomará sus decisiones por mayoría de votos y deberá reunirse en sesiones ordinarias cuando menos cada trimestre, y en sesiones extraordinarias cuando se estime necesario.\nPara la celebración de las sesiones se requerirá la presencia de cuando menos la mitad de sus miembros el presidente tendrá voto de calidad en caso de empate; en ausencia del Presidente; las sesiones serán presididas por el Secretario del Consejo Directivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Las sesiones serán convocadas y conducidas por quien presida. Iniciada una sesión, sólo podrá suspenderse por causa justificada, previo acuerdo de la mayoría de los consejeros.\nDe cada sesión se levantará un acta que será circunstanciada, debidamente firmada por el Presidente y Secretario del Consejo Directivo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Tercera Del Director General",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "El Director General del Code Jalisco tendrá las siguientes facultades y atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar legalmente al Code Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar la elaboración, ejecución y evaluación del programa estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinar la elaboración de los programas institucionales de corto, mediano y largo plazo así como los programas de organización y de funcionamiento de las distintas áreas del Code Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer los mecanismos de evaluación, control y seguimiento necesarios para el análisis y cumplimiento de las metas y objetivos propuestos en el programa estatal y sus complementarios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Implementar las acciones administrativas necesarias para gestionar estrategias, metodologías y programas de investigación científica en temas de cultura física y deporte susceptibles de ser aplicadas en materia total o complementaria a los planes institucionales incluidos en el programa estatal y en el desempeño de los organismos, dependencias y centros deportivos del Code Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integrar y presentar al Consejo Directivo del Code Jalisco el anteproyecto del presupuesto anual de ingresos y egresos del Code Jalisco;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Presentar anualmente al Gobernador del Estado un informe del trabajo realizado en materia de cultura física y deporte y finanzas, que permita conocer los avances y cumplimiento del programa estatal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Administrar los recursos humanos, materiales y financieros con que cuenta el Code Jalisco para el debido cumplimiento del programa estatal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Gestionar ante las autoridades municipales el uso de instalaciones deportivas en su ámbito territorial para cumplir con sus fines y atribuciones; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le confieren otras leyes y reglamentos en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 30,
+            "Texto": "El Code Jalisco, a través del Director General, fundamentará y gestionará ante las instancias correspondientes la asignación de recursos crecientes adicionales a sus partidas presupuestales, para ampliar la cobertura y cantidad de población beneficiada, en cuanto a los servicios que ofrece el Code Jalisco con el fin de desarrollar la cultura física y el deporte de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Cuarta Del régimen patrimonial y financiero",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "El Patrimonio del Code Jalisco se integrará por los siguientes elementos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los muebles e inmuebles y los derechos que se le destinen por las autoridades de la Federación, el Estado y los municipios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los subsidios que le sean asignados por las autoridades a que se refiere la fracción I;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones, comodatos, usufructos, donaciones, herencias, legados y fideicomisos que se constituyan en su favor y cualquier otro instrumento legal que se suscriba a favor del Code Jalisco; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cualquier otra percepción o ingreso que en su beneficio fuese otorgado o generado."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Se declara de interés social la construcción, conservación y mantenimiento de las instalaciones deportivas que permitan atender adecuadamente las demandas de los jaliscienses para el desarrollo de la cultura física y el deporte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "El Estado a través del Code Jalisco y los municipios que integran el sistema estatal, podrán implementar las gestiones necesarias para desarrollar proyectos en materia de infraestructura deportiva y demás modalidades de cultura física y su debido equipamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "La planificación y construcción de instalaciones de propiedad estatal destinadas a la cultura física y el deporte, considerarán las recomendaciones y especificaciones técnicas de los deportes y actividades que se proyectan desarrollar y que emita el Code Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Sección Quinta Del registro",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "El registro será responsabilidad del Code Jalisco y comprenderá la inscripción actualizada de: los organismos deportivos que forman parte del sistema estatal, los municipios, los consejos estudiantiles, los deportistas, jueces, árbitros, técnicos, entrenadores, educadores físicos, especialistas en medicina deportiva, las organizaciones deportivas estatales, y demás profesionales en la materia, así como las instalaciones y espacios para la práctica del deporte de la entidad, y las competencias y actividades deportivas que determine el reglamento de esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "La inscripción en el Registro Estatal del Deporte podrá ser individual o colectiva; los deportistas, agrupaciones, organismos deportivos y demás personas que tengan por objeto el desarrollo de actividades vinculadas con la cultura física y el deporte y que su fin no implique necesariamente la competencia deportiva, deberán inscribirse en el Registro del Deporte, siempre y cuando no tengan fines lucrativos.\nToda persona física u organismo deportivo que promueva el desarrollo del deporte con fines preponderantemente económicos, deberán estar inscritos en el registro y fomentar entre sus miembros su inclusión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "La inscripción en el registro estatal quedará debidamente acreditada a través de la expedición de un documento que para tal efecto entregue el Code Jalisco, de conformidad con lo establecido en el Reglamento y previo pago de los derechos correspondientes, de conformidad con lo dispuesto por la Ley de Ingresos del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "Para poder participar en competencias con reconocimiento o validez oficial, las personas y organismos deportivos a que se refiere esta ley deberán estar inscritos en el registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "Para inscribirse en el registro se deberá cumplir los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Comprobar que se practica una disciplina deportiva, cuando se trate de deportistas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acreditar estudios profesionales o sus equivalentes, respecto de entrenadores, técnicos, jueces, árbitros y especialistas en materia de cultura física y deporte;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acreditar su legal constitución y funcionamiento, cuando se trate de personas morales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con certificación de la Comisión Nacional de Cultura Física y Deporte tratándose de personas físicas o morales que con un fin de lucro ofrezcan servicios relacionados con la cultura física o el deporte; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los demás que para cada caso establezca el reglamento de la ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Los actos registrables y los requisitos para su inscripción en el registro, así como los lineamientos para su integración y funcionamiento, renovación, cancelación y demás figuras relacionadas, serán determinados por el reglamento de la presente ley y estarán vinculados con el Registro Nacional del Deporte.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV De la participación de los sectores social y privado en el Sistema Estatal de Cultura Física y Deporte",
+        "Artículos": [
+          {
+            "Artículo": 41,
+            "Texto": "El Code Jalisco, así como los organismos responsables de las actividades de cultura física y deporte a que se refiere la presente ley, promoverán la participación de los sectores social y privado, con el fin de que se integren al sistema estatal, a través de convenios de concertación, acuerdos y demás medios que se estimen pertinentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "El Gobierno estatal y los ayuntamientos promoverán la creación y fomento de patronatos, fundaciones y demás organismos filantrópicos en los que participen los sectores social y privado, para coadyuvar al fomento y desarrollo de la cultura física y el deporte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Se procurará que los ayuntamientos integrados en el Sistema Estatal del Deporte promuevan la participación de los vecinos con el fin de que se inscriban al respectivo Consejo Municipal del Deporte, involucrándolos, en los términos de ley, en el diseño, ejecución y evaluación de los programas municipales del deporte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "El Code Jalisco, en coordinación con los sectores social y privado, deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Detectar los problemas y necesidades que existan en el deporte, para señalarlos, recomendar soluciones e intervenir, en su caso, en la solución de los mismos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Colaborar en la promoción de foros y demás mecanismos de consulta pública para el mejoramiento de la política estatal del deporte; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover, en los términos de ley, la participación ciudadana en los consejos de vecinos para la promoción y fomento a la cultura física y deporte."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V De la participación de los municipios en el Sistema Estatal de Cultura Física y Deporte",
+        "Artículos": [
+          {
+            "Artículo": 45,
+            "Texto": "Con el fin de fomentar y desarrollar el deporte en los municipios, podrán participar en el sistema estatal, en coordinación con el Ejecutivo estatal, en los términos de esta ley, de acuerdo con los convenios que se suscriban para tal efecto cumpliendo con las normas que establece el reglamento de la ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "El Estado y los municipios podrán difundir, en el ámbito de sus respectivas competencias, el derecho fundamental de todo ser humano al acceso de una vida sana por medio de la cultura física y el deporte a través de las instancias gubernamentales responsables de la salud pública, la educación, el deporte, la prevención del delito y el desarrollo integral de todos los sectores poblacionales, de acuerdo con los objetivos y fundamentos enunciados en el sistema estatal y sus programas correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "Los ayuntamientos de los municipios integrados al sistema estatal promoverán la realización de los siguientes objetivos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coadyuvar en la integración del Registro Estatal de Cultura Física y el Deporte, con el fin de mantener actualizada la información del mismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coadyuvar, organizar y coordinar las actividades de cultura física y deporte, para lo cual deberán fomentar la activación física y la práctica de algún deporte a través de las páginas web, las redes sociales oficiales, plataformas digitales o cualquier otro medio electrónico que este bajo la responsabilidad de cada ayuntamiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover la creación y apoyar a los organismos locales que desarrollen actividades de cultura física y deporte y que estén incorporados al sistema estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Prever que las personas con discapacidad, de la tercera edad, infantes y demás grupos vulnerables tengan las facilidades e instalaciones deportivas adecuadas para su acceso y desarrollo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Organizar y coordinar las actividades de cultura física y deporte en las colonias, barrios, zonas y centros poblacionales a través de las ligas, asociaciones vecinales, centros deportivos escolares y clubes municipales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover la identificación y desarrollo de talentos deportivos pertenecientes a su municipio;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Gestionar la integración de las representaciones deportivas municipales para participar en la edición anual de la Copa Jalisco; así como en las competencias regionales y estatales respectivas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Asignar los recursos necesarios para el logro de los fines anteriormente señalados;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Determinar las necesidades en materia deportiva y crear los medios para satisfacerlas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Otorgar los estímulos y apoyos para el desarrollo y fomento del deporte; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que le otorguen otras leyes y disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 48,
+            "Texto": "Los municipios incorporados al sistema estatal proveerán lo necesario, dentro del ámbito de su jurisdicción y en correspondencia con su capacidad presupuestaria y administrativa, para la creación de su respectivo órgano municipal del deporte o dependencia municipal ejecutiva correspondiente, y efectuarán su programación anual en el marco del programa estatal.\nLos órganos municipales del deporte, de acuerdo con los planes y programas que formulen sus respectivos ayuntamientos, promoverán la coordinación de las asociaciones de vecinos, colonias, barrios, centros de población, comités y ligas deportivas, así como las actividades deportivas que éstos realicen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "Las autoridades municipales que estén integradas al sistema estatal, por conducto del organismo competente, deberán facilitar el uso de las instalaciones para cultura física y deportiva en su ámbito territorial y garantizar la plena utilización de las mismas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "Los ayuntamientos promoverán las adecuaciones y mejoras necesarias a las instalaciones de cultura física y deporte con que cuenten, con el objeto de que éstas tengan espacios y accesos apropiados para las personas con discapacidad, adultos mayores, infantes y demás poblaciones vulnerables, tanto para la práctica como para su participación, convivencia y goce.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De la participación de los organismos deportivos en el Sistema Estatal de Cultura Física y Deporte",
+        "Artículos": [
+          {
+            "Artículo": 51,
+            "Texto": "Los términos de la inscripción al Registro Estatal de los Organismos Deportivos en relación con las autoridades que conforman el sistema estatal, serán establecidos en el reglamento de esta ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "El Code Jalisco, de acuerdo con los lineamientos establecidos en esta ley y su reglamento, podrá otorgar el reconocimiento a la asociación deportiva estatal que aglutine el mayor\nnúmero de equipos o clubes deportivos afiliados, ligas deportivas y deportistas independientes y que ésta participe en las convocatorias, satisfaciendo los requisitos previstos en esta ley, sin perjuicio de las acciones y garantías previstas en las demás legislaciones federales y la normatividad aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Corresponde al Code Jalisco establecer las directrices y criterios de reconocimiento, selección y participación correspondientes para la conformación de las selecciones representativas del estado en todas sus modalidades, categorías, expresiones y manifestaciones de la cultura física y el deporte, procurando que el aval de dicha representación recaiga en la asociación deportiva estatal debidamente reconocida en los términos que esta ley y su reglamento establecen, sin perjuicio de las acciones y garantías previas en otras disposiciones legales y normativas aplicables para tal efecto, en lo que al reconocimiento de asociaciones deportivas se refiere.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "Los organismos adscritos al sistema estatal, mediante convenio expreso de colaboración, deberán prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII De los derechos y obligaciones del deportista",
+        "Artículos": [
+          {
+            "Artículo": 55,
+            "Texto": "Son derechos del deportista:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Practicar el o los deportes de su elección, utilizando las instalaciones deportivas de propiedad estatal o municipal, en los términos de ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asociarse, mediante la práctica de la cultura física y el deporte, para la defensa de sus derechos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir, en los términos de ley, facilidades para su incorporación y promoción en los diversos niveles y modalidades del Sistema Estatal de Educación, tratándose de deportistas sobresalientes, de talento o seleccionados en competencias de alto rendimiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Recibir asistencia, entrenamiento deportivo y atención médica en competencias oficiales, sólo en el caso de que tengan la calidad de seleccionados estatales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Participar responsablemente en competencias, juegos o eventos deportivos reglamentarios u oficiales, respectivamente, en el marco del sistema estatal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Utilizar, con los accesos y adecuaciones pertinentes, las instalaciones y equipos deportivos, si se trata de personas con discapacidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Participar en las consultas públicas a que se convoque para la elaboración del programa estatal, así como también de los programas y reglamentos de su especialidad;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Ejercer su derecho de voto en el seno de su asociación u organización a la que pertenezca, en los términos de la normatividad aplicable;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Desempeñar cargos directivos, siempre y cuando haya sido elegido en asamblea de clubes, ligas, consejos deportivos, asociaciones y federaciones deportivas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Solicitar, en los términos y condiciones de la normatividad aplicable, toda clase de estímulos en becas, premios, reconocimientos y recompensas en dinero o en especie; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que establezcan en su favor las leyes, decretos y reglamentos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 56,
+            "Texto": "Son obligaciones del deportista:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desempeñar eficaz y adecuadamente su actividad física y deportiva, a fin de constituir un ejemplo para la niñez, la juventud y la sociedad jaliscienses;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En caso de estar comprendido entre quienes reciban estímulos de becas, en dinero o en especie por parte del Estado o municipios, asistir a las competencias de distintos niveles, al ser requerido;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Comunicar inmediatamente y por escrito, al órgano rector en materia deportiva en el estado, cuando tenga interés de formar parte en las organizaciones o clubes deportivos profesionales, tratándose de deportistas menores de 18 años inscritos en el registro estatal del deporte;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Representar a su municipio, estado y país en cualquier evento deportivo a que fuere convocado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Asistir a las reuniones, premiaciones y estímulos a los que fuere convocado;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cuidar y vigilar el adecuado mantenimiento de las instalaciones en que practique su deporte;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fomentar la práctica del deporte en todas las formas y medios a su alcance; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás que le sean señaladas por la presente ley y su reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 57,
+            "Texto": "El Code Jalisco mediante los mecanismos administrativos y presupuestales y de acuerdo con su capacidad financiera, deberá garantizar que los deportistas adscritos a su cargo y responsabilidad formativa, educativa y representativa, de quienes practiquen alguna actividad deportiva oficialmente reconocida por el programa estatal, cuenten con la seguridad médica, nutrimental, seguro de vida, lesiones e invalidez, de conformidad con lo establecido en el reglamento de la ley y demás normatividad aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "El Code Jalisco establecerá los criterios y lineamientos correspondientes para el caso de los deportistas y entrenadores en las modalidades de alto rendimiento, preselecciones y selecciones representativas, talentos deportivos, deporte adaptado y demás modalidades del deporte, para garantizar la cobertura de los servicios médicos, seguros de vida, incapacidad y de lesiones de acuerdo con los procedimientos establecidos en el reglamento de la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII De la formación, investigación, y de la medicina y las ciencias aplicadas a la cultura física y el deporte",
+        "Artículos": [
+          {
+            "Artículo": 59,
+            "Texto": "El Code Jalisco promoverá, coordinará e impulsará la formación, capacitación, certificación e investigación, para la aplicación del conocimiento científico en materia de cultura física y deporte, en coordinación con la Secretaría de Educación Jalisco y demás autoridades competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "El Code Jalisco podrá colaborar en el desarrollo de actividades de investigación y difusión sobre tópicos de su competencia, y para ello podrá establecer convenios con otras instituciones públicas y privadas de educación superior para el establecimiento de talleres, diplomados, especialidades y posgrados en las ciencias aplicadas al deporte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "El Code Jalisco promoverá y gestionará, conjuntamente con las asociaciones deportivas estatales, la formación, capacitación, actualización y certificación de los recursos humanos para la enseñanza y práctica de las actividades que desarrollen la cultura física y el deporte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "En correspondencia con los términos que la presente ley establece, el Code Jalisco diseñará acciones para el desarrollo y la investigación en las áreas de medicina del deporte, nutrición, biomecánica, control de dopaje, psicología del deporte y demás ciencias aplicadas a la cultura física y el deporte, para la práctica óptima de estas actividades",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "El Code Jalisco procurará la existencia y aplicación de programas preventivos relacionadas con enfermedades y lesiones resultantes de la práctica del deporte y las diversas modalidades de la cultura física.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "El Code Jalisco promoverá que los profesionales dedicados a las ciencias aplicadas en materia de cultura física y deporte cumplan con los requisitos que fijen los reglamentos y la normatividad oficial en esta materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "El Code Jalisco promoverá la capacitación y difusión de los principios y lineamientos establecidos para el control de antidopaje y lo dispuesto por la Comisión Médica de la Comisión Nacional de Cultura Física y Deporte, la Comisión Médica del Comité Olímpico Mexicano, la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje, de acuerdo con las disposiciones legales aplicables",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX Del reconocimiento deportivo",
+        "Artículos": [
+          {
+            "Artículo": 66,
+            "Texto": "Independientemente de los requisitos que establezcan los municipios del estado y otras dependencias, correspondientes a la apertura de escuelas, clubes, gimnasios, academias, centros de entrenamiento o instalaciones deportivas, el Code Jalisco supervisará que cuenten con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por lo menos, un instructor o entrenador acreditado por instalación o plantel;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Personas que impartan nociones de cultura y acondicionamiento físico con los conocimientos necesarios y estén debidamente acreditados o certificados por expertos en la materia o las autoridades competentes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Personas con los conocimientos teóricos prácticos necesarios, pero que se encuentran en proceso de acreditación o certificación; e"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Instalaciones apropiadas para el desarrollo de la actividad deportiva que desarrollen, así como verificar la calidad y seguridad de las mismas.\nEn caso de concurrir estas características el Code Jalisco les expedirá un reconocimiento deportivo; en caso contrario, el Code Jalisco los invitará a que se comprometan a realizar las gestiones necesarias y los asesorará al respecto."
+              }
+            ]
+          },
+          {
+            "Artículo": 67,
+            "Texto": "El Code Jalisco realizará un listado de escuelas, clubes, gimnasios, academias, centros de entrenamiento o instalaciones deportivas que hayan recibido reconocimiento por instalaciones apropiadas, así como por contar con personal capacitado o certificado; y lo difundirá en su página de Internet, publicaciones, folletos, estrados, periódicos murales, boletines o en cualquier otro medio a su alcance.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "El Code Jalisco, inducirá o concertará de común acuerdo con particulares o con asociaciones u organizaciones que los representen:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Visitas de revisión periódicas para la obtención de reconocimiento deportivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El cumplimiento de las normas técnicas para la práctica adecuada del deporte;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promoción de la capacitación, acreditación o certificación de instructores y entrenadores; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás acciones que induzcan a alcanzar los objetivos de la cultura física y deporte."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo X De las responsabilidades, sanciones y recursos administrativos",
+        "Artículos": [
+          {
+            "Artículo": 69,
+            "Texto": "Los organismos que presten servicios de instrucción y práctica de actividades de cultura física y deporte, que no cumplan con los preceptos de esta ley, serán sancionados por infracciones a la misma.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "La aplicación de sanciones por incumplimiento a la presente ley, su reglamento y demás disposiciones legales de la materia, les corresponde a los órganos directivos del deporte y a las autoridades estatales y municipales, en cuanto a su competencia y dar seguimiento al procedimiento correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "Las sanciones por infracciones a esta ley consistirán en:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Limitación, reducción o cancelación de apoyos o estímulos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suspensión temporal o definitiva; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Expulsión y cancelación del registro estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 72,
+            "Texto": "Contra las resoluciones de los órganos directivos, procederá el recurso de reconsideración ante la propia entidad que dictó la resolución, la cual podrá revocar, confirmar o modificar la resolución recurrida, sin perjuicio de entablar el recurso de inconformidad que establezca el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "Los órganos directivos, así como comités regionales, asociaciones, ligas, clubes y equipos deportivos registrados en el Sistema Estatal del Deporte, así como los directivos, jueces, árbitros y organizadores en competencias deportivas oficiales, podrán demandar la aplicación de sanciones en contra de cualquier presunto infractor, ante el Code Jalisco o Consejo Municipal del Deporte, según corresponda, en los términos que se regulen por el reglamento de la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo XI De la Comisión de Apelación y Arbitraje de la Cultura Física y el Deporte",
+        "Artículos": [
+          {
+            "Artículo": 74,
+            "Texto": "La comisión tendrá la función de atender y resolver administrativamente las inconformidades que los miembros del sistema estatal hagan valer en contra de las sanciones que apliquen las autoridades deportivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "La comisión tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conocer y resolver mediante el recurso de apelación, sobre las impugnaciones planteadas por cualesquiera de los miembros del sistema estatal en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, entidades, y organismos deportivos que afecten, derechos, prerrogativas o estímulos establecidos a favor del recurrente en la presente ley o en los reglamentos que de ella emanen, sin perjuicio del procedimiento que el impugnante podrá optar en agotar el medio de defensa que corresponda o interponer directamente el recurso de apelación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Intervenir como árbitro para dirimir las controversias que se susciten o puedan suscitarse como consecuencia de la promoción, organización y desarrollo de actividades deportivas y entre los deportistas o demás participantes en éstas, independientemente de que las partes pertenezcan o no al sistema estatal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Constituirse como un órgano de defensoría de los derechos del deportista entre actos violatorios por parte de las autoridades, entidades y organismos deportivos y mediante las disposiciones legales y procesales previstas en la presente ley y demás normatividad aplicable;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Conceder la suspensión provisional y en su caso definitiva del acto impugnado siempre y cuando no exista riesgo grave de orden público o disciplina deportiva de que se trate;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Efectuar mediante los procedimientos reconocidos para tales efectos la suplencia en la deficiencia de queda,(sic) cuando el impugnante no sea autoridad, entidad u organismo deportivo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar o que no acaten en sus términos los acuerdos, decisiones, laudos y resoluciones emitidos por la propia comisión; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que establezca la presente ley y otras disposiciones reglamentarias."
+              }
+            ]
+          },
+          {
+            "Artículo": 76,
+            "Texto": "Esta comisión estará integrada por cinco miembros de la comunidad con amplio conocimiento en la materia, además de reconocido prestigio y calidad moral en la entidad, quienes serán nombrados por el Secretario de Educación Jalisco.\nPara ello, ninguno de los integrantes de esta comisión deberá ostentar cargo alguno como autoridad perteneciente al sistema estatal, a fin de asegurar la autonomía al resolver los recursos de inconformidad. El cargo de comisionado será honorífico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 77,
+            "Texto": "La comisión elaborará su reglamento interno de conformidad con los lineamientos que el sistema estatal establezca.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo XII De la prevención de la violencia en el deporte",
+        "Artículos": [
+          {
+            "Artículo": 78,
+            "Texto": "En las actividades deportivas se establecerán las medidas preventivas necesarias para erradicar la violencia en el deporte, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "Para los efectos de este capítulo, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Actividad física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evento deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas conforme a las normas establecidas por éstas y por los organismos rectores;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Evento deportivo masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Evento deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Comisión Especial: La Comisión Especial Contra la Violencia en el Deporte creada por la Ley General de Cultura Física y Deporte."
+              }
+            ]
+          },
+          {
+            "Artículo": 80,
+            "Texto": "Las autoridades competentes del Estado y de los municipios se coordinarán entre sí o con instituciones del sector social y privado para promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de seguridad pública y protección civil correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 81,
+            "Texto": "La coordinación y colaboración entre el Estado y los municipios respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la legislación en materia de seguridad pública será subsidiaria y se sujetará a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio en cada una de las demarcaciones territoriales en que se celebren los eventos.\nLa seguridad en la cancha o área de competencia, en los vestidores y baños para deportistas y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa\nde sus dirigentes, intervendrán las autoridades municipales o estatales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los deportistas, de las personas o de los bienes que se encuentren en dichos espacios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en términos de lo que dispongan las leyes aplicables;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades estatales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad.\nLos representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.\nPara los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en las disposiciones legales aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "La autoridad estatal y las autoridades municipales capacitarán a los cuerpos policíacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido."
+              }
+            ]
+          },
+          {
+            "Artículo": 82,
+            "Texto": "Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.\nLas autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 83,
+            "Texto": "Para efectos de este capítulo, se consideran actos o conductas violentas o que incitan a la violencia en el deporte a los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en\naltercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La irrupción no autorizada en los terrenos de juego;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades."
+              }
+            ]
+          },
+          {
+            "Artículo": 84,
+            "Texto": "Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.\nCon estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente."
+              }
+            ]
+          },
+          {
+            "Artículo": 85,
+            "Texto": "Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las asociaciones deportivas estatales respectivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "Las autoridades competentes en materia de seguridad y protección civil, en coordinación con los organizadores de eventos deportivos podrán realizar registros personales al ingreso de las instalaciones deportivas para asegurar que los asistentes no portan algún artículo prohibido. Esta práctica deberá realizarse apegada a los principios de respeto a la dignidad de las personas y a sus derechos humanos, con enfoque de género. Pero en todo caso, deberá hacerlo cuando en el centro deportivo se hubieran presentado antecedentes de violencia deportiva o se trate de la reanudación de un evento suspendido por esta causa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "Cuando las autoridades competentes en materia de seguridad y protección civil, responsables de la seguridad del evento deportivo detecten la posibilidad o el inicio de la realización de alguna práctica o comportamiento, que inciten o produzcan violencia deportiva, deberán actuar de inmediato para controlarla poniendo a los responsables a disposición de la autoridad correspondiente con el auxilio de la fuerza pública si fuera necesario. En estos casos deberá interrumpirse de inmediato el expendio de bebidas alcohólicas a los posibles infractores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 88,
+            "Texto": "Cuando las autoridades competentes en materia de seguridad y protección civil, responsables de la seguridad de los eventos no les sea posible controlar la violencia en sus inicios o cuando ésta sea provocada por un grupo de personas que por su número resulte difícil de controlar, las gradas o áreas de las instalaciones afectadas deberán ser desalojadas y el encuentro deportivo suspendido hasta que pueda realizarse el desalojo.\nSi hubiera resistencia al desalojo o la violencia comienza a extenderse a otras áreas o persiste en el exterior de las instalaciones deportivas, el encuentro deportivo deberá ser suspendido de inmediato por tiempo indefinido y las instalaciones deberán ser evacuadas en su totalidad. Para la reanudación del evento, el organizador deberá garantizar las medidas de seguridad necesarias para tal efecto, mediante una autorización especial por parte de la autoridad municipal en los términos de su reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 89,
+            "Texto": "Para cumplir con las disposiciones de los artículos 87 y 88 de la Ley, los clubes deportivos y organizadores de los eventos deberán contar con un número suficiente de efectivos de seguridad, con las estrategias de colaboración y auxilio de la policía preventiva y de protección civil, y con el resto de las autorizaciones, permisos y medidas de seguridad que dicte la autoridad municipal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 90,
+            "Texto": "El reglamento establecerá los casos y términos en que los organizadores de los eventos deportivos con fines de lucro deban contar con un seguro de vida a favor de los asistentes a los eventos deportivos, así como de responsabilidad civil general que ampare la cobertura de inmuebles y actividades así como de daños a terceros en bienes y personas que incluya atención médica y hospitalaria, mismo que deberá tener cobertura durante el tiempo que duren los eventos deportivos considerando además el horario de práctica e ingreso y egreso de los asistentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "Los clubes, las federaciones de clubes con domicilio en el Estado y los organizadores de eventos deportivos deberán llevar un registro de las barras, porras, asociaciones o agrupaciones de aficionados o similares, donde se asienten sus datos generales como organización y los particulares de sus integrantes.\nLos datos asentados en el registro serán considerados como personales y serán protegidos como tales en los términos de la legislación respectiva, pero serán puestos a disposición de las autoridades en cualquier momento en que se les requiera.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "La aplicación de sanciones administrativas por infracciones a este capítulo corresponde a los órganos directivos del deporte y a las autoridades estatales y municipales, según corresponda, de conformidad a lo señalado en el artículo 70 de la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 93,
+            "Texto": "Las sanciones administrativas a que se refiere este capítulo se aplicarán de acuerdo a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "A las infracciones a este capítulo se les aplicarán las sanciones administrativas siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "A las asociaciones deportivas y organizadores de eventos deportivos con fines de espectáculo:\na) Amonestación privada o pública;\nb) Limitación, reducción o cancelación de apoyos económicos;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Suspensión temporal o definitiva del uso de instalaciones oficiales de cultura física y deporte, y\n\nSuspensión temporal o definitiva de su inscripción en el Registro Estatal de Cultura Física y Deporte.\n\nMulta de 10 a 90 veces el valor diario de la Unidad de Medida y Actualización, y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Suspensión temporal o definitiva de su inscripción en el Registro Estatal de Cultura Física y Deporte.\n\nSuspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "A deportista:\na) Amonestación privada o pública;\nb) Limitación, reducción o cancelación de apoyos económicos, y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudiera generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:\na) Expulsión inmediata de las instalaciones deportivas;\nb) Amonestación privada o pública;"
+              }
+            ]
+          },
+          {
+            "Artículo": 95,
+            "Texto": "Las infracciones al artículo 83 serán sancionadas por la autoridad municipal conforme este capítulo sin perjuicio de las responsabilidades penales y civiles a que haya lugar.\nSi los organizadores de los eventos deportivos fueron omisos en el cumplimiento de las obligaciones establecidas en los artículos 87, 88 y 89 de la Ley, previo derecho de audiencia y defensa ante la autoridad competente y dicho incumplimiento es debidamente demostrado, serán sancionados con la reparación de los daños solidariamente con los infractores directos, independientemente de las sanciones administrativas que resulten de la omisión.\nEn contra de las resoluciones que impongan sanciones a los particulares procederá el recurso de revisión contemplado por Ley del Procedimiento Administrativo del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, a excepción de lo establecido en los artículos transitorios siguientes.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial <El Estado de Jalisco=.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial <El Estado de Jalisco=.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Los artículos 36 y 39 entrarán en vigor el día 1º. de enero de 2015; hasta en tanto entren en vigor dichas disposiciones, el CODE Jalisco podrá realizar las inscripciones al registro estatal, a quienes lo soliciten de manera voluntaria y cumplan los requisitos dispuestos en la presente ley.\n\nLos gobiernos municipales y los organizadores deportivos disponen de un plazo de sesenta días para adecuar sus disposiciones reglamentarias para el cumplimiento del presente\ndecreto.\nARTÍCULOS TRANSITORIOS DEL DECRETO 28443/LXII/21\n\nLos ayuntamientos dispondrán de un plazo de 60 días naturales para adecuar sus reglamentos y dar así cumplimiento al presente decreto.\nTABLA DE REFORMAS Y ADICIONES\nDECRETO 24916/LX/14.- Se reforma el artículo 24 fracciones II y IV de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Ago. 7 de 2014. sec. VI.\nDECRETO 24943/LX/14.- Se reforman las fracciones VI y VII, y se adiciona una fracción VIII al\nartículo 19 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Ago. 7 de 2014 sec. VI\nDECRETO 25421/LX/15.- Se adiciona el capítulo XII denominado <De la prevención de la violencia en el deporte=, a la Ley de Cultura Física y Deporte del Estado de Jalisco.- Ago. 27 de 2015 sec. II.\nDECRETO 25658/LX/15.- Se reforman los artículos 70, 83, 86, 87, 88, 90, 92 y 95 de la Ley de Cultura Física y Deportes del Estado de Jalisco.- Dic. 17 de 2015 sec. LXVI.\nDECRETO 25840/LXI/16.- Artículo décimo quinto Se reforma el artículo 94 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Oct. 11 de 2016 sec. V. AL-757-LXI-16 que aprueba la aclaración de error de la minuta de decreto 25840/LXI/16.- Oct. 11 de 2016 sec. VI.\nDECRETO 26428/LXI/17.- Se reforma el artículo 3.° de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Sep. 19 de 2017 sec. III.\nDECRETO 27314/LXII/19.- Reforma diversos artículos de la Ley que crea el Instituto de la Infraestructura Física Educativa; la Ley de Atención a la Juventud; Ley de Beneméritos; Ley de Bibliotecas; Ley de Fomento a la Cultura; Ley de Cultura Física y Deporte, todas del Estado de Jalisco.- Jul. 27 de 2019 sec. V.\nDECRETO 27350/LXII/19.- Se reforma el artículo 20 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Oct. 8 de 2019 sec. IV.\nDECRETO 28114/LXII/20.- Se reforman los artículos 93 y 95 en su párrafo tercero de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Dic. 3 de 2020 sec. II.\nDECRETO 28291/LXII/21.- Se reforma la fracción lV del artículo 55 de la Ley de Cultura Física y Deporte del Estado de Jalisco. – Marzo 11 de 2021 Secc. III.\nDECRETO 28372/LXII/21.- Se adiciona un segundo párrafo al artículo 16 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- May. 15 de 2021, sec. IV.\nDECRETO 28443/LXII/21.- Se reforma la fracción II del artículo 47 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Oct. 2 de 2021, sec. V.\nDECRETO 28807/LXIII/22.- Se reforman los artículos 22 y 47 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- Ago. 25 de 2022 sec. IV.\nDECRETO 29141/LXIII/23.- Se adiciona la fracción XVII al artículo 3 de La Ley de Cultura Física y Deporte del Estado de Jalisco.- Mar. 14 de 2023, sec. V.\nDECRETO 29179/LXIII/23.- Se reforma la fracción IV del artículo 24 de la Ley de Cultura Física y Deporte del Estado de Jalisco.- May. 23 de 2023 sec. IV.\nLEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO\nAPROBACIÓN: 27 DE MARZO DE 2012.\nPUBLICACIÓN: 19 DE ABRIL DE 2012. SECCIÓN V.\nVIGENCIA: 20 DE ABRIL DE 2012.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El capítulo IX, denominado del reconocimiento deportivo de la presente ley, entrará vigor a los tres años siguientes de la entrada en vigor del presente decreto; periodo en el cual el\nCODE Jalisco podrá otorgar dicho reconocimiento a quienes lo soliciten de manera voluntaria y cumplan los requisitos dispuestos en la presente ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "A partir de la entrada en vigor de esta ley, se abrogan la Ley Estatal del Deporte, contenida en el decreto 18008, publicada en el periódico oficial El Estado de Jalisco el 28 de septiembre de 1999, así como sus reformas y adiciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Quedan vigentes los reglamentos y acuerdos administrativos emitidos por el Consejo Directivo del antes denominado Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud, hoy Consejo Estatal para el Fomento Deportivo, en todo lo que no se oponga a la presente ley y en tanto se expidan las nuevas disposiciones que los sustituyan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "En todos los procesos, procedimientos, juicios, convenios, contratos, fianzas, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud a la fecha de entrada en vigor de la presente ley se deberá entender que se refiere al organismo público descentralizado denominado Consejo Estatal para el Fomento Deportivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "En las demás disposiciones legales y reglamentarias en las que se haga referencia al Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud se entenderá que se refiere al organismo público descentralizado denominado Consejo Estatal para el Fomento Deportivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Todos los recursos materiales, financieros y humanos del actual Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud Dirección pasarán a formar parte del organismo público denominado Consejo Estatal para el Fomento Deportivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "Para los efectos del artículo anterior deberán respetarse los derechos laborales de los servidores públicos de base.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "La constitución de los consejos directivos a los que se refieren los artículos 12 y 24 de la presente ley, deberá integrarse en un plazo no mayor de sesenta días naturales siguientes a la fecha de entrada en vigor del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Primero",
+            "Texto": "El programa estatal deberá ser aprobado dentro de los siguientes sesenta días a partir de la constitución de los consejos directivos a los que se refiere esta ley y actualizarse al menos anualmente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo Segundo",
+            "Texto": "El titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Cultura Física y Deporte del Estado de Jalisco, en un plazo no mayor de ciento ochenta días siguientes a la fecha de la entrada en vigor del presente decreto.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 27 de marzo de 2012\nDiputado Presidente Enrique Aubri de Castro Palomino\nDiputado Secretario Javier Gil Olivo\nDiputado Secretario Abelardo Lara Ancira\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del estado Libre y Soberano de Jalisco, a los 30 treinta días del mes de marzo de 2012 dos mil doce.\nEl Gobernador Constitucional del Estado Emilio González Márquez\nEl Secretario General de Gobierno Víctor Manuel González Romero\nARTÍCULOS TRANSITORIOS DEL DECRETO 25421/LX/15",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

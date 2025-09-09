@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 22,
+  "n_perm_fracciones": 45,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DISPOSICIONES GENERALES",
+    "CAPÍTULO SEGUNDO DE LOS ÓRGANOS DE GOBIERNO",
+    "CAPÍTULO TERCERO DE LAS FUNCIONES DEL CONSEJO DE ADMINISTRACIÓN",
+    "CAPÍTULO CUARTO DEL DIRECTOR GENERAL DEL SISTEMA",
+    "CAPÍTULO QUINTO DEL PATRIMONIO DEL SISTEMA",
+    "CAPÍTULO SEXTO DE LOS SERVIDORES PÚBLICOS DEL SISTEMA",
+    "CAPÍTULO SÉPTIMO DISPOSICIONES COMPLEMENTARIAS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

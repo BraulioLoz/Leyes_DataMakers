@@ -1,0 +1,23 @@
+Errores y advertencias para: 0002.txt
+==================================================
+
+Ubicación: line 583
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 148 a 150
+Línea: Art. 150. DEROGADO. P.O. 08 DE ENERO DE 2018.
+------------------------------
+Ubicación: line 2277
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 892 a 894
+Línea: Art. 894.- El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajenos, adquiere la propiedad de unas y otros, pero con la obligación de pagarlos en todo caso y de resarcir los daños y perjuicios si ha procedido de mala fé.
+------------------------------
+Ubicación: line 3259
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 1510 a 1512
+Línea: Art. 1512.- A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales.
+------------------------------
+Ubicación: line 5590
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 2910 a 2912
+Línea: Art. 2912.- En los casos de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado el encargado del Registro, a fin de que pueda servirles de prueba en el juicio correspondiente.
+------------------------------

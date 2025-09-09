@@ -1,0 +1,1011 @@
+{
+  "0034.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General del Gobierno.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 25915/LXI/16 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.",
+    "Año_publicación": null,
+    "Título": "LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Objeto y Definiciones",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Esta ley es de orden público y tiene por objeto; fijar las bases para que los Entes Públicos Estatales y Municipales tramiten la autorización legislativa necesaria y, en su caso, puedan celebrar o contraer, con base en su respectivo crédito público, obligaciones o empréstitos, celebrar operaciones de refinanciamiento o reestructura, otorgar garantías o afectar ingresos como fuente de pago de las mismas y establecer el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios, conforme a lo establecido en los artículos 73 fracción VIII párrafo tercero, 115 fracción II tercer párrafo inciso\nb) y 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 35 fracción VI de la Constitución Política del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para efectos de esta Ley, en singular o plural, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Balance presupuestario sostenible: es aquel cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Deuda Contingente: cualquier financiamiento en el cual comparezca algún Ente Público Estatal o Municipal para asumir el mismo de manera solidaria, subsidiaria o para asumir la obligación de sustituirse o adquirir dicho financiamiento, así como aquéllos en que comparezcan con el carácter de aval;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Deuda Estatal Garantizada: las operaciones de financiamiento del Estado de Jalisco o alguno de sus Municipios que cuente con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Deuda Pública: el financiamiento contratado por los Entes Públicos Estatales y Municipales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Entes Públicos Estatales: el Estado de Jalisco a través del Poder Ejecutivo, los organismos públicos descentralizados de la administración pública paraestatal, empresas de participación estatal mayoritaria y fideicomisos públicos estatales así como cualquier otro ente sobre el que el Estado de Jalisco tenga control sobre sus decisiones o acciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Entes Públicos Municipales: los municipios del estado de Jalisco través de sus Ayuntamientos, los organismos descentralizados de la administración pública municipal, empresas de participación municipal mayoritaria y fideicomisos públicos municipales, así como cualquier otro ente sobre el que algún Municipio tenga control sobre sus decisiones o acciones, incluido los organismos intermunicipales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo a cargo de los Entes Públicos Estatales o Municipales, derivada de un crédito, empréstito o\npréstamo, incluyendo el arrendamiento y factoraje financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Financiamiento Neto: la diferencia entre las disposiciones realizadas de un financiamiento y las amortizaciones efectuadas o por efectuarse de la deuda pública en el mismo ejercicio fiscal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Fuente de pago: los recursos empleados o afectados presupuestalmente por los Entes Públicos Estatales o Municipales para el pago de un financiamiento u obligación financiera específica;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Garantía: ingresos o mecanismos que respalden el cumplimiento de las obligaciones de pago asumidas en un financiamiento u obligación por un Ente Público Estatal o Municipal;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Instituciones Financieras: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público federal, por la Comisión Nacional Bancaria y de Valores o por la Comisión Nacional de Seguros y Fianzas para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Ingresos propios: aquellos percibidos por los Entes Públicos Estatales o Municipales por contribuciones estatales o municipales, incluidos todos los impuestos estatales, contribuciones de mejoras, derechos, productos, aprovechamientos, ingresos por venta de bienes y prestación de servicios, y en general cualquier ingreso que sea recaudado por los mismos o establecido a su favor por cualquier ley estatal o municipal;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Instrumentos derivados: los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Inversión pública productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea:\na) La construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público;\nb) La adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable; o"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Ley de Disciplina: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Ley General: la Ley General de Contabilidad Gubernamental;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Mecanismo de Fuente de Pago: los mandatos, fideicomisos de administración y cualquier otro instrumento legal o vehículo de pago a través del cual se formalice la afectación presupuestal de una fuente de pago en operaciones de financiamiento u obligación financiera;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Mecanismo de Garantía: los mandatos, fideicomisos de garantía y cualquier otro instrumento legal a través del cual se formalice la constitución de una garantía real o personal en operaciones de financiamiento u obligación financiera;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los financiamientos o de proyectos de inversión y de prestación de servicios;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Obligaciones de corto plazo: obligaciones asumidas por el Estado de Jalisco a través del Poder Ejecutivo o alguno de sus Municipios a través del Ayuntamiento con instituciones financieras a un plazo\nmenor o igual a un año hasta por el 6% de sus ingresos totales aprobados en su respectiva Ley de Ingresos, sin incluir financiamiento neto, durante el ejercicio fiscal correspondiente, de conformidad con el Capítulo II,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Título Tercero de la Ley de Disciplina;",
+        "Artículos": [
+          {
+            "Artículo": 3,
+            "Texto": "Quedan sujetos a esta ley todos los actos jurídicos por medio de los cuales tanto los Entes Públicos Estatales como los Municipales obtengan ingresos extraordinarios con cargo al crédito público, asuman alguna obligación financiera ya sea como obligados principales al pago o como garantes de terceros, incluyendo los esquemas financieros de proyectos de inversión y de prestación de servicios, arrendamientos financieros, el factoraje o descuento de documentos, los contratos de obra pública financiada o contratos de adquisiciones con un plazo original superior a un año, así como toda la afectación de ingresos públicos como fuente de pago o garantía.\nLa contratación de financiamientos por los Entes Públicos Estatales o Municipales en términos de programas federales, así como las operaciones de Deuda Estatal Garantizada se regirán por la presente Ley, por la Ley de Disciplina y por la Ley de Coordinación Fiscal, así como por lo acordado entre las partes en el convenio correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Los recursos obtenidos mediante la asunción de obligaciones o financiamientos por los Entes Públicos Estatales y Municipales se deberán aplicar o destinar a inversiones públicas productivas, a la refinanciamiento o reestructura de financiamientos previamente adquiridos, así como a cubrir los gastos, accesorios financieros y costos relacionados con la contratación o disposición de dichas obligaciones o financiamientos, así como para constituir los fondos de reserva en relación al servicio de la deuda inherente a los mismos.\nLos Entes Públicos Estatales y Municipales podrán cubrir con recursos derivados de financiamiento las primas y gastos derivados de la contratación de garantías de pago oportuno, productos financieros colaterales y coberturas financieras o instrumentos financieros derivados, siempre que se acredite que la contratación de los mismos coadyuvará en la obtención de una menor tasa efectiva, atenuar los riesgos para las finanzas públicas o a la sostenibilidad de la deuda pública.\nLos Entes Públicos Estatales y Municipales, previa autorización del Congreso del Estado, podrán afectar sus ingresos propios como fuente de pago o garantía de financiamientos, obligaciones, obligaciones de pago con Entes Públicos Federales, así como con otros Entes Públicos Estatales o Municipales y para el cumplimiento de sus obligaciones en materia de pensiones o previsión social.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Son principios en materia de contratación de deuda pública por parte de los Entes Públicos Estatales y Municipales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Anualidad y caducidad de las autorizaciones: el ejercicio y vigencia de las autorizaciones legislativas obtenidas para la contratación de financiamiento, empréstitos u obligaciones deberá ejercerse a más tardar en el ejercicio fiscal posterior a la emisión de la autorización correspondiente por parte del Congreso del Estado; en el caso de financiamientos autorizados en las respectivas leyes de ingresos, los mismos no podrán ejercerse una vez concluida la vigencia de la ley respectiva. Transcurridos los plazos anteriores se requerirá un nuevo pronunciamiento del Congreso del Estado respecto a la prórroga en la vigencia de la autorización previamente otorgada;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coinversión: el financiamiento y la asunción de obligaciones deberán aplicarse, preferentemente, en proyectos o acciones que promuevan la coinversión en el Estado por parte de la Federación, la iniciativa privada o la ejecución de obras de impacto regional o metropolitano por parte de los tres órdenes de gobierno, a efecto de potencializar el efecto de los recursos extraordinarios obtenidos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Excepcionalidad: se recurrirá al financiamiento cuando no existan fuentes de recursos o programas estatales o federales disponibles y accesibles para la ejecución de las acciones u obras de inversión pública productiva requeridas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Institucionalidad: el financiamiento previamente adquirido deberá cumplirse en sus términos por las administraciones públicas de los Entes Públicos Estatales y Municipales; para tal efecto, deberán dar suficiencia a sus obligaciones, en su presupuesto anual de egresos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Planeación: la contratación de financiamiento o asunción de obligaciones se deberá realizar de manera ordenada y para proyectos de inversión pública productiva alineados a los objetivos del plan estatal o municipales de desarrollo y gobernanza que coadyuven al crecimiento económico; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Sostenibilidad; la contratación de financiamiento y obligaciones deberá realizarse con base en la capacidad de pago presente y futura, sin comprometer la estabilidad o balance presupuestario sostenible necesario de las finanzas públicas."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "La contratación de obligaciones de corto plazo cuyo destino sea la atención de necesidades urgentes de liquidez sólo podrá realizarse por parte del Estado de Jalisco a través del poder ejecutivo o en el caso de los Municipios por medio del Presidente Municipal, Síndico, Secretario General y el Tesorero o Encargado de la Hacienda Municipal con Instituciones Financieras.\nEstas operaciones se regirán por las disposiciones específicas de la Ley de Disciplina, sin perjuicio de las obligaciones de control e inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Restricciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "Los Entes Públicos no podrán contraer, directa o indirectamente, financiamientos u obligaciones con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Sin perjuicio de lo anterior, en los Proyectos de Inversión y Prestación de Servicios, el Congreso del Estado podrá autorizar incluir en el monto de financiamiento, el costo de adquisición de las coberturas necesarias para atenuar el riesgo en el incremento del tipo de cambio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "La aplicación de los recursos procedentes de un financiamiento u obligación financiera a fines diversos para el que fue aprobado serán responsabilidad del servidor público que haya ordenado, ejecutado y en su caso consentido la desviación de dichos recursos u omitido verificar el adecuado destino de los mismos, quienes serán sancionados de conformidad con las leyes que le resulten aplicables.\nAsí mismo, queda prohibido a los Entes Públicos Estatales y Municipales, celebrar cualquier operación de crédito público para financiar gasto corriente, con excepción de las obligaciones de corto plazo reguladas en la Ley de Disciplina.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "A falta de disposición expresa en esta Ley y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios se aplicará supletoriamente y complementariamente la siguiente normatividad:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Ley de Coordinación Fiscal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Ley de Coordinación Fiscal del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Código Fiscal del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ley de Hacienda Municipal del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Leyes en materia de fiscalización; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que conforme a la naturaleza y objeto de las mismas contengan disposiciones de deuda y disciplina financiera para el estado y los municipios.\nCorresponderá a la Secretaría la interpretación de esta Ley para efectos administrativos.\nArtículo. 10. Tanto en los instrumentos que formalicen la contratación de financiamiento, como en los documentos o títulos correspondientes a su disposición, e inclusive en el acta de emisión, como en los títulos y certificados, tratándose de operaciones bursátiles, deberán citarse los decretos de autorización o el fundamento legal para su celebración y, en su caso, los acuerdos del ayuntamiento, mediante los cuales se autorizan los mismos, así como la prohibición expresa de su venta, cesión o transmisión a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales; los documentos no tendrán validez sino se consignan dichos datos ni se reconocerán las cesiones que contravengan las prohibiciones anteriores."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Coparticipación de los Poderes Públicos",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "De conformidad con lo previsto en la fracción VIII, del artículo 73 y en la fracción VIII, del",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 117,
+            "Texto": "e la Constitución Política de los Estados Unidos Mexicanos, los Entes Públicos Estatales y Municipales que pretendan contraer financiamiento, asumir una obligación financiera o afectar como fuente de pago o garantía alguno de sus ingresos públicos, deberán apegarse a las bases generales establecidas en la Ley de Disciplina y en el presente ordenamiento, así como a las disposiciones reglamentarias que respecto de ambos ordenamientos se emitan.\nLos límites y modalidades bajo los cuales los Entes Públicos Estatales o Municipales podrán afectar sus respectivas participaciones federales o aportaciones federales como fuente de pago o garantía de los financiamientos u obligaciones que contraigan se regirán por la presente Ley, la Ley de Disciplina, así como la Ley de Coordinación Fiscal, y la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "La contratación de financiamiento, asunción de obligaciones, afectación de ingresos públicos y otorgamiento de garantías por los Entes Públicos Estatales y Municipales, serán materia de coparticipación entre el Congreso del Estado, el Poder Ejecutivo del Estado, los Ayuntamientos de los Municipios y la administración u órgano de gobierno de los Entes Públicos Estatales y Municipales, de conformidad con las atribuciones específicas para las mismas en el presente ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Corresponde al Poder Ejecutivo del Estado, en el ámbito estatal, así como al Presidente Municipal en el ámbito Municipal, la conducción financiera, así como la ejecución e instrumentación de los programas de financiamiento autorizados por el Congreso del Estado. Por lo anterior, corresponderá al titular de la Secretaría o al Tesorero o Encargado de la Hacienda Municipal, la determinación y aprobación de las características específicas de los actos, convenios o contratos en que se documente o estructuren las\noperaciones de financiamiento u obligaciones a ser asumidas por sus respectivos entes públicos; dentro de los límites en cuanto a monto, plazo, destino, concepto y condiciones generales autorizadas por el Congreso del Estado.\nDichos funcionarios, serán los responsables de confirmar que los financiamientos fueron celebrados en las mejores condiciones de mercado; es decir, aquellas donde el costo financiero fue el más bajo incluyendo todas las comisiones, gastos y cualquier otro accesorio relacionado con la contratación.\nLas acciones de administración financiera deberán procurar la mejora en las condiciones de tasa y pago; la gestión financiera de los entes públicos deberá comprender planes y acciones para conservar un adecuado historial de crédito y una mejora continua en la calidad crediticia de los entes públicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Corresponde al Congreso del Estado autorizar, por el voto de las dos terceras partes de sus miembros presentes, los montos y conceptos por los cuales los Entes Públicos Estatales o Municipales podrán contratar financiamientos o asumir obligaciones, dentro del Techo de Financiamiento Neto.\nNo se requerirá de una autorización del Congreso del Estado para la contratación de obligaciones de corto plazo o para realizar operaciones de Refinanciamiento o Reestructura, siempre que se cumplan las condiciones previstas por los artículos 23 y 30 de la Ley de Disciplina.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Intervención del Poder Legislativo",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "La facultad de iniciar el proceso legislativo de autorización de un financiamiento u obligación financiera corresponderá exclusivamente al Titular del Poder Ejecutivo del Estado, respecto a Entes Públicos Estatales, y a los Presidentes Municipales previa autorización del Ayuntamiento, respecto a Entes Públicos Municipales. La iniciativa correspondiente deberá contener los elementos de juicio que las sustenten, incluyendo cuando menos lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El análisis de la capacidad de pago de los Entes Públicos a favor de los cuales se promueva, así como de aquellos cuya garantía personal o afectación de ingresos se solicite;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un informe del estado y composición de la deuda pública previamente adquirida por dichos Entes Públicos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La proyección financiera respecto a los ingresos que constituirán la fuente de pago o garantía específica o fuente alterna; de pagó del financiamiento u obligación financiera a adquirirse y del impacto presupuestal que tendrá el servicio del adeudo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El análisis costo beneficio que acredite que las obras o acciones de inversión pública productiva a financiarse generan un beneficio social neto y su relación con el plan estatal o municipal de desarrollo y gobernanza o la oportunidad de su desarrollo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En su caso la proyección de los ingresos o economías presupuestales que se obtendrán con la ejecución del proyecto o acción de inversión pública productiva; así como cuando se determine viable, la forma o vehículo en que los mismos se direccionarán o afectarán al servicio del adeudo contraído para su ejecución;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La descripción del tipo de operación a celebrarse y la estructura general de la misma que deberá contener el monto máximo solicitado, concepto o conceptos de endeudamiento, plazo máximo de pago, destino de los recursos y en su caso la solicitud para afectar ingresos; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El resultado de la medición o sistema de alertas establecido en la Ley de Disciplina y el techo de financiamiento determinado por la Secretaría de Hacienda y Crédito Público, de ser el caso.\nEl Congreso del Estado por conducto de las Comisiones Legislativas a cargo del análisis y dictamen de las solicitudes de financiamiento podrán solicitar a los Entes Públicos Estatales, a través del Poder Ejecutivo o Entes Públicos Municipales a través del Presidente Municipal, la documentación e información que se requiera para el análisis de las solicitudes de autorización de operaciones de financiamiento u obligaciones.\nSi la iniciativa de autorización conlleva la participación del Estado como garante, aval, obligado solidario, sustituto o subsidiario o el apoyo económico del mismo mediante la afectación de ingresos propios del\nEstado, la misma deberá acompañar la manifestación expresa del Ejecutivo de asumir tal carácter quien a su vez deberá acompañar los análisis a que se refieren las fracciones I y II de este artículo."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "La autorización legislativa emitida para la contratación de financiamientos u obligaciones, reestructura o refinanciamiento de financiamientos previamente adquiridos, ya sea que se emita dentro de la Ley de Ingresos del Estado o del Municipio correspondiente o a través de un decreto específico, deberá contener:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El monto autorizado de la deuda pública o empréstito a adquirir o de la obligación financiera a asumir;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El concepto o conceptos de endeudamiento autorizado o la modalidad de obligación financiera a asumir, señalando el carácter con el que participará cada ente público referido en la autorización, es decir, si será obligado, principal, subsidiario, sustituto, obligado solidario o aval."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Plazo máximo autorizado para el pago del financiamiento o de la obligación financiera a asumir;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El destino de los recursos, el cual deberá corresponder invariablemente a inversiones públicas productivas, a la reestructura o refinanciamiento de financiamientos previamente adquiridos, así como a cubrir los gastos, accesorios financieros y costos relacionados con la contratación o disposición de dichas obligaciones o financiamientos, así como para constituir los fondos de reserva en relación al servicio de la deuda inherente a los mismos.\nEn el caso de inversión pública productiva se deberá especificar el programa o acción correspondiente. Si en un mismo decreto se refieren dos o más obras o acciones de inversión y el monto requerido para la ejecución de alguna de ellas es menor al previsto en el proceso de autorización legislativa, el ente público contratante podrá destinar el monto autorizado a otros rubros o acciones autorizados en el mismo decreto sin necesidad de tramitar una adecuación a dicha autorización, pero deberá informar al Congreso del Estado dichas variaciones y su resultado; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La autorización para afectar ingresos derivados de participaciones federales, o aportaciones federales e ingresos propios como fuente de pago o garantía de obligaciones o proyectos de inversión y prestación de servicios, la especificación del componente de pago garantizado el cual deberá corresponder a obras, acciones o adquisiciones que constituyan inversión pública productiva a cargo del inversionista.\nOtorgada la autorización para la afectación de participaciones federales o estatales, aportaciones federales e ingresos propios, ésta deberá autorizar al ente público para la constitución o modificación de los mecanismos de fuente de pago o garantía necesarios para formalizar la afectación autorizada.\nLos Entes Públicos Estatales y Municipales tendrán la obligación de rendir al Congreso del Estado, en un término de diez días hábiles, los informes que se le requieran por conducto del Pleno del Congreso del Estado, para verificar que las operaciones de financiamiento u obligaciones se realicen conforme a los términos de su autorización o tratándose de Reestructura o Refinanciamiento u Obligaciones de corto plazo que no requieran la previa autorización legislativa, se realicen conforme a las disposiciones legales aplicables, formulando las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Corresponde al Congreso del Estado autorizar los programas globales de financiamiento a favor de los Municipios que sean gestionados por el Gobierno del Estado para brindar acceso al financiamiento en mejores condiciones financieras y con el apoyo técnico, jurídico y, en su caso, financiero del Estado.\nLa autorización legislativa precisará la participación del Estado en dichos programas, así como los parámetros generales del financiamiento accesible para cada Municipio en lo particular, los rangos o plazo máximo de pago, el porcentaje de ingresos propios o derivados de la coordinación fiscal a afectarse y demás características generales de las operaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "La Auditoria Superior del Estado, con motivo de la fiscalización y revisión de las cuentas públicas, podrá solicitar a las Entes Públicos Estatales o Municipales que hayan obtenido algún financiamiento o asumido alguna obligación financiera la información correspondiente a la autorización legislativa para su contratación, el proceso competitivo instrumentado para su contratación en las mejores condiciones de mercado, las condiciones jurídicas y financieras en que se hubiera contraído, el destino de\nlos recursos obtenidos, el cumplimiento de las proyecciones económicas presentadas durante el trámite de autorización y, en su caso, el cumplimiento de las obligaciones adquiridas; formulando las observaciones que de ello se deriven, sin perjuicio de las demás responsabilidades a que hubiere lugar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III Atribuciones del Poder Ejecutivo",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "En materia de financiamiento público el titular del Poder Ejecutivo del Estado tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Incluir en las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado el apartado específico que contenga las acciones de financiamiento a realizarse en el ejercicio correspondiente, y señalar los conceptos, montos, destino y plazo máximo de pago necesarios para cubrir los requerimientos de financiamiento y las obligaciones a asumirse en el ejercicio fiscal correspondiente, debiendo contener además los elementos de juicio que los sustenten y la mención expresa de las partidas del presupuesto de egresos destinados al servicio de la deuda, garantías a constituirse, accesorios financieros a adquirirse e ingresos a afectarse como garantía o fuente de pago de las operaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Solicitar al Congreso del Estado autorización para que los Entes Públicos Estatales puedan contratar financiamientos u obligaciones y, en su caso, para afectar en garantía o como Fuente de pago las aportaciones federales, participaciones en ingresos federales o ingresos propios del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Celebrar en términos de la Ley de Disciplina los contratos, convenios y demás actos jurídicos para la obtención de obligaciones y otras operaciones financieras, incluyendo la reestructura, refinanciamientos previamente adquiridos, suscribiendo los documentos y títulos de crédito requeridos para tales efectos o para el cumplimiento de obligaciones derivadas de los mismos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Celebrar o adquirir obligaciones de corto plazo para la atención de las necesidades de liquidez del Estado, conforme a los límites y términos de la Ley de Disciplina;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar la reestructura, refinanciamiento, adecuación o modificación de los créditos previamente adquiridos por el Estado o por las Entes Públicos Estatales, cuando para ello no se requiera autorización legislativa específica, notificando al Congreso del Estado por conducto de la Auditoría Superior del Estado la justificación financiera que motive su autorización al rendir la cuenta pública;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Suscribir los instrumentos que formalicen las operaciones de financiamiento u obligaciones o los mecanismos de garantía o fuente de pago dentro de los montos y conceptos previamente autorizados por el Congreso del Estado o por la Ley de Disciplina;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Con aprobación del Congreso del Estado, constituirse en garante, avalista o deudor solidario, subsidiario o sustituto de cualquier Ente Público Estatal o Municipal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Instrumentar, gestionar o estructurar esquemas globales de financiamiento a favor de los municipios, en cuyo caso, tendrá la facultad de celebrar fideicomisos irrevocables de distribución, administración y fuente de pago de financiamiento a Municipios, con la afectación de ingresos por participaciones o aportaciones federales o estatales que les correspondan;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Analizar y pronunciarse respecto de la capacidad de pago de los Entes Públicos Estatales o Municipales que soliciten la garantía del Estado, así como formalizar mediante convenio los Programas de Ajuste Fiscal para dotar de sostenibilidad a las finanzas públicas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Conducir, en el ámbito administrativo, la administración y gestión integral de la Deuda Pública u Obligaciones Financieras de los Entes Públicos estatales, así como establecer planes, proyectos o acciones de mejora en la calidad crediticia de los entes públicos;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "reglamentar y conducir, por conducto de la Secretaría, los procedimientos de contratación, emisión, colocación y amortización de financiamientos y el rescate de títulos de deuda pública estatal; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Llevar el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios, en el que se inscribirán la totalidad de las obligaciones y financiamientos celebrados directa o indirectamente por los Entes Públicos estatales y municipales, dotando de transparencia fiscal a las condiciones de contratación, así como a los procedimientos de los mismos, publicar la información del mismo en medios electrónicos en términos de la Ley de Disciplina, de la legislación en materia de transparencia y demás que resulte aplicable"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Para el caso de autorizaciones específicas para la contratación de financiamiento o asunción de obligaciones no ejercidas o ejercidas parcialmente por los Entes Públicos Estatales, tramitar la renovación de la vigencia de las mismas ya sea en el proceso de emisión de la ley de ingresos correspondiente o mediante decreto específico, si persiste la necesidad de financiamiento;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Previa aprobación del Congreso del Estado celebrar convenios con la Secretaría de Hacienda y Crédito Público para la adhesión a los mecanismos de contratación de Deuda Estatal Garantizada regulados en la Ley de Disciplina;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Informar a la Auditoría Superior del Estado al rendir la cuenta pública correspondiente tanto la situación que guarda la Deuda Pública Directa y Contingente a cargo del Estado como las operaciones financieras complementarias o accesorias realizadas durante el ejercicio fiscal, tales como la contratación de instrumentos derivados, adquisición de coberturas, garantías colaterales, celebración de adecuaciones, modificaciones, refinanciamiento, reestructura o cualquier otro acto vinculado a los financiamientos adquiridos directa o indirectamente por el Estado o aquéllos en que participe como garante;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Vigilar, a través de la Secretaría, que los Entes Públicos Estatales adquieran el financiamiento autorizado en las mejores condiciones de mercado, amorticen su deuda y liquiden los intereses y demás pagos a que haya lugar, así como establezcan programas de mejora en la administración financiera de la deuda pública, en su calidad crediticia y situación financiera, para tal efecto, por conducto de la Secretaría podrá convenir la dirección, instrumentación y conducción de los procesos competitivos de los Financiamientos que constituyan Deuda Pública Contingente para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Vigilar, a través de la Secretaría, la capacidad de pago de las Entes Públicos Estatales y realizar las acciones necesarias para dotar de sostenibilidad y sustentabilidad a las finanzas públicas de dichos entes, a través de convenios o planes de ajuste financiero o fiscal;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "A solicitud de los Municipios brindarles la asesoría técnica, financiera y legal en los procesos de contratación de financiamiento, análisis de capacidad de pago, diagnóstico financiero o programas de ajuste fiscal, que les permita acceso al financiamiento en las mejores condiciones disponibles en el mercado y con apego a los principios previstos en esta ley;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "De conformidad con lo previsto por el artículo 51, fracción VIII, de la Ley de Disciplina, a solicitud de los municipios y los entes públicos municipales, emitir, por conducto de la Secretaría, la opinión respecto de la suficiencia de ingresos de los Municipios que contraten financiamiento para el registro estatal y federal de los mismos, para lo cual, emitirá las disposiciones normativas relacionadas con los requisitos generales de información, indicadores financieros y demás condiciones a satisfacer por los entes públicos municipales que soliciten la misma; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás que le confieran en la materia otras leyes federales o estatales."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "A efecto de mantener la estabilidad de las finanzas públicas estatales o Municipales, el Ejecutivo del Estado por conducto de la Secretaría podrá realizar la contratación de operaciones de Financiamiento a cargo de otros Entes Públicos Estatales o Municipales y su posterior cesión onerosa, descuento o venta a Instituciones Financieras, a efecto de mantener el plazo de vigencia original de las mismas. En estas operaciones el Ejecutivo del Estado deberá recuperar al menos el monto de los recursos erogados para la adquisición de los derechos de crédito ya sea directamente en las operaciones de cesión onerosa o venta o con cargo al Ente Público apoyado.\nLo anterior previo acuerdo con las partes interesadas y de conformidad con la disponibilidad presupuestal de recursos para dicho apoyo financiero.\nEstas operaciones deberán informarse al Congreso del Estado, por conducto de la Auditoría Superior del Estado al rendir la Cuenta Pública.\nNo podrá brindarse este apoyo financiero en Obligaciones de corto plazo o asumidas por un Ente Público sin la previa autorización del Congreso del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Cuando alguno de los Entes Públicos Estatales o Municipales requiera que el Estado se constituya como garante, obligado solidario, subsidiario, sustituto u otorgue su aval deberá formular la solicitud por escrito y presentarla al Ejecutivo del Estado a través de la Secretaría, señalando que el\nempréstito se prevé en su programa financiero, acompañando la información que permita dictaminar su capacidad de pago y de endeudamiento, la inversión pública productiva a ejecutar, indicando claramente los recursos que se utilizarán para el pago de los financiamientos y las garantías correspondientes.\nLa Secretaría resolverá lo conducente en un plazo que no excederá de treinta días hábiles siguientes a la presentación de la solicitud, siempre y cuando se hayan cumplido los requisitos exigidos en el párrafo anterior.\nSi de la evaluación que realice la Secretaría a las solicitudes de garantía del Estado, se desprende que la capacidad de pago o de endeudamiento del Municipio o de la Entidad Pública Estatal o Municipal solicitante es insuficiente, se negará la garantía del Estado y se remitirá al solicitante copia del análisis efectuado.\nLos criterios de evaluación deberán implementarse de manera general y con base en indicadores financieros objetivos; así mismo, al emitir la negativa respecto de la capacidad de pago de una entidad se propondrá a la misma las acciones de ajuste en su gasto ordinario o incremento de ingresos necesarios para alcanzar los indicadores financieros establecidos.\nLa respuesta de autorización a la solicitud que en su caso se emita por el Estado se deberá adjuntar a la promoción de la autorización del financiamiento u obligación correspondiente",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Como alternativa a la solidaridad o garantía del Estado, el Ejecutivo del Estado deberá gestionar a favor de los Municipios con limitado acceso a financiamiento o bien, que carezcan de historial crediticio o no cuenten con calificaciones específicas de calidad crediticia esquemas globales de financiamiento sin perjuicio de brindar apoyo técnico y de gestión en la contratación de financiamiento a los Municipios que así se lo soliciten.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Atribuciones de los Ayuntamientos",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "Los Entes Públicos Municipales para adquirir Financiamiento o asumir Obligaciones, así como al afectar cualquiera de sus ingresos como fuente de pago o garantía de sus obligaciones deberán obtener la previa autorización del Congreso del Estado.\nA efecto de presentar la iniciativa correspondiente ante el Congreso del Estado el Ayuntamiento del Municipio correspondiente deberá haber aprobado la contratación del financiamiento o de la obligación financiera por mayoría de sus integrantes, salvo que tengan como plazo de pago un término mayor al de la administración municipal, en cuyo caso deberá autorizarse por las dos terceras partes de los integrantes del Ayuntamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Los Ayuntamientos en materia de contratación de financiamiento y obligaciones, tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar y aprobar sus programas financieros anuales dentro de un apartado específico de las leyes de ingresos municipal, en términos de lo dispuesto por la Ley de Disciplina remitiéndola al Congrego del Estado para su autorización. Este apartado incluirá un informe actualizado de las obligaciones adquiridas por el Municipio y sus demás Entes Públicos municipales, el análisis de su propia capacidad de pago e historial crediticio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Solicitar la aprobación, en Ley de Ingresos municipal correspondiente o en Decreto específico, la autorización del Congreso del Estado para la contratación de operaciones de financiamiento o la asunción de obligaciones, constitutivas de Deuda Directa o Contingente, y, en su caso, la afectación en garantía o como fuente de pago de los ingresos propios o de los ingresos por aportaciones o participaciones en ingresos federales o estatales que le correspondan al Municipio;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar al Presidente Municipal, conjuntamente con el Síndico Municipal, Secretario del Ayuntamiento y el Tesorero o Encargado de la Hacienda Municipal, la suscripción conjunta de los instrumentos preliminares y definitivos o actos relacionados con la formalización y estructuración de los financiamientos autorizados, sus garantías, mecanismos de fuente de pago, colaterales financieros, afectación de ingresos, calificación,\ngarantía de pago oportuno, mandatos, instrucciones irrevocables o convenios, dentro de los límites y condiciones autorizados por el Congreso del Estado y en los términos de la Ley de Disciplina;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Celebrar o adquirir Obligaciones de corto plazo para la atención de las necesidades de liquidez del Municipio, conforme a los limites y términos legalmente autorizados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar la reestructuración, refinanciamiento, adecuación, modificación o sustitución de los financiamientos previamente adquiridos por el Municipio o los demás Entes Públicos Municipales notificando a la Auditoria Superior del Estado tales acciones, con la justificación jurídica y financiera que avale la decisión, al rendir la cuenta pública. Si las operaciones anteriores exceden los términos del decreto original de autorización o implican el cambio al esquema o plazo de amortización previamente pactado, se requerirá autorización del Congreso del Estado y, en su caso, del Ejecutivo del Estado, cuando este último funja como garante, aval, obligado solidario, subsidiario o sustituto del Municipio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Autorizar la adhesión del Municipio a los esquemas globales de financiamiento estructurados y/o gestionados por el Gobierno del Estado y previamente autorizados por el Congreso del Estado, otorgando como garantía y/o fuente de pago los derechos y/o las cantidades que les correspondan de manera individual por concepto de aportaciones o participaciones en ingresos federales y/o estatales o ingresos propios, susceptibles de afectación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, Financiamiento u Obligaciones, así como la que le solicite el titular del Poder Ejecutivo del Estado o la Secretaría, respecto de los financiamientos en que el Estado se hubiese constituido como su aval, deudor solidario, subsidiario, sustituto o garante del Municipio;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Integrar, para efectos de control, registro y transparencia, un registro contable municipal de los Financiamientos y Obligaciones asumidas en el que inscribirá el total de los financiamientos que adquiera, las garantías otorgadas, el plazo original de pago pactado, las condiciones jurídicas y financieras vigentes, registro que publicará y mantendrá actualizado en la página oficial del municipio como información fundamental;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Previa aprobación del Congreso del Estado celebrar convenios con la Secretaría de Hacienda y Crédito Público para la adhesión del Municipio a los mecanismos de contratación de Deuda Estatal Garantizada regulados en la Ley de Disciplina;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Informar a la Auditoria Superior del Estado al rendir la cuenta pública correspondiente tanto la situación que guarda la Deuda Pública Directa y contingente a cargo del Municipio como las operaciones financieras complementarias o accesorias realizadas durante el ejercicio fiscal, tales como la contratación de Instrumentos derivados, adquisición de coberturas, garantías colaterales, celebración de adecuaciones, modificaciones, refinanciamiento, reestructura o cualquier otro acto vinculado a los financiamientos adquiridos directa o indirectamente por el Municipio o aquéllos en que participe como garante;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Vigilar que los Entes Públicos Municipales adquieran el financiamiento autorizado en las mejores condiciones de mercado, amorticen su deuda y liquiden los intereses y demás pagos a que haya lugar, así como establezcan programas de mejora en la administración financiera de la deuda pública, en su calidad crediticia y situación financiera; para tal efecto, por conducto del encargado de la hacienda municipal podrá convenir la dirección, instrumentación y conducción de los procesos competitivos de los Financiamientos que constituyan Deuda Pública Contingente para el Municipio;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Vigilar la capacidad de pago de los Entes Públicos Municipales y realizar las acciones necesarias para dotar de sostenibilidad y sustentabilidad a las finanzas públicas de dichos entes, a través de convenios o planes de ajuste financiero o fiscal; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las demás que en materia de deuda pública le corresponda conforme a la Ley de Disciplina, éste ordenamiento y las demás disposiciones legales aplicables.\nEl Presidente Municipal, Síndico y Tesorero o Encargado de la Hacienda Municipal, serán los responsables de presentar ante el Registro Estatal de Obligaciones del Estado de Jalisco y sus Municipios, cualquier Financiamiento u Obligación Financiera, garantía o afectación de ingresos celebrada por el Ayuntamiento o ente público municipal correspondiente a inscripción, de manera previa a la disposición o desembolso respectivo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Atribuciones de los Órganos de Gobierno de los Entes Públicos Paraestatales o Paramunicipales",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "Los Entes Públicos Paraestatales y Paramunicipales, para adquirir Financiamiento o asumir Obligaciones, así como al afectar cualquiera de sus ingresos como fuente de pago o garantía de sus obligaciones deberán obtener la previa autorización del Congreso del Estado, tramitada por conducto del Titular del Poder Ejecutivo o del Ayuntamiento correspondiente.\nLos organismos públicos intermunicipales, por conducto de su órgano de gobierno, pondrán a consideración la iniciativa correspondiente, la cual deberá ser suscrita por la mayoría de los Ayuntamientos correspondientes a los Municipios que participen en su órgano de gobierno.\nA efecto de presentar la iniciativa correspondiente ante el Congreso de! Estado, el órgano de gobierno correspondiente deberá haber aprobado la solicitud de autorización para la contratación del Financiamiento o de la Obligación Financiera por mayoría de sus integrantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Los órganos de gobierno o equivalentes del Ente Público Paraestatal y Paramunicipal, en materia de contratación de Financiamiento y Obligaciones, tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar y aprobar sus programas financieros anuales dentro de un apartado específico y remitir los mismos a la Secretaría o al Ayuntamiento correspondiente para, en su caso, su inclusión en los proyectos de Ley de Ingresos respectivos. Este apartado incluirá un informe actualizado de las obligaciones adquiridas previamente por el Ente Público, el análisis de su propia capacidad de pago e historial crediticio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Solicitar en los términos de la fracción anterior, la aprobación por parte del Congreso del Estado de la contratación de operaciones de Financiamiento o la asunción de Obligaciones, constitutivas de Deuda Directa o Contingente, y, en su caso, la afectación en garantía o como fuente de pago de los ingresos propios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autorizar al Director General del Ente Público o su equivalente, para que conjuntamente con el encargado de la administración financiera del mismo o equivalente, lleve a cabo la suscripción en las mejores condiciones de mercado, celebren los instrumentos preliminares y definitivos o actos relacionados con la formalización y estructuración de los financiamientos autorizados, sus garantías, mecanismos de fuente de pago, colaterales financieros, afectación de ingresos, calificación, garantía de pago oportuno, mandatos; instrucciones irrevocables o convenios, dentro de los límites y condiciones autorizados por el Congreso del Estado; IV. Autorizar la reestructuración, refinanciamiento, adecuación, modificación o sustitución de los financiamientos previamente adquiridos, considerando las disposiciones de la presente Ley y la Ley de Disciplina, notificando a la Auditoria Superior del Estado tales acciones, con la justificación jurídica y financiera que avale la decisión, al rendir la cuenta pública. Si las operaciones anteriores exceden los términos del decreto original de autorización o implican el cambio el esquema o plazo de amortización previamente pactado, se requerirá autorización del Congreso del Estado y, en su caso, del Ejecutivo del Estado o del Ayuntamiento, cuando alguno de ellos funja como garante, aval, obligado solidario, subsidiario o sustituto del Ente Público;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Informar a la Auditoria Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la Deuda Pública Directa y Contingente del Ente Público, así como de las operaciones de reestructura, refinanciamiento, modificación, adecuación y demás realizadas, incluyendo la contratación, términos y condiciones, de los accesorios financieros contraídos con relación a las mismas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, Financiamiento u Obligaciones, así como la que le solicite el titular del Poder Ejecutivo del Estado o la Secretaría, tratándose de Entes Públicos Estatales o la que le requieran el Ayuntamiento o el Tesorero o Encargado de la Hacienda Municipal, tratándose de Entes Públicos Municipales o intermunicipales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Integrar, para efectos de control, registro y transparencia un registro de los Financiamientos y Obligaciones asumidas por el Ente Público. En el que inscribirá el total de los financiamientos que adquiera, las garantías otorgadas, el plazo original de pago pactado, las condiciones jurídicas y financieras vigentes, registro que publicará y mantendrá actualizado en su página oficial; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que en materia de deuda pública le correspondan conforme a este ordenamiento y las\ndemás disposiciones legales aplicables.\nEl Director General y el Director de Finanzas o sus equivalentes, serán responsables de presentar ante el Registro Estatal de Obligaciones del Estado de Jalisco y sus Municipios, cualquier Financiamiento u Obligación Financiera, garantía o afectación de ingresos celebrada por el Ente Público correspondiente, a inscripción de manera previa a la disposición o desembolso respectivo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Programación y Presupuestación del Financiamiento Público",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "Los Entes Públicos Estatales y Municipales únicamente podrán promover iniciativas o solicitudes de Financiamiento o la asunción de Obligaciones para el desarrollo o ejecución de obras, proyectos o adquisiciones que, además de corresponder a inversiones públicas productivas, se encuentren vinculadas con acciones previstas en sus respectivos planes o programas de desarrollo. Lo anterior, salvo la solicitud de Financiamiento para afrontar eventos extraordinarios, programas de reconstrucción con motivo de desastres naturales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Sin perjuicio de la facultad de promover la autorización legislativa para acceder a Financiamiento o asumir Obligaciones mediante decretos específicos, las cantidades que se pretendan ejercer por los Entes Públicos Estatales y Municipales en cada ejercicio fiscal deberá preverse en la Ley de Ingresos de Estado o en la respectiva Ley de Ingresos del Municipio.\nLas operaciones de financiamiento que se autoricen por parte del Congreso a los Entes Públicos Estatales o Municipales, mediante un decreto específico, incrementarán los ingresos extraordinarios disponibles en el ejercicio, así como las previsiones de gasto de los presupuestos de egresos, de manera proporcional al monto en que sean efectivamente ejercidos y en los conceptos autorizados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "El pago anual de capital e intereses de la deuda pública, así como los pagos derivados de otro tipo de Financiamientos u Obligaciones, incluyendo Proyectos de Inversión y Prestación de Servicios deberá incluirse en el presupuesto de egresos anual de los Entes Públicos Estatales y Municipales.\nLas partidas necesarias para el servicio de las obligaciones anteriores se consideran de ampliación automática en los respectivos presupuestos de egresos. Las erogaciones con motivo del pago de primas o contraprestación en Instrumentos derivados se podrán realizar con cargo a las partidas relacionadas con el servicio ordinario de los Financiamientos u Obligaciones subyacentes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Procedimientos de Contratación de Financiamiento",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "Una vez autorizada la obtención de financiamiento por el Congreso del Estado, los Entes Públicos Estatales y Municipales podrán ocurrir a la contratación del mismo con Instituciones Financieras o al mercado bursátil, de conformidad con la autorización obtenida.\nSi se hubiera optado por solicitar el financiamiento directamente a instituciones financieras se deberán implementar los procedimientos de contratación regulados por la Ley de Disciplina los cuales serán implementados, en el caso del Estado, por la Secretaría y en el caso de los Ayuntamientos, por el Tesorero o Encargado de la Hacienda Municipal; así mismo, tratándose de otros Entes Públicos Estatales o Municipales, los procedimientos serán conducidos por el titular de las mismas y el servidor público encargado de la administración de las finanzas del ente público o equivalente, salvo que se convenga la instrumentación de dicho procedimiento con la Secretaría tratándose de los entes públicos estatales o el encargo de la hacienda pública en el caso de los entes públicos municipales.\nEn el caso de solicitar la autorización para realizar una emisión o colocación bursátil se deberán exponer las ventajas de dicho mercado ante el Congreso del Estado en el trámite de autorización correspondiente y el análisis de los costos integrales frente a la opción de optar por el mercado bancario o financiero directamente.\nLa determinación de la oferta que represente las mejores condiciones de mercado, así como la tasa efectiva más baja, en términos de la Ley de Disciplina, se realizará por el titular de la Secretaría, encargado de la hacienda municipal o su equivalente de cada ente público, en atención a las propuestas efectivamente recibidas oportunamente y con las formalidades generales establecidas en las convocatorias o invitaciones emitidas para la obtención del financiamiento. Para el caso de líneas de crédito global a Municipios, los mismos podrán adherirse a los procesos de contratación de financiamiento instrumentados por la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "La contratación de Financiamientos por parte de los Entes Públicos Estatales y Municipales se realizará de conformidad con las disposiciones de la Ley de Disciplina y sólo podrán transferirse por parte de quien otorgue el financiamiento en cuenta bancaria a nombre del Ente Público contratante; para tal efecto, de manera previa el ente público emitirá los lineamientos o reglas específicas que regirán el proceso competitivo a instrumentarse.\nLos lineamientos o reglas del proceso competitivo a instrumentarse deberán especificar al menos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La determinación, fundada y motivada, del tipo de proceso competitivo a instrumentar de conformidad con el monto de la autorización legislativa otorgada;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El calendario o fechas previstas para los eventos a realizar dentro del proceso competitivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las instituciones financieras que serán objeto de invitación al otorgamiento del financiamiento, exponiendo los criterios de selección, salvo que se instrumente mediante una licitación pública y la convocatoria respectiva no plantee restricciones para la participación de cualquier persona de nacionalidad mexicana;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "la especificación de si los lineamientos o reglas emitidas se aplicarán a un proceso específico de contratación de financiamiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La participación que, en su caso y con fines de transparencia, tendrán el sector social o privado en el proceso;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El funcionario o servidor público facultado para la conducción del proceso, las aclaraciones en el mismo y de resolver las inconformidades que dentro del mismo se presenten;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las Condiciones Generales de contratación aplicables, de conformidad con los requerimientos del ente público y dentro de los límites de la autorización legislativa obtenida;\nLas Condiciones Generales de contratación especificarán las características del financiamiento a obtener para permitir la obtención de ofertas de financiamiento susceptibles de comparación, entre otras el periodo de gracia solicitado, el perfil de amortización, plazos de disposición y de pago, opciones de tasa ordinaria aplicable, fuente de pago o garantías de la operación, mecanismos de fuente de pago a emplearse o constituirse, condiciones jurídicas aplicables y, en su caso, modalidad del financiamiento a adquirir;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los motivos de descalificación de los participantes o invitados, de cancelación o suspensión del proceso, así como la referencia a límites máximos en la tasa o costo de financiamiento;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Los términos, modalidades y condiciones en que se pondrá a disposición de los participantes o interesados la información contable, financiera o jurídica del ente público convocante, así como la relacionada al financiamiento objeto de reestructura o refinanciamiento, en su caso, o de los proyectos de inversión, obra o adquisición objeto del financiamiento;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Los plazos aplicables para la emisión de aclaraciones, especificaciones o cambios a las Condiciones Generales de Contratación, eventos o fechas especificadas en el proceso competitivo;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las especificaciones que regirán el acto de presentación de las ofertas; y"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Las penales convencionales de que serán objeto las instituciones financieras o particulares que incumplen su obligación de financiamiento.\nPara el caso de operaciones de financiamiento en que participen dos o más Entes Públicos, las mismas podrán convenir que una de ellas instrumente el proceso de contratación correspondiente, adhiriéndose a\nsus resultados, sin prejuicio de la obligación del responsable de las finanzas o hacienda pública de que cada ente público debe constatar que se obtuvieron mediante el proceso instrumentado las mejores condiciones de mercado.\nLa contratación de productos financieros derivados, colaterales o cualquier producto financiero vinculado a un financiamiento se realizará con base en el proceso competitivo aplicado a la obligación financiera subyacente salvo que se emitan lineamientos o reglas específicas para su contratación o se trate de productos o garantías colaterales a contraerse con la banca de desarrollo como respaldo de operaciones con instituciones financieras privadas."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Concluido el evento de recepción de ofertas económicas en los procesos competitivos instrumentados, el titular de la Secretaría, el Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada ente público, determinará qué oferta representa el costo financiero más bajo con base en el análisis integral de las comisiones, gastos y accesorios estipulados en las mismas, aplicando para ello las (sic) lineamientos y metodología emitidas por la Secretaría de Hacienda y Crédito Público.\nAl emitir el resultado del análisis comparativo de las propuestas de financiamiento, se identificará cada oferta presentada y el orden que corresponda a las mismas, a partir de aquélla que represente el costo financiero más bajo; resolviéndose la adjudicación en favor de las instituciones financieras o participantes que oferten el costo financiero más bajo y en proporción al monto de financiamiento ofertado.\nSi alguna de las instituciones financieras o participantes no diera cumplimiento a la obligación de celebrar o desembolsar los recursos correspondientes a su oferta, el ente público podrá contratar el financiamiento con la institución o participante que hubiera presentado un segunda mejor oferta sin necesidad de instrumentar un nuevo proceso competitivo, salvo que hubieran transcurrido más de ciento veinte días desde la fecha de presentación de ofertas de financiamiento o el segundo lugar, en su caso, desista en ampliar el monto ofertado para satisfacer la totalidad del requerimiento de financiamiento o decida modificar al alza el costo del financiamiento al haber transcurrido la irrevocabilidad de su oferta, en cuyo caso se deberá llevar a cabo un nuevo proceso.\nEn el proceso de estructuración o negociación de las operaciones de financiamiento no podrán incluirse gastos, costos o conceptos que tenga como efecto un incremento en la tasa efectiva del financiamiento pero sí podrá adecuarse la estructura de comisiones o de revisión de tasa de interés aplicable a efecto de disminuir las mismas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "El titular de la Secretaría o el Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada Ente Público, serán responsables de la evaluación de ofertas de financiamiento y de aplicar los lineamientos y metodología emitidas por la Secretaría de Hacienda y Crédito Público en los análisis que efectúen y conforme a las ofertas de financiamiento efectivamente recibidas; por tanto, no serán responsables de la actualización de comisiones o accesorios contingentes, los ajustes en la calificación crediticia del ente público contratante o de la estructura de financiamiento o cualquier otro evento que afecte las condiciones económicas y tenga por efecto un incremento en el costo del financiamiento o su tasa efectiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "Los entes públicos que instrumenten un proceso competitivo para la obtención de financiamiento podrán fijar en la invitación o convocatoria correspondiente los montos, modalidades, exclusiones y plazos de las garantías de seriedad e irrevocabilidad de las ofertas de financiamiento que se presenten por las instituciones financieras invitadas o interesadas en participar.\nLas instituciones de crédito, así como las instituciones financieras, debidamente autorizadas para operar en México por parte del Banco de México o la Comisión Nacional Bancaría y de Valores, estarán exentas de la obligación de garantizar la seriedad e irrevocabilidad de sus ofertas, sin embargo, en caso de resultar adjudicadas y negarse de manera injustificada a celebrar el contrato respectivo o a desembolsar los recursos ofrecidos, serán responsables de indemnizar al ente público contratante por los daños y perjuicios de su conducta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Si la contratación de financiamiento, afectación de ingresos u otorgamiento de garantías por parte de algún ente público estatal o municipal es parte del proceso integral de contratación de un Proyecto de Inversión y de Prestación de Servicios, proyecto de Obra Pública o Adquisición de Bienes o Servicios Financiados por particulares, el proceso de contratación correspondiente se regirá por la ley aplicable al\nproyecto respectivo, incorporándose en los elementos de evaluación de las ofertas la tasa efectiva correspondiente al financiamiento implícito a otorgar por el licitante.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "A efecto de obtener la autorización legislativa para el financiamiento mediante el mercado bursátil, el ente público deberá fundamentar en el propio documento de colocación, las razones por las cuales el mercado bursátil es una opción más adecuada que el bancario y precisar todos los costos derivados de la emisión y colocación de valores a cargo del Ente Público.\nEn el supuesto que no existieran operaciones de crédito susceptibles de comparación por tratarse de plazos superiores a veinte años, se deberá sustentar la necesidad de un plazo mayor al referido de conformidad con las características de la inversión pública productiva a financiar.\nLa contratación de financiamiento en el mercado bursátil será directamente coordinada por el titular de la Secretaría, el Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada ente público a efecto de confirmar que en el proceso de emisión respectivo se obtuvieron las mejores condiciones de mercado de conformidad con la presente Ley y la Ley de Disciplina, lo anterior sin perjuicio de la asistencia, acompañamiento y asesoría por parte del agente o intermediario colocador colocador (sic) correspondiente.\n. Artículo 37. Las inconformidades por parte de alguna institución financiera o particular participante o invitado en los procesos competitivos para la contratación de financiamiento se resolverán en el ámbito administrativo mediante la presentación por escrito de la misma, en un término de tres días hábiles contados a partir de que se tuviera conocimiento del acto cuya irregularidad se reclame y ante el servidor público facultado para la coordinación general del proceso.\nEl titular de la Secretaría, Tesorero o Encargado de la Hacienda Municipal o su equivalente en cada ente público convocante estarán a cargo de la resolución de la inconformidad presentada.\nEl escrito de inconformidad no será optativo y deberá exponer el motivo de la misma, el agravio ocasionado y las disposiciones legales, reglamentarias o el apartado de los lineamientos o reglas emitidas en relación al proceso que hubieran sido inadecuadamente aplicadas en perjuicio del participante o invitado, incluyendo los efectos para los cuales se promueva la inconformidad correspondiente, adjuntando los anexos que se consideren pertinentes.\nLa interposición de una inconformidad no suspenderá el proceso competitivo ni la contratación del financiamiento requerido. En caso de que al día en que se emita la resolución del recurso, de ser éste procedente, no se hubiera contratado el financiamiento, procederá la reposición de los actos u eventos cuya irregularidad se hubiera acreditado, así como la integración de la propuesta del participante o invitado en la comparación de ofertas recabadas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "Las instituciones financieras que hubieran presentado recursos de inconformidad notoriamente improcedentes o que hubieran incumplido con la obligación de celebrar las operaciones de financiamiento ofertadas, serán inhabilitadas para participar en procesos posteriores por un término de entre 12 y 24 meses, en atención a la reincidencia de sus conductas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo lll Afectación de Ingresos",
+        "Artículos": [
+          {
+            "Artículo": 39,
+            "Texto": "El Estado y los Municipios podrán afectar sus participaciones federales y estatales o aportaciones federales susceptibles de afectación y los ingresos propios de que dispongan, como garantía o fuente de pago de Obligaciones, convenios con la Federación o con entes públicos federales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "En las operaciones en que el Congreso del Estado autorice al Estado para que se constituya en garante, obligado solidario, subsidiario, sustituto u aval de algún Municipio o Ente Público Municipal, el Ayuntamiento respectivo deberá autorizar, por mayoría de las dos terceras partes de sus miembros, la afectación de las participaciones que en ingresos federales o estatales les correspondan al Municipio como fuente de pago de su obligación de resarcir al Estado la afectación económica en caso de ejecución de la\ngarantía estatal otorgada. El Convenio correspondiente deberá suscribirse de manera previa o concurrente a la constitución o formalización de la Garantía del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "En los casos a que se refiere el artículo anterior, la Secretaría estará facultada para emitir opinión sobre la idoneidad de la operación financiera planteada por el Municipio y respecto de la conveniencia de incorporar condiciones de hacer o no hacer en la estructura del financiamiento relacionadas con la estabilidad de las finanzas públicas del Municipio o del Ente Público Municipal que solicite el apoyo o respaldo del Estado al Financiamiento u Obligación Financiera y, en su caso, proponer el convenio de ajuste fiscal correspondiente que permita la sostenibilidad en el largo plazo de la obligación adquirida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Las aportaciones federales susceptibles de afectación derivadas de los fondos que expresamente establece la Ley de Coordinación Fiscal únicamente podrán ser afectadas para garantizar obligaciones en caso de incumplimiento o servir como fuente de pago de dichas obligaciones, siempre y cuando los financiamientos que den origen a las obligaciones se destinen a los fines previstos en dicho ordenamiento.\nLa afectación de las aportaciones federales para el Estado o los municipios se realizará en los términos y modalidades que señala la Ley de Coordinación Fiscal.\nNo se podrán afectar en garantía o como fuente de pago más de 25% de los recursos que anualmente le correspondan al Estado o Municipio respecto de los fondos de aportaciones federales.\nTratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.\nEl Ejecutivo del Estado deberá someter a la autorización del Congreso del Estado, la implementación de esquemas globales de financiamiento y garantías o fuente de pago cuando lo requiera, con la afectación de las aportaciones federales en términos de la legislación federal. Así mismo, el Ejecutivo del Estado deberá someter a la autorización del Congreso del Estado la constitución de los mecanismos para efectuar dicha afectación.\nLos municipios que así lo decidan y cumplan con los demás requisitos previstos en la Ley de Coordinación Fiscal, podrán adherirse a los esquemas globales antes mencionados, otorgando como garantía o fuente de pago las cantidades que les correspondan de manera individual por concepto de aportación federal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": 43,
+            "Texto": "El Estado, por conducto de la Secretaría, podrá otorgar empréstitos o Financiamiento a los Entes Públicos Estatales o Municipales, así como éstas al Estado o entre ellas mismas, siempre y cuando se restituya su importe y el respectivo costo financiero que deberá ser equivalente o menor a las condiciones de mercado imperantes en el momento de la firma de las obligaciones dentro de un plazo que no exceda el período de su administración y se destinen a obras o acciones de inversión pública previstas en sus respectivos presupuestos, informándose al Congreso del Estado al rendir la cuenta pública correspondiente, cumpliendo con las disposiciones relativas a los financiamientos en los términos de la presente ley.\nDichos financiamientos no se constituirán o tendrán como origen los fondos de pensiones de los trabajadores del Estado.\nTratándose de empréstitos del Estado a los Municipios los mismos se realizarán a cuenta de sus participaciones federales y estatales, dentro del monto autorizado en el presupuesto de egresos del Estado, y el plazo de pago no podrá exceder al período constitucional del Ejecutivo del Estado ni del Ayuntamiento acreditado.\nLos anticipos a cuenta de participaciones del Estado a los Municipios, con una vigencia menor a doce\nmeses no se considerarán empréstitos o financiamientos, independientemente de la fuente de recursos con base en los cuales se otorguen.\nEl Ejecutivo del Estado podrá realizar operaciones de factoraje, descuento o cesión sin recurso, a efecto de recuperar anticipadamente los recursos anticipados a sus Municipios en términos de lo previsto en el presente artículo.\nLas Operaciones Financieras Institucionales deberán ser pagadas totalmente a más tardar tres meses antes de que concluya el periodo la administración correspondiente a la que se encuentren sujetos los Entes Públicos Estatales y Municipales, y no podrán celebrar nuevas operaciones de esta naturaleza durante esos últimos tres meses.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I De la Inscripción",
+        "Artículos": [
+          {
+            "Artículo": 44,
+            "Texto": "Para efecto de un adecuado control, seguimiento y transparencia en el ejercicio del crédito público y otorgamiento de garantías, el Poder Ejecutivo del Estado, por conducto de la Secretaría, llevará un Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios.\nEn el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios se conservará un ejemplar original de los actos, contratos o convenios en que consten las operaciones sujetas a inscripción y cuando por la naturaleza de los mismos no puedan expedirse más de un ejemplar, copia certificada del título de crédito, acta de emisión o documento en que conste la obligación asumida.\nLa Secretaría organizará dicho Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios de tal forma que se identifiquen con claridad y en apartados específicos, al menos, las siguientes operaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Financiamiento a Largo Plazo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Financiamiento a Corto Plazo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Deuda contingente, constituida por Avales, Garantías Solidarias, Subsidiarias o Sustitutas asumidas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proyectos de Inversión y Prestación de Servicios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Obra Pública Financiada;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Adquisiciones contraídas a largo plazo; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Otros compromisos u obligaciones a largo plazo."
+              }
+            ]
+          },
+          {
+            "Artículo": 45,
+            "Texto": "Todas los Entes Públicos que deseen disponer de financiamiento, otorgar garantías, afectar ingresos como fuente de pago de sus obligaciones o ejecutar proyectos de inversión y de prestación de servicios u obras públicas o adquisiciones financiadas, en este último caso que impliquen compromisos presupuestales que trascienda el periodo de su administración, de manera previa a la disposición de recursos o inicio de vigencia de sus obligaciones deberán presentar a inscripción los convenios o contratos en que se documenten las operaciones anteriores ante la Secretaría para efecto de su inscripción en el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios, así como ante la Secretaría de Hacienda y Crédito Público para su inscripción ante el Registro Público Único previsto en la Ley de Disciplina.\nEn el caso de que los Municipios o el Estado contraigan obligaciones de corto plazo la inscripción de los actos, convenios, contratos o títulos de crédito en que se documenten los mismos se deberá presentar de manera previa a su disposición o desembolso, indicando la urgencia, evento extraordinario o necesidad de liquidez que motive la misma; en estos casos la Secretaría se pronunciará respecto a la procedencia de la inscripción en un plazo no mayor a cinco días hábiles contados a partir de la solicitud respectiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "Una vez cubiertos los requisitos fijados para la inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios, se asentará en los documentos presentados a inscripción el sello correspondiente, conservando un ejemplar de los mismos, y emitirá la constancia de inscripción respectiva en la que asentará los siguientes datos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El número progresivo de inscripción que corresponda y su fecha;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El número que le corresponda, en su caso, en el registro de obligaciones y empréstitos de entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El tipo de obligación inscrita y el carácter asumido por el ente público en la misma;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los datos de las autorizaciones emitidas por el Congreso del Estado, del Ayuntamiento y, en su caso, del Órgano de gobierno. En el caso de operaciones de reestructura, refinanciamiento o adecuación que no requieran una nueva autorización legislativa se deberá citar la autorización original;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los datos del acreedor o contraparte del ente público, es decir, con quien se contrató la obligación financiera, el monto asumido en el documento presentado a inscripción, el plazo de pago, las comisiones pactadas, las tasas de interés y garantías que se otorgaron;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El Destino de los recursos o el proyecto público objeto de la operación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "En su caso, Garantías otorgadas o los ingresos públicos afectos como fuente de pago o garantía de las obligaciones, por los entes públicos obligados; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las personas autorizadas para recibir notificaciones, así como los datos de contacto del acreedor o contraparte de la entidad pública solicitante.\nEn las obligaciones en que intervengan dos o más entes públicos se emitirá la constancia correspondiente, sin duplicar la inscripción respectiva."
+              }
+            ]
+          },
+          {
+            "Artículo": 47,
+            "Texto": "La inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios es independiente de la obligación de los entes públicos contratantes de reconocer en su contabilidad pública las obligaciones derivadas de operaciones reguladas bajo la presente ley, así como de mantener el adecuado control y seguimiento en los procesos de integración de su presupuesto, en los términos que establezca la Ley General y las normativas emitidas por el Consejo Nacional de Armonización Contable.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Trámites",
+        "Artículos": [
+          {
+            "Artículo": 48,
+            "Texto": "Para el trámite de inscripción de los actos, convenios o contratos en que consten las obligaciones de los entes públicos estatales y municipales, se deberá presentar ante la Secretaría, solicitud por escrito, suscrita por el representante legal del ente público respectivo, en la que se especifique y acompañe la siguiente información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los datos relacionados con la operación o emisión correspondiente, anexando al menos un ejemplar del instrumento jurídico en el que se haga constar la obligación directa o contingente cuya inscripción se solicita. Se admitirá copia certificada del documento en aquellos casos que la naturaleza del acto no permita hacer dos o más ejemplares;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un ejemplar de la publicación oficial del decreto mediante el cual el Congreso del Estado hubiese autorizado la contratación de la operación o bien, en el caso de reestructura, refinanciamiento o adecuaciones que por sus condiciones no requieran de una nueva autorización legislativa se deberá adjuntar el análisis jurídico y financiero con el que se pretenda acreditar que la nueva operación presentada a inscripción se encuentra dentro de los términos del decreto original, no agrava las condiciones financieras originalmente pactadas, conjuntamente con el decreto de autorización original de la operación objeto de reestructura, refinanciamiento o adecuación. Si el decreto de autorización refiere un monto máximo o límite de financiamiento y en el acto objeto de inscripción se ejerce parcialmente el mismo, el ente público deberá manifestar las operaciones previamente celebradas con fundamento en la misma autorización, si las hubiera;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En su caso, la constancia emitida por el encargado de las finanzas del ente público contrayente en la que confirme que el financiamiento se celebró en las mejores condiciones de mercado, así como la documentación que acredite la instrumentación y resultados del proceso de contratación seguido por el ente público para la celebración del acto objeto de registro; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Tratándose de obligaciones de corto plazo, el ente público contratante deberá presentar la información que acredite contar con los ingresos necesarios para el cumplimiento oportuno de dichas obligaciones o bien, las acciones de ajuste fiscal que liberarán recursos presupuestales a efecto de solventar las obligaciones asumidas.\nLa Secretaría, conforme a las disposiciones generales que emita, podrá requerir al ente público la información financiera, contable o legal complementaria a efecto de evaluar la capacidad de pago del mismo en términos de lo previsto por la fracción VIII del artículo 51 de la Ley de Disciplina.\nLa responsabilidad respecto de la integridad de la información presentada por el ente público en el proceso de inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios será del funcionario o servidor público que suscriba la misma, quien en caso de falsedad, ocultamiento de información o parcialidad en su exposición será sancionado en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin perjuicio de las responsabilidades civiles o penales que correspondan.\nLa Secretaría resolverá dentro del término de diez días hábiles contados a partir del día siguiente de presentada una solicitud de inscripción sobre la procedencia de la misma, mediante la emisión de la constancia de inscripción respectiva, o bien, si existieran requisitos pendientes de satisfacer para su procedencia emitirá el requerimiento de información o documentación.\nEn el caso de operaciones que no sean susceptibles de inscripción por falta de algún requisito la Secretaría notificará al ente público promovente los motivos del rechazo y devolverá los documentos presentados a inscripción, previa certificación de una copia de los mismos para el archivo correspondiente.\nLas resoluciones en materia de inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios serán susceptibles de reconsideración por la Secretaría."
+              }
+            ]
+          },
+          {
+            "Artículo": 49,
+            "Texto": "Los entes públicos al pactar la modificación o adecuación a operaciones previamente inscritas en el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios, deberán sujetar la vigencia de dichas adecuaciones o modificaciones a la previa inscripción del instrumento respectivo ante el propio Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios.\nLa inscripción de obligaciones en el Registro, sólo podrá modificarse en los siguientes términos y condiciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se realizarán previa solicitud por escrito del representante del ente público en la operación correspondiente, acreditando sus representantes su personalidad e interés jurídico ante la Secretaría; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se deberá acompañar al menos un ejemplar original o en su caso copia certificada del instrumento jurídico en el que se haga constar la modificación de la obligación;\nLa Secretaría resolverá dentro del terminó de cinco días sobre la procedencia de la inscripción o no y notificará a las partes interesadas su resolución; de ser favorable asentará en los documentos materia del registro el sello correspondiente y expedirá la constancia relativa a su inscripción citando los datos que correspondan a la inscripción original para efectos de identificación y vinculación respectiva."
+              }
+            ]
+          },
+          {
+            "Artículo": 50,
+            "Texto": "Para la cancelación del registro efectuado, deberá comprobarse el pago total de las obligaciones que fueron materia de registro, la cual puede acreditarse entre otros medios, con la notificación que haga el acreedor en el sentido de que se ha efectuado el pago total correspondiente.\nTratándose de operaciones contraídas e inscritas que hubieran sido objeto de una denuncia, incumplimiento, actualización de condiciones resolutivas o cualquier otra causa que hubiera llevado a que el ente público contratante no obtuviera de su contraparte los recursos extraordinarios o el financiamiento pactado, para su cancelación, el ente público presentará la documentación que acredite dicho supuestos. La Secretaría resolverá bajo el principio de buena fe, sin perjuicio de verificar con la institución acreditante o\nparticular beneficiario de la inscripción los extremos manifestados por el ente público y atender las manifestaciones del mismo a efecto de garantizar la protección de los derechos derivados de la inscripción previamente obtenida.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo lll Publicación de la Información",
+        "Artículos": [
+          {
+            "Artículo": 51,
+            "Texto": "Las solicitudes de inscripción, sus anexos, así como las constancias de inscripción o requerimientos emitidos tendrán el carácter de documentos públicos como información pública fundamental y no serán susceptibles de reserva, salvo respecto de los datos o información confidencial que corresponda a las personas físicas que comparezcan en los documentos respectivos, en los términos de la legislación en materia de transparencia y acceso a la información pública.\nLa Secretaría publicará en la página oficial del Gobierno del Estado todos los datos correspondientes a las obligaciones inscritas por los entes públicos estatales o municipales, así como los análisis, estudios o comparativas que se consideren de interés para exponer el estado o situación financiera de las obligaciones de los entes públicos; la responsabilidad respecto de la actualización de la información publicada será del ente público contratante en términos del artículo 53 de este mismo ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "Los entes públicos con deuda inscrita deberán remitir a la Secretaría mensualmente, dentro de los primeros cinco días del mes que corresponda, el saldo vigente, gastos vinculados al servicio de la deuda, cumplimiento de obligaciones de hacer o no hacer, pactados con los Acreedores correspondientes, actualización de comisiones o gastos originalmente pactados como contingentes, tasa de interés aplicada en el periodo, intereses devengados y pagados, garantías o fuente de pago otorgada y, en su caso, la calificación crediticia del ente público o de la estructura del financiamiento u obligación adquirida y los ajustes a la misma a efecto de que los Poderes Legislativo y Ejecutivo del Estado y el público en general conozcan el estado y evolución de las obligaciones de pasivo asumidas por el Ente Público.\nEl informe mensual anterior será independiente respecto de las obligaciones que en materia de contabilidad o transparencia se impongan al ente público contratante.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Si en el trámite correspondiente a la inscripción de alguna obligación financiera la Secretaría advierte irregularidades legales, en materia de contabilidad o manejo financiero de recursos o inconsistencia en la información, dará vista a las autoridades competentes para los efectos legales que correspondan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "Previo pago de los derechos respectivos, la Secretaría proporcionará, respecto de las operaciones inscritas en el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios, los informes y certificaciones procedentes a los Entes Públicos y a sus acreedores, en este último caso siempre que acrediten su personalidad e interés jurídico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "Los Entes Públicos que celebren cualquiera de las operaciones reguladas por la presente ley, así como los particulares que funjan como contraparte de las mismas en dichos actos y las instituciones fiduciarias que administren los recursos públicos que constituyan garantía o fuente de pago de financiamiento a cargo de cualquier ente público estatal o municipal se encontrarán obligadas a proporcionar a la Secretaría o la Auditoria Superior del Estado, en un término no mayor a quince días hábiles contados a partir de que sean requeridas por escrito para ello, los informes y la documentación vinculada a las operaciones en que participen y con motivo de los procedimientos de registro, revisión, fiscalización, control y seguimiento de las mismas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo I Nulidad de Operaciones",
+        "Artículos": [
+          {
+            "Artículo": 56,
+            "Texto": "Las operaciones de financiamiento público y la afectación de ingresos al servicio o garantía de las mismas serán nulos de pleno derecho y por tanto serán responsabilidad exclusiva del servidor público que hubiera comparecido a la firma de las mismas y autorizado la misma, en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se celebren sin la previa autorización legislativa, cuando la misma sea requisito de contratación en términos de la Ley de Disciplina o del presente ordenamiento; o"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se disponga de a los recursos de forma distinta a lo previsto en el primer párrafo del artículo 31 de esta Ley.\nEn cualquier otro caso, la contravención a las disposiciones de la presente ley en materia de requisitos o procedimientos de contratación de financiamiento dará lugar a la nulidad relativa de las mismas, previa declaración judicial, de conformidad con las disposiciones aplicables conforme a la naturaleza civil o mercantil de la operación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II Infracciones y Sanciones",
+        "Artículos": [
+          {
+            "Artículo": 57,
+            "Texto": "Los servidores públicos que infrinjan las disposiciones de esta ley o las normas que con base en ella se expidan o dicten, serán sancionados por los competentes que señala la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, competentes para investigar, substanciar y sancionar los procedimientos administrativos de responsabilidad en el ámbito estatal o municipal según corresponda, sin perjuicio de la obligación de dar vista o comunicar al ministerio público las conductas o infracciones que puedan constituir algún ilícito penal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "Los servidores públicos estatales y municipales, en su caso, encargados de la aplicación de esta ley, así como los particulares o Instituciones que contraten con los mismos, incurren en responsabilidad y se hacen acreedores a la sanción que corresponda por las siguientes infracciones a la presente ley sin perjuicio de la responsabilidad penal, administrativa, civil o mercantil que adicionalmente proceda:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Obtengan recursos extraordinarios para algún ente público y participen en el desembolso de los mismos, de manera previa a la obtención del registro de los documentos, contratos o actos ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se abstengan de rendir la información o entregar la información requerida por la Secretaría o la Auditoria Superior del Estado en los procesos de verificación, seguimiento, control o registro de las operaciones de financiamiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Omitan la publicación en la página electrónica oficial del ente público de la situación de la deuda pública y obligaciones contraídas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Omitan remitir a la Secretaría la información mensual respecto al estado de la deuda pública u obligaciones contraídas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En el ámbito de sus atribuciones o funciones o con motivo de las mismas tengan conocimiento de actos o conductas contrarías a la presente ley y omitan su denuncia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proporcionen o expongan de manera parcial la información financiera o contable del ente público con objeto de obtener la autorización de un financiamiento o acreditar la capacidad de pago del mismo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Celebren o comparezca al otorgamiento de financiamientos en los que no se especifique el destino de inversión pública productiva que tendrán los recursos extraordinarios que por medio de las mismas obtenga el ente público contratante;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Realicen actos o hechos para simular los procesos competitivos a instrumentarse para la contratación en las mejores condiciones de mercado del financiamiento público de algún ente público;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Realicen los análisis comparativos de ofertas de financiamiento de manera parcial o incompleta, si se acredita que se benefició a alguno de los participantes;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Interpongan recursos de inconformidad notoriamente improcedentes en un Proceso Competitivo para la contratación de Financiamiento con objeto de obstaculizar el mismo;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "De manera injustificada incumplan con las ofertas de Financiamiento, los términos y condiciones para el desembolso de recursos dentro del Proceso Competitivo para la contratación de Financiamiento o en la etapa de instrumentación y desembolso de los mismos;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Celebren o comparezcan al otorgamiento de operaciones de corto plazo en el término de tres meses previos a la conclusión de la administración pública municipal o estatal correspondiente;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Celebran o comparezcan al otorgamiento de financiamiento a entes públicos sin la previa autorización legislativa del mismo, salvo que se trate de operaciones de corto plazo u operaciones de refinanciamiento o reestructura para las que no se exija dicho requisito; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Lleven a cabo cualquier acto, hecho o abstención en contravención a las disposiciones de la Ley de Disciplina, la Ley General, esta ley y a los reglamentos que de ella emanen."
+              }
+            ]
+          },
+          {
+            "Artículo": 59,
+            "Texto": "Sin perjuicio de las indemnizaciones u otras sanciones que procedan, las conductas señaladas en el artículo anterior deben sancionarse, en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco previo otorgamiento de la garantía de audiencia al servidor público o particular al que se impute la misma, con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Con multa de cincuenta a mil veces la Unidad de Medida y Actualización, las conductas previstas en las fracciones I, II, III, IV y V del artículo 58 anterior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Con multa de doscientas a dos mil veces la Unidad de Medida y Actualización, las conductas previstas en las fracciones VI, Vil, VIII, IX y X del artículo 58 anterior;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Con multa de quinientas a cinco mil veces la Unidad de Medida y Actualización, las conductas previstas en las fracciones XI, XII y XIII del artículo 58 anterior; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La reincidencia en las conductas señaladas en la fracción X y XI de! artículo 58 del presente ordenamiento, será sancionado adicionalmente e independientemente de la multa que proceda, con la inhabilitación a la Institución Financiera o particular para participar en procesos competitivos para la contratación de financiamiento público en los Entes Públicos Estatales y Municipales, por un término mínimo de doce y máximo de veinticuatro meses;\nLas multas impuestas en los términos de esta ley constituyen créditos fiscales y deberán fijarse en cantidad liquida y hacerse efectivas mediante el procedimiento administrativo de ejecución."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "No deben imponerse sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se dejó de cumplir. No se considera que el cumplimiento sea espontáneo cuando la omisión sea descubierta por la Secretaría o la Auditoria Superior del Estado o medie requerimiento o cualquiera otra gestión efectuada tendiente al descubrimiento de la infracción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta ley, o de las normas que de ella se derivan, deben comunicarlo al titular del ente público contratante y a la autoridad competente a efecto de proceder como corresponda.\nLa omisión a lo dispuesto en el párrafo anterior debe sancionarse en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco”, con las salvedades establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga la Ley de Deuda Pública del Estado de Jalisco y sus Municipios.\n\nLos ayuntamientos del Estado de Jalisco, antes del 31 de diciembre de 2021, deberán realizarlas adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente\ndecreto.\nTABLA DE REFORMAS Y ADICIONES\nDecreto 27378/LXII/19.- Se reforman los artículos 48, 57, 59 y 61 de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.- Oct. 19 de 2019 sec. XIII.\nDecreto 27393/LXII/19.- Se reforman los artículos 2, 5, 15, 48, 57, 59 y 61 de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.- Nov. 5 de 2019 sec. III.\nDecreto 28413/LXII/21.- Se reforman los artículos 6, 13 primer párrafo, 24 fracción III y último párrafo, 26 fracción VI, 30 segundo párrafo, 32 primer párrafo, 33, 36 tercer párrafo y 37 segundo párrafo de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.- Julio 6 de 2021 secc. V.\nLey de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios\nAprobación: 25 de octubre de 2016\nPublicación: 26 de noviembre de 2016 sec. LI\nVigencia: 27 de noviembre de 2016",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Las operaciones de crédito público y proyectos de inversión y prestación de servicios a cargo del Estado, Municipios, Entes Públicos Estatales o Municipales, los mecanismos de garantía o fuente de pago contratados, el registro, reestructuras y refinanciamientos efectuados con anterioridad a la entrada en vigor del presente decreto se sujetarán a las disposiciones vigentes al momento de su realización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "El titular de la Secretaría dispondrá de las adecuaciones necesarias para la transformación del Registro Estatal de Deuda Pública en el Registro Estatal de Obligaciones de los Entes Público del Estado de\nJalisco y sus Municipios. La transformación del registro anterior no afectará derechos de terceros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "En tanto la Secretaría de Hacienda y Crédito Público no publique la información relativa al Sistema de Alertas al que se refiere la Ley de Disciplina, la Secretaría realizará un estudio técnico respecto a los indicadores establecidos para dicho sistema a efectos de dar cumplimiento a lo establecido en el\nartículo 15 fracción VII de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Los procedimientos licitatorios iniciados antes de la entrada en vigor del presente Decreto se regirán por las disposiciones vigentes al momento de la publicación de la convocatoria pública.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 25 DE OCTUBRE DE 2016\nDiputado Presidente FELIPE DE JESÚS ROMO CUÉLLAR\nDiputada Secretaria IRMA DE ANDA LICEA\nDiputado Secretario JUAN CARLOS ANGUIANO OROZCO\nPROMULGACIÓN DEL DECRETO 25915/LXI/16, MEDIANTE EL CUAL SE EXPIDE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 25 DE OCTUBRE DE 2016.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 7 siete días del mes de noviembre de 2016 dos mil dieciséis.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ\nEl Secretario General de Gobierno ROBERTO LÓPEZ LARA\nTRANSITORIOS DEL DECRETO 28413/LXII/21",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

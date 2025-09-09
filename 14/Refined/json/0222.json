@@ -1,0 +1,2106 @@
+{
+  "0222.JSON": {
+    "Decreto": "Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco. Estados Unidos Mexicanos.\nAlberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente:\nDECRETO\nNUMERO 18770.- EL CONGRESO DEL ESTADO DECRETA:\nSe crea la Ley del Registro Público de la Propiedad del Estado de Libre y Soberano de Jalisco.\nLEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO",
+    "Año_publicación": null,
+    "Título": "LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPITULO I DISPOSICIONES GENERALES Y OBJETIVOS DE LA FUNCION REGISTRAL",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- La presente Ley es de orden público e interés social y tiene por objeto regular la organización y funcionamiento del Registro Público de la Propiedad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- El Registro Público de la Propiedad es la dependencia del Poder Ejecutivo, bajo el control de la Secretaría General de Gobierno, a través del cual proporciona el servicio registral para dar publicidad a los actos y hechos jurídicos que así lo requieran conforme a la ley.\nCon la finalidad de preservar la seguridad jurídica del tráfico inmobiliario el Registro Público de la Propiedad deberá aplicar los principios registrales de publicidad, legitimación, rogación, consentimiento, prelación, calificación, inscripción, especialización y tracto sucesivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimientos Civiles para el Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- El servicio registral se presentará a través de la estructura orgánica prevista en esta Ley, y en su caso, de conformidad a las disposiciones jurídicas aplicables relativas a legislación en materia de firma electrónica en el Estado de Jalisco.\nCada acto deberá estar firmado por un funcionario con fe pública registral que se responsabilizará del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- Para los efectos de la presente Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Código: El Código Civil para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dirección General: La Dirección General del Registro Público de la Propiedad:"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Director General: El Director del Registro Público de la Propiedad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Institución: El Registro Público de la Propiedad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Firma electrónica avanzada: los datos que en forma electrónica son vinculados o asociados a un mensaje de datos y que corresponden inequívocamente al firmante con la finalidad de autentificar el mismo, en los términos previstos en la legislación en materia de firma electrónica en el Estado de Jalisco y por la presente Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Mensaje de datos: la información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos,\nópticos o cualquier otra tecnología de conformidad a lo establecido en la legislación en materia de firma electrónica en el Estado de Jalisco y en la presente Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Registrador: funcionario depositario de fe pública registral;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Registro: el asiento en libros y folios de los actos jurídicos relacionados con la creación, extinción, modificación o transferencia de derechos reales o personales sobre bienes muebles o inmuebles de dominio privado, público o social;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Sistema de información: medio electrónico, óptico o cualquier otra tecnología, utilizable para generar, enviar, recibir, archivar, reproducir o procesar información respecto de los actos registrales contenidos en el acervo documental de la Institución; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Folio Registral: expediente con toda la información referida a un mismo mueble, inmueble o persona jurídica, considerado cada uno de éstos como una unidad registral con historial jurídico propio, cuya información deba ser procesada de manera electrónica o en forma manual."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- El Reglamento de esta Ley que al efecto se expida deberá contener como mínimo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Requisitos y perfiles de las personas para ingresar a la dependencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Circunscripción territorial de cada una de las Oficinas Registrales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Normas técnicas e informáticas del sistema registral;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Métodos y procedimientos del sistema registral;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Requisitos, formas y procedimientos para expedir las certificaciones; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Funciones específicas de los demás servidores públicos de la Institución."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO II DE LA ESTRUCTURA ORGANICA",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "- Para dar cumplimiento a las disposiciones contenidas en el presente ordenamiento, las funciones de la Institución estarán a cargo de la siguiente estructura orgánica:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirección General;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Direcciones de Área:\na) . De Propiedad;\nb) . Jurídica;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": ". Administrativa; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": ". De Informática; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Direcciones de Oficina Registral."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO III DE LA DIRECCION GENERAL",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "- Para ser Director General de la Institución se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser mexicano y no haya optado por otra nacionalidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener cuando menos treinta y cinco años de edad el día de su nombramiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener título de Abogado o Licenciado en Derecho legalmente expedido y registrado, con práctica profesional de preferencia en materia registral o notarial de cuando menos cinco años;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Encontrarse en pleno ejercicio de sus derechos civiles y políticos, y ser de reconocida probidad; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No haber sido condenado por delito doloso."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- El Director General de la Institución tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer la fe pública registral, que podrá ser delegada al servidor público que determine a través de un acuerdo administrativo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar las actividades de la Institución;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Preservar y conservar bajo su más estricta responsabilidad el acervo documental y electrónico que contenga los instrumentos, documentos y avisos propios de la actividad registral."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Vigilar el funcionamiento y exacto cumplimiento de las obligaciones de los demás servidores públicos encargados de realizar la función registral en el Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ordenar y efectuar visitas de trabajo a las oficinas registrales regionales, para cerciorarse de sus necesidades y del buen funcionamiento del servicio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ordenar la reposición o restauración, en su caso, de libros, documentos y sistemas deteriorados, destruidos o extraviados, de acuerdo con las constancias existentes en la Institución y las que proporcionen las autoridades, los notarios públicos o los interesados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Rendir a la Secretaría General de Gobierno, por lo menos una vez al año y cuando se le requiera, el informe del estado que guarde la Institución;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer a la Secretaría General de Gobierno los nombramientos, ascensos y remociones del personal de la Institución, con arreglo a los procedimientos administrativos de selección, valuación y escalafón establecidos en la Ley;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Suscribir conjuntamente con el Director Jurídico los contratos de acceso al sistema de información a que se refiere la Ley;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Representar legalmente a la institución con carácter de apoderado general judicial en los términos del artículo 2207 del Código y con facultades para pleitos, cobranzas y administración y para otorgar poderes o mandatos, a los abogados que a nombre de la Dirección General actúen en los litigios de cualquier naturaleza jurídica en los cuales sea parte;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Comunicar al Secretario General de Gobierno cualquier hecho que pudiere dar motivo a responsabilidad administrativa de los servidores públicos de la dependencia, a efecto de que se proceda a instaurar los procedimientos legales correspondientes;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Designar sólo de entre los funcionarios con fe pública registral establecidos en la Ley, a quien provisionalmente supla las ausencias temporales de los registradores en los casos previstos por la ley;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Procurar aprovisionar a la dependencia de los elementos técnicos que puedan aprovecharse para el óptimo ejercicio de la función registral; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que le otorguen esta Ley, su Reglamento y en general la legislación aplicable en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO IV",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "- A los directores de Propiedad, Jurídico, Administrativo y de Informática les será aplicable el presente capítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Los funcionarios señalados en el artículo anterior deberán reunir los mismos requisitos que para ser Director General con las siguientes excepciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener cuando menos treinta años de edad el día de su nombramiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Director Administrativo deberá tener título profesional registrado en la Dirección de Profesiones de Licenciado en Administración de Empresas o carrera afín; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Director de Informática deberá tener título profesional registrado en la Dirección de Profesiones de Licenciado en Informática, Ingeniero en Computación, o carrera afín."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- Los funcionarios a que alude el presente capítulo tendrán las siguientes obligaciones y facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acatar las disposiciones que emanen de la Dirección General;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Supervisar de manera periódica las oficinas registrales en su respectiva área de competencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Organizar su Dirección para que funcione de manera eficiente;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coordinar al personal a su cargo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar el orden interno e imponer los correctivos disciplinarios legales a que hubiere lugar;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Rendir a la Dirección General dentro de los primeros diez días hábiles de cada mes, un informe completo de actividades realizadas en el mes inmediato anterior en la Dirección a su cargo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dar seguimiento a los Programas que se implementen por la Dirección General, así como cumplir las indicaciones y asistir a las reuniones que se convoquen por la misma;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Firmar la correspondencia de la Dirección a su cargo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Orientar a los usuarios de la institución en áreas de su competencia;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proponer a la Dirección las medidas que estime necesarias para el mejor logro de los objetivos de la Institución;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Autorizar los permisos eventuales de los empleados para dejar de asistir a sus labores por causas justificadas de acuerdo a lo establecido en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Determinar la actividad a desarrollar por el personal a su cargo según las necesidades que demande la Institución;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Excusarse de participar en procedimientos de la Institución en los cuales tenga interés jurídico. Los registradores se excusarán de ejercer la función calificadora cuando, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso el documento se calificará y registrará por el Registrador que designe el Director General, o por él mismo; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que le impongan las leyes y las que deriven de la naturaleza de su cargo o se les"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO V",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "- Corresponde al Director de Propiedad:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer la fe pública registral en su área de competencia y en ausencia de los Jefes de Oficina;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar la legalidad y exactitud de los registros que se practiquen;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Supervisar el proceso de calificación registral de los títulos y documentos presentados para su registro, en los términos y plazos previstos en la presente Ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dar los avisos y proporcionar los informes previstos en los ordenamientos legales correspondientes;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Asesorar a los Jefes de Oficina en todo lo relativo al proceso de calificación registral y certificación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Dar seguimiento a las inconformidades que se susciten con motivo del proceso registral y de certificación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Emitir las opiniones que le sean solicitadas por autoridad competente con relación a las controversias que se susciten con motivo del asiento de inscripciones registrales y expedición de certificaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Suplir en sus ausencias al Director General mancomunadamente con el Director Jurídico;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Proponer al Director General las medidas administrativas que tiendan al mejoramiento de los servicios de inscripción y certificación registrales; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le impongan las leyes y las que deriven de la naturaleza de su cargo o se les"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VI DE LA DIRECCION JURIDICA",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "- Son obligaciones y facultades del Director Jurídico:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Auxiliar al Director General, los directores y coordinadores en todo lo que a su función concierna;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proporcionar asesoría jurídica registral a los usuarios del servicio, de forma gratuita;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Representar legalmente a la Institución, a los directores y demás personal de la dependencia que llegare a requerirlo, como consecuencia del ejercicio de sus funciones, con facultades judiciales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Emitir opinión en los procesos de responsabilidad de los servidores públicos que laboren para la dependencia con arreglo a lo que dispongan las leyes aplicables."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dar seguimiento a las quejas, demandas y denuncias interpuestas contra servidores públicos de la Institución;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer al Director General las medidas que aporten soluciones de carácter jurídico;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Practicar auditorías jurídicas al personal con funciones registrales y jurídicas, previo acuerdo del Director general;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Suplir mancomunadamente con el Director de Propiedad, en las ausencias temporales al Director General;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Ejercer la fe pública registral en los casos y con las modalidades de la fracción anterior;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Colaborar con la Dirección General en la formulación de planes, proyectos y redacción de circulares, así como en las labores de orientación y capacitación jurídica del personal; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que sean compatibles y relativas al aspecto jurídico de la función registral."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VI DE LA DIRECCION ADMINISTRATIVA",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "- Son atribuciones de la Dirección Administrativa:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proporcionar los recursos materiales que sean necesarios para el desarrollo de las funciones inherentes a la Institución de acuerdo a los procedimientos y presupuesto asignados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer, con la aprobación del Director, políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros asignados a las oficinas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener a su cargo los procedimientos relativos a las altas y bajas del personal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Solicitar los servicios de mantenimiento necesarios (sic) preservar en óptimas condiciones las instalaciones físicas y equipos existentes;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Mantener el control de las formas impresas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Efectuar los trámites necesarios para el pago de viáticos para el personal de las oficinas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinar y controlar el uso de los bienes muebles y arrendamientos de inmuebles ocupados por oficinas registrales así como material y equipo asignados a las oficinas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer en coordinación con la Secretaría de Administración y la Dirección General el Programa Anual de Capacitación y Desarrollo de Personal; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás funciones asignadas por el Director General."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VII DE LA DIRECCION DE INFORMATICA",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "- Le corresponde a la Dirección de Informática la organización y administración de los recursos informáticos de la Institución.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- El Director de Informática será responsable de las áreas de Desarrollo e Ingeniería y Soporte Técnico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Para ser Director de Informática se requiere, además de los requisitos señalados en el artículo 11, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener experiencia mínima de 5 años en el área de informática;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Experiencia en análisis, diseño y desarrollo en sistemas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Manejo de base de datos relacionales; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Experiencia en administración de centros de cómputo."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- Son atribuciones y obligaciones del Director de Informática:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrar los recursos informáticos en la oficina central y en las oficinas registrales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar la planeación de la infraestructura informática de las oficinas que componen el registro público, tanto en los equipos de cómputo como en sistemas de información, siguiendo la normatividad del Gobierno del Estado así como la utilización de herramientas tecnológicas para satisfacer los requerimientos de información de la Institución;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Administrar y dar mantenimiento a las bases de datos de la Institución;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Brindar la asesoría, apoyo y soporte necesarios para controlar y mantener en operación las instalaciones de cómputo de las oficinas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular el inventario general de los equipos de cómputo de la Institución y dar cuenta de él al Director de Administración;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Hacer visitas periódicas a las oficinas a fin de constatar que los servicios de cómputo sean los adecuados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Contribuir al alcance de los objetivos del programa integral de modernización de la Institución;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Mantener la integridad y la seguridad de la información procesada en los sistemas informáticos a su cargo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Establecer contacto con otras instituciones afines para intercambiar conocimientos y apoyos; y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás funciones asignadas por el Director General."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VIII DE LAS DIRECCIONES DE LAS OFICINAS REGISTRALES",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "- La Institución desahogará los servicios consignados en esta Ley a través de las Oficinas Registrales.\nCada Oficina Registral operará trescientos mil folios como máximo. Para la apertura de nuevas oficinas registrales podrán transferirse los folios necesarios de aquella con mayor carga de trabajo a la de reciente creación, siempre y cuando se trate de la misma circunscripción territorial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- La demarcación territorial de las oficinas registrales será establecida en el Reglamento de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Por cada oficina registral habrá un Jefe que tendrá las siguientes obligaciones y facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer la fe pública registral en su área de competencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Practicar los registros que le sean solicitados acatando en todo lo conducente lo dispuesto en la presente Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Expedir certificaciones de los asientos registrales a su cargo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Efectuar el proceso de calificación registral de los títulos y documentos presentados para su registro, en los términos y plazos previstos en la presente Ley, ordenando, denegando o suspendiendo los mismos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar con su firma los registros o anotaciones que se practiquen, así como las certificaciones y cancelaciones previstas por la Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Dar cuenta a la Dirección Jurídica de las demandas y denuncias en las que él o personal a su cargo sean parte con motivo del ejercicio de sus funciones y representar legalmente a la Institución en su circunscripción como apoderado judicial."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinar al personal a su cargo para el óptimo funcionamiento, vigilando la disciplina interna y dictando las medidas legales necesarias para mantenerla;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Rendir a las direcciones de Propiedad y Jurídica, dentro de los primeros cinco días hábiles de cada mes, un informe completo de las operaciones realizadas en el mes inmediato anterior de la oficina a su cargo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Dar seguimiento a los Programas que se implementen por la Dirección General, así como cumplir las indicaciones y asistir a las reuniones que se convoquen por la misma;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dar los avisos y proporcionar los informes previstos en los ordenamientos legales correspondientes;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Firmar la correspondencia de la oficina a su cargo;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Orientar gratuitamente a los usuarios de la Institución en asuntos relativas al registro de sus documentos;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Revisar los documentos presentados, calificarlos e inscribirlos o denegarlos de acuerdo a las reglas del sistema y procedimiento registral, previstas en la presente Ley;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Rendir a las autoridades los informes que le sean solicitados oficialmente, previa autorización del Director Jurídico;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Colaborar con los directores de área en la formulación de planes, proyectos y redacción de circulares, así como en las labores de orientación y capacitación de personal de la oficina de su adscripción;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Proponer a los directores de área las medidas que estime necesarias para el mejor logro de los objetivos de la Institución;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Turnar a la Dirección de Administración las solicitudes de permisos eventuales de los empleados para dejar de asistir a sus labores por causas justificadas;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Dar cuenta a la Dirección Jurídica de las faltas administrativas de los servidores públicos a su cargo que pudieren dar causa a procedimientos administrativos;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Excusarse de ejercer la función registral cuando él, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad, tengan algún interés o actúen como notarios en el asunto sobre el que verse el documento a registrar. En este caso turnará al Director de Propiedad al (sic) asunto para su calificación y registro, en su caso; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás que le impongan las leyes y las que deriven de la naturaleza de su cargo o se les"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO I DE LOS SERVICIOS QUE PRESTA EL REGISTRO PUBLICO Y DE SUS EFECTOS LEGALES",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "- La Institución es Pública, para tal efecto deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Poner a disposición de los notarios y público en general los folios, libros y archivos que obren en la institución;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Expedir constancias o certificaciones relativos a:\na) Inscripción o no inscripción;\nb) Gravamen o libertad de gravamen, limitaciones de dominio; y en su caso que contenga las medidas provisionales o cautelares que en materia de extinción de dominio se hayan dictado."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Bienes o personas jurídicas; y"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Las demás que de acuerdo a esta Ley y su Reglamento deban expedirse;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Expedir las copias certificadas de los asientos registrales y demás documentos que formen parte del acervo registral, en los casos permitidos por la Ley; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Expedir los certificados de los registros individuales existentes en la institución respecto de usos y destinos de predios y fincas, conforme a la zonificación autorizada en los planes y programas de desarrollo urbano.\nLa prestación de los servicios a que se refieren las fracciones que anteceden, se condicionará al pago de los derechos que correspondan y a las disposiciones contenidas en esta Ley y su Reglamento.\nTodos los servicios registrales y documentos a que hacen referencia las fracciones II, III y IV del presente artículo proporcionados mediante un mensaje de datos con firma electrónica, de conformidad con la Ley de la materia, tienen plena validez y eficacia jurídica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO II DE LAS CERTIFICACIONES",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- La Institución tiene obligación de expedir, a quien lo solicite, certificaciones literales o en extracto de las inscripciones o constancias asentadas en los libros y demás archivos existentes de conformidad a lo establecido por la presente Ley y legislación en materia de firma electrónica en el Estado de Jalisco. Las certificaciones expedidas por la Institución, cuya información se encuentre contenida en el archivo, tendrán el carácter de documento público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Cuando las solicitudes de los interesados o los mandatos de los jueces o autoridades administrativas no expresaren con claridad los datos de los bienes motivo de la certificación, de las personas o períodos a que ésta ha de referirse, no se expedirá documento alguno, hasta en tanto se aclare la solicitud u orden judicial o administrativa respectiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- Los certificados se expedirán en la forma y términos previstos al efecto en el Reglamento, debiendo contener cuando menos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El nombre del propietario o propietarios del predio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Descripción general, incluyendo superficie, medidas y linderos del predio y porcentaje proindiviso en su caso;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Todas las anotaciones preventivas o definitivas, así como los gravámenes existentes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Limitaciones de dominio, servidumbres y en general cualquier anotación que modifique o extinga cualquier derecho sobre el inmueble; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Derechos de registro."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- La Institución podrá dar acceso a su sistema de información:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En sus instalaciones; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vía remota a quienes lo soliciten, previa celebración de contrato con las condiciones que se establezcan en el Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- La consulta a través del sistema de información no autoriza en ningún caso modificar los contenidos registrales.\nLa violación de lo señalado en el párrafo anterior será sancionado por la Ley Penal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- A los notarios se les otorgará autorización mediante certificado digital, autorizado por la Dirección, mismo que permitirá la solicitud, consulta y la transmisión de documentos de manera remota.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- La inscripción registral de un documento conforme a las prescripciones de esta Ley, da publicidad legal a los actos jurídicos en ellos consignados para que surtan efectos frente a terceros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Para llevar a cabo una inscripción, se requiere el consentimiento de su titular registral, excepto en los casos en que la inscripción sea ordenada por autoridad competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- Los bienes raíces o derechos reales constituidos sobre los mismos, no pueden aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copropietarias, y demás casos señalados en la ley de la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- La inscripción registral no convalida los actos o contratos que sean nulos de conformidad a las disposiciones legales, debiendo en todo caso estarse a lo dispuesto por el Código.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en la Institución aparezcan con derecho para ello, no se invalidarán en cuanto a terceros de buena fe, una vez inscritos, aunque después se anulen o resuelva el derecho del otorgante mediante sentencia de autoridad competente.\nLo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos, ni contratos que se ejecuten u otorguen, violando una ley prohibitiva de interés público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- Cuando se hubiere hecho alguna anotación en los registros de la Institución respecto al carácter litigioso de los bienes, o porque se haya reclamado la nulidad del título del otorgante, el adquirente sufrirá las consecuencias de la nulidad, una vez declarada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- Salvo prueba en contrario, se presume que el derecho registrado existe y que pertenece a su titular en la forma expresada en la inscripción o anotación respectiva. De igual forma se presume que el titular de una inscripción, tiene la posesión del inmueble inscrito.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- Las inscripciones de los actos jurídicos en la Institución tienen efectos declarativos y no constitutivos, salvo los casos de excepción que expresamente señale esta Ley y demás ordenamientos aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO III DEL REGISTRO INMOBILIARIO",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "- En el Registro Inmobiliario se inscribirán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los títulos mediante los cuales se creé, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La constitución del patrimonio de familia, sus modificaciones y extinción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La constitución, reformas y extinción del régimen de condominio respecto de un predio o edificación, su reglamento y los nombramientos de administradores del mismo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La afectación de inmuebles al régimen de uso de tiempo compartido y sus modificaciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los contratos de arrendamiento y subarrendamiento de bienes inmuebles a que se refiere el Código;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El contrato de arrendamiento de bienes inmuebles con opción a compra, con las condiciones y términos que tendrán por efecto la transmisión del dominio a favor del arrendatario;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los planes y programas de desarrollo urbano y la zonificación de los centros de población que determine (sic) las provisiones, usos, destinos y reservas autorizadas en los propios planes y programas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las resoluciones que concedan incentivos y precisen los compromisos que deberá cumplir el inversionista para gozar de los mismos, conforme a las disposiciones de la Ley Estatal en materia de fomento económico;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "El contrato traslativo de dominio de bienes inmuebles celebrado con reserva de dominio, la condición resolutoria en las ventas, así como la cláusula rescisoria;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La copia certificada que servirá como título de propiedad a los herederos y que se expida por el Tribunal competente en la que se contengan las actuaciones necesarias para su inscripción;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "El contrato de aparcería rural en los términos que dispone el Código;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "La constitución de fianzas a que se refiere el Código, así como su extinción o modificación;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "La constitución de hipoteca, las modificaciones, y en su caso la extinción;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las resoluciones judiciales en que se declare un concurso mercantil;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "La sentencia ejecutoriada que declare procedente la acción de usucapión; XVI. La cesión de derechos hereditarios;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "El embargo respecto de bienes inmuebles, siempre y cuando éstos obren registrados en la Oficina correspondiente, a favor de la persona que lo motivó, debiendo respetarse los derechos de copropiedad, sociedad legal o conyugal y patrimonio familiar;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "La cédula hipotecaria;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Los acuerdos judiciales en que se admita una demanda, cuyos efectos, en caso de prosperar, alteren la situación de bienes o derechos cuya inscripción en la Institución sea indispensable, debiendo acompañar fianza en los términos del Código;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las limitaciones de dominio constituidas en los términos del Código;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las resoluciones judiciales o administrativas y laudos de árbitros o arbitradores debidamente autenticadas que produzcan cualquiera de los efectos mencionados en la fracción I de este\nartículo;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "La constitución del derecho de superficie, sus modificaciones, transmisión y su extinción;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "La constitución de las servidumbres, sus modificaciones, y su extinción;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Los contratos preliminares de opción y de carta intención, en los términos del Código;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Las resoluciones y decretos expropiatorios de bienes inmuebles;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "La constitución y administración de la copropiedad de inmuebles, así como los convenios o resoluciones sobre división de la misma;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "La fusión de inmuebles;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "La subdivisión de inmuebles en lotes o fracciones que se realicen de conformidad con el Código Urbano para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Las afectaciones agrarias a que se refiere la Ley de la materia;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Los contratos de explotación forestal;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "La consolidación de usufructo;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Las declaratorias de bienes inmuebles Patrimonio Cultural del Estado; y\n\nLas demás resoluciones administrativas, hechos, actos, títulos y contratos que las leyes o decretos ordenen expresamente que sean registrados."
+              }
+            ]
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- Los documentos que se presenten para su inscripción definitiva al Registro Inmobiliario, deberán contener:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La ubicación, superficie, medidas y colindancias de los inmuebles objeto de la inscripción a los cuales afecte el derecho que deba inscribirse; su nombre, número de cuenta predial y clave catastral si los hubiere, y las referencias a la inscripción anterior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La naturaleza, extensión, condiciones o limitaciones del derecho que se constituye, transmita, modifique o extinga;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El precio de la operación si lo hubiere y valor de los bienes o derechos a que se refieren las fracciones anteriores;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Tratándose de hipotecas, la obligación garantizada; las modalidades establecidas; el día cierto en que podrá exigirse su cumplimiento, cuando de la naturaleza de la hipoteca de que se trate sea factible precisarlo; el importe de dicha obligación o la cantidad máxima garantizada, cuando se trate de obligaciones de monto indeterminado; y los intereses, si se causaren, precisando la fecha a partir de la cual deban correr;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los nombres de las personas físicas o jurídicas a cuyo favor se haga la inscripción y los de aquellas de quienes procedan inmediatamente los bienes. En el caso de personas físicas deberán, además, expresarse la nacionalidad, lugar de origen, fecha de nacimiento, estado civil, nombre del cónyuge en su caso, régimen patrimonial de matrimonio y domicilio. Los mismos datos deberán incluirse en el documento respecto a todos los que intervengan en la operación. Tratándose de personas jurídicas deberá acreditarse su existencia legal y la personalidad del representante legal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La naturaleza del hecho o acto jurídico;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La fecha del documento, su número si tuviere y el notario o autoridad que lo haya sancionado; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los demás datos que de acuerdo a esta Ley, al Reglamento y las demás disposiciones legales aplicables, deban contener."
+              }
+            ]
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Serán objeto de registro preventivo dentro del registro inmobiliario:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las demandas relativas a la propiedad de bienes inmuebles y la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos, una vez que hayan sido radicadas por la autoridad judicial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El mandamiento de embargo, las cédulas hipotecarias o las intervenciones que se hayan hecho efectivas en bienes inmuebles del deudor;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demandas promovidas para exigir el cumplimiento de contratos o convenios para dar forma legal al acto o contrato concertado, cuando tengan por objeto inmuebles o derechos reales sobre los mismos, una vez que hayan sido radicadas por la autoridad judicial;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los nombramientos judiciales de representantes de ausentes y las sentencias que declaren la ausencia y la presunción de muerte;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las resoluciones en que se declare un concurso o se admita una cesión de bienes, si hay inmuebles;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las resoluciones judiciales sobre información posesoria, así como la demanda del opositor si la hubiere;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles y derechos reales;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las fianzas legales o judiciales;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "El acuerdo o decreto de expropiación y de ocupación temporal y la declaración de limitación de dominio o de derechos sobre bienes inmuebles;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las resoluciones judiciales en materia de amparo, que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en la Institución;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las cesiones de derechos hereditarios de quien tenga la calidad de heredero o quien lo sustituya;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "El auto que admita una demanda en que se impugne alguna inscripción o registro que obre en la oficina;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Los títulos que se devuelvan sin registrar, si se trata de fincas inscritas;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Los avisos cautelar y preventivo a que se refiere el capítulo VIII del Título III de esta Ley;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las medidas provisionales o cautelares que en materia de extinción de dominio se hayan dictado."
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Los actos, que siendo materia de inscripción preventiva o definitiva, no deba ésta realizarse, por existir de acuerdo al orden de prelación un aviso cautelar que lo impida;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "La inscripción de los Deudores Alimentarios del Registro de Deudores Alimentarios Morosos a que se refiere el artículo 440 del Código Civil del Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Cualquier otro documento relacionado con la propiedad inmueble, que sea anotable preventivamente, de acuerdo con esta Ley y otras leyes aplicables.\nLos registros preventivos se realizarán a través de una anotación dentro del folio correspondiente al inmueble de que se trate.\nEl registro preventivo perjudicará a cualquier adquirente del inmueble o derecho real a que se refiere dicha anotación, cuando la adquisición sea posterior a la fecha de aquella y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la inscripción."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- Los registros preventivos, se considerarán válidos durante el tiempo que la Ley conceda para hacer el registro definitivo y, cuando no se señale término, su vigencia será de tres años, pudiendo refrendarse los mismos, dentro de dicho plazo, en los mismos términos en que el mismo fue practicado.\nSi el Registro definitivo se hiciere en su oportunidad, sus efectos continuarán los del registro preventivo, teniéndose el derecho por registrado desde la fecha de su anotación preventiva.\nAl vencimiento de los plazos a que se refiere el primer párrafo de este artículo podrá pedirse la cancelación de los registros preventivos, la que se hará a petición de parte que acredite tener interés jurídico, salvo los casos en que las leyes que dieron origen al acto registrado preventivamente, señalen expresamente, que dicha cancelación se hará por orden judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- A excepción de los casos en que la anotación preventiva ordene expresamente, por mandamiento de autoridad competente la suspensión de movimientos registrales, los bienes inmuebles o derechos reales a que la misma se refiera, podrán enajenarse o gravarse, sin perjuicio del derecho de la persona a cuyo favor se haya hecho dicha anotación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- Los documentos en virtud de los cuales deba practicarse un registro preventivo contendrán, cuando menos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La descripción del inmueble o derecho relacionado con la misma y sus antecedentes registrales inmediatos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La causa de la inscripción y la persona a quien favorezca la anotación; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los datos señalados en las fracciones VI, VII y VIII del artículo 40.\nLas anotaciones preventivas que se originen en embargo, secuestro, fianza y otros, expresarán la causa que haya dado lugar a aquellas y el importe de la obligación que la hubiere originado."
+              }
+            ]
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- Practicada una anotación preventiva o inscripción definitiva, se harán las referencias a la misma en las otras inscripciones con las cuales se relacione y a las cuales afecte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- La primera inscripción relativa a un inmueble será de dominio o de posesión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- Los Ayuntamientos comunicarán a la Institución los cambios o modificaciones que sean autorizados con los nombres de calles y numeración de fincas o edificios, y de cualquier otro que afecte la identificación de los inmuebles. Los Registradores, con vista de la comunicación, harán constar la modificación en los índices y folios, cuando se practique el siguiente registro, se tomará razón de él, siempre que en el documento presentado se consignen las nuevas circunstancias.\nLos interesados, podrán solicitar por escrito la inscripción del cambio o modificación en el folio, de una nota relacionando el acuerdo del Ayuntamiento, su fecha y las circunstancias que rectifiquen, de conformidad con el correspondiente oficio, haciéndose referencia a los datos de localización en la Institución.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO IV DEL REGISTRO MOBILIARIO",
+        "Artículos": [
+          {
+            "Artículo": 47,
+            "Texto": "En el Registro mobiliario se podrán inscribir:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los contratos de compraventa de bienes muebles sujetos a condición resolutoria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El contrato de compraventa de bienes muebles que sean susceptibles de identificarse de manera indubitable, para los efectos de la cláusula rescisoria;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los contratos de compraventa de bienes muebles, por los cuales el vendedor se reserva el dominio de los mismos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los contratos de prenda, conforme en lo dispuesto por el Código, así como su extinción;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las declaratorias de bienes muebles Patrimonio Cultural del Estado; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los demás documentos y actos jurídicos relacionados con bienes muebles y que la Ley ordene expresamente que sean registrados."
+              }
+            ]
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- Los documentos relacionados con el Registro Mobiliario, deberán contener:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los nombres de los contratantes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La naturaleza del bien mueble objeto del contrato, con precisión de las características o señales que sirvan para identificarlo e manera indubitable;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El precio y la forma de pago estipulados en el contrato, en su caso, el importe del crédito garantizado con la prenda; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los demás datos que deban contener, de acuerdo a esta Ley, al Reglamento respectivo y demás leyes aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- Para que una operación sobre bienes muebles sea objeto de inscripción en la Institución, se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que recaiga sobre bienes muebles susceptibles de identificarse de manera indubitable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que el acto o contrato correspondiente haya sido celebrado dentro de la circunscripción territorial de la oficina ante la cual se presenta el documento; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Que al contrato correspondiente se acompañe copia certificada de los documentos con los que legalmente se acredite la propiedad."
+              }
+            ]
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- Si se trata de ventas con reserva de dominio o sujetas a condición resolutoria, se deberá acompañar copia de la factura, compulsada para tal fin.\nSi el vendedor entrega la factura sin la anotación a que se refiere el artículo siguiente, antes de que se le haya pagado totalmente el precio, perderá el derecho que le da la inscripción del documento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- Inscrita una operación en el Registro Mobiliario, al calce del contrato respectivo, el Registrador dejará constancia de los datos de la inscripción, y en la factura o documento con los que se acredite la propiedad, mencionará además de estos datos, la operación efectuada con el bien mueble.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO V DEL REGISTRO DE PERSONAS JURIDICAS",
+        "Artículos": [
+          {
+            "Artículo": 52,
+            "Texto": "- El registro de personas jurídicas comprende:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles, sus estatutos, los nombramientos de directores, administradores y mandatarios, en su caso, por éstas otorgados, así como su liquidación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los instrumentos que contengan la protocolización de los estatutos de las asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el Registrador que existe la autorización correspondiente de la Secretaría de Relaciones Exteriores;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las fundaciones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La constitución, modificación y extinción del Condominio así como los poderes que se otorguen de acuerdo con la Ley; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La inscripción de poderes de personas jurídicas y su revocación cumpliendo los requisitos que establezca esta Ley y su Reglamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VI DE LA SECCION AUXILIAR",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "- Se inscribirán en la Sección Auxiliar a que se refiere esta Ley y el Reglamento, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo, tanto en los intestados como en las testamentarias y, cuando lo haya, el auto de reconocimiento de legatarios, así como los demás actos relativos a la sucesión que deban ser objeto de registro conforme al Código y al Código de Procedimientos.\nSe inscribirán en esta sección todos los actos o hechos jurídicos que por su naturaleza o disposición de la ley así se señale, además, las declaraciones, capitulaciones y modificaciones relativas a la sociedad conyugal así como la liquidación de la sociedad legal o sociedad conyugal las cuales deberán registrarse observando los requisitos que establece el Código y las normas que especifique el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- Los testamentos ológrafos serán depositados en los términos que dispone el Código.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "El registrador deberá autorizar un libro o medio especial de registro de testamentos ológrafos, para los efectos previstos en el Código y proveerá lo necesario, bajo su responsabilidad, para la debida custodia del ejemplar del testamento depositado, hasta su entrega al mismo testador o al juez competente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- Dentro de los cinco días siguientes al depósito o retiro de los testamentos ológrafos en el Registro Público de la Propiedad, el encargado dará aviso por escrito al Archivo de Instrumentos y a la Fiscalía Estatal acerca de dicha circunstancia.\nIgualmente el encargado del Registro Público de la Propiedad dentro del plazo señalado en el párrafo que antecede, remitirá vía fax o electrónica el aviso de todo testamento ológrafo que reciba a la base de datos del Registro Nacional de Avisos de Testamento, conforme a los convenios que se celebren para tal efecto, en el que se expresarán en caso de tenerlos, los datos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre completo del testador (apellido paterno, materno y nombres);"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Nacionalidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fecha de nacimiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Lugar de nacimiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Clave Única del Registro Nacional de Población (CURP);"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Estado civil;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Nombre completo del padre;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Nombre completo de la madre;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Tipo de testamento;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Lugar y fecha de su otorgamiento; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Datos del registro."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO I DEL SISTEMA Y PROCEDIMIENTO REGISTRAL",
+        "Artículos": [
+          {
+            "Artículo": 56,
+            "Texto": "- Los diversos sistemas registrales aplicables por los funcionarios públicos con fe pública registral deberán garantizar seguridad técnica y jurídica, inviolabilidad y la identificación indubitable de los inmuebles, y se llevará a cabo a través de folios registrales, de acuerdo a cada una de las Secciones que se describen en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "- El Registro de los actos jurídicos registrables, se realizará a través de las siguientes Secciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Sección Inmobiliaria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sección Mobiliaria;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sección de Personas Jurídicas; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Sección Auxiliar."
+              }
+            ]
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- Mediante los sistemas previstos de información se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración, y transmisión de la información registral.\nLa información de las oficinas territoriales estará también contenida dentro de la base de datos central.\nDicho sistema de información y la base de datos del Registro Público de la Propiedad, serán propiedad del Gobierno del Estado.\nEn caso de existir discrepancia o presunción de alteración de la información del Registro Público de la Propiedad contenida en las bases de datos, o en cualquiera de los respaldos que hubiere, prevalecerá la información contenida en el documento que dio origen al registro, salvo prueba en contrario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- El procedimiento de inscripción de actos jurídicos en el Registro Público de la Propiedad se sujetará a las bases siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Estará sujeto a plazos máximos de respuesta;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Constará de las fases de recepción, análisis, calificación, suspensión en su caso, registro, archivo y entrega;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Se autorizará el registro en la base de datos mediante firma del responsable con el fin de generar o adicionar el folio registral correspondiente; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "En el Reglamento de la presente Ley se establecerán las normas técnicas e informáticas así como los métodos y procedimientos del sistema registral de acuerdo con las disposiciones anteriores."
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- La Dirección autorizará al registrador para firmar los actos jurídicos que ingresen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- Los actos jurídicos que son materia de registro deberán estar contenidos según la disposición jurídica que les dé origen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- Ningún registro podrá efectuarse, si no consta que el que lo pretende tiene derecho para pedir que se haga o es apoderado o representante legítimo del que lo tenga, y que se han cubierto las obligaciones fiscales correspondientes. Los notarios públicos podrán solicitar el registro de los actos formalizados ante su fe pública. La forma de presentar las solicitudes y los requisitos para admitir el registro, se determinarán por las disposiciones contenidas en la presente Ley y su Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "- Las resoluciones de autoridad, los actos y contratos otorgados procedentes del extranjero o de otra Entidad de la República sólo deberán registrarse concurriendo las circunstancias siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que de haberse celebrado los actos o contratos en el Estado de Jalisco, o de haberse pronunciado las sentencias en el mismo, hubiere sido necesario su registro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que los documentos estén debidamente expedidos y legalizados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Si fueren resoluciones judiciales o administrativas, se ordene su ejecución por la Autoridad Judicial que corresponda; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Si los documentos respectivos aparecieren redactados en idioma distinto al español, deberán de presentarse debidamente traducidos por perito autorizado por el Supremo Tribunal de Justicia.\nEn todo caso se observará lo previsto en el artículo 103 del Código de Procedimientos Civiles del Estado."
+              }
+            ]
+          },
+          {
+            "Artículo": 64,
+            "Texto": "- A todo instrumento en que se haga constar la transmisión de dominio de un bien registrado, deberá acompañarse el título anterior o bien señalarse expresamente los antecedentes registrales a efecto de asentar las anotaciones respectivas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- El procedimiento de calificación registral se hará conforme a lo establecido en el Reglamento, siendo responsable el funcionario público con fe pública registral de calificar integralmente el documento y de que éste reúna la forma extrínseca establecida en las Leyes y se hayan cubierto previamente las obligaciones fiscales; deberá además analizar los actos consignados en el documento presentado, debiendo considerar los efectos de los avisos cautelar y preventivo a que se refiere esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "- El interesado presentará por duplicado el documento que va a ser registrado expidiendo la institución el recibo correspondiente, el cual deberá contener fecha y hora exacta de presentación, número de entrada, naturaleza del documento, notario o funcionario que autoriza, naturaleza del acto o negocio que se trate, nombres y apellidos de los interesados, datos de registro y documentos que se acompañan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "- La institución dentro de un plazo no mayor a 10 días hábiles deberá elaborar, suspender o denegar el registro.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO II DE LA SUSPENSION Y DENEGACION DEL REGISTRO",
+        "Artículos": [
+          {
+            "Artículo": 68,
+            "Texto": "- Si de la calificación se determina que el documento cumple con todos los requisitos legales, se procederá a su registro; en caso contrario, el registrador suspenderá el procedimiento y llamará, sin dilación, al notario o en su caso al interesado.\nEl notario o interesado tendrá hasta 5 días hábiles para subsanar el procedimiento, si no lo hiciere en este plazo será negado el registro. Subsanado el procedimiento, se retrotraerá el registro a la fecha y hora de su presentación.\nProcede la suspensión en los casos de omisiones o defectos subsanables y la denegación por causas insubsanables.\nEn los casos de suspensión podrá ser subsanado el requisito omitido mediante manifestación escrita y firmada de las partes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "- El registro será denegado en los casos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés y orden público;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando el acto jurídico contenido en el documento presentado no es de los que deban registrarse o anotarse; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real."
+              }
+            ]
+          },
+          {
+            "Artículo": 70,
+            "Texto": "Cuando el funcionario con fe pública registral determine denegar el registro de un documento sin causa justificada que funde y motive, el interesado podrá interponer el recurso administrativo de reconsideración previsto en esta Ley o acudir ante el Tribunal de Justicia Administrativa, siendo, en su caso, necesaria la orden del Magistrado correspondiente, para que se practique su registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "- Cuando se suspenda o deniegue el registro, tratándose de inmuebles inscritos, el funcionario con fe pública registral tiene la obligación de practicar el registro preventivo de haber sido presentado para su registro el título devuelto por haber sido suspendido o denegado y tratándose de inmuebles no inscritos, hará constar al calce del título su devolución, a fin de que, si la Autoridad competente ordena que se registre el título devuelto, el registro definitivo surta sus efectos desde que por primera vez se presentó el título. Si la Autoridad competente confirma la calificación hecha por el funcionario con fe pública registral, se cancelará el registro preventivo.\nTranscurridos tres años sin que se comunique a la institución la calificación que del título cuyo registro ha sido denegado por la Autoridad competente, a petición de parte interesada se cancelará la anotación preventiva, por haber operado la caducidad del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "- Las determinaciones de la institución siempre deberán estar fundadas y motivadas conforme a la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- La institución al recibir una orden judicial o administrativa que decrete un registro, anotación o cancelación, no juzgará su legalidad; sin embargo, de advertir que se contravienen disposiciones legales por las que no deba practicarse el acto solicitado, lo hará saber a la autoridad respectiva. Si a pesar de ello ésta insistiere, se procederá al registro del documento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "- Cuando la determinación del monto de los derechos por servicios registrales se realizara en contravención a la ley de la materia, podrá hacerse el pago bajo protesta, caso en el cual se prestará el servicio registral solicitado; quedando a salvo los derechos del interesado para solicitar la devolución del pago excesivo mediante el ejercicio de los procedimientos legales a que diere lugar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "- Si de la calificación de los documentos presentados para su registro resultare que la misma es improcedente de manera definitiva el solicitante podrá pedir la devolución del pago, conforme a lo establecido en los ordenamientos legales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "- Cuando el servicio registral haya sido requerido por alguna autoridad, los derechos correspondientes serán cubiertos en su caso, por quien le beneficie tal requerimiento, excepto cuando se trate de materia agraria y laboral o lo determinen las leyes de la materia, supuestos en los que se exentará el pago de estos derechos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO III DE LA REPOSICION DE DOCUMENTOS",
+        "Artículos": [
+          {
+            "Artículo": 77,
+            "Texto": "- Procede la reposición de documentos registrados, cuando por su destrucción, mutilación o pérdida, se haga imposible establecer el tracto sucesivo entre los efectuados y los posteriores.\nLa reposición se hará de oficio o a solicitud de parte interesada y de acuerdo a lo establecido en el Reglamento. En todo caso, con vista de los documentos que dieron origen a los registros objeto de reposición o por orden judicial.\nDe lo anterior, el director de la Institución deberá levantar acta circunstanciada.\nLos folios en que consten los asientos repuestos deberán ostentar el sello de “REPOSICION”, en caso de que aparecieren los documentos originales extraviados, se cancelarán, de manera indubitable, los repuestos para evitar duplicidad, trasladándose la información faltante de los repuestos a los originales.\nVerificada la reposición de una inscripción o registro se practicarán las anotaciones que procedan.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO IV DE LA PRELACION REGISTRAL",
+        "Artículos": [
+          {
+            "Artículo": 78,
+            "Texto": "- La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio registral, se determinará por el número de control que otorgue la Institución, el cual se referirá a la fecha completa y hora de su orden de ingreso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "- La preferencia o prelación en los derechos, se determinará por la prioridad de la recepción de los documentos presentados y el control se llevará en un libro único que se denominará de gobierno, el que podrá ser procesado manual, electrónicamente o bajo cualquier sistema confiable, y que deberá ser impreso y firmado diariamente por el responsable de la oficina registral, el cual deberá publicarlo en los estrados de la oficina al día siguiente y encuadernarlo mensualmente para que pueda ser consultado por cualquier usuario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 80,
+            "Texto": "- La preferencia entre derechos que sean registrables sobre un mismo bien, se determina en la siguiente forma:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tratándose de derechos reales, por la prioridad en su registro independientemente de cuándo se hubieren adquirido siempre que la controversia se dé entre adquirientes de la misma calidad.\nLa afectación de bienes en fideicomiso se equipara a una transmisión de derechos reales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tratándose de controversias sobre derechos reales, entre un adquirente a título oneroso y un adquirente a título gratuito, prevalecerá el derecho de quien lo hizo a título oneroso, independientemente de la fecha de su registro siempre que su adquisición se hiciere con anterioridad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tratándose de controversias entre adquirentes de derechos reales a título oneroso y el adquirente de derechos personales, prevalecerá el del titular del derecho real, independientemente de la época de su inscripción en el Registro, con la condición de que su adquisición sea anterior a la inscripción del derecho personal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Si la controversia fuere entre el adquirente del derecho real a título gratuito frente a un adquirente de derecho personal, prevalecerá la de éste último siempre que fuere inscrito con anterioridad a la que motiva el derecho real; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cuando la controversia sea entre adquirentes de derechos personales, la preferencia se determinará por la prioridad en su registro, independientemente de la época de su adquisición."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO V DE LA INSCRIPCION DE LOS PLANES Y PROGRAMAS DE DESARROLLO URBANO",
+        "Artículos": [
+          {
+            "Artículo": 81,
+            "Texto": "- Se registrarán en la Institución, todos aquellos documentos relacionados con el desarrollo urbano, que por virtud de leyes, reglamentos, decretos y otros actos de autoridad, deban ser objeto de publicidad registral.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "- Los registros que deban efectuarse por disposición de las leyes, reglamentos y decretos que regulen la utilización de áreas, predios y fincas, se sujetarán a lo establecido en\ndichos ordenamientos y en lo que corresponda a lo preceptuado en esta Ley, su Reglamento y en las demás disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 83,
+            "Texto": "- El Gobernador del Estado ordenará el registro de un plan o programa municipal de desarrollo urbano o de alguna declaratoria derivada de éstos, si previamente ha sido aprobado por el Ayuntamiento con apego a las disposiciones de la Ley en esta materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "- Los actos y documentos a que se refiere el artículo anterior, deberán ser inscritos en lo general dentro de los veinte días siguientes a la fecha de su presentación a la Institución, anexando la publicación en el Periódico Oficial “El Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "- La Institución deberá trasladar sin dilación alguna a cada uno de los folios en lo particular las disposiciones de los planes o programas que afecten la propiedad inmobiliaria como condición para que surta efectos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VI DE LOS BIENES NO REGISTRADOS",
+        "Artículos": [
+          {
+            "Artículo": 86,
+            "Texto": "- Los bienes podrán ser objeto de primer registro en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En virtud de información de dominio en los términos del artículo 1052 del Código de Procedimientos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Mediante información posesoria previo procedimiento señalado en el numeral 1055 del Enjuiciamiento Civil del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por solicitud respecto de las escrituras ya sean públicas o privadas, que antecedan en su realización al día primero de abril de 1981 previo cumplimiento de los requisitos que señale el Reglamento de la presente Ley;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Como resultado de una resolución judicial tramitada por quien teniendo su título de propiedad en escritura pública respecto de fincas no registradas, éstas hayan sido otorgadas en fecha posterior al primero de abril de 1981;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Mediante el registro del Acuerdo Gubernamental que declare ser bien del dominio del poder público, el inmueble que según el certificado registral que se expida no aparezca registrado en el Registro Público de la Propiedad, de acuerdo al procedimiento que al efecto se señale en el Reglamento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "En virtud de bienes adquiridos por sucesión testamentaria o intestamentaria;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Mediante la adquisición de bienes inmuebles adquiridos a través de venta por autoridad en remate judicial o administrativo;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Como resultado de una resolución administrativa, tramitada con motivo de procedimientos de regularización de predios rústicos, promovidos por el Ejecutivo; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Desincorporación agraria a solicitud de la autoridad competente.\nEl registro de los bienes que se encuentren en los supuestos anteriores se llevará a cabo de acuerdo a lo que establezca el Reglamento de esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 87,
+            "Texto": "- Las promociones que se lleven a cabo para efecto de concluir el procedimiento de usucapión o para inscribir posesión, podrán ser registradas desde que fueren presentadas, si así lo quiere el promovente; pero lo serán en todo caso de oposición, desde que ésta se formalice y juntamente con la demanda del opositor, dando así una idea completa de la situación jurídica de los bienes cuya posesión o propiedad se discute.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 88,
+            "Texto": "- No podrán registrarse mediante información posesoria, las servidumbres continuas no aparentes ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 89,
+            "Texto": "- Tratándose de Títulos de Propiedad fehacientes que tuvieron lugar después del día primero de abril de 1981, para lograr su inscripción deberá llevarse a cabo procedimiento judicial, a efecto de que el juzgado de la jurisdicción del inmueble emita resolución en la que ordene su registro, debiéndose para tal efecto presentar ante dicha autoridad judicial:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Certificado de no registro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Certificado Catastral de 1936 a la fecha en que conste la historia del inmueble y que aparezca a nombre de quien promueve las diligencias;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Certificado de No Adeudo del impuesto predial;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Características del inmueble en donde se señalen medidas, linderos y nombres de colindantes con sus domicilios; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Plano cartográfico con coordenadas, certificado por la autoridad catastral o expedido por peritos.\nCon la documentación anterior el juez del conocimiento ordenará en el auto de admisión notificar a los colindantes y si dentro del término de tres días siguientes a la notificación no existe inconformidad por parte de éstos, se emitirá la resolución en la que se ordene la inscripción del\ntítulo respectivo.\nEn caso de inconformidad de parte legítima, se suspenderá el procedimiento para que se haga valer en cuanto a derecho corresponda."
+              }
+            ]
+          },
+          {
+            "Artículo": 90,
+            "Texto": "- Cualquiera que se crea con derechos a los bienes cuyo registro se solicite mediante información de posesión podrá alegarlo ante la autoridad judicial competente. La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el Juez ponerlo en conocimiento del registrador para que suspenda el registro; y si ya estuviere hecho, para que anote la interposición de la demanda.\nSi el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "- Transcurridos cinco años, contados desde la fecha del registro, sin que en la Institución aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la usucapión, y ordene que se haga el registro correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "En caso de bienes que hayan sido objeto de subdivisión deberá estarse a lo dispuesto en el Código Urbano para el Estado de Jalisco y demás disposiciones aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VII DEL REGISTRO Y REVOCACION DE MANDATOS Y PODERES",
+        "Artículos": [
+          {
+            "Artículo": 93,
+            "Texto": "- El registro de mandatos y poderes será opcional; si se opta por registrarlo debe manifestarse expresamente en el documento que al efecto se realice. Este documento se registrará en la sección auxiliar que señala esta Ley.\nSólo podrán inscribirse los poderes otorgados en el Estado de Jalisco o que se refieran a bienes inmuebles dentro del mismo, con una nota, tratándose de poderes especiales, en la sección de propiedad.\nPara el registro de la revocación de un poder o mandato se requiere que éstos, hayan sido registrados previamente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 94,
+            "Texto": "- La Institución llevará un índice alfabético de los registros de mandatos y poderes y su revocación, que contendrá como mínimo los nombres de los poderdantes y apoderados, los datos de identificación y fecha de presentación del documento que la contiene y el libro y folio registrado en que quedó incorporado el ejemplar del documento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 95,
+            "Texto": "- Las inscripciones de mandatos y poderes y su revocación que se inscriban en la Institución conforme a las disposiciones de esta Ley y demás leyes aplicables, producirán efectos frente a terceros desde el momento de su registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "- La Institución expedirá a cualquier persona que lo solicite, un certificado que informe sobre la existencia, inexistencia o revocación de registros de mandatos y poderes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 97,
+            "Texto": "- Para que sea oponible a terceros, la revocación de mandatos y poderes deberá ser registrada en la oficina registral que corresponda a la adscripción territorial del Notario, ante quien fue otorgado el mandato o poder, no obstante lo anterior, sus efectos de publicidad se extenderán a la competencia territorial de todas las oficinas registrales, a través de la integración de una base única de datos, por lo que deberán extender la certificación respectiva del registro de poderes y su revocación, de manera indistinta al lugar en donde fueron otorgados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 98,
+            "Texto": "- En los mandatos y poderes otorgados en el Estado de Jalisco, los notarios deben anotar en los testimonios que de ellos expidan, la Oficina del Registro Público de la Propiedad en que correspondería tanto inscribir la revocación del mandato o poder, como solicitar el certificado de existencia o inexistencia de registro de revocación del mandato o poder.\nLa omisión de estas anotaciones no harán ineficaces las disposiciones que regulan la inscripción de revocación de poderes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO VIII DE LOS AVISOS CAUTELAR Y PREVENTIVO",
+        "Artículos": [
+          {
+            "Artículo": 99,
+            "Texto": "- El notario, autoridad o titular registral podrá solicitar la inmovilidad registral, cuando vaya a celebrar un acto jurídico por el cual se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea objeto de registro, cumpliendo las siguientes condiciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El notario, autoridad o titular registral, podrán solicitar a la institución, la inmovilidad por un término máximo de cuarenta y cinco días hábiles a partir de su expedición, lo que podrá realizarse a través del sistema informático. En caso de que la solicitud sea presentada por el titular registral, ésta deberá de realizarse por escrito ratificado ante notario; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Deberá señalar respecto de la operación que pretende llevar a cabo:\na) Naturaleza del acto jurídico;\nb) Nombre de los contratantes; e"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Inmueble materia de la operación, señalando sus antecedentes registrales."
+              }
+            ]
+          },
+          {
+            "Artículo": 100,
+            "Texto": "- El Registrador anotará de inmediato la solicitud a que se refiere el artículo anterior, señalando día y hora de la presentación y expedirá al interesado un certificado que incluya el aviso cautelar, con sus limitaciones y gravámenes si los hubiere.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 101,
+            "Texto": "Los efectos de la inmovilidad registral, no producen ningún derecho contractual y durarán cuarenta y cinco días hábiles, contados a partir del día y hora de la expedición del aviso ante el registrador, término que se debe considerar adicionalmente al que concede el aviso preventivo regulado en la Ley del Notariado del Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 102,
+            "Texto": "- Si durante la vigencia del aviso cautelar, y en relación con la misma finca o derechos, se presenta otro documento contradictorio para su registro, éste último será objeto de una anotación preventiva, a fin de que adquiera la prelación que le corresponda, en caso de que se opere la cancelación o caducidad de alguna anotación anterior en caso contrario las anotaciones preventivas de dichos documentos quedarán sin efecto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 103,
+            "Texto": "- Si se presenta el testimonio respectivo para su registro dentro de los términos que señalan los artículos anteriores, surtirá efecto contra terceros desde el día y hora de la presentación del aviso cautelar siempre y cuando exista identidad entre el aviso y la operación celebrada.\nSi el documento se presenta para su registro con posterioridad al término establecido en el presente artículo, su registro sólo surtirá efectos desde la fecha de la presentación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 104,
+            "Texto": "- Cuando se firme una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea registrable el notario que la autorice dará a la Institución, a mas tardar dentro de los dos días hábiles siguientes a aquel en que se haya firmado la escritura, por escrito o cualquier otro medio indubitable, un aviso preventivo en el que conste la indicación del acto jurídico celebrado respecto al inmueble de que se trata, describiéndolo con su superficie, medidas lineales, colindancias, clave y cuenta catastral municipal y demás datos de identificación, así como los nombres de los interesados en la operación, señalando sus generales; en el caso de existir sociedad legal o conyugal, el nombre del cónyuge y el régimen legal; la fecha de la escritura, y la fecha de su firma con la indicación del número y sección en que estuviere inscrita la propiedad en la Institución.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 105,
+            "Texto": "- El registrador con el aviso del notario o del Juez en los casos que prevé la ley, hará inmediatamente una anotación preventiva en el folio registral del inmueble.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 106,
+            "Texto": "- En las escrituras que se otorguen por o con intervención de organismos públicos destinados a la promoción de la vivienda o regularización territorial, de conformidad con el Código cuando así lo establezca la ley, éstos darán el aviso a que se refiere el artículo anterior, y el mencionado aviso producirá los mismos efectos que el dado por el notario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 107,
+            "Texto": "- Si el aviso fuere incompleto, o los datos estuvieren equivocados, no se hará la anotación preventiva y se devolverá dentro de los dos días hábiles siguientes al solicitante, con una nota fundada en la que se le indiquen los motivos por los cuales no se efectúa la anotación, para que se subsanen las omisiones que tuviere el aviso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 108,
+            "Texto": "- El aviso preventivo, tendrá una vigencia de noventa días hábiles. Si dentro del mismo plazo en que se hubiere firmado la escritura se presentare el testimonio respectivo, su registro surtirá efecto contra tercero desde el día y hora de la presentación del aviso cautelar o preventivo en su caso. Si el testimonio se presenta después, su registro sólo surtirá efecto desde la fecha de la presentación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 109,
+            "Texto": "- El registro definitivo de un derecho, surtirá efectos si se dio el aviso cautelar, desde el día y hora de su presentación y en el caso del aviso preventivo, desde el día y hora de su presentación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO IX DE LA COORDINACION REGISTRAL Y CATASTRAL",
+        "Artículos": [
+          {
+            "Artículo": 110,
+            "Texto": "La Institución, la Dirección de Catastro del Estado y los Ayuntamientos, a través de su dependencia encargada del Catastro, en coordinación con el Instituto de Información Estadística y Geográfica del Estado de Jalisco, establecerán las normas básicas y los lineamientos generales para la existencia de una coordinación entre éstas entidades, a fin de obtener la certeza en la\ndescripción y en la localización de los bienes inmuebles inscritos, así como en cualquier otra información relativa a los mismos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 111,
+            "Texto": "- Si no hay coincidencia entre la información catastral y registral, respecto de la superficie, medidas y linderos de un inmueble, se estará a lo dispuesto en el Reglamento de esta Ley, siendo obligatorio para las autoridades registrales y catastrales, verificar la sujeción a dicho procedimiento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO X DE LAS RECTIFICACIONES",
+        "Artículos": [
+          {
+            "Artículo": 112,
+            "Texto": "- La rectificación de los errores deberá realizarse mediante anotación en la que conste fecha, hora, firma del registrador y sello y circunstancias que la motivaron.\nEl procedimiento para efectuar la rectificación en la base de datos lo determinará la Dirección con los lineamientos que al efecto se emitan en el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 113,
+            "Texto": "- Los errores en los que incurriese el registrador al practicar un registro o anotación, podrán ser corregidos cuando sin duda los hubiere, de oficio o a solicitud de parte interesada con vista del tanto que obra incorporado en la oficina y de las constancias que se alleguen como elementos probatorios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 114,
+            "Texto": "- Los errores materiales o de concepto en los que se hubiere incurrido al practicarse los registros, serán corregidos por el registrador, a solicitud de la parte interesada siempre y cuando sin duda los hubiere, y con vista de la presentación que de nueva cuenta se haga del título que motivó el registro, en caso de no acceder el registrador a la petición, podrá acudirse al juez en iguales términos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 115,
+            "Texto": "- Se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título. También se comete error material cuando se practica un asiento, en parte o espacio distinto del que corresponda en el folio respectivo. En este caso la rectificación procede de oficio y se realizará cancelando el asiento erróneo y trasladándolo al lugar que deba ocupar.\nEn todos los casos no deberá cambiar el sentido general del registro ni el de alguno de sus conceptos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 116,
+            "Texto": "- Los errores materiales que se adviertan en los asientos de los diversos registros de la Institución o en los índices, serán rectificados con vista de los documentos respectivos, o de los protocolos, expedientes o archivos de donde procedan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 117,
+            "Texto": "- Se comete error de concepto cuando al expresar en el registro alguno de los contenidos en el título, se altere o varíe su sentido, porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 118,
+            "Texto": "- Los errores de concepto podrán rectificarse a solicitud del notario o parte interesada.\nEl concepto rectificado surtirá efectos de acuerdo al orden de prelación que le corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 119,
+            "Texto": "- Se considerará como error imputable al Registro, la práctica de una inscripción o anotación en lugar distinto del que le corresponde. En este caso la rectificación procede de oficio y se realizará cancelando el asiento erróneo y trasladándolo al lugar que debe ocupar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 120,
+            "Texto": "- En el caso de omisiones en los avisos y registros preventivos y de las anotaciones y registros definitivos a que se refiere esta Ley, podrán ser corregidos mediante solicitud ratificada ante notario o el propio registrador acompañada de los documentos con los sellos de presentación al Registro, y de cualquier otro documento que compruebe de manera fehaciente la omisión; el\nRegistrador previo análisis jurídico, ordenará la rectificación de los registros de manera acorde al orden de prelación que le corresponda. Rectificado el asiento registral, se rectificarán todos los que hayan sido afectados.\nCuando faltare la firma del registrador en alguna inscripción registral, el que estuviera en funciones, percatado de esta omisión, podrá expresando el motivo subsanar, autorizando con su firma y mediante nota en la inscripción registral que se trate.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO XI EXCEDENCIAS E INEXACTITUD",
+        "Artículos": [
+          {
+            "Artículo": 121,
+            "Texto": "- Los propietarios de bienes registrados, podrán solicitar administrativamente ante la Institución, rectificación de la superficie de dichos bienes en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando la rectificación implique disminución de superficie, bastará que el propietario acompañe a su solicitud, firmada y ratificada ante notario o el registrador, certificado catastral con la nueva superficie y medidas lineales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "A solicitud del propietario, ratificada ante notario o el registrador, cuando esta implique una corrección de cálculo, por haberse manifestado erróneamente una superficie, siempre y cuando dicho error se desprenda de la operación aritmética, con las medidas lineales hechas constar en el\ntítulo de propiedad y de la historia registral del inmueble;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando la diferencia de superficie no sea mayor de un 10% de la totalidad del inmueble registrado, debiendo presentar solicitud por escrito ratificada ante el registrador o notario; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "En caso de error en el título registrado, cuando de manera evidente se desprenda que erróneamente se inscribió un lindero o colindancia.\nDebiendo en todos los casos acompañar a su solicitud ratificada ante notario o el registrador, las constancias catastrales del ayuntamiento, o los planos del fraccionamiento y, en su caso el plano debidamente autorizado por catastro o perito en la materia con coordenadas."
+              }
+            ]
+          },
+          {
+            "Artículo": 122,
+            "Texto": "- La diferencia de superficie que se encuentre colindando con un predio registrado y que se pretenda forme parte de éste, se anotará a solicitud de su poseedor, mediante resolución de autoridad competente dictada en los términos del Código.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 123,
+            "Texto": "- Las diferencias de superficie que se encuentren dentro de los mismos linderos de un predio registrado, se anotarán, en tratándose de predios urbanos, mediante solicitud ratificada ante el registrador o notario, a la que se acompañará plano de cartografía del predio debidamente certificado, o en su defecto, certificado catastral que ampare la superficie, medidas lineales y colindancias del predio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 124,
+            "Texto": "- Cuando se trate de predios rústicos, además del certificado catastral, deberán acompañarse diligencias de apeo y deslinde judiciales, de las que se desprenda que no hay oposición de los colindantes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO XII DE LA EXTINCION DE LOS REGISTROS",
+        "Artículos": [
+          {
+            "Artículo": 125,
+            "Texto": "- Los registros definitivos no se extinguen en cuanto a terceros, sino por su cancelación o por el registro de la transmisión de dominio, o derecho real registrado a favor de otra persona.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 126,
+            "Texto": "- Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en registro.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 127,
+            "Texto": "- Podrán pedir la cancelación de un registro, las partes que hayan intervenido directamente en el acto o contrato de cuyo registro se trate, y cualquiera otra persona que resulte perjudicada por este registro; debiendo tramitarse judicialmente la solicitud respectiva en forma de incidente, cuando la cuestión surja entre las partes y lo registrado sea una demanda, un embargo o cualquier otro acto judicial, que no sea una sentencia, y en juicio sumario en todos los demás casos, salvo lo previsto por el numeral 131 fracción VI de este mismo ordenamiento o que alguna disposición especial establezca otra cosa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 128,
+            "Texto": "- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que estén legitimadas, tengan capacidad para contratar y hagan constar su voluntad en escritura pública.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 129,
+            "Texto": "- Con el concurso de los titulares de la patria potestad como administradores de los bienes de los menores, los tutores de menores o incapacitados, y cualquier otro administrador, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 130,
+            "Texto": "- Tratándose de derechos reales distintos de la propiedad, la cancelación podrá hacerse por renuncia unilateral que haga el titular del derecho, por medio de documentos auténticos, siempre y cuando no reporte ese derecho ningún gravamen o limitación de dominio a favor de otro, caso en el cual será necesaria la conformidad de éste, expresada en forma indubitable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 131,
+            "Texto": "- Podrá pedirse y deberá ordenarse, en su caso, la cancelación total de inscripciones o registros definitivos, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se extinga por completo el bien objeto de la inscripción o registro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se extinga, también por completo, el derecho inscrito;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Se declare la nulidad del acto consignado en el documento, en cuya virtud se haya hecho la inscripción o registro;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Se declare la nulidad de la inscripción o registro;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Sea enajenado por venta de autoridad, el inmueble que reporte el gravamen, en el caso previsto en el artículo 2146 del Código; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cuando tratándose de una cédula hipotecaria o un embargo, hayan transcurrido tres años desde la fecha de su registro y no se prorrogue en los términos de ley.\nCuando opere la caducidad registral prevista en la fracción VI, la cancelación se tramitará ante el Registro Público de la Propiedad."
+              }
+            ]
+          },
+          {
+            "Artículo": 132,
+            "Texto": "- Podrá pedirse y deberá declararse, en su caso, la cancelación parcial del registro preventivo o registro definitivo, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se reduzcan el bien objeto del registro; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se reduzca el derecho registrado a favor del dueño del inmueble gravado."
+              }
+            ]
+          },
+          {
+            "Artículo": 133,
+            "Texto": "- Cancelado un registro, se presumen extinguidos los efectos producidos por el mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 134,
+            "Texto": "- Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles en favor del que adquiere, se cancelará el registro relativo al que transmite.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 135,
+            "Texto": "- Si para cancelar el registro se pusiera alguna condición, se requiere, además, el cumplimiento de ésta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 136,
+            "Texto": "- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 137,
+            "Texto": "- La cancelación de inscripciones o registro de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentando el testimonio de la escritura en la que se constituyó la garantía hipotecaria, con la constancia de recibo de pago del acreedor, y la declaración suscrita por el deudor de que han quedado inutilizados los títulos de crédito. Las anteriores constancias deberán ser ratificadas ante notario;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por ofrecimiento de pago y consignación del importe de los títulos y sus accesorios, tramitados y resueltos en los términos de las disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 138,
+            "Texto": "- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente, si se hiciere constar por acta notarial, estar recibida y en poder del deudor, la total emisión de títulos debidamente inutilizados.\nProcederá también la cancelación total si se presentaren, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación, en este caso deberá acordarse por sentencia, observando los trámites fijados en el Código de Procedimientos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 139,
+            "Texto": "- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando acta notarial que acredite estar recibidos y en poder del deudor, debidamente inutilizados los títulos, los cuales deberán de ser por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan por lo menos, a la décima parte del total de la emisión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 140,
+            "Texto": "- Podrá también cancelarse, total o parcialmente, el registro de la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare, bajo su responsabilidad, que ha recibido el importe por el que se cancela, y que además dicha cancelación comprenda títulos emitidos en cantidad no menor a la señalada en el artículo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 141,
+            "Texto": "- Las cancelaciones se harán en la forma que fije el Reglamento de esta Ley, pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cual es el registro que se cancela, la causa por la que se hace y su fecha.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO UNICO DEL RECURSO DE RECONSIDERACION",
+        "Artículos": [
+          {
+            "Artículo": 142,
+            "Texto": "- Procede el recurso de reconsideración contra las resoluciones de los registradores que suspendan o denieguen el servicio registral regulado en esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 143,
+            "Texto": "- El Director General conocerá del recurso que debe ser interpuesto por escrito en un plazo no mayor de cinco días hábiles contados a partir de que se le haga saber el acto motivo de impugnación expresando, quien tenga interés jurídico o el notario en el mismo escrito los agravios que le cause dicho acto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 144,
+            "Texto": "- El Director General resolverá sin más trámite el recurso planteado en un plazo de 15 días hábiles a partir del día siguiente de la presentación. Si la resolución favorece al recurrente, se ordenará realice de inmediato el servicio registral solicitado de acuerdo al orden de prelación que le corresponda.\nEn el caso de las oficinas foráneas, el recurso se presentará ante el jefe de oficina.\nEn caso de que la resolución no le sea favorable al promovente, se le devolverán los documentos que hubiere presentado siendo necesario resolución del tribunal competente para su registro.\nEn el caso a que se refiere el párrafo anterior, el registrador tiene la obligación en tratándose de fincas inscritas, practicar anotación preventiva de haber sido presentado para su registro el título devuelto, y en tratándose de fincas no inscritas pondrán constancia al calce del título acerca de su devolución a fin de que si la autoridad Judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la anotación preventiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 145,
+            "Texto": "- Transcurridos los quince días hábiles sin resolución, la Institución responderá por daños y perjuicios.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPITULO UNICO DE LA RESPONSABILIDAD INSTITUCIONAL Y DE LOS SERVIDORES PUBLICOS",
+        "Artículos": [
+          {
+            "Artículo": 146,
+            "Texto": "- La Institución responderá a quien resulte afectado por error u omisión imputable al Registro mediante la reparación de daños y perjuicios en los términos del Código.\nPara efecto del párrafo anterior, la Institución deberá prever la contratación de un seguro o contar en el presupuesto de egresos con una partida presupuestal destinada para tal fin.\nLa Institución tendrá en todo tiempo la acción de repetición contra el funcionario responsable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 147,
+            "Texto": "Por las faltas y omisiones de carácter administrativo en que incurran los servidores públicos que laboren en las oficinas del Registro Público de la Propiedad, serán sancionados en los términos establecidos por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y de éste ordenamiento; ello sin perjuicio de la responsabilidad civil o penal en que incurran.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”, salvo lo establecido en los artículos siguientes.\n\nEl presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.\n\nEl presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "El Ejecutivo Estatal deberá expedir el Reglamento correspondiente en un plazo no mayor a 90 días después de la entrada en vigor de la presente Ley.\n\nLas autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.\n\nLos párrafos primero y segundo del numeral 87 del artículo primero del presente\ndecreto entrarán en vigor el día 22 de enero del año 2007.\n\nEn las sucesiones iniciadas con anterioridad a la entrada en vigor de este decreto, deberá seguirse el proceso conforme a las disposiciones vigentes en la fecha del fallecimiento del autor de la sucesión.\n\nSe abroga la Ley de la Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios.\n\nSe abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.\n\nSe abroga la Ley de Extinción de Dominio del Estado de Jalisco, publicada en el periódico oficial El Estado de Jalisco, el 13 de agosto de 2011.\n\nSe concede al Poder Ejecutivo un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la Ley del Registro Civil del Estado de Jalisco.\nARTÍCULOS TRANSITORIOS DEL DECRETO 27840/LXII/20\n\nSe exhorta al Poder Ejecutivo a realizar la reforma correspondiente al Reglamento de la Ley del Registro Público de la Propiedad del Estado de Jalisco, con motivo de los cambios a la Ley del Registro Público de la Propiedad.\nTABLA DE REFORMAS Y ADICIONES\nDECRETO NÚMERO 19510.-Se reforman los artículos 3, 18, 34, 47, 62, 68, 76, 77, 89, 93, 98 y 137 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.-Jul.27 de 2002. Sec. III.\nDECRETO NÚMERO 21432/LVII/06.- Se reforman los artículos 4, 5, 9, 13, 22, 23 y 24.-Sep. 14 de\n2006. Sec. II.\nDECRETO NÚMERO 21595/LVII/06.-Se reforman, adicionan y derogan los artículos 18, 25, 30, 67, 84, 87, 88, 89, 90, 105, 106, 113, 115 y 208 de la Ley del Notariado y el artículo 99 de la Ley del Registro Público de la Propiedad, ambos ordenamientos del Estado de Jalisco.-Nov.16 de 2006. Sec. II. Fe de erratas.-Nov.28 de 2006.\nDECRETO NÚMERO 21737/LVII/06.-Adiciona un segundo párrafo al art. 34 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.-Ene.23 de 2007. Sec. VIII.\nDECRETO NÚMERO 21743/LVII/06.- Reforma el art. 817 bis del Código de Procedimientos Civiles, adiciona el art. 55 bis de la Ley del Registro Público de la Propiedad.-Ene.23 de 2007. Sec.",
+            "Fracciones": [
+              {
+                "Fracción": "III",
+                "Texto": "DECRETO NÚMERO 24800/LX/13.- Se reforman los en sus artículos 4, 5, 23 y 24, de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Dic. 26 de 2013. Sec. III.\nDECRETO NÚMERO 24911/LX/14.- Se reforman los artículos 15 fracción VIII y 55 bis primer párrafo de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Ago. 7 de 2014.- Sec. V.\nDECRETO NÚMERO 24952/LX/14.- Se reforman los artículos 38 y 47 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Ago. 26 de 2014. sec. III.\nDECRETO NÚMERO 25436/LX/15.- Se reforman los artículos 23 y 40 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Sep. 19 de 2015 sec. III.\nDECRETO NÚMERO 25537/LX/15.- Se reforma el artículo 110 de la Ley del Registro Público de la Propiedad del estado de Jalisco.- Nov. 12 de 2015 sec. VIII.\nDECRETO NÚMERO 25898/LXI/16.- Se reforman los artículos 127 y 131 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Nov. 10 de 2016 sec. V\nDECRETO NUMERO 27256/LXII/19.- Se reforma el artículo 136 de la Ley de Fomento y Desarrollo Pecuario del Estado de Jalisco; Se reforman los artículos 36, 63, 318, 319 y 320 de la Ley de Hacienda Municipal del Estado de Jalisco; Se reforma el artículo 70 de la Ley del Registro Público de la Propiedad del Estado de Jalisco; Se reforman los artículos 3 y 57 de la Ley de los Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco y sus Municipios; y Se reforman los artículos 7, 18, 28, 117, 140-Bis, 141 y 142 de la Ley del Procedimiento Administrativo del Estado de Jalisco.- May. 11 de 2019 sec. II\nDECRETO NÚMERO 27332/LXII/19.- Se reforman los artículos 440, 442, 452, 455 y se adiciona e\nartículo 442-Bis del Código Civil para el Estado de Jalisco; se reforman el artículo 6 y 81 se adicionan un Capítulo XV-Bis 121 Bis de la Ley del Registro Civil del Estado de Jalisco; y Se reforman las fracciones XVI, XVII y adiciona una fracción XVIII al artículo 40 de la Ley de Registro Público de la Propiedad del Estado de Jalisco.- Oct. 8 de 2019 sec. IV.\nDECRETO NÚMERO 27522/LXII/19.- Se reforma el artículo 147 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Nov. 26 de 2019 sec. IV.\nDECRETO NÚMERO 27840/LXII/20.- Se reforma la fracción XI del artículo 12, fracción VIII del\nartículo 15, fracciones XXVIII y XXXI del artículo 38, artículo 55, artículo 55 bis, artículo 92 y\nartículo 101 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Abr. 2 de 2020 sec. V.\nDECRETO NÚMERO 28423/LXII/21.- Se reforma el artículo 8 de la Ley del Registro Público de la Propiedad del Estado de Jalisco.- Jul. 29 de 2021 sec. VIII.\nLEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO\nAPROBACION: 22 DE DICIEMBRE DE 2000.\nPUBLICACION: 3 DE FEBRERO DE 2001. SECCION II.\nVIGENCIA: 4 DE MAYO DE 2001."
+              }
+            ]
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "En tanto no se implemente el sistema registral de folios, se seguirá manejando el de incorporación e inscripción.\n\nLas reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\nARTÍCULOS TRANSITORIOS DEL DECRETO 21595\n\nHasta en tanto entran en vigor los párrafos primero y segundo del artículo 87 que se reforma, para constituir, transmitir o gravar derechos reales sobre bienes inmuebles ubicados en el Estado, se estará a lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las escrituras se realizarán insertando certificado de libertad o gravamen, que ya se hubiere expedido o que se expidan antes del 22 de enero del año 2007, o en su caso;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se realizarán insertando el certificado de libertad o gravamen con cautelar inserto que se hubiere expedido en términos del artículo 87 que se reforma; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrá realizar insertando un sólo certificado de libertad de gravamen o bien\nel certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.\nEl Titular del Ejecutivo, a través de la Secretaría General de Gobierno, mediante acuerdo administrativo, podrá establecer, en su caso, las bases para la debida aplicación y cumplimiento del presente artículo.\nARTÍCULOS TRANSITORIOS DEL DECRETO 21743\n\nEl Archivo de Instrumentos Públicos adoptará los lineamientos generales que expida el titular del Poder Ejecutivo con relación a los avisos de testamento que remitirá al Registro Nacional de Avisos de Testamento.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24800/LX/13\n\nEl Gobernador del Estado de Jalisco expedirá, dentro de los cuarenta y cinco días hábiles siguientes a la publicación del presente Decreto, el Reglamento de la Ley de la Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.\n\nEl Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.\n\nLos procedimientos de extinción de dominio comenzados antes de la entrada en vigor de este decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su iniciación."
+              }
+            ]
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Respecto a lo señalado en el artículo 113 de la presente Ley, el Ejecutivo del Estado deberá dictar las disposiciones administrativas necesarias para la coordinación en un plazo no mayor a 180 días a partir de la publicación de esta Ley y se tendrán 180 días más para que se ponga en práctica.\n\nLa Secretaría General de Gobierno y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.\n\nLa Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.\n\nHasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "El Reglamento del Registro Público de la Propiedad del Estado de Jalisco seguirá vigente en todo lo que no se oponga a la presente Ley en tanto se expide el nuevo reglamento.\n\nSe faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento de este decreto.\n\nLa Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.\n\nSe autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto\nARTÍCULOS TRANSITORIOS DEL DECRETO 27332/2019",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Se deroga el Transitorio Cuarto del Código Civil del Estado de Jalisco, aprobado mediante decreto número 16410 así como las disposiciones en él mencionadas.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 22 de diciembre de 2000.\nDiputado Presidente Felipe de Jesús López García\nDiputado Secretario Abundio Gómez Meléndrez\nDiputado Secretario Juan Alberto Márquez de Anda\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio del Poder Ejecutivo del Estado Libre y Soberano de Jalisco a los veintisiete días del mes de diciembre de 2000 dos mil.\nEl C. Gobernador Constitucional del Estado Ing. Alberto Cárdenas Jiménez\nEl Secretario General de Gobierno Dr. Mauricio Limón Aguirre\nARTÍCULOS TRANSITORIOS DEL DECRETO 21432\n\nSe faculta a la Secretaría de Desarrollo Económico del Gobierno del Estado, para que se lleve a cabo los procesos de mejora regulatoria necesarios para el cumplimiento del decreto.\n\nLos bienes que se encuentren protegidos por la Ley Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.\nARTÍCULOS TRANSITORIOS DEL DECRETO 25436/LX/15",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "El Gobierno del Estado de Jalisco deberá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de este decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "Cuando otros ordenamientos legales del Estado de Jalisco se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Décimo",
+            "Texto": "Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.\nARTÍCULOS TRANSITORIOS DEL DECRETO 24952/LX/14",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

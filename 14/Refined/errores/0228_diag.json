@@ -1,0 +1,23 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 58,
+  "n_perm_fracciones": 262,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I OBJETO DE LA LEY",
+    "CAPÍTULO II DE LOS DERECHOS Y OBLIGACIONES",
+    "CAPÍTULO III DE LA PREVENCIÓN, EL CUIDADO Y LA DEPENDENCIA",
+    "CAPÍTULO I OBJETO E INTEGRACIÓN",
+    "CAPÍTULO II DE LA JUNTA ESTATAL",
+    "CAPÍTULO III DEL PROGRAMA ESTATAL DE CUIDADOS INTEGRALES PARA EL ESTADO DE JALISCO",
+    "CAPÍTULO PRIMERO DE LAS AUTORIDADES ESTATALES",
+    "CAPÍTULO SEGUNDO DE LOS MUNICIPIOS",
+    "CAPÍTULO IV DEL REGISTRO ESTATAL DE CUIDADOS",
+    "CAPÍTULO V DEL FINANCIAMIENTO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 10
+  }
+}

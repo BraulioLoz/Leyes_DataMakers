@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 39,
+  "n_perm_fracciones": 61,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPITULO I Objetivos y Ubicación del Plan Parcial",
+    "CAPITULO II Delimitación del área aplicación y criterios que llevaron a su determinación",
+    "CAPITULO III Memoria Descriptiva de la Estructuración Territorial",
+    "CAPITULO IV Plazos máximos de iniciación y determinación de las etapas de realización",
+    "CAPITULO V Relación de áreas y predios afectados",
+    "CAPITULO VI Plazos para que los afectados presenten sus inconformidades",
+    "CAPITULO VII Declaratoria de Reservas, Usos y Destinos de Áreas y Predios",
+    "CAPITULO VIII De la Ejecución del Plan"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

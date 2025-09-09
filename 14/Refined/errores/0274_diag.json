@@ -1,0 +1,34 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 84,
+  "n_perm_fracciones": 233,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 2,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Derechos de las Personas con Discapacidad",
+    "Capítulo III De las Políticas Públicas",
+    "Capítulo IV Del Programa Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad",
+    "Capítulo V Del Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad",
+    "Capítulo I",
+    "Capítulo II De la Certificación de Reconocimiento y Calificación de Discapacidad",
+    "Capítulo III De la Evaluación de las Personas con Discapacidad",
+    "Capítulo IV De las Atribuciones de las Autoridades y Organismos Públicos",
+    "Capítulo V De las Atribuciones Municipales",
+    "Capítulo I Discapacidad Severa o Dependientes",
+    "Capítulo II Tipos de Discapacidad",
+    "Capítulo I Programas y Acciones",
+    "Capítulo II Rehabilitación Médico-Funcional y Atención Psicológica",
+    "Capítulo III Educación, Cultura, Deporte y Recreación",
+    "Capítulo IV Rehabilitación Económica, Capacitación y Empleo",
+    "Capítulo V De la Accesibilidad, Movilidad y Eliminación de Barreras Físicas y de Comunicación",
+    "Capítulo VI Del Estacionamiento, Rampas y Paso Preferentes",
+    "TÍTULO QUINTO SANCIONES",
+    "TÍTULO SEXTO RECURSOS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 18,
+    "TÍTULO": 2
+  }
+}

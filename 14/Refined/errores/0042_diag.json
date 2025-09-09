@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 32,
+  "n_perm_fracciones": 116,
+  "n_trans_caps": 1,
+  "n_trans_articles": 10,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De la Firma Electrónica Avanzada",
+    "CAPÍTULO III Del Certificado Electrónico",
+    "CAPÍTULO IV Del Mensaje de Datos",
+    "CAPÍTULO V",
+    "CAPÍTULO VI Del Prestador de Servicios de Certificación",
+    "CAPÍTULO VII De las Responsabilidades y Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

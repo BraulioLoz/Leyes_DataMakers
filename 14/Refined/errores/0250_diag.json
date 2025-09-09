@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 31,
+  "n_perm_fracciones": 124,
+  "n_trans_caps": 1,
+  "n_trans_articles": 11,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De los Órganos del Instituto Jalisciense de la Vivienda",
+    "CAPÍTULO III De la Junta de Gobierno",
+    "CAPÍTULO IV Del Director General",
+    "CAPÍTULO V Del Consejo Técnico Consultivo",
+    "CAPÍTULO VI De las Responsabilidades de Servidores Públicos en el Manejo de Cuentas y Contratación de Obra",
+    "CAPÍTULO VII Del Comisario Público",
+    "CAPÍTULO VIII Del Patrimonio",
+    "CAPÍTULO IX Del Régimen Laboral"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

@@ -1,0 +1,8 @@
+Errores y advertencias para: 0175.txt
+==================================================
+
+Ubicación: line 80
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 18 a 20
+Línea: Artículo 20.- Compete a los Presidentes Municipales:
+------------------------------

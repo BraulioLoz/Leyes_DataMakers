@@ -1,0 +1,577 @@
+{
+  "ley": "Ley de Agua Potable y Saneamiento para el Estado de Nuevo Leon",
+  "contenido": [
+    {
+      "tipo": "capitulo",
+      "sufijo": "I",
+      "nombre": "DISPOSICIONES GENERALES",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "1o",
+          "nota": [],
+          "contenido": "Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas conforme a las cuales serán prestados los servicios públicos de agua potable y saneamiento en el Estado.\n(ADICIONADO, P.O. 07 DE FEBRERO DE 2007) En todo lo que en esta ley se refiere a agua potable y saneamiento, se entenderá también el drenaje pluvial."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "2o",
+          "nota": [],
+          "contenido": "Compete a los Municipios de la Entidad, con el concurso del Estado, conforme lo determina esta Ley, la prestación de los servicios públicos de agua potable y saneamiento."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "3o",
+          "nota": [],
+          "contenido": "Para los efectos de esta Ley, se entenderá por:\na) Agua para uso doméstico: Los volúmenes de agua potable destinada a satisfacer las necesidades de los residentes de las viviendas.\nb) Agua potable: El agua de uso doméstico, comercial, de servicios o industrial que reúne los requisitos establecidos en la norma oficial mexicana.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023) b Bis) Agua residual tratada: Aquella que mediante procesos individuales o combinados de tipo físicos, químicos, biológicos u otros, se han adecuado para hacerlas aptas para su reuso en servicios al público.\nc) Alcantarillado o drenaje sanitario: Medios de descarga y conducción de las aguas residuales, con excepción de las aguas pluviales.\nd) Comisión: Comisión Estatal de Agua Potable y Saneamiento.\ne) Organismos Operadores: Organismos públicos descentralizados del Estado o de los Municipios cuyo objetivo general será la prestación de los servicios públicos de agua potable y saneamiento.\nf) Concesionario: Persona física o moral que, en los términos del título de la concesión respectiva, presta los servicios públicos de agua potable y saneamiento.\ng) Saneamiento: Colección, conducción, tratamiento, alojamiento y descarga de las aguas residuales, así como el tratamiento y disposición de los lodos que se generan en el tratamiento de las aguas.\nh) Zona de Conurbación: La demarcación territorial formalmente declarada cuando dos o más centros urbanos se extiendan en territorio de dos o más Municipios y formen o tiendan a formar una continuidad demográfica, en los términos de lo dispuesto por la Legislación en materia de Desarrollo Urbano del Estado.\ni) Proyecto autorizado: Planos, normas y especificaciones autorizados por el organismo operador, para la construcción de las instalaciones y obras de infraestructura que debe realizar el interesado para que se proporcionen los servicios de agua potable y saneamiento, sin perjuicio de las atribuciones que correspondan a las demás autoridades competentes.\n(ADICIONADO, P.O. 07 DE FEBRERO DE 2007) j) Drenaje pluvial: medios de captación, conducción y colección de aguas pluviales."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "4o",
+          "nota": [],
+          "contenido": "Se consideran causas de utilidad pública, además de las previstas en otras leyes, las siguientes acciones, vinculadas con los servicios públicos materia de esta Ley:\nI. La construcción, ampliación, rehabilitación, mantenimiento, administración y recuperación de las obras y servicios necesarios para la operación de los sistemas de captación, conducción, potabilización, almacenamiento y distribución de agua potable y los de drenaje sanitario y saneamiento en los centros de población y asentamientos humanos de los Municipios del Estado;\nII. La adquisición, utilización y aprovechamiento de las obras hidráulicas o bienes de propiedad privada, cuando se requieran para la eficiente operación de los sistemas de captación, conducción, potabilización, almacenamiento y distribución de agua potable y los de drenaje sanitario y saneamiento;\nIII. Las obras de regulación, captación, conducción, desalación, desinfección, potabilización, almacenamiento, y distribución de aguas, así como las relativas a la prevención y control de la contaminación de las mismas, la colección, desalojo y el tratamiento de las aguas residuales; y el manejo y disposición de lodos, que se localicen dentro de los Municipios del estado y que no correspondan a la jurisdicción federal; y\nIV. La adquisición de los bienes muebles e inmuebles que sean necesarios para la construcción, ampliación, rehabilitación, conservación, mantenimiento, operación y desarrollo de los sistemas de agua potable y saneamiento, incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección.\nEn los casos comprendidos en este Artículo, previa declaración del Ejecutivo del Estado, procederá en su caso la expropiación, la ocupación temporal, total o parcial o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad.\nEl Ejecutivo del Estado expedirá el decreto de expropiación o de ocupación temporal, sujetándose al procedimiento y formalidades previstos en la Ley de Expropiación por Causa de Utilidad Pública y a las prescripciones de esta Ley."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "II",
+      "nombre": "ADMINISTRACION DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "5o",
+          "nota": [],
+          "contenido": "La. administración de los Servicios Públicos de Agua Potable y Saneamiento en el Estado se llevará a cabo por:\nI. La Comisión Estatal de Agua Potable y Saneamiento.\nII. Los Organismos Operadores Estatales.\nIII. Los Organismos Operadores Municipales.\nIV. Los Organismos Operadores Intermunicipales.\nV. Los particulares que obtengan la concesión para la prestación de los servicios, o que por diverso acto administrativo se les faculte para construir, operar o administrar los servicios públicos de agua potable, drenaje sanitario y saneamiento."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "6o",
+          "nota": [],
+          "contenido": "La administración a que se refiere el Artículo anterior comprenderá las siguientes acciones, conforme a la distribución de competencia prevista en esta Ley:\nI. La propuesta, formulación y ejecución de las políticas que orienten el fomento y el desarrollo hidráulico en el Estado.\nII. La planeación y programación hidráulica a nivel Estatal y Municipal.\nIII. La prestación de los servicios públicos de agua potable, drenaje sanitario y saneamiento en la entidad.\nIV. El establecimiento de sistemas de regulación, captación, conducción, desalación, desinfección, potabilización, almacenamiento y distribución de agua, así como la colección, desalojo, tratamiento de aguas residuales y el manejo de los lodos.\nV. El estudio, diseño, proyecto, presupuesto, mejoramiento, construcción, operación, conservación, mantenimiento, ampliación y rehabilitación de las obras destinadas a la prestación de los servicios públicos de agua potable, drenaje sanitario y saneamiento; así como, en su caso, las expropiaciones u ocupaciones por causa de utilidad pública que se requieran para los mismos fines.\nVI. El uso eficiente y la operación, mantenimiento y rehabilitación de la red de distribución de agua potable y la de drenaje sanitario y saneamiento, para atender oportunamente la demanda y evitar fugas o filtraciones, e inducir el reuso de las aguas residuales.\nVII. La planeación, promoción, estímulo y, en su caso, ejecución de las acciones para el tratamiento de aguas residuales y manejo de lodos, y las que sean necesarias para la prevención y control de la contaminación del agua.\nVIII. La conservación de las fuentes de captación de agua y de las reservas hidrológicas del estado que se asignen por la autoridad competente.\nIX. La participación en los Consejos de Cuenca, como instancias de coordinación con la Comisión Nacional del Agua, las dependencias y entidades Federales, Estatales o Municipales y los representantes de los usuarios de la respectiva cuenca hidrológica, con objeto de formular y ejecutar programas y acciones para la mejor administración y reuso de las aguas, el desarrollo de la infraestructura hidráulica y de los servicios respectivos y la preservación de los recursos de la cuenca.\nX. La estructuración de un sistema financiero integral, eficiente y equitativo para la prestación de los servicios de agua potable, drenaje sanitario y saneamiento en las zonas conurbadas y en el resto de los Municipios del estado.\nXI. La creación de consejos de acueductos regionales, con la participación de las autoridades municipales correspondientes, con el fin de establecer la regulación y normatividad de abasto y operatividad equitativa.\nXII. La corresponsabilidad de la Administración Pública Estatal y Municipal y de la sociedad civil en el aprovechamiento racional del agua, en su preservación, reuso y en la creación de una cultura del agua como recurso escaso y vital.\nXIII. Llevar el inventario y registro de las aguas que tienen el carácter de estatales, considerando como tales las que se localizan dentro de la jurisdicción territorial del Estado de Nuevo León y que no son aguas nacionales en los términos de la Constitución Política de los Estados Unidos Mexicanos.\nXIV. La participación en el abasto de aguas intermunicipales o interestatales mediante el establecimiento de convenios que determinen las bases de la prestación del servicio y las remuneraciones que se deban obtener por éste; y\nXV. La inspección y vigilancia del cumplimiento de las disposiciones previstas en esta ley."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "III",
+      "nombre": "DE LAS FACULTADES DEL ESTADO EN MATERIA DE",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "7o",
+          "nota": [],
+          "contenido": "Corresponde al Estado, por conducto del Poder Ejecutivo:\nI. Establecer las bases operativas para la coordinación de la prestación de los servicios públicos de agua potable y saneamiento.\nII. Establecer las políticas, estrategias, objetivos, programas y normas administrativas que hagan óptimo el aprovechamiento del agua y su distribución en el Estado.\nIII. Participar en coordinación con las autoridades Federales y Municipales en la planeación, programación, diseño, construcción, control y evaluación de los sistemas de abastecimiento de agua potable, desalojo, tratamiento y utilización de aguas residuales en los Municipios de la entidad.\nIV. Prestar los servicios públicos de agua potable y saneamiento en las zonas de conurbación, en los términos del Artículo 15 de esta Ley, y en los demás Municipios que soliciten su concurso.\nV. Concesionar en el ámbito de su competencia a los particulares, cuando se considere procedente la prestación de los servicios públicos de agua potable y saneamiento, conforme al Capítulo V de esta Ley y en forma supletoria a los términos de la Sección Cuarta del Capítulo IX de la Ley de Administración Financiera.\n(REFORMADA, P.O. 21 DE OCTUBRE DE 2022) VI. Vigilar que el funcionamiento y prestación de los servicios públicos de agua potable y saneamiento se realice conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas al efecto; preservando siempre que el suministro de agua potable cumpla con las características establecidas por la Norma Oficial Mexicana en cumplimiento del Artículo 3 inciso b de la presente Ley; y\nVII. Las demás que ésta y otras leyes le confieren en la materia."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "8o",
+          "nota": [],
+          "contenido": "Para el ejercicio de las facultades previstas en este Capítulo, el Ejecutivo Estatal se apoyará en las dependencias y entidades cuyas atribuciones inciden en la materia regulada por esta Ley."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "IV",
+      "nombre": "DE LA PRESTACION DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO POR LOS MUNICIPIOS",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "9o",
+          "nota": [],
+          "contenido": "Considerando lo dispuesto por el Artículo 15 de esta Ley, corresponde a los Municipios del Estado:\nI. Planear, programar y prestar los servicios públicos de agua potable y saneamiento en sus respectivas jurisdicciones, por medio de organismos descentralizados, o mediante concesiones, con sujeción a lo establecido en el Capítulo V de esta Ley y considerando la opinión de la Comisión Estatal de Agua Potable y Saneamiento.\nCuando los Municipios afronten circunstancias graves, de carácter extraordinario o de emergencia, que impidan proporcionar los servicios referidos, el Estado por conducto del Poder Ejecutivo, coadyuvará a su prestación, previa solicitud del Ayuntamiento respectivo, y mientras prevalezcan aquellas circunstancias.\nII. Participar en el seno de la Comisión Estatal de Agua Potable y Saneamiento, en el establecimiento de las políticas, lineamientos y especificaciones técnicas conforme a las que se efectuarán la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de agua potable y saneamiento.\nIII. La realización de obras de infraestructura hidráulica y su operación ya sea en forma directa o por medio de sus organismos públicos descentralizados, o concesionar o contratar con terceros.\nIV. Las demás que ésta u otras leyes les confieran."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "10",
+          "nota": [],
+          "contenido": "El. Estado y los Municipios podrán celebrar convenios de apoyo y asistencia técnica con las autoridades Federales con el fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como lo relativo a la localización de descargas de las aguas residuales.\nDe igual manera, el Estado y los Municipios podrán celebrar convenios para que éstos reciban asistencia técnica y financiera de aquél. Asimismo, los Municipios podrán celebrar convenios entre sí para el mejor ejercicio de las atribuciones que esta Ley les confiere."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "11",
+          "nota": [],
+          "contenido": "Con excepción de las zonas de conurbación, los Municipios podrán concesionar o bien prestar los servicios públicos de agua potable, drenaje sanitario y saneamiento mediante organismos públicos descentralizados con personalidad jurídica y patrimonio propios, creados en los términos y con la estructura prevista en la Ley Orgánica de la Administración Pública Municipal. Adicionalmente, se deberá precisar en su Decreto constitutivo, los órganos de dirección, administración, representación y vigilancia; su estructura administrativa interna, el régimen laboral de sus trabajadores, y la forma en que serán representados los usuarios del servicio doméstico, comercial e industrial domiciliados en el Municipio respectivo.\nLas entidades públicas Municipales deberán prestar los servicios públicos de agua potable y saneamiento conforme a las prescripciones de esta Ley."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "12",
+          "nota": [],
+          "contenido": "Dos o más Municipios del Estado podrán convenir en la prestación conjunta de los servicios públicos de agua potable y saneamiento a través de un organismo operador intermunicipal, que se creará y operará en los términos previstos en el Artículo 11 de esta Ley.\nLas controversias de carácter técnico que pudieran surgir con motivo de la prestación de los servicios mediante este organismo intermunicipal, serán resueltas por los Municipios involucrados, escuchando la opinión de la Comisión."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "V",
+      "nombre": "DE LA PARTICIPACION PRIVADA Y SOCIAL",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "13",
+          "nota": [],
+          "contenido": "Se considera de interés público la promoción y fomento de la participación de los particulares en el financiamiento, construcción y operación de la infraestructura hidráulica estatal y municipal, así como la prestación de los servicios respectivos.\nPara tal efecto, las autoridades Estatal y Municipal competentes podrán:\nI. Celebrar con los particulares contratos de obra pública y servicios con la modalidad de inversión recuperable para la construcción, equipamiento y operación de infraestructura hidráulica.\nII. Otorgar concesión total o parcial para operar, conservar, mantener, rehabilitar y ampliar la infraestructura hidráulica construida por el Estado o los Municipios y la prestación de los servicios respectivos.\nIII. Otorgar concesión total o parcial para construir, equipar y operar la infraestructura hidráulica estatal o municipal y para prestar los servicios respectivos.\nEl Estado y los municipios sólo podrán concesionar los servicios comprendidos en esta Ley, en las zonas donde no estén siendo prestados.\nLas concesiones que impliquen inversiones superiores a dos mil cuotas, se someterán a la previa autorización del Congreso del Estado."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "14",
+          "nota": [],
+          "contenido": "Para los efectos del Artículo anterior, se estará a lo dispuesto por la Ley de Obras Públicas del Estado de Nuevo León, Ley de Administración Financiera para el Estado de Nuevo León, y Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, según sea el caso. Los derechos y obligaciones de los concesionarios se establecerán, en lo particular, en el título de concesión o en el contrato de obra respectivo."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "VI",
+      "nombre": "DE LA PRESTACION DE LOS SERVICIOS PUBLICOS DE AGUA Y SANEAMIENTO EN LAS ZONAS DE CONURBACIÓN DEL ESTADO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "15",
+          "nota": [],
+          "contenido": "En cada zona de conurbación los servicios públicos de agua potable y saneamiento se prestarán por los Municipios, bajo los esquemas organizacionales previstos en esta Ley, y podrán éstos acordar con el Estado que la prestación de estos servicios se lleve a cabo por los organismos públicos descentralizados del Estado que serán creados para tal efecto, en los términos de lo dispuesto por el Artículo 131 fracción II, inciso a) de la Constitución Política del Estado de Nuevo León; Artículo 26 de la Ley General de Asentamientos Humanos; las disposiciones aplicables en materia de Desarrollo Urbano en el Estado de Nuevo León, y Título Cuarto de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León.\nEn la zona conurbada del Area Metropolitana que comprende los Municipios de Apodaca, General Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro\nGarza García, Santa Catarina y el parque Ciudad Industrial Mitras, en García, N.L. los servicios se prestarán por el organismo público estatal descentralizado denominado \"Servicios de Agua y Drenaje de Monterrey\" I.P.D. No obstante, y por circunstancias más favorables de carácter financiero, de eficiencia en la prestación de los servicios y de beneficio comunitario, los servicios que actualmente presta \"Servicios de Agua y Drenaje de Monterrey\", I.P.D. podrán ser concesionados a los particulares, conforme a las prescripciones establecidas en el Artículo 7 fracción V y en el Capítulo V de esta ley.\nEl Organismo Público denominado \"Servicios de Agua y Drenaje de Monterrey\", I.P.D., efectuará la operación, mantenimiento y administración de las fuentes de abasto de agua subterránea y superficial que se aprovechan para el suministro del área metropolitana de Monterrey, con sus respectivos acueductos, y podrá en su caso, celebrar convenios con los Municipios donde se originan las fuentes de abasto o los que estén aledaños a los acueductos que conducen el agua al área metropolitana, para entregarles agua en bloque, de acuerdo a la dotación que establezca la Comisión Estatal de Agua y Saneamiento y conforme a las tarifas que tenga establecidas para tal efecto \"Servicios de Agua y Drenaje de Monterrey\", I.P.D.\n(ADICIONADO, P.O. 07 DE FEBRERO DE 2007) El organismo rector para la elaboración de un plan maestro de la red de drenaje pluvial y de los proyectos de obras de drenaje pluvial, será “Servicios de Agua y Drenaje de Monterrey” I.P.D., así como de las supervisión de las mismas hasta su entrega recepción al nivel de gobierno que corresponda para su operación y mantenimiento, pero los costos que éstas impliquen estarán a cargo de la Federación, del Estado, de los Municipios y/o de los particulares que correspondan salvo convenio en contrario.\n(ADICIONADO, P.O. 17 DE JULIO DE 2023) Se considera de interés público, la promoción y fomento de la participación de los Municipios en la construcción y rehabilitación y/o modernización de la infraestructura hidráulica estatal.\n(ADICIONADO, P.O. 17 DE JULIO DE 2023) Para el efecto, el Organismo Operador y los Municipios del Etado (sic) de Nuevo León, podrán celebrar convenios de colaboración para la construcción, rehabilitación y/o modernización de la infraestructura hidráulica necesaria para prestar los servicios de agua potable y drenaje sanitario de manera eficiente en el Estado.\n(ADICIONADO, P.O. 17 DE JULIO DE 2023) Los Municipios podrán a su costa y erario llevar a cabo la construcción, rehabilitación y/o modernización de infraestructura hidráulica de su jurisdicción, previa autorización del Organismo Operador en los términos del párrafo anterior.\n(ADICIONADO, P.O. 17 DE JULIO DE 2023) Dichos convenios deberán ajustarse a las disposiciones correspondientes de conformidad a su normativa, donde se establecen los lineamientos para el efecto de la valoración de las obras, y la forma de cuantificar y reconocer su costo por parte del organismo operador a favor del Municipio."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "16",
+          "nota": [],
+          "contenido": "Los órganos de gobierno de los organismos públicos descentralizados que sean creados en los términos del primer párrafo del Artículo anterior, estarán integrados por los Presidentes Municipales de los Municipios comprendidos en la zona de\nconurbación; representantes de los usuarios de los servicios, y los demás que, en su caso, se determinen en la Ley mediante la cual sea creada la entidad."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "17",
+          "nota": [],
+          "contenido": "El patrimonio de los organismos públicos descentralizados se integrará con las aportaciones de la Federación, del Estado, de cada uno de los Municipios comprendidos dentro del área de conurbación, y de los particulares en los términos de la Ley mediante la cual sea creada la entidad."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "VII",
+      "nombre": "COMISION ESTATAL DE AGUA POTABLE Y SANEAMIENTO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "18",
+          "nota": [],
+          "contenido": "Se crea la Comisión Estatal de Agua Potable y Saneamiento, como organismo de carácter interinstitucional que tiene por objeto coadyuvar con el Ejecutivo del Estado y los Municipios en el análisis, discusión y definición de políticas que conformarán los planes y programas que en los términos de esta Ley regularán la prestación de los servicios públicos de agua potable y saneamiento en la Entidad.\n(REFORMADO, P.O. 10 DE JUNIO DE 2022)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "19",
+          "nota": [],
+          "contenido": "La Comisión Estatal de Agua Potable y Saneamiento estará integrada por:\nI. Un Presidente que será designado por el Gobernador del Estado.\nII. El Secretario General de Gobierno.\nIII. El Secretario de Finanzas y Tesorero General del Estado.\n(REFORMADA, P.O. 10 DE JUNIO DE 2022) IV. El Secretario de Movilidad y Planeación Urbana.\nV. Los Presidentes Municipales de los cincuenta y un Municipios del estado.\nVI. El Director del Organismo Público \"Servicios de Agua y Drenaje de Monterrey\", I.P.D., quien fungirá como Secretario Técnico de la Comisión.\nVII. Los integrantes del Consejo de Administración del Organismo Público \"Servicios de Agua y Drenaje de Monterrey\", I.P.D. no previstos en las fracciones anteriores.\nLos integrantes de la Comisión previstos en las fracciones II, III, IV, V y VII tendrán el carácter de vocales."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "20",
+          "nota": [],
+          "contenido": "Los miembros de la Comisión tendrán derecho a participar en las sesiones de ésta con voz y voto, y desempeñarán sus funciones en forma honorífica. En el caso de los Municipios, éstos deberán participar, preferentemente, en los asuntos que inciden en su ámbito territorial, sin perjuicio de que puedan asistir a las demás sesiones de la Comisión en que se traten asuntos de carácter general, o cuando deseen someter a la consideración de los demás integrantes de la misma algún asunto en el que tengan interés específico. Por cada miembro propietario se nombrará un suplente. La\nperiodicidad de las sesiones, el quórum válido para sesionar, la forma de votación y demás, se precisarán en el reglamento que al efecto expida el Ejecutivo del Estado.\nLa Comisión podrá invitar a sus sesiones a los representantes de instituciones públicas o privadas, asociaciones, agrupaciones o personas cuya opinión sea relevante para el desahogo del correspondiente orden del día."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "21",
+          "nota": [],
+          "contenido": "La Comisión tendrá las siguientes atribuciones:\nI. Proponer al Ejecutivo del Estado y a los Municipios el establecimiento de bases para la coordinación, administración y prestación de los servicios públicos de agua potable y saneamiento.\nII. Proponer al Ejecutivo del Estado y a los Municipios las políticas, estrategias, objetivos, programas y normas administrativas que hagan óptimo el aprovechamiento del agua y su distribución en el estado.\nIII. Participar en coordinación con las autoridades federales, estatales y municipales, en la planeación, programación, diseño, construcción, control y evaluación de los sistemas de abastecimiento de agua potable, desalojo, tratamiento y utilización de aguas residuales en los Municipios de la entidad.\nIV. Proponer al Ejecutivo del Estado y a los Municipios políticas y programas de apoyo técnico y financiero para mejorar la prestación de los servicios públicos de agua potable y saneamiento.\nV. Realizar u ordenar la elaboración de estudios socioeconómicos y técnicos para determinar las necesidades de los servicios y proponer las medidas conducentes para su solución.\nVI. Coadyuvar en la vigilancia del funcionamiento y prestación de los servicios públicos de agua potable, drenaje sanitario y saneamiento para que éstos se realicen conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas para tal efecto.\nVII. Proponer al Ejecutivo del Estado y a los Municipios las medidas que se consideren convenientes para racionalizar y hacer eficiente la prestación de los servicios públicos de agua potable y saneamiento.\nVIII. Opinar sobre las cuotas y tarifas que se apliquen por la prestación de los servicios.\nIX. Opinar sobre el otorgamiento, modificación, prórrogas y revocación de las concesiones.\nX. Las demás que ésta u otras leyes le confieran."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "VIII",
+      "nombre": "USO Y CUIDADO DEL AGUA",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "22",
+          "nota": [],
+          "contenido": "El agua para uso doméstico siempre tendrá preferencia en el diseño de las políticas, programas y normas administrativas que se elaboren para la prestación del servicio público de agua potable.\nLos demás usos previstos en las disposiciones jurídicas aplicables podrán variar su orden de prelación, conforme a las necesidades de los usuarios. La Comisión Estatal de Agua Potable y Saneamiento propondrá al Ejecutivo del Estado o al Ayuntamiento correspondiente la modificación al orden de preferencia para que estas autoridades resuelvan en definitiva, con la excepción indicada."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "23",
+          "nota": [],
+          "contenido": "Es. de interés público la promoción y ejecución de las medidas y acciones necesarias para proteger la calidad del agua, en los términos de la Ley.\n(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019) Las autoridades Estatales y Municipales, en el ámbito de su competencia, promoverán el establecimiento de sistemas de desinfección y potabilización del agua, así como de tratamiento de aguas residuales y manejo de lodos, el fomento de sistemas alternos que sustituyan al drenaje sanitario, cuando éste no pueda construirse, y las demás acciones necesarias para obtener y mantener un óptimo nivel de calidad del agua. Igualmente establecerán un sistema eficiente para la captación de las aguas pluviales que permitan su reutilización para uso sanitario, riego, mantenimiento de áreas verdes o en su caso, para su permeo hacia los mantos acuíferos del subsuelo, de acuerdo a las Normas Oficiales Mexicanas y contando con las autorizaciones correspondientes del Organismo Federal pertinente, establecido en la Ley de Aguas Nacionales."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "24",
+          "nota": [],
+          "contenido": "Para los efectos del Artículo anterior, las autoridades Estatales y Municipales - según se establezca la competencia en los términos de la asignación otorgada por la Comisión Nacional del Agua, en coordinación con las autoridades federales competentes, y en los términos de la Ley de Aguas Nacionales, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, las normas oficiales mexicanas y la legislación local en la materia tendrán las siguientes atribuciones:\nI. Otorgar y revocar los permisos para efectuar descargas de aguas residuales en los sistemas de drenaje sanitario a las personas que las generen con motivo de su actividad industrial, comercial o de servicio.\nII. Ordenar el tratamiento obligatorio de aguas residuales y el manejo de lodos a las personas que utilicen y contaminen el agua con motivo de los procesos industriales, comerciales o de servicio que realicen.\nIII. Determinar qué usuarios deberán construir y operar plantas de tratamiento de aguas residuales y manejo de lodos; y fomentar la construcción y operación de plantas que den servicio a varios usuarios.\nIV. Establecer las cuotas y tarifas que deberán pagar las personas que realicen descargas de aguas residuales en el sistema de drenaje sanitario, así como por el tratamiento de aguas de origen urbano.\nV. Vigilar y promover la aplicación de las disposiciones legales en materia de prevención y control de la contaminación del agua y ecosistemas acuáticos, así como la potabilización del agua para uso doméstico."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "25",
+          "nota": [],
+          "contenido": "Las autoridades Estatales y Municipales colaborarán con el Gobierno Federal en la prevención, control y fiscalización de las actividades que, conforme a la Ley General del Equilibrio Ecológico y Protección al Ambiente, se consideren de alto riesgo, así como para el manejo y control de los materiales o residuos peligrosos que sean vertidos al sistema de drenaje sanitario, conforme a la citada Ley, la Ley de Aguas Nacionales y a las normas oficiales mexicanas expedidas por la autoridad federal competente.\nTodas las personas físicas o morales tienen la obligación de comunicar a las autoridades estatales o municipales la existencia de cualquier riesgo de desequilibrio ecológico a causa de la contaminación de las aguas, para que éstas realicen las acciones preventivas o correctivas que sean necesarias."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "26",
+          "nota": [],
+          "contenido": "Para el efecto de que los usuarios de los servicios públicos de agua potable y saneamiento puedan participar en las acciones tendientes a mejorar el aprovechamiento del agua y la preservación y control de su calidad, la Comisión promoverá y apoyará la organización de los usuarios, quienes podrán:\nI. Constituir organizaciones de vecinos para promover la construcción, conservación, mantenimiento, rehabilitación y operación de las obras destinadas a la prestación de los servicios de agua potable y saneamiento; y\nII. Participar como concesionarios o prestadores de servicios, para la construcción, operación, administración, conservación y mantenimiento de las obras hidráulicas.\n(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "26 BIS",
+          "nota": [],
+          "contenido": "El Organismo Operador dentro de los costos de operación, deberá incluir la realización de campañas permanentes que realizará de forma masiva, directa y especializada, en torno al cuidado del agua y al uso adecuado del drenaje sanitario, que serán consideradas de interés público y actualizadas anualmente."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "IX",
+      "nombre": "DE LA PRESTACION DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "27",
+          "nota": [],
+          "contenido": "Los propietarios o poseedores de predios edificados, previo el cumplimiento de los requisitos que esta Ley y otros ordenamientos legales establezcan, están obligados a conectarse a los servicios de agua potable y drenaje sanitario, cuando frente a los mismos existan redes para la prestación de esos servicios.\nEn el caso de predios que carezcan de construcción y que tengan frente a las instalaciones, sus propietarios o poseedores están obligados a cubrir la cuota proporcional que se fije por operación, mantenimiento, y reposición de la red.\nPara la contratación de los servicios deberá cumplirse con los requisitos previstos en el reglamento de esta Ley."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "28",
+          "nota": [],
+          "contenido": "Al introducirse las redes necesarias para la prestación de los servicios de agua potable y drenaje sanitario en los lugares que carecen de ella, se notificará a los\ninteresados por medio de publicaciones en el Periódico Oficial del Estado y en un diario de mayor circulación de la localidad, para el efecto de que cumplan con las disposiciones de esta Ley; y podrán, además, utilizarse cualesquiera otras formas de notificación a fin de que los interesados tengan conocimiento de la existencia de los servicios."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "29",
+          "nota": [],
+          "contenido": "Todo usuario está obligado al pago de las cuotas o tarifas por los servicios de agua potable, drenaje sanitario y tratamiento de aguas residuales."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "30",
+          "nota": [],
+          "contenido": "A cada predio, giro o establecimiento corresponderá una toma de agua y una descarga de aguas residuales, salvo las derivaciones autorizadas y demás excepciones contempladas en esta Ley y su reglamento. Se podrán contratar diámetros mayores o varias tomas y descargas de aguas residuales para giros comerciales o establecimientos industriales."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "31",
+          "nota": [],
+          "contenido": "La instalación de la toma o la descarga que implique la destrucción del pavimento, la guarnición o la banqueta, por el organismo operador o concesionario deberá realizarse con base a los lineamientos que fije la autoridad Municipal y su costo será cubierto por el interesado. Los trabajos deberán realizarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "32",
+          "nota": [],
+          "contenido": "Cualquier modificación que se pretenda hacer en el inmueble, giro o establecimiento que afecte a las instalaciones de los servicios de agua y drenaje sanitario, obliga a los interesados a formular la solicitud correspondiente y efectuar el pago ante el responsable de prestar los servicios.\nEn ningún caso el propietario o poseedor del predio podrá realizar por sí mismo o vía un tercero el cambio del sistema, instalación, supresión o conexión de los servicios de agua y drenaje sanitario fuera de los límites del predio."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "33",
+          "nota": [],
+          "contenido": "Independientemente de los casos en que conforme a la Ley o este ordenamiento proceda la suspensión o supresión de una toma de agua o de una descarga, el propietario o poseedor podrá solicitar la suspensión o supresión respectiva, expresando las causas en que se funden las mismas, observando lo establecido en el Artículo 27 de esta Ley.\n(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "34",
+          "nota": [],
+          "contenido": "Las personas físicas o morales, fraccionadoras o urbanizadoras deberán tramitar ante el organismo operador el dictamen de factibilidad para la conexión a la red general de agua potable y drenaje sanitario. Para obtener lo factibilidad es indispensable que en el proyecto ejecutivo urbanístico contenga el diseño de los sistemas de retención/detención o retención/detención/infiltración, previniendo que el escurrimiento de agua en condiciones naturales disminuya. La estructura de regulación, señalada en el citado proyecto, debe de garantizar que las obras de urbanización no generen ningún impacto pluvial, por lo que dicho volumen de regulación estará definido por lo diferencia entre los volúmenes de escurrimiento directo del predio urbanizado contra el predio sin urbanizar.\nUna vez obtenido, y satisfechos los demás requisitos que determine la autoridad competente conforme a los ordenamientos jurídicos que rigen el desarrollo urbano, deberán construir por su cuenta las instalaciones internas y conexiones de agua potable y drenaje sanitario conforme al proyecto autorizado, así como las obras de infraestructura\nque en su caso se requieran, cuyo costo el interesado podrá derramar entre el área beneficiada en los términos del reglamento de esta Ley, salvo cuando el servicio sea operado por un concesionario quien tendrá las obligaciones inherentes al contrato de concesión. Las instalaciones mencionadas pasarán al dominio público para que se integren al patrimonio del organismo público operador que tenga a su cargo la operación y administración del servicio."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "35",
+          "nota": [],
+          "contenido": "En los lugares donde no haya medidores de agua o mientras estos no se instalen, el importe de los pagos será determinado por las tarifas fijas previamente establecidas.\nEn los casos de destrucción total o parcial del medidor el organismo operador determinará el importe de los pagos en forma presuntiva."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "36",
+          "nota": [],
+          "contenido": "Los usuarios que se surtan de servicios por medio de derivaciones autorizadas pagarán las tarifas mensuales correspondientes al medidor de la toma original de la que se deriven, pero si la toma no tiene medidor aún, cubrirán la cuota fija previamente establecida para dicha toma."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "37",
+          "nota": [],
+          "contenido": "Por cada derivación autorizada, el usuario pagará el importe de las cuotas de conexión que corresponda a una toma de agua directa, así como el servicio respectivo."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "38",
+          "nota": [],
+          "contenido": "Con el objeto de hacer más racional el consumo de agua, los organismos operadores promoverán la utilización de aparatos ahorradores, en los términos y características que determinen, con sujeción a las disposiciones de la legislación de desarrollo urbano.\nLas autoridades de los Municipios del estado serán las responsables de vigilar las disposiciones de este Artículo al autorizar la construcción o rehabilitación de obras."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "39",
+          "nota": [],
+          "contenido": "En épocas de escasez de agua, comprobada o previsible, o cuando se requiera dar mantenimiento o reparar las instalaciones, la autoridad competente o el organismo operador podrán efectuar la restricción del servicio en las zonas y durante el lapso que estime necesario, avisándose a los afectados para que tomen las providencias necesarias.\nLas interrupciones, suspensiones o racionamientos del servicio por causas de fuerza mayor no eximirán del pago de las cuotas o tarifas correspondientes."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "X",
+      "nombre": "CUOTAS Y TARIFAS",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "40",
+          "nota": [],
+          "contenido": "Las cuotas y tarifas que apliquen los distintos organismos operadores, serán aprobadas por las siguientes instancias:\na) En las zonas conurbadas cuyos servicios se presten por los organismos públicos descentralizados o concesionarios, su aprobación será por el Estado, a través del\nEjecutivo a propuesta del Consejo de Administración, en los términos de lo dispuesto en la Ley de Administración Financiera del Estado.\nb) En los Municipios cuyos servicios se presten por organismos públicos descentralizados Municipales, a propuesta de la Junta de Gobierno de éstos mismos, su aprobación corresponderá al Ayuntamiento.\nc) En el caso de los municipios, si el servicio es prestado por concesionarios, las cuotas o tarifas serán aprobadas por el Ayuntamiento.\nd) En el caso de los organismos intermunicipales, se estará a los convenios que celebren los municipios correspondientes.\nLas cuotas o tarifas una vez aprobadas, serán publicadas en el Periódico Oficial del Estado, y en uno de los diarios de mayor circulación en la localidad."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "41",
+          "nota": [],
+          "contenido": "Las cuotas y tarifas deberán ser suficientes para cubrir los costos de operación, administración, mantenimiento, depreciación, costo financiero y una reserva para rehabilitación y mejoramiento del sistema. Entendiéndose por costo financiero el derivado del servicio de la deuda."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "42",
+          "nota": [],
+          "contenido": "Además de las bases contenidas en el Artículo 41, para la determinación de las cuotas y tarifas se deberá observar lo siguiente:\nI.- El servicio de agua potable será medido, siendo obligatoria la instalación de aparatos medidores para la cuantificación del consumo en los predios o establecimientos que lo reciban. En los lugares donde no haya medidores o mientras estos no se instalen, los pagos serán con base en cuotas fijas autorizadas.\nII.- Las tarifas que se fijen, según los usos específicos a que se refiere el Artículo 22 de esta Ley, deberán establecer tarifas diferenciales que estimulen el uso eficiente del agua. Además las tarifas serán aplicadas por rangos de consumo.\nIII.- La actualización de los niveles tarifarios se hará en función de la proporción que representen las variaciones de los componentes de los costos, determinada mediante la aplicación de una fórmula para el ajuste a las tarifas, de la siguiente forma:\nA=[(%S)(Is)]+[(%E)(Ie)]+[(%D)(INPC)]\nDonde:\nA= Factor de Ajuste en las tarifas de acuerdo con las variaciones de los costos.\n%S= Componente de sueldos en los costos.\nIs= Factor de Incremento en los sueldos durante el período de revisión.\n%E= Componente de energía eléctrica en los costos.\nIe= Factor de Incremento de energía eléctrica durante el período de revisión.\n%D= Componente de depreciación y otros gastos en los costos.\nINPC= Factor de incremento del Indice Nacional de Precios al Consumidor.\nLos componentes \"%S\", \"%E\" y \"%D\" se obtendrán dividiendo el monto total individual ya sea de salarios, energía eléctrica o depreciación y otros gastos, según corresponda, entre la suma total de los costos de sueldos, energía eléctrica y depreciación y otros gastos erogados durante el mismo período.\nLos factores \"Is\" e \"Ie\" equivalen a los incrementos; ya sea de sueldos o energía electrica (SIC), expresados en porcentaje, ocurridos durante el período.\nEl factor \"INPC\" se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período y al resultado se le restará la unidad. Para tales efectos se aplicará el Indice Nacional de Precios al Consumidor, calculado por el Banco de México que se publica en el Diario Oficial de la Federación. La composición de los salarios, energía eléctrica y depreciación, se revisará anualmente de acuerdo con el presupuesto que sea aprobado para cada ejercicio fiscal.\nPara cualquier modificación de las tarifas se deberá elaborar un estudio que la justifique y evaluar las circunstancias económicas específicas de la comunidad, tomando en cuenta además los factores mencionados en este artículo.\nCuando lo consideren conveniente, los organismos operadores o concesionarios podrán solicitar a la Comisión Estatal de Agua Potable y Saneamiento la elaboración de los estudios técnicos y financieros de apoyo para justificar las modificaciones a las cuotas o tarifas."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "43",
+          "nota": [],
+          "contenido": "Los pagos que deberán cubrir los usuarios por la prestación de los servicios se clasifican en:\nI.- CUOTAS.\na) Por cooperación.\nb) Por instalación de tomas domiciliarias.\nc) Por conexión al drenaje sanitario para aguas residuales provenientes de uso doméstico.\nd) Por conexión al drenaje sanitario para aguas residuales provenientes de actividades empresariales (no domésticas), cuando la descarga no sea superior a las concentraciones permisibles conforme a las normas oficiales mexicanas y las condiciones particulares de descarga vigentes, en los términos de la legislación aplicable.\ne) Por instalación de medidor.\nf) Por otros servicios.\nII. TARIFAS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE SANITARIO, INCLUYENDO EL SANEAMIENTO:\na) Por cargo fijo.\nb) Por uso doméstico.\nc) Por uso comercial.\nd) Por uso industrial.\ne) Por servicios a Gobierno y organismos públicos.\nf) Por uso de drenaje sanitario solamente.\ng) Por uso de aguas residuales.\nh) Por uso de aguas residuales tratadas.\ni) Por entrega de agua en bloque.\nj) Por servicios de drenaje sanitario y tratamiento de aguas residuales provenientes de uso doméstico.\nk) Por servicio de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de actividades empresariales no domésticas, cuando la descarga no sea superior a las concentraciones permisibles conforme a las normas oficiales mexicanas y condiciones particulares de descargas vigentes, en los términos de la legislación aplicable.\nl) Por otros usos.\nIII.- CUOTAS DE APORTACION PARA OBRAS DE INFRAESTRUCTURA.\n(REFORMADO, PO. 25 DE SEPTIEMBRE DE 2019) El organismo público prestador de los servicios de agua y drenaje sanitario establecerá una cuota de aportación para la recuperación del valor actualizado de las inversiones de infraestructura hidráulica maestra realizadas por el mismo y lo recaudado formará parte de los recursos requeridos para la construcción de las obras de infraestructura que consisten esencialmente en las de captación, conducción, potabilización, tanques de almacenamiento, sistemas de bombeo, redes maestras de agua potable, colectores de drenaje sanitario y plantas de tratamiento de aguas residuales o pluviales, que le hagan posible comprometerse a proporcionar los servicios dentro de las condiciones normales.\nEn el caso que los servicios sean prestados por un concesionario, se aplicará lo dispuesto en el contrato de concesión.\nPara fines de cobro se correlacionará el costo de litro por segundo que corresponda con el tipo de urbanización, el área a ser servida, la demanda o el uso a que sean destinados los servicios según el caso, por lo que la cuota respectiva se determinará de acuerdo a dichos factores, celebrándose el convenio correspondiente entre el interesado y el\norganismo público prestador del servicio, conforme a los lineamientos establecidos para este efecto.\nEl cobro de dichas cuotas se podrá hacer por los siguientes conceptos:\na) Terrenos urbanos.\na.1) Para fraccionamientos habitacionales.\na.2) Para fraccionamientos comerciales e industriales.\nb) Subdivisión de lotes.\nc) Locales comerciales e industriales y cambio de giro.\nd) Departamentos habitacionales.\ne) Por contrato de medidor dependiendo del diámetro solicitado.\nf) Por descargas de drenaje sanitario.\nPara los usuarios que cuenten con el servicio de drenaje sanitario se cobrará un porcentaje sobre el valor del servicio facturado de agua potable; dicho porcentaje se determinará con base en el costo de la prestación de este servicio."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "44",
+          "nota": [],
+          "contenido": "La falta de pago de tres o más mensualidades, faculta a los organismos operadores o a los concesionarios para suspender los servicios. De igual manera procederá la suspensión de los servicios cuando no exista autorización para la conexión a la red oficial o cuando existiendo conexiones autorizadas se realicen derivaciones no autorizadas a otros predios, o se dé un uso distinto al contratado.\nNo obstante lo previsto en el párrafo anterior, no podrán suspenderse los servicios en los casos de que se trate de edificios destinados a la prestación de servicios asistenciales y los demás que señale el reglamento de esta Ley, en los que por razones de salud pública o seguridad no sea conveniente proceder a la suspensión. Lo anterior será independiente de poner en conocimiento de tal situación a las autoridades sanitarias. En el caso de viviendas habitadas, el servicio no será suspendido ni se podrá retirar el medidor; únicamente se podrá reducir el suministro en los términos previstos en este artículo."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "45",
+          "nota": [],
+          "contenido": "Los adeudos procedentes de la prestación de los servicios de agua potable y saneamiento tendrán el carácter de créditos fiscales. La Secretaría de Finanzas y Tesorería General del Estado en el caso de los organismos operadores estatales y sus concesionarios y las tesorerías municipales en el caso de los organismos operadores municipales e intermunicipales y sus concesionarios ejercerán la facultad económica coactiva para hacerlos efectivos."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "46",
+          "nota": [],
+          "contenido": "Los Notarios Públicos y demás fedatarios públicos no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles a los que se presten los servicios, cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por servicios de agua potable, alcantarillado y tratamiento de aguas residuales, en su caso."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "XI",
+      "nombre": "INSPECCION, VERIFICACION Y DETERMINACION PRESUNTIVA DEL PAGO DE SERVICIOS",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "47",
+          "nota": [],
+          "contenido": "El organismo operador practicará inspecciones para:\nI. Verificar que el uso de los servicios sea el contratado.\nII. Verificar que el funcionamiento de las instalaciones esté de acuerdo a la autorización concedida.\nIII. Vigilar el correcto funcionamiento de los medidores y las causas de alto y bajo consumo.\nIV. Verificar que no existan tomas clandestinas o derivaciones no autorizadas.\nV. Vigilar y verificar que las tomas o descargas cumplan con lo dispuesto en la ley.\nVI. Vigilar el debido cumplimiento de las demás obligaciones impuestas por esta Ley a los usuarios de los servicios."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "48",
+          "nota": [],
+          "contenido": "Todo inspector deberá acreditar su personalidad y exhibir la orden escrita que funde y motive la inspección. La orden de visita deberá, además, señalar la autoridad que la emite, expresar el objeto o propósito de la inspección, y ostentar la firma del servidor público competente y el nombre o nombres de las personas a las que vaya dirigido; en caso de que se ignore el nombre de la persona a visitar, se señalarán los datos suficientes del predio que permitan su identificación. Una copia de la orden de visita será entregada al particular."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "49",
+          "nota": [],
+          "contenido": "En caso de infracción a las disposiciones de esta Ley, se levantará un acta en la que se hará una relación pormenorizada de los hechos que constituyen la infracción, expresando los nombres y domicilios de los infractores y todas las demás circunstancias que revelen la gravedad de la infracción.\nEl acta deberá ser firmada por dos testigos que den fe de los hechos que constituyen la infracción. Si los testigos no supieren firmar, imprimirán su huella digital al calce del acta; lo mismo se hará si no sabe firmar el infractor, siempre que quiera hacerlo. Lo anterior será aplicable tanto a los casos en que el infractor firme el acta como en aquellos en que se niegue a hacerlo."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "50",
+          "nota": [],
+          "contenido": "Los usuarios están obligados a permitir el acceso a los inspectores o a los lecturistas al lugar o lugares donde se encuentren instalados los medidores, para que tomen lecturas de éstos.\nEl lecturista verificará que el número del medidor y el domicilio que se indique sean los correspondientes y expresará la lectura del medidor o la clave de no lectura, en su caso."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "51",
+          "nota": [],
+          "contenido": "Corresponde en forma exclusiva a los organismos operadores, y en su caso a los concesionarios, instalar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "52",
+          "nota": [],
+          "contenido": "Los usuarios cuidarán que no se deterioren o destruyan los aparatos medidores; por lo que procurarán protegerlos contra robo, bajas temperaturas, manipulaciones indebidas y toda posible causa de deterioro. Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar al organismo operador, todo daño causado a los mismos."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "53",
+          "nota": [],
+          "contenido": "Si la descarga de drenaje sanitario se destruye por causa imputable a los usuarios, propietarios o poseedores de los predios, éstos deberán cubrir el costo de las obras necesarias para suplirla, de acuerdo a los costos vigentes en el momento de la sustitución."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "54",
+          "nota": [],
+          "contenido": "Procederá la determinación presuntiva del volumen de consumo del agua, cuando:\nI. No se tenga instalado aparato de medición.\nII. No funcione el medidor o no esté en condiciones que posibiliten la toma de la lectura.\nIII. Estén rotos los sellos del medidor o se haya alterado su funcionamiento.\nIV. El usuario se oponga u obstaculice la toma de lectura del medidor.\nLa determinación a que se refiere este Artículo procederá independientemente de las sanciones administrativas que correspondan."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "55",
+          "nota": [],
+          "contenido": "Para efectos de la determinación presuntiva a que se refiere el Artículo anterior, se calculará el pago considerando indistintamente:\nI. El volumen que señale el contrato de servicios o el permiso de descarga respectivo.\nII. Los volúmenes que se desprendan de los tres últimos pagos efectuados con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.\nIII. El cálculo de la cantidad de agua que el usuario pudo obtener durante el período para el cual se efectúe la determinación, de acuerdo a las características de sus instalaciones.\nIV. Otra información obtenida por los organismos operadores, en el ejercicio de sus facultades de comprobación; y\nV. Los medios indirectos de la investigación económica o de cualquier otra clase."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "56",
+          "nota": [],
+          "contenido": "El organismo operador podrá impedir o cerrar la descarga de aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo, o bien causen daños a las redes o impliquen riesgos para éstos o la población, así como cuando las descargas no cumplan con lo dispuesto en la legislación\nde equilibrio ecológico y protección al ambiente. El ejercicio de la atribución será sin menoscabo de la protección a la salud e higiene."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "XII",
+      "nombre": "INFRACCIONES Y SANCIONES",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "57",
+          "nota": [],
+          "contenido": "Para los efectos de esta Ley cometen infracción:\nI. Las personas que incumplan la obligación de solicitar el servicio de agua y la instalación necesaria para efectuar las descargas correspondientes, en las condiciones establecidas en esta Ley, así como las que impidan el examen de los aparatos medidores o la práctica de las visitas de inspección.\nII. Las personas que utilicen el agua potable para usos no autorizados.\nIII. Las personas que causen desperfectos en un aparato medidor o violen los sellos del mismo.\nIV. Los usuarios que en cualquier caso y sin autorización ejecuten, por sí o por interpósita persona, derivaciones de agua y conexiones al alcantarillado, o que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema, así como quienes utilicen los servicios de agua potable y drenaje sanitario de manera clandestina.\nV. Las personas que por cualquier medio alteren el consumo marcado por los medidores.\nVI. El que por si o por interpósita persona retire un medidor sin estar autorizado, o varíe su colocación de manera transitoria o definitiva.\nVII. El que descargue aguas pluviales en la red de drenaje sanitario.\nVIII. Las personas que descarguen aguas residuales en las redes de alcantarillado sin contar con el permiso de descarga correspondiente, o si teniéndolo no cumplen con las normas técnicas oficiales o condiciones de descargas establecidas conforme a la ley.\nIX. El que dañe intencionalmente cualquier instalación propiedad de los organismos operadores.\nX. Quien descargue a la red de alcantarillado materias sólidas que puedan obstruirla y substancias que por su composición química sean corrosivas, explosivas, tóxicas, o de cualquier manera peligrosas, y puedan, directa o indirectamente, perjudicarla, alterar la naturaleza del afluente o afectar los procesos de tratamiento de las aguas residuales.\nX I. Las personas que impidan la instalación de los servicios de agua y alcantarillado.\nXII. Las personas que empleen mecanismos para extraer en forma ilegal agua de las tuberías de distribución.\nXIII. El que utilice el servicio de los hidrantes públicos para destinarlo a usos distintos a los de su objeto.\nLo anterior sin perjuicio de que las infracciones antes señaladas puedan constituir un delito, en cuyo caso se estará a las sanciones penales relativas, además de la reparación del daño causado, considerándose en su caso, el pago de los servicios utilizados.\n(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "58",
+          "nota": [],
+          "contenido": "Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, con multas en su equivalente a Unidades de Medida y Actualización, conforme a lo siguiente, sin perjuicio de lo que establezcan otras disposiciones jurídicas aplicables:\nI. Las infracciones expresadas en las fracciones I, y II, se sancionarán de 8-ocho a 10- diez cuotas.\nII. La infracción que se menciona en la fracción III, se sancionará de 15-quince a 20-veinte cuotas.\nIII. La infracción prevista en la fracción IV, se sancionará de 19-diecinueve a 25- veinticinco cuotas.\nIV. Las infracciones mencionadas en las fracciones V, VI, VII y VIII, se sancionarán de 38- treinta y ocho a 50-cincuenta cuotas.\nV. La infracción expresada en la fracción IX, se sancionará de 75- setenta y cinco a 100- cien cuotas.\nVI. La infracción señalada en la fracción XI, se sancionará de 300- trescientas a 400- cuatrocientas cuotas.\nVII. Las infracciones a que se refieren las fracciones X, XII y XIII, se sancionarán de 375- trescientas setenta y cinco a 500-quinientas cuotas.\nVIII. Cualquiera otra infracción se sancionará con 10-diez cuotas.\n(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020) Para los efectos de esta ley, una cuota equivale al valor diario de la Unidad de Medida y Actualización.\nCuando constituyan un delito los hechos que contravengan las disposiciones de esta Ley y reglamentos, se formulará denuncia o querella según corresponda, ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.\nEn los casos del servicio público concesionado, los concesionarios no podrán determinar ni aplicar sanción alguna. La infracción correspondiente deberá informarse a la autoridad Estatal o Municipal competente y ésta determinará e impondrá la sanción que proceda.\n(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020) Las resoluciones que se emitan en materia de sanciones deberán estar fundadas y motivadas. Cuando el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día, y si es trabajador\nno asalariado, la multa no excederá del equivalente al valor diario de la Unidad de Medida y Actualización."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "59",
+          "nota": [],
+          "contenido": "Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones, resultare que ésta o éstas aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el monto máximo permitido."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "60",
+          "nota": [],
+          "contenido": "En los casos de las fracciones II, IV, V, IX y XII del Artículo 57, así como en los casos de reincidencia en cualquiera de las infracciones del Artículo citado, se podrá imponer adicionalmente la sanción de clausura temporal o definitiva, parcial o total, de la toma.\nEn el caso de clausura, el personal designado por el organismo operador para llevarla a cabo procederá a levantar acta circunstanciada de la diligencia. Lo anterior, sin menoscabo de lo que establezcan las disposiciones de salud vigentes en el Estado."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61",
+          "nota": [],
+          "contenido": "Las sanciones que correspondan por las infracciones previstas en esta Ley se impondrán sin menoscabo del pago de los daños y perjuicios causados que el organismo operador notificará al infractor, previa su cuantificación para que cubra estos últimos dentro de los plazos que se determinen en el convenio que para tal efecto se celebre, o en su defecto, si se demandan ante la autoridad judicial, se estará a los términos de la resolución respectiva.\nEn los términos de esta Ley, y para efectos de cobro, las multas a que se refiere el presente Artículo tendrán carácter fiscal; para su recuperación se observará lo dispuesto en el Artículo 45 de esta ley.\n(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023) CAPITULO XII BIS DEL TRATAMIENTO DE AGUAS RESIDUALES Y SU REÚSO\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS",
+          "nota": [],
+          "contenido": "Corresponde al Organismo Público denominado \"Servicios de Agua y Drenaje de Monterrey\", I.P.D., a través de las diversas unidades administrativas de la Institución, en coordinación con dependencias y entidades correspondientes, los siguientes servicios:\nI.- Vigilar y coordinar el crecimiento integral y coordinado de los sistemas de tratamiento y utilización de agua residual tratada en el territorio del Estado;\nII. Elaborar los estudios y proyectos ejecutivos de las obras de infraestructura de plantas de tratamiento de aguas residuales que le sean solicitados, de acuerdo a los procedimientos aplicables;\nIII. Garantizar el óptimo desempeño de las diversas unidades e instalaciones de tratamiento de aguas residuales de su competencia y vigilar la calidad del agua tratada de las plantas de tratamiento, ya sean públicas o privadas;\nIV. Promover y supervisar la venta de agua tratada, mediante redes de distribución, garzas o pipas, para uso de riego de áreas verdes o procesos industriales y/o comerciales, preservando el agua potable para consumo de la población;\nV. Dirigir la política de venta de agua residual tratada, a fin de concretar su reúso y aumentar el número de usuarios de dicho recurso;\nVI. Desarrollar los planes adecuados para la ampliación de las redes de distribución de agua residual tratada para el servicio de los usuarios públicos y privados, particularmente para el riego de áreas verdes, procesos industriales, comerciales y de servicio que lo permita, misma que deberá estar plenamente identificada con el color morado;\nVII. Fomentar la difusión de los beneficios del uso de agua residual tratada y los diversos tipos de actividades de la sociedad en las que puede ser utilizada;\nVIII. Las que expresamente se le otorguen por esta Ley y demás disposiciones que resulten aplicables.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 1",
+          "nota": [],
+          "contenido": "Corresponde a los Organismos encargados del servicio público de agua potable y saneamiento realizar el tratamiento de aguas residuales, así como a los particulares en los términos previstos en la presente Ley. El tratamiento de aguas residuales deberá cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas y las normas ambientales del Estado.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 2",
+          "nota": [],
+          "contenido": "La Secretaría de Medio Ambiente del Estado, en coordinación con los Organismos encargados del servicio público de agua potable y saneamiento, llevarán un inventario de las descargas de aguas residuales que se vierten en sistemas de drenaje y alcantarillado de su competencia, así como los permisos de descarga que en su caso se otorguen.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 3",
+          "nota": [],
+          "contenido": "Corresponde a los usuarios no domésticos que efectúen descargas de aguas residuales a las redes de drenaje y alcantarillado, cumplir con lo estipulado en las Normas Oficiales Mexicanas correspondientes y con las normas ambientales del Estado.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 4",
+          "nota": [],
+          "contenido": "Se prohíbe descargar a los cuerpos de agua, a las redes de drenaje y alcantarillado, así como a los ecosistemas acuáticos en el territorio del Estado, residuos sólidos urbanos, de manejo especial o peligrosos, conforme a las disposiciones de esta Ley, de las normas ambientales del Estado y demás que resulten aplicables.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 5",
+          "nota": [],
+          "contenido": "En los sistemas de tratamiento de aguas residuales particulares, invariablemente se deberán considerar y realizar los proyectos para el\nmanejo y disposición final de lodos, en los términos de las disposiciones respectivas. Asimismo, se deberán construir las trampas de sólidos y las desnatadoras de grasas que se requieran para cumplir con las condiciones especiales de descarga que determine el Organismo prestador del servicio.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 6",
+          "nota": [],
+          "contenido": "La Secretaría de Medio Ambiente del Estado, conjunta o separadamente con el Organismo Operador del servicio público de agua potable y saneamiento, promoverán la difusión entre la población, de programas y acciones de control y prevención para evitar la contaminación, el ahorro y el uso eficiente del agua potable, así como el reúso de las aguas residuales procedentes de las plantas de tratamiento si su calidad así lo permite de acuerdo con la normatividad aplicable.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 7",
+          "nota": [],
+          "contenido": "Los Organismos encargados del servicio público de agua potable y saneamiento, desarrollaran infraestructura mediante inversiones públicas o privadas que permita a los ciudadanos el aprovechamiento de las aguas residuales tratadas, donde así se justifique técnica, económica y ambientalmente.\n(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)"
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "61 BIS 8",
+          "nota": [],
+          "contenido": "Es obligatorio utilizar agua residual tratada, previa solicitud de factibilidad del servicio solicitada al organismo operador, donde exista la infraestructura necesaria y la calidad del agua se encuentre dentro de los límites establecidos por las Normas Oficiales Mexicanas aplicables, en los casos siguientes:\nI.- Para las actividades de limpieza de instalaciones, parque vehicular y en los establecimientos industriales, comerciales y de servicios, así como en las instalaciones del sector público, para el riego de áreas verdes públicas;\nII.- Para los sistemas industriales de enfriamiento, lavado y procesos productivos que no requieran necesariamente agua potable, conforme a las normas y especificaciones técnicas aplicables;\nIII.- Para las obras en construcciones, así como para la construcción de terracerías y la compactación de suelos;\nIV.- Para el lavado de vehículos a nivel comercial;\nV.- Para la agricultura;\nVI.- Para hidrantes contra incendios;\nVII.- Para fuentes públicas de ornato;\nVIII.- Áreas verdes de campos deportivos;\nIX.- Riego de terrenos particulares;\nX.- En la industria, en edificios corporativos, escuelas públicas y privadas y en oficinas públicas y privadas y giros mercantiles: se deberá utilizar agua residual tratada para la limpieza y aseo de áreas de servicios, en mingitorios y muebles sanitarios; y\nXI.- En los demás casos previstos en este y en otras disposiciones aplicables."
+        }
+      ]
+    },
+    {
+      "tipo": "capitulo",
+      "sufijo": "XIII",
+      "nombre": "RECURSOS ADMINISTRATIVOS",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "62",
+          "nota": [],
+          "contenido": "Los afectados por los actos y resoluciones de las autoridades en la materia de esta Ley, podrán interponer el recurso de reconsideración.\nEl recurso mencionado deberá formularse por escrito y firmarse por el recurrente o por su representante debidamente acreditado.\nEl escrito deberá contener:\nI. Nombre y domicilio del recurrente y, en su caso, de quien promueva en su representación. Si fueren varios los recurrentes, el nombre y domicilio de su representante común.\nII. El interés legítimo y específico que asiste al recurrente.\nIII. La autoridad o autoridades que dictaron el acto recurrido.\nIV. La mención precisa del acto de autoridad que motiva la interposición del recurso.\nV. Los conceptos de violación o, en su caso, las objeciones a la sanción reclamada.\nVI. Las pruebas que ofrezcan conforme a lo dispuesto en esta Ley.\nVII. El lugar y la fecha de la promoción."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "63",
+          "nota": [],
+          "contenido": "El recurso de reconsideración se interpondrá ante la propia autoridad que emitió la resolución, dentro del término de quince días hábiles contados a partir de la fecha en que fuere notificado el acuerdo en que se impone la sanción, o en que el interesado tuviere conocimiento de ese acuerdo."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "64",
+          "nota": [],
+          "contenido": "La autoridad que debe conocer del recurso lo radicará, si éste cumple con los requisitos del Artículo 62. En caso contrario prevendrá al promovente para que los satisfaga; de no cumplir dicha prevención, se tendrá por no interpuesto el recurso.\nCuando el recurso se promueva en forma extemporánea se rechazará de plano."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "65",
+          "nota": [],
+          "contenido": "Al radicarse el recurso se dará vista a las personas que, en su caso, hubieren gestionado el acto recurrido, para que participen en la tramitación de aquél."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "66",
+          "nota": [],
+          "contenido": "En el proceso del recurso se considerarán como pruebas idóneas la documental, la de inspección y la pericial. No se admitirá la prueba confesional ni la testimonial. La autoridad que conozca el recurso calificará las pruebas ofrecidas por el recurrente y por las personas a que se refiere el Artículo 65, admitirá las que fueren conducentes, y señalará a partir de esa fecha un término no menor de cinco ni mayor de quince días hábiles para su recepción y desahogo.\nLa autoridad podrá, en interés general, disponer pruebas para mejor proveer y suplir la queja deficiente."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "67",
+          "nota": [],
+          "contenido": "Dentro de un término no mayor de quince días hábiles después de concluido el período de pruebas la autoridad confirmará, modificará o revocará el acto recurrido. Si no lo hiciere en ese término, el recurso se entenderá resuelto en favor del quejoso."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "68",
+          "nota": [],
+          "contenido": "La admisión del recurso de reconsideración suspenderá la ejecución de las sanciones pecuniarias."
+        }
+      ]
+    }
+  ]
+}

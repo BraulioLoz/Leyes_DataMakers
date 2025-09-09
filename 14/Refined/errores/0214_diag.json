@@ -1,0 +1,42 @@
+{
+  "n_chapters": 28,
+  "n_perm_articles": 239,
+  "n_perm_fracciones": 327,
+  "n_trans_caps": 1,
+  "n_trans_articles": 14,
+  "n_trans_fracciones": 5,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De la Patente de Aspirante al Ejercicio del Notariado",
+    "CAPÍTULO III De los Requisitos para la Obtención del Nombramiento de Notario",
+    "CAPÍTULO IV Del Desempeño del Notariado",
+    "Sección Primera Del Inicio de la Función Notarial",
+    "Sección Segunda De los Convenios Notariales de Asociación y de Asistencia",
+    "Sección Tercera De la Suspensión y Terminación de la Función Notarial",
+    "Sección Primera Del Protocolo Ordinario",
+    "Sección Segunda Del Protocolo Electrónico",
+    "CAPÍTULO III De las Escrituras e Instrumentos Públicos",
+    "CAPÍTULO IV De los Duplicados y Avisos",
+    "CAPÍTULO V Del Libro de Documentos o Apéndice",
+    "CAPÍTULO VI Del Libro de Certificaciones y su Libro de Documentos o Apéndice",
+    "CAPÍTULO VII De las Disposiciones Comunes a los Libros que llevan los Notarios",
+    "CAPÍTULO VIII De los Testimonios",
+    "CAPITULO IX Del Arancel",
+    "CAPÍTULO I De las Visitas",
+    "CAPÍTULO II De las Sanciones",
+    "Sección Primera Del Procedimiento Administrativo de Responsabilidad Notarial",
+    "Sección Segunda De las Notificaciones",
+    "Sección Tercera De la Mediación y Conciliación",
+    "Sección Cuarta De la Queja Administrativa",
+    "CAPÍTULO IV (Procedimiento Administrativo de Oficio) Derogado",
+    "CAPÍTULO ÚNICO De la Dirección de Archivo de Instrumentos Públicos",
+    "CAPÍTULO I Del Colegio y Consejo de Notarios",
+    "CAPÍTULO II De la Comisión de Honor y Justicia",
+    "CAPÍTULO III De la Mutualidad del Colegio de Notarios de Jalisco",
+    "CAPÍTULO IV De la Academia Jalisciense de Derecho Notarial"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 19,
+    "SECCIÓN": 9
+  }
+}

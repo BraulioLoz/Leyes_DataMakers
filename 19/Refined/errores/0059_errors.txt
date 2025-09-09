@@ -1,0 +1,13 @@
+Errores y advertencias para: 0059.txt
+==================================================
+
+Ubicación: line 498
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 20 a 22
+Línea: Artículo 22. El Instituto será conformado por:
+------------------------------
+Ubicación: line 1656
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 170 a 172
+Línea: Artículo 172. Son susceptibles de permiso, en los términos de esta Ley y su Reglamento, las siguientes modalidades del servicio de transporte:
+------------------------------

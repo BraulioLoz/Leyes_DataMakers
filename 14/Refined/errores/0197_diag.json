@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 36,
+  "n_perm_fracciones": 55,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones generales.",
+    "Capítulo II Atribuciones de la autoridad.",
+    "Capítulo III De los espacios protegidos a la exposición contra el humo de tabaco.",
+    "Capítulo IV De las obligaciones",
+    "Capítulo V De la participación ciudadana",
+    "Capítulo VI De la denuncia ciudadana",
+    "Capítulo VII De las sanciones."
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

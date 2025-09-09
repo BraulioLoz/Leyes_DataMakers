@@ -1,0 +1,33 @@
+{
+  "n_chapters": 19,
+  "n_perm_articles": 31,
+  "n_perm_fracciones": 128,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Primero Disposiciones Generales",
+    "Capítulo Segundo De los principios rectores",
+    "Capítulo Tercero De las directrices aplicables a los principios rectores",
+    "Capítulo Cuarto De los valores fundamentales en el comportamiento y desempeño de los servidores públicos del Congreso del Estado",
+    "Capítulo Quinto De las reglas de integridad",
+    "Sección primera De la actuación pública",
+    "Sección segunda De la administración de bienes muebles e inmuebles",
+    "Sección tercera Del comportamiento digno",
+    "Sección cuarta De las contrataciones públicas, compras, enajenaciones y contrataciones de servicios",
+    "Sección quinta Del control interno",
+    "Sección sexta De la cooperación con la integridad",
+    "Sección séptima Del desempeño permanente con integridad",
+    "Sección octava De la información pública",
+    "Sección novena Del procedimiento administrativo o jurisdiccional",
+    "Sección décima De los procesos de evaluación",
+    "Sección décima primera De los recursos humanos",
+    "Sección décima segunda Del servicio y atención al púbico",
+    "Capítulo sexto Del Comité de Ética e Igualdad",
+    "Capítulo séptimo Mecanismos para capacitación y difusión"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7,
+    "SECCIÓN": 12
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "n_chapters": 26,
+  "n_perm_articles": 143,
+  "n_perm_fracciones": 278,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo Único De la Planeación, Programación y Evaluación",
+    "Capítulo I De la Secretaría de Agricultura y Desarrollo Rural",
+    "Capítulo II De los Ayuntamientos",
+    "Capítulo III De la Comisión Intersecretarial del Estado de Jalisco para el Desarrollo Rural Sustentable",
+    "Capítulo IV De los Consejos de Desarrollo Rural Sustentable",
+    "Capítulo V De los Convenios y Acuerdos",
+    "Capítulo I Del Fomento de las Actividades Agropecuarias",
+    "Capítulo II De la Capitalización Rural",
+    "Capítulo III De la Infraestructura y Equipamiento Rural",
+    "Capítulo IV De la Certeza y Seguridad Jurídica a los Productores Rurales",
+    "Capítulo I De la Sanidad Vegetal",
+    "Capítulo II De la Sanidad Pecuaria",
+    "Capitulo III De la Comercialización Agropecuaria",
+    "Capítulo IV Del Servicio Estatal de Medios Alternativos de Solución de Conflictos de los Productos Ofertados por la Sociedad Rural",
+    "Capítulo V Del Financiamiento Rural",
+    "Capítulo VI De los Apoyos Económicos",
+    "Capítulo VII De la Administración de Riesgos",
+    "Capítulo VIII De las Ferias y Exposiciones de la Producción Agropecuaria",
+    "Capítulo IX Del Reconocimiento al Mérito Agropecuario",
+    "Capítulo Único De Información para el Desarrollo Rural Sustentable",
+    "Capítulo Único",
+    "Capítulo I Del Bienestar Social",
+    "Capítulo II Del Desarrollo Rural Sustentable de los Pueblos Indígenas",
+    "Capítulo III De la Sustentabilidad de la Producción Rural",
+    "Capítulo IV De la Seguridad y Soberanía Alimentaria"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 26
+  }
+}

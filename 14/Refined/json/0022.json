@@ -1,0 +1,516 @@
+{
+  "0022.JSON": {
+    "Decreto": "Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos. Emilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 24054/LIX/12.- EL CONGRESO DEL ESTADO DECRETA:\nSE CREA LA LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO.",
+    "Año_publicación": 2012,
+    "Título": "Ley de Bibliotecas del Estado de Jalisco",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "º Esta ley es de observancia general en el estado de Jalisco; sus disposiciones son de orden público e interés social, y tendrá, en concordancia con la Ley General de Bibliotecas, los siguientes objetivos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La distribución de competencias y estrategias de coordinación entre el Gobierno del Estado y los municipios de la función educativa y cultural que se lleva a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El señalamiento de las normas básicas para la configuración de la Red Estatal de Bibliotecas Públicas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El establecimiento de las bases y directrices para la integración y el desarrollo de un Sistema Estatal de Bibliotecas; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La determinación de lineamientos para llevar a cabo la concertación con los sectores social y privado en esta materia en la entidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "º Para efectos de la presente ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Biblioteca pública: todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentre destinado a atender en forma gratuita a toda persona que solicite la consulta o préstamo del acervo en los términos de las normas administrativas aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretaría: la Secretaría de Cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Libro: toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos; comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Red: la Red Estatal de Bibliotecas Públicas de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Sistema: Sistema Estatal de Bibliotecas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Biblioteca digital: colecciones organizadas de contenidos digitales puestas a disposición del público, ya sea que se trate de material previamente digitalizado o creado desde un principio en un formato digital; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Catálogo en Internet: relación ordenada, consultable desde Internet, en la que se describen los libros en forma individual pertenecientes a una biblioteca, a la Red Estatal de Bibliotecas Públicas de Jalisco o al Sistema Estatal de Bibliotecas."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "º La biblioteca pública tendrá como finalidad ofrecer los servicios de consulta de libros y otros servicios culturales complementarios que permitan a la población adquirir, transmitir, acrecentar y conservar en forma libre el conocimiento en todas las ramas del saber; asimismo, brindar acceso al conocimiento, a la información y al trabajo intelectual, a través de una serie de recursos y servicios a disposición de todos los miembros de la comunidad en igualdad de condiciones, sin distinciones de raza, nacionalidad, edad, sexo, religión, idioma, discapacidad, condición económica y laboral y nivel de escolaridad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "º El acervo de las bibliotecas públicas podrá comprender colecciones bibliográficas, hemerográficas, auditivas, visuales, audiovisuales, elementos de apoyo a personas con discapacidad y, en general, cualquier otro medio que contenga información afín.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "º Es derecho de los usuarios de las bibliotecas públicas que se respeten su privacidad y la confidencialidad de la información que buscan o reciben, así como de los recursos que consultan, toman en préstamo, adquieren o transmiten, protegiendo sus datos personales en los términos establecidos por las leyes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "º Corresponde a la Secretaría de Cultura proponer, ejecutar y evaluar la política estatal de bibliotecas atendiendo al Plan Estatal de Desarrollo y programas correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "º El Gobierno del Estado y los municipios, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas y los servicios culturales complementarios que a través de éstas se otorguen.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De la distribución de competencias",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "º Son autoridades en materia de bibliotecas públicas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Ejecutivo estatal, a través de la Secretaría de Cultura;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Consejo de la Red Estatal de Bibliotecas Públicas; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los ayuntamientos."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "orresponde a la Secretaría de Cultura:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Integrar y coordinar la Red Estatal de Bibliotecas Públicas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer los mecanismos participativos para programar la expansión de la red;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir la normatividad técnica bibliotecaria para las bibliotecas de la red, y supervisar su cumplimiento;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Seleccionar, determinar y desarrollar las colecciones físicas y digitales de cada biblioteca pública de acuerdo con el programa correspondiente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dotar o gestionar la dotación de un acervo de publicaciones informativas, recreativas y formativas para las nuevas bibliotecas públicas; así como libros para personas con discapacidad; y también obras de consulta y publicaciones periódicas, a efecto de que sus acervos respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de la localidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Enviar periódicamente a las bibliotecas integradas a la red dotaciones de los materiales señalados en la fracción anterior;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir de las bibliotecas que integran la red las publicaciones obsoletas o poco utilizadas y redistribuirlas, en su caso;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Enviar a las bibliotecas integrantes de la red los materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas bibliotecológicas autorizadas, a efecto de que los servicios bibliotecarios puedan ofrecerse con mayor eficiencia;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Proporcionar el servicio de catalogación de acervos complementarios de las bibliotecas integrantes de la red;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proporcionar entrenamiento y capacitación al personal adscrito a las bibliotecas públicas de la red;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Facilitar la profesionalización del personal adscrito a las bibliotecas públicas de la red;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Proporcionar asesoría técnica en materia bibliotecaria a las bibliotecas incluidas en la red;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Registrar los acervos de las bibliotecas en un catálogo general que permita la articulación de los servicios, el que podrá divulgarse por Internet;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Difundir a nivel estatal los servicios bibliotecarios y actividades afines a las bibliotecas públicas;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Coordinar el préstamo interbibliotecario, vinculando a las bibliotecas integrantes de la red entre sí y con la comunidad bibliotecaria en los programas respectivos;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Llevar a cabo o patrocinar investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios y el hábito de la lectura;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Reparar los acervos dañados;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Promover, en colaboración con los ayuntamientos, la dotación a sus bibliotecas de los locales y equipo necesario; así como asegurar de modo integral y conservar en buen estado las instalaciones, el equipo y el acervo bibliográfico;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Designar al coordinador de la Red Estatal, quien fungirá como enlace en la coordinación de la Red Nacional de Bibliotecas Públicas, y quien debe ser un profesional del área de bibliotecas o, en su defecto, con el compromiso de profesionalizarse en el área de bibliotecas durante el ejercicio de su cargo;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Nombrar, adscribir y remunerar al personal que destine a la operación de bibliotecas públicas;\na) Elaborar el listado general de las bibliotecas que se integren al Sistema Estatal de Bibliotecas;\nb) Orientar a las bibliotecas pertenecientes al sistema respecto de los medios técnicos en materia bibliotecaria y su actualización, para su mejor organización y operación;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Configurar un catálogo general de acervos de las bibliotecas incorporadas al sistema, conforme a las reglas de catalogación y clasificación bibliográfica que adopte el sistema para lograr su uniformidad;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Operar como medio de enlace entre los participantes, y entre éstos y las organizaciones bibliotecológicas con las que se relacionen, para desarrollar programas conjuntos;\ne) Apoyar programas de capacitación técnica y profesional del personal que tenga a su cargo servicios bibliotecarios, tendiendo a la optimización de éstos y al apoyo de las labores en la materia;\nf) Proporcionar servicios de catalogación y clasificación a solicitud de los interesados en general, mediante el pago de las cuotas a que haya lugar;\ng) Impulsar que los directivos sean técnicos o profesionales del área de bibliotecas o, en su defecto, profesionalizarlos durante el ejercicio de su cargo; y\nh) Suscribir convenios con los titulares de las bibliotecas de los sectores social y privado y de las dependencias de los demás órganos de gobierno y municipales que deseen incorporarse a la Red Estatal de Bibliotecas Públicas; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás que sean análogas a las anteriores que le permitan alcanzar sus propósitos."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Corresponde al Consejo de la Red Estatal de Bibliotecas Públicas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar la debida integración de la Red Estatal de Bibliotecas Públicas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer mecanismos participativos para la expansión de la red;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Colaborar en la formulación de la normatividad técnica bibliotecaria para las bibliotecas de la red;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coadyuvar en la selección de las colecciones físicas y digitales de cada biblioteca pública;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer el acervo de publicaciones informativas, recreativas y formativas; así como materiales bibliotecarios para el uso de personas con discapacidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Sugerir acervos que respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de cada localidad;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Participar en las tareas de la Secretaría a efecto de que los servicios bibliotecarios puedan ofrecerse con mayor eficiencia; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Aquellas que le imponga la presente ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Corresponde a los ayuntamientos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer bibliotecas públicas municipales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Incorporar las bibliotecas públicas municipales a la red, mediante convenios de colaboración; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Apoyar los programas de expansión de la red en los términos de los convenios de coordinación que se suscriban para ese efecto."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Las bibliotecas públicas que fueren constituidas como consecuencia de un convenio de colaboración entre la Secretaría y un municipio, no podrán ser modificadas en su espacio ni operación, así como tampoco desintegradas, salvo que se realice conforme a los términos del mismo convenio.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De las bibliotecas",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "Las bibliotecas públicas del estado de Jalisco deben operar anteponiendo la eficiencia, la calidad y orientación en el servicio, basadas en normas, recomendaciones y directrices nacionales e internacionales especializadas en la materia, y funcionarán como una red a la vez conectada con otras bibliotecas de otras instituciones y ciudades.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Con base en lo señalado en el artículo anterior, cada biblioteca pública deberá contar con un reglamento de funcionamiento que deberá regular cuando menos lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Horario de servicio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Requisitos para consulta in situ;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Requisitos para préstamo de libros y documentos;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Condiciones de accesibilidad para personas con discapacidad, tanto a las instalaciones como al acervo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Normas generales de comportamiento de los usuarios; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Restricciones generales de ingreso."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Todos los servicios que presten las bibliotecas públicas serán gratuitos, a excepción de aquellos relacionados con la impresión, reproducción y fotocopiado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "La reproducción total o parcial de libros y documentos sólo podrá realizarse conforme a la Ley Federal de Derechos de Autor.\nNo habrá restricción para la reproducción de obras del dominio público o de autor anónimo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "La Secretaría y los municipios, en su ámbito de competencia, deberán poner en práctica, coordinada o separadamente, políticas públicas para el desarrollo de colecciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Podrá tener acceso a los servicios toda persona sin importar su lugar de origen, residencia, lengua, capacidades físicas, apariencia, edad, religión o cualquier otra característica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Las bibliotecas enriquecerán su acervo mediante la participación de los usuarios, atendiendo a sus propuestas, en función de las particularidades de su ubicación, su diversidad cultural y lingüística, y con base en los intereses de la comunidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Toda biblioteca pública debe brindar, cuando menos, los siguientes servicios básicos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Consulta del acervo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Préstamo in situ y externo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Información y orientación para el uso de la biblioteca y la satisfacción de las necesidades informativas de los visitantes;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Acceso a computadoras para fines académicos, culturales o de investigación; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acceso a información digital a través de Internet o las redes análogas que se puedan desarrollar, así como la formación para su mejor manejo.\nAdemás podrán llevar a cabo actividades permanentes de tipo cultural o de promoción intelectual, tales como talleres, seminarios, simposios, conferencias, foros, exposiciones, presentaciones de libros, círculos de lectura y de estudio, organización de ferias, festivales y otras en las que se propicie la libre manifestación y el intercambio de ideas."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Como parte de su acervo, las bibliotecas públicas procurarán contar con las leyes, reglamentos y demás disposiciones legales y administrativas que formen el marco jurídico del estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Las bibliotecas deberán llevar a cabo programas de difusión cultural, de los servicios bibliotecarios y de fomento a la lectura de autores preferentemente jaliscienses.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "La Red Estatal de Bibliotecas Públicas se integra con todas aquellas constituidas y en operación dependientes del Estado y de los municipios.\nLa Secretaría de Cultura podrá celebrar con las entidades y personas físicas o morales de los sectores público, social y privado los acuerdos de coordinación necesarios para su adhesión a la Red Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "La red deberá contar con una biblioteca digital a efecto de facilitar el acceso remoto a los usuarios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Se crea el Consejo de la Red Estatal de Bibliotecas Públicas con carácter de órgano consultivo, el que a solicitud expresa llevará a cabo las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presentar propuestas para mejorar los servicios que prestan las bibliotecas integrantes de la red, y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formular recomendaciones para lograr una mayor participación de los sectores social y privado, comunidades y personas interesadas en el desarrollo de la red."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "El Consejo de la Red Estatal de Bibliotecas Públicas estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será el Secretario de Cultura del Poder Ejecutivo del Estado de Jalisco o quien él designe;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cinco vocales invitados a participar por el Presidente del Consejo, conforme a los siguientes criterios de representación:\na) El Rector General de la Universidad de Guadalajara;\nb) El Director de la División de Disciplinas Estudios de la Cultura;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Un representante del Sistema de Educación Media Superior;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Un representante de las instituciones educativas de nivel básico, y\ne) Un representante de los municipios del estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un diputado integrante de la Comisión de Educación, Cultura y Deporte del Congreso del Estado, designado por la misma comisión;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El Secretario de Educación del Poder Ejecutivo del Estado de Jalisco o quien él designe; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Secretario de Innovación, Ciencia y Tecnología del Poder Ejecutivo del Estado de Jalisco o quien él designe.\nPor cada miembro propietario habrá un suplente, quien tendrá las mismas atribuciones del propietario en las ausencias de éste.\nLos cargos del Consejo serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.\nTodos los miembros tendrán voz y voto, y además el Presidente tendrá voto de calidad en caso de empate. Los acuerdos del Consejo se tomarán por mayoría de votos."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "El Consejo, a solicitud de cualquiera de sus integrantes, podrá invitar con derecho a voz a las personas que considere necesario consultar para el desahogo de los asuntos a su cargo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "La Red Estatal de Bibliotecas Públicas tendrá por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Integrar los recursos de las bibliotecas públicas y coordinar sus funciones para fortalecer y optimizar la operación de éstas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ampliar y diversificar los acervos y orientar los servicios de las bibliotecas públicas; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover y fomentar la capacitación y profesionalización de su personal."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del Sistema Estatal de Bibliotecas",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "Se declara de interés social la integración de un Sistema Estatal de Bibliotecas, compuesto por todas aquellas bibliotecas escolares, públicas, universitarias y especializadas pertenecientes a dependencias, entidades y personas físicas o morales de los sectores público, social y privado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "El Sistema Estatal de Bibliotecas será coordinado por el Secretario de Cultura, quien deberá tomar en cuenta las propuestas que presente el Consejo Estatal de Bibliotecas Públicas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "El Sistema Estatal de Bibliotecas tendrá como propósito conjuntar los esfuerzos estatales para lograr la coordinación dentro del sector público y la participación voluntaria de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica disponible en apoyo a las labores educativas, de investigación y cultural en general, para el desarrollo integral del estado y de sus habitantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Las bibliotecas cuyas características sean diferentes a las de las bibliotecas públicas señaladas en esta ley, podrán ser incorporadas al Sistema Estatal de Bibliotecas mediante el correspondiente compromiso de integración que celebren sus titulares con la Secretaría de Cultura.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "La presente ley entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Dentro de los cuarenta días siguientes a la fecha de publicación del presente decreto, el Secretario de Cultura deberá integrar el Consejo de la Red Estatal de Bibliotecas Públicas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "Una vez integrado, el Consejo de la Red Estatal de Bibliotecas Públicas tendrá tres meses para expedir su respectivo reglamento, que deberá ser publicado en el periódico oficial El Estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Las bibliotecas públicas que a la fecha de publicación del presente decreto estén integradas a la Red Estatal de Bibliotecas Públicas, continuarán siendo parte de la misma y se regirán por lo dispuesto en la presente Ley de Bibliotecas del Estado de Jalisco.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 30 de julio de 2012\nDiputado Presidente Sergio Armando Chávez Dávalos\nDiputada Secretaria Noa Zurisadai Acosta Esquivias\nDiputada Secretaria Verónica Rizo López\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 09 nueve días del mes de agosto de 2012 dos mil doce.\nEl Gobernador Constitucional del Estado Emilio González Márquez\nEl Secretario General de Gobierno Lic. Víctor Manuel González Romero\nTABLA DE REFORMAS Y ADICIONES\nFe de erratas al Decreto 24054/LIX/12.-Ene. 24 de 2013. Sec. II.\n25825/LXI/16.- Se reforma el artículo 26 de la Ley de Bibliotecas del Estado de Jalisco.- May. 17 de 2016 sec. IV.\n26272/LXI/17.- Se reforman los artículos 9 y 10 de la Ley de Bibliotecas del Estado de Jalisco.- Mar. 4 de 2017 sec. V. 27314/LXII/19.- Reforma diversos artículos de la Ley que crea el Instituto de la Infraestructura Física Educativa; la Ley de Atención a la Juventud; Ley de Beneméritos; Ley de Bibliotecas; Ley de Fomento a la Cultura; Ley de Cultura Física y Deporte, todas del Estado de Jalisco.- Jul. 27 de 2019 sec. V.\nLEY DE BIBLIOTECAS DEL ESTADO DE JALISCO APROBACIÓN: 30 DE JULIO DE 2012.\nPUBLICACIÓN: 23 DE AGOSTO DE 2012. SECCIÓN VI.\nVIGENCIA: 24 DE AGOSTO DE 2012.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

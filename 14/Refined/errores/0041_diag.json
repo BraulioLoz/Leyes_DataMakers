@@ -1,0 +1,24 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 48,
+  "n_perm_fracciones": 147,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Autoridades",
+    "Título Sexto de esta Ley;",
+    "Capítulo Único Objeto e integración",
+    "Capítulo Único",
+    "Capítulo Único",
+    "Capítulo I Disposiciones generales",
+    "Capítulo II Aviso de filmación o grabación",
+    "Capítulo III Permiso de filmación o grabación",
+    "Capítulo IV Permiso urgente"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9,
+    "TÍTULO": 1
+  }
+}

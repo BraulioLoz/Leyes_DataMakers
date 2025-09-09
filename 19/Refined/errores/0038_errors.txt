@@ -1,0 +1,8 @@
+Errores y advertencias para: 0038.txt
+==================================================
+
+Ubicación: line 406
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 89 a 91
+Línea: ARTICULO 91.-Cuando se solicite la suspensión provisional o definitiva de una orden de clausura, además de garantizarse el interés fiscal en las formas que establece el Código Fiscal del Estado, la Tesorería General podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la determinación del juicio.
+------------------------------

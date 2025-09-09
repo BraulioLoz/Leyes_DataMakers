@@ -1,0 +1,24 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 29,
+  "n_perm_fracciones": 69,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I De la Naturaleza y Objeto de la Ley",
+    "Capítulo II",
+    "Capítulo III De los Parámetros Interpretativos",
+    "Capítulo Único De los Ámbitos de la Prevención Social",
+    "Capítulo I Del Consejo Estatal de Seguridad Pública",
+    "Capítulo II Del Centro de Prevención Social del Estado de Jalisco",
+    "Capítulo III De las Opiniones y Recomendaciones",
+    "Capítulo IV De la Coordinación de Programas",
+    "CAPÍTULO I Del Programa Estatal",
+    "CAPÍTULO II De la Evaluación del Programa Estatal",
+    "Capítulo Único"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "n_chapters": 12,
+  "n_perm_articles": 54,
+  "n_perm_fracciones": 152,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I",
+    "Sección Primera",
+    "Sección Segunda Junta de Gobierno",
+    "Sección Tercera De la Dirección General",
+    "Sección Cuarta Consejo Consultivo",
+    "Capítulo III De las Empresas de Participación Estatal",
+    "Sección Primera",
+    "Sección Segunda De los Comités Técnicos de los Fideicomisos",
+    "Sección Tercera Disposiciones Complementarias",
+    "Capítulo V Del Registro de Entidades Paraestatales del Estado",
+    "Capítulo VI Del Desarrollo y Operación",
+    "Capitulo VII Del Órgano Interno de Control"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 7
+  }
+}

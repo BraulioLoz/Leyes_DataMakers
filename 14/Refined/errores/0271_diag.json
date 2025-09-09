@@ -1,0 +1,19 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 23,
+  "n_perm_fracciones": 38,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Sección Primera De la Comisión",
+    "Sección Segunda Del Administrador",
+    "Sección Primera De las Empresas, Negociaciones y Establecimientos",
+    "Sección Segunda Del Destino de los Bienes"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 1,
+    "SECCIÓN": 4
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 38,
+  "n_perm_fracciones": 100,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Del Objeto",
+    "Capítulo II De la Secretaría",
+    "Capítulo III De la Comisión",
+    "Capítulo IV De los Prestadores de Servicios Inmobiliarios",
+    "Capítulo V De las Obligaciones de los Prestadores de Servicios Inmobiliarios",
+    "Capítulo VI De los Derechos y Obligaciones de los Usuarios",
+    "Capítulo I De las Acreditaciones",
+    "Capítulo II Del Registro Estatal de Prestadores de Servicios Inmobiliarios",
+    "Capítulo III De la Capacitación",
+    "Capítulo I De las quejas en materia de Prestación de los Servicios Inmobiliarios",
+    "Capítulo II De las Infracciones y Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 11
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "n_chapters": 13,
+  "n_perm_articles": 130,
+  "n_perm_fracciones": 113,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO",
+    "Capítulo I De la Coordinación con los Poderes del Estado, la Federación y los Municipios, en Relación al Presupuesto",
+    "Capítulo II Del Proceso de Planeación, Programación y Presupuestación",
+    "Capítulo III De la Preparación del Presupuesto",
+    "Capítulo IV De la Estructura del Presupuesto",
+    "Capítulo V De la Iniciativa, Aprobación y Reformas al Presupuesto",
+    "Capítulo Único Del Ejercicio del Gasto Público",
+    "Capítulo I Del Sistema de Contabilidad Gubernamental",
+    "Capítulo II De los Archivos Contables",
+    "Capítulo III De la Cuenta Pública",
+    "Capítulo Único Del Control, Vigilancia y Evaluación del Gasto Público",
+    "Capítulo único",
+    "TÍTULO SÉPTIMO TRANSPARENCIA Y DIFUSIÓN DE LA INFORMACIÓN PRESUPUESTAL"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 12,
+    "TÍTULO": 1
+  }
+}

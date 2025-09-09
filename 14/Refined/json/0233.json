@@ -1,0 +1,503 @@
+{
+  "0233.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nNÚMERO 29259/LXIII/23 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY ORGÁNICA DE LA AGENCIA DE CONECTIVIDAD Y ACCESO A INTERNET.",
+    "Año_publicación": 2023,
+    "Título": "SE EXPIDE LA LEY ORGÁNICA DE LA AGENCIA DE CONECTIVIDAD Y ACCESO A INTERNET.",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO ÚNICO OBJETO Y DISPOSICIONES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley Orgánica es de orden público, interés general y observancia obligatoria en el Estado de Jalisco y sus municipios y tiene por objeto crear y regular la organización, estructura y funcionamiento de la Agencia de Conectividad y Acceso a Internet, como un organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, dotado de autonomía técnica, operativa y de gestión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "La Agencia de Conectividad y Acceso a Internet tiene por objeto proveer conectividad y acceso a servicios de telecomunicaciones a las Dependencias y Entidades del Gobierno del Estado, de la Federación y de los municipios, así como a la población en general del Estado de Jalisco, conforme a las políticas establecidas por la persona titular del Ejecutivo Estatal.\nLa Agencia de Conectividad y Acceso a Internet tendrá su domicilio legal en la ciudad de Guadalajara y podrá establecer oficinas de representación en otros municipios del Estado de Jalisco, conforme a sus necesidades y disponibilidad presupuestaria.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Para lo no previsto en esta Ley se estará a lo establecido en la Ley Orgánica del Ejecutivo del Estado de Jalisco y, en la Ley de Entidades Paraestatales del Estado de Jalisco, en ese orden.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Para los efectos de esta ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Agencia: Agencia de Conectividad y Acceso a Internet;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo consultivo: Órgano colegiado de apoyo, consulta y asesoría, no vinculantes, de la Agencia para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dependencias: Son los entes que integran la Administración Pública Centralizada, de conformidad con el artículo 7 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco;\nDirector General: La persona que ocupe la titularidad de la Dirección General de la Agencia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Entidades: los entes que integran la Administración Pública Paraestatal, de conformidad con el artículo 66 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Infraestructura: Los recursos materiales muebles e inmuebles e Infraestructura Pasiva y Activa;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Infraestructura Activa: Elementos de las redes de telecomunicaciones o radiodifusión que almacenan, emiten, procesan, reciben o transmiten escritos, imágenes, sonidos, señales, signos o información de cualquier naturaleza;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Infraestructura Pasiva: Elementos accesorios que proporcionan soporte a la Infraestructura Activa, entre otros, bastidores, cableado subterráneo y aéreo, canalizaciones, construcciones, ductos, obras, postes, sistemas de suministro y respaldo de energía eléctrica, sistemas de climatización, sitios, torres y demás aditamentos, dentro de las instalaciones, que sean necesarios para la instalación y operación de las redes, así como para la prestación de servicios de procesamiento de datos, de telecomunicaciones y radiodifusión;\nCapacidad: Servicio de telecomunicaciones mediante el cual se pone a disposición de otros concesionarios o usuarios finales el ancho de banda, transporte, espectro radioeléctrico o acceso a cualquier tipo de servicios o infraestructura de una red de telecomunicaciones propia o de terceros para su comercialización a terceros, complemento de red o satisfacción de necesidades de comunicación;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Junta de Gobierno: El órgano máximo de decisión de la Agencia;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Red Jalisco: Red Estatal de Conectividad y Acceso a Internet del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Reglamento: El Reglamento de la Agencia de Conectividad y Acceso a Internet;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Servicios Digitales: Para efectos de esta Ley, se entenderán como todos aquellos servicios de Red Jalisco, tales como, la provisión de Capacidad, de\nacceso a internet o servicios llevados a cabo a través de internet o de cualquier adaptación o aplicación de los protocolos, plataformas y/o de la tecnología utilizada por internet u otra red a través de la que se presten servicios equivalentes que, por su naturaleza, estén básicamente automatizados y requieran una intervención humana mínima, cualquiera sea el dispositivo utilizado para su descarga, visualización o utilización;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Sitio Público: Para efectos de esta Ley y siempre que se encuentren a cargo de Dependencias o Entidades estatales, federales o municipales o bajo programas públicos de gobierno, se consideran como tal a:\na) Escuelas, universidades y, en general, inmuebles destinados a la educación;\nb) Clínicas, hospitales, centros de salud y, en general, inmuebles para la atención de la salud;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Oficinas de los distintos órdenes de gobierno;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Centros comunitarios;\ne) Espacios abiertos tales como plazas, parques, centros deportivos y áreas públicas de uso común para la población en general, cuya construcción o conservación está a cargo de autoridades federales, estatales o municipales;\nf) Aquellos que participen en un programa público; y\ng) Los demás que se consideren sitios públicos de acuerdo con la legislación vigente; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Sitio Privado de Interés Social: Para efectos de esta Ley, se entenderá como aquellos sitios de orden privado que por su naturaleza y relevancia social son de uso común e interés para la población."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I ESTRUCTURA Y ATRIBUCIONES",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "Para el cumplimiento de su objeto, la a Agencia tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer a la persona titular del Ejecutivo Estatal las políticas de conectividad y acceso a servicios de telecomunicaciones a las Dependencias y Entidades del gobierno del Estado, de la Federación, de los municipios y a la población en general del Estado de Jalisco, con excepción de los servicios de radio y televisión cuya competencia le corresponde al Sistema Jalisciense de Radio y Televisión;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Diseñar y ejecutar los programas, planes y proyectos derivados de las políticas establecidas por la persona titular del Ejecutivo Estatal, en materias de servicios de telecomunicaciones e infraestructura relacionada con los mismos, entre otras, para las Dependencias y Entidades del gobierno del Estado de Jalisco, de la Federación, de los municipios y la población en general del Estado de Jalisco, con excepción de los servicios de radio y televisión cuya competencia le corresponde al Sistema Jalisciense de Radio y Televisión;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Diseñar y ejecutar los programas, planes y proyectos para proveer conectividad a la población en general del Estado de Jalisco en Sitios Públicos, así como en los Sitios Privados de Interés Social;\nEmitir los criterios y lineamientos para la utilización de los programas, planes y proyectos señalados en las fracciones que anteceden;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Supervisar y evaluar el cumplimiento de las metas y alcances de las políticas, planes, proyectos y lineamientos señalados en las fracciones que anteceden;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Diseñar, desarrollar, supervisar y evaluar mecanismos de coordinación con las Dependencias, Entidades, autoridades federales, municipales y sector privado para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover y fomentar el aprovechamiento y explotación de la Infraestructura Activa y Pasiva existente y futura del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Adquirir, establecer y operar, en su caso, por sí, a través o con participación o asociación terceros, infraestructura, redes telecomunicaciones y sistemas satelitales para el cumplimiento de su objeto;\nPromover la atracción y generación de inversión en Infraestructura y servicios de telecomunicaciones y satelital para el Estado de Jalisco;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Obtener las concesiones, autorizaciones y licencias que sean necesarias ante las autoridades competentes de los tres órdenes de gobierno, para el cumplimiento de su objeto, de acuerdo con lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Usar, aprovechar y explotar por sí, a través o en asociación de terceros, bandas de frecuencias del espectro radioeléctrico y/o recursos orbitales;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Instalar, operar y explotar por sí, a través o en asociación de terceros, redes públicas, privadas y comerciales de telecomunicaciones;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Prestar y en su caso, comercializar por sí, a través o asociación de terceros, servicios de telecomunicaciones y Capacidad propia o adquirida de redes públicas o privadas de telecomunicaciones;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Planear, diseñar, desarrollar, instalar, operar y mantener un centro de control que administre las redes de telecomunicaciones y, monitoree la Infraestructura existente del Estado, para la seguridad y la calidad de los servicios;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Realizar las acciones pertinentes para la planeación, desarrollo, administración, y mantenimiento y actualización de las redes de telecomunicaciones e Infraestructura de las mismas;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Promover el constante desarrollo y mejoramiento de las redes de telecomunicaciones;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Promover, celebrar convenios o contratos comerciales o de cualquier naturaleza de venta, renta e intercambio de servicios de telecomunicaciones, provisión de Capacidad, acceso a internet, enlaces dedicados, servicios digitales, servicios publicitarios, infraestructura, interconexión, entre otros;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Gestionar los datos recabados a través de las redes que opere el organismo para dar cumplimiento a las obligaciones de y gestión y protección de datos;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Celebrar toda clase de actos jurídicos necesarios para el desarrollo de sus funciones y el cumplimiento de su objeto de acuerdo con las disposiciones jurídicas aplicables;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Gestionar y obtener de las autoridades federales, estatales, municipales o del Estado de Jalisco cualquier título, concesión, permiso o autorización para el cumplimiento de sus fines;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Promover y celebrar acuerdos para interoperabilidad, e interconexión, intercambio o contratación de Infraestructura y Capacidades entre las redes de telecomunicaciones de las Dependencias y Entidades del Gobierno del Estado de Jalisco y, en su caso, con los tres órdenes de gobierno, con asociaciones público-privadas y con el sector privado;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Fungir como punto de enlace del Gobierno del Estado con las autoridades federales, estatales y municipales, e iniciativa privada para cualquier asunto relacionado con la Infraestructura, redes y servicios de telecomunicaciones de su competencia, así como para la coordinación y\nacuerdos de despliegue conjunto y compartido de Infraestructura o para la compartición de servicios y capacidades;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Definir los criterios que deberán atender la Dependencias, Entidades y municipios del Estado de Jalisco en materia de mejora regulatoria para facilitar el despliegue de infraestructura de telecomunicaciones en el Estado de Jalisco, eliminar barreras, reducir costos, e incrementar los niveles de conectividad;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Administrar, impulsar y fomentar el uso compartido de Infraestructura del Estado de Jalisco, conforme la normatividad aplicable;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Llevar a cabo un inventario Infraestructura telecomunicaciones del Estado y los municipios y dar acceso a los concesionarios, operadores y autorizados de telecomunicaciones para que sean considerados en futuros despliegues y posibles acuerdos de compartición o intercambio de Infraestructura;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Recibir y administrar, en los términos de la legislación aplicable, los ingresos generados por los servicios que se presten y contratos que celebre, así como ejercerlos conforme a su presupuesto autorizado; y"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Las demás que establezca la persona titular del Ejecutivo Federal u otros ordenamientos legales."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Para el ejercicio de sus atribuciones, la Agencia contará con la siguiente estructura orgánica:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dirección General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estructura administrativa, técnica y de operación que establezca su Reglamento Interno, de conformidad con su presupuesto y plantilla aprobadas; y\nÓrgano interno de control."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "El patrimonio de la Agencia se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes inmuebles y muebles que le transfiera el Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las aportaciones en numerario y subsidios que proporcione el Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones que perciba conforme a los convenios o contratos que celebre;\nLos productos que obtenga por la prestación de sus servicios, las cantidades y comisiones que obtenga por dichos servicios, mismas que se determinarán y actualizarán cada año por la Junta de Gobierno y deberán ser publicadas en el Periódico Oficial “El Estado de Jalisco”;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los bienes y derechos que adquiera por cualquier título;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los rendimientos que obtenga de la inversión de sus recursos, salvo aquellos que tenga que devolver o reintegrar por mandato legal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LA JUNTA DE GOBIERNO",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "La Junta de Gobierno será el órgano máximo de gobierno de la Agencia con las atribuciones que le confiere la Ley de Entidades Paraestatales del Estado de Jalisco y estará integrada por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La persona titular del Poder Ejecutivo, quien lo presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La persona titular de la Coordinación de Innovación Gubernamental de la Jefatura de Gabinete;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La persona titular de la Secretaría de Administración de Jalisco;\nLa persona titular de la Secretaría de Hacienda Pública de Jalisco;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La persona titular de la Secretaría de Infraestructura y Obra Pública;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La persona titular de la Secretaría de Innovación, Ciencia y Tecnología;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La persona titular del órgano interno de control del organismo o un representante de la Contraloría del Estado; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Un Secretario Técnico, que será la persona titular de la Dirección General de la Agencia.\nLa persona integrante señalada en la fracción VII tendrá derecho a voz, pero no a voto.\nLas decisiones serán tomadas por mayoría simple de votos de los integrantes presentes y, en caso de empate, el presidente tendrá voto de calidad.\nPor cada integrante propietario de la Junta de Gobierno habrá un suplente, quien será designado por su titular y contará con las mismas facultades que el propietario."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Además de las facultades previstas en la Ley de Entidades Paraestatales del Estado de Jalisco, la Junta de Gobierno tendrá las siguientes atribuciones indelegables, de conformidad con la legislación aplicable:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar la constitución de sociedades;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar la suscripción, compra, adquisición, venta y disposición en cualquier forma de toda clase de acciones o partes sociales de otras sociedades de cualquier tipo ya sean civiles o mercantiles, de naturaleza privada o sociedades de participación estatal, tanto nacionales como extranjeras relacionadas con su objeto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar constitución fideicomisos necesarios para consecución de sus fines;\nAprobar la celebración de contratos de asociaciones público-privadas con particulares;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Facultar a la persona titular de la Dirección General para que por su conducto otorgue poderes y facultades para actos de administración, pleitos y cobranza al personal que deberá representar a la institución;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar solicitudes de apoyos para la consecución del objeto de la Agencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Autorizar, conforme a las disposiciones legales aplicables, la recepción de donaciones, herencias y legados en favor de la Agencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Convocar al Consejo Consultivo para conocer su opinión y análisis sobre algún tema a discusión; y\nLas demás que con ese carácter establecen otras disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría simple de sus integrantes.\nDicho órgano de gobierno deliberará en forma colegiada y decidirá sus asuntos por mayoría de votos de los miembros presentes en las sesiones, teniendo el Presidente voto de calidad para el caso de empate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "La Junta de Gobierno sesionará de manera ordinaria por lo menos cuatro veces al año, y de manera extraordinaria las veces que sean necesarias debido a que exista algún asunto que así lo amerite, en ambos casos a convocatoria del Secretario de la Junta de Gobierno, por indicación de su Presidente conforme a las formalidades que se establezcan en el Reglamento Interno de la Agencia.\nLa Junta de Gobierno celebrará sus sesiones en el domicilio de la Agencia, o en cualquier otro, a juicio de su Presidente. Para la convocatoria y celebración de las sesiones se podrán utilizar las tecnologías de la información y la comunicación, así como medios remotos de comunicación audiovisual.\nLas convocatorias, el orden del día y la información para las sesiones ordinarias se harán, por lo menos, con cinco días hábiles de anticipación. Tratándose de las sesiones extraordinarias bastará con una anticipación de dos días hábiles.\nLos miembros y los invitados de la Junta de Gobierno estarán obligados a guardar la reserva o confidencialidad, según sea el caso, en términos de las disposiciones aplicables, así como cuidar y no revelar la documentación e información de la que, por razón de su participación en dicha Junta de Gobierno, tengan conocimiento o que esté bajo su responsabilidad, así como impedir y evitar su uso, sustracción, destrucción, ocultamiento, o utilización indebidos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Presidente de la Junta de Gobierno podrá invitar a participar a las sesiones a personas de la sociedad o de instituciones públicas o privadas, con derecho a voz, para apoyar el análisis de los temas que se sometan a su consideración.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Cualquier integrante de la Junta de Gobierno podrá solicitar al Consejo Consultivo la opinión no vinculante sobre algún tema a resolver, para lo cual, se deberá convocar a sus integrantes previamente, haciéndoles llegar toda la información y documentación necesaria para emitir su opinión.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE LA DIRECCIÓN GENERAL",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "La persona titular de la Dirección General, quien es el representante legal del Organismo, será designado y removido libremente por la persona titular del Ejecutivo Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "La persona que sea designada como titular de la Dirección General deberá cumplir, además de los requisitos previstos en la Ley de Entidades Paraestatales del Estado de Jalisco, con el siguiente requisito:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Que no tenga ningún tipo de conflicto entre el deber público y los intereses privados y personales que puedan influir de manera indebida en el desempeño de sus deberes y responsabilidades como representante de la Agencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "La persona titular de la Dirección General además de las atribuciones previstas en la Ley de Entidades Paraestatales del Estado de Jalisco, tiene las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "II",
+                "Texto": "Formular los manuales de organización y procedimientos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la Agencia, así como de su Infraestructura;\nControlar y evaluar la forma en que los objetivos de la Agencia sean alcanzados y la manera en que las estrategias básicas sean conducidas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Suscribir en su caso, los contratos colectivos e individuales de trabajo de la Agencia con sus trabajadores; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que resulten aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DE LA ESTRUCTURA ORGÁNICA DE LA AGENCIA",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "Para el cumplimiento del objeto de la Agencia y el ejercicio de sus atribuciones, la Dirección General se auxiliará de las unidades y de los servidores públicos que se establezca en el Reglamento Interno de la Agencia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DEL CONSEJO CONSULTIVO",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "La Agencia contará con un Consejo Consultivo de cinco miembros honorarios, que será encargado de fungir como órgano asesor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Las y los miembros del Consejo Consultivo de la Agencia deberán cumplir con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser expertos en la materia, con experiencia en el sector público o privado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser especialistas de reconocido prestigio en las materias competencia de la Agencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ser nombrados por la persona titular del Ejecutivo Estatal, quien, a propuesta de la Junta de Gobierno, designará a los miembros del Consejo Consultivo; y\nDurarán en su encargo un año, el cual podrá prorrogarse por períodos similares, indefinidamente.\nLa participación en el Consejo Consultivo será personalísima y no podrá llevarse a cabo mediante representantes.\nLos miembros del Consejo Consultivo no recibirán remuneración alguna por la participación en dicho Consejo.\nLas propuestas y opiniones del Consejo Consultivo serán no vinculantes.\nLa persona titular de la Dirección General fungirá como secretario del Consejo Consultivo, quien será responsable de comunicar las propuestas y opiniones del Consejo Consultivo a la Junta de Gobierno.\nLa persona titular de la Dirección General dotará de las instalaciones y elementos indispensables para el desarrollo de las reuniones del Consejo Consultivo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "TÍTULO TERCERO DEL ÓRGANO INTERNO DE CONTROL",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "La Agencia tendrá un órgano interno de control en términos de lo dispuesto en la Ley de Entidades Paraestatales del Estado de Jalisco, y la normativa aplicable.\nEl funcionamiento y atribuciones de dicho órgano se sujetarán a las disposiciones que determine la Contraloría del Estado, tomando como ejes rectores los principios de transparencia, máxima publicidad, austeridad, disciplina financiera, rendición de cuentas y respeto a los derechos humanos.\nLa estructura del órgano referido en el párrafo anterior será determinada por la Contraloría del Estado, conforme a la disponibilidad presupuestaria y en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "TÍTULO CUARTO DEL RÉGIMEN LABORAL",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "El régimen laboral de las y los trabajadores de la Agencia se regirá conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "-La Junta de Gobierno y la persona titular de la Dirección General priorizarán el Servicio Profesional de Carrera entre el personal técnico, administrativo y operativo, a excepción del personal de confianza y directivo, para fomentar la profesionalización del personal y continuidad de políticas y programas implementados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "El Servicio Profesional de Carrera estará regulado en los términos que se especifiquen en el Reglamento Interno de la presente Ley y en lo dispuesto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "La Junta de Gobierno se instalará dentro de los 45 días naturales siguientes a la entrada en vigor del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "La Junta de Gobierno aprobará el proyecto de Reglamento Interno de la Agencia dentro de un plazo máximo de tres meses, contados a partir de la entrada en vigor el presente ordenamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "La Agencia, dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, deberá realizar las acciones para instalar su Consejo Consultivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "Dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, las Dependencias y Entidades de la Administración Pública del Estado de Jalisco deberán ceder a la Agencia todas las concesiones, permisos, autorizaciones, licencias y contratos; así como los recursos materiales, humanos y financieros necesarios para el cumplimiento de su objeto y asumir la operación, control y continuidad. De la misma manera, deberán realizar junto con la Agencia, las solicitudes, trámites y registros necesarios para obtener la autorización de las autoridades competentes.\nEn tanto las autoridades competentes autorizan la cesión o transferencia de concesiones, permisos, autorizaciones, licencias y contratos asociados a Red Jalisco, las Dependencias y Entidades que sean sus titulares, seguirán\ncumpliendo las obligaciones que correspondan en coordinación con Red Jalisco, por el tiempo necesario hasta en tanto se logran las autorizaciones y se concreta la transición.\nLa Agencia dará continuidad a Red Jalisco y seguirá con la planeación, diseño, desarrollo, instalación, operación, mantenimiento y actualización de Red Jalisco para prestar servicios de telecomunicaciones y conectividad en sitos públicos. De igual manera, fomentará el uso eficiente y el aprovechamiento de la Infraestructura existente, a fin de promover el acceso a internet en todo el estado de Jalisco.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "La Agencia, de considerarlo pertinente, podrá solicitar a las autoridades competentes, el otorgamiento de una concesión de uso comercial con carácter de red compartida mayorista, a efecto de aprovechar la Infraestructura y capacidades con las que cuente para ponerlas a disposición de los sectores de telecomunicaciones y radiodifusión, en términos del artículo 140 de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "Se autoriza al Titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Hacienda Pública y la Secretaría de Administración, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 30 de octubre de 2023\nDiputada Presidenta HORTENSIA MARÍA LUISA NOROÑA QUEZADA\nDiputada Secretaria ANA ANGELITA DEGOLLADO GONZÁLEZ\nDiputada Secretaria LOURDES CELENIA CONTRERAS GONZÁLEZ\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 31 de octubre de 2023.\nENRIQUE ALFARO RAMÍREZ\nGobernador Constitucional del Estado de Jalisco\nJUAN ENRIQUE IBARRA PEDROZA Secretario General de Gobierno\nLEY ORGÁNICA DE LA AGENCIA DE CONECTIVIDAD Y ACCESO A INTERNET\nAPROBACIÓN: 30 de octubre de 2023\nPUBLICACIÓN: 2 de noviembre de 2023 sec. VI\nVIGENCIA: 31 de octubre de 2023",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

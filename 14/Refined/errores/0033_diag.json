@@ -1,0 +1,33 @@
+{
+  "n_chapters": 20,
+  "n_perm_articles": 74,
+  "n_perm_fracciones": 221,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De los Principios Rectores",
+    "Capítulo I De los Derechos para el Desarrollo Social",
+    "Capítulo II De los Beneficiarios",
+    "Capítulo I De las atribuciones del Gobierno del Estado",
+    "Capítulo I De la Política Estatal de Desarrollo Social",
+    "Capítulo II De la Política Municipal de Desarrollo Social",
+    "Capítulo Único De la Planeación del Desarrollo Social en el Estado",
+    "Capítulo Único De la Difusión de los Programas de Desarrollo Social",
+    "Capitulo Segundo Del Padrón Único de Beneficiarios de Programas Gubernamentales",
+    "Capítulo I De los Recursos para el Desarrollo Social",
+    "Capítulo II Del Fomento a las Actividades Productivas con Beneficio Social",
+    "Capítulo I",
+    "Capítulo II Del Consejo Estatal para el Desarrollo Social",
+    "Capítulo III De la Comisión para el Desarrollo Social",
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De la Denuncia Ciudadana",
+    "Capítulo I Del Sistema Estatal de Información para el Desarrollo Social",
+    "Capítulo II De la Evaluación",
+    "Capitulo Único De las sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 20
+  }
+}

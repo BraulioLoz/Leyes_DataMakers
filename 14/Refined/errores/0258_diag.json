@@ -1,0 +1,26 @@
+{
+  "n_chapters": 13,
+  "n_perm_articles": 94,
+  "n_perm_fracciones": 742,
+  "n_trans_caps": 1,
+  "n_trans_articles": 13,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único",
+    "Capítulo I Integración",
+    "Capítulo II Jefatura de Gabinete",
+    "Capítulo III Coordinaciones Generales Estratégicas",
+    "Capítulo IV Secretarías",
+    "Capítulo V Fiscalía Estatal",
+    "Capítulo VI Procuraduría Social del Estado",
+    "Capítulo VII Consejería Jurídica del Poder Ejecutivo del Estado",
+    "Capítulo VIII Unidad de Enlace Federal y Asuntos Internacionales",
+    "Capítulo IX Contraloría del Estado",
+    "Capítulo X Órganos Desconcentrados",
+    "Capítulo XI Órganos auxiliares",
+    "Capítulo I Disposiciones Generales"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 13
+  }
+}

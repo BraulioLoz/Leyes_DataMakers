@@ -1,0 +1,27 @@
+{
+  "n_chapters": 13,
+  "n_perm_articles": 38,
+  "n_perm_fracciones": 113,
+  "n_trans_caps": 1,
+  "n_trans_articles": 11,
+  "n_trans_fracciones": 4,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Del Objeto y Atribuciones del Colegio",
+    "Sección Primera Disposiciones Generales",
+    "Sección Segunda De la Junta Directiva",
+    "Sección Tercera Del Secretario Técnico",
+    "Sección Cuarta De la Dirección General",
+    "Sección Quinta De los Directores de los Planteles",
+    "Sección Sexta Del Órgano de Control y de Vigilancia",
+    "Sección Séptima Del Patronato",
+    "Sección Octava Del Comité Técnico Consultivo de Vinculación",
+    "Capítulo IV Del Patrimonio",
+    "Capítulo V Del Personal",
+    "Capítulo VI De los Alumnos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 8
+  }
+}

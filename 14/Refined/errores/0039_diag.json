@@ -1,0 +1,36 @@
+{
+  "n_chapters": 23,
+  "n_perm_articles": 68,
+  "n_perm_fracciones": 112,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Reglas Generales.",
+    "Capítulo II De la intervención del órgano jurisdiccional",
+    "Capítulo III Autoridades relacionadas con la aplicación de la Ley",
+    "Capítulo I Estructura y Atribuciones",
+    "Capítulo II De la evaluación de riesgos",
+    "Capítulo III Del área de evaluación de riesgos",
+    "Capítulo IV Del área de Supervisión de Medidas Cautelares y de Suspensión Condicional del Proceso",
+    "Capítulo V Confidencialidad",
+    "Capítulo I De la presentación periódica ante la autoridad judicial o ante autoridad distinta",
+    "Capítulo II De las Garantías Económicas",
+    "Capítulo III Del embargo de Bienes",
+    "Capítulo IV",
+    "Capítulo V De la Prohibición de Salir sin Autorización del País, de la Localidad en la cual Reside o del ámbito territorial que fije la Autoridad Judicial",
+    "Capítulo VI Del Sometimiento al Cuidado o Vigilancia de una Persona o Institución Determinada o Internamiento a Institución Determinada",
+    "Capítulo VII De la Prohibición de Concurrir a Determinadas Reuniones o Acercarse a Ciertos Lugares",
+    "Capítulo VIII De la Prohibición de Convivir, Acercarse o Comunicarse con Determinadas Personas, con las Víctimas u Ofendidos o Testigos",
+    "Capítulo IX De la Separación Inmediata del Domicilio",
+    "Capítulo X De la Suspensión Temporal en el Ejercicio del Cargo cuando se le Atribuye un Delito cometido por Servidores Públicos",
+    "Capítulo XI De la Suspensión Temporal en el Ejercicio de una Determinada Actividad Profesional o Laboral",
+    "Capítulo XII De la Colocación de Localizadores Electrónicos",
+    "Capítulo XIII Del Resguardo en su Propio Domicilio con las Modalidades que Disponga la Autoridad Judicial",
+    "Capítulo XIV De la Prisión Preventiva",
+    "Capítulo I De la Supervisión de la Suspensión Condicional del Proceso"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 23
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 21,
+  "n_perm_fracciones": 14,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De la Política Estatal de Prevención de la Tortura",
+    "Capítulo III De las Visitas a los Centros de Detención",
+    "Capítulo IV De la Investigación de la Tortura",
+    "Capítulo V De los Derechos de las Víctimas de la Tortura a las Medidas de Atención, Ayuda, Protección y Reparación Integral",
+    "Capítulo VI De las Sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

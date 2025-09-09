@@ -1,0 +1,8 @@
+Errores y advertencias para: 0050.txt
+==================================================
+
+Ubicación: line 224
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 55 a 102
+Línea: ARTÍCULO 102, APARTADO "B" DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y DE ACUERDO CON LAS DISPOSICIONES DE LA LEY DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS.
+------------------------------

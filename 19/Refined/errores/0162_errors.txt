@@ -1,0 +1,8 @@
+Errores y advertencias para: 0162.txt
+==================================================
+
+Ubicación: line 52
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 19 a 21
+Línea: Artículo 21.- Una vez recibidas las propuestas por la Comisión de Juventud, ésta procederá al análisis, estudio e investigación de las
+------------------------------

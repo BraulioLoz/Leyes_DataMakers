@@ -1,0 +1,1094 @@
+{
+  "0255.JSON": {
+    "Decreto": "Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, de me ha comunicado el siguiente decreto\nNÚMERO 26835/LXI/18 EL CONGRESO DEL ESTADO DECRETA:\nSE EXPIDE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO; Y REFORMA LOS ARTÍCULOS 2 Y 3, ADICIONA UN TÍTULO OCTAVO, DENOMINADO \"DEL USO DE LA TECNOLOGÍA Y REDES DE TELECOMUNICACIÓN PARA LA SEGURIDAD PÚBLICA\" Y LOS ARTÍCULOS 160 AL 216, RECORRIÉNDOSE EN SU NÚMERO Y ORDEN EL ACTUAL TÍTULO OCTAVO PARA PASAR A SER TÍTULO NOVENO Y LOS ANTERIORES ARTÍCULOS 160 AL 180 PARA PASAR A SER LOS ARTÍCULOS 217 AL 237, DE LA LEY DEL SISTEMA DE SEGURIDAD PARA EL ESTADO DE JALISCO.",
+    "Año_publicación": null,
+    "Título": "LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "Capítulo I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Se crea el Organismo Público Descentralizado denominado Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco, en adelante “Escudo Urbano C5”, el cual contará con personalidad jurídica y patrimonio propios, así como con autonomía técnica y de gestión, el cual estará sectorizado a la Secretaría o Dependencia que mediante Acuerdo determine el Gobernador del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "La presente Ley es de observancia general y de interés público, tiene por objeto regular la organización y funcionamiento de dicho organismo, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Pública para el Estado de Jalisco y demás disposiciones legales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Para los efectos del presente ordenamiento se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "“Escudo Urbano C5”: al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Director General: el titular de la Dirección General del “Escudo Urbano C5”;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ley: la Ley del Sistema de Seguridad Pública para el Estado de Jalisco; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Ley Orgánica: la Ley Orgánica del Organismo Público Descentralizado denominado Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "El “Escudo Urbano C5” tiene a su cargo la captación de información integral para la toma de decisiones en las materias de protección civil, procuración de justicia, seguridad pública, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, emergencias y desastres, mediante la integración y análisis de información captada a través de su sala de video monitoreo, de la utilización de herramientas\ntecnológicas, bases de datos o cualquier servicio, sistema o equipo de telecomunicación y de geolocalización de que disponga, así como de la vinculación con los órganos de Gobierno Local, Federal, Estatal o Municipal e instituciones y organismos privados.\nLas atribuciones relativas a las materias de su competencia, se entienden en los conceptos y amplitud que son propios de una instancia de coordinación en materia de seguridad pública ante las dependencias y entidades de las tres niveles de gobierno de la administración pública y señalados en la Constitución Federal y sus leyes reglamentarias, en la Constitución del Estado, en las leyes sustantivas y adjetivas en las que se contemple su intervención, así como en los términos específicos establecidos en la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "Tendrá su domicilio legal en el Área Metropolitana de Guadalajara y podrá contar con las oficinas o delegaciones al interior del Estado que sean conveniente establecer, de conformidad a las necesidades del servicio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "El “Escudo Urbano C5” tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proveer información a las instancias competentes para la oportuna e inmediata toma de decisiones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coadyuvar con las instancias competentes de la administración pública federal, entidades federativas y municipales del país, así como con instituciones y organismos privados para la atención de las materias de su competencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer acciones y estrategias para la operación de la sala de video monitoreo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Recibir información del monitoreo que realicen instituciones de seguridad privada, propietarios o poseedores de inmuebles establecidos en plazas o centros comerciales, de unidades deportivas, centros de esparcimiento con acceso de público en general, en los términos de los convenios que se suscriban para tal efecto, y que resulte útil para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer mecanismos de coordinación para la integración de un Banco de Información mediante intercomunicación de las bases de datos de las dependencias, entidades y órganos desconcentrados de la administración pública del Estado de Jalisco y sus municipios, que resulten útiles para el cumplimiento de sus atribuciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer comunicación directa y de coordinación con autoridades del ámbito federal, estatal o municipal, así como con instituciones y organismos privados, para la integración de bases de datos que resulten útiles para el cumplimiento sus atribuciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Administrar y operar su infraestructura, herramientas tecnológicas, servicios, sistemas o equipos de comunicación y geolocalización de que disponga;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer mecanismos de coordinación entre las instancias de la administración pública del Estado de Jalisco que resulten competentes, para la distribución de los datos, estadísticas, diagnósticos, resultados y demás información que se genere y que sea necesaria para dotarlas de los elementos en la toma de decisiones y correcta ejecución de acciones;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Auxiliar al personal de la Fiscalía General del Estado que realicen actividades relacionadas con procesos de obtención, clasificación, análisis, custodia y remisión de información necesaria para la prevención, investigación y persecución de los delitos; así como a las autoridades competentes en materia de prevención y sanción de infracciones administrativas, procedimientos de reacción inmediata y aquellas señaladas en las leyes respectivas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Administrar y operar los servicios de Atención de Llamadas a Emergencia 911, Denuncia Anónima 089 y Locatel, mediante la recepción, registro y canalización de las solicitudes de auxilio, apoyo o denuncia que realice la ciudadanía, a las dependencias, órganos desconcentrados y entidades de la administración pública del Estado de Jalisco, así como a las instancias del ámbito federal, estatal o municipal, competentes para su atención;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Administrar y operar la línea telefónica única de asistencia a la población del Estado de Jalisco, a través del Servicio Público de Localización Telefónica, así como mediante el uso de nuevas tecnologías;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Planear y ejecutar acciones de difusión para el uso adecuado de los servicios de Atención de Llamadas a Emergencia 911, Denuncia Anónima 089 y de Localización Telefónica, así como de las herramientas tecnológicas e infraestructura de que dispone, con arreglo a la normatividad aplicable;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Establecer equipos y sistemas tecnológicos que le permitan identificar y registrar líneas telefónicas o cualquier otro medio a través del cual se realicen reportes, llamados de auxilio falsos o que no constituyan una emergencia, a fin de elaborar estadísticas y realizar acciones de disuasión y derivar a las autoridades competentes para la aplicación de las sanciones previstas en la Ley;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Efectuar la primera búsqueda para la localización de personas reportadas mediante llamada telefónica como extraviadas, accidentadas o detenidas, en las diversas instituciones hospitalarias, asistenciales, administrativas y judiciales del Estado de Jalisco y Área Metropolitana de Guadalajara, así como de los vehículos accidentados, averiados o abandonados o que ingresen a los centros de depósito de vehículos del Estado de Jalisco;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Coadyuvar en la realización de acciones con las instancias competentes en eventos masivos para la atención de cualquier acontecimiento que pueda implicar un riesgo a la población, así como para el auxilio en la localización de personas reportadas como extraviadas;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Integrar y administrar registros con fines de servicio a la comunidad;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Aprovechar la información captada a través de la sala de video monitoreo, de los Servicios de Atención de Llamadas a Emergencia 911 y Denuncia Anónima 089, del Servicio Público de Localización Telefónica, de las bases de datos que integra, así como de los sistemas o equipos de comunicación de que disponga, para el diseño de estrategias, implementación de mejoras, elaboración de estadísticas, generación de inteligencia y demás acciones que sean necesarias para el cumplimiento de sus atribuciones;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Utilizar la información captada a través de la sala de video monitoreo, así como de los servicios que opera, para generar índices delictivos, zonas peligrosas, intersecciones viales más conflictivas, percances viales, alertamiento a la población, recomendaciones de seguridad y autoprotección;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Implementar y contratar los servicios, sistemas y equipos de comunicación o geolocalización, equipamiento e infraestructura tecnológica que sean necesarios para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "El Escudo Urbano C5, emitirá los lineamientos para la homologación de los Centros de Mando Metropolitanos, Regionales y Municipales, para el manejo de la información obtenida con equipos y sistemas tecnológicos;\nEstos Centros de Mando deberán estar en coordinación permanente con el Escudo Urbano C5, por lo que su operación se regirá por las políticas lineamientos y estándares que el mismo establezca;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Constituirse como el Centro de Operaciones del Comité de Emergencias de Protección Civil del Estado de Jalisco, en caso de emergencia o desastre, de acuerdo a los protocolos que declaran estos casos; y"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo II De la Organización del “Escudo Urbano C5”",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "El “Escudo Urbano C5” estará conformado de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dirección General:\na) Dirección Jurídica;\nb) Subdirección de Logística; y"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Subdirección de Seguridad."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dirección de Atención de Emergencias;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Dirección Operativa;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dirección de Tecnologías de la Información y Comunicaciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Dirección de Análisis Estratégico; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dirección Administrativa y Financiera."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo III De la Junta de Gobierno",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "La junta de Gobierno del “Escudo Urbano C5” estará integrada por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Titular de la Dependencia que determine el Gobernador del Estado, quien la Presidirá;\n\nLa identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nllI. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un representante de la Secretaría General de Gobierno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante de la Dependencia del Poder Ejecutivo responsable de la Seguridad Pública;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Un representante de la instancia responsable de la procuración de justicia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un representante de la Secretaría de la Hacienda Pública;\n\nDejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Un representante de la Secretaría de Innovación, Ciencia y Tecnología;\n\nLa convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Un representante de la Secretaría de Movilidad;\n\nLa asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Un representante de la Secretaría de Salud;\n\nLa validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Un representante de la Agencia Metropolitana de Seguridad;\n\nEn caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Los Presidentes Municipales del Área Metropolitana de Guadalajara;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Titular del Órgano Interno de Control; y\nEl Director General, quien fungirá como Secretario Técnico.\nDichos cargos serán honoríficos y por lo tanto, no remunerados.\nLos miembros de la Junta de Gobierno contarán con voz y voto, con excepción de los Presidentes Municipales del Área Metropolitana de Guadalajara con el carácter de invitados permanentes, así como del Director General quienes únicamente tendrán derecho a voz.\nLas decisiones y acuerdos se tomarán por mayoría de votos y, en caso de empate, el Presidente contará con voto de calidad.\nCada miembro deberá designar a un suplente que acreditará ante la Junta de Gobierno, quien tendrá las mismas facultades del titular a quien representan.\nLa Junta de Gobierno sesionará de manera ordinaria trimestralmente, previa convocatoria emitida por el Director General por lo menos con siete días de anticipación y, de manera extraordinaria; cuantas veces resulte necesario por solicitud de cualquiera de sus miembros, previa convocatoria del Director General emitida con la mayor anticipación posible.\nEn los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "La Junta de Gobierno tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fungir como órgano de gobierno del organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar el Reglamento Interno y demás disposiciones reglamentarias del organismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar el proyecto de Presupuesto de Egresos del organismo, su plantilla de personal y el clasificador por objeto del gasto;\nAprobar el Plan Institucional y las matrices de indicadores para resultados del organismo, y los demás instrumentos de planeación y programación que le correspondan;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar las políticas generales y definir las prioridades a las que deberá sujetarse el organismo, de acuerdo con el programa sectorial;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar las políticas, bases y lineamientos generales para la contratación de servicios, adquisiciones, arrendamientos y otros rubros similares, conforme a la ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Aprobar la constitución de órganos auxiliares temporales de apoyo del organismo no contemplados en la ley o decreto de creación ni en el Reglamento Interno, los que en ningún caso tendrán autonomía administrativa, financiera o presupuestal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Aprobar anualmente, previo informe de los órganos de vigilancia, los dictámenes de las auditorías practicadas, los estados financieros del organismo y autorizar la publicación de los mismos;\nAprobar la suscripción de los actos jurídicos a nombre del organismo, que afecten su patrimonio, constituyan deuda o trasciendan el periodo constitucional del Ejecutivo del Estado en turno, debiendo observar la normatividad referente a la Ley de Deuda y Disciplina Financiera del Estado de Jalisco y sus Municipios;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aprobar la celebración de los contratos y convenios de los que el organismo sea parte;\nProponer proyectos de iniciativa de ley o decreto, respecto a los ámbitos de competencia del organismo, al Gobernador del Estado por conducto de la dependencia cabeza de sector, para que en su caso, los presente formalmente ante el Congreso del Estado;\nRecibir y conocer los informes internos que presenten los encargados de los órganos y unidades administrativas del organismo;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Conocer de las quejas y denuncias que se presenten en contra del Director General del organismo;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Nombrar y remover libremente al personal directivo del organismo, a propuesta del Director General, conforme a las disposiciones legales y reglamentarias aplicables;\nAprobar los informes que rinda el Director General;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Evaluar que los objetivos del organismo sean alcanzados como se programó y vigilar que se hayan observado las estrategias básicas propuestas;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Atender los informes sobre control y auditoría que le remita el Órgano Interno de Control;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Vigilar la implantación de las medidas correctivas a que haya lugar;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Invitar a expertos y profesionistas en la materia a participar en sus sesiones; así como a las autoridades y organizaciones públicas y privadas, para generar acuerdos de colaboración con el fin de cumplir con los objetivos del organismo; y"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Las demás que establezcan otras disposiciones legales o reglamentarias aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IV Del Director General",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "El Director General del “Escudo Urbano C5” será nombrado y removido libremente por el Gobernador del Estado de Jalisco, y tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrar y operar el “Escudo Urbano C5”, así como el patrimonio que le sea asignado para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar y proponer a la Junta de Gobierno el anteproyecto de Reglamento Interno del “Escudo Urbano C5” y, una vez aprobado, las modificaciones que al mismo se estimen pertinentes para hacer más eficiente su operación y administración;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer acciones y estrategias para la operación del “Escudo Urbano C5”;\nLlevar a cabo la formulación, ejecución y evaluación de programas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular los dictámenes e informes determinados por las autoridades competentes;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer a la Junta de Gobierno el nombramiento y la remoción del personal directivo adscrito a las unidades administrativas y operativas del “Escudo Urbano C5”;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Nombrar y remover al personal adscrito a las unidades administrativas y operativas del “Escudo Urbano C5;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Recabar información y aportarlas a las áreas competentes para la seguridad pública y la procuración de justicia;\nAuxiliar al personal de la Fiscalía Estatal, de la Secretaría del Transporte, de las instituciones de seguridad pública y de protección civil en el Estado, que realicen actividades relacionadas con procesos de obtención, clasificación, análisis, custodia y remisión de información necesario para la prevención, investigación y persecución de delitos; prevención y sanción de infracciones administrativas, procedimientos de reacción inmediata y aquellas señaladas en las leyes respectivas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Expedir y verificar el cumplimiento de los lineamientos del uso de tecnologías de la información y redes de comunicación para la seguridad pública de acuerdo a Norma Técnica para Estandarizar las Características Técnicas y de Inter operatividad de los Sistema de Video vigilancia para la Seguridad Públicas;\nAutorizar la instalación y retiro de equipos y sistemas tecnológicos, mediante los procesos administrativos o a través de un juez de control cuando así proceda;\nGarantizar el cumplimiento irrestricto de la Ley de Protección de Datos Personales y de la Ley de Transparencia y Acceso a la Información Pública, ambos ordenamientos del Estado de Jalisco, en específico los datos personales sensibles e información reservada de las personas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Acordar con los titulares de las unidades que se le adscriban, los asuntos que sean de sus respectivas competencias;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Expedir copias certificadas de los documentos que obren en sus archivos;\nSuscribir los documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, acuerdos, contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos, y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con la leyes locales y federales en materia de adquisiciones, arrendamientos, servicios y obras públicas, así como aquellos que le sean señalados por delegación, previa aprobación de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Dirigir la administración y operación de los Servicios de Atención de Llamadas a Emergencia 911, Denuncia Anónima 089, del Servicio Público de Localización Telefónica, del servicio de Video Vigilancia y de la Red Estatal de Telecomunicaciones en Materia de Seguridad Pública;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Establecer y aplicar mecanismos de coordinación con dependencias de seguridad pública, procuración de justicia, administración de justicia y servicios de emergencia, en materia de Atención de Llamadas a Emergencia 911 y Denuncia Anónima 089, para la homologación de los servicios a su cargo;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Representar legalmente al “Escudo Urbano C5” ante cualquier autoridad, ya sea judicial o administrativa, con el apoyo de la Dirección Jurídica;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Suscribir los acuerdos, convenios y mecanismos de colaboración y coordinación con las Dependencias, Entidades y Órganos Desconcentrados de la Administración Pública del Estado de Jalisco, municipios, así como con las instancias del ámbito Federal, Estatal o Municipal e Instituciones y demás organismos públicos y privados que resulten necesarios para el cumplimiento de las atribuciones del Centro, previa aprobación de la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Vigilar la actualización continua y funcionamiento del Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública; y"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Las demás que le sean atribuidas por otros ordenamientos legales, así como aquellas asignadas por el Gobernador del Estado, el Fiscal General y la Junta de Gobierno."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Al frente del “Escudo Urbano C5” estará la persona que ostente la titularidad de la Dirección General, quien será el superior jerárquico del personal de las unidades y áreas que lo integran de acuerdo a la Ley Orgánica.\nEjercerá sus atribuciones respondiendo a la satisfacción del interés social y del bien común, preponderando la coordinación y la colaboración interinstitucional que regirá entre el mismo y las dependencias, instituciones y autoridades competentes en las materias de su responsabilidad.\nLas atribuciones asignadas al “Escudo Urbano C5” que corresponden al Director General, podrá ejercerlas en todo momento por sí o por conducto de los de Área, Subdirectores y Jefes de Unidad Departamental a él adscritos, mediante mandamiento por escrito.\nEl Director General deberá promover y mantener la coordinación con las autoridades de los tres niveles de gobierno, con autoridades de otras entidades federativas, autoridades internacionales en su caso y las acordes a los temas relacionados con las materias y áreas de su competencia.\nEl Director General podrá concertar, previa autorización de la Junta de Gobierno; así como con la debida intervención de las autoridades competentes, programas de cooperación técnica y científica con instituciones y entidades del extranjero, así como con organismos internacionales, con objeto de mejorar la prestación de los servicios a su cargo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo V Del Funcionamiento del Escudo Urbano C5",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "La actuación de los servidores públicos y elementos operativos adscritos y acreditados al “Escudo Urbano C5” se regirá por los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos.\nLa información relacionada con la operación del “Escudo Urbano C5” y sus sistemas se considera reservada, de conformidad con la legislación aplicable.\nLos servidores públicos y elementos operativos adscritos y acreditados al “Escudo Urbano C5” son responsables por la guarda y reserva en el manejo de la información relacionada con las atribuciones a su cargo, así como la relativa al contenido de su trabajo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Para el cumplimiento de sus atribuciones, el “Escudo Urbano C5” podrá solicitar informes, documentos y opiniones de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal.\nAsimismo, podrá requerir informes y documentos de los particulares para los mismos fines, en los términos previstos por las normas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Al frente de cada unidad o área administrativa del “Escudo Urbano C5” habrá un titular responsable de la misma.\nCada uno de ellos expedirá los instructivos y guías relativos a los asuntos y trámites en que intervenga y a los servicios que proporcionen, así como los catálogos, instructivos y guías pertinentes, los que deberán contener información sobre la estructura orgánica autorizada del “Escudo Urbano C5”, las funciones de las unidades administrativas que la conforman, los sistemas de comunicación y coordinación, así como los procedimientos administrativos que se establezcan. Dichos instructivos y guías, deberán mantenerse actualizados.\nLos manuales administrativos del “Escudo Urbano C5” serán autorizados por la Junta de Gobierno y expedidos por el Director General.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El trámite, despacho, resolución y vigilancia de los asuntos cuya atribución se establece en este ordenamiento a cargo de cada unidad o área del “Escudo Urbano C5” corresponde a su titular, sin embargo, para la mejor organización del trabajo, los titulares de las unidades o áreas podrán derivar o comisionar a los servidores públicos que de ellos dependan, previa autorización por escrito del Director General, el cumplimiento de cualquiera de las atribuciones y facultades a su cargo.\nLa delegación de facultades se hará mediante acuerdo que deberá publicarse en el periódico oficial \"El Estado de Jalisco\".",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Los titulares de las diferentes unidades o áreas del “Escudo Urbano C5” ejercerán las facultades que la normatividad vigente prevé para la instancia bajo su responsabilidad, por sí o a través del personal a su cargo, en los términos del presente ordenamiento legal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Cuando alguna unidad o área del “Escudo Urbano C5” requiera, para el cumplimiento de sus funciones, informes, datos o la cooperación técnica de cualquier otra unidad o área, éstas se encuentran obligadas a proporcionarlos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "El “Escudo Urbano C5” contará con las unidades administrativas que determine el presente ordenamiento legal, su Reglamento Interno y con el personal que le permita su presupuesto.\nEl personal operativo comisionado y acreditado por las Dependencias, Entidades y Órganos Desconcentrados de la Administración Pública del Estado de Jalisco, así como de los Municipios y validado por el Director General del “Escudo Urbano C5”, para el despacho y atención a emergencias desde las instalaciones del organismo, contarán con las facultades de decisión y mando conforme a las funciones establecidas en la normatividad que les resulte aplicable para el cumplimiento de sus atribuciones.\nPara su acreditación deberán someterse previamente a los procesos y evaluaciones que se determinen, además de los procesos de ingreso que aplique cada instancia de la Administración Pública del Estado de Jalisco.\nLas relaciones con el personal operativo del “Escudo Urbano C5” serán de carácter jurídico administrativo y se regirán de conformidad a lo dispuesto por el apartado B del artículo 123 Constitucional, la Ley General del Sistema Nacional de Seguridad Pública y la Ley.\nLas relaciones laborales con el personal administrativo se llevarán a cabo de conformidad con los ordenamientos legales que rigen a los servidores públicos de la administración pública estatal adscritos al Poder Ejecutivo del Estado.\nEl personal acreditado ante el “Escudo Urbano C5” por las dependencias, entidades y órganos desconcentrados de la administración pública del Estado de Jalisco, así como de los municipios que converjan en sus instalaciones, mantendrá su relación laboral única y exclusivamente con la instancia de la administración pública del estado o municipal que lo acreditó, por lo que en ningún caso podrá considerarse al “Escudo Urbano C5” como patrón, ni responsable de las obligaciones de derecho laboral.\nAsimismo, dicho personal deberá observar la normatividad legal aplicable y de carácter administrativa, para el uso adecuado y funcionamiento de las instalaciones, herramientas tecnológicas o cualquier servicio, sistema o equipo de comunicación de que se disponga, y en general de la infraestructura.\nNo obstante de no haber relación laboral con el personal comisionado o acreditado, sí le es vinculante la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Políticas y Administrativas del Estado, y en cuyo caso, compete al Órgano Interno de Control derivar las denuncias a las instancias competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "En el “Escudo Urbano C5” convergerá el personal comisionado y acreditado por las instancias de la administración pública del Estado de Jalisco y los municipios, para lo cual el Director General del “Escudo Urbano C5”, dará todas las facilidades que sean necesarias a dicho personal para la atención de los eventos que se presenten en el ámbito de sus respectivas competencias.\nDicho personal deberá registrar en el Sistema de Despacho las acciones realizadas para la atención del evento que le haya sido canalizado.\nEl “Escudo Urbano C5” podrá requerir información sobre el seguimiento dado a la atención del evento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "El personal administrativo y operativo que labore o sea comisionado al “Escudo Urbano C5” deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Observar las restricciones referentes a la reserva, control, análisis, utilización y uso de la información obtenida de los equipos y sistemas tecnológicos que señala la Ley ;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Remitir la información a las autoridades administrativas, ministeriales o judiciales que así lo requieran, y en su caso, con apego al procedimiento de cadena de custodia previsto en los artículos 227 y 228 del Código Nacional de Procedimientos Penales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Autentificar por escrito la información que se entregue a las autoridades competentes en las remisiones y puestas a disposición que se realicen, precisando su origen y las circunstancias en que se allegó de ésta;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Implementar el procedimiento y cumplir con los requisitos establecidos en el capítulo correspondiente de la Ley, para la valoración de los medios de prueba que se obtengan y de conformidad con los artículos 251 y 252 del Código Nacional de Procedimientos Penales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cumplir con las demás atribuciones que en materia de medios probatorios se prevé para las instituciones de seguridad pública en la Ley y artículos 251 y 252 del Código Nacional de Procedimientos Penales; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El personal que labore en otras instalaciones al del “Escudo Urbano C5” deberá proporcionar aquella información captada mediante el uso de equipos y sistemas tecnológicos de video vigilancia, que le sea requerida por el Director General."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Corresponde a los titulares de las Direcciones y Subdirecciones del “Escudo Urbano C5” el ejercicio de las siguientes facultades genéricas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Planear, programar, organizar, dirigir, evaluar y controlar el funcionamiento de las unidades administrativas a ellos adscritas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer al Director General las modificaciones administrativas para ser consideradas en el Reglamento Interno;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer al Director General la expedición de acuerdos, circulares y demás disposiciones en el ámbito de las atribuciones y la materia de su encargo;\nEstablecer y supervisar los procedimientos adecuados para que se turnen los asuntos que deban ser del conocimiento de los servidores públicos que le estén adscritos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Supervisar el ejercicio y la adecuada aplicación del presupuesto autorizado para las unidades administrativas a su cargo, de acuerdo con las normas y principios establecidos por la Dirección Administrativa y Financiera;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer, previo procedimiento llevado por la Dirección Jurídica, la remoción del personal adscrito a sus áreas, cuando éstos hayan incurrido en responsabilidades laborales que sean causal de despido;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Acordar los asuntos que correspondan al ámbito de sus atribuciones, así como los asuntos especiales que se le asignen;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Autorizar por escrito a los servidores públicos que le estén adscritos, para que firmen documentación relacionada con los asuntos que competan a la unidad a su cargo;\nFirmar y notificar las resoluciones o acuerdos de las autoridades superiores y aquéllos que se emitan con fundamento en las atribuciones que le correspondan;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proponer a la Dirección Administrativa y Financiera, los programas de formación, capacitación, actualización y profesionalización permanentes en las materias de su encargo;\nCoordinarse con la Dirección Jurídica, para dar seguimiento a los procedimientos de cualquier controversia jurisdiccional o administrativa promovidos contra actos de los servidores públicos adscritos a la\nunidad administrativa de que se trate, así como en la presentación de las promociones y los recursos que deban interponerse;\nIntegrar y rendir los informes y estadísticas que establezca la normatividad interna del “Escudo Urbano C5” y aquéllos que le sean solicitados por su Director General;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Ejercer directamente las facultades y atribuciones que le corresponden;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Despachar todos aquellos asuntos y ejercer las demás atribuciones que les señalen las disposiciones legales y las que les confiera el Director General;\nDesempeñar las comisiones que el Director General les encomiende y mantenerlo informado sobre el desarrollo de sus actividades;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Representar administrativamente al área a su cargo;"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Representar, por designación expresa o por previsión normativa, al “Escudo Urbano C5” ante cualquier instancia u órgano colegiado;"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Someter a la aprobación del Director General los estudios y proyectos de trascendencia que se elaboren en el área de su responsabilidad;"
+              },
+              {
+                "Fracción": "XIX",
+                "Texto": "Vigilar que se cumpla estrictamente con las leyes y disposiciones aplicables en todos los asuntos a ellos encomendados;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Coordinar las labores encomendadas a su cargo, con sus homólogos, para obtener un mejor desarrollo de sus funciones y del “Escudo Urbano C5”;"
+              },
+              {
+                "Fracción": "XXI",
+                "Texto": "Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que les sean señalados por delegación o les correspondan por suplencia;"
+              },
+              {
+                "Fracción": "XXII",
+                "Texto": "Autorizar dentro de su área de competencia, los proyectos de programas y de presupuestos que les correspondan;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Dictar las medidas necesarias para subsanar las deficiencias que observen en las labores de las unidades administrativas a ellos adscritas y proponer al Director General la delegación en funcionarios subalternos las atribuciones que se les hayan encomendado;"
+              },
+              {
+                "Fracción": "XXIV",
+                "Texto": "Dirimir los conflictos de competencia que se presenten entre las unidades administrativas que le estén adscritas;"
+              },
+              {
+                "Fracción": "XXV",
+                "Texto": "Contribuir a la formulación, ejecución, control y evaluación de los programas del “Escudo Urbano C5” en la parte que les corresponda;"
+              },
+              {
+                "Fracción": "XXVI",
+                "Texto": "Proporcionar información, datos o la cooperación técnica que les sea requerida por otras dependencias del Ejecutivo Estatal, de acuerdo a las políticas establecidas a este respecto;"
+              },
+              {
+                "Fracción": "XXVII",
+                "Texto": "Elaborar y proponer los instrumentos administrativos de regulación y control para cada una de las unidades administrativas a su cargo;"
+              },
+              {
+                "Fracción": "XXVIII",
+                "Texto": "Resolver, en ausencia temporal del Director General, todos los asuntos del ámbito de su competencia, e informarle de las acciones tomadas de manera inmediata a su regreso;"
+              },
+              {
+                "Fracción": "XXIX",
+                "Texto": "Expedir copias certificadas de los documentos que obren en los archivos de las unidades administrativas de su adscripción, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, del trabajo y, en general, para cualquier procedimiento, proceso o investigación, o cuando medie solicitud de parte que acredite su interés jurídico;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Participar con las unidades administrativas competentes del “Escudo Urbano C5”, en la elaboración de proyectos de convenios, acuerdos, así como cualquier acto administrativo o de carácter general de la dependencia, en los cuales deban de tener participación de conformidad a sus funciones o atribuciones;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Participar en la formulación y aprobación del proyecto de programa anual de trabajo, anteproyecto de presupuesto, demás estudios, proyectos y programas; así como en los proyectos de manuales de organización y procedimientos del “Escudo Urbano C5”, en la parte que le corresponda;"
+              },
+              {
+                "Fracción": "XXXII",
+                "Texto": "Elaborar, por instrucción del superior jerárquico, los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, protocolos, tratados y convenios, previa validación de la Dirección Jurídica;"
+              },
+              {
+                "Fracción": "XXXIII",
+                "Texto": "Participar, cuando así se le designe por sus superiores, en foros y eventos locales, nacionales e internacionales;"
+              },
+              {
+                "Fracción": "XXXIV",
+                "Texto": "Requerir o solicitar información, opinión o apoyo técnico a dependencias, entidades paraestatales, órganos administrativos desconcentrados, institutos, organismos y en general a cualquier persona o institución para el ejercicio de sus funciones; y"
+              },
+              {
+                "Fracción": "XXXV",
+                "Texto": "Las demás que señalen otras disposiciones legales o les confiera el Director General."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VI De las Unidades Administrativas",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "Al frente de la Dirección Jurídica habrá un titular, a quien le corresponde el ejercicio de las",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Intervenir en los asuntos de carácter legal en que tenga injerencia el organismo y emitir opinión al respecto de las consultas que en materia jurídica se le formulen;\n\nJefatura de Unidad Departamental de Transparencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Intervenir en las demandas de juicios de amparo interpuestos en contra de actos de servidores públicos del\n\nJefatura de Unidad Departamental Consultiva; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Representar legalmente al organismo en los procedimientos y juicios laborales que se promuevan ante los tribunales competentes;\n\nJefatura de Unidad Departamental de lo Contencioso y Asuntos Penales."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Representar legalmente al organismo en los juicios, diligencias de jurisdicción voluntaria, trámites judiciales y administrativos de todo tipo y en aquellos que le encomiende el Director General;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Formular, en nombre del organismo, las denuncias y querellas que legalmente procedan;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover ante los tribunales federales o del fuero común, los asuntos legales del organismo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Tramitar los recursos que legalmente procedan contra actos de las diversas autoridades del organismo;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Sistematizar los criterios de interpretación y aplicación de las disposiciones legales que normen el funcionamiento del organismo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Otorgar asesoría jurídica al personal adscrito al organismo, cuando al actuar con apego a las disposiciones legales por motivo del servicio, exista algún procedimiento instaurado en su contra;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinar, en todas las unidades administrativas del organismo, las áreas jurídicas asignadas a las mismas;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Efectuar estudios comparados sobre legislaciones estatales y federales, en las materias competencia del"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Participar en la elaboración de acuerdos, bases, contratos y convenios que se pretenda celebrar con otras entidades federativas, la federación, dependencias y organismos locales, así como con los sectores social y privado, para el desarrollo y operación de los programas organismo;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Elaborar los instrumentos y documentos jurídicos que se requieran para el debido funcionamiento del"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Validar los documentos e instrumentos jurídicos que se requieran para el debido funcionamiento del organismo, cuando no hayan sido elaborados en el área a su cargo; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General.\nPara el desarrollo de las citadas atribuciones, contará con las siguientes áreas:"
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Al frente de la Subdirección de Logística habrá un titular, a quien le corresponde el ejercicio de las",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Organizar, supervisar y coordinar las acciones relacionadas con la agenda laboral, pública y privada del Director General, en la atención de sus reuniones de trabajo y audiencias así como coordinar las acciones administrativas que requiera el titular del organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Planear y coordinar la calendarización de las actividades del Director General en su interrelación con la ciudadanía, autoridades y organismos públicos, entre otros, a fin de que su agenda diaria se administre de manera óptima y se lleve a cabo eficientemente en tiempo y forma;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Brindar atención a los ciudadanos que acudan a externar sus quejas y peticiones, así como canalizarlos a las áreas correspondientes y dar el debido seguimiento a las mismas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proporcionar a los ciudadanos una información correcta y adecuada de los trámites y servicios del “Escudo Urbano C5” cuando así lo soliciten;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Elaborar las propuestas para la representación del Director General en eventos oficiales, reuniones de trabajo a las que sea convocado, pudiendo por instrucciones del Director General delegarles voz y voto en dichas representaciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Mantener actualizado el archivo general del Despacho del Director General, respecto a los comunicados oficiales, peticiones y proyectos de las dependencias federales, estatales o municipales, de los ciudadanos y de los organismos no gubernamentales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Canalizar a las diferentes áreas que integran el “Escudo Urbano C5”, las solicitudes que formule la ciudadanía al Director General y dar el debido seguimiento;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Elaborar informes e investigaciones sobre temas específicos o coyunturales que sean solicitados por el Director General;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Coordinar la elaboración de discursos que requiera el Director General;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Solicitar información a los titulares de las áreas del “Escudo Urbano C5” para la elaboración de informes que le sean requeridos por el Director General;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Realizar las evaluaciones que requiera el Director General sobre programas, eventos y acciones locales o nacionales que incidan en el ámbito de las atribuciones de la Institución;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Apoyar al Director General en la coordinación de acciones con instancias externas u otras dependencias y órganos del Ejecutivo Estatal;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Brindar apoyo y asesoría a las unidades administrativas, organismos públicos descentralizados, desconcentrados, ayuntamientos o cualquier entidad que desempeñe actividades relacionadas con la seguridad pública y procuración de justicia, cuando el Director General así lo determine;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Establecer y mantener contacto, así como coordinación con sus homólogos, adscritos a las diversas dependencias del Poder Ejecutivo del Estado; y"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Las demás que le encomiende el Director General.\nPara el desarrollo de tales atribuciones, contará con las Jefaturas y Unidades que en las materias de su competencia sean necesarias para el desarrollo de sus actividades, así como del personal que le sea asignado y lo permita la suficiencia presupuestal."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Al frente de la Subdirección de Seguridad habrá un titular, a quien le corresponde el ejercicio de las",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Implementar los controles de las actividades relacionadas con los procesos de implementación, operación y mantenimiento de los sistemas y dispositivos de seguridad de las instalaciones del organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinar y ejecutar las actividades técnicas, operativas y administrativas necesarias para el adecuado funcionamiento del cuarto de control y la sala de crisis;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La administración y control de los dispositivos de seguridad que permiten el acceso a las instalaciones del “Escudo Urbano C5”, a fin de salvaguardar la integridad física de las mismas y de sus ocupantes; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General.\nPara el desarrollo de esas atribuciones, contará con las Jefaturas y Unidades que en las materias de su competencia sean necesarias para el desarrollo de sus actividades, así como del personal que le sea asignado y lo permita la suficiencia presupuestal."
+              }
+            ]
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Al frente de esta Dirección de Atención a Emergencias habrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirigir y supervisar la operación de la Central de Llamadas 911/089, para la atención eficiente de emergencias y protección ciudadana, asegurando la calidad del servicio, así como la integración y coordinación operativa de las diferentes áreas y dependencias que intervienen en el “Escudo Urbano C5”;\n\nSubdirección de Atención a Llamadas de Emergencia:\na) Jefatura de Unidad Departamental de Atención de Servicios."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desarrollar políticas, manuales y programas para mejorar la atención a la ciudadanía;\n\nSubdirección de Evaluación y Seguimiento del Servicio:\na) Jefatura de Unidad Departamental de Control de Calidad y Seguimiento."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Mejorar y supervisar la atención de llamadas de emergencia y atender los requerimientos de información;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Coordinar la operación del servicio de la Atención de Denuncia Anónima 089, así como la correcta recepción, registro y canalización de las denuncias anónimas que realiza la población vía telefónica u otro medio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Coordinar la operación del servicio telefónico de localización de personas; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que le confieran las disposiciones legales aplicables y las que le delegue el Director General.\nPara el desarrollo de dichas atribuciones, contará con las siguientes áreas:"
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Al frente de la Dirección Operativa habrá un titular, a quien le corresponde el ejercicio de las",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar de forma permanente en los C2 Municipales y en el área de video vigilancia del “Escudo Urbano C5”, cohesión y eficiencia en el comando, control y la dirección de las operaciones entre dependencias para la respuesta oportuna ante un incidente o un escenario de emergencia mayor;\n\nSubdirección de Operaciones:\na) Jefatura de Unidad Departamental de Operaciones C5."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejecutar los planes, programas, así como garantizar el cumplimiento de las políticas y procedimientos para desempeño óptimo de la operación continuamente;\n\nSubdirección de Enlace:\na) Jefatura de Unidad Departamental de Dependencias Gubernamentales y Organismos Privados."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinar adecuadamente los procedimientos operativos con las diferentes instituciones para la atención eficiente de emergencias que se presenten en su área diariamente; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las demás que le confieran las disposiciones legales aplicables y el Director General.\nPara el desarrollo de esas atribuciones, contará con las áreas siguientes:"
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Al frente de la Dirección de Tecnologías de Información y Comunicacioneshabrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desarrollar y mantener los sistemas de comunicación de voz, video y datos a través de las redes internas y externas;\n\nSubdirección de Soporte:\na) Jefatura de Unidad Departamental de Operación y Seguridad Lógica; y\nb) Jefatura de Unidad Departamental de Operación de Servidores, Almacenamiento y de la Red."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Brindar soporte técnico al personal del “Escudo Urbano C5”;\n\nSubdirección de Sistemas:\na) Jefatura de Unidad Departamental de Integración y Administración de Bases de Datos; y\nb) Jefatura de Unidad Departamental de Sistemas de Operaciones y Mesa de Ayuda."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Administrar, mantener y asegurar los espacios físicos y lógicos como depositarios de datos masivos;\nSistematizar, administrar y auditar los accesos a los bancos de datos del “Escudo Urbano C5”, contenidos en los depósitos de datos masivos;\n\nSubdirección de Comunicaciones:\na) Jefatura de Unidad Departamental de Redes Locales y Externas; y\nb) Jefatura de Unidad Departamental de Almacenamiento de Voz y Última Milla."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Analizar, crear, implantar y controlar los aplicativos generados en el área de desarrollo para tener acceso a los bancos de datos y otras aplicaciones específicas;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Administrar, soportar y controlar los equipos de cómputo del “Escudo Urbano C5”;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinar, asegurar y mantener las comunicaciones de voz y datos con las diferentes entidades municipales, estatales y federales para el intercambio de información;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Investigar, implementar y mantener las nuevas tecnologías existentes para actualizar los sistemas de voz, datos e imagen;\nDesarrollar, implementar y controlar los planes para evitar desastres en todos los sistemas que sean susceptibles de falla;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Respaldar y mantener en línea la información en materia de seguridad pública, depositada en servidores de producción ubicados físicamente en centrales de Informática;\nControlar las directrices en materia de seguridad lógica entre las redes de comunicación de voz y datos existentes;\nSupervisar técnicamente la instalación de la red de voz y datos del “Escudo Urbano C5”;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Mantener actualizada la tecnología así como los software, ya sea adquiridos o de desarrollo propio;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Coordinar las actividades necesarias para asegurar la operación de las comunicaciones de voz, datos e imágenes, cumpliendo con los niveles de servicio establecidos en la infraestructura de los equipos de misión crítica del “Escudo Urbano C5”;\nMantener la continuidad de la operación de las comunicaciones del “Escudo Urbano C5”; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Las demás que le confieran otras disposiciones legales, reglamentarias y el Director General.\nPara el desarrollo de esas atribuciones, contará con las siguientes áreas:"
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "Al frente de la Dirección de Análisis Estratégicohabrá un titular, a quien le corresponde el ejercicio de las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Implementar y Operar el Sistema Estatal de Información en Materia de Emergencias;\n\nSubdirección de Integración de Información:\na) Jefatura de Unidad Departamental de Integración de Bases; y\nb) Jefatura de Unidad Departamental de Reportes e Informes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desarrollar trabajos de análisis de la incidencia delictiva y zonas de riesgo, precisar los lugares de la comisión de los delitos y el impacto social que producen, con el objetivo de implementar estrategias que apoyen la prevención del delito y el combate a la impunidad, en coordinación con las autoridades competentes;\n\nSubdirección de Estadística:\na) Jefatura de Unidad Departamental de Análisis Geoestadístico; y\nb) Jefatura de Unidad Departamental de Estudios Estadísticos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Identificar en las zonas de riesgo las acciones que se deban llevar a cabo con objeto de minimizar el riesgo en coordinación con las diferentes instancias correspondientes;\nProponer estrategias para la aplicación ágil y eficiente de las políticas públicas, derivadas de las labores del análisis estratégico;\n\nSubdirección de Evaluación de Resultados."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Obtener, procesar, suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que se genere en el “Escudo Urbano C5”, mediante los sistemas e instrumentos tecnológicos respectivos con el apoyo de las áreas correspondientes;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proporcionar, a petición de las áreas respectivas, la información y métodos para la prevención, detección y disuasión delictiva, que se estime necesaria;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer, administrar y resguardar las bases de datos criminalísticos, estadísticos, geografía delictiva y el análisis de la información, así como otros que se generen;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Integrar la información necesaria para generar productos de inteligencia en materia de seguridad pública y atención de emergencias para las áreas correspondientes en el ámbito de su competencia;\nEstablecer en el ámbito de su competencia, mecanismos de comunicación y coordinación con las agencias policiales municipales, estatales, federales y extranjeras representadas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Dirigir, coordinar y operar sistemas de recolección, registro, clasificación, análisis, evaluación y explotación de información que permita generar inteligencia policial a la instituciones competentes;\nConformar una base de datos a nivel estatal que sustente el desarrollo de programas y estrategias que puedan servir para la toma de decisiones de las áreas y autoridades respectivas;\nCoordinar, asegurar y mantener las comunicaciones con las diferentes entidades municipales, estatales y federales para el intercambio de información, así como las bases de datos respectivas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Procesar y controlar la información estadística de las unidades administrativas competentes para la evaluación del desempeño en las áreas de su competencia, que incremente su eficiencia y apoye para la toma de decisiones y el cumplimiento de los objetivos propuestos; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que le confieran otras disposiciones aplicables y el Director General.\nPara el desarrollo de dichas atribuciones, contará con las siguientes áreas:"
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Al frente de la Dirección Administrativa y Financiera habrá un titular, a quien le corresponde realizar las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer, con la aprobación del Director General, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros del “Escudo Urbano C5”, en los términos de la normatividad aplicable;\n\nJefatura de Unidad Departamental de Control y Movimientos de Personal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Definir las normas y políticas generales que regirán en el “Escudo Urbano C5” en cuanto a nombramientos, contratación, selección, remuneraciones, desarrollo, formación, capacitación, actualización, profesionalización, control e incentivos del personal;\n\nSubdirección de Capacitación y Desarrollo de Personal:\na) Jefatura de Unidad Departamental de Evaluación y Seguimiento; y\nb) Jefatura de Unidad Departamental de Desarrollo Didáctico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desarrollar los sistemas de premios, estímulos y recompensas, así como los reconocimientos que determinen las disposiciones jurídicas aplicables;\nConducir las relaciones laborales y jurídico administrativas con el personal administrativo y operativo del “Escudo Urbano C5”, conforme a las disposiciones aplicables a los lineamientos que al efecto establezca el Director General;\n\nSubdirección de Servicios de Apoyo:\na) Jefatura de Unidad Departamental de Almacén y Activos;\nb) Jefatura de Unidad Departamental de Servicios Generales; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Planear y conducir la política de desarrollo del personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos, realizar estudios de competencia laboral con objeto de cumplir con las normas y estándares que determine el Sistema Nacional de Seguridad Pública, así como las formas de identificación del personal, en su caso, previa opinión del Director General;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Someter a la consideración del Director General el anteproyecto de presupuesto anual del “Escudo Urbano C5”, con base en los documentos que sean presentados por los servidores públicos correspondientes, así como autorizar las erogaciones, vigilar el ejercicio del presupuesto, llevar su contabilidad, así como formular los diversos proyectos de inversión a cargo de las aportaciones de recursos financieros de origen internacional, federal, estatal o municipal, que el “Escudo Urbano C5” pueda obtener mediante la celebración de los instrumentos jurídicos correspondientes;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Acordar la liquidación y pago de cualquier remuneración o gasto relativo al personal del “Escudo Urbano C5”;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer al Director General las medidas técnicas y administrativas que estime convenientes para la mejor organización y funcionamiento del “Escudo Urbano C5”, así como la eficiente ejecución de la modernización administrativa interna;\nParticipar en los convenios y contratos en que intervenga el “Escudo Urbano C5” y que afecten su presupuesto, así como en los demás instrumentos jurídicos que impliquen actos de administración, conforme a los lineamientos que fije el Director General;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Adquirir y proporcionar los bienes y servicios necesarios, así como la realización de las obras públicas y los servicios relacionados con las mismas para el desarrollo de los programas del “Escudo Urbano C5”, de conformidad con lo que establezcan las disposiciones jurídicas y administrativas aplicables y las normas de compras gubernamentales y de obras públicas del Gobierno del Estado;\nControlar el inventario de los bienes y patrimonio asignados al “Escudo Urbano C5”;\nEstablecer, controlar y evaluar el programa interno de protección civil para el personal, instalaciones, bienes e información del “Escudo Urbano C5”, así como emitir las normas necesarias para su operación, desarrollo y vigilancia, en los términos de las disposiciones aplicables;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Instrumentar el programa de desconcentración del “Escudo Urbano C5” en sus aspectos administrativos, así como vigilar el cumplimiento de las normas de su competencia que deban aplicarse en el ámbito territorial;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Poner a consideración del Director General el proyecto de resolución para dirimir los conflictos de competencia que se presenten entre las unidades administrativas que le estén adscritas, con el apoyo de la Dirección Jurídica;\nEstablecer de acuerdo con las normas aplicables, las directrices y criterios técnicos para el proceso interno de planeación, programación y evaluación presupuestal del “Escudo Urbano C5” y vigilar su aplicación;"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Proporcionar la asesoría, el apoyo y los dictámenes técnicos que los servidores públicos de las unidades administrativas del “Escudo Urbano C5” le soliciten, en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipos y bienes asignados al “Escudo Urbano C5”; y"
+              },
+              {
+                "Fracción": "XVII",
+                "Texto": "Las demás que les señalen las disposiciones aplicables, las que les confiera el Director General y las que correspondan a las unidades administrativas que se le adscriban.\nPara el desarrollo de tales atribuciones, contará con las áreas siguientes:"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Jefatura de Unidad Departamental de Mantenimiento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VII Del Órgano Interno de Control",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "El Órgano Interno de Control estará a cargo de un Comisario Titular y, en sus ausencias temporales de un Comisario Suplente, mismos que serán designados por el Contralor del Estado y dependerán de forma orgánica, administrativa y jerárquicamente de él en los términos de la legislación y normatividad aplicable; contará con la estructura administrativa que señala la presente Ley y aquella que indique el Reglamento Interno, de conformidad a la suficiencia presupuestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "Tendrá a su cargo las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer los mecanismos administrativos y el seguimiento necesario para asegurar la correcta atención de los procesos de auditoría que ejecuten despachos externos y cualquiera de los entes fiscalizadores estatales y federales correspondientes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer el mecanismo de supervisión necesario para que las instancias y los funcionarios mencionados solventen puntualmente las observaciones de las que resulten de las auditorias;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer comunicación directa con las instancias internas y externas que participen en los procesos de vigilancia, control y evaluación gubernamental;\nCuando proceda, atender la relación cotidiana del “Escudo Urbano C5 con el personal de la Dirección General de Auditoría Interna de la Secretaría de la Hacienda Pública, de la Contraloría del Estado, de la Auditoria Superior del Estado y en su caso, con la Auditoria Superior de la Federación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer los mecanismos administrativos correspondientes y responder a las quejas y denuncias que formule el personal del “Escudo Urbano C5” y la ciudadanía en general;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Reportar al Director General las irregularidades administrativas, presupuestales, financieras y operativas que puedan constituir causa de responsabilidad administrativa, laboral, patrimonial de los funcionarios y servidores públicos adscritos o comisionados al “Escudo Urbano C5”. Este reporte habrá de presentarse por escrito y acompañarse de los medios de prueba disponibles;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Elaborar y proponer al Director General; previa autorización de la Junta de Gobierno, la instrumentación del plan de acción para mejorar el desempeño administrativo y financiero del “Escudo Urbano C5”, con el objeto de asegurar una gestión eficiente de recursos humanos, materiales y financieros; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Llevar los procedimientos administrativos por responsabilidades no graves, en contra de los servidores públicos y personal comisionado del “Escudo Urbano C5”, por conductas previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Política y Administrativas del Estado;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Presentar las denuncias en contra de servidores públicos y personal comisionado del “Escudo Urbano C5” por responsabilidades graves previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Política y Administrativas del Estado;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le señalen otras disposiciones legales y reglamentarias aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Para el cumplimiento de esas atribuciones, contará con las siguientes áreas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Unidad de Auditoría; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Unidad de Responsabilidades y Control Interno."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo VIII Del Patrimonio del Organismo",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "El patrimonio del “Escudo Urbano C5” se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes inmuebles y muebles que le asigne el Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las aportaciones en numerario, servicios y subsidios que proporcione el Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones que perciba conforme a los convenios o contratos que celebre;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los productos que obtenga por la prestación de sus servicios, las cantidades y comisiones que obtenga por los servicios que preste, las cuales se determinarán por la Junta de Gobierno, conforme a las disposiciones aplicables;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los bienes y derechos que adquiera por cualquier título;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los rendimientos que obtenga de la inversión de sus recursos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones.\nDichos bienes, derechos, aportaciones y productos serán inembargables y estarán exentos de toda clase de contribuciones, impuesto o derechos estatales y municipales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX De las ausencias temporales",
+        "Artículos": [
+          {
+            "Artículo": 34,
+            "Texto": "En ausencia temporal del Director General hasta por treinta días, este será suplido en el siguiente orden: por el Director de Atención de Emergencias, por el Director de Operaciones y, en ausencia de estos dos por el Director de Análisis Estratégico.\nEn ausencias temporales mayores a ese lapso, el Gobernador del Estado designará a la persona que ocupará dicha suplencia",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "En ausencia temporal de los titulares de las Direcciones de Área, el despacho y resolución de los asuntos correspondientes al mismo, recaerá en el funcionario que el Director General o el titular de la misma área designe, y en caso de no darse lo anterior, en el servidor público que sea el inferior jerárquico inmediato adscrito en la unidad administrativa que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "En ausencia temporal de los titulares de las demás áreas adscritas al organismo, cuando no exista designación por escrito de sus superiores, el encargo recaerá en el servidor público que sea el inferior jerárquico inmediato adscrito en el área que corresponda.\nARTÍCULO SEGUNDO. Se reforman los artículos 2 y 3; y se adiciona un Título Octavo, denominado \"Del Uso de la Tecnología y Redes de Telecomunicación para la Seguridad Pública\" y los artículos 160 al 216, recorriéndose en su número y orden el actual Título Octavo para pasar a ser Título Noveno y los anteriores artículos 160 al 180 para pasar a ser los artículos 217 al 237, todo lo anterior de la Ley del Sistema de Seguridad para el Estado de Jalisco…..\nArtículos transitorios\nPrimero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.\nSegundo. Transfiéranse al “Escudo Urbano C5” los recursos humanos, financieros, materiales y tecnológicos adscritos al Centro Integral de Comunicaciones, así como aquellos con que cuenta la Dirección General del Centro de Inteligencia y Comunicaciones para la Seguridad, del Comisionado de Seguridad Pública y demás órganos y unidades administrativas de la Fiscalía General que se consideren necesarios para su funcionamiento y, en su oportunidad, sean propuestos por el Director General del C5 y autorizados por el Gobernador del Estado.\nCon motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Fiscalía General del Estado.\nTercero. Se autoriza al Gobernador del Estado para que por conducto de la Secretaría de Planeación, Administración y Finanzas realice las modificaciones presupuestales y administrativas necesarias para el cumplimiento del presente Decreto.\nCuarto. Una vez designado el Director General del “Escudo Urbano C5”, deberá de convocar en un plazo que no exceda de sesenta días a los miembros de la Junta de Gobierno, para llevar a cabo la primera reunión e instalación de la misma.\nQuinto. Así mismo se concede un término de noventa días naturales a partir de la primera sesión de la Junta de Gobierno, para que el Director General del “Escudo Urbano C5” formule y presente para su autorización a la misma, su proyecto de Reglamento Interno, para la posterior remisión al Ejecutivo del Estado.\nSexto. Se concede un término de 180 días naturales para que el Gobernador del Estado expida el Reglamento Interno del Escudo Urbano C5.\nSéptimo. Para efectos del artículo Sexto Transitorio del Decreto 26408/LXI/17, hasta en tanto se designa titular del Órgano de Control Interno del organismo público descentralizado que se crea mediante este Decreto, la persona que ocupe la titularidad de la Dirección Jurídica realizará las funciones de dicho Órgano de Control Interno.\nSALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 24 DE MAYO DE 2018\nDiputado Presidente AUGUSTO VALENCIA LÓPEZ\nDiputada Secretaria Diputada Secretaria SILVIA CÁRDENAS CASILLAS MARTHA SUSANA BARAJAS DEL TORO (Rúbrica) (Rúbrica)\nPROMULGACIÓN DEL DECRETO 26835/LXI/18, MEDIANTE EL QUE SE EXPIDE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO; Y REFORMA LOS ARTÍCULOS 2 Y 3, ADICIONA UN TÍTULO OCTAVO, DENOMINADO “DEL USO DE LA TECNOLOGÍA Y REDES DE TELECOMUNICACIONES PARA LA SEGURIDAD PÚBLIA” Y LOS ARTÍCULOS AL 216, RECORRIÉNDOSE EN SU NÚMERO Y ÓRDEN EL ACTUAL TÍTULO OCTAVO PARA PASAR A SER TÍTULO NÓVENO Y LOS ANTERIORES ARTÍCULOS 160 AL 180 PARA PASAR A SER LOS ARTÍCULOS 217 AL 237, DE LA LEY DEL SISTMEA DE SEGURIDAD PARA EL ESTADO DE JALISCO.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 29 veintinueve días del mes de mayo de 2018 dos mil dieciocho.\nEl Gobernador Constitucional del Estado JORGE ARISTÓTELES SANDOVAL DÍAZ\nEl Secretario General de Gobierno ROBERTO LÓPEZ LARA\nTABLA DE REFORMAS Y ADICIONES\n28730/LXII/22.- Se adiciona un último párrafo al artículo 8 de la Ley Orgánica del Organismo Público Estado de Jalisco.- Feb. 17. 2022 sec. III.\n28733/LXIII/22.- Se reforma los artículos 8, 10 y 31, todos de la Ley Orgánica del Organismo Público Estado de Jalisco.- Feb. 19 de 2022 sec. III\n29179/LXIII/23.- Se reforma la fracción V del artículo 8 de la Ley Orgánica del Organismo Público Estado de Jalisco.- May. 23 de 2023 sec. IV.\nLey Orgánica del Organismo Público Descentralizado denominado Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco\nAPROBACIÓN: 24 de Mayo de 2018\nPUBLICACIÓN: 2 de junio de 2018 sec. IV\nVIGENCIA: 3 de junio de 2018",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

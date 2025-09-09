@@ -1,0 +1,29 @@
+{
+  "n_chapters": 15,
+  "n_perm_articles": 52,
+  "n_perm_fracciones": 165,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Sección Primera Disposiciones Generales",
+    "Sección Segunda De la Integración",
+    "Capítulo II Del Procurador Social",
+    "Sección Primera Disposiciones Comunes",
+    "Sección Segunda Defensoría Pública",
+    "Sección Tercera Representación Social",
+    "Sección Cuarta Servicios Jurídicos Asistenciales",
+    "Capítulo IV De la Dirección General de Regiones",
+    "Capítulo V De los Defensores Públicos y Agentes Sociales",
+    "Capítulo VI De la Visitaduría",
+    "Capítulo VII De la Dirección de Administración",
+    "Capítulo VIII",
+    "Sección Primera De las Excusas e Incompatibilidades",
+    "Sección Segunda De las Responsabilidades, Infracciones y Sanciones",
+    "Sección Tercera De las Ausencias"
+  ],
+  "chapter_kind_breakdown": {
+    "SECCIÓN": 9,
+    "CAPÍTULO": 6
+  }
+}

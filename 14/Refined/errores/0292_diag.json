@@ -1,0 +1,16 @@
+{
+  "n_chapters": 3,
+  "n_perm_articles": 35,
+  "n_perm_fracciones": 52,
+  "n_trans_caps": 1,
+  "n_trans_articles": 2,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO I De la Industria Jalisciense de Rehabilitación Social",
+    "CAPITULO II De los Organos de Gobierno de la Industria Jalisciense de Rehabilitación Social Del Consejo de Administración",
+    "CAPITULO III Patrimonio de la Industria Jalisciense de Rehabilitación Social"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 3
+  }
+}

@@ -1,0 +1,705 @@
+{
+  "0261.JSON": {
+    "Decreto": "Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco. Estados Unidos Mexicanos.\nJorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 24561/LX/13.- EL CONGRESO DEL ESTADO DECRETA:\nSE CREA LA LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN.",
+    "Año_publicación": 1999,
+    "Título": "LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "e crea el organismo público descentralizado del Poder Ejecutivo denominado Sistema Jalisciense de Radio y Televisión, que como persona jurídica de derecho público, contará con personalidad jurídica y patrimonio propio.\nEl domicilio del Sistema Jalisciense de Radio y Televisión estará en el área metropolitana de Guadalajara, Jalisco, independientemente de la ubicación de cada una de las estaciones de radio y televisión que operen en el Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "ara efectos de la presente Ley, cuando se haga referencia al Organismo se entenderá que se trata del Sistema Jalisciense de Radio y Televisión.\nEl Organismo prestará los servicios de telecomunicaciones y radio difusión a través de las concesiones otorgadas a favor del Gobierno del Estado de Jalisco o del propio organismo.\nEn la prestación de dichos servicios estará prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "l Organismo contará con independencia editorial; autonomía de gestión financiera; participación ciudadana; reglas claras para la transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno acceso a tecnologías y reglas para la expresión de diversidades ideológicas y culturales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "l Organismo tendrá como objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Operar las frecuencias de radio y televisión concesionadas por la dependencia federal competente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Prestar servicios de comunicación e información públicos en los términos de las disposiciones federales aplicables;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Difundir la cultura en la sociedad jalisciense, dando especial énfasis en las diversas manifestaciones culturales, artísticas y sociales de la entidad, para propiciar la identidad y solidaridad de los habitantes del estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proporcionar información pertinente, veraz y oportuna a los habitantes del Estado para fomentar y acrecentar su participación en la protección y defensa de la libertad, el medio ambiente, las condiciones de paz y tranquilidad social que mejoren sus condiciones culturales y materiales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Informar a la sociedad sobre los acontecimientos relevantes de carácter político, económico, social, cultural y aquéllos que sean de interés de la población, en los ámbitos local, nacional e internacional;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Orientar a la población en la defensa de sus derechos y en el cumplimiento de sus obligaciones ciudadanas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Difundir, mediante mensajes y programas, servicios o productos al público en general, con el objeto de obtener recursos que hagan autofinanciable al Organismo;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Fomentar la participación ciudadana y el acceso a la información pública; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Las demás que se requieran para el logro de su objeto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LAS ATRIBUCIONES",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "ara el cumplimiento de su objeto, el Organismo tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer los derechos de uso y explotación de las concesiones en materia de radiodifusión con que cuenta el Estado de Jalisco y las que en el futuro se incorporen;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Planear, desarrollar, dirigir, vigilar y evaluar las actividades de radio, televisión y cinematografía que desarrolle en cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Diseñar, producir y difundir contenidos para radio, televisión, redes sociales y cine que promuevan la comunicación entre los distintos sectores de la sociedad;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Apoyar la difusión de la cultura y fortalecer la identidad estatal y nacional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover el esparcimiento sano y creativo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Difundir los eventos culturales y deportivos, preferentemente, los que se desarrollen en el Estado;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Apoyar programas educativos, de productividad, calidad, ecológicos, de asistencia social, promoción a la salud, combate a las adicciones, infantiles y los que tengan carácter prioritario, que involucren a la sociedad en su conjunto;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Desarrollar planes, programas, proyectos e inversiones para mejorar y modernizar sus servicios, equipos e infraestructura;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la difusión, mercadotecnia, comercialización y autofinanciamiento del Organismo, sus servicios y productos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar proyectos y acciones para ampliar su potencia y cobertura territorial;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Celebrar convenios y contratos con los sectores público, privado y social, así como con instituciones nacionales y extranjeras, para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Administrar su patrimonio, conforme a las disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Solicitar, administrar y operar las concesiones en materia de radiodifusión que en su caso haya otorgado u otorgue el Instituto Federal de Telecomunicaciones o cualquier autoridad competente en su momento, así como para suscribir y recibir los títulos de concesión; y"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Las demás que sean necesarias para el cumplimiento de su objeto."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "l Organismo estará integrado por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una Junta de Gobierno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Director General;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un Consejo Ciudadano;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Se deroga"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La estructura administrativa que establezca su reglamento interno con sujeción al presupuesto de egresos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE LA JUNTA DE GOBIERNO",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "a Junta de Gobierno estará integrada por las personas titulares de las siguientes dependencias y entidades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un presidente, que será el Gobernador o la persona que éste designe;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretaría de Cultura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Secretaría de Educación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Secretaría de la Hacienda Pública;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Contraloría del Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Coordinación General de Comunicación del Gobierno del Estado; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dirección General del Organismo, que fungirá como Secretaría Técnica.\nCada integrante designará a su respectivo suplente; tendrá voz y voto dentro de la Junta de Gobierno, con excepción de la Secretaría Técnica y la Contraloría del Estado, quienes solo tendrán voz.\nLa Coordinación General Estratégica de Desarrollo Social, será invitada permanentemente de la Junta de Gobierno, quien solo tendrá derecho a voz."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "os cargos como integrantes de la Junta de Gobierno son honoríficos y, por tanto, no remunerados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "a Junta de Gobierno celebrará sesiones ordinarias por lo menos dos veces por año y extraordinarias las veces que sea necesario a juicio del Presidente.\nEn los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nllI. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Dichas sesiones se desarrollarán según se disponga en el reglamento de sesiones que al efecto expida la Junta de Gobierno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "La Junta de Gobierno tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Analizar, discutir y, en su caso, aprobar:\na) Las políticas y lineamientos generales del Organismo;\nb) Los proyectos de presupuestos anuales de ingresos y egresos, la plantilla de personal y el clasificador por objeto del gasto de conformidad con la Ley General de Contabilidad Gubernamental;"
+              },
+              {
+                "Fracción": "C",
+                "Texto": "El plan institucional y los programas operativos anuales del Organismo y los demás instrumentos de planeación y programación que les corresponda;"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "La asignación de recursos humanos, materiales y técnicos necesarios para el desarrollo de los planes, programas y proyectos autorizados;\ne) Los informes que rinda el Director General;\nf) El establecimiento de comités técnicos especializados con funciones de apoyo en el desarrollo de estas actividades, sin crear nuevas plazas o remuneraciones especiales para ello;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aprobar anualmente, los dictámenes, las auditorías practicadas, así como los estados financieros del Organismo de conformidad con la normatividad aplicable y autorizar la gestión de la publicación de los mismos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar, en términos de las disposiciones legales aplicables, las políticas, bases y programas generales a que deben apegarse los convenios, contratos o acuerdos que celebre el Organismo con terceros en materia de obra pública, adquisiciones, arrendamientos y servicios;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Fijar las reglas generales a las que deberá sujetarse el Organismo, en la celebración de acuerdos, convenios y contratos con los sectores público, privado y social para la ejecución de acciones en materia de transmisión de contenidos televisivos y radiofónicos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar la aplicación de los ingresos propios que genere el Organismo, destinándolos de manera prioritaria a proyectos de inversión;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprobar, para someter a consideración del titular del Poder Ejecutivo, el reglamento Interno del Organismo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Expedir los manuales administrativos, acuerdos y demás lineamientos administrativos de su competencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Nombrar y remover, a propuesta del Director General, a los funcionarios públicos del nivel inmediato inferior al de éste;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Vigilar y conservar el patrimonio del Organismo y resolver la asignación de bienes;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aceptar donaciones, legados y demás liberalidades que se otorguen a favor del Organismo; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Las demás que le confiere esta Ley y las disposiciones legales aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DEL DIRECTOR GENERAL",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "El Gobernador del Estado podrá designar y remover libremente al Director General del Organismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Director General, para ser designado, deberá cumplir los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con título profesional preferentemente en el ramo de la comunicación o las telecomunicaciones, o acreditar experiencia en las mismas al momento de su designación."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "La Dirección General tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dirigir la política de contenidos del Organismo, en coordinación con las dependencias y entidades competentes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cumplir las disposiciones de la Junta de Gobierno y aquéllas que normen el funcionamiento del Organismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conducir el funcionamiento del Organismo, vigilando el cumplimiento de su objeto y el desempeño de las unidades administrativas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Proponer a la Junta de Gobierno las políticas generales del Organismo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Presentar a la Junta de Gobierno, para su valoración y, en su caso, autorización, los proyectos de presupuesto anual de ingresos y egresos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar el plan institucional y los programas operativos anuales del Organismo y los demás instrumentos de planeación y programación que les corresponda;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Presentar el plan institucional del Organismo y los demás instrumentos de planeación y programación que les corresponda;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer, para su nombramiento, a los funcionarios públicos del nivel inmediato inferior al suyo;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Nombrar y remover al personal del Organismo, con excepción del señalado en la fracción anterior, de conformidad a la legislación en la materia y demás movimientos administrativos de personal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Celebrar convenios, contratos y acuerdos para el cumplimiento del objeto del Organismo, dando cuenta de ello a la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Someter a consideración de la Junta de Gobierno los reglamentos, manuales administrativos, acuerdos y demás disposiciones competencia del Organismo;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Fungir como Secretario Técnico de la Junta de Gobierno y concurrir a las sesiones con voz pero sin voto; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Las demás que le confieran la Junta de Gobierno y las disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El Director General se auxiliará para el desempeño de sus atribuciones, de las unidades administrativas que se establezcan en el reglamento interno, de acuerdo al presupuesto de egresos respectivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Director General será suplido en sus ausencias menores de 15 días, por el servidor público de la jerarquía inmediata inferior que determine el reglamento interno o quien él designe. En las ausencias mayores de 15 días, será suplido por quien designe la Junta de Gobierno.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DEL CONSEJO CONSULTIVO",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "El Organismo cuenta con un Consejo Ciudadano, encargado de promover una política editorial imparcial, como órgano de opinión y consulta respecto de las acciones, políticas, programas y proyectos que desarrolle el Organismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "El Consejo Ciudadano tiene las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Analizar, proponer y asesorar a la Junta de Gobierno sobre los objetivos y políticas de programación, contenidos y estructura de las transmisiones de radio y televisión, así como de los eventos a cargo del Organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar diagnósticos, estudios, opiniones y formular propuestas o recomendaciones sobre la programación y funcionamiento del Organismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer al Organismo programas que fomenten el desarrollo cultural en su sentido más amplio, democrático, participativo y plural, de los diversos sectores que constituyen la población en general;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Colaborar con el Organismo para elevar el nivel de la comunicación pública cultural, en diálogo y concertación con otras expresiones culturales de la nación y del mundo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Emitir recomendaciones al Organismo para promover su independencia editorial, así como una política imparcial y objetiva;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar ante la Junta de Gobierno un informe anual de sus actividades; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que le asignen otros ordenamientos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "El Consejo Ciudadano se integra por cinco personas preferentemente del ramo de la comunicación o las telecomunicaciones, que serán designados por la Junta de Gobierno del Organismo, de entre la terna que le sea propuesta por la Dirección General, previa convocatoria pública.\nEl cargo que se desempeñe dentro del Consejo de Ciudadano es honorífico y, por tanto, no remunerado, el cual tendrá una duración de 3 años.\nLas personas integrantes del Consejo Ciudadano designarán de entre ellas a quienes ostentarán la Presidencia y la Secretaría Ejecutiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "Para ser designado como integrante del Consejo de Ciudadano se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser mayor de 30 años de edad; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contar con título profesional o experiencia en los ramos de la comunicación, ya sea en el ámbito profesional, en la docencia o la investigación.\nPara garantizar la pluralidad en el Consejo Ciudadano, la participación será a título personal y no podrán emitir opinión en representación de ninguna organización."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "El desarrollo de las sesiones y demás aspectos inherentes a las funciones del Consejo Ciudadano serán normadas en el reglamento interno del Organismo.\nEn los casos en que no sea posible la presencia física de los integrantes del Consejo Ciudadano en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La identificación visual plena de los integrantes;\nll. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;\nllI. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;"
+              },
+              {
+                "Fracción": "LV",
+                "Texto": "Transmitirse en vivo para el público en general;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La asistencia será tomada nominalmente, al igual que todas las votaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La validez del acta y de los acuerdos aprobado se acreditará con la constancia de la votación firmados por quien presidió la sesión; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI DEL ÓRGANO INTERNO DE CONTROL",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "La persona titular del Órgano Interno de Control del Organismo será designada por el titular de la Contraloría del Estado, estará subordinado a esta y su funcionamiento y atribuciones se sujetarán a las disposiciones legales aplicables y las que determine la Contraloría en el acuerdo o lineamientos que expida para tales efectos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "La estructura del Órgano referido en el artículo 22 será determinada por la Contraloría, así como por las Secretarías de Administración y de la Hacienda Pública, y deberá ajustarse a lo previsto en los artículos 115 de la Ley General de Responsabilidades Administrativas y 53 de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como a la Recomendación emitida por el Comité Coordinador del Sistema Estatal Anticorrupción sobre el Fortalecimiento Institucional de los Órganos Internos de Control.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "(Se deroga)",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DEL PATRIMONIO DEL ORGANISMO",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "El patrimonio del Organismo se integrará con:",
+            "Fracciones": [
+              {
+                "Fracción": "L",
+                "Texto": "Las concesiones de las frecuencias de radio y televisión que actualmente tiene el Organismo, Gobierno de Jalisco y las que se incorporen en el futuro;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los bienes muebles e inmuebles que le otorgue el Estado y los que en el futuro adquiera por cualquier título legal para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones en numerario, servicios y subsidios que proporcione el Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las aportaciones que perciba conforme a los convenios o contratos que celebre en el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los productos, comisiones, patrocinios y demás ingresos que obtenga por la prestación de sus servicios, las cuales se determinarán por la Junta de Gobierno;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los bienes y derechos que adquiera por cualquier título;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los rendimientos que obtenga de la inversión de sus recursos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las regalías que por el uso y usufructo de programas, derechos de autor que provengan de la exposición y venta de la transmisión de obras cinematográficas, programas de radio y televisión, y en general cualquier creación artística o audiovisual que sean de su propiedad o que tenga en usufructo del Organismo; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Todos los demás bienes o derechos que perciba en ejercicio de sus atribuciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "Los ingresos propios que obtenga el Organismo serán integrados a su patrimonio y se ejercerán conforme al programa autorizado por la Junta de Gobierno, los cuales deberán ser destinados de manera prioritaria a proyectos de inversión o producción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Los bienes inmuebles que formen parte del patrimonio del Organismo serán inalienables, inembargables e imprescriptibles, y en ningún caso podrán constituirse gravámenes sobre ellos, mientras se encuentren afectos al objeto del Organismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "El Organismo administrará su patrimonio con sujeción a las disposiciones legales aplicables, siguiendo los criterios de equidad, eficacia y mejora de los servicios.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII DEL PERSONAL DEL ORGANISMO",
+        "Artículos": [
+          {
+            "Artículo": 29,
+            "Texto": "Las relaciones laborales entre el Organismo y sus trabajadores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.\nPara el cumplimiento de su objeto, el Organismo contará con el personal de base y de confianza que se autorice el presupuesto anual de egresos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "Capítulo IX Del Defensor de Audiencia",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "El Defensor de Audiencia es un órgano de auto-regulación que opera de acuerdo a los Lineamientos y al Código de Ética del propio organismo, que busca reconocer y velar por los derechos de la audiencia, criterios editoriales, calidad, variedad y veracidad de la información, motivar la participación ciudadana en un espacio de vinculación e interacción que nos ayude a construir un medio público.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "El Defensor de Audiencia será designado por la Junta de Gobierno, que emitirá una convocatoria pública en la que se invite a universidades, colegios de profesionistas de la comunicación y profesionales independientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Para ser designado como Defensor de Audiencia se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con una trayectoria reconocida en el ámbito de los medios de comunicación, profesional, docente o investigador con título profesional; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presentar currículo, carta de intención y al menos tres cartas de recomendación de medios de comunicación, instituciones de educación superior públicas o privadas del área de las ciencias de la comunicación.\nLa Junta de Gobierno evaluará los perfiles mediante el estudio de sus expedientes, entrevistas directas y una evaluación, cada uno de los requisitos se computará, el candidato que alcance mayor puntuación será designado.\nEl cargo de Defensor de Audiencia tendrá un término de duración de 2 años y será honorífico, por tanto no remunerado."
+              }
+            ]
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Son atribuciones del Defensor de Audiencia:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Motivar la participación de los ciudadanos para que expresen su sentir respecto al desempeño de los medios, los servicios, programación, responsabilidades y objetivos del organismo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Analizar la imparcialidad, veracidad, calidad y equilibrio de los contenidos del Organismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir recomendaciones y observaciones al Director General sobre los contenidos y programación del Organismo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con un espacio en la programación del Organismo para difundir contenidos relativos al acceso a la información y los derechos de las audiencias;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la educación para los medios en las audiencias; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar un informe anual de actividades a la Junta de Gobierno del Organismo."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.\n\nEl presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial \"El Estado de Jalisco\".",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga el Acuerdo del Gobernador del Estado por el que se crea el órgano desconcentrado denominado Sistema Jalisciense de Radio y Televisión, publicado en el Periódico Oficial “El Estado de Jalisco” el 12 de enero de 1999.\n\nLa persona titular de la Dirección General del Sistema Jalisciense de Radio y Televisión contará con un plazo de hasta 120 días a partir de la publicación del presente\ndecreto para remitir al titular del Poder Ejecutivo, de conformidad con las disposiciones aplicables, los proyectos de reformas y adiciones necesarias a la reglamentación, a fin de adecuar la normatividad a lo dispuesto en este decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El organismo público descentralizado denominado Sistema Jalisciense de Radio y Televisión, continuará operando las frecuencias de radio y televisión permisionadas o concesionadas al Gobierno de Jalisco, a saber, en Guadalajara: XHGJG Canal 7; XEJB-AM 630 Mhz; XEJB-FM 96.3; TDT Canal 25 Digital; en Puerto Vallarta: XHVJL-FM 91.9; XEJHLV- AM 1080 y XHGPV-TV Canal 13; en Zapotlán el Grande: XHCGJ-FM 107.1 y XHGZG-TV Canal 12; en Tepatitlán de Morelos: XHGJG-TV Canal 7.\nLo anterior hasta en tanto se lleva a cabo ante las dependencias federales competentes, la transferencia de dichas frecuencias de radio y televisión a favor del organismo público descentralizado denominado Sistema Jalisciense de Radio y Televisión.\n\nLa persona titular de la Dirección General dcl Sistema Jalisciense de Radio y Televisión deberá emitir dentro de los 120 días naturales, contados a partir de la entrada en vigor del presente decreto, convocatoria pública para la elección de Consejeros Ciudadanos.\nTABLA DE REFORMAS Y ADICIONES\n25534/LX/15.- Reforma el artículo 7 de la Ley Orgánica del Sistema Jalisciense de Radio y Televisión.- Nov. 12 de 2015 sec. VII.\n27743/LXII/19.- Se reforma el artículo 7 de la Ley Orgánica del Sistema Jalisciense de Radio y Televisión.- Dic. 28 de 2019 sec. VII.\n28329/LXII/21.- Se reforman los artículos 1º, 2º, 4º fracción I, 5º fracciones I, III y IX, 6º fracción III, 7º, 11 fracción II, 14 fracción VI, 17, 18 primer párrafo y fracciones IV y V, 19, 20, 21, 22, 23, 25 fracciones I, V y VIII, 29, 30 y 33 fracciones IV y V; asimismo las denominaciones del\ncapítulo V “Del Consejo Consultivo”, y del capítulo VI “Del Órgano de Vigilancia”; se adicionan los artículos 14 fracción I, recorriéndose en su numeración las subsecuentes, 18 fracciones VI y VII, y 33 fracción VI; y se deroga la fracción IV del artículo 6º y 24 de la Ley Orgánica del Sistema Jalisciense de Radio y Televisión.- Abr. 3 de 2021 sec. II.\n28732/LXII/22.- Se adiciona un segundo párrafo al artículo 9 y un segundo párrafo al artículo 21 de la Ley Orgánica del Sistema Jalisciense de Radio y Televisión.- Feb. 17. 2022 sec. III.\n29154/LXIII/23.- Se reforman los artículos 5º y 19 de la Ley Orgánica del Sistema Jalisciense de Radio y Televisión.- Mar. 4 de 2023, sec. IV.\nLEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN\nAPROBACIÓN: 14 DE NOVIEMBRE DE 2013.\nPUBLICACIÓN: 7 DE DICIEMBRE DE 2013. SECCIÓN III.\nVIGENCIA: 8 DE DICIEMBRE DE 2013.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "Los recursos humanos y económicos, bienes muebles y demás equipo de trabajo, así como todo tipo de obligaciones que tenga a su cargo el Gobierno del Estado derivado de las funciones del órgano desconcentrado denominado Sistema Jalisciense de Radio y Televisión, serán transferidos al organismo público descentralizado que se crea en el presente\nDecreto, facultando a la Secretaría de Planeación, Administración y Finanzas y demás dependencias o entidades involucradas, para que coordinadamente lleven a cabo las acciones necesarias para el cumplimiento de este artículo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "En el proceso de creación e instalación del organismo público descentralizado denominado Sistema Jalisciense de Radio y Televisión a que se refiere este Decreto, serán respetados los derechos de los servidores públicos en los términos de ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Sexto",
+            "Texto": "Se derogan las disposiciones legales que se opongan al presente Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Séptimo",
+            "Texto": "La Junta de Gobierno deberá remitir al titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Cultura el Reglamento Interno del organismo público descentralizado denominado Sistema Jalisciense de Radio y Televisión, dentro de los noventa días naturales contados a partir de la entrada en vigor de este Decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Octavo",
+            "Texto": "El Director General deberá emitir dentro de los 120 días naturales, contados a partir de la entrada en vigor del presente decreto, convocatoria pública para la elección de consejeros ciudadanos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Noveno",
+            "Texto": "La Junta de Gobierno deberá emitir dentro de los 120 días naturales, contados a partir de la entrada en vigor del presente decreto, convocatoria pública para la elección del defensor de audiencia.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 14 de noviembre de 2013\nDiputado Presidente Héctor Pizano Ramos\nDiputada Secretaria Idolina Cosío Gaona\nDiputado Secretario Víctor Manuel Sánchez Orozco\nPromulgación del Decreto 24561, mediante el cual se crea la Ley Orgánica del Sistema Jalisciense de Radio y Televisión, aprobado por el Honorable Congreso del Estado de Jalisco, en sesión del 14 de noviembre del 2013.\nEn mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 28 veintiocho días del mes de noviembre de 2013 dos mil trece.\nEl Gobernador Constitucional del Estado Jorge Aristóteles Sandoval Díaz\nEl Secretario General de Gobierno Arturo Zamora Jiménez\nARTÍCULOS TRANSITORIOS DEL DECRETO 28329/LXII/21",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

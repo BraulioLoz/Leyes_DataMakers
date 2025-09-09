@@ -1,0 +1,22 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 110,
+  "n_perm_fracciones": 259,
+  "n_trans_caps": 1,
+  "n_trans_articles": 9,
+  "n_trans_fracciones": 1,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones generales y objetivos del Catastro",
+    "CAPÍTULO II De la Autoridad Catastral",
+    "CAPÍTULO III Del Consejo Técnico Catastral del Estado y los Consejos Técnicos de Catastro Municipal",
+    "CAPÍTULO IV",
+    "CAPÍTULO V De las urbanizaciones",
+    "CAPITULO VI De las tablas de valores unitarios y de la valuación catastral",
+    "CAPITULO VII Manifestaciones, avisos y notificaciones",
+    "CAPITULO VIII De las infracciones y las sanciones",
+    "CAPITULO IX De los medios de defensa"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 9
+  }
+}

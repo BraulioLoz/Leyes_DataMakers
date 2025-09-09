@@ -1,0 +1,8 @@
+Errores y advertencias para: 0035.txt
+==================================================
+
+Ubicación: line 3
+Tipo: warning
+Mensaje: Capitulo sin sufijo válido (línea ignorada)
+Línea: CAPÍTULO l DISPOSICIONES GENERALES
+------------------------------

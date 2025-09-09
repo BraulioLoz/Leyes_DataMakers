@@ -1,0 +1,8 @@
+Errores y advertencias para: 0132.txt
+==================================================
+
+Ubicación: line 139
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 21 a 23
+Línea: Artículo 23.- Son sanciones administrativas:
+------------------------------

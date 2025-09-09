@@ -1,0 +1,359 @@
+{
+  "ley": "Ley que Crea la UNIVERSIDAD Politécnica de García",
+  "contenido": [
+    {
+      "tipo": "titulo",
+      "sufijo": "PRIMERO",
+      "nombre": "DISPOCICIONES GENERALES CAPÍTULO ÚNICO De la Naturaleza y Objeto",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "1",
+          "nota": [],
+          "contenido": "Se crea la Universidad Politécnica de García como un Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, con personalidad jurídica y patrimonio propios, con domicilio social en el Municipio de García, Estado de Nuevo León, para que contribuya a la prestación de servicios educativos de nivel superior en la formación de profesionales con una sólida preparación científica, tecnológica y de valores."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "2",
+          "nota": [],
+          "contenido": "La Universidad Politécnica de García forma parte del Sistema de Educación Superior del Estado de Nuevo León y adopta el modelo educativo del Subsistema Nacional de Universidades Tecnológicas y Politécnicas, con apego a las normas, políticas y lineamientos establecidos de común acuerdo entre las autoridades educativas estatal y federal."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "3",
+          "nota": [],
+          "contenido": "La Universidad Politécnica de García tendrá por objeto:\nI. Impartir Educación Superior en los niveles de Profesional Asociado, Licenciatura, Especialización, Maestría, y Doctorado, así como cursos de actualización y capacitación en sus diversas modalidades, incluyendo educación abierta y a distancia, para preparar profesionales con una sólida formación innovadora, científica, tecnológica y en valores,\nconscientes del contexto nacional e internacional, en lo económico, político, social, del medio ambiente y cultural;\nII. Propiciar la formación integral de sus estudiantes, en sus ámbitos intelectual, humano, social y profesional, alentando una vida sana y libre de discriminaciones;\nIII. Llevar a cabo investigación aplicada y desarrollo tecnológico, así como programas de innovación, pertinentes para el desarrollo económico y social de la región, del Estado y del País;\nIV. Difundir el conocimiento y la cultura a través de la extensión universitaria y la formación a lo largo de toda la vida;\nV. Promover la cultura innovadora, científica, tecnológica y emprendedora;\nVI. Prestar servicios tecnológicos y de asesoría, que contribuyan a mejorar el desempeño de las empresas y otras organizaciones de la entidad, de la región y en general del país;\nVII. Impartir programas de educación continua con orientación a la capacitación, para y en el trabajo, y fomento de la cultura científica y tecnológica en la región, en el Estado y en el País;\nVIII. Desarrollar estudios o proyectos en las áreas de su competencia, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento y mayor eficiencia de la producción de bienes o servicios y a la elevación de la calidad de vida de la comunidad;\nIX. Llevar a cabo programas de apoyo técnico en beneficio de la comunidad;\nX. Realizar las funciones de vinculación con los sectores público, privado y social, para contribuir al desarrollo tecnológico, social y económico de la comunidad; y\nXI. Cumplir con cualquier otro que permita consolidar su modelo educativo basado en competencias."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "4",
+          "nota": [],
+          "contenido": "Para el cumplimiento de su objeto, la Universidad Politécnica de García, tendrá las facultades siguientes:\nI. Fomentar el desarrollo de la investigación con el sector público y privado;\nII. Contribuir a la adopción y asimilación de tecnologías de vanguardia en las empresas del sector público y privado que les permitan mejorar su competitividad;\nIII. Impulsar en forma permanente mecanismos externos de evaluación de la calidad de la docencia, la investigación, el desarrollo tecnológico y la innovación a través de evaluaciones internas y externas a fin de lograr los más altos estándares de calidad;\nIV. Reglamentar la selección, ingreso, estancia y egreso de los estudiantes;\nV. Establecer los términos del ingreso, promoción y permanencia del personal académico, así como de la selección, admisión y ascenso del personal administrativo, apoyada en la reglamentación correspondiente;\nVI. Impulsar la certificación de procesos estratégicos de gestión de los servicios y programas que apoyan las actividades académicas con el objeto de asegurar la calidad y productividad de la gestión institucional;\nVII. Promover y suscribir convenios con organizaciones e instituciones de los diversos sectores social, público y privado tanto nacionales como extranjeras, para el intercambio y cooperación en programas y proyectos académicos de beneficio institucional;\nVIII. Diseñar programas educativos con base en competencias profesionales de buena calidad con una amplia aceptación social por la sólida formación técnica y en valores de sus egresados;\nIX. Planear y programar la enseñanza superior que imparta en un modelo curricular flexible;\nX. Expedir constancias, certificados de estudio, certificados de competencias laborales y otorgar diplomar, títulos y grados académicos;\nXI. Establecer equivalencias y reconocer estudios del mismo tipo educativa realizados en otras instituciones de enseñanza superior nacionales y extranjeras;\nXII. Crear las instancias necesarias de vinculación con los sectores público, privado y social, que deberán ser distintas y diferenciadas de los órganos de gobierno;\nXIII. Promover y organizar programas de prestación del servicio social, residencias, estancias y estadías u otras modalidades de vinculación con la sociedad acordes a los objetivos de los programas educativos;\nXIV. Establecer órganos y mecanismos de apoyo financiero;\nXV. Diseñar y establecer anualmente su calendario escolar en función de los programas de trabajo aprobados por los órganos competentes, de modo que pueda cumplir de manera eficaz las actividades académicas programadas;\nXVI. Conferir grados honoríficos, distinciones, reconocimientos y estímulos; y\nXVII. Las demás que le confieran las normas y disposiciones reglamentarias."
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "SEGUNDO",
+      "nombre": "DEL GOBIERNO DE LA UNIVERSIDAD CAPÍTULO I De los Órganos de la Universidad.",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "articulo",
+          "sufijo": "5",
+          "nota": [],
+          "contenido": "La Junta Directiva será el órgano de gobierno de la Universidad."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "6",
+          "nota": [],
+          "contenido": "Son órganos administrativos de la Universidad Politécnica de García los siguientes:\nI. El Rector;\nII. El Consejo Social de Vinculación; y\nIII. El Consejo de Calidad."
+        },
+        {
+          "tipo": "articulo",
+          "sufijo": "7",
+          "nota": [],
+          "contenido": "Son instancias de apoyo a la Universidad Politécnica de García los siguientes:\nI. El Secretario Académico;\nII. El Secretario Administrativo;\nIII. Los Directores de División;\nIV. El Abogado General;\nV. Los Directores de Programa Académico; y\nVI. Los demás que apruebe la Junta Directiva a propuesta del Consejo de Calidad y se señalen en el Reglamento de esta Ley."
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "II",
+          "nombre": "De la Junta Directiva",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "8",
+              "nota": [],
+              "contenido": "La Junta Directiva, órgano de gobierno de la Universidad Politécnica de García, estará integrada por once miembros que serán:\nI. Tres representantes del Gobierno Estatal, designados por el Titular del Ejecutivo Estatal, uno de los cuales será el Secretario de Educación, quien la presidirá;\nII. Tres representantes del Gobierno Federal, designados por la Secretaría de Educación Pública, con derecho a voz y voto; y\nIII. Cinco miembros distinguidos de la vida social, cultural, artística, científica y económica del país; tres serán designados por el Gobernador del Estado y dos serán designados por la Secretaría de Educación Pública.\nLa Junta Directiva, a propuesta de su Presidente, designara un Secretario que asistirá a las sesiones de este Órgano de Gobierno con voz pero sin voto y no se considerará\npara efectos del quórum requerido para sesionar, y será quien organice y coordine la planeación, registre y dé seguimiento a los acuerdos de la Junta Directiva.\nPara llevar a cabo las labores de vigilancia habrá un Comisario que será el representante de la Contraloría y Transparencia Gubernamental del Estado, quien participará también con voz pero sin voto y tampoco se considerara para efectos del quórum requerido para sesionar, cuyas acciones tendrán por objeto apoyar a la función directiva y promover el mejoramiento de gestión del organismo, el cual se sujetará a lo dispuesto en la normativa aplicable."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "9",
+              "nota": [],
+              "contenido": "Para ser un miembro de la Junta Directiva, se requiere:\nI. Ser mexicano en pleno uso de sus derechos;\nII. Ser mayor de treinta años al momento de su designación;\nIII. Poseer título profesional de licenciatura y tener experiencia académica, mínima de cinco años;\nIV. Ser persona de amplia solvencia moral y de reconocido prestigio; y\nV. Gozar de buena reputación y de prestigio académico, profesional o empresarial.\nEl requisito señalado en la fracción III del presente artículo, se exceptúa en su aplicación respecto de los integrantes mencionados en la fracción III del artículo anterior."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "10",
+              "nota": [],
+              "contenido": "Los cargos dentro de la Junta Directiva serán de carácter honorífico, por lo que no percibirán retribución alguna por su desempeño. Cada integrante de la Junta Directiva designará a un suplente con funciones de propietario, para que cubra sus ausencias temporales."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "11",
+              "nota": [],
+              "contenido": "Los miembros de la Junta Directiva referidos en la fracción III del artículo 8 de la presente Ley, durarán cuatro años en el cargo, y podrán ser ratificados en una sola ocasión para un periodo igual, sin exceder en ningún caso los ocho años."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "12",
+              "nota": [],
+              "contenido": "Cuando ocurra alguna vacante de los miembros de la Junta Directiva, será la Autoridad que corresponda, quien nombrara al sustituto. Cuando la vacante ocurra para alguno de los miembros señalados en la fracción III del artículo 8 de la presente Ley, la designación se hará en los mismos términos."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "13",
+              "nota": [],
+              "contenido": "El Rector de la Universidad Politécnica de García podrá asistir a las sesiones de la Junta Directiva y tendrá derecho de voz, más no de voto."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "14",
+              "nota": [],
+              "contenido": "La Junta Directiva celebrará sesiones ordinarias cada cuatro meses, las que serán convocadas por su Presidente. Las sesiones extraordinarias se podrán convocar en cualquier tiempo por el Presidente o a solicitud escrita de por lo menos las dos terceras partes de sus integrantes. En la convocatoria se incluirá el orden del día, a la que se anexarán los documentos necesarios para el desahogo de la sesión."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "15",
+              "nota": [],
+              "contenido": "La Junta Directiva sesionará válidamente con la asistencia de más de la mitad de sus miembros y sus resoluciones se tomaran por el voto de la mayoría de los miembros presentes, excepto que una disposición legal o reglamentaria establezca una mayoría calificada. El Presidente tendrá voto de calidad, en caso de empate."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "16",
+              "nota": [],
+              "contenido": "La Junta Directiva tendrá las atribuciones siguientes:\nI. Vigilar la buena marcha de la Universidad en todos los ámbitos de su actividad y recomendar medidas para mejorar su funcionamiento;\nII. Aprobar el presupuesto y la programación plurianual de la Universidad, a propuesta del Consejo de Calidad;\nIII. Autorizar la estructura organizacional de la Universidad, así como sus cambios;\nIV. Aprobar las cuentas anuales de la Universidad;\nV. Aprobar los estados financieros dictaminados;\nVI. Aprobar los planes estratégicos de la Universidad;\nVII. Aprobar la oferta educativa, así como los planes y programas de estudio;\nVIII. Aprobar, modificar y expedir las normas administrativas y académicas, así como las disposiciones reglamentarias de carácter general necesarias para el cumplimiento del objeto de la Universidad;\nIX. Aprobar la estructura académica de la Universidad;\nX. Designar a los miembros distinguidos de la sociedad del Consejo Social;\nXI. Ratificar, en su caso, las designaciones de Secretario Académico y Secretario Administrativo, así como las de directores de División, realizadas por el Rector;\nXII. Resolver los conflictos entre los órganos de la Universidad;\nXIII. Someter a la aprobación del Ejecutivo el proyecto de Reglamento de la presente Ley; y\nXIV. Las demás que le asigne esta Ley, su Reglamento o cualquier otro instrumento jurídico aplicable."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "III",
+          "nombre": "Del Consejo Social de Vinculación",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "17",
+              "nota": [],
+              "contenido": "El Consejo Social de Vinculación se integrará por:\nI. El Rector, quien lo presidirá;\nII. El Secretario Académico;\nIII. El Secretario Administrativo; y\nIV. Diez miembros de reconocido prestigio en alguno de los ámbitos de la vida social, cultural, artística, científica y económica de la región o del País, los cuales serán designados por la Junta Directiva por mayoría de dos tercios."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "18",
+              "nota": [],
+              "contenido": "Los cargos dentro del Consejo Social de Vinculación serán de carácter personal, honorífico e intransferible, por lo que no existirán las suplencias, salvo caso fortuito o fuerza mayor y en caso de renuncia, enfermedad o muerte."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "19",
+              "nota": [],
+              "contenido": "Los miembros de la sociedad que participan en el Consejo Social de Vinculación durarán cuatro años en el cargo y podrán ser ratificados en una sola ocasión para un periodo igual, sin exceder en ningún caso los ocho años."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "20",
+              "nota": [],
+              "contenido": "El Consejo Social de Vinculación tendrá las atribuciones siguientes:\nI. Supervisar las actividades de carácter económico de la Universidad y el rendimiento de sus servicios y efectuar las recomendaciones pertinentes;\nII. Proponer medidas, en el ámbito de sus atribuciones, para el mejor funcionamiento de la Universidad;\nIII. Proponer a la Junta Directiva el Código de Ética de la Universidad;\nIV. Promover la vinculación de la Universidad con su entorno;\nV. Promover la colaboración de la sociedad en el financiamiento de la Universidad y las relaciones entre ésta y su entorno cultural, profesional, económico y social al servicio de la calidad de la actividad universitaria;\nVI. Promover la rendición de cuentas administrativas y académicas; y\nVII. Las demás que establezcan las normas y disposiciones reglamentarias de la Universidad."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "IV",
+          "nombre": "Del Consejo de Calidad",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "21",
+              "nota": [],
+              "contenido": "El Consejo de Calidad será el órgano de consulta académica por excelencia, y se integrará por:\nI. El Rector, quien lo presidirá;\nII. El Secretario Académico;\nIII. El Secretario Administrativo;\nIV. Los Directores de División;\nV. Los Directores de Programa Académico; y\nVI. Un representante del personal académico por cada programa educativo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "22",
+              "nota": [],
+              "contenido": "Los integrantes del Consejo de Calidad representantes del personal académico, durarán en su cargo dos años y no podrán ser designados para un nuevo periodo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "23",
+              "nota": [],
+              "contenido": "Los cargos dentro del Consejo de Calidad serán de carácter personal, honorífico e intransferible, por lo que no existirán las suplencias."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "24",
+              "nota": [],
+              "contenido": "El Consejo de Calidad establecerá las modalidades para la designación de los sustitutos que cubrirán las vacantes de los representantes del personal académico que ocurran en el propio Consejo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "25",
+              "nota": [],
+              "contenido": "El Consejo de Calidad tendrá las atribuciones siguientes:\nI. Someter a la Junta Directiva para su aprobación los planes estratégicos de la Universidad;\nII. Supervisar los programas de acreditación de programas educativos y de certificación y mejoramiento integral de la administración de la Universidad;\nIII. Someter a la Junta Directiva, para su aprobación, la propuesta de presupuesto y programas anual;\nIV. Coordinar los trabajos de programación de las actividades de la Universidad;\nV. Proponer a la Junta Directiva las normas y disposiciones reglamentarias de la Universidad; así como reformas y adecuaciones a las mismas;\nVI. Proponer a la Junta Directiva la estructura orgánica y académica de la Universidad, así como sus modificaciones;\nVII. Vigilar la buena marcha de los procesados de la Universidad que forman parte de su Sistema de Calidad;\nVIII. Designar comisiones en asuntos de su competencia;\nIX. Someter a la consideración de la Junta Directiva los proyectos de planes y programas de estudio en sus distintos niveles y modalidades, así como la supresión, adecuación y actualización de los ya existentes; y\nX. Las demás que establezcan las normas y disposiciones reglamentarias de la Universidad;"
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "V",
+          "nombre": "Del Rector",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "26",
+              "nota": [],
+              "contenido": "El Rector será la máxima autoridad administrativa de la Universidad y fungirá como su representante legal. Durará en su cargo cuatro años y podrá ser ratificado en una sola ocasión para un periodo igual, sin exceder en ningún caso los ocho años.\nEl Rector será designado y removido por el Titular del Ejecutivo Estatal, a partir de una terna por candidatos que cumplen el perfil, previa opinión de la Junta Directiva."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "27",
+              "nota": [],
+              "contenido": "Las ausencias temporales del Rector serán cubiertas por el Secretario Académico."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "28",
+              "nota": [],
+              "contenido": "Para ser Rector de la Universidad Politécnica de García, se requiere:\nI. Ser ciudadano mexicano en pleno uso de sus derechos;\nII. Ser mayor de treinta años;\nIII. Poseer título de licenciatura y grado mínimo de maestría preferentemente, en alguna de las áreas del conocimiento impartidas por la Universidad;\nIV. No ser miembro de la Junta Directiva;\nV. Contar con reconocidos méritos profesionales, prestigio académico y experiencia en la dirección de programas académicos, mínima de cinco años;\nVI. Ser una persona amplia de solvencia moral y de reconocido prestigio profesional; y\nVII. Las demás que, en su caso, se establezcan en el Reglamento de la presente Ley."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "29",
+              "nota": [],
+              "contenido": "El Rector de la Universidad Politécnica de García tendrá las facultades y obligaciones siguientes:\nI. Ejercer la dirección, gobierno y gestión de la Universidad;\nII. Desarrollar las líneas de actuación aprobadas por los órganos colegiados y ejecutar sus acuerdos;\nIII. Otorgar, revocar y sustituir poderes;\nIV. Cumplir y hacer cumplir las normas y disposiciones reglamentarias de la Universidad;\nV. Proponer al Consejo de Calidad modificaciones a la estructura orgánica y académica de la Universidad;\nVI. Promover la difusión y divulgación del conocimiento y la cultura;\nVII. Nombrar y remover el Secretario Académico y al Secretario Administrativo, a los Directores de División y de programa académico, con la ratificación de la Junta Directiva;\nVIII. Nombrar y remover al Abogado General, de conformidad con el Reglamento de la presente Ley;\nIX. Delegar funciones ejecutivas que expresamente determine el Reglamento de la presente Ley, sin menoscabo de conservar su ejercicio y responsabilidad directa; y\nX. Las demás que le señale esta y otras Leyes, reglamentos o cualquier otro instrumento jurídico aplicable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "TERCERO",
+      "nombre": "DEL PATRIMONIO",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "ÚNICO",
+          "nombre": "De la Integración del Patrimonio",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "30",
+              "nota": [],
+              "contenido": "El patrimonio de la Universidad Politécnica de García se integrará por:\nI. Los ingresos que obtenga por los servicios que preste en cumplimiento de su objeto y fines, mismos que no podrán ser contabilizados bajo ninguna circunstancia como aportación Estatal o Federal;\nII. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos Federal, Estatal y Municipal, y en general, las personas físicas y morales para el cumplimiento de su objeto;\nIII. Los legados, herencias y las donaciones, otorgadas en su favor, y los derechos y obligaciones de los Fideicomisos en que se le señale como Fideicomisaria;\nIV. Los bienes muebles e inmuebles de su propiedad y los que adquiera por cualquier título legal; y\nV. Las utilidades, intereses, dividendos, rendimientos, derechos y, en general todo ingreso que adquiera por cualquier título legal."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "31",
+              "nota": [],
+              "contenido": "Los bienes inmuebles que formen parte del patrimonio de la Universidad serán inembargables, inalienables e imprescriptibles; para su enajenación o afectación bastara la autorización que expida su Junta Directiva, del uso de esta facultad se informará al rendirse la cuenta pública correspondiente; lo anterior de conformidad con lo dispuesto por la Ley de Administración Financiera para el Estado de Nuevo León y demás disposiciones legales aplicables.\nLa Universidad destinará la totalidad de sus activos exclusivamente al cumplimiento de sus fines."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "32",
+              "nota": [],
+              "contenido": "La inversión de recursos financieros por parte de la Universidad en proyectos, investigaciones científicas, tecnológicas y humanísticas; becas y cualesquier otro de carácter económico, estará sujeta a las siguientes bases:\nI. La Junta Directiva conocerá de la debida aplicación y adecuado aprovechamiento de los recursos en la Universidad; y\nII. Los derechos de autor, propiedad industrial y, en general, los resultados obtenidos por las personas físicas o morales que reciban apoyo de la Universidad serán materia de regulación específica en los acuerdos y convenios que al efecto se celebren, los cuales protegerán los intereses de la Universidad, de los miembros del personal académico y de los alumnos."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "33",
+              "nota": [],
+              "contenido": "El ejercicio de los recursos en la Universidad se ajustará siempre a los criterios de racionalidad y disciplina presupuestal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "sufijo": "CUARTO",
+      "nombre": "DE LA COMUNIDAD UNIVERSITARIA",
+      "nota": [],
+      "contenido": [
+        {
+          "tipo": "capitulo",
+          "sufijo": "I",
+          "nombre": "Del Personal",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "34",
+              "nota": [],
+              "contenido": "Para el cumplimiento de su objetivo de la Universidad contara con el siguiente personal:\nI. Académico;\na) Académico de Carrera\nII. Técnico de apoyo; y\nIII. De servicios administrativos."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "35",
+              "nota": [],
+              "contenido": "El personal académico será el contratado para llevar a cabo las funciones sustantivas de docencia, investigación, desarrollo tecnológico e innovación, en los términos de las disposiciones que al respecto se expiden y de los planes y programas que se aprueben."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "36",
+              "nota": [],
+              "contenido": "El personal técnico de apoyo será el contratado para realizar funciones que faciliten y complementen directamente el desarrollo de las labores académicas."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "37",
+              "nota": [],
+              "contenido": "El personal de servicios administrativos será el contratado para realizar labores distintas a las del personal académico y técnico de apoyo."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "38",
+              "nota": [],
+              "contenido": "Las relaciones laborales entre la Universidad Politécnica de García y su personal se regirán por las disposiciones que establece la Ley del Servicio Civil del Estado de Nuevo León."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "II",
+          "nombre": "Del Personal Académico y de Carrera",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "39",
+              "nota": [],
+              "contenido": "El personal académico de la Universidad ingresará, por lo general, mediante concurso de oposición o por procedimientos igualmente idóneos para comprobar la capacidad e idoneidad de los candidatos."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "40",
+              "nota": [],
+              "contenido": "El personal académico de carrera contará al menos con el grado académico de maestría."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "41",
+              "nota": [],
+              "contenido": "La Junta Directiva establecerá los requisitos y el procedimiento para la integración y operación de las comisiones que evaluarán al personal académico, las cuales estarán integradas por profesionales de alto reconocimiento.\nLos procedimientos que la Junta Directiva expide en relación con el personal académico, deberán asegurar que el ingreso, promoción y permanencia sea de personal altamente calificado."
+            }
+          ]
+        },
+        {
+          "tipo": "capitulo",
+          "sufijo": "III",
+          "nombre": "De los Alumnos",
+          "nota": [],
+          "contenido": [
+            {
+              "tipo": "articulo",
+              "sufijo": "42",
+              "nota": [],
+              "contenido": "Serán alumnos de la Universidad quienes cumplan con los procedimientos y requisitos de selección e ingreso que al efecto queden establecidos por las disposiciones reglamentarias que expida la Universidad al efecto y sean admitidos a cualesquiera de los programas, cursos y niveles que se impartan, con los derechos y obligaciones que correspondan."
+            },
+            {
+              "tipo": "articulo",
+              "sufijo": "43",
+              "nota": [],
+              "contenido": "Las agrupaciones de alumnos de la Universidad Politécnica de García se organizaran en la forma que ellos determinen y se mantendrán independientes de grupos políticos, religiosos, sindicales, así como de las propias autoridades universitarias."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

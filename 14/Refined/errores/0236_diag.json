@@ -1,0 +1,24 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 19,
+  "n_perm_fracciones": 104,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo Único Objeto y Definiciones",
+    "Capítulo I Atribuciones",
+    "Capítulo II Organización de La Agencia",
+    "Sección Primera Junta de Gobierno",
+    "Sección Segunda Del Director General",
+    "Sección Tercera Del Órgano de Vigilancia",
+    "Sección Cuarta Del Consejo Consultivo",
+    "Capítulo III Del Patrimonio de La Agencia",
+    "Capítulo IV Del Fideicomiso Maestro Ciudad Creativa Digital",
+    "Capítulo V"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "SECCIÓN": 4
+  }
+}

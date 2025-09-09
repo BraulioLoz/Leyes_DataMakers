@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 38,
+  "n_perm_fracciones": 5,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 4,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones generales",
+    "CAPÍTULO II De los servicios personales",
+    "CAPÍTULO III De los gastos en servicios generales, en materiales y suministros y de las adquisiciones",
+    "CAPÍTULO IV De los gastos en viáticos y viajes oficiales",
+    "CAPÍTULO V Denuncias, sanciones e incentivos"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

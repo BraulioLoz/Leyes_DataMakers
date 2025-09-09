@@ -1,0 +1,1099 @@
+{
+  "0031.JSON": {
+    "Decreto": "Lic. Francisco Javier Ramírez Acuña, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto\nNÚMERO 20553.- EL CONGRESO DEL ESTADO DECRETA:\nSE ABROGA EL DIVERSO 20510 Y CREA LA “LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.",
+    "Año_publicación": null,
+    "Título": "LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I Del objeto y aplicación",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley es de orden e interés público y de observancia general en todo el Estado de Jalisco, y tiene por objeto regular y fomentar la conservación, protección, restauración, producción, cultivo, manejo y aprovechamiento de los ecosistemas forestales del Estado y sus recursos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Son objetivos de esta Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Normar la política forestal en el Estado, en coordinación con la Federación y los Municipios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Impulsar el desarrollo de sector forestal del Estado, mediante el manejo adecuado de los recursos forestales, incluyendo las cuencas y ecosistemas hidrológico-forestales, sin perjuicio de lo establecido en la normatividad aplicable;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Asegurar el mejoramiento de la calidad de vida de los jaliscienses, a través de la aplicación de la selvicultura en los aprovechamientos de los recursos forestales en forma sustentable;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Establecer las bases para generar un aprovechamiento responsable de los recursos forestales procurando la conservación de la biodiversidad y del equilibrio ecológico;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la organización y profesionalización de las instituciones públicas del Estado y de los Municipios, para el desarrollo forestal sustentable;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Regular y fomentar la forestación y reforestación; con propósitos de conservación, restauración y producción de materias primas maderables y no maderables; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fomentar la producción y la productividad del sector forestal y la mejora constante de los servicios técnicos forestales del Estado."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Se declaran de utilidad pública:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La conservación, protección y restauración de los ecosistemas forestales y sus elementos, así como de las cuencas hidrológico-forestales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La ejecución de obras destinadas a la generación de bienes y servicios ambientales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La protección y conservación de los suelos con el propósito de evitar su erosión;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La protección y conservación de los ecosistemas que permitan mantener los procesos ecológicos esenciales y la diversidad forestal; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La protección y conservación de las zonas donde se encuentren recursos forestales en peligro de extinción."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "En lo no previsto en esta Ley se aplicarán en forma supletoria y en lo conducente las disposiciones contenidas en la Ley General de Desarrollo Forestal Sustentable y su Reglamento, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, y demás leyes aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la terminología empleada",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "Para los efectos de esta Ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Área de Protección Forestal: Comprende los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de acuerdo con el Reglamento de esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Bosque: Ecosistema forestal principalmente ubicado en zonas de clima templado en el que predominan especies leñosas perennes que se desarrollan de forma espontánea y que cuentan con las características para ser considerados terrenos forestales arbolados de acuerdo con esta Ley;\n\nBis. Bosque Urbano: Es un área de valor ambiental que se localiza en el suelo urbano, poblado de formaciones vegetales, predominantemente árboles. Son espacios vivos inmersos en un ecosistema propio al igual que su biodiversidad: agua, suelo, clima, paisajes, plantas, fauna y organismos asociados, que se desarrollan en el mismo o se introducen para mejorar su valor ambiental, cuya extensión y características contribuyen a mantener y mejora la calidad del ambiente."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Consejo: Consejo Forestal Estatal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Cultura Forestal: Son los conocimientos científicos y tradicionales, técnicas, hábitos y valores sobre el cuidado, manejo y aprovechamiento sustentable de los recursos forestales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Degradación Forestal: Proceso de disminución de la capacidad de los suelos y ecosistemas forestales para brindar servicios ambientales, así como de su capacidad productiva;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Desarrollo Forestal Sustentable: Proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, silvícola, económico y social que tienda a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento, equilibrio e integridad de los ecosistemas forestales, que mejore el ingreso y la calidad de vida de las personas que participan en la actividad forestal y promueva la generación de valor agregado en las regiones forestales, diversificando las alternativas productivas y creando fuentes de empleo en el sector;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Materia Forestal: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Reforestación: Establecimiento de especies forestales en terrenos forestales; y"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Reglamento: el Reglamento de la presente Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I De las Competencias Estatal y Municipal en Materia Forestal",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "Los Gobiernos Estatal y Municipal ejercerán sus atribuciones y obligaciones en materia forestal de conformidad con la distribución de competencias previstas en la Ley General de Desarrollo Forestal Sustentable, en la presente Ley y las demás disposiciones legales aplicables.\nLas atribuciones de inspección y vigilancia del cumplimiento de las disposiciones de la presente ley y las demás que resulten aplicables, serán ejercidas por la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado, a través de la Procuraduría Estatal de Protección al Ambiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Corresponde al Gobierno del Estado, de conformidad con lo dispuesto en esta Ley, las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover los bienes y servicios ambientales de los ecosistemas forestales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Impulsar la participación directa de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar en la elaboración de los programas forestales regionales de corto, mediano y largo plazo, de ámbito regional, municipal o por cuencas hidrológico-forestales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Promover, en coordinación con la Federación, Municipios y productores forestales programas y proyectos de educación, capacitación, investigación, transferencia de tecnología y cultura forestal, acordes con el programa nacional respectivo, la investigación científica aplicada, el desarrollo e innovación tecnológica de la silvicultura, y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar acuerdos y convenios de coordinación, cooperación y concertación, dentro su competencia, en materia forestal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Llevar a cabo acciones coordinadas con la Federación y los Municipios en materia de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Impulsar programas de mejoramiento genético forestal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Impulsar proyectos que contribuyan a la integración y competitividad de las cadenas productivas en materia forestal;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Llevar a cabo, en coordinación con la Federación y Municipios, acciones de saneamiento de los ecosistemas forestales, dentro de su ámbito territorial de competencia;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Asesorar y capacitar en prácticas y métodos que conlleven a un manejo forestal sustentable;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Atender, de forma coordinada con la Federación y los Municipios, los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Celebrar acuerdos y convenios con la Federación para participar en la inspección y vigilancia forestal en el Estado, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Elaborar estudios para, en su caso, recomendar al Ejecutivo Federal a través de la Secretaría de Medio Ambiente y Recursos Naturales, el establecimiento de medidas de fomento y promoción a la forestación y reforestación en su territorio;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Realizar evaluaciones anuales del desempeño de los programas que se apliquen en el Estado, tendientes a lograr el desarrollo forestal sustentable; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley y otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los Municipios."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Son obligaciones del Estado las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impulsar en el ámbito de su competencia el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de los Municipios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Diseñar, formular y aplicar, en concordancia con la política forestal nacional, la política forestal en el Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Constituir el Consejo Forestal Estatal para facilitar el análisis de la problemática forestal y fortalecer la toma de decisiones;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Elaborar, coordinar y aplicar los programas relativos al sector forestal en el Estado, teniendo en cuenta las consideraciones y proyecciones de más largo plazo que se hagan y vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integrar el Sistema Estatal de Información Forestal de conformidad con lo marcado por el Sistema Nacional de Información Forestal"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coadyuvar y participar, de conformidad con la Ley General de Desarrollo Forestal Sustentable, en la adopción y consolidación del Servicio Nacional Forestal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover y participar, en coordinación con la Federación y los Municipios, en la restauración de los ecosistemas forestales afectados por incendio o cualquier otro desastre natural;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Realizar y supervisar las labores de conservación, protección y restauración de los terrenos"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Elaborar y aplicar de forma coordinada con la Federación y los Municipios programas de reforestación y forestación en zonas degradadas, así como llevar a cabo acciones de protección y mantenimiento de los recursos forestales."
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal en el Estado, de conformidad con esta Ley y la política nacional forestal;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales en el Estado;"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "Promover el desarrollo de plantaciones forestales comerciales, así como la inducción de transferencia de tecnología;"
+              },
+              {
+                "Fracción": "XIV",
+                "Texto": "Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico Estatal;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas, o delitos que se cometan en materia forestal; y"
+              },
+              {
+                "Fracción": "XVI",
+                "Texto": "Realizar las acciones tendientes para la prevención de incendios y combate a la extracción ilegal y la tala clandestina de los recursos forestales."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Son atribuciones de los Municipios las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aplicar los criterios de política forestal previstos en esta Ley y en las disposiciones Municipales en bienes y zonas de competencia Municipal, en las materias que no estén expresamente reservadas a la Federación o al Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coadyuvar con el Gobierno del Estado en la realización y actualización del Inventario Estatal Forestal y de Suelos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar, en coordinación con la Federación y el Estado en la zonificación forestal, comprendiendo las áreas forestales permanentes de su ámbito territorial;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Celebrar acuerdos y convenios de coordinación, cooperación y concertación con la Federación y el Estado en materia forestal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley, reglamentos municipales y los lineamientos de la política forestal del país;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales, dentro de su ámbito territorial;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Llevar a cabo, en coordinación con el Gobierno del Estado, acciones de saneamiento en los ecosistemas forestales dentro de su ámbito de competencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del Municipio;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Promover la participación de organismos públicos, privados y no gubernamentales en proyectos de apoyo directo al desarrollo forestal sustentable;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Participar, de conformidad con los acuerdos y convenios que se celebren con el Gobierno Federal y de las Entidades Federativas, en la vigilancia forestal en los Municipios;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Participar y coadyuvar en los programas integrales de prevención y combate a la extracción ilegal y a la tala clandestina con la Federación y el Gobierno del Estado;"
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Participar en los Consejos Forestales Regionales y que están representados en el Consejo Forestal Estatal, de acuerdo al Reglamento de ésta Ley; y"
+              },
+              {
+                "Fracción": "XIII",
+                "Texto": "La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Son obligaciones de los Municipios las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diseñar, formular y aplicar, en concordancia con la política nacional y Estatal, la política forestal del Municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover programas y proyectos de educación, capacitación, investigación, transferencia de tecnología y cultura forestal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar y coadyuvar en las acciones de prevención y combate de incendios forestales en coordinación con los Gobiernos Federal y Estatal, y participar en la atención, en general, de las emergencias y contingencias forestales, de acuerdo con los programas de protección civil;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Desarrollar y apoyar viveros y programas de producción de plantas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Hacer del conocimiento a las autoridades competentes y, en su caso, denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Conformar brigadas para la prevención y combate de incendios forestales, cuando cuenten con superficie forestal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Delimitar dentro de sus instrumentos de planeación, las áreas que han sido incendiadas de manera intencional previo emitido por la secretaría en áreas que no son competencia federal; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Crear y actualizar un padrón de los viveros existentes en el municipio; vigilar que la extracción de la tierra de monte y de hoja por parte de los viveros, sea sostenible; y en su caso sancionar, conforme a la normativa aplicable, la extracción indiscriminada de dicha tierra."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la Coordinación entre el Gobierno del Estado y los Gobiernos Municipales",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "Las atribuciones que tienen el Gobierno del Estado y los Municipios serán ejercidas de acuerdo a lo establecido en las disposiciones legales aplicables en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "El Gobierno del Estado y los Municipios podrán celebrar convenios de colaboración a fin de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cumplir con las disposiciones contenidas en esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Aplicar y operar las políticas públicas Federales y Estatales en materia de desarrollo forestal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Combatir los incendios forestales, la tala clandestina y el comercio ilegal de productos"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Regular y vigilar el adecuado uso del fuego; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aplicar y operar las demás disposiciones o programas que formulen el Gobierno Federal y Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Cuando un área de protección forestal se encuentre en varios Municipios, los Municipios involucrados deberán coordinarse para que, de manera conjunta, proteger y establecer líneas de acción tendientes a prevenir todo tipo de deterioros o daños que se le puedan causar. También, deberá existir un convenio de colaboración que establezca la forma en la que habrán de coordinarse para prevenir y combatir los incendios, las plagas, la tala clandestina y el comercio ilegal de productos forestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "El titular del Ejecutivo del Estado y la Secretaría podrán celebrar con el Gobierno Federal y los Municipios, así como con los sectores social y privado, instrumentos de coordinación y concertación de acciones para la prevención, conservación, restauración y mejora del sector forestal.\nTÍULO TERCERO DEL PROGRAMA ESTATAL EN MATERIA FORESTAL",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I De los Criterios del Programa Estatal",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "Se considera como área prioritaria del desarrollo Estatal el desarrollo forestal sustentable, y por ende, tendrán ese carácter aquellas actividades públicas o privadas que se relacionen con la materia forestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El programa Estatal en materia forestal deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover el fomento y la adecuada planeación de un desarrollo forestal sustentable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ser evaluable y medible mediante criterios e indicadores de carácter ambiental, silvícola, económico y social;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tender a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento, equilibrio e integridad de los ecosistemas forestales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Mejorar el ingreso y la calidad de vida de las personas que participan en la actividad forestal; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la generación de valor agregado en las regiones forestales, diversificando las alternativas productivas y creando fuentes de empleo en el sector."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Los criterios sociales del Programa Estatal Forestal son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El respeto a la cultura, tradiciones y naturaleza de los pueblos y comunidades indígenas, así como promover su participación en la discusión, elaboración y ejecución de los programas forestales que apliquen en las zonas donde habiten, respecto de esta Ley y demás ordenamientos aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La participación de los productores y las organizaciones forestales sociales y privadas, propietarios de predios o de industrias forestales, instituciones públicas y organizaciones no gubernamentales, en sus respectivos ámbitos de acción; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El fortalecimiento e impulso a la investigación, la educación y la capacitación con el objetivo de construir mayores oportunidades de empleo y desarrollo humano."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Los criterios de carácter ambiental y silvícola del Programa Estatal Forestal son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Mejorar la calidad de vida en los centros de población, a través de actividades forestales que tiendan a la conservación del suelo, mantos acuíferos, disminución de la contaminación ambiental y a la construcción de espacios recreativos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conducir el uso y aprovechamiento racional de los ecosistemas y plantaciones forestales comerciales con la intención de construir una cultura de sustentabilidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proteger, restaurar, conservar y aprovechar los recursos forestales sustentablemente para evitar su degradación;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Implementar políticas de integración regional del manejo forestal con la participación de los silvicultores, uniones o asociaciones de silvicultores legalmente constituidas, tendiente a conservar la biodiversidad de los ecosistemas, el manejo de las cuencas hidrológicas, suelos forestales, especies endémicas y en peligro de extinción; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Combatir el tráfico, la extinción, apropiación y explotación ilegal de los recursos forestales en todas sus vertientes."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Los criterios de carácter económico del programa forestal son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fomentar el desarrollo de la planta industrial para el óptimo aprovechamiento de los recursos"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Utilizar, de manera racional, los ecosistemas forestales a fin de dar satisfacción a las necesidades madereras de la industria y la población, promoviendo la forestación constante;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover el desarrollo de la industria forestal generando condiciones de inversión para las grandes, medianas y pequeñas empresas y satisfacer el consumo del mercado interno y externo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Incentivar los proyectos de inversión forestal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Impulsar una política de diversificación productiva en el aprovechamiento de los recursos forestales y sus derivados;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Fomentar la investigación y el desarrollo científico y tecnológico en materia forestal; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Prestar asistencia técnica a los productores forestales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De los Instrumentos de la Política Forestal",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "Los instrumentos de la política forestal Estatal son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Planeación del desarrollo forestal sustentable;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Sistema Estatal de Información Forestal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Inventario Estatal Forestal y de Suelos; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La Zonificación Estatal Forestal."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De la Planeación del Desarrollo Forestal",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "La planeación del desarrollo forestal como instrumento de diseño y ejecución de la política forestal comprende:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La proyección que corresponde a los periodos constitucionales de la administración pública, con relación a lo establecido por la Ley Estatal de Planeación para el caso de los programas especiales, institucionales y sectoriales; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La proyección de corto, mediano y largo plazo, correspondiente a veinticinco años o más, de tal forma que la Secretaría elabore el Programa Estratégico Estatal Forestal en el ámbito de su competencia. El programa indicará los objetivos, estrategias y líneas de acción prioritarios.\nLos programas de largo plazo, los institucionales, y en su caso los especiales, deberán ser revisados cada dos años."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "Atendiendo la geografía de las cuencas, subcuencas y microcuencas hidrológico – forestales y considerando la situación de los suelos y ecosistemas forestales se elaborarán programas regionales, como parte de la planeación del desarrollo forestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "El Ejecutivo del Estado en su informe anual que presente al Congreso, mencionará los avances y resultados obtenidos que guarda el sector forestal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV Del Sistema Estatal de Información Forestal",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "La integración del Sistema Estatal de Información Forestal, se realizará de acuerdo a lo establecido en la Ley General de Desarrollo Forestal Sustentable y su Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "En cumplimiento a lo previsto por la Ley de Transparencia e Información Pública del Estado de Jalisco, las autoridades en materia forestal deberán poner a disposición de la persona que lo solicite la información forestal con que cuenten.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V Del Inventario Forestal Estatal y de Suelos",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "La integración del Inventario Forestal Estatal y de Suelos, se realizará de acuerdo a lo establecido en la Ley General de Desarrollo Forestal Sustentable y su Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI De la Zonificación Forestal Estatal",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "La zonificación Forestal Estatal se realizará de acuerdo a lo establecido en la Ley General de Desarrollo Forestal Sustentable y su Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "La Secretaría podrá establecer un sistema permanente de inspección y evaluación de las condiciones sanitarias de los terrenos forestales y difundirá con mayor amplitud y oportunidad sus resultados, así mismo, promoverá los programas de investigación que resulten necesarios para resolver los problemas fitosanitarios forestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "El Gobierno del Estado se coordinará con la Federación y los Municipios a fin de llevar a cabo las labores de detección, diagnostico, prevención, control, combate de plagas y enfermedades forestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "Quien detecte la presencia de plagas o enfermedades forestales dará aviso a la autoridad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "El aprovechamiento de recursos y materias primas forestales para uso doméstico, no requerirá autorización alguna, salvo en los casos que se especifiquen en las Normas Oficiales Mexicanas u otras disposiciones legales aplicables, y será responsabilidad del dueño o poseedor del predio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "En terrenos comprendidos en zonas declaradas como áreas naturales protegidas, el aprovechamiento de recursos y materias primas forestales para uso doméstico deberá sujetarse a lo establecido a las disposiciones legales aplicables.\nLos interesados, antes de realizar el aprovechamiento de arbolado vivo para uso doméstico, deberán presentar a la Secretaría un aviso en el formato que para tal efecto ésta expida y distribuya.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "La leña para uso doméstico, deberá provenir de desperdicios de cortas silvícolas, limpia de monte, arbolado muerto, podas de árboles y poda o corta total de especies arbustivas.\nEl aprovechamiento de arbustos y poda de árboles para la obtención de leña para uso doméstico, no deberá realizarse en organismos que sirvan como refugio temporal o permanente de fauna silvestre.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 34,
+            "Texto": "La Secretaría es la responsable de establecer los procedimientos de concertación interinstitucional con organismos Federales, Estatales, Municipales y con los propios productores forestales, con la finalidad de implementar acciones para la restauración de áreas o zonas que hayan sufrido siniestros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Respecto de la forestación y reforestación con propósitos de conservación y restauración, se estará a lo dispuesto por la Ley General de Desarrollo Forestal Sustentable, así como de las disposiciones legales que de ella emanen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "La Secretaría se coordinará con la Federación y los Gobiernos Municipales, en todas aquellas acciones tendientes a la promoción de la forestación y reforestación de zonas siniestradas del Estado, promoviendo además la participación de los sectores social y privado, así como de personas físicas y jurídicas que tengan interés en la conservación del equilibrio del medio ambiente y rescate forestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "La Secretaría podrá promover la declaración de zonas de protección forestal para aquellas adscripciones geográficas que hayan sufrido siniestros o que requieran de una atención especial en la promoción de su desarrollo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I De la Investigación Forestal",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "La Secretaría podrá establecer acciones específicas a efecto de que se realicen investigaciones que permitan la innovación de tecnologías dirigidas a fortalecer la capacidad productiva del sector forestal del Estado, en coordinación con la Federación, los sistemas de información Estatales, universidades, colegios de profesionistas, centros de investigación y organismos que por su naturaleza académica puedan coadyuvar para tal efecto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "Los objetivos de la investigación forestal se encaminarán a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proveer información para la formulación del diagnóstico forestal y de los suelos del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Identificar las prioridades que en materia forestal existan con el propósito de desarrollar proyectos de investigación específicos, encaminados a ofrecer alternativas ante problemas que tenga el sector productivo forestal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desarrollar modelos de financiamiento para el apoyo a proyectos productivos forestales, así como esquemas de gestión interinstitucional que permitan la participación social de los actores involucrados en materia forestal;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Participar en el diseño, implementación y evaluación de políticas públicas y acciones tendientes a impulsar la consolidación del sector, fortaleciendo la política forestal del Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recopilar información especializada respecto de las innovaciones tecnológicas aplicadas en otras entidades del país, así como en otras naciones, con el fin de valorar su aplicación en el Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Vincularse con los organismos nacionales e internacionales que por su naturaleza y orientación se relacionen con la investigación forestal, a fin de llevar a cabo acciones conjuntas que redunden en mejores resultados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Generar la tecnología que fortalezca las medidas de conservación y restauración forestal; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer y realizar la actualización permanente del Inventario Forestal Estatal y de Suelos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la Educación Forestal",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "La Secretaría, en coordinación con la Secretaría de Educación e instituciones educativas de nivel medio superior y superior, promoverá acciones tendientes a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La difusión de valores de respeto a los ecosistemas que permita su conservación y la formulación de una cultura forestal entre los jaliscienses;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Incorporar en el sistema educativo Estatal programas que propicien la formación forestal, así como opciones de desarrollo profesional especializadas en el estudio de estos ecosistemas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Colaborar en la elaboración de planes de estudios diseñados para abordar científicamente áreas específicas de la realidad forestal del Estado;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Generar publicaciones tendientes a orientar a la comunidad educativa respecto de la materia forestal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover la formación y capacitación forestal dirigida a la comunidad educativa;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recomendar a la Secretaría de Educación y a las Universidades la actualización constante de los planes de estudios relacionadas con carreras forestales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Procurar la capacitación y actualización de los servidores públicos del ramo forestal Estatal y Municipal; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Otorgar becas para la formación y capacitación forestal."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I De los Incentivos Económicos",
+        "Artículos": [
+          {
+            "Artículo": 41,
+            "Texto": "Los incentivos económicos podrán considerar el establecimiento y vinculación de cualquier mecanismo normativo o administrativo de carácter fiscal, financiero o de mercado establecidos en otras leyes, incluyendo los estímulos fiscales, los créditos, las fianzas, los seguros, los fondos y los fideicomisos, así como las autorizaciones en materia forestal, cuando atiendan o posibiliten la realización de los propósitos y objetivos prioritarios de promoción y desarrollo forestal. En todo caso, los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades forestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "La Secretaría, en coordinación con otras dependencias del Ejecutivo y la Federación, propondrá y aplicará medidas para asegurar que el Estado, los Municipios y los particulares, coadyuven financieramente para la realización de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sustentable de los ecosistemas forestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Con el fin de fomentar el desarrollo sustentable del sector forestal el Gobierno del Estado y los Municipios podrán establecer con las dependencias correspondientes estímulos fiscales, instrumentos crediticios, apoyos financieros, asesoría técnica y capacitación especializada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "Preferentemente deberán ser sujetos de los apoyos y estímulos a que se refiere el\nartículo anterior los:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Propietarios o poseedores de terrenos forestales o preferentemente forestales que durante cinco años hayan adoptado y aplicado todos los programas de prevención y combate de incendios forestales, así como, los referentes al control de plagas y sanidad forestal establecidos por la Secretaría;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Miembros de comunidades y pueblos indígenas que realicen actividades de aprovechamiento, así como de restauración de recursos forestales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Propietarios o poseedores de predios forestales o preferentemente forestales que realicen acciones de forestación y reforestación conforme a lo establecido en el Programa Estatal Forestal; y"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las uniones o asociaciones de silvicultores legalmente constituidas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De la Empresa Social Forestal",
+        "Artículos": [
+          {
+            "Artículo": 45,
+            "Texto": "El Gobierno del Estado promoverá e impulsará la empresa social forestal en los ejidos o comunidades con áreas forestales permanentes y bajo programas de manejo forestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "El Gobierno del Estado otorgará incentivos económico-fiscales, de acuerdo a las leyes correspondientes, a las personas jurídicas que bajo este esquema impulsen el sector forestal del Estado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III Del Fideicomiso Forestal Estatal",
+        "Artículos": [
+          {
+            "Artículo": 47,
+            "Texto": "El Fideicomiso Forestal Estatal operará a través de un Comité Técnico, integrado por una representación de los Gobiernos Estatal y Municipal, así como de las organizaciones privadas y sociales del sector forestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "El Fideicomiso Forestal Estatal se integra con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las aportaciones que efectúen los Gobiernos Federal, Estatal y Municipal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Créditos y apoyos de organismos nacionales e internacionales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las aportaciones y donaciones de personas físicas o jurídicas de carácter privado, mixto, nacionales e internacionales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "El cobro por bienes y servicios ambientales y por asistencia técnica; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los demás recursos legítimos que se obtengan por cualquier otro concepto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO",
+        "Artículos": [
+          {
+            "Artículo": 49,
+            "Texto": "La prevención, control y combate de los incendios forestales será prioritaria para la conservación de las zonas forestales, así como el desarrollo sustentable del sector.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "Para prevenir, combatir y controlar los incendios forestales, además de las que establezcan otras disposiciones legales, la Secretaría, en coordinación con la Federación y los Municipios y contando con la participación de la sociedad civil, deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fomentar la constitución de asociaciones civiles de protección forestal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Determinar las regiones de daño potencial o zonas críticas de incendios forestales a las que deberá dar atención prioritaria;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Crear y editar un manual que contenga los lineamientos que deben seguir los productores, los trabajadores, las empresas forestales y todos los ciudadanos para prevenir y evitar los incendios forestales;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Reglamentar, de acuerdo a los dispositivos contenidos en esta Ley, el uso adecuado del fuego;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Organizar campañas de difusión de los lineamientos que se deben seguir para lograr un adecuado uso del fuego;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Impartir cursos de capacitación a los productores forestales, a los propietarios de terrenos forestales y a los ciudadanos en general, sobre las medidas preventivas que deben tomar para evitar incendios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Publicar un boletín de prevención de incendios y conservación de los recursos forestales para distribuirse entre los visitantes de los bosques y reservas ecológicas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover y reforzar la capacitación y apoyos, incluyendo el de atención médica a los brigadistas especializados que participan en los programas de combate de incendios forestales; y"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Establecer una efectiva coordinación para generar programas de integración de voluntarios, dedicados exclusivamente a labores de logística y apoyo, privilegiando su capacitación y asegurando la existencia de los insumos necesarios para el desempeño eficaz de dicha actividad."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "Para prevenir, combatir y controlar los incendios forestales, además de las que establezcan otras disposiciones legales, los propietarios o poseedores de terrenos forestales o preferentemente forestales tendrán las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aplicar los lineamientos que para la prevención de incendios emita la Secretaría;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con un plan de contingencia para el caso de que se presente un siniestro en su terreno, así como con todos los medios que sean necesarios para extinguir el fuego;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dar mantenimiento constante a su predio a fin de evitar que se presenten condiciones que faciliten la generación de un incendio o la propagación del mismo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Permitir y no obstaculizar las inspecciones que se realicen sobre su predio; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Permitir el ingreso al personal de la Secretaría, protección civil, bomberos o de los integrantes de las brigadas ciudadanas de prevención, combate y control de incendios, en caso de siniestro."
+              }
+            ]
+          },
+          {
+            "Artículo": 52,
+            "Texto": "La Secretaría y los Municipios podrán realizar quemas preventivas con el fin de eliminar las condiciones para que se generen incendios o para que el fuego no se propague en caso de siniestro, cumpliendo siempre con las disposiciones que para tal efecto señalen las leyes de la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Los propietarios o poseedores de terrenos forestales podrán realizar quemas con fines preventivos siguiendo y cumpliendo con los lineamientos que para tal efecto señalen las leyes en la materia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I De la Participación Ciudadana",
+        "Artículos": [
+          {
+            "Artículo": 54,
+            "Texto": "Los Gobiernos Estatal y Municipal, en el ámbito de su competencia, promoverán la participación de la sociedad en general en la planeación, diseño, aplicación y evaluación de las políticas públicas y programas en materia forestal Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "El Gobierno del Estado promoverá y creará estímulos e incentivos económicos, a través de las dependencias correspondientes, con la finalidad de fomentar la participación voluntaria de los propietarios de terrenos forestales y preferentemente forestales en las labores de conservación y restauración de los recursos forestales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "Los pueblos y comunidades indígenas que se asienten o sean propietarios de terrenos forestales siempre serán tomados en cuenta en la planeación y diseño de las políticas y programas de desarrollo forestal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II De los Consejos Forestales",
+        "Artículos": [
+          {
+            "Artículo": 57,
+            "Texto": "El Consejo Forestal Estatal y los Regionales son los organismos de consulta y asesoría, auxiliares de la Secretaría, que participarán en la elaboración de programas y recomendaciones para la toma de decisiones en la política forestal Estatal y regional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "La integración de los Consejos, así como los objetivos específicos de acción estarán establecidos en el Reglamento de la presente ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO I Disposiciones Generales",
+        "Artículos": [
+          {
+            "Artículo": 59,
+            "Texto": "La inspección y vigilancia forestal será una responsabilidad de la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado, deberá desarrollarse de conformidad con las atribuciones que esta Ley confiere a través de la Procuraduría Estatal de Protección al Ambiente, así como los acuerdos y convenios que se celebren con la Federación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "El Gobierno del Estado, en coordinación con los Municipios y con la colaboración de los propietarios forestales organizados, comunidades indígenas, universidades y otras instituciones públicas, formulará, operará y evaluará programas integrales de prevención y combate a la tala clandestina, así como de prevención de actos indebidos de cambio de uso del suelo, tráfico de especies y recursos forestales, extracción del suelo forestal, o bien, transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III De los Operativos de Inspección y Medidas de Prevención",
+        "Artículos": [
+          {
+            "Artículo": 62,
+            "Texto": "De conformidad con las atribuciones que esta ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá, a través de la Procuraduría Estatal de Protección al ambiente de la Secretaría de Medio Ambiente y Desarrollo Territorial, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, llevar a cabo los operativos de inspección y las medidas de prevención necesarias para la efectiva aplicación de las disposiciones legales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV De las Infracciones",
+        "Artículos": [
+          {
+            "Artículo": 63,
+            "Texto": "Se consideran infracciones a esta Ley las que se realicen contra lo establecido en la Ley General de Desarrollo Forestal Sustentable.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V De las Sanciones",
+        "Artículos": [
+          {
+            "Artículo": 64,
+            "Texto": "De conformidad con las atribuciones que esta Ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá, a través de la Procuraduría Estatal de Protección al Ambiente de la Secretaría de Medio Ambiente y Desarrollo Territorial, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, imponer las sanciones para la efectiva aplicación de esa Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI De los Recursos",
+        "Artículos": [
+          {
+            "Artículo": 65,
+            "Texto": "En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley y su Reglamento, se estará a lo dispuesto por la Ley del Procedimiento Administrativo del Estado y sus Municipios.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial “El Estado de Jalisco”. La publicación oficial contendrá la exposición de motivos de la presente Ley.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el Estado de Jalisco.\n\nEl presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "Se abroga el decreto número 20,510 que contiene la Ley Desarrollo Forestal Sustentable para el Estado de Jalisco.\n\nSe derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.\n\nLas obras de urbanización iniciadas con anterioridad a la entrada en vigor del presente decreto, seguirán su trámite con los requisitos establecidos al momento de su presentación.\nTABLA DE REFORMAS Y ADICIONES\nFe de erratas.-Oct.12 de 2004. Sec. IV.\n21594/LVII/06.-Reforma el artículo 50 de la Ley de Desarrollo Forestal Sustentable del Estado de Jalisco.- Dic. 2 de 2006. Sec. V.\n21696/LVII/06.- Reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica del Poder Ejecutivo; Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; y Ley de Desarrollo Forestal Sustentable, ordenamientos todos del Estado de Jalisco.-Ene.13 de 2007. Sec. XII.\n21703/LVII/06.-Adiciona una fracción XVI al artículo 8 de la Ley de Desarrollo Forestal Sustentable del Estado de Jalisco.- Ene.13 de 2007. Sec. XIII.\n21800/LVII/07.- Reforma los artículos 18 y 44 de la Ley de Desarrollo Forestal del Estado de Jalisco.-Feb.22 de 2007. Sec. VII.\n21918/LVIII/07.- Reforma el artículo cuarto transitorio del decreto 21696 que reforma, adiciona y deroga diversas disposiciones de la Ley Orgánica del Poder Ejecutivo, Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente y de la Ley de Desarrollo Forestal Sustentable, todos del Estado de Jalisco, por el que se crea la Procuraduría Estatal de Protección al Ambiente.-Oct.20 de 2007. Sec. II.\n24439/LX/13.- Reforma el art. 10 de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco.- Jul. 25 de 2013. Sec. II.\n24823/LX/14.- Reformar los Arts. 6º, párrafo segundo, 40, párrafo primero, 59, 61 y 64 de la Ley de Desarrollo Forestal y sustentable para el Estado de Jalisco.-Mar. 1 de 2014. sec II.\n25825/LXI/16.- Se reforma el artículo 7 de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco.- May. 17 de 2016 sec. IV.\n26220/LXI/16.- se reforman los artículos 5, 40 y 61 de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco.- Ene. 28 de 2017 sec. VII.\n26319/LXI/17.- Se reforma el artículo 10 en sus fracciones VI y VII y se adiciona la fracción VIII de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco; y Se reforma el artículo 251 del Código Urbano para el Estado de Jalisco,.- May 11 de 2017 sec. VI.\n26924/LXI/18.- Se reforma el artículo 10 de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco.- Sep. 25 de 2018 sec. V.\n27954/LXII/20.- Se reforma el artículo 5° de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco.- Sep. 19 de 2020 sec. III.\n29213/LXIII/23.- Se adiciona al artículo 5 la fracción II bis, de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco.- Jul. 22 de 2023, sec. III.\nLEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO\nAPROBACION: 8 DE JULIO DE 2004.\nPUBLICACION: 20 DE JULIO DE 2004. SECCION II.\nVIGENCIA: 23 DE JULIO DE 2004.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El titular del Poder Ejecutivo del Estado, deberá prever en su iniciativa de presupuesto de egresos para el ejercicio fiscal siguiente a la entrada en vigor de la presente Ley, para que se provea de los recursos económicos, materiales y humanos, a las Secretarías correspondientes, para los efectos de que esta Ley cumpla con las atribuciones otorgadas.\n\nSe autoriza al titular del Ejecutivo del Estado a que realice las adecuaciones presupuestarias para el debido cumplimiento del presente decreto y deberá expedir el reglamento interior de la Procuraduría Estatal de Protección al Ambiente, en el que se especifiquen su estructura interna, su organización y demás atribuciones, adecuar los reglamentos, acuerdos y demás dispositivos reglamentarios relacionados con las materias cuyas disposiciones se reforman, modifican o derogan a partir del presente decreto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Cuarto",
+            "Texto": "El Gobierno del Estado, tendrá un término de ciento ochenta días contados a partir de la entrada en vigor de la presente, para expedir el Reglamento respectivo.\nSalón de Sesiones del Congreso del Estado Guadalajara, Jalisco, 8 de julio de 2004\nDiputado Presidente Rodolfo Gpe. Ocampo Velázquez\nDiputado Secretario Fabián Fdo. Montes Sánchez\nDiputado Secretario Enrique García Hernández\nEn mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.\nEmitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 14 catorce días del mes de julio de 2004 dos mil cuatro.\nEl Gobernador Constitucional del Estado Lic. Francisco Javier Ramírez Acuña\nEl Secretario General de Gobierno Lic. Héctor Pérez Plazola\nARTÍCULOS TRANSITORIOS DEL DECRETO 21696\n\nLa Procuraduría Estatal de Protección al Ambiente entrará en funciones a más tardar el día 7 de enero de 2008 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquella por el presente decreto y por las disposiciones que de éste se deriven.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Quinto",
+            "Texto": "En el cumplimiento del presente decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.\nARTÍCULOS TRANSITORIOS DEL DECRETO 26319/LXI/17",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

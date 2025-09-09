@@ -1,0 +1,25 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 29,
+  "n_perm_fracciones": 106,
+  "n_trans_caps": 1,
+  "n_trans_articles": 8,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "Capítulo I Atribuciones",
+    "Capítulo II Organización del Organismo",
+    "Sección Primera De la Junta de Gobierno",
+    "Sección Segunda Del Director General",
+    "Sección Tercera Del Consejo Consultivo",
+    "Sección Cuarta Del Patronato",
+    "Sección Quinta Del Órgano de Vigilancia",
+    "Capítulo III",
+    "Capítulo IV De la Salvaguardia del Hospicio Cabañas",
+    "Capítulo V Del Régimen Laboral"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "SECCIÓN": 5
+  }
+}

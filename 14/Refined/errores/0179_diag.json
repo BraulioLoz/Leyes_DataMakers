@@ -1,0 +1,23 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 100,
+  "n_perm_fracciones": 224,
+  "n_trans_caps": 1,
+  "n_trans_articles": 16,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LOS PRESTADORES DEL SERVICIO DE JUSTICIA ALTERNATIVA",
+    "CAPÍTULO III",
+    "SECCIÓN PRIMERA. REGLAS GENERALES",
+    "SECCIÓN SEGUNDA ETAPA PRELIMINAR",
+    "SECCIÓN TERCERA TRÁMITE",
+    "CAPÍTULO V DE LA ACTUACIÓN DE LOS ABOGADOS",
+    "CAPÍTULO VI DE LA VIGILANCIA Y SANCIONES",
+    "CAPÍTULO VII DE LOS RECURSOS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "SECCIÓN": 3
+  }
+}

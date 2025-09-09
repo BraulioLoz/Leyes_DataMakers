@@ -1,0 +1,41 @@
+{
+  "n_chapters": 28,
+  "n_perm_articles": 149,
+  "n_perm_fracciones": 312,
+  "n_trans_caps": 1,
+  "n_trans_articles": 5,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II De las Autoridades Competentes y Autoridades Auxiliares",
+    "CAPÍTULO III De las Organizaciones Pecuarias",
+    "CAPÍTULO IV De los Organismos Auxiliares de Cooperación",
+    "CAPÍTULO V Del Ejercicio de la Actividad Pecuaria y Clasificación de Explotaciones de Ganado Mayor o Menor",
+    "CAPÍTULO I De la Identificación Pecuaria",
+    "CAPÍTULO II De la Acreditación de la Propiedad de las Especies Domésticas Productivas",
+    "CAPÍTULO III De los Animales Mostrencos",
+    "CAPÍTULO IV De la Movilización, Control y Vigilancia de las especies pecuarias, sus productos y subproductos",
+    "CAPITULO V De los Recuentos y Realeos",
+    "CAPÍTULO VI Disposiciones Adicionales",
+    "CAPÍTULO I De los Programas de Desarrollo Pecuario",
+    "CAPÍTULO II De la Adaptación, Conservación y Mejoramiento de las Tierras para Fines Pecuarios",
+    "CAPÍTULO III Del Mejoramiento Genético",
+    "CAPÍTULO IV De la Educación, Capacitación e Investigación Pecuaria",
+    "CAPÍTULO V",
+    "CAPÍTULO VI Del Reconocimiento al Mérito Pecuario",
+    "CAPÍTULO I De la Sanidad Animal",
+    "CAPÍTULO II De las Campañas Zoosanitarias",
+    "CAPÍTULO III De la Declaratoria de Zonas Contaminadas o Libres de Enfermedades",
+    "CAPÍTULO I De la Clasificación de los Productos y Subproductos Pecuarios",
+    "CAPÍTULO II Del Sacrificio de Especies Domésticas Productivas para el Consumo Humano",
+    "CAPÍTULO III De los Rastros Concesionados a Particulares",
+    "CAPÍTULO I Del Abasto de Productos Pecuarios",
+    "CAPÍTULO II De los Centros de Acopio Pecuario",
+    "CAPÍTULO I De las Responsabilidades",
+    "CAPÍTULO II De las Sanciones",
+    "CAPÍTULO III De la Defensa de Particulares"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 28
+  }
+}

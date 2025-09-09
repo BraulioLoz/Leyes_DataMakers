@@ -1,0 +1,39 @@
+{
+  "n_chapters": 25,
+  "n_perm_articles": 117,
+  "n_perm_fracciones": 311,
+  "n_trans_caps": 1,
+  "n_trans_articles": 13,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Objeto de la Ley",
+    "Capítulo II Principios de Mejora Regulatoria",
+    "Capítulo III Objetivos de la Política de Mejora Regulatoria",
+    "Capítulo I Del Objeto, Integración y Herramientas",
+    "Capítulo II Consejo Estatal de Mejora Regulatoria",
+    "Capítulo III Estrategia Estatal de Mejora Regulatoria",
+    "Sección Primera De la Secretaria de Desarrollo Económico",
+    "Sección Segunda De los Municipios",
+    "Capítulo V De los Sujetos Obligados",
+    "Capítulo I Del Catálogo Estatal",
+    "Sección Primera Del Registro Estatal y los Municipales de Regulaciones",
+    "Sección Segunda Del Registro Estatal y los Municipales de Trámites y Servicios",
+    "Sección Tercera Del Padrón de Visitadores",
+    "Capítulo II De la Agenda Regulatoria",
+    "Capítulo III Del Análisis de Impacto Regulatorio",
+    "Capítulo IV De los Programas de Mejora Regulatoria",
+    "Capítulo V De las Encuestas, Información Estadística y Evaluación en Materia de Mejora Regulatoria",
+    "Capítulo VI De las Ventanillas Especializadas",
+    "Capítulo VII Del Expediente Electrónico para Trámites y Servicios",
+    "Capítulo VIII Sistema de Apertura Rápida de Empresas",
+    "Capítulo IX Estímulos",
+    "Capítulo I La Mejora Regulatoria en el Poder Judicial y en los Órganos Constitucionales Autónomos",
+    "Capítulo II La Mejora Regulatoria en el Poder Legislativo",
+    "Capítulo I Protesta Ciudadana",
+    "Capítulo II Responsabilidades Administrativas"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 20,
+    "SECCIÓN": 5
+  }
+}

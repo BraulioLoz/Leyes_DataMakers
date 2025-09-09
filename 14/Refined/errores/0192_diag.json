@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 80,
+  "n_perm_fracciones": 153,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO SEGUNDO Del Sistema Estatal de Planeación Participativa",
+    "CAPÍTULO TERCERO De la Planeación Estatal del Desarrollo y Gobernanza",
+    "CAPITULO CUARTO",
+    "CAPÍTULO QUINTO De la Planeación Municipal del Desarrollo",
+    "CAPÍTULO SEXTO De la Planeación Regional del Desarrollo",
+    "CAPÍTULO SÉPTIMO De la Consulta de Gobernanza y Cultura de la Paz",
+    "CAPÍTULO OCTAVO De la Coordinación",
+    "CAPÍTULO NOVENO De la Estrategia Estatal de Monitoreo y Evaluación"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

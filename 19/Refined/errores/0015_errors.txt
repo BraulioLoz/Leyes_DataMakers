@@ -1,0 +1,38 @@
+Errores y advertencias para: 0015.txt
+==================================================
+
+Ubicación: line 183
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 7 a 9
+Línea: Artículo 9. Corresponde al Gobernador del Estado:
+------------------------------
+Ubicación: line 328
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 15 a 17
+Línea: Artículo 17. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, tendrá las siguientes funciones:
+------------------------------
+Ubicación: line 421
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 24 a 26
+Línea: Artículo 26. El convenio que se celebre según lo previsto en el artículo anterior contendrá:
+------------------------------
+Ubicación: line 1654
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 174 a 176
+Línea: Artículo 176. Los Atlas de riesgos se elaborarán y consultarán conforme al procedimiento que se establece en el siguiente párrafo, según corresponda al espacio territorial que
+------------------------------
+Ubicación: line 1694
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 181 a 183
+Línea: Artículo 183. Adicionalmente a lo anterior, toda nueva construcción o fraccionamiento, deberá de contribuir económicamente, a las obras de manejo integral de aguas pluviales y de drenaje pluvial contenidas en el programa sectorial de infraestructura para el manejo de las aguas pluviales, conforme al tipo y nivel de riesgo que represente su ubicación dentro de la cuenca.
+------------------------------
+Ubicación: line 2650
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 304 a 306
+Línea: Artículo 306. Para la obtención de las autorizaciones de fusión, subdivisión, relotificación o parcelación, el solicitante deberá cumplir con los siguientes requisitos:
+------------------------------
+Ubicación: line 3426
+Tipo: warning
+Mensaje: Secuencia de artículos salta de 429 a 431
+Línea: Artículo 431. Para apoyar el funcionamiento de los observatorios, las dependencias y entidades de la Administración Pública Federal, estatal, municipal y de las demarcaciones territoriales:
+------------------------------

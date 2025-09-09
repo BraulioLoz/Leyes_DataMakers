@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 36,
+  "n_perm_fracciones": 104,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II De los Derechos y Obligaciones de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes Registradas",
+    "Capítulo III",
+    "Capítulo IV Del Fomento de las Organizaciones de la Sociedad Civil",
+    "Capítulo V De las Sanciones",
+    "Capítulo VI De los Medios de Defensa"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

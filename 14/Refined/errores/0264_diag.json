@@ -1,0 +1,16 @@
+{
+  "n_chapters": 3,
+  "n_perm_articles": 16,
+  "n_perm_fracciones": 62,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Disposiciones Generales",
+    "CAPÍTULO II Estructura y atribuciones de la Plataforma",
+    "CAPÍTULO III Órgano Interno de Control"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 3
+  }
+}
