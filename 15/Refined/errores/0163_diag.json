@@ -1,0 +1,24 @@
+{
+  "n_chapters": 9,
+  "n_perm_articles": 20,
+  "n_perm_fracciones": 54,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO OBJETO Y DEFINICIONES",
+    "CAPÍTULO SEGUNDO FACULTADES Y ATRIBUCIONES",
+    "CAPÍTULO TERCERO DE LOS PROGRAMAS DEL IMCUFIDEN",
+    "CAPÍTULO PRIMERO DEL CONSEJO DIRECTIVO.",
+    "SECCIÓN PRIMERA DE LAS ATRIBUCIONES DEL CONSEJO",
+    "CAPÍTULO SEGUNDO DEL DIRECTOR GENERAL",
+    "CAPÍTULO TERCERO DEL CONTROL Y VIGILANCIA",
+    "TÍTULO TERCERO DEL PATRIMONIO DEL INSTITUTO",
+    "CAPÍTULO PRIMERO GENERALIDADES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7,
+    "SECCIÓN": 1,
+    "TÍTULO": 1
+  }
+}

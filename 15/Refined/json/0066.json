@@ -1,0 +1,1193 @@
+{
+  "0066.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto 136 Legislatura LXI LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS",
+    "Año_publicación": null,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LAS DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley es de orden público y de observancia general en todo el territorio del Estado de México y tiene por objeto establecer las bases de coordinación entre el Estado y los Municipios para el funcionamiento de los Sistemas Anticorrupción, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y la Ley General del Sistema Nacional Anticorrupción, para que las autoridades estatales y municipales competentes prevengan, investiguen y sancionen las faltas administrativas y los hechos de corrupción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Son objetivos de la presente Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer mecanismos de coordinación entre los diversos órganos de combate a la corrupción en el ámbito federal, estatal y municipal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer las bases para la prevención de hechos de corrupción y faltas administrativas en el Estado y sus Municipios."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Establecer las bases para la emisión de políticas públicas integrales en el combate a la corrupción, así como en la fiscalización y control de los recursos públicos. IV. Establecer las directrices básicas que definan la coordinación de las autoridades competentes estatales y municipales para la generación de políticas públicas en materia de prevención, detección, control, sanción, disuasión y combate a la corrupción."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Regular la organización y funcionamiento de los Sistemas Estatal y Municipal Anticorrupción y en su caso su Comité Coordinador y su Secretaría Ejecutiva, así como establecer las bases de coordinación entre sus integrantes."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer las bases, principios y procedimientos para la organización y funcionamiento del Comité de Participación Ciudadana."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer las bases y políticas para la promoción, fomento y difusión de la cultura de integridad en el servicio público, así como de la rendición de cuentas, de la transparencia, de la fiscalización y del control de los recursos públicos, considerando el principio de máxima publicidad."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Establecer mecanismos que permitan dar cuenta del cumplimiento de los principios que rigen el servicio público, en términos de la Ley de la materia. IX. Establecer las acciones permanentes que aseguren la integridad y el comportamiento ético de los servidores públicos de la Entidad y municipios, así como crear las bases mínimas para que las autoridades estatales y municipales establezcan políticas eficaces de ética pública y responsabilidad en el servicio público."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Establecer las bases del Sistema Estatal de Fiscalización, acordes con las emitidas a nivel federal. XI. Establecer las bases para crear e implementar sistemas electrónicos para el suministro, intercambio, sistematización y actualización de la información que generen las instituciones competentes estatales y municipales."
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Establecer las bases para incentivar entre la ciudadanía, el uso del Sistema de Denuncias Públicas de faltas administrativas y hechos de corrupción."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Para efectos de la presente Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Comisión Ejecutiva: Al órgano técnico auxiliar de la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Comité Coordinador: A la instancia encargada de la coordinación y eficacia del Sistema Estatal y Municipal Anticorrupción a que se refiere la Constitución Política del Estado Libre y Soberano de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Comité Coordinador Municipal: a la instancia encargada de la coordinación y eficacia del Sistema Municipal Anticorrupción a que se refiere la Constitución Política del Estado Libre y Soberano de México. IV. Comité de Participación Ciudadana: A la instancia colegiada a que se refiere la Constitución Política del Estado Libre y Soberano de México, el cual contará con las facultades que establece la presente Ley."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Comité de Participación Ciudadana Municipal: A la instancia colegiada a nivel Municipal a que se refiere la Constitución Política del Estado Libre y Soberano de México, el cual contará con las facultades que establece la presente Ley."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Comisión Estatal de Selección: A la que se constituya en términos de esta ley, para nombrar a los integrantes del Comité de Participación Ciudadana."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Entes públicos: A los Poderes Ejecutivo, Legislativo y Judicial del Estado de México, los organismos constitucionales autónomos, las dependencias y organismos auxiliares de la Administración Pública Estatal, los municipios, los Órganos Jurisdiccionales que no forman parte del Poder Judicial del Estado de México, las empresas de participación estatal y municipal así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes señalados a nivel Estatal y Municipal."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Entes Públicos Fiscalizadores: Al Órgano Superior de Fiscalización del Estado de México, la Contraloría del Poder Legislativo, la Secretaría de la Contraloría del Gobierno del Estado de México, las Contralorías Municipales y los Órganos internos de control de los entes Públicos. IX. Ley: A la Ley del Sistema Anticorrupción del Estado de México y Municipios."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Secretaría Ejecutiva: Al organismo que se desempeña como órgano de apoyo técnico del Comité Coordinador. XI. Secretario Técnico: Al servidor público que desempeña las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confiere la presente Ley. XII. Sistema Estatal Anticorrupción: Al conjunto de mecanismos interinstitucionales de coordinación entre los entes públicos del Estado de México, que tienen por objeto el combate a la XIII. Sistema Estatal de Fiscalización: Al conjunto de mecanismos interinstitucionales de coordinación entre los entes Públicos Fiscalizadores, con el objetivo de maximizar la cobertura y el impacto de la fiscalización en el Estado de México y sus municipios, con base en una visión estratégica, la aplicación de estándares profesionales similares, la creación de capacidades y el intercambio efectivo de información, sin incurrir en duplicidades u omisiones. XIV. Sistemas Municipales Anticorrupción: Al conjunto de mecanismos interinstitucionales de coordinación entre las dependencias de la administración pública municipal, que tienen por objeto\nel combate a la corrupción."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Son sujetos de la presente Ley, los entes públicos que integran los Sistema Estatal y Municipal Anticorrupción.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LOS PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "Son principios rectores del servicio público: la legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad, competencia por mérito y rendición de cuentas, en los términos de las disposiciones legales aplicables. Los entes públicos están, obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto y la actuación ética y responsable de cada servidor público.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN",
+        "Artículos": [
+          {
+            "Artículo": 6,
+            "Texto": "El Sistema Estatal y Municipal Anticorrupción, tiene por objeto establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades del Estado de México y sus Municipios, en materia de prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, transparencia y rendición de cuentas, en congruencia con el Sistema Nacional Anticorrupción. Es una instancia cuya finalidad es establecer, articular y evaluar la política en la materia. Las políticas públicas que establezca el Comité Coordinador, deberán ser implementadas por todos los entes públicos. La Secretaría Ejecutiva, dará seguimiento a la implementación de dichas políticas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "El Sistema Estatal y Municipal Anticorrupción, se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los integrantes del Comité Coordinador."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Comité de Participación Ciudadana."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El Comité Rector del Sistema Estatal de Fiscalización. IV. Los Sistemas Municipales Anticorrupción, quienes concurrirán a través de sus presidentes rotatoriamente conforme a los dieciocho distritos judiciales en que se divide el territorio del Estado de México."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DEL COMITÉ COORDINADOR",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "El Comité Coordinador es la instancia responsable de establecer los mecanismos de coordinación entre los integrantes del Sistema Estatal y Municipal Anticorrupción y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas y programas de combate a la",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "El Comité Coordinador tendrá las facultades siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar su programa de trabajo anual."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer las bases y principios para la efectiva coordinación entre sus integrantes."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar, diseñar y promover políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, detección, control, transparencia, rendición de cuentas y disuasión de faltas administrativas y hechos de corrupción, así como su evaluación periódica, ajuste y modificación. IV. Aprobar la metodología de los indicadores para la evaluación en materia de fiscalización, control de recursos públicos, transparencia y rendición de cuentas, con base en la propuesta que le someta a consideración la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Conocer el resultado de las evaluaciones que realice la Secretaría Ejecutiva y con base en las mismas, acordar las medidas a tomar o la modificación que corresponda realizar a las políticas integrales."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Requerir información a los entes públicos respecto del cumplimiento de la política estatal y las demás políticas integrales implementadas, así como recabar datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación de conformidad con los indicadores generados para tales efectos."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Determinar e instrumentar los mecanismos, bases y principios para la coordinación con los Entes Públicos Fiscalizadores, de control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Emitir un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas estatales y municipales en la materia. Dicho informe será el resultado de las evaluaciones realizadas por la Secretaría Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador, los cuales podrán realizar votos particulares, concurrentes o disidentes, sobre el mismo y deberán ser incluidos dentro del informe anual. IX. Emitir recomendaciones públicas no vinculantes a los entes públicos respectivos, debiendo dar seguimiento a las mismas en términos de la presente Ley. Lo anterior con el objeto de garantizar la adopción de medidas de fortalecimiento institucional dirigidas a la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño de los Órganos internos de control."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Establecer mecanismos de coordinación con los Sistemas Municipales Anticorrupción. XI. Determinar los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen los entes públicos competentes. XII. Establecer una Plataforma Digital Estatal, que integre y conecte los diversos sistemas electrónicos que posean datos e información necesaria para que el Comité Coordinador, pueda establecer políticas integrales, metodologías de medición y aprobar los indicadores necesarios para que se puedan evaluar las mismas, conforme las determinaciones de las leyes aplicables. XIII. Establecer una Plataforma Digital Estatal, que integre y conecte los diversos sistemas electrónicos que posean datos e información necesaria para que los entes públicos tengan acceso a los sistemas a que se refiere el Capítulo Octavo de la presente Ley. XIV. Celebrar los Convenios de Coordinación, Colaboración y Concertación necesarios para el cumplimiento de los fines del Sistema Estatal y Municipal Anticorrupción. XV. Promover el establecimiento de Lineamientos y Convenios de Cooperación entre las autoridades financieras y fiscales a nivel estatal y municipal, para facilitar a los entes públicos fiscalizadores la consulta expedita y oportuna a la información que resguardan relacionada con la investigación de faltas administrativas y hechos de corrupción en los que estén involucrados flujos\nde recursos económicos estatales y municipales, de conformidad con las leyes de transparencia, protección de datos personales y demás aplicables. XVI. Disponer las medidas necesarias para que los entes públicos competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, accedan a la información necesaria para el ejercicio de sus atribuciones, contenida en los sistemas que se conecten con la Plataforma Digital Estatal. XVII. Participar, conforme a las leyes de la materia, en los mecanismos de cooperación internacional para el combate a la corrupción, a fin de conocer y compartir las mejores prácticas internacionales, para colaborar en el combate global del fenómeno y en su caso, compartir a la comunidad internacional, las experiencias relativas a los mecanismos de evaluación de las políticas anticorrupción. XVIII. Las demás señaladas en otros ordenamientos jurídicos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Son integrantes del Comité Coordinador, los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un representante del Comité de Participación Ciudadana, quien lo presidirá."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El titular del Órgano Superior de Fiscalización del Estado de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El titular de la Fiscalía Especializada en Combate a la Corrupción. IV. El titular de la Secretaría de la Contraloría del Gobierno del Estado de México."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Un representante del Consejo de la Judicatura del Poder Judicial del Estado de México."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El Presidente del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El Presidente del Tribunal de Justicia Administrativa del Estado de México."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Para el adecuado funcionamiento del Sistema Estatal Anticorrupción, la presidencia del Comité Coordinador, durará un año, la cual será rotativa entre los integrantes del Comité de Participación Ciudadana.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Son atribuciones del Presidente del Comité Coordinador:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidir las sesiones del Sistema Estatal Anticorrupción y del Comité Coordinador."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar al Comité Coordinador."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Convocar por medio del Secretario Técnico a sesiones. IV. Dar seguimiento a los acuerdos del Comité Coordinador, a través de la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Presidir el órgano de gobierno de la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer al órgano de gobierno de la Secretaría Ejecutiva el nombramiento del Secretario Técnico."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar a los integrantes del Comité Coordinador sobre el seguimiento de los acuerdos y recomendaciones adoptados en las sesiones."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Presentar para su aprobación y publicar el informe anual de resultados del Comité"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Presentar para su aprobación las recomendaciones en materia de combate a la corrupción."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Aquéllas que establezcan las reglas de funcionamiento y organización interna del Comité"
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Comité Coordinador, se reunirá en sesión ordinaria cada dos meses. El Secretario Técnico, podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité. Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mayoría de sus Integrantes. Para el desahogo de sus reuniones, el Comité Coordinador podrá invitar a los integrantes de los Sistemas Nacional y Municipal Anticorrupción, los órganos internos de control, los entes públicos, así como a las organizaciones de la sociedad civil. El Sistema Estatal Anticorrupción, sesionará previa convocatoria del Comité Coordinador, en los términos en que este último lo determine.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Las determinaciones se tomarán por mayoría de votos, salvo en los casos que esta Ley establezca mayoría calificada. El Presidente del Comité Coordinador, tendrá voto de calidad en caso de empate. Los integrantes de dicho Comité, podrán emitir voto particular de los asuntos que se aprueben en el seno del mismo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO QUINTO DEL COMITÉ DE PARTICIPACIÓN CIUDADANA",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "El Comité de Participación Ciudadana, tiene como objetivo coadyuvar, en términos de la presente Ley al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal Anticorrupción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que la presente Ley establece para ser nombrado Secretario Técnico. Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva. Durarán en su encargo cinco años sin posibilidad de reelección y serán renovados de manera escalonada y solo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de Contratos de Prestación de Servicios por Honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva. Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determina la Constitución Política del Estado Libre y Soberano de México.\nEn relación con el párrafo anterior le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial en los términos de las leyes de la materia. En la conformación del Comité de Participación Ciudadana, se procurará que prevalezca la equidad de género.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Los integrantes del Comité de Participación Ciudadana, serán nombrados conforme al procedimiento siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Legislatura Local constituirá una Comisión Estatal de Selección integrada por nueve mexiquenses por un periodo de tres años, de la siguiente manera:\na) Convocará a las instituciones de educación superior y de investigación del Estado de México, para proponer candidatos a fin de integrar la Comisión Estatal de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días hábiles, para seleccionar a cinco integrantes basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción en la Entidad.\nb) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro integrantes, en los mismos términos del inciso anterior. El cargo de miembro de la Comisión Estatal de Selección será honorario. Quienes funjan como integrantes no podrán ser designados como parte del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión Estatal de Selección."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Comisión Estatal de Selección deberá emitir una convocatoria con el objeto de realizar una amplia consulta pública estatal dirigida a toda la sociedad en general para que presenten sus postulaciones de aspirantes a ocupar el cargo del Comité de Participación Ciudadana. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana y deberá hacerlo público, en donde deberá considerando al menos las siguientes características:\na) El método de registro y evaluación de las y los aspirantes.\nb) Hacer pública la lista de los aspirantes."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Hacer público el cronograma de audiencias.\ne) Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia.\nf) El plazo en que se deberá hacer la designación que al efecto se determine y que se tomará, en sesión pública, por el voto de la mayoría de sus integrantes En caso de generar vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días hábiles y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Los integrantes del Comité de Participación Ciudadana se rotarán anualmente la\nrepresentación ante el Comité Coordinador, atendiendo a la antigüedad que tengan en el desempeño de su encargo. De presentarse la ausencia temporal del representante, el Comité de Participación Ciudadana nombrará de entre sus integrantes a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "El Comité de Participación Ciudadana, sesionará previa convocatoria de su Presidente cuando así se requiera, o a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los integrantes presentes y en caso de empate, se someterá de nueva cuenta a votación, de persistir el empate dicho asunto se abordará en la siguiente sesión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "El Comité de Participación Ciudadana tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar sus normas de carácter interno."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar su programa anual de trabajo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar el informe anual de las actividades que realice en cumplimiento a su programa anual de trabajo, mismo que deberá ser público. IV. Participar en la Comisión Ejecutiva en términos de la presente ley."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acceder sin ninguna restricción, por conducto del Secretario Técnico a la información que genere el Sistema Estatal Anticorrupción."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Opinar y elaborar propuestas a través de su participación en la Comisión Ejecutiva, sobre la Política Estatal de la materia y las Políticas Integrales."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer al Comité Coordinador a través de su participación en la Comisión Ejecutiva para su consideración:\na) Proyectos de bases de coordinación interinstitucional e intergubernamental en las materias de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan.\nb) Proyectos de mejora a los instrumentos, lineamientos y mecanismos para la operación de la Plataforma Digital Estatal."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Proyectos de mejora a los instrumentos, lineamientos y mecanismos para el suministro, intercambio, sistematización y actualización de la información que generen las autoridades estatales y municipales competentes en las materias reguladas por la presente ley."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Proyectos de mejora a los instrumentos, lineamientos y mecanismos requeridos para la operación del sistema electrónico estatal de quejas y denuncias."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer al Comité Coordinador a través de su participación en la Comisión Ejecutiva, mecanismos para que la sociedad participe en la prevención y denuncia de faltas administrativas y hechos de corrupción. IX. Llevar un registro voluntario de las organizaciones de la sociedad civil que deseen colaborar de manera coordinada con el Comité de Participación Ciudadana, para establecer una red de participación ciudadana, conforme a sus normas de carácter interno."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Opinar o proponer a través de su participación en la Comisión Ejecutiva, indicadores y metodologías para la medición y seguimiento del fenómeno de la corrupción, así como para la evaluación del cumplimiento de los objetivos y metas de la Política Estatal en la materia, las Políticas Integrales y los programas y acciones que implementen las autoridades que conforman el Sistema Estatal y Municipal Anticorrupción. XI. Proponer mecanismos de articulación entre organizaciones de la sociedad civil, la academia y grupos ciudadanos. XII. Proponer reglas y procedimientos a través de los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar a los Entes Públicos Fiscalizadores. XIII. Opinar sobre el Programa Anual de trabajo del Comité Coordinador. XIV. Realizar observaciones a través de su participación en la Comisión Ejecutiva, a los proyectos de informe anual del Comité Coordinador. XV. Proponer al Comité Coordinador a través de su participación en la Comisión Ejecutiva, la emisión de recomendaciones no vinculantes. XVI. Promover la colaboración con instituciones en la materia, con el propósito de elaborar investigaciones sobre las políticas públicas para la prevención, detección y combate de hechos de corrupción o faltas administrativas. XVII. Dar seguimiento al funcionamiento del Sistema Estatal Anticorrupción. XVIII. Proponer al Comité Coordinador, mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "El Presidente del Comité de Participación Ciudadana, tendrá como atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidir las sesiones."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar al Comité ante el Comité Coordinador."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Preparar el orden de los temas a tratar. IV. Garantizar el seguimiento de los temas de las sesiones."
+              }
+            ]
+          },
+          {
+            "Artículo": 23,
+            "Texto": "El Comité de Participación Ciudadana, podrá solicitar al Comité Coordinador, la emisión de exhortos públicos cuando algún hecho de corrupción requiera de aclaración pública. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto que se trate.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DE SU ORGANIZACIÓN Y FUNCIONAMIENTO",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "La Secretaría Ejecutiva, es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo que tendrá su sede en la ciudad de Toluca de Lerdo. Contará con una estructura operativa para la realización de sus atribuciones, objetivos y fines.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "La Secretaría Ejecutiva, tiene por objeto fungir como órgano de apoyo técnico del Comité Coordinador, a efecto de proveerle la asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones, conforme a lo dispuesto en la presente Ley y demás ordenamientos aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "El patrimonio de la Secretaría Ejecutiva, se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes que le sean transmitidos por el Gobierno del Estado de México, para el desempeño de sus funciones."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los recursos que le sean asignados anualmente en el Presupuesto de Egresos del Gobierno del Estado de México para el Ejercicio Fiscal correspondiente."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro título. Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "La Secretaría Ejecutiva, contará con un órgano interno de control, cuyo titular será designado en términos de las disposiciones jurídicas aplicables y contará con la estructura que al efecto se determine. El órgano interno de control estará limitado en sus atribuciones al control y fiscalización de la Secretaría Ejecutiva, exclusivamente respecto de las materias siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presupuesto."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contrataciones derivadas de la Ley de Contratación Pública del Estado de México y Municipios y del Código Administrativo del Estado de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles. IV. Responsabilidades administrativas de Servidores públicos."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Transparencia y acceso a la información pública en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios. La Secretaría de la Contraloría del Gobierno del Estado de México y el órgano interno de control, como excepción a lo previsto de la Ley Orgánica de la Administración Pública del Estado de México, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "El órgano de gobierno, estará integrado por los integrantes del Comité Coordinador y será presidido por el Presidente del Comité de Participación Ciudadana. El órgano de gobierno, celebrará por lo menos seis sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia. Las sesiones serán convocadas por su Presidente o a propuesta de cuando menos cuatro integrantes de dicho órgano. Para poder sesionar válidamente el órgano de gobierno requerirá la asistencia de la mayoría de sus integrantes. Sus acuerdos, resoluciones y determinaciones se tomarán por mayoría de votos de los integrantes presentes, en caso de empate, el Presidente tendrá voto de calidad. Podrán participar con voz, pero sin voto aquellas personas que el órgano de gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "El órgano de gobierno, tendrá las atribuciones indelegables previstas en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México. Asimismo, tendrá la atribución indelegable de nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, de conformidad con lo establecido en la presente Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DE LA COMISIÓN EJECUTIVA",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "La Comisión Ejecutiva, se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Secretario Técnico."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Comité de Participación Ciudadana, con excepción de su Presidente en turno."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "La Comisión Ejecutiva, tendrá a su cargo la generación de los insumos técnicos necesarios para que el Comité Coordinador, realice sus funciones, por lo que elaborará las siguientes propuestas para ser sometidas a la aprobación de dicho Comité:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las políticas integrales, en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción, así como de fiscalización y control de los recursos públicos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La metodología, para medir y dar seguimiento, con base en indicadores objetivos y confiables, a los hechos de corrupción, así como a las Políticas Integrales, a que se refiere la fracción anterior."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los informes de las evaluaciones que someta a su consideración el Secretario Técnico respecto de las Políticas a que se refiere este artículo. IV. Los mecanismos de suministro, intercambio, sistematización y actualización de la información en materia de fiscalización y control de los recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las bases y principios para la efectiva coordinación de las autoridades a nivel estatal y municipal en materia de fiscalización y control de los recursos públicos."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de las políticas y programas en la materia."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las recomendaciones no vinculantes que serán dirigidas a los entes públicos que se requieran, en virtud de los resultados advertidos en el informe anual, así como el informe de seguimiento que contenga los resultados sistematizados de la atención otorgada por las autoridades a dichas recomendaciones."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los Mecanismos de coordinación con el Sistema Nacional Anticorrupción, así como con los Sistemas Municipales Anticorrupción"
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "La Comisión Ejecutiva, celebrará sesiones ordinarias y extraordinarias que serán convocadas por el Secretario Técnico, en los términos que establezca el Estatuto Orgánico de la Secretaría Ejecutiva. La Comisión Ejecutiva podrá invitar a las sesiones, a especialistas en los temas a tratar, los cuales contarán con voz, pero sin voto, mismos que serán previamente citados por el Secretario Técnico. Por las labores que realicen como integrantes de la Comisión Ejecutiva, los integrantes del Comité de Participación Ciudadana, no recibirán contraprestación adicional a la que se les otorgue por su participación en el Comité de Participación Ciudadana, de conformidad con lo establecido en esta Ley. La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere\nnecesarios a las autoridades integrantes del Comité Coordinador, a través del Secretario Técnico.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA DEL SECRETARIO TÉCNICO",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "El Secretario técnico, será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, con el voto favorable de cinco de sus integrantes. Durará tres años en su encargo con posibilidad de reelección por un periodo más. El Presidente del órgano de gobierno de la Secretaría Ejecutiva, previa aprobación del Comité de Participación Ciudadana, someterá a consideración de dicho órgano, una terna con las personas que cumplan con los requisitos para ser designado Secretario Técnico, de conformidad con lo establecido en la presente Ley. El Secretario Técnico, podrá ser removido por falta a su deber de diligencia, o bien por causa plenamente justificada a juicio del órgano de gobierno y por acuerdo obtenido por la votación señalada en el presente artículo o bien, en los casos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Utilizar en beneficio propio o de terceros la documentación e información confidencial y reservada relacionada con las atribuciones que le corresponden, en términos de la presente Ley y demás disposiciones de la materia."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia con motivo del ejercicio de sus atribuciones."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Incurrir en alguna falta administrativa grave o hecho de corrupción."
+              }
+            ]
+          },
+          {
+            "Artículo": 34,
+            "Texto": "Para ser designado Secretario Técnico, se deberá cumplir con los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos, con una residencia dentro del Estado de México efectiva de cinco años anteriores a la fecha de designación."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener experiencia acreditada de al menos tres años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tener treinta años de edad al día de la designación. IV. Tener título profesional de nivel licenciatura con antigüedad mínima de cinco años al día de la designación, así como contar con los conocimientos y experiencia, relacionadas con la materia que regula la presente Ley que le permitan el desempeño de sus funciones."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Gozar de buena reputación y no haber sido condenado por algún delito."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar en los términos que dispongan las Leyes de la materia sus declaraciones de intereses, patrimonial y constancia de declaración fiscal de forma previa a su nombramiento."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "No haber sido registrado como candidato ni haber desempeñado empleo, cargo alguno de elección popular en los últimos cuatro años anteriores a la designación."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "No desempeñar ni haber desempeñado empleo, cargo o comisión de dirección nacional o estatal o municipal de algún partido político en los últimos cuatro años anteriores a la designación. IX. No haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "No ser Titular de alguna Secretaría u Organismo Auxiliar del Gobierno del Estado, Fiscal General\nde Justicia del Estado de México, Subsecretario en la Administración Pública Estatal, Consejero de la Judicatura Estatal, Presidente Municipal, Síndico Municipal o Secretario del Ayuntamiento, a menos que se haya separado de su cargo con un año de anterioridad al día de su designación."
+              }
+            ]
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Corresponde al Secretario Técnico, ejercer la dirección de la Secretaría Ejecutiva y contará con las facultades siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrar y representar legalmente a la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Formular oportunamente los programas y acciones de corto, mediano y largo plazo, así como los presupuestos de la Secretaría Ejecutiva y presentarlos para su aprobación. Si dentro de los plazos correspondientes el Secretario Técnico no diere cumplimiento a estas obligaciones, sin perjuicio de la correspondiente responsabilidad, la Secretaría Ejecutiva procederá al desarrollo e integración de tales requisitos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Formular los programas de organización que resulten necesarios para el cumplimiento de las funciones de la Secretaría Ejecutiva. IV. Proponer ante su órgano de gobierno los métodos o lineamientos que permitan el óptimo aprovechamiento de los bienes y recursos de la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Tomar las medidas pertinentes a fin que las funciones de la Secretaría Ejecutiva se realicen de manera articulada, congruente y eficaz."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer los procedimientos para controlar la calidad de los insumos técnicos necesarios para que el Comité Coordinador realice sus funciones y elaborar las propuestas a que se refiere esta Ley."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer al órgano de gobierno de la Secretaría Ejecutiva el nombramiento o la remoción de los dos primeros niveles de servidores de dicho organismo, la fijación de sueldos y demás prestaciones conforme al presupuesto autorizado."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Recabar información y elementos estadísticos que reflejen el estado de las funciones de la Secretaría Ejecutiva para poder mejorar la gestión de la misma. IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Presentar al órgano de gobierno de la Secretaría Ejecutiva el informe del desempeño de las actividades del organismo, incluido el ejercicio de los presupuestos, ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos en relación con los resultados alcanzados. XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Secretaría Ejecutiva y presentar a su órgano de gobierno por lo menos dos veces al año la evaluación de gestión correspondiente."
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "Ejecutar los acuerdos que dicte el órgano de gobierno de la Secretaría Ejecutiva. XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la Secretaría Ejecutiva con sus trabajadores. XIV. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "Adicionalmente el Secretario Técnico tendrá las funciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Actuar como Secretario del Comité Coordinador y del Órgano de Gobierno de la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejecutar y dar seguimiento a los acuerdos y resoluciones emitidos por el Comité Coordinador y del órgano de gobierno de la Secretaría Ejecutiva."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Registrar y certificar los acuerdos emitidos por el Comité Coordinador y el órgano de gobierno de la Secretaría Ejecutiva, así como de los instrumentos jurídicos que se generen, integrando el archivo correspondiente en términos de las disposiciones aplicables. IV. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales, para ser discutidas en la Comisión Ejecutiva y en su caso, sometidas a la consideración del Comité"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer a la Comisión Ejecutiva, las evaluaciones que se llevarán a cabo de las Políticas Integrales a que se refiere la fracción V del artículo 9 de la presente Ley y una vez aprobadas realizarlas."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Realizar el trabajo técnico para la preparación de documentos que se llevarán como propuestas de acuerdo al Comité Coordinador, al órgano de gobierno de la Secretaría Ejecutiva y a la Comisión Ejecutiva."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Preparar el proyecto de calendario de los trabajos del Comité Coordinador, del órgano de gobierno de la Secretaría Ejecutiva y de la Comisión Ejecutiva."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Elaborar los anteproyectos de Informes del Sistema Estatal Anticorrupción, someterlos a la revisión y observación de la Comisión Ejecutiva y remitirlos al Comité Coordinador para su aprobación. IX. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos, previo acuerdo del Comité Coordinador."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Administrar las plataformas digitales que establecerá el Comité Coordinador en términos de esta Ley y conforme a la Ley General del Sistema Nacional Anticorrupción, asegurando el acceso a las mismas de los integrantes del Comité Coordinador y la Comisión Ejecutiva. XI. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicos y reflejen los avances o retrocesos en la política estatal anticorrupción. XII. Proveer a la Comisión Ejecutiva, los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los integrantes de la Comisión Ejecutiva."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SÉPTIMO DEL SISTEMA ESTATAL DE FISCALIZACIÓN",
+        "Artículos": [
+          {
+            "Artículo": 37,
+            "Texto": "El Sistema Estatal de Fiscalización tiene por objeto establecer acciones y mecanismos de coordinación entre los integrantes del mismo, en el ámbito de sus respectivas competencias, promoverán el intercambio de información, mecanismos, estrategias, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos. Son integrantes del Sistema Estatal de Fiscalización:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Órgano Superior de Fiscalización del Estado de México."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Contraloría del Poder Legislativo del Estado de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Secretaría de la Contraloría del Gobierno del Estado de México."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Las Contralorías Municipales"
+              }
+            ]
+          },
+          {
+            "Artículo": 38,
+            "Texto": "Para el cumplimiento del objeto a que se refiere el artículo anterior los integrantes del Sistema Estatal de Fiscalización deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer un sistema electrónico congruente con el establecido a nivel nacional, en términos de la presente Ley, que permita ampliar la cobertura e impacto de la fiscalización de los recursos estatales y municipales, a través de la construcción de un modelo de coordinación entre la Federación, el Estado y sus Municipios."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Informar al Comité Coordinador, sobre los avances en la fiscalización de los recursos estatales y municipales. Todos los entes públicos fiscalizadores y fiscalizados apoyarán en todo momento al Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización de los recursos estatales y municipales."
+              }
+            ]
+          },
+          {
+            "Artículo": 39,
+            "Texto": "El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por las autoridades siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Órgano Superior de Fiscalización del Estado de México."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Contraloría del Poder Legislativo del Estado de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Secretaría de la Contraloría del Gobierno del Estado de México. IV. Siete integrantes rotatorios de las contralorías municipales, los cuales serán elegidos por periodos de dos años, previo consenso del Órgano Superior de Fiscalización del Estado de México, la Contraloría del Poder Legislativo y la Secretaría de la Contraloría. El Comité Rector será presidido de manera tripartita por el Auditor Superior de Fiscalización, el Contralor del Poder Legislativo y el Secretario de la Contraloría del Gobierno del Estado de México, o por los representantes que respectivamente éstos designen."
+              }
+            ]
+          },
+          {
+            "Artículo": 40,
+            "Texto": "Para el ejercicio de las competencias del Sistema Estatal de Fiscalización, en materia de fiscalización y control de los recursos públicos, el Comité Rector ejecutará, acorde con el Sistema Nacional de Fiscalización, las acciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El diseño, aprobación y promoción de políticas integrales en la materia."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La instrumentación de mecanismos de coordinación entre todos los integrantes del Sistema Estatal de Fiscalización."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La integración e instrumentación de mecanismos de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización y control de recursos públicos generen las instituciones competentes en dichas materias."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "El Comité Rector, podrá invitar a participar en actividades específicas del Sistema Estatal de Fiscalización, a los Órganos internos de control, así como cualquier otra instancia que realice funciones de control, auditoría y fiscalización de recursos públicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "Los integrantes del Sistema Estatal de Fiscalización, deberán homologar los procesos, procedimientos, técnicas, criterios, estrategias, programas y normas profesionales en materia de auditoría y fiscalización de los recursos estatales y municipales. Asimismo, el Sistema Estatal de Fiscalización, aplicará las normas profesionales homologadas aplicables a la actividad de fiscalización de los recursos públicos, las cuales serán obligatorias para\ntodos los integrantes del mismo, en lo que no se oponga a las emitidas por el Sistema Nacional de Fiscalización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Conforme a los lineamientos que emita el Comité Rector, para la mejora institucional en materia de fiscalización, así como derivado de las reglas específicas contenidas en los códigos de ética y demás lineamientos de conducta, los integrantes del Sistema Estatal de Fiscalización, implementarán las medidas aprobadas por el mismo para el fortalecimiento y profesionalización del personal de los órganos de fiscalización. Para tal fin, el Sistema Estatal de Fiscalización fomentará el establecimiento de un programa de capacitación coordinado y permanente, que permita incrementar la calidad profesional del personal auditor y mejorar los resultados de la auditoría y fiscalización de los recursos públicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "El Sistema Estatal de Fiscalización propiciará el intercambio de información que coadyuve al desarrollo de sus respectivas funciones, conforme a lo dispuesto en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "Los integrantes del Sistema Estatal de Fiscalización en el ámbito de sus respectivas facultades y atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Identificarán áreas comunes de auditoría y fiscalización de los recursos públicos, para que contribuyan a la definición de sus respectivos programas anuales de trabajo y el cumplimiento de los mismos de manera coordinada."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Revisarán los ordenamientos legales que regulan su actuación, para que, en su caso, realicen propuestas de mejora a los mismos que permitan un mayor impacto en el combate a la"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborarán y adoptarán un marco de referencia que contenga criterios generales para la prevención, detección y disuasión de actos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión gubernamental estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 46,
+            "Texto": "Para el fortalecimiento del Sistema Estatal de Fiscalización, sus integrantes atenderán las directrices siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La coordinación de trabajo efectiva."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El fortalecimiento institucional."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Evitar duplicidades y omisiones en el trabajo de los órganos de fiscalización, en un ambiente de profesionalismo y transparencia. IV. Mayor cobertura de la fiscalización de los recursos públicos."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental estatal y que el ciudadano común conozca cómo se gasta el dinero de sus impuestos, así como la máxima publicidad en los resultados de la fiscalización. Corresponderá al Comité Rector aplicar las normas que regulen su funcionamiento, conforme al Sistema Nacional de Fiscalización."
+              }
+            ]
+          },
+          {
+            "Artículo": 47,
+            "Texto": "Los integrantes del Sistema Estatal de Fiscalización, celebrarán reuniones ordinarias cada seis meses y extraordinarias cuantas veces sea necesario, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteados en la presente Ley y demás legislación aplicable. Para ello, podrán valerse de las tecnologías de la información y comunicación que resulten pertinentes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO OCTAVO",
+        "Artículos": [
+          {
+            "Artículo": 48,
+            "Texto": "El Comité Coordinador, emitirá las bases y/o lineamientos para el funcionamiento de la Plataforma Digital Estatal que en congruencia con el Sistema Nacional Anticorrupción permita cumplir con los procedimientos, obligaciones y disposiciones a cargo de los sujetos establecidos en la presente Ley y la Ley de Responsabilidades Administrativas del Estado de México y Municipios, atendiendo, además, a las necesidades de accesibilidad de los usuarios. La Plataforma Digital Estatal será administrada por el Secretario Técnico en los términos que establece la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "La Plataforma Digital Estatal estará conformada por la información que a la misma incorporen los integrantes del Sistema Estatal Anticorrupción, así como del Sistema Municipal Anticorrupción y contará al menos, con los sistemas electrónicos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de la declaración fiscal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sistema de los servidores públicos que intervengan en procedimientos de contrataciones"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sistema de servidores públicos y particulares sancionados. IV. Sistema de información y comunicación del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Sistema de denuncias públicas de faltas administrativas y hechos de corrupción."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Sistema de Información Pública de Contrataciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 50,
+            "Texto": "Los integrantes de los Sistemas Estatal y Municipal Anticorrupción, promoverán la publicación de la información contenida en la Plataforma Digital Estatal correspondiente, en formato de datos abiertos, de conformidad con lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y demás normatividad aplicable. El Sistema Estatal Anticorrupción, establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la Plataforma Digital Estatal, promoviendo la homologación de procesos, y la simplicidad del uso de los sistemas electrónicos por parte de los usuarios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "Los sistemas de evolución patrimonial y de declaración de intereses, así como de los servidores públicos que intervengan en procedimientos de contrataciones públicas, operarán en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios. El sistema de información pública de contrataciones contará con la información pública que remitan las autoridades competentes al Comité Coordinador a solicitud de éste, para el ejercicio de sus funciones y los objetivos de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "El Sistema de servidores públicos estatales y municipales, así como de particulares sancionados tiene como finalidad que las sanciones impuestas a servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y hechos de corrupción en términos del Código Penal del Estado de México, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "Las sanciones impuestas por faltas administrativas graves serán del conocimiento público cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como servidores públicos o como prestadores de servicios o contratistas del sector público, en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.\nLos registros de las sanciones relativas a responsabilidades administrativas no graves, quedarán registradas para efectos de eventual reincidencia, pero no serán públicas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "El Sistema de información y comunicación del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización, será la herramienta digital que permita centralizar la información de todos los órganos integrantes de los mismos, incluidos los órdenes federal y municipal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "El sistema de información y comunicación del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización deberá contemplar, la información siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los programas anuales de auditorías de los órganos de fiscalización estatal y municipal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los informes que en términos de las disposiciones jurídicas aplicables deben ser públicos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La base de datos que permita el adecuado intercambio de información entre los integrantes del Sistema Estatal de Fiscalización. El funcionamiento de dicho sistema de información a que hace alusión el presente artículo se sujetará a las bases que emita el Comité Coordinador, respecto a la Plataforma Digital Estatal."
+              }
+            ]
+          },
+          {
+            "Artículo": 56,
+            "Texto": "El sistema de denuncias públicas de faltas administrativas y hechos de corrupción, será establecido de acuerdo a lo que determine el Comité Coordinador y será implementado por las autoridades que resulten competentes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO NOVENO DE LAS RECOMENDACIONES DEL COMITÉ COORDINADOR",
+        "Artículos": [
+          {
+            "Artículo": 57,
+            "Texto": "El Secretario Técnico, solicitará a los integrantes del Comité Coordinador, toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir dicho Comité, incluidos los proyectos de recomendaciones. Asimismo, solicitará al Órgano Superior de Fiscalización del Estado de México y los Órganos internos de control de los entes públicos que presenten un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe. Los informes serán integrados al informe anual del Comité Coordinador, como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante dicho Comité. El informe anual a que se refiere el párrafo anterior, será aprobado como máximo treinta días hábiles previos a que concluya el periodo anual de la presidencia del Comité Coordinador. En los casos en que del informe anual se desprendan recomendaciones, el Presidente del Comité Coordinador, instruirá al Secretario Técnico, para que, a más tardar en el término de quince días hábiles posteriores a que haya sido aprobado el informe, las haga del conocimiento de las autoridades a las que se dirigen. En un plazo que no exceda de treinta días hábiles, dichas autoridades podrán solicitar las aclaraciones y precisiones que estimen pertinentes en relación con el contenido de las recomendaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "Las recomendaciones no vinculantes que emita el Comité Coordinador a los entes públicos, serán públicas y de carácter institucional y estarán enfocadas al fortalecimiento de los procesos, mecanismos, organización, normas, así como acciones u omisiones que deriven del informe anual que presente el Comité Coordinador.\nLas recomendaciones serán aprobadas por mayoría de los integrantes del Comité Coordinador.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "Las recomendaciones deberán recibir respuesta fundada y motivada por parte de las autoridades a las que se dirijan, en un término que no exceda los quince días hábiles a partir de su recepción, tanto en los casos en que se determine su aceptación, como en aquéllos en que decidan rechazarlas. En caso de aceptarlas, dichas autoridades deberán informar al Comité Coordinador, las acciones y medidas de atención concretas que se tomarán para darles cumplimiento. Toda la información relacionada con la emisión, aceptación, rechazo, cumplimiento y supervisión de las recomendaciones deberá estar contemplada en los informes anuales del Comité",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "En caso que el Comité Coordinador considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO DÉCIMO DEL SISTEMA MUNICIPAL ANTICORRUPCIÓN",
+        "Artículos": [
+          {
+            "Artículo": 61,
+            "Texto": "El Sistema Municipal Anticorrupción es la instancia de coordinación y coadyuvancia con el Sistema Estatal Anticorrupción, que concurrentemente tendrá por objeto establecer principios, bases generales, políticas públicas, acciones y procedimientos en la prevención, detección y sanción de faltas administrativas, actos y hechos de corrupción, así como coadyuvar con las autoridades competentes en la fiscalización y control de recursos públicos en el ámbito municipal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "El Sistema Municipal Anticorrupción se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Comité Coordinador Municipal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Comité de Participación Ciudadana."
+              }
+            ]
+          },
+          {
+            "Artículo": 63,
+            "Texto": "El Comité Coordinador Municipal se integrará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El titular de la contraloría municipal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El titular de la unidad de transparencia y acceso a la información del municipio."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un representante del Comité de Participación Ciudadana Municipal, quien lo presidirá."
+              }
+            ]
+          },
+          {
+            "Artículo": 64,
+            "Texto": "Son facultades del Comité Coordinador Municipal, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El establecimiento de mecanismos de coordinación y armonización con el Sistema Estatal"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El diseño y promoción de políticas integrales en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Actualización y difusión de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno. IV. La elaboración de informes trimestrales y un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Elaboración y entrega de informes trimestrales y un informe anual al Comité́ Coordinador del\nSistema Estatal Anticorrupción de las acciones realizadas, las políticas aplicadas y del avance de éstas con respecto del ejercicio de sus funciones, además informar al mismo Comité de la probable comisión de hechos de corrupción y faltas administrativas para que en su caso, emita recomendaciones no vinculantes a las autoridades competentes, a fin de adoptar medidas dirigidas al fortalecimiento institucional para la prevención y erradicación de tales conductas."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás señaladas en otros ordenamientos jurídicos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 65,
+            "Texto": "Son atribuciones del Presidente del Comité Coordinador Municipal:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidir las sesiones del Sistema Municipal Anticorrupción y del Comité Coordinador Municipal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar al Comité Coordinador Municipal."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Convocar a sesiones. IV. Dar seguimiento a los acuerdos del Comité Coordinador Municipal."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Informar a los integrantes del Comité Coordinador Municipal sobre el seguimiento de los acuerdos adoptados en las sesiones."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Someter a su consideración los mecanismos de coordinación y armonización con el Sistema Estatal Anticorrupción."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Presentar para su aprobación el diseño y promoción de políticas integrales en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Actualizar y difundir la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno. IX. Presentar para su aprobación el informe anual de resultados del Comité Coordinador Municipal, que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Presentar para su aprobación y entregar al Comité Coordinador del Sistema Estatal Anticorrupción el informe anual de las acciones realizadas, las políticas aplicadas y del avance de éstas con respecto del ejercicio de sus funciones. XI. Informar al Comité Coordinador del Sistema Estatal Anticorrupción de la probable comisión de hechos de corrupción y faltas administrativas para que, en su caso, emita recomendaciones no vinculantes a las autoridades competentes, a fin de adoptar medidas dirigidas al fortalecimiento institucional para la prevención y erradicación de tales conductas. XII. Aquéllas que establezcan las reglas de funcionamiento y organización interna del Comité Coordinador Municipal. XIII. Las demás señaladas en otros ordenamientos jurídicos aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 66,
+            "Texto": "El Comité Coordinador Municipal, se reunirá en sesión ordinaria cada tres meses. El Presidente, podrá convocar a sesión extraordinaria previa solicitud formulada por la mayoría de los integrantes de dicho Comité. Para que el Comité Coordinador Municipal pueda sesionar es necesario que estén presentes todos sus Integrantes. Para el desahogo de sus reuniones, el Comité Coordinador Municipal podrá invitar a los integrantes del Sistema Estatal Anticorrupción, así como a las organizaciones de la sociedad civil.\nEl Sistema Municipal Anticorrupción, sesionará previa convocatoria del Comité Coordinador Municipal, en los términos en que este último lo determine.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "Las determinaciones se tomarán por mayoría de votos, salvo en los casos que esta Ley establezca mayoría calificada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "El Comité de Participación Ciudadana Municipal, tiene como objetivo coadyuvar, en términos de la presente Ley al cumplimiento de los objetivos del Comité Coordinador Municipal, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Municipal Anticorrupción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "El Comité de Participación Ciudadana Municipal se integrará por tres ciudadanos que se hayan destacado por su contribución al combate a la corrupción, de notoria buena conducta y honorabilidad manifiesta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "Los integrantes del Comité de Participación Ciudadana Municipal, no podrán ocupar durante el tiempo de su gestión un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán en dicho Comité. Durarán en su encargo tres años sin posibilidad de reelección, serán renovados de manera escalonada y solo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "Los miembros del Comité de Participación Ciudadana Municipal, no tendrán relación laboral alguna por virtud de su encargo en el Comité Coordinador Municipal, sin embargo, su contraprestación se determinará a través de contratos de prestación de servicios por honorarios, en términos de lo que establezca el Comité Coordinador Municipal, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones. Los integrantes del Comité de Participación Ciudadana Municipal estarán sujetos al régimen de responsabilidades que señala la Ley de Responsabilidades Administrativas del Estado de México y Municipios y le serán aplicables las obligaciones de confidencialidad, secrecía y resguardo de información que establezcan las leyes aplicables. En la conformación del Comité de Participación Ciudadana Municipal, se procurará que prevalezca la equidad de género.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "Los integrantes del Comité de Participación Ciudadana Municipal, serán nombrados conforme al procedimiento siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Ayuntamiento constituirá una Comisión de Selección Municipal, integrada por cinco mexiquenses por un periodo de dieciocho meses, de la siguiente manera:\na) Convocará a las instituciones de educación e investigación del Municipio para proponer candidatos a fin de conformar la Comisión de referencia, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días hábiles para seleccionar a tres integrantes, basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.\nb) Convocará a organizaciones de la sociedad civil o en su caso, personas con conocimientos en materia de fiscalización, de rendición de cuentas y combate a la corrupción para seleccionar a dos integrantes, en los mismos términos del inciso anterior. El cargo de miembro de la Comisión de Selección Municipal será honorario.\nQuienes funjan como integrantes no podrán ser designados como integrantes del Comité de Participación Ciudadana Municipal, por un periodo de tres años contados a partir de la disolución de la Comisión de Selección Municipal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Comisión de Selección Municipal deberá emitir una convocatoria con el objeto de realizar consulta pública municipal para que presenten sus postulaciones de aspirantes a ocupar el cargo. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana Municipal y deberá hacerlo público, en donde deberá considerar al menos las siguientes características:\na) El método de registro y evaluación de los aspirantes.\nb) Hacer pública la lista de los aspirantes."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones"
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Hacer público el cronograma de audiencias.\ne) Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia.\nf) El plazo en que se deberá hacer la designación que al efecto se determine y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros. En caso de generar vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de cuarenta y cinco días hábiles y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar."
+              }
+            ]
+          },
+          {
+            "Artículo": 73,
+            "Texto": "Los participantes en el Comité de Participación Ciudadana Municipal se rotarán anualmente la representación ante el Comité Coordinador Municipal, atendiendo a la antigüedad que tengan en el Comité de Participación Ciudadana Municipal. De presentarse la ausencia temporal del representante, el Comité de Participación Ciudadana Municipal, nombrará de entre sus integrantes a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "El Comité de Participación Ciudadana Municipal, sesionará previa convocatoria de su Presidente cuando así se requiera, a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los integrantes presentes y en caso de empate, se someterá de nueva cuenta a votación, de persistir el empate dicho asunto se abordará en la siguiente sesión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "El Comité de Participación Ciudadana Municipal tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar sus normas de carácter interno."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar su programa anual de trabajo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar el informe anual de las actividades que realice en cumplimiento a su programa anual de trabajo, mismo que deberá ser público. IV. Proponer al Comité Coordinador Municipal para su consideración:\na) Proyectos de bases de coordinación interinstitucional e intergubernamental en las materias de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan.\nb) Proyecto de mejora a los instrumentos, lineamientos y mecanismos para el suministro,\nintercambio, sistematización y actualización de la información que generen las autoridades municipales competentes en las materias reguladas por la presente ley."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Proyectos de mejora a los instrumentos, lineamientos y mecanismos requeridos para la operación del sistema electrónico municipal de quejas y denuncias."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer al Comité Coordinador Municipal mecanismos para que la sociedad participe en la prevención y denuncia de faltas administrativas y hechos de corrupción."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Llevar un registro voluntario de las organizaciones de la sociedad civil que deseen colaborar de manera coordinada con el Comité de Participación Ciudadana Municipal, para establecer una red de participación ciudadana, conforme a sus normas de carácter interno."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Opinar o proponer al Comité Coordinador Municipal, indicadores y metodologías para la medición y seguimiento del fenómeno de la corrupción, así como para la evaluación del cumplimiento de los objetivos y metas de la Política Municipal en la materia, las Políticas Integrales y los programas y acciones que implementen las autoridades que conforman el Sistema Estatal Anticorrupción."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Proponer mecanismos de articulación entre organizaciones de la sociedad civil, instituciones académicas y grupos ciudadanos. IX. Proponer reglas y procedimientos a través de los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar al Órgano Superior de Fiscalización del Estado de México y a los Entes Públicos Fiscalizadores."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Opinar sobre el Programa Anual de trabajo del Comité Coordinador Municipal. XI. Realizar observaciones a los proyectos de informe anual del Comité Coordinador Municipal. XII. Promover la colaboración con instituciones en la materia, con el propósito de elaborar investigaciones sobre las políticas públicas para la prevención, detección y combate de hechos de corrupción o faltas administrativas. XIII. Dar seguimiento al funcionamiento del Sistema Municipal Anticorrupción. XIV. Proponer al Comité Coordinador Municipal, mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana."
+              }
+            ]
+          },
+          {
+            "Artículo": 76,
+            "Texto": "El Presidente del Comité de Participación Ciudadana Municipal, tendrá como atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidir las sesiones."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Representar al Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Preparar el orden de los temas a tratar. IV. Garantizar el seguimiento de los temas de las sesiones."
+              }
+            ]
+          },
+          {
+            "Artículo": 77,
+            "Texto": "El Comité de Participación Ciudadana Municipal, podrá solicitar al Comité Coordinador Municipal, la emisión de exhortos públicos cuando algún hecho de corrupción requiera de aclaración pública. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto de que se trate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 78,
+            "Texto": "Conforme a las disposiciones que el Sistema Estatal Anticorrupción establezca, el Comité Coordinador Municipal, realizará las acciones necesarias para registrar en la Plataforma Digital Estatal, la información que en el ámbito de su competencia se genere en las materias de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Servidores públicos que intervengan en los procedimientos de contrataciones públicas."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Servidores públicos y particulares sancionados. IV. Denuncias públicas de faltas administrativas y hechos de corrupción."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Información pública de contrataciones."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Séptimo",
+            "Texto": "La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones. OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente\nDecreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal. La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un integrante que durará en su encargo dos años."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Un integrante que durará en su encargo tres años. El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal. Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento. NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial “Gaceta del Gobierno” el 11 de septiembre de\n1990. Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio. A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios. Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad. DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este\nDecreto, hasta su conclusión definitiva. Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios\nanteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto. El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias. DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen. DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción. DÉCIMO TERCERO. - A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones. En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo. DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto. DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente\nDecreto, se substanciarán conforme a la legislación vigente al momento de su inicio. DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso. DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados. DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales. DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México. VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal\nacuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas. VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren. VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente que permitan la implementación del objeto del presente Decreto. VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto. VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables. Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintisiete días del mes de mayo del año dos mil diecisiete.\nAPROBACIÓN: 27 de mayo de 2017. PROMULGACIÓN: 30 de mayo de 2017. PUBLICACIÓN: 30 de mayo de 2017. VIGENCIA: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017. TABLA DE REFORMAS, ADICIONES Y DEROGACIONES\nDECRETO 209.- Por el que se reforman el párrafo primero del artículo 13, el párrafo segundo del\nartículo 28, el primer párrafo del artículo 33 y las fracciones II, III y IV del artículo 34. Publicado en la Gaceta del Gobierno el 11 de noviembre de 2020.\nDECRETO 136.- Por el que se reforman las fracciones IV y V del artículo 64 de la Ley del Sistema Anticorrupción del Estado de México y Municipios. Publicado en la Gaceta del Gobierno el 10 de marzo de 2023."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

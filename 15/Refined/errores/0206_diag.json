@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 15,
+  "n_perm_fracciones": 54,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE LA NATURALEZA, OBJETO Y ATRIBUCIONES",
+    "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN",
+    "CAPÍTULO TERCERO DEL PATRIMONIO",
+    "CAPÍTULO CUARTO DEL CONTROL Y VIGILANCIA"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

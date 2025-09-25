@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 30,
+  "n_perm_fracciones": 60,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO NATURALEZA, OBJETO Y ATRIBUCIONES",
+    "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN",
+    "CAPÍTULO TERCERO DEL PATRIMONIO",
+    "CAPÍTULO CUARTO DEL PATRONATO",
+    "CAPÍTULO QUINTO DEL PERSONAL DEL COLEGIO",
+    "CAPÍTULO SEXTO DEL ALUMNADO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

@@ -1,0 +1,1138 @@
+Secretaría de Asuntos Parlamentarios
+Última reforma Decreto número 252
+LXI Legislatura
+LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
+CAPÍTULO PRIMERO
+PARTE GENERAL
+Artículo 1.- Esta Ley tiene por objeto regular los actos relativos a la planeación, programación,
+presupuestación, ejecución y control de la adquisición, enajenación y arrendamiento de bienes, y
+la contratación de servicios de cualquier naturaleza, que realicen:
+I. Las secretarías y las unidades administrativas del Poder Ejecutivo del Estado. 
+II. Derogada.
+III. Los ayuntamientos de los municipios del Estado.
+IV. Los organismos auxiliares y fideicomisos públicos, de carácter estatal o municipal.
+V. Los tribunales administrativos.
+Los actos a los que se refiere este artículo que se realicen con cargo total o parcial a fondos del
+Gobierno del Estado de México, se estarán a lo dispuesto por esta Ley.  Los actos a que se refiere
+este artículo que se realicen con cargo total o parcial a fondos del Gobierno Federal, estarán a lo
+dispuesto por la legislación federal.  
+También serán aplicables las disposiciones de esta Ley a los particulares que participen en los
+procedimientos, operaciones o contratos regulados en esta Ley.
+Los poderes Legislativo y Judicial, así como los organismos autónomos aplicarán las disposiciones
+de esta Ley en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a
+sus propios órganos de control.
+No será aplicable lo dispuesto por esta Ley en los actos objeto del mismo, derivados de convenios
+celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o
+de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos
+respectivos.
+Tampoco serán aplicables las disposiciones de esta Ley en los actos que realicen los fideicomisos
+públicos en los que el Gobierno del Estado no sea fideicomitente único.
+Artículo 2.- El control y la vigilancia de los actos a que se refiere el artículo 1o de esta Ley, que
+realicen los ayuntamientos con cargo total o parcial a fondos del gobierno estatal, estarán a cargo
+de la Secretaría de la Contraloría.
+Artículo 3.- Para los efectos de la presente Ley se entenderá por:
+I. COMPRAMEX: Al Sistema Electrónico de Contratación Pública del Estado de México, vinculado al
+SEITS.
+II. Dependencia: A las secretarías y a las unidades administrativas del Poder Ejecutivo del Estado.
+III. Entidades: A los organismos auxiliares y a los fideicomisos públicos, de carácter estatal o
+municipal.
+
+
+IV. Estudio de mercado: A la investigación, sustentada en información proveniente de fuentes
+confiables  y  serias  (incluyendo  parámetros  internacionales),  que  permita  tomar  decisiones
+informadas sobre el mejor procedimiento de adquisición, así como determinar los precios de
+referencia, en términos del Reglamento de la presente Ley.
+V. Propuesta solvente: A la proposición presentada por una persona en un procedimiento de
+licitación  o  de  invitación  restringida,  que  cumpla  con  las  bases  del  concurso,  garantice  el
+cumplimiento del contrato y considere costos de mercado.
+VI. Firma electrónica: A la firma electrónica avanzada en los términos de la Ley de Gobierno
+Digital del Estado de México y Municipios.
+VII. Ley de Gobierno Digital: A la Ley de Gobierno Digital del Estado de México y Municipios.
+VIII. Ofertas subsecuentes de descuentos: A la presentación dinámica de descuentos que realizan
+los postores para mejorar el precio ofertado inicialmente.
+IX. Oficialía Mayor: A la Oficialía Mayor del Poder Ejecutivo del Estado.
+X. Subasta inversa electrónica: A la modalidad con base en la cual la administración pública
+estatal  y  municipal  puede  desahogar  los  procedimientos  para  la  adquisición  de  bienes  y  la
+contratación de servicios a que se refiere la presente Ley, por conducto del COMPRAMEX, a efecto
+de adjudicarlos a los postores que presenten la oferta económica más favorable, mediante la
+presentación de ofertas subsecuentes de descuentos.
+XI. SEITS: Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley
+de Gobierno Digital del Estado de México y Municipios.
+XII. Testigo social: Al mecanismo de participación ciudadana por medio del cual se involucra a la
+sociedad civil en los procedimientos de contratación pública relevantes; procedimientos que, por
+su complejidad, impacto o monto de recursos, requieren una atención especial para minimizar
+riesgos de opacidad y de corrupción, en términos del Título Décimo del Libro Primero del Código
+Administrativo del Estado de México.
+Artículo 4.- Para los efectos de esta Ley, en las adquisiciones, enajenaciones, arrendamientos y
+servicios, quedan comprendidos:
+I. La adquisición de bienes muebles.
+II. La adquisición de bienes inmuebles, a través de compraventa.
+III. La enajenación de bienes muebles e inmuebles.
+IV. El arrendamiento de bienes muebles e inmuebles.
+V. La  contratación  de  los  servicios,  relacionados  con  bienes  muebles  que  se  encuentran
+incorporados o adheridos a bienes inmuebles, cuya instalación o mantenimiento no implique
+modificación al bien inmueble.
+VI. La contratación de los servicios de reconstrucción y mantenimiento de bienes muebles.
+VII. La contratación de los servicios de maquila, seguros y transportación, así como de los de
+limpieza y vigilancia de bienes inmuebles.
+VIII. La prestación de servicios profesionales, la contratación de consultorías, asesorías y estudios
+e investigaciones, excepto la contratación de servicios personales de personas físicas bajo el
+régimen de honorarios.
+2
+
+
+En general, otros actos que impliquen la contratación de servicios de cualquier naturaleza.
+No aplicarán las disposiciones de  la presente Ley a la  operación, administración,  uso,  goce,
+disposición  o  cualquier  otro  acto  jurídico  sobre  bienes  muebles  o  inmuebles  que  pudieren
+regularse por esta Ley, si dichos actos derivan de la prestación de servicios bajo la modalidad de
+proyectos  para  prestación  de  servicios;  en  estos  casos,  aplicarán  las  disposiciones  del  Libro
+Décimo Sexto del Código Administrativo del Estado de México.
+La  contratación  de  seguros  de  garantía  financiera,  así  como  de  servicios  profesionales,
+consultorías,  asesorías,  estudios  e  investigaciones  en  relación  con  créditos,  empréstitos,
+préstamos  o  financiamientos  de  cualquier  naturaleza,  incluyendo  la  emisión  de  valores,  o
+cualquier otro servicio financiero no estarán sujetos a lo dispuesto por esta Ley.
+Tampoco aplicará esta ley a la contratación de servicios financieros relacionados con la apertura
+de cuentas bancarias para la recepción y manejo, inversión y pago de recursos públicos.
+Artículo 5.-  La Oficialía Mayor llevará a cabo los procedimientos de adquisición de bienes o
+servicios  que  requieran  las  dependencias,  conforme  a  sus  respectivos  programas  de
+adquisiciones.
+Las  entidades,  tribunales  administrativos  y  ayuntamientos,  en  el  ámbito  de  su  respectiva
+competencia, tendrán a su cargo el trámite de los procedimientos de adquisición de bienes,
+contratación de servicios, arrendamientos y enajenaciones de bienes muebles e inmuebles.
+En el ámbito de la administración pública estatal central, corresponde a la Oficialía Mayor el
+trámite a los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles
+y  enajenaciones  de  bienes  muebles  e  inmuebles,  observando  al  respecto  las  medidas  de
+austeridad señaladas en el Presupuesto de Egresos.
+Artículo 6.- La Oficialía Mayor y la Secretaría de la Contraloría, así como los ayuntamientos,
+podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación
+de precios, realización de pruebas de calidad y, en general, aquellas para el mejoramiento del
+sistema de adquisiciones, arrendamientos y servicios. 
+La  Oficialía  Mayor  y  la  Secretaría  de  la  Contraloría  intercambiarán  la  información  sobre  los
+resultados de los trabajos derivados de los contratos de asesoría técnica.
+Artículo 7.- Los contratos, los convenios y las modificaciones a los mismos que se realicen en
+contravención a lo dispuesto por esta Ley, serán nulos.
+La invalidez  podrá  ser  declarada,  administrativamente,  por las contratantes.  Los  particulares
+afectados podrán ocurrir a demandar la invalidez de los contratos y de los convenios al Tribunal de
+Justicia Administrativa del Estado de México.
+Artículo 8.- Corresponde al Ejecutivo del Estado, a través de la Oficialía Mayor, la interpretación,
+para efectos administrativos, de la presente Ley, y a la Secretaría de la Contraloría la vigilancia de
+su aplicación para su debida observancia.
+La Oficialía Mayor establecerá las políticas y expedirá las normas técnicas y administrativas en las
+materias que regula la presente Ley. 
+Las políticas y normas administrativas a que se refiere el párrafo anterior serán aplicables a los
+actos, contratos y convenios regulados por esta Ley, que realicen los ayuntamientos con cargo a
+recursos estatales, total o parcialmente.
+CAPÍTULO SEGUNDO
+DE LA PLANEACIÓN Y PROGRAMACIÓN
+3
+
+
+Artículo  9.- Las  adquisiciones,  arrendamientos  y  servicios  que  las  dependencias,  entidades,
+ayuntamientos  y  tribunales  administrativos  requieran  para  la  realización  de  las  funciones  y
+programas que tienen encomendados, deberán determinarse con base en la planeación racional
+de sus necesidades y recursos, y por lo que respecta a estos conceptos deberán observarse las
+medidas que en materia de austeridad señale el Presupuesto de Egresos. 
+Artículo 10.- Las dependencias, entidades, ayuntamientos y tribunales administrativos deberán
+programar  sus  adquisiciones,  arrendamientos  y  servicios,  tomando  en  consideración,  según
+corresponda, lo siguiente:
+I. Los objetivos, estrategias y líneas de acción establecidos en el Plan de Desarrollo del Estado de
+México, los criterios generales de política social fijados por el titular del Poder Ejecutivo, y las
+previsiones contenidas en los programas sectoriales.
+II. Los objetivos, estrategias y líneas de acción establecidos en los planes de desarrollo municipal.
+III. Las actividades sustantivas que desarrollen para cumplir con los programas prioritarios que
+tienen bajo su responsabilidad.
+IV. Las medidas que en materia de austeridad señale el Presupuesto de Egresos respectivo.
+Artículo  11.- Las  dependencias,  entidades,  ayuntamientos  y  tribunales  administrativos,  al
+formular sus programas  anuales de  adquisiciones,  arrendamientos y servicios,  además de lo
+establecido en otras disposiciones legales, deberán observar lo siguiente: 
+I. Los bienes, arrendamientos y servicios que solucionen de manera adecuada sus necesidades de
+operación.
+II. Los recursos financieros y materiales, y los servicios con los que se cuente.
+III. Los plazos estimados en los que se requerirán los bienes, arrendamientos y servicios.
+IV. Las políticas y normas administrativas que establezcan la Oficialía Mayor y los ayuntamientos,
+en su caso, para optimizar las adquisiciones, arrendamientos y servicios.
+V. Las demás previsiones que sean necesarias para la adecuada planeación, operación y ejecución
+de los programas y acciones correspondientes.
+Las dependencias, entidades estatales, ayuntamientos y tribunales administrativos, formularán
+sus programas de adquisiciones, arrendamientos y servicios, simultáneamente con sus programas
+anuales y proyectos de presupuestos de egresos.
+Artículo 12.- La Oficialía Mayor tendrá a su cargo la ejecución de los programas anuales de
+adquisiciones de bienes y servicios de las dependencias. 
+Las entidades podrán solicitar a la Oficialía Mayor la realización de los procedimientos para la
+adquisición de los bienes o servicios que requieran, quedando sujetos a la autorización expresa de
+ésta.
+Artículo  13.- Las  dependencias  y  entidades  deberán  presentar  a  la  Oficialía  Mayor  sus
+requerimientos de adquisiciones y servicios, a más tardar el 31 de enero del  ejercicio fiscal
+respectivo, con base en el anteproyecto de presupuesto correspondiente.
+No  obstante  lo  anterior,  previo  al  inicio  del  procedimiento  adquisitivo,  las  dependencias  y
+entidades deberán contar con la suficiencia presupuestal respectiva.
+4
+
+
+Tratándose de contrataciones cuya vigencia inicie en el mes de enero del ejercicio fiscal inmediato
+siguiente, las dependencias y entidades deberán realizar la solicitud respectiva, previo al cuarto
+trimestre del ejercicio fiscal en curso.
+Artículo 14.- Únicamente se pueden tramitar, convocar, adjudicar o llevar a cabo adquisiciones,
+arrendamientos y servicios, cuando las dependencias,  entidades, tribunales administrativos y
+ayuntamientos cuenten con saldo disponible dentro de su presupuesto aprobado.
+Artículo  15.- En  los  contratos  de  adquisiciones,  arrendamientos  y  servicios,  cuya  ejecución
+rebase  un  ejercicio  presupuestal,  las  dependencias,  entidades,  tribunales  administrativos  y
+ayuntamientos deberán determinar tanto el presupuesto total, como el relativo a los ejercicios
+subsecuentes, en los que además de considerar los costos que en su momento se encuentren
+vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos que
+aseguren el cumplimiento de las obligaciones contraídas.
+Artículo 16.- Los programas de adquisiciones, arrendamientos y servicios de las dependencias,
+entidades, tribunales administrativos y ayuntamientos deberán contener lo siguiente:
+I. La codificación y descripción de los bienes y servicios que requieran, conforme a los catálogos
+que se integren.
+II. La calendarización de la adquisición y arrendamiento de bienes muebles, y de la contratación
+de servicios.
+III. El costo estimado de los bienes y servicios, cuyo monto total se ajustará a los importes
+presupuestales asignados.
+IV. Los demás requisitos que establezca el reglamento de esta Ley. 
+Artículo  17.- Las  dependencias,  entidades,  tribunales  administrativos  y  ayuntamientos  que
+requieran servicios de consultorías, asesorías, estudios e investigaciones, verificarán antes si en
+sus  archivos  existen  esos  trabajos.  Asimismo,  deberán  cerciorarse  si  al  interior  de  la
+administración pública se cuenta con personal capacitado para llevarlos a cabo.
+En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los requerimientos de
+la  dependencia,  entidad,  tribunal  administrativo  o  ayuntamiento,  o  personal  capacitado  para
+realizarlos, no procederá la contratación, con excepción de aquellos que sean necesarios para su
+adecuación, actualización o complemento.
+CAPÍTULO TERCERO
+DE LA SISTEMATIZACIÓN
+Artículo 18.- Los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen
+con cargo a recursos estatales, total o parcialmente, deberán desahogarse preferentemente por
+conducto del COMPRAMEX, salvo en los casos en que así lo determine el comité de adquisiciones y
+servicios. Lo mismo aplicará a los ayuntamientos cuando se trate de actos, contratos o convenios
+que se celebren con cargo a recursos municipales.
+El Reglamento de la presente Ley establecerá las modalidades bajo las cuales se desahogarán
+dichos procedimientos, atendiendo a la normatividad aplicable a cada uno de ellos. 
+Artículo 19.- El uso del COMPRAMEX en el desahogo de los procedimientos de adquisiciones,
+arrendamientos y servicios tendrá por objeto:
+I. Disminuir los gastos que realicen los órganos públicos, así como los particulares participantes.
+II. Controlar el gasto público.
+5
+
+
+III. Lograr mayor eficiencia y transparencia.
+El  sistema  informático  que  autoricen  la  Oficialía  Mayor,  los  tribunales  administrativos  y  los
+ayuntamientos para llevar a cabo sus procedimientos adquisitivos deberá estar vinculado con el
+sistema contable y presupuestal, a fin de cuidar la programación y la calendarización de recursos,
+con la ejecución y el cumplimiento de objetivos y metas.
+CAPÍTULO CUARTO
+DE LOS CATÁLOGOS
+Artículo 20.- La Oficialía Mayor y los ayuntamientos establecerán y operarán el catálogo de
+bienes y servicios, de acuerdo con la reglamentación respectiva. 
+Establecerán  y  operarán  también  el  catálogo  de  bienes  y  servicios  específicos  que  sean
+susceptibles de ser adquiridos o contratados bajo la modalidad de subasta inversa, los cuales
+deberán describirse genéricamente y determinarse sus especificaciones técnicas comerciales, y
+en su caso, sus equivalentes. Dicho catálogo deberá publicarse en el COMPRAMEX y en el portal
+de internet de la Oficialía Mayor y, en su caso, en el de los ayuntamientos.
+Artículo 21.- A fin de conocer la capacidad administrativa, financiera, legal y técnica de las
+fuentes  de  suministro,  la  Oficialía  Mayor  y  los  ayuntamientos  integrarán  un  catálogo  de
+proveedores y de prestadores de servicios.
+Las  personas  que  deseen  inscribirse  en  el  catálogo  deberán  cumplir  con  los  requisitos  que
+establezca el reglamento respectivo. En todo caso, deberán estar inscritos en el Registro Único de
+Personas Acreditadas del Estado de México, en los términos de la Ley de Gobierno Digital, los
+proveedores y prestadores de servicios que deseen participar en los procedimientos que deban
+desahogarse por conducto del COMPRAMEX.
+La falta de inscripción en dicho catálogo no limitará la libre concurrencia de los interesados a los
+procedimientos adquisitivos regulados por esta Ley.
+CAPÍTULO QUINTO
+DE LA INTEGRACIÓN Y FUNCIONES DE LOS COMITÉS
+Artículo 22.- Los comités son órganos colegiados con facultades de opinión, que tienen por
+objeto auxiliar a la Oficialía Mayor, entidades, tribunales administrativos y ayuntamientos, en la
+substanciación de los procedimientos de adquisiciones y de servicios, de conformidad con el
+Reglamento y los manuales de operación. 
+En la Oficialía Mayor, en cada entidad, tribunal administrativo y ayuntamiento se constituirá un
+comité de adquisiciones y servicios. 
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos se auxiliarán
+de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
+Artículo 23.- Los comités de adquisiciones y de servicios tendrán las funciones siguientes:
+I. Dictaminar sobre  la procedencia de los casos de  excepción  al  procedimiento de  licitación
+pública.
+II. Participar en los procedimientos de licitación, invitación restringida y adjudicación directa,
+hasta  dejarlos  en  estado  de  dictar  el  fallo  correspondiente,  incluidos  los  que  tengan  que
+desahogarse bajo la modalidad de subasta inversa.
+III. Emitir los dictámenes de adjudicación.
+IV. Las demás que establezca el reglamento de esta Ley. 
+6
+
+
+Artículo 24.- El comité de arrendamientos, adquisiciones de inmuebles y enajenaciones tendrá
+las funciones siguientes:
+I. Dictaminar sobre  la procedencia de los casos de  excepción  al  procedimiento de  licitación
+pública, tratándose de adquisición de inmuebles y arrendamientos.
+II. Participar en los procedimientos de licitación, invitación restringida y adjudicación directa,
+hasta  dejarlos  en  estado  de  dictar  el  fallo  correspondiente,  tratándose  de  adquisición  de
+inmuebles y arrendamientos.
+III. Emitir  los  dictámenes  de  adjudicación,  tratándose  de  adquisiciones  de  inmuebles  y
+arrendamientos.
+IV. Participar en los procedimientos de subasta pública, hasta dejarlos en estado de dictar el fallo
+de adjudicación.
+V. Las demás que establezca el reglamento de esta Ley.
+Artículo 25.- La integración y el funcionamiento de los comités a que se refiere el presente
+capítulo se determinará en el reglamento de esta Ley.
+CAPÍTULO SEXTO
+DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
+SECCIÓN PRIMERA
+DISPOSICIONES GENERALES
+Artículo 26.- Las adquisiciones, arrendamientos y servicios se adjudicarán a través de licitaciones
+públicas, mediante convocatoria pública.
+Artículo 27.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+podrán  adjudicar  adquisiciones,  arrendamientos  y  servicios,  mediante  las  excepciones  al
+procedimiento de licitación que a continuación se señalan:
+I. Invitación restringida.
+II. Adjudicación directa.
+Artículo 28.- La licitación pública, conforme a los medios que se utilicen, podrá ser:
+I. Presencial, en la cual los licitantes exclusivamente podrán presentar sus propuestas en forma
+documental  y por escrito,  en  sobre  cerrado,  durante  el  acto  de  presentación  y apertura  de
+propuestas, o bien, si así se prevé en la convocatoria a la licitación, mediante el uso del servicio
+postal.
+Bajo esta modalidad, la o las juntas de aclaraciones, el acto de presentación y la apertura de
+propuestas se realizarán de manera presencial, a los cuales podrán asistir los licitantes. 
+II. Electrónica, en la cual exclusivamente se permitirá la participación de los licitantes a través de
+COMPRAMEX, se utilizarán medios de identificación electrónica, las comunicaciones producirán los
+efectos que señala la Ley de Gobierno Digital del Estado de México y Municipios.
+Bajo esta modalidad, la o las juntas de aclaraciones, el acto de presentación, la apertura de
+propuestas y el acto de fallo sólo se realizarán a través de COMPRAMEX y sin la presencia de los
+licitantes en dichos actos, y
+7
+
+
+III. Mixta,  en  la  cual  los  licitantes,  a  su  elección,  podrán  participar  en  forma  presencial  o
+electrónica en la o las juntas de aclaraciones, en el acto de presentación y en la apertura de
+propuestas, y el acto de fallo.
+SECCIÓN SEGUNDA
+DE LA LICITACIÓN PÚBLICA
+Artículo  29.- En  el  procedimiento  de  licitación  pública  deberán  establecerse  los  mismos
+requisitos y condiciones para todos los licitantes.
+Todo licitante que satisfaga los requisitos de la convocatoria y de las bases de la licitación tendrá
+derecho  a  presentar  su  propuesta.  Las  entidades,  los  tribunales  administrativos  y  los
+ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la
+licitación, a fin de evitar favorecer a algún participante.
+Artículo 30.- Las licitaciones públicas podrán ser:
+I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana.
+II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como
+extranjera.
+Artículo 31.- Solamente se podrán llevar a cabo licitaciones internacionales cuando:
+Previa investigación de mercado que realice la convocante, no exista el bien o el servicio en el
+mercado nacional y no existan ofertas de empresas nacionales; o sea, convenientes en términos
+de precio, calidad, financiamiento y oportunidad.
+Resulte obligatorio por los tratados internacionales en que México sea parte o por convenios
+celebrados por el Gobierno del Estado.
+Artículo 32.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos,
+en términos de esta Ley, serán los responsables de llevar a cabo el procedimiento de licitación
+pública.
+Artículo  33.- Las convocatorias podrán  referirse a la celebración  de una o más licitaciones
+públicas; se publicarán por una sola vez, cuando menos en uno de los diarios de mayor circulación
+en la capital del Estado y en uno de los diarios de mayor circulación nacional, así como a través
+del COMPRAMEX, y contendrán:
+I. El nombre de la convocante.
+II. La descripción genérica de los bienes o servicios objeto de la licitación, así como la descripción
+especifica de por los menos cinco partidas o conceptos de mayor monto, de ser el caso.
+III. La indicación de si la licitación es nacional o internacional, así como que las propuestas deberá
+presentarse en idioma español.
+IV. El origen de los recursos.
+V. El lugar y plazo de entrega, así como las condiciones de pago. 
+VI. La indicación de los lugares, fechas, horarios y medios electrónicos en que los interesados
+podrán obtener las bases de licitación y, en su caso, el costo, forma de pago y si la licitación será
+presencial, electrónica o mixta.
+VII. La fecha, hora y lugar de la o las juntas aclaratorias, en su caso.
+8
+
+
+VIII. La fecha, hora y lugar de celebración del acto de presentación, apertura y evaluación de
+propuestas, dictamen y fallo.
+IX. En el caso de contratos abiertos, las cantidades y plazos mínimos y máximos.
+X. La indicación de las personas que estén impedidas a participar, conforme a las disposiciones de
+esta Ley.
+XI. La garantía que deberá otorgarse para asegurar la seriedad de la postura, tratándose de
+subasta.
+XII. En su caso, la garantía de defectos o vicios ocultos de los bienes según lo determine la
+convocante, debiendo justificar dicho requisito.
+XIII. Los criterios específicos que se utilizarán para la evaluación de las propuestas y adjudicación
+de los contratos.
+XIV. La justificación para no aceptar proposiciones conjuntas.
+XV. Los demás requisitos generales que deberán cumplir los interesados, según las características
+y magnitud de los bienes y servicios.
+En la convocatoria deberá especificarse si en la licitación aplicará la modalidad de subasta inversa.
+La Secretaría de la Contraloría hará pública la información referente a los procedimientos de
+adquisición, a través de su portal de internet.
+Artículo 34.- Las bases de la licitación pública tendrán un costo de recuperación y contendrán los
+requisitos que se establezcan en el reglamento de esta Ley.
+Artículo 35.- En los procedimientos de licitación pública se observará lo siguiente:
+I. El acto de presentación y apertura de propuestas se llevará a cabo por el servidor público que
+designe la convocante, conforme al procedimiento que se establezca en el reglamento de esta
+Ley.
+II. El  comité  de  adquisiciones  y  servicios  evaluará  y  analizará  las  propuestas  técnicas  y
+económicas presentadas por los licitantes en el ámbito de las respectivas competencias de sus
+integrantes, y emitirá el dictamen de adjudicación.
+III. Las bases de licitación se pondrán a la venta a partir de la fecha de publicación de la
+convocatoria y hasta el día hábil anterior a la fecha de celebración de la junta de aclaraciones o,
+en su defecto, del acto de presentación y apertura de propuestas.
+IV. Las convocantes podrán modificar los plazos y términos establecidos en la convocatoria o en
+las bases de licitación, hasta cinco días hábiles anteriores a la fecha de la celebración del acto de
+presentación y apertura de propuestas.
+V. Las modificaciones no podrán limitar el número de licitantes, sustituir o variar sustancialmente
+los bienes o servicios convocados originalmente, ni adicionar otros distintos.
+VI. Las  modificaciones  a  la  convocatoria  o  a  las  bases  se  harán  del  conocimiento  de  los
+interesados hasta tres días hábiles antes de la fecha señalada para el acto de presentación y
+apertura de propuestas. 
+VII. Se emitirá el fallo dentro de los 15 días hábiles siguientes a la publicación de la convocatoria.
+9
+
+
+VIII. Los licitantes se podrán registrar hasta el día y la hora fijados para el acto de presentación y
+apertura de propuestas.
+Artículo 36.- El acto de presentación y apertura de propuestas se celebrará de manera pública y
+en presencia de todos los oferentes, en la forma siguiente: 
+I. Los licitantes presentarán, por escrito y en sobre cerrado por separado, sus propuestas técnica y
+económica, así como los demás documentos requeridos en las bases de la licitación.
+II. La apertura de propuestas podrá efectuarse cuando se haya presentado una propuesta cuando
+menos.
+III. Se abrirán las propuestas técnicas, desechándose las que cuantitativamente no cumplan con
+cualquiera de los requisitos establecidos en las bases de licitación, poniéndolas a disposición del
+interesado conjuntamente con el sobre que contenga la propuesta económica.
+IV. Se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas
+técnicas fueron aceptadas cuantitativamente.
+V. Se desecharán las propuestas económicas que cuantitativamente no cumplan con cualquiera
+de  los  requisitos  establecidos  en  las  bases  de  la  licitación,  poniéndolas  a  disposición  del
+interesado.
+VI. Una vez efectuada la apertura de las propuestas técnicas y económicas, se elaborará el acta
+relativa a esta etapa del procedimiento y, posteriormente, se pondrá a disposición del Comité de
+Adquisiciones y Servicios, quien evaluará y analizará las propuestas presentadas y formulará el
+dictamen que servirá como base para el fallo, en el que se hará constar la reseña cronológica de
+los actos del procedimiento y el análisis de las propuestas, conforme al criterio de evaluación
+establecido en las bases.
+VII. Cuando el procedimiento de licitación se realice por conducto del COMPRAMEX, las propuestas
+técnicas y económicas se presentarán en los formatos electrónicos a que se refieran las bases
+respectivas y en él se observarán las mismas condiciones a que se refiere el presente artículo.
+VIII. Si es el caso, que el procedimiento de licitación deba desahogarse bajo la modalidad de
+subasta inversa, una vez que se haya realizado la evaluación de las propuestas, se procederá a
+informar a los postores el momento en que dará inicio la etapa de ofertas subsecuentes de
+descuentos.
+El reglamento de esta Ley establecerá los criterios para la evaluación de las propuestas, así como
+el procedimiento para los actos de presentación y apertura de propuestas y de fallo.
+Dos o más personas podrán presentar, conjuntamente, una propuesta, sin necesidad de constituir
+una sociedad o una nueva sociedad, en caso de personas jurídica colectivas; para tales efectos, en
+la propuesta y en el contrato se establecerán, con precisión, las obligaciones de cada una de ellas,
+así como la manera en que se exigiría su cumplimiento. En este supuesto, la propuesta deberá ser
+firmada por el representante común que, para ese acto, haya sido designado por el grupo de
+personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la
+Ley de Gobierno Digital.
+Cuando la propuesta conjunta resulte adjudicada con un contrato, dicho instrumento deberá ser
+firmado por el representante legal de cada uno de los participantes en la proposición, a quienes se
+considerará,  para  efectos  del  procedimiento  y  del  contrato,  como  responsables  solidarios  o
+mancomunados, según se establezca en el propio contrato.
+Lo  anterior,  sin  perjuicio  de  que  las  personas  que  integran  la  propuesta  conjunta  puedan
+constituirse en una nueva sociedad, para dar cumplimiento a las obligaciones previstas en el
+10
+
+
+convenio de proposición conjunta, siempre y cuando se mantengan en la nueva sociedad las
+responsabilidades de dicho convenio.
+Artículo 37.- El comité de adquisiciones y servicios realizará el análisis y evaluación de las
+propuestas, mediante la verificación del cumplimiento de la información y de la documentación
+solicitada en las bases de la licitación y conforme al criterio establecidas en las mismas. Una vez
+efectuado  el  análisis  cualitativo  de  las  propuestas  presentadas,  emitirá  el  dictamen  de
+adjudicación  a  favor  del  oferente  u  oferentes  que  reúnan  los  requisitos  administrativos,
+financieros, legales y técnicos requeridos por la convocante; garantizando en todo momento la
+obtención de las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y
+demás circunstancias pertinentes.
+Artículo 38.- La convocante emitirá el fallo con base en el dictamen de adjudicación emitido por
+el comité de adquisiciones y servicios, y lo dará a conocer a los licitantes en junta pública, cuya
+fecha se informará en el acto de presentación y apertura de proposiciones, pudiéndose diferir por
+una sola ocasión.
+El fallo de adjudicación surtirá efectos desde la emisión, siendo responsabilidad de los licitantes
+enterarse de su contenido, por lo que a partir de ese momento, las obligaciones derivadas de éste
+serán exigibles sin perjuicio de la formalización del contrato respectivo, en los términos señalados
+en el fallo.
+Artículo 39.- Para cada uno de los actos del procedimiento adquisitivo se levantará el acta
+respectiva, la cual será firmada por los participantes, sin que la falta de firma de alguno de ellos
+invalide su contenido y efectos.
+Artículo 40.- En los casos en que las propuestas económicas estén por arriba del precio de
+mercado, la convocante lo hará de conocimiento de los participantes, a fin de que reduzcan los
+precios de sus propuestas hasta que se presente alguna que esté dentro del precio del estudio de
+mercado; en caso contrario, se declarará desierta la licitación.
+La convocante  procederá a adjudicar el contrato al  licitante que presente  la  propuesta que,
+estando dentro del precio de mercado, sea la más baja o haya obtenido el mejor puntaje en la
+evaluación, atendiendo al criterio utilizado, debiendo dar preferencia, en igualdad de condiciones,
+a las presentadas por micro, pequeñas y medianas empresas. Si fuera el caso de que éstas
+hubieren presentado una misma oferta económica, se asignará a la que, a juicio del comité de
+adquisiciones y servicios, represente mayores ventajas para el convocante en cuanto a precio,
+fechas de entrega de bienes y/o prestación de servicios, así como otros criterios de valoración
+objetiva.
+Lo establecido en este artículo será aplicable en el procedimiento de invitación restringida.
+Artículo 41.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+procederán a declarar desierta la licitación en los procedimientos que tramiten, cuando no reciban
+propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+Podrá declararse desierta una licitación parcialmente, cuando no se hubiese recibido propuesta
+alguna o las presentadas no reúnan los requisitos, respecto de una o varias partidas o conceptos.
+Artículo 42.- La convocante podrá cancelar una licitación por caso fortuito o por causa de fuerza
+mayor, o cuando existan circunstancias debidamente justificadas que produzcan la extinción de la
+necesidad de adquirir los bienes y los servicios de que se trate, o que de continuarse con el
+procedimiento de licitación o contratación en su caso, se pudiera ocasionar un daño o perjuicio a
+la administración pública estatal o municipal.
+Las convocantes deberán comunicar la cancelación a los interesados, mediante escrito en el que
+se justifique la causa o causas de la misma.
+11
+
+
+En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para
+las convocantes.
+SECCIÓN TERCERA
+DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
+Artículo 43.- La Oficialía Mayor, las entidades, tribunales administrativos y los ayuntamientos,
+bajo su responsabilidad, podrán llevar a cabo procedimientos de adquisición de bienes o servicios
+a través de las modalidades de invitación restringida y adjudicación directa.
+En todo caso, se invitará, o adjudicará de manera directa, a personas que cuenten con capacidad
+de  respuesta  inmediata,  así  como  con  los  recursos  técnicos,  financieros  y  demás  que  sean
+necesarios, de acuerdo con las características y magnitud de las adquisiciones. 
+SECCIÓN CUARTA
+DE LA INVITACIÓN RESTRINGIDA
+Artículo 44.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+podrán adquirir y contratar servicios mediante invitación restringida, cuando:
+I. Se hubiere declarado desierto un procedimiento de licitación, o
+II. El importe de la operación no exceda de los montos establecidos por el Presupuesto de Egresos
+del Gobierno del Estado de México del ejercicio correspondiente.
+La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos se abstendrán
+de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este
+supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el
+ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
+En la invitación deberá especificarse si en el proceso de asignación aplicará la modalidad de
+subasta inversa.
+Artículo 45.- El procedimiento establecido en el artículo anterior, comprende la invitación de tres
+personas cuando menos, que serán seleccionadas de entre las que se inscriban en el catálogo de
+proveedores cuando exista el número de proveedores referidos.
+Artículo 46.-  El procedimiento de invitación restringida se desarrollará en los términos de la
+licitación pública, a excepción de la publicación de la convocatoria.
+Artículo 47.- El procedimiento de invitación restringida se declarará desierto, cuando no se
+presente propuesta alguna que cumpla con los requisitos establecidos en las bases.
+SECCIÓN QUINTA
+DE LA ADJUDICACIÓN DIRECTA
+Artículo 48.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+podrán adquirir bienes, arrendar bienes muebles e inmuebles y contratar servicios, mediante
+adjudicación directa, cuando:
+I. La adquisición o el servicio sólo puedan realizarse con una determinada persona, por tratarse de
+obras de arte, titularidad de patentes, registros, marcas específicas, derechos de autor u otros
+derechos exclusivos.
+II. La adquisición o el arrendamiento de algún inmueble sólo puedan realizarse con determinada
+persona, por ser el único bien disponible en el mercado inmobiliario que reúna las características
+de dimensión, ubicación, servicios y otras que requieran las dependencias, las entidades, los
+12
+
+
+tribunales administrativos o los ayuntamientos para su buen funcionamiento o para la adecuada
+prestación de los servicios públicos a su cargo.
+III. Se trate de servicios que requieran de experiencia, técnicas o equipos especiales, o se trate de
+la  adquisición  de  bienes  usados  o  de  características  especiales  que  solamente  puedan  ser
+prestados o suministrados por una sola persona.
+IV. Sea urgente la adquisición de bienes, arrendamientos o servicios por estar en riesgo el orden
+social, la salubridad, la seguridad pública o el ambiente, de alguna zona o región del Estado; se
+paralicen los servicios públicos; se trate de programas o acciones de apoyo a la población para
+atender necesidades apremiantes, o concurra alguna causa similar de interés público.
+V. Existan  circunstancias  que  puedan  provocar  pérdidas  o  costos  adicionales  importantes  al
+erario.
+VI. Pueda comprometerse información de naturaleza confidencial para el Estado o municipios, por
+razones de seguridad pública.
+VII. Existan circunstancias extraordinarias o imprevisibles derivadas de riesgo o desastre. En este
+supuesto, la adquisición, arrendamiento y servicio deberá limitarse a lo estrictamente necesario
+para enfrentar tal eventualidad.
+VIII. Se hubiere rescindido un contrato, por causas imputables al proveedor o que la persona que
+habiendo resultado ganadora en una licitación, no concurra a la suscripción del contrato dentro del
+plazo establecido en esta Ley.
+En estos supuestos, la Oficialía Mayor, la entidad, el tribunal administrativo o el ayuntamiento
+podrá adjudicar el contrato al licitante que haya presentado la propuesta solvente más cercana a
+la ganadora y así, sucesivamente. En todo caso, la diferencia de precio no deberá de ser superior
+al diez por ciento, respecto de la propuesta ganadora.
+IX. Se hubiere declarado desierto un procedimiento de invitación restringida.
+X. Cuando se aseguren condiciones financieras que permitan al Estado o a los municipios cumplir
+con la obligación de pago de manera diferida, sin que ello implique un costo financiero adicional o
+que habiéndolo, sea inferior al del mercado, o
+XI. El importe de la operación no rebase los montos establecidos en el Presupuesto de Egresos del
+Gobierno del Estado del ejercicio correspondiente. Tratándose de arrendamientos de inmuebles se
+entenderá por importe de la operación el monto mensual de la renta.
+Las dependencias, las entidades, los tribunales administrativos y los ayuntamientos se abstendrán
+de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este
+supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el
+ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
+XII. Se trate de bienes producidos por sociedades cooperativas, de producción rural, de interés
+colectivo,  de  solidaridad  social,  sociedades  y  asociaciones  de  fin  social,  cuyo  objeto  no  sea
+preponderantemente lucrativo, producidos en el Estado de México y adquiridos directamente a
+éstas.
+Artículo  49.- El  procedimiento  de  adjudicación  directa  se  substanciará  con  arreglo  a  el
+reglamento de esta Ley.
+Artículo 50.- Las disposiciones relativas a los procedimientos de adquisición establecidas en este
+capítulo serán aplicables a los arrendamientos de bienes muebles e inmuebles, con arreglo a el
+reglamento de esta Ley.
+13
+
+
+SECCIÓN SEXTA
+DE LA SUBASTA INVERSA ELECTRÓNICA
+Artículo 51.- La subasta inversa electrónica es una modalidad bajo la cual pueden desahogarse
+los procedimientos de adquisición de bienes y contratación de servicios en los casos previstos por
+la presente Ley, en las condiciones más favorables para el Estado.
+Artículo  52.- La  modalidad  de  subasta  inversa  electrónica  sólo  será  aplicable  para  los
+procedimientos de adquisición de aquellos bienes y servicios que se encuentren inscritos en el
+catálogo de bienes y servicios específicos a que se refiere el segundo párrafo del artículo 20.
+Artículo 53.- La subasta dará inicio en la fecha y hora señaladas en las bases o la invitación y se
+realizará en presencia de un representante del comité de adquisiciones y servicios. Una vez
+iniciada,  los  postores  inscritos  podrán  enviar  sus  ofertas  de  descuentos,  con  base  en  el
+procedimiento que determine el Reglamento.
+Mediante  la  presentación  de  estas  ofertas  subsecuentes  de  descuentos,  se  realizará  la
+adjudicación al postor que presente la oferta más ventajosa. Los postores no podrán modificar las
+especificaciones originalmente contenidas en su propuesta técnica.
+CAPÍTULO SÉPTIMO
+SECCIÓN PRIMERA
+DE LAS ENAJENACIONES
+Artículo 54.- Las enajenaciones de bienes muebles e inmuebles del Estado y de los municipios se
+realizarán a través de subasta pública.
+Artículo  55.- Quedan  exceptuadas  de  la  disposición  establecida  en  el  artículo  anterior,  las
+operaciones siguientes:
+I. La transmisión de dominio de bienes muebles e inmuebles a favor de los gobiernos federal,
+estatales y municipales.
+II. La transmisión de dominio a favor de entidades que tengan a su cargo desarrollar programas
+de interés social para atender necesidades colectivas.
+III. La permuta para satisfacer necesidades públicas.
+IV. La donación en favor de asociaciones e instituciones privadas que realicen actividades de
+interés social y no persigan fines de lucro.
+V. La enajenación de bienes muebles e inmuebles, para la creación, fomento o conservación de
+una empresa que beneficie a la colectividad.
+VI. La donación de bienes en cumplimiento de programas sociales o de acciones de apoyo a la
+comunidad.
+VII. La transmisión de dominio de inmuebles que realicen las entidades, en cumplimiento de su
+objeto, cuando así lo dispongan las leyes.
+VIII. La transmisión de dominio de bienes muebles e inmuebles, derivada de los procedimientos
+de liquidación de las entidades.
+IX. Las enajenaciones a título oneroso que realicen el Estado y los municipios, por conducto de
+terceros, en términos del reglamento de esta Ley.
+14
+
+
+X. La transmisión de dominio de bienes muebles e inmuebles en cumplimiento de sentencias
+dictadas por tribunales federales y estatales.
+XI. La dación en pago por concepto de indemnización, en los términos previstos por la Ley de
+Expropiación para el Estado de México.
+XII. El importe de la enajenación no rebase los montos establecidos en el Presupuesto de Egresos
+del Gobierno del Estado del ejercicio correspondiente.
+XIII. Las demás que señalen otras disposiciones legales.
+SECCIÓN SEGUNDA
+DE LA SUBASTA PÚBLICA
+Artículo 56.- En el procedimiento de subasta pública de bienes muebles e inmuebles deberán
+establecerse los mismos requisitos y condiciones para todos los participantes.
+Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública
+tendrá  derecho  a  presentar  posturas.  La  Oficialía  Mayor,  las  entidades,  los  tribunales
+administrativos  y  los  ayuntamientos  proporcionarán  a  los  interesados  igual  acceso  a  la
+información relacionada con la subasta.
+Artículo 57.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+tendrán a su cargo el trámite de los procedimientos de subasta pública.
+Artículo 58.- Las convocatorias públicas podrán referirse a la celebración de una o más subastas
+públicas, se publicarán por una sola vez, cuando menos en uno de los diarios de mayor circulación
+en la capital del Estado y en uno de los diarios de mayor circulación nacional, así como a través
+del COMPRAMEX y contendrán:
+I. El nombre de la convocante.
+II. La descripción genérica de los bienes muebles e inmuebles.
+III. El valor de los bienes que servirá de base para la subasta.
+IV. La indicación de los lugares, fechas, horarios y medios electrónicos en los que los interesados
+podrán obtener las bases de subasta pública, así como su costo y forma de pago.
+V. La fecha, hora y lugar para la celebración de la visita de inspección y de la junta aclaratoria.
+VI. La fecha, hora y lugar de celebración del acto de subasta.
+VII. La indicación de las personas que estén impedidas a participar, conforme a las disposiciones
+de esta Ley.
+VIII. La garantía que deberá otorgarse para asegurar la seriedad de la postura.
+Los demás requisitos generales que deberán cumplir los interesados, según las características de
+los bienes.
+Artículo 59.- Las bases de la subasta pública contendrán los requisitos que se establezcan en el
+reglamento de esta Ley, y se pondrán a la venta a partir del día hábil siguiente al de la última
+publicación de la convocatoria y hasta un día hábil anterior a la fecha de la visita de inspección de
+los bienes.
+15
+
+
+Artículo 60.- Para determinar el valor de los inmuebles que servirá de base para la subasta, se
+tomará en cuenta el avalúo que emita el Instituto de Información e Investigación Geográfica,
+Estadística y Catastral del Estado de México.
+El valor de los muebles que servirá de base para la subasta se determinará conforme al avalúo
+que apruebe la convocante, en términos del reglamento de esta Ley.
+Artículo 61.- En el procedimiento de subasta pública se observará lo siguiente:
+I. La presentación, apertura y evaluación de posturas, emisión del dictamen y fallo de adjudicación
+se realizará en un solo acto.
+II. El comité de arrendamientos, adquisiciones de inmuebles y enajenaciones se declarará en
+sesión permanente a partir del inicio del acto, hasta comunicar a los interesados el fallo de
+adjudicación.
+III. El acto de presentación, apertura y evaluación de posturas, dictamen y fallo, se celebrará
+dentro del plazo de quince días hábiles siguientes a la última publicación de la convocatoria.
+IV. Los interesados deberán registrarse el día y la hora fijados para el acto de presentación,
+apertura y evaluación de posturas, dictamen y fallo. Tratándose de bienes muebles, el registro se
+realizará simultáneamente con la venta de las bases de la subasta.
+V. Los  participantes,  al  inicio  del  acto  de  presentación,  apertura  y  evaluación  de  posturas,
+dictamen y fallo, entregarán a la convocante en sobre cerrado sus posturas.
+VI. Las posturas se abrirán y se desecharán las que no cubran los requisitos establecidos en las
+bases de la subasta pública.
+VII. La convocante pasará lista de las personas que hubieren presentado posturas, haciendo saber
+a los asistentes las que fueron calificadas como legales, así como cuál es la mejor, concediendo
+plazos sucesivos hasta que la última postura no sea mejorada.
+VIII. La convocante fincará el remate, a favor de quien hubiera hecho la mejor postura.
+IX. El acta de presentación, apertura y evaluación de posturas, dictamen y fallo de adjudicación,
+se dará a conocer a las personas que hayan presentado posturas, la cual se firmará por los
+participantes, a quienes se entregará copia de la misma.
+X. La falta de firma de cualquiera de los asistentes no invalidará el contenido y efectos del acta.
+Artículo 62.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las
+presentadas no reúnan los requisitos exigidos en las bases.
+Artículo 63.- Las convocantes podrán cancelar una subasta por caso fortuito o por causa de
+fuerza mayor; cuando existan circunstancias debidamente justificadas que produzcan la extinción
+de la necesidad de enajenar los bienes, o cuando, de continuarse con el procedimiento de subasta
+pública, se pudiera ocasionar un daño o perjuicio a la administración pública estatal o municipal.
+Las convocantes deberán comunicar la cancelación a los interesados mediante escrito en el que se
+justifique la causa o causas de la misma.
+En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para
+las convocantes.
+16
+
+
+Artículo 64.- La Oficialía Mayor, las entidades, los tribunales administrativos y los ayuntamientos
+podrán enajenar bienes mediante adjudicación directa en términos del reglamento de esta Ley,
+cuando se hubiere declarado desierto un procedimiento de subasta pública.
+CAPÍTULO OCTAVO
+DE LOS CONTRATOS
+Artículo 65.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones
+de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato
+respectivo, dentro de los diez días hábiles siguientes al de la notificación del fallo. Los contratos
+podrán suscribirse mediante el uso de la firma electrónica, en apego a las disposiciones de la Ley
+de Gobierno Digital y de su Reglamento.
+Artículo 66.- Los derechos y las obligaciones que se deriven del contrato no podrán cederse en
+forma parcial ni total, con excepción de los derechos de cobro, en cuyo caso se deberá contar con
+el consentimiento de la dependencia, de la entidad o del ayuntamiento.
+El proveedor o el prestador de servicios no podrá subcontratar, total o parcialmente, el suministro
+de bienes o la prestación de servicios, salvo que cuente con la autorización previa y expresa de la
+contratante, en cuyo caso el proveedor o prestador de servicios será el único responsable del
+cumplimiento de las obligaciones a su cargo.
+Artículo  67.- En  los  contratos  se  pactarán  penas  convencionales,  a  cargo  del  proveedor  o
+prestador de servicios, por incumplimiento de sus obligaciones. En los contratos en que se pacte
+ajuste de precios, la penalización se calculará sobre el precio ajustado.
+El proveedor o prestador de servicios estará obligado a responder de los defectos y vicios ocultos
+de los bienes y servicios.
+Artículo 68.- En los contratos se estipularán las diversas consecuencias de la cancelación, de la
+terminación  anticipada o de la rescisión por causas imputables al  proveedor o prestador de
+servicios.
+Los contratos contendrán los elementos que establezca el reglamento de esta Ley y se elaborarán
+conforme con los modelos que establezca la Oficialía Mayor o los ayuntamientos, en su caso.
+Artículo 69.- En los contratos deberá pactarse la condición de precio fijo.
+Cuando  con  posterioridad  a  la  celebración  de  los  contratos,  se  presenten  circunstancias
+económicas  de  tipo  general  ajenas  a  la  responsabilidad  de  las  partes  y  que  incidan  en  las
+condiciones  pactadas,  la  Oficialía  Mayor,  las  entidades,  los  tribunales  administrativos  y  los
+ayuntamientos podrán,  dentro de su presupuesto autorizado, reconocer incrementos o exigir
+reducciones en monto o plazo, la convocante podrá acordar incrementos en la cantidad de bienes
+adquiridos mediante modificación a sus contratos vigentes, dentro de los doce meses posteriores
+a su suscripción, siempre que el monto total de la modificación no rebase en conjunto el treinta
+por ciento del importe original y el precio de los bienes sea igual al pactado inicialmente.
+En los contratos abiertos podrán pactarse ajustes al importe de los bienes o de los servicios
+contratados, en caso de aumento o decremento en los precios, dentro del presupuesto autorizado.
+Artículo 70.- El área usuaria deberá verificar e informar a la contratante que el proveedor o
+prestador  de  servicios  cumpla  con  la  entrega  de  los  bienes  o  servicios  en  las  condiciones
+pactadas. Podrá recibir bienes o servicios que superen o mejoren las especificaciones estipuladas,
+siempre que se respete el precio de los contratados.
+Artículo 71.- Los contratos pueden ser rescindidos:
+17
+
+
+I. Sin responsabilidad para la contratante, cuando el proveedor o prestador de servicios incumpla
+con alguna de las obligaciones a su cargo, o
+II. Sin responsabilidad para el proveedor o prestador de servicios, cuando la contratante incumpla
+con las obligaciones contractuales a su cargo.
+En el caso de la fracción I, la contratante estará facultada para rescindir el contrato en forma
+administrativa, otorgando garantía de previa audiencia al proveedor o prestador de servicios en
+términos del Código de Procedimientos Administrativos del Estado de México.
+En el supuesto de la fracción II, el proveedor o prestador de servicios afectado podrá demandar la
+rescisión del contrato ante el Tribunal de Justicia Administrativa del Estado de México.
+Artículo 72.- La Oficialía Mayor, las dependencias, las entidades, los tribunales administrativos y
+los ayuntamientos podrán dar por terminados, anticipadamente, los contratos cuando concurran
+razones de interés general o bien, cuando por causas justificadas, se extinga la necesidad de
+requerir los bienes o los servicios originalmente contratados, y se demuestre que de continuar con
+el cumplimiento de las obligaciones pactadas se ocasionará algún daño o perjuicio al Estado, o se
+determine la nulidad de los actos que dieron origen al contrato, con motivo de la resolución de una
+inconformidad.
+Artículo  73.- En  los  casos  de  rescisión  o  terminación  anticipada  del  contrato,  el  saldo  por
+amortizar del anticipo otorgado se reintegrará a las contratantes en un plazo no mayor de treinta
+días hábiles, contado a partir de la fecha en que le sea notificada la rescisión o la terminación
+anticipada al proveedor o prestador de servicios.
+Si el proveedor o prestador de servicios no reintegra el saldo por amortizar en el plazo señalado
+en el párrafo anterior, deberá pagar gastos financieros, conforme a una tasa que será igual a la
+establecida anualmente en la Ley de Ingresos del Estado de México o en la Ley de Ingresos de los
+Municipios del Estado de México, para los casos de prórroga en el pago de créditos fiscales.
+Artículo  74.-  La  Oficialía  Mayor,  las  dependencias,  las  entidades,  los  Órganos  Autónomos
+Constitucionales, los Tribunales Administrativos, los Ayuntamientos y los Organismos Auxiliares, se
+abstendrán de recibir propuestas o de celebrar contratos con las personas siguientes:
+I. Aquellas con las que el servidor público, que intervenga en cualquier etapa del procedimiento de
+adquisición o de la contratación, tenga interés personal, familiar o de negocios, incluyendo las que
+pueda obtener algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto
+grado, por afinidad o civiles, o terceros con los que tenga relaciones profesionales, laborales o de
+negocios, o socios o sociedades de las que las personas antes referidas formen parte, durante los
+dos años previos a la fecha de la celebración del procedimiento de que se trate.
+II. Los proveedores o prestadores de servicios que por causas imputables a ellos, tengan un atraso
+en la entrega de los bienes o en la prestación de los servicios.
+III. Las que por causas imputables a ellas mismas, no formalicen, en el plazo que establece la
+presente Ley, los contratos que se les hayan adjudicado.
+IV. Aquellas que, por causas imputables a ellas mismas, se les hubiere rescindido un contrato.
+V. Las que se encuentren en situación de mora o adeudo en la entrega de los bienes o en la
+prestación de los servicios o, en general, hayan incumplido con sus obligaciones contractuales
+respecto a las materias objeto de esta Ley, por causas imputables a ellas mismas.
+VI. Las que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o
+mala fe en alguna etapa del procedimiento para la adjudicación de un contrato, en su celebración,
+durante su vigencia o en el trámite de alguna inconformidad administrativa.
+18
+
+
+VII. Las que en virtud de la información con que cuenten los órganos de control interno, hayan
+celebrado contratos en contravención a lo dispuesto por esta Ley.
+VIII. Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a
+concurso de acreedores.
+IX. Las que participen en un procedimiento de adquisición perteneciendo a un mismo grupo
+empresarial o se encuentren vinculadas por algún socio o socios comunes.
+X. Las que desempeñen un empleo, cargo o comisión en el servicio público o bien, las sociedades
+de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría de
+la Contraloría.
+XI. Las que se encuentren inhabilitadas por resolución de la autoridad competente.
+XII. Aquellas que presenten propuestas en una misma partida de un bien o servicio, en un
+procedimiento de contratación que se encuentren vinculadas entre sí por algún socio o asociado
+común. Se entenderá que es socio o asociado común, aquella persona física o moral que es
+reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de
+dos o más empresas licitantes, por tener una participación accionaria en el capital social, que le
+otorgue el derecho de intervenir en la toma de decisiones o en la administración de dichas
+personas morales.
+XIII. Las que previamente hayan realizado o se encuentren realizando, por sí o a través de
+empresas  que  formen  parte  del  mismo  grupo  empresarial,  trabajos  de  análisis  y  control  de
+calidad, preparación de especificaciones, presupuesto o la elaboración de cualquier documento
+vinculado con el procedimiento en que se encuentran interesadas en participar, cuando hubieren
+tenido  acceso  a  información  privilegiada  que  no  se  diera  a  conocer  a  los  licitantes  para  la
+elaboración de sus propuestas.
+XIV. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial,
+pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos
+hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas
+personas o empresas sean parte.
+XV. Las que hayan utilizado información privilegiada, proporcionada indebidamente por cualquier
+medio.
+XVI.  Los proveedores, contratistas o particulares, sujetos a procedimiento por responsabilidad
+administrativa resarcitoria, con independencia de que se afecten recursos económicos del Estado
+o de los concertados o convenidos con la Federación y los municipios, que se traduzcan en daños
+y perjuicios causados a la Hacienda Pública del Estado, del Municipio o al patrimonio de sus
+Organismos Auxiliares y Fideicomisos Públicos.
+XVII. Los proveedores, contratistas o particulares, a quienes se les haya impuesto responsabilidad
+administrativa resarcitoria, entre tanto no realicen la indemnización respectiva.
+XVIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de
+ley.
+En los términos que se precisarán en el reglamento de esta Ley, la Secretaría de la Contraloría
+llevará el registro de las personas que se encuentren en cualquiera de los supuestos a que se
+refieren las fracciones II, IV, VI y VII, dará a conocer a las dependencias y entidades y recibirá de
+éstas la información correspondiente para la integración y difusión de dicho registro.
+Los ayuntamientos podrán establecer en su reglamentación, el registro a que se refiere el párrafo
+anterior.
+19
+
+
+Es aplicable a las enajenaciones, lo dispuesto en las fracciones I, III, IV, V, VI, IX y X de este
+artículo. Asimismo, será aplicable lo señalado en la fracción VIII, cuando se pacte a plazos la
+obligación de pago.
+Artículo 75.- En las adquisiciones y arrendamientos de los bienes inmuebles y en la enajenación
+de bienes muebles e inmuebles, el otorgamiento del contrato se sujetará a las normas, políticas o
+lineamientos que expida la Oficialía Mayor y, supletoriamente, a las disposiciones del Código Civil
+del Estado de México.
+CAPÍTULO NOVENO
+DE LAS GARANTÍAS
+Artículo  76.- Los  proveedores  o  prestadores  de  servicios  que  celebren  los  contratos  de
+adquisiciones y servicios a que se refiere esta Ley deberán garantizar, a favor de la contratante:
+I. El anticipo que reciban.
+II. Los bienes o materiales que reciban.
+III. El cumplimiento de los contratos.
+IV. En su caso, los defectos o vicios ocultos de los bienes.
+Las garantías a que se refieren las fracciones I y II deberán constituirse por la totalidad del monto
+del anticipo o del importe de los bienes o materiales. En el caso de la fracción III, las garantías se
+constituirán por el diez por ciento del importe total del contrato, sin incluir el impuesto al Valor
+Agregado, y en la hipótesis de la fracción IV, las garantías se constituirán hasta por el diez por
+ciento del importe total del contrato, sin incluir el Impuesto al Valor Agregado.
+Tratándose de contratos abiertos, la garantía de cumplimiento se constituirá por el diez por ciento
+de la cantidad máxima o del importe del plazo máximo, y la garantía de defectos o vicios ocultos
+se constituirá hasta por el diez por ciento de la cantidad máxima o del importe del plazo máximo,
+sin incluir el Impuesto al Valor Agregado.
+Las clases, constitución, reajustes y devolución de las garantías a que se refiere este artículo,
+serán establecidas por el reglamento de esta Ley.
+Artículo 77. Las contratantes podrán exceptuar a los proveedores o prestadores de servicios de
+otorgar la garantía de cumplimiento del contrato, siempre que suministren antes de la suscripción
+del contrato la totalidad de los bienes o de los servicios, y el monto del contrato no exceda de dos
+mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+Artículo 78.- En caso de que el cumplimiento de las obligaciones a cargo de los proveedores o
+prestadores de servicios, derivadas de defectos o vicios ocultos, rebasen el importe de la garantía,
+la  Oficialía  Mayor,  las  dependencias,  las  entidades,  los  tribunales  administrativos  y  los
+ayuntamientos,  además de  hacer  efectiva  la  garantía otorgada,  podrán  exigir el  pago de  la
+diferencia que resulte.
+Las diferencias que resulten a favor de las contratantes tendrán el carácter de créditos fiscales,
+por lo que su cumplimiento podrá hacerse efectivo a través del procedimiento administrativo de
+ejecución.
+CAPÍTULO DÉCIMO
+DE LOS CONTRATOS ABIERTOS, ACUERDOS DE COORDINACIÓN Y CONTRATOS PEDIDO
+Artículo 79.- La Oficialía Mayor podrá celebrar acuerdos de coordinación con las entidades y, en
+su  caso,  con  los  ayuntamientos  que  así  lo  soliciten,  para  la  realización  de  procedimientos
+adquisitivos en los términos de esta Ley y de su Reglamento. 
+20
+
+
+Artículo 80.- Los contratos pedido son aquellos instrumentos que permiten a las dependencias, a
+las entidades, a los tribunales administrativos y a los ayuntamientos adquirir bienes o contratar
+servicios por una cantidad que no exceda los montos establecidos para la adjudicación directa, de
+conformidad con lo previsto en la fracción XI del artículo 48 de la presente Ley. 
+Las dependencias deberán celebrar contratos pedido para la contratación de bienes o de servicios,
+que realicen al amparo de dicha fracción.
+Artículo 81.- Los contratos abiertos son aquellos instrumentos que permiten a las dependencias,
+a las entidades, a los tribunales administrativos y a los ayuntamientos adquirir bienes o contratar
+servicios por una cantidad y plazo indeterminados, fijando mínimos y máximos, dentro de la
+asignación presupuestal correspondiente, y en el caso de los Ayuntamientos con sujeción a las
+disposiciones legales correspondientes.
+Artículo 82.- Para la celebración de contratos abiertos se observará lo siguiente:
+I. Se  deberá  determinar,  de  manera  previa  a  la  iniciación  del  procedimiento  adquisitivo
+correspondiente, la cantidad mínima y máxima de bienes por adquirir o el plazo mínimo y máximo
+de la prestación de servicios, así como la asignación presupuestal disponible.
+II. El programa de suministro que formará parte del contrato establecerá las cantidades mínimas y
+máximas de los bienes o los plazos mínimos y máximos de prestación de servicios y, en su caso,
+los precios unitarios.
+III. En general, los contratos tendrán una vigencia que no excederá del ejercicio fiscal en que se
+suscriba.
+IV. Podrá rebasar un ejercicio fiscal, en cuyo caso las contratantes, en sus programas anuales de
+adquisiciones, arrendamientos y servicios, deberán determinar tanto el presupuesto total, como el
+relativo a los ejercicios subsiguientes, en los que además de considerar los costos vigentes,
+tomarán  en  cuenta  las  previsiones  necesarias  para  los  ajustes  de  costos  que  aseguren  la
+continuidad del suministro.
+V. El proveedor suministrará los bienes y los servicios en las cantidades y en las fechas que
+determine la contratante.
+CAPÍTULO DÉCIMO PRIMERO
+DE LA INFORMACIÓN Y VERIFICACIÓN
+Artículo  83.- La  Oficialía  Mayor,  las  dependencias  y  las  entidades  estatales,  así  como  los
+tribunales administrativos, proporcionarán a:
+I. La  Secretaría  de  la  Contraloría,  la  información  relacionada  con  los  procedimientos  de
+adjudicación que realicen, a través de los medios que establezca la propia dependencia.
+II. La Secretaría de la Contraloría, la información a que se refieren las fracciones II, IV, VI y VII del
+artículo 74.
+III. La Secretaría de la Contraloría y a los órganos de control interno, la información que les
+soliciten relacionada con los actos, los procedimientos y los contratos regulados por esta Ley.
+Artículo 84.- La Oficialía Mayor, las dependencias, las entidades, los tribunales administrativos y
+los  ayuntamientos  conservarán  en  sus  archivos,  en  forma  ordenada,  la  documentación
+comprobatoria de los actos, procedimientos y contratos materia de esta Ley, cuando menos por el
+lapso de cinco años, contado a partir de la fecha de su celebración.
+21
+
+
+La información a que se refiere el párrafo anterior, en su caso, podrá conservarse en los términos
+previstos por la Ley de Gobierno Digital.
+Artículo 85.- La Secretaría de la Contraloría y los ayuntamientos, a través de sus órganos de
+control interno, llevarán a cabo el seguimiento de los actos, de los procedimientos y de los
+contratos, en los términos que señale el reglamento de esta Ley.
+Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a las convocantes,
+contratantes, licitantes, proveedores y prestadores de servicios, a efecto de verificar que los
+actos, los procedimientos y los contratos se hayan celebrado conforme a las disposiciones de esta
+Ley.
+Artículo 86.- Las convocantes y los contratantes podrán verificar, en cualquier tiempo, que los
+actos, procedimientos y contratos se hayan celebrado conforme a las disposiciones de esta Ley;
+ordenar visitas de inspección a los establecimientos de los licitantes, proveedores y prestadores
+de servicios, y requerir los datos e informes que estime necesarios.
+CAPÍTULO DÉCIMO SEGUNDO
+DE LAS INFRACCIONES Y SANCIONES
+Artículo 87.- Cualquier persona física o moral, de nacionalidad mexicana o extranjera, así como
+sus  accionistas,  socios,  asociados,  representantes,  mandantes  o  mandatarios,  apoderados,
+comisionistas, agentes, gestores, asesores, consultores, subcontratistas, empleados incurrirá en
+responsabilidad  cuando  en  las  contrataciones  públicas,  realice  alguna  o  algunas  de  las
+infracciones siguientes:
+I. Prometa, ofrezca o entregue dinero o cualquier otra dádiva a un servidor público o a un tercero,
+a cambio de que dicho servidor público realice o se abstenga de realizar un acto relacionado con
+sus funciones o con las de otro servidor público, con el propósito de obtener o mantener un
+beneficio o ventaja, con independencia de la aceptación o recepción del dinero o de la dádiva o
+del resultado obtenido.
+Se incurrirá asimismo en responsabilidad, cuando la promesa u ofrecimiento de dinero o cualquier
+dádiva se haga a un tercero, que de cualquier forma intervenga en el diseño o elaboración de la
+convocatoria de licitación pública o de cualquier otro acto relacionado con el procedimiento de
+contratación pública.
+II.
+Ejecute acciones que impliquen o tengan por objeto o efecto obtener un beneficio o ventaja
+indebida en las contrataciones públicas.
+III. Realice  actos  u  omisiones  que  tengan  por  objeto  o  efecto  participar  en  contrataciones
+públicas,  no  obstante  que  por  disposición  de  Ley  o  resolución  administrativa  se  encuentre
+impedido para ello.
+IV. Realice actos u omisiones que tengan por objeto o efecto evadir los requisitos o reglas
+establecidos en las contrataciones públicas o simule el cumplimiento de éstos.
+V.
+Intervenga en nombre propio pero en interés de otra u otras personas que se encuentren
+impedidas para participar en contrataciones públicas, con la finalidad de que ésta o éstas últimas
+obtengan, total o parcialmente, los beneficios derivados de la contratación.
+VI. Obligue sin tener derecho a ello, a un servidor público a dar, suscribir, otorgar, destruir o
+entregar un documento o algún bien, con el fin de obtener para sí o un tercero una ventaja o
+beneficio.
+VII. Promueva o use su influencia, poder económico o político, reales o ficticios, sobre cualquier
+servidor público, con el propósito de obtener para sí o un tercero un beneficio o ventaja, con
+independencia de la aceptación del servidor o de los servidores públicos o del resultado obtenido.
+22
+
+
+VIII.
+Presente  documentación o  información  falsa o  alterada  con  el  propósito de  lograr  un
+beneficio o ventaja.
+Serán sancionados por la Oficialía Mayor, por las dependencias, las entidades, los ayuntamientos y
+los tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de trescientas
+a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la
+infracción.
+Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos. 
+Artículo 88.- Las responsabilidades a que se refiere la presente Ley son independientes de las de
+orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+Artículo  88  BIS. Todo  servidor  público  deberá  de  abstenerse  de  establecer  cualquier
+comunicación no documentada con proveedores de bienes o servicios del sector público. 
+Para evitar la violación a este artículo, las comunicaciones podrán documentarse mediante correo
+electrónico oficial, videoconferencia, oficio o cualquier otro medio que deje constancia fehaciente
+de los intercambios de información con proveedores. En caso de que algún servidor público
+hubiese tenido comunicación previa con proveedores por razón de amistad, negocios o cualquier
+otra causa, deberá informarlo al órgano de control correspondiente y excusarse de participar en
+los procedimientos de contratación respectivos.
+Artículo 89.-  Las dependencias, entidades, ayuntamientos y tribunales administrativos estarán
+obligados a promover la transparencia, la modernización y simplificación administrativa de los
+procedimientos que lleven a cabo en la adquisición, arrendamiento y contratación de servicios, así
+como la protección de datos personales que se encuentren en su posesión, en términos de la
+normatividad de la materia. 
+CAPÍTULO DÉCIMO TERCERO
+DE LA INSTANCIA DE INCONFORMIDAD
+Artículo 90.- Los licitantes o convocados en un procedimiento de licitación pública o invitación
+restringida  podrán  promover  inconformidad  administrativa  en  contra  del  procedimiento  de
+licitación o invitación, por contravención a las disposiciones de esta Ley, siempre que se trate del
+mismo procedimiento en el que hayan participado como licitantes o convocados, respectivamente.
+La inconformidad administrativa se presentará ante la Secretaría de la Contraloría, por escrito o
+por vía electrónica, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer
+públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de fallo,
+o en su defecto, al en que le haya sido notificado el fallo de adjudicación.
+Tratándose del procedimiento de licitación o invitación restringida que realicen las autoridades
+municipales,  la  inconformidad  administrativa  se  presentará  por  escrito  ante  el  ayuntamiento
+correspondiente.
+Si la inconformidad se tramita por conducto del SEITS, se estará a lo dispuesto por la Ley de
+Gobierno Digital y su Reglamento.
+Artículo 91.- El escrito de inconformidad deberá contener los datos siguientes:
+I. Nombre del inconforme o de quien promueva en su representación.
+II. Domicilio en el Estado de México para recibir notificaciones.
+III. El motivo de inconformidad.
+23
+
+
+IV. La fecha de celebración del acto de fallo o de la notificación del mismo.
+V. Bajo protesta de decir verdad, los hechos que sustenten la inconformidad.
+VI. Las disposiciones legales violadas, de ser posible.
+VII. Las pruebas que ofrezca.
+VIII. La solicitud de suspensión del acto motivo de inconformidad, en su caso.
+El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no
+gestione a nombre propio, así como los documentos que ofrezca como prueba.
+Cuando se trate de licitantes que hayan presentado propuesta conjunta, en el escrito inicial
+deberán designar un representante común; de lo contrario, se entenderá que fungirá como tal la
+persona nombrada en primer término.
+En todos los casos en que se trate de licitantes que hayan presentado propuesta conjunta, la
+inconformidad solo será procedente si se promueve conjuntamente por todos los integrantes de la
+misma.
+Artículo  92.- La  inconformidad  administrativa  suspenderá  la  contratación  o,  en  su  caso,  la
+adquisición de bienes o la prestación de servicios, cuando:
+I. Lo solicite el inconforme, siempre que garantice los daños o perjuicios que se puedan ocasionar
+a la hacienda pública, mediante garantía equivalente al cien por ciento del monto total adjudicado,
+a entera satisfacción de la Secretaría de la Contraloría o del ayuntamiento, y resguardada por la
+Secretaría, Tesorería o equivalente en las entidades o tribunales administrativos.
+El adjudicado afectado con la suspensión solicitada por el inconforme, podrá contragarantizar el
+cien por ciento del monto total adjudicado a entera satisfacción de la Secretaría de la Contraloría o
+del ayuntamiento, y resguardada por la Secretaría, Tesorería o equivalente en las entidades o
+tribunales administrativos, al momento de solicitar que no se suspenda la contratación o, en su
+caso, la adquisición de bienes o la prestación de servicios.
+II. Lo solicite la convocante, por considerar que de no suspender la contratación o ejecución del
+servicio, se puedan ocasionar mayores daños o perjuicios al erario estatal o municipal.
+En  todo  caso,  la  suspensión  se  otorgará  cuando  no  se  siga  perjuicio  al  interés  social  o  se
+contravengan disposiciones de orden público.
+Artículo 93.- La Secretaría de la Contraloría o los ayuntamientos podrán requerir información a
+las convocantes, quienes deberán remitirla dentro del plazo de cinco días hábiles siguientes a la
+recepción del requerimiento correspondiente.
+La Secretaría de la Contraloría o los ayuntamientos notificarán la interposición de la inconformidad
+administrativa a los licitantes o a los convocados que hayan resultado ganadores, para que dentro
+del plazo de cinco días hábiles, concurran a exponer lo que a sus intereses convenga. 
+La inconformidad administrativa en lo no previsto por esta Ley, se substanciará en los términos
+del recurso administrativo establecido en el Código de Procedimientos Administrativos del Estado
+de México.
+Artículo 94.- En las materias reguladas en la presente Ley no procederá el recurso administrativo
+de inconformidad, previsto en el Código de Procedimientos Administrativos del Estado de México.
+24
+
+
+En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás
+actos y resoluciones que se dicten durante la contratación y la vigencia de los contratos regulados
+por esta Ley, procede juicio ante el Tribunal de Justicia Administrativa del Estado de México.
+T R A N S I T O R I O S
+ARTÍCULO  PRIMERO.- Publíquese  el  presente  Decreto  en  el  periódico  oficial  Gaceta  del
+Gobierno.
+ARTÍCULO SEGUNDO.- El presente ordenamiento entrará en vigor a los ciento ochenta días
+naturales  siguientes  al  de  su  publicación  y  deroga  el  Libro  Décimo  Tercero  del  Código
+Administrativo del Estado de México.
+ARTÍCULO TERCERO.- El Reglamento de la presente Ley deberá expedirse en un término no
+mayor a ciento ochenta días naturales, siguientes a la publicación de este Decreto.
+ARTÍCULO CUARTO.- Los procedimientos adquisitivos, de inconformidades y de aplicación de
+sanciones, así como los demás asuntos que se encuentren en trámite o pendientes de resolución
+se  tramitarán  y  resolverán  conforme  a las  disposiciones  vigentes al  momento  en  el  que  se
+iniciaron.
+ARTÍCULO QUINTO.- Las disposiciones administrativas expedidas en esta materia, y sistemas
+informáticos vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando
+en todo lo que no se oponga a la presente Ley, en tanto se expiden las disposiciones y sistemas
+que deban sustituirlos.
+ARTÍCULO SEXTO.- A partir del inicio de vigencia de este Decreto, las dependencias dispondrán
+de noventa días naturales para llevar a cabo las modificaciones a sus respectivos Reglamentos
+Interiores y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+ARTÍCULO SÉPTIMO.- Se derogan las demás disposiciones legales de igual o menor jerarquía
+que se opongan a lo establecido en esta Ley.
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. 
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de
+México, a los veintinueve días del mes de abril del año dos mil trece.
+25
+
+
+APROBACION: 
+29 de abril de 2013.
+PROMULGACION: 03 de mayo de 2013.
+PUBLICACION: 
+03 de mayo de 2013.
+VIGENCIA: 
+El presente ordenamiento entrará en vigor a los ciento ochenta días naturales
+siguientes al de su publicación
+TABLA DE REFORMAS, ADICIONES Y DEROGACIONES
+DECRETO 496.- Por el que se reforma el artículo 74, fracción XVI y se adicionan, a dicho artículo,
+las fracciones XVII y XVIII de la Ley de Contratación Pública del Estado de México y Municipios.
+Publicado en la Gaceta del Gobierno el 24 de agosto de 2015, entrando en vigor al día siguiente de
+su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+DECRETO 178.- Por el que se reforma el artículo 77 y el párrafo segundo del artículo 87 de la Ley
+de Contratación Pública del  Estado de México y Municipios.  Publicado en el  Periódico Oficial
+“Gaceta del Gobierno” el 20 de diciembre de 2016, entrando en vigor al día siguiente de su
+publicación en el Periódico Oficial "Gaceta del Gobierno".
+DECRETO 267.- Por el que se adicionan los párrafos cuarto y quinto al artículo 4 de la Ley de
+Contratación Pública del Estado de México y Municipios. Publicado en el Periódico Oficial “Gaceta
+del Gobierno” el 15 de diciembre de 2017, entrando en vigor el 1 de enero de 2018.
+DECRETO 11.- Por el que se adiciona el artículo 88 Bis a la Ley de Contratación Pública del Estado
+de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 21 de diciembre de 2018,
+entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+DECRETO 179.- Se reforman las fracciones II, VI, VII y XI del artículo 3, el párrafo segundo del
+artículo 21, el párrafo tercero del artículo 36, el artículo 65, el párrafo segundo del artículo 84 y el
+párrafo cuarto del artículo 90 y se deroga la fracción II del artículo 1 de la Ley de Contratación
+Pública del Estado de México y Municipios. Publicado en el Periódico Oficial “Gaceta del Gobierno”
+el 22 de junio de 2023, entrando en vigor al día siguiente de su publicación en el Periódico Oficial
+“Gaceta del Gobierno”.
+DECRETO 252.- Se reforma la fracción IX del artículo 3, los párrafos primero y tercero del artículo
+5, el artículo 6, el párrafo segundo del artículo 7, los párrafos primero y segundo del artículo 8, la
+fracción IV del artículo 11, el artículo 12, el párrafo primero del artículo 13, el párrafo segundo del
+artículo 19, el artículo 20, el párrafo primero del artículo 21, el artículo 22, el párrafo primero del
+artículo 27, el párrafo primero de la fracción II del artículo 28, el artículo 32, el párrafo primero del
+artículo 41, el párrafo primero del artículo 43, los párrafos primero y segundo del artículo 44, el
+párrafo primero y el párrafo segundo de la fracción VIII del artículo 48, el párrafo segundo del
+artículo 56, los artículos 57, 62 y 64, el párrafo segundo del artículo 68, el párrafo segundo del
+artículo 69, el párrafo tercero del artículo 71, el artículo 72, el párrafo primero del artículo 74, el
+artículo 75, el párrafo primero del artículo 78, el artículo 79, el párrafo primero del artículo 83, el
+párrafo primero del artículo 84, el párrafo segundo del artículo 87, y el párrafo segundo del
+artículo 94 de la Ley de Contratación Pública del Estado de México y Municipios, para quedar como
+sigue. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 5 de abril de 2024, entrando en
+vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+26
+
+

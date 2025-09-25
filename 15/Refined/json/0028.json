@@ -1,0 +1,246 @@
+{
+  "0028.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto número 252 LXI Legislatura. LEY DE FOMENTO DE LA CULTURA DE LA LEGALIDAD DEL ESTADO DE MÉXICO",
+    "Año_publicación": 2014,
+    "Título": "DECRETO 179.- Se reforma el artículo 6, la fracción I del artículo 7 y el artículo 10 de la Ley de Fomento de la Cultura de la Legalidad del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 22 de junio de 2023, entrando en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Esta Ley es de interés público y tiene por objeto establecer las bases para fomentar en el Estado de México, la cultura de la legalidad, para fortalecer el estado de derecho, el respeto a las reglas de convivencia en la sociedad y su interiorización en los individuos en un contexto de paz, seguridad y tolerancia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "La Cultura de la Legalidad es el conocimiento que tiene una sociedad de su sistema jurídico, su respeto y acatamiento, así como el compromiso del ciudadano por cuidarlo, defenderlo y participar en su evolución para consolidar un sistema de mayor justicia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "El Estado a través de sus instancias de gobierno fomentará la participación de los ciudadanos para la realización de acciones orientadas a la promoción de la cultura de la legalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "El Estado fomentará la participación de las instituciones privadas y sociales, para la realización de acciones y programas permanentes, en el marco de la presente Ley, sobre los siguientes ejes principales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Educación."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Salud."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Seguridad. IV. Respeto a los derechos humanos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LOS EJES RECTORES",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "El Estado a través de sus instancias de gobierno, fomentará la legalidad, con base en los siguientes ejes rectores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Difusión de la cultura de la legalidad y de marco jurídico del Estado de México."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Derechos para participar en la modernización del marco jurídico."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "El Programa de Fomento de la Cultura de la Legalidad deberá incluir programas permanentes, con una visión que integre a cada uno de los tres poderes del Estado, órganos autónomos, municipios y los entes del Estado, que tiendan a fomentar e implementar una Cultura de la Legalidad en la sociedad, especialmente en los servidores públicos que conforman la estructura gubernamental del Estado, debiendo incentivar las acciones de las instituciones que resulten exitosas en el trabajo de defensa de la legalidad por cumplir a cabalidad con sus funciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DEL CONSEJO MEXIQUENSE DE LA CULTURA DE LA LEGALIDAD",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "El Consejo Mexiquense de la Cultura de la Legalidad, es una instancia interinstitucional, integrado de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Una persona representante de la Consejería Jurídica, quien lo presidirá;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Diputado o Diputada por cada Grupo Parlamentario, electos por la Legislatura."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Una persona representante del Poder Judicial. IV. Una persona integrante de los órganos de dirección de cada órgano autónomo del Estado de México, y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Tres presidentes o presidentas municipales, electos por la Legislatura. Las personas integrantes del Consejo podrán invitar a instituciones de los sectores público, privado y social. El Consejo Mexiquense de la Cultura de la Legalidad contará con un Secretario Técnico que será nombrado por el Consejero Presidente."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Los Consejos, deberán respetar la pluralidad, serán democráticos y de carácter honorífico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "El Consejo Mexiquense de la Cultura de la Legalidad establecerá el Programa de Fomento de la Cultura de la Legalidad, con la finalidad de planear, establecer, coordinar y evaluar todas las acciones y estrategias, diagnóstico social, enseñanza, difusión y las acciones necesarias para el fortalecimiento del Estado de Derecho.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "El Programa de Fomento de la Cultura de la Legalidad será el instrumento guía para orientar las políticas públicas, las estrategias y acciones que en forma coordinada realicen las instancias del Estado, en busca de la construcción de una cultura de la legalidad, promoviendo conductas afines con las normas a través de la investigación de conceptos relacionados con los valores, el respeto y las leyes, así como los efectos de su inobservancia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "El funcionamiento del Programa se llevará a cabo bajo el siguiente esquema:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Diagnóstico."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sensibilización."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Difusión del marco legal del Estado de México. IV. Establecimientos de medios de participación."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Seguimiento."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Indicadores."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Capacitación y asesoría."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Acciones llevadas a cabo de manera integral y multisectorial. IX. Evaluación."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Medidas para incentivar la participación de la sociedad en estas tareas."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Podrán integrarse Consejos Regionales y municipales, para coadyuvar en el ámbito de su competencia en las actividades del Consejo Mexiquense de la Cultura de la Legalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Los Consejos Regionales serán los encargados de la ejecución del Programa en su ámbito de competencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "El Consejo Mexiquense de la Cultura de la Legalidad, tendrá a su cargo las siguientes funciones y atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Formular estrategias tendientes al cumplimiento de los objetivos del Programa."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Sugerir acciones encaminadas a propiciar una cultura de respeto y fomento a la legalidad."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Diseñar, elaborar y proponer las acciones tendientes a sensibilizar a la sociedad respecto a la observancia al orden jurídico vigente, así como la difusión del mismo. IV. Coordinar a las instancias del Estado para la realización de conferencias, seminarios y demás eventos relacionados con el fomento a la Cultura de la Legalidad."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer indicadores para realizar los diagnósticos periódicos sobre la efectividad del Programa."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integrar comisiones o comités para la atención de asuntos específicos."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Los Consejos Municipales tendrán a su cargo las siguientes funciones y atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar el Programa en el ámbito de su competencia, así como promover y establecer, la participación de los diversos sectores, en la realización de las acciones derivadas del Programa."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover y establecer vínculos de coordinación con las diversas instancias de los Poderes del Estado y de los Municipios."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover e incentivar el cumplimiento de las políticas públicas, programas, proyectos y acciones de fomento que se emprendan en el marco de esta Ley. IV. Integrar, conducir y coordinar las campañas públicas de promoción para la Cultura de la Legalidad, en el ámbito de su competencia."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los demás que sean necesarios, en el marco del Programa, conforme a la presente Ley y su reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Consejo Mexiquense de la Cultura de la Legalidad será el responsable de darle seguimiento y evaluar el grado de cumplimiento del Programa en los diferentes ámbitos, así como para proponer los ajustes o modificaciones que sean necesarios como resultado del análisis de su ejecución.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DEL PRESUPUESTO DEL PROGRAMA DE FOMENTO DE CULTURA DE LA LEGALIDAD",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "El programa constituye una política pública de carácter transversal por lo que los Poderes del Estado, dependencias, órganos autónomos, organismos descentralizados y municipios, realizarán las acciones necesarias para el cumplimiento de la presente Ley y del Programa, conforme a los presupuestos de egresos aprobados anualmente.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "Publíquese la presente Ley en el Periódico Oficial “Gaceta del Gobierno”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El Consejo Mexiquense de la Cultura de la Legalidad se instalará dentro de un plazo no mayor de seis meses contados a partir de la entrada en vigencia de la presente Ley.\nLo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los trece días del mes de noviembre del año dos mil trece. APROBACIÓN: 13 de noviembre de 2014. PROMULGACIÓN: 16 de diciembre de 2014. PUBLICACIÓN: 16 de diciembre de 2014. VIGENCIA: 17 de diciembre de 2014. TABLA DE REFORMAS, ADICIONES Y DEROGACIONES\nDECRETO 179.- Se reforma el artículo 6, la fracción I del artículo 7 y el artículo 10 de la Ley de Fomento de la Cultura de la Legalidad del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 22 de junio de 2023, entrando en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO 252.- Se reforman las fracciones I, II, III, IV y V y el párrafo segundo del artículo 7 de la Ley de Fomento de la Cultura de la Legalidad del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 5 de abril de 2024, entrando en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

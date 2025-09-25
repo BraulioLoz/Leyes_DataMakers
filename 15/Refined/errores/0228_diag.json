@@ -1,0 +1,28 @@
+{
+  "n_chapters": 15,
+  "n_perm_articles": 53,
+  "n_perm_fracciones": 99,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I Del objeto, sujetos y aplicación de la Ley",
+    "CAPÍTULO II Principios Generales",
+    "CAPÍTULO III De las reglas para mantener la paz y orden público",
+    "CAPÍTULO IV De las reglas para el uso de la fuerza en detenciones",
+    "CAPÍTULO V Del uso de la fuerza en el cumplimiento de determinaciones emitidas por autoridades judiciales, ministeriales y administrativas",
+    "CAPÍTULO VI De las reglas para el uso de la fuerza en los centros preventivos y de reinserción social e instituciones de reintegración social de adolescentes",
+    "CAPÍTULO VII De las reglas para el uso de la fuerza en fenómenos naturales perturbadores antropogénicos",
+    "CAPÍTULO VIII De la capacitación y del control de armas y equipo",
+    "CAPÍTULO IX De la planeación de operativos en los que se prevea usar la fuerza pública",
+    "CAPÍTULO X De la atención médica que resulte necesaria del uso de la fuerza",
+    "CAPÍTULO XI De la coordinación entre instituciones de seguridad pública para el uso de la fuerza",
+    "CAPÍTULO XII De la participación de la sociedad",
+    "CAPÍTULO XIII Del uso de la fuerza por los prestadores del servicio de seguridad privada",
+    "CAPÍTULO XIV De la reparación del daño e indemnización por el ilegal uso de la fuerza",
+    "CAPÍTULO XV De las sanciones"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 15
+  }
+}

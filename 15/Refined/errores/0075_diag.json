@@ -1,0 +1,20 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 17,
+  "n_perm_fracciones": 63,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "SECCIÓN PRIMERA DE LOS DERECHOS",
+    "SECCIÓN SEGUNDA DE LAS OBLIGACIONES",
+    "CAPÍTULO III DE LA COMISIÓN INTERSECRETARIAL",
+    "SECCIÓN PRIMERA PROHIBICIONES",
+    "SECCIÓN SEGUNDA SANCIONES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 2,
+    "SECCIÓN": 4
+  }
+}

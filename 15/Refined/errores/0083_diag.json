@@ -1,0 +1,21 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 34,
+  "n_perm_fracciones": 77,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "SECCIÓN I DERECHOS",
+    "SECCIÓN II OBLIGACIONES",
+    "CAPÍTULO III ESTABLECIMIENTOS DE PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA",
+    "CAPÍTULO IV DE LA CERTIFICACIÓN “HOSPITAL AMIGO DEL NIÑO Y DE LA NIÑA”",
+    "CAPÍTULO V DE LA COORDINACIÓN ESTATAL DE LACTANCIA MATERNA Y BANCOS DE LECHE",
+    "CAPÍTULO VI INFRACCIONES Y SANCIONES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5,
+    "SECCIÓN": 2
+  }
+}

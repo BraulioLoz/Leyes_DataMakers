@@ -1,0 +1,1233 @@
+Secretaría de Asuntos Parlamentarios
+Última reforma Decreto Número 179
+LXI Legislatura 
+LEY REGISTRAL PARA EL ESTADO DE MÉXICO
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+CAPÍTULO PRIMERO 
+DEL OBJETO, FINALIDAD Y DEFINICIONES
+Artículo 1.- La presente Ley es de orden e interés públicos y tiene por objeto regular las bases,
+sistema y proceso registral que regirán el funcionamiento del Registro Público de la Propiedad en
+el Estado de México, de conformidad con lo establecido en el Código Civil, la Ley que crea el
+Organismo  Público  Descentralizado  denominado  Instituto  de  la  Función  Registral,  ambos  del
+Estado de México, y demás disposiciones legales aplicables.
+Artículo 2.- El Registro Público de la Propiedad del Estado de México es la institución que tiene
+por objeto dar publicidad a la situación jurídica de los bienes y derechos, así como a los actos y
+hechos jurídicos que conforme a la Ley deban registrarse para surtir efectos contra terceros, a fin
+de otorgar certeza y seguridad jurídica a los mismos; funciona bajo la responsabilidad del Instituto
+de la Función Registral del Estado de México.
+Artículo 3.- Para efectos de esta Ley, se entiende por:
+I. Archivo: Archivo General de Notarías;
+II. Asientos Regístrales: Las notas de presentación, las anotaciones preventivas, las inscripciones,
+las cancelaciones y las rectificaciones;
+III. Acervo Registral: Libros, apéndices e índices, sus imágenes, documentos físicos o electrónicos,
+extractos o contenidos capturados o digitalizados, sus respaldos, folios electrónicos y base de
+datos;
+IV. Boletín: Información electrónica que emite diariamente cada oficina registral, sobre el proceso
+registral;
+V. Certificación: Acto por el cual el Registrador da fe de la existencia o inexistencia de los actos,
+hechos o constancias inscritos o anotados en el Acervo Registral;
+VI. Certificado Electrónico: Documento firmado electrónicamente por un prestador de servicios de
+Certificación que vincula los datos de la firma a su autor y confirma su identidad;
+VII. Código: Código Civil del Estado de México;
+VIII. Copia Certificada Electrónica: Reproducción total o parcial de una escritura o acta, así como
+de sus respectivos documentos del apéndice, o sólo de éstos o de alguno o algunos de ellos, que
+el Notario Público expide únicamente en soporte electrónico y que autoriza mediante su Firma
+Electrónica Notarial. La  Copia Certificada Electrónica  que el  Notario  Público autorice será  un
+documento  notarial  válido  jurídicamente  y  se  considerará  con  valor  equivalente  a  la  copia
+certificada prevista en la Ley del Notariado para el Estado de México;
+IX.  Digitalización: Proceso que convierte un Asiento Registral en una imagen digital, la cual se
+resguarda en el Acervo Registral;
+X. Director General: Director General del Instituto de la Función Registral del Estado de México;
+
+
+XI.  Folio Electrónico: Documento electrónico correspondiente a un inmueble o a una persona
+jurídica colectiva, considerando cada uno de éstos como una unidad registral integral con historial
+jurídico propio, en  el  que  se  practican todos los Asientos Regístrales correspondientes a los
+mismos;
+XII.  Formato Precodificado: Documento electrónico base del sistema de Folio Electrónico, que
+contiene los datos esenciales sobre un acto o hecho registrable para la práctica del asiento
+correspondiente;
+XIII. Firma Electrónica: Firma Electrónica Avanzada con valor jurídico equivalente al de la firma
+autógrafa definida en la Ley de Gobierno Digital del Estado de México y Municipios;
+XIV. Firma Electrónica Notarial: Firma Electrónica de un Notario Público, la cual se considera con
+igual valor jurídico que su firma autógrafa y su sello de autorizar en términos de la Ley de
+Gobierno Digital del Estado de México y Municipios, la Ley del Notariado del Estado de México y
+demás disposiciones aplicables;
+XV. Hoja de Seguridad: Papel oficial en que se expiden las certificaciones;
+XVI. Instituto: Instituto de la Función Registral del Estado de México;
+XVII. Ley del Instituto de la Función Registral: Ley que Crea el Organismo Público Descentralizado
+denominado Instituto de la Función Registral del Estado de México;
+XVIII. Ley: Ley Registral para el Estado de México;
+XIX. Reglamento: Reglamento de la Ley Registral para el Estado de México;
+XX. Registrador: Titular encargado de una Oficina Registral;
+XXI. Registro Público: Registro Público de la Propiedad del Estado de México;
+XXII. Resguardo: Custodia administrativa de documentos;
+XXIII. Sello Electrónico: al de la Ley de Gobierno Digital del Estado de México y Municipios;
+XXIV. Sistema Informático: Sistema de Información Registral del Estado de México, conforme al
+cual los Asientos Registrales se practican en el Folio Electrónico correspondiente a cada inmueble
+o persona jurídica colectiva;
+XXV. Traslado: Transmisión de la información registral al Folio Electrónico. 
+CAPÍTULO SEGUNDO
+DEL DOMICILIO Y LA COMPETENCIA DEL INSTITUTO
+Artículo  4.- El  Instituto tendrá  su domicilio en la ciudad  de Toluca de Lerdo  y las oficinas
+regístrales se ubicarán en los municipios que establezca su Reglamento Interior.
+Artículo 5.-  La operación del Registro Público estará a cargo del Instituto, éste la ejercerá a
+través de sus oficinas regístrales y demás unidades administrativas con facultades para ello.
+Siempre que las necesidades del servicio lo requieran, se podrán crear, reubicar o modificar la
+circunscripción de las oficinas regístrales, previa autorización del Consejo Directivo del Instituto; lo
+cual deberá publicarse en el Periódico Oficial "Gaceta del Gobierno".
+En cada Distrito Judicial del Estado deberá haber cuando menos, una oficina registral.
+2
+
+
+Artículo 6.- Para el cumplimiento de sus atribuciones, el Instituto contará con la estructura de
+organización que le sea autorizada y se auxiliará de los servidores públicos que las necesidades
+del servicio requieran, de conformidad con el presupuesto y la normatividad aplicable.
+CAPÍTULO TERCERO 
+DE LOS PRINCIPIOS REGISTRALES
+Artículo  7.-  La  función  registral  se  regirá  por  los  principios  de  publicidad,  inscripción,
+especialidad,  fe  pública  registral,  legitimación,  consentimiento,  tracto  sucesivo,  excepto  en
+tratándose  del  registro  de  personas  jurídicas  colectivas,  rogación,  prelación  y  de  legalidad,
+establecidos en el Código y contenidos en las disposiciones siguientes.
+La seguridad jurídica es una garantía institucional que se basa en un título auténtico generador del
+derecho y en su publicidad que opera a partir de su inscripción o anotación registral, por lo tanto,
+el Registrador realizará siempre la inscripción o anotación de los documentos que se le presenten.
+Las causas de suspensión o denegación se aplicarán de manera estricta, por lo que sólo podrá
+suspenderse o denegarse una inscripción o anotación, en los casos de excepción que señala el
+Código y esta Ley.
+Artículo  8.-  La  inscripción  de  los  actos  o  contratos  en  el  Registro  Público  tiene  efectos
+declarativos, por lo tanto no convalida los actos o contratos que sean nulos con arreglo a las
+Leyes.
+No obstante lo dispuesto en el párrafo anterior, los actos o contratos que se otorguen o celebren
+por personas que en el Registro Público aparezcan con derecho para ello, no se invalidarán en
+cuanto a tercero de buena fe una vez inscritos, aunque después se anule o resuelva el derecho de
+su otorgante o de titulares anteriores en virtud de título no inscrito aún siendo válido, o por causas
+que no resulten claramente del mismo registro. Lo dispuesto en este artículo no se aplicará al
+último adquirente cuya adquisición se haya efectuado en violación a disposiciones prohibitivas o
+de orden público. En cuanto a adquirentes a título gratuito, gozarán de la misma protección
+registral que la que tuviere su causante o transferente.
+La buena fe se presume siempre; quien alegue lo contrario tiene la carga de la prueba.
+Artículo 9.- El derecho registrado se presume que existe y que pertenece a su titular en la forma
+expresada en el asiento respectivo. Se presume también que el titular de una inscripción de
+dominio o de posesión, tiene la posesión del inmueble inscrito.
+No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre el
+mismo o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que
+previa o concomitantemente, se entable demanda de nulidad o cancelación de la inscripción en
+que conste dicho dominio o derecho.
+En el caso de cualquier procedimiento judicial o administrativo en el que se afecten bienes,
+derechos reales sobre los mismos o sus frutos, tal afectación quedará sin efecto, una vez que
+conste manifestación auténtica del Registro Público, que indique que dichos bienes o derechos
+están inscritos a favor de persona distinta de aquella contra la cual se dictó la ejecución, a no ser
+que se hubiere dirigido contra ella la acción, como causahabiente del que aparece como titular en
+el Registro Público.
+Todo lo inscrito o anotado goza de la presunción de autenticidad, veracidad, legalidad y exactitud.
+En tanto no se declare judicialmente la falsedad o nulidad de un asiento del Registro Público, en
+cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos. Los errores
+materiales o de concepto, se rectificarán en términos del Código y de la presente Ley.
+TÍTULO SEGUNDO
+DEL PERSONAL DEL INSTITUTO
+3
+
+
+CAPÍTULO ÚNICO
+Artículo 10.- El Director General, los Registradores, el Titular del Archivo y demás personal del
+Instituto, se regirán en cuanto a su nombramiento, atribuciones, facultades y obligaciones, por lo
+establecido en el Código, la Ley del Instituto de la Función Registral, su reglamento interior, la
+presente Ley y demás ordenamientos.
+TÍTULO TERCERO
+DEL SISTEMA REGISTRAL
+CAPÍTULO PRIMERO
+DISPOSICIONES GENERALES
+Artículo 11.- El inmueble y la persona jurídica colectiva constituyen la unidad básica registral.
+Artículo 12.-  El Folio Electrónico será de dos clases: folio real y folio de personas jurídicas
+colectivas, numerados y autorizados y son los documentos físicos o electrónicos, que contendrán
+sus datos de identificación, así como los asientos de los actos jurídicos o hechos que en ellos
+incidan.
+Artículo 13.- A la apertura del Folio Electrónico, la primera inscripción contendrá la materia a la
+que se refiere, los antecedentes registrales vigentes y la siguiente información, según conste en el
+libro o título que le de origen a la apertura:
+I. Inmueble:
+A) Descripción del mismo;
+B) Calle y número o lote y manzana que lo identifique;
+C) Denominación, si la tuviere;
+D) Municipio en el que se ubique;
+E) Fraccionamiento, colonia, poblado, barrio o conjunto urbano;
+F) Código postal;
+G) Superficie, con letra y número, si la tuviere;
+H) Rumbos, medidas y colindancias;
+I) Número de clave catastral, cuando sea proporcionada por el solicitante; y
+J) Titular registral, con sus generales.
+II. Personas Jurídicas Colectivas:
+A) Denominación o razón social;
+B) Tipo de persona jurídica colectiva;
+C) Objeto;
+D) Domicilio;
+E) Importe del capital social, en su caso;
+4
+
+
+F) Duración;
+G) Integrantes del órgano de administración; y
+H) Registro Federal de Contribuyentes, cuando sea proporcionado por el solicitante.
+Artículo 14.-  A la apertura de cada Folio Electrónico se le dará el número progresivo que le
+corresponda y según la materia de que se trate.
+Artículo 15.- El Traslado que se haga para la apertura del Folio Electrónico, con base en los datos
+de libros e imágenes de inmuebles o personas jurídicas colectivas,  se hará transmitiendo la
+información en los términos existentes, sin calificación alguna. De todo Traslado deberá dejarse
+constancia en su fuente, señalando el número de Folio Electrónico que le corresponda.
+A la apertura del folio real, únicamente se transmitirán los asientos vigentes, además de asentarse
+el aviso definitivo que se hubiere presentado, sin convertirse en inscripción.
+Artículo 16.- Todo folio será autorizado con Firma Electrónica del Registrador.
+Artículo 17.- Cada Asiento Registral deberá contener, en todos los casos, lo siguiente:
+I. Número y fecha de entrada;
+II. Datos de identificación del documento presentado;
+III. Acto jurídico asentado y los elementos que sean materia de publicidad, en los términos de lo
+dispuesto por el Código y la Ley;
+IV. Generales de los otorgantes, si constan en el documento;
+V.  Clave Única de Registro de Población o Registro Federal de Contribuyentes, cuando sean
+proporcionados por el solicitante, o cualquier otro dato de identificación cuando conste en el título;
+y
+VI. Nombre y firma del Registrador. 
+CAPÍTULO SEGUNDO
+DEL SISTEMA INFORMÁTICO
+Artículo  18.-  En  términos  del  Código,  el  Registro  Público  deberá  operar  con  un  Sistema
+Informático Integral, mediante el cual se realice la captura, almacenamiento, custodia, seguridad,
+consulta,  reproducción,  verificación  y  transmisión  de  la  información  contenida  en  el  Acervo
+Registral.
+Artículo  19.-  El  procedimiento  registral  se  llevará  electrónicamente  a  través  del  Sistema
+Informático y de comunicación remota. La información almacenada en el sistema y los archivos
+complementarios necesarios serán utilizados para inscribir, asentar, anotar, cancelar, verificar,
+rectificar, validar y reponer los Asientos Registrales, así como para expedir certificados, copias
+certificadas y constancias de los mismos.
+Los Asientos Registrales que autorice el Registrador mediante Firma Electrónica, así como las
+certificaciones, constancias e impresiones son documentos públicos y tendrán valor probatorio
+pleno.  El  mismo  valor  probatorio,  tendrán  los  Asientos  Registrales  y  actos  regístrales  que
+contengan la base de datos del sistema.
+Artículo 20.- El Sistema Informático incluirá:
+5
+
+
+I. Un control de gestión;
+II. Un sistema de procedimiento registral;
+III. Un sistema de base de datos permanente y actualizado para su consulta pública, incluyendo
+días y horas inhábiles;
+IV. Las  bases  de  datos  y  archivos  complementarios,  necesarios  para  explotar  y  validar  la
+información; y
+V. Los respaldos.
+Artículo  21.-  A través  del  control  de  gestión  se  incorpora,  ordena,  archiva  y  consulta  la
+información sobre los trámites y servicios que presta la institución, desde su ingreso hasta su
+conclusión, lo que deberá reflejarse en los certificados y constancias que se expidan.
+La situación de los trámites y servicios en el control de gestión, según corresponda, se actualizará
+conforme a las siguientes etapas del procedimiento:
+I. Ingresado;
+El sistema se compondrá de las secciones siguientes:
+1. Tipo de predio:
+a) Industrial
+b) Comercial
+c) Habitacional
+d) Otros.
+2. Personas jurídicas colectivas.
+II. En calificación;
+III. Inscrito, anotado, cancelado;
+IV. Suspendido;
+V. Subsanado;
+VI. Rechazado;
+VII. En recurso de inconformidad;
+VIII. Resolución del Recurso; y
+IX. Entregado.
+La  situación  de  los  trámites  suspendidos,  rechazados  o  aquellos  que  la  presente  Ley  y  el
+Reglamento lo determinen serán consultables por los usuarios a través del Boletín.
+Tratándose  de  las  etapas  referidas  en  las  fracciones  IV,  V,  VI  y  VIII,  la  determinación
+correspondiente se publicará en el Boletín, debiendo incluirse en tal publicación los datos de
+ingreso del documento y el acto al que refiere el mismo, de tal manera que el interesado tenga
+conocimiento del estado que guarda el documento.
+6
+
+
+Artículo 22.- La solicitud de entrada y trámite o, en su caso, la solicitud electrónica respectiva,
+tendrá el objeto de servir:
+I.  Como elemento probatorio de la prelación de los documentos presentados, los que deberán
+contar con el número de entrada correspondiente, fecha y hora; y
+II. Como medio de control de los mismos.
+Artículo 23.-  La función registral se apoyará en los archivos de validación sustentados en el
+Sistema Informático.
+Artículo 24. La determinación del uso de la Firma Electrónica o el Sello Electrónico en los
+documentos y Asientos Regístrales relativos al Acervo Registral, se hará de conformidad a la Ley
+de Gobierno Digital del Estado de México y Municipios y demás disposiciones aplicables.
+Artículo 25.- El Registrador practicará los Asientos Registrales a través del Sistema Informático y
+los autorizará con su Firma Electrónica al igual que todo documento que emita, circunstancia que
+se publicará en el Boletín.
+CAPÍTULO TERCERO
+DE LA CONSULTA
+Artículo 26.- La consulta de los asientos se realizará proporcionando el número del folio real o de
+la persona jurídica colectiva. A falta de éstos se podrá solicitar la búsqueda de los asientos
+proporcionando cualquiera de los siguientes datos:
+I. Tratándose de inmuebles:
+A) Su denominación;
+B) Calle o avenida, número y colonia; 
+C) Lote, manzana, fraccionamiento y/o conjunto urbano;
+D) Nombre de alguno de los propietarios o de los titulares de otros derechos; y
+E) Clave catastral.
+II. En caso de personas jurídicas colectivas:
+A) Denominación o razón social;
+B) Nombre de los socios, asociados o integrantes del órgano de administración; y
+C) Registro Federal de Contribuyentes.
+III. Por cualquier otro dato que determine el Director General.
+Artículo 27.- El Instituto a través de su Director General podrá autorizar únicamente la consulta
+vía remota de la base de datos del Acervo Registral a personas que así lo soliciten y cumplan con
+los requisitos para ello, en los términos del Código, de la Ley, del Reglamento y los lineamientos
+que emita el propio Director General.
+Artículo 28.-  La consulta electrónica externa solamente podrá hacerse por Notarios Públicos a
+través de la utilización de la Firma Electrónica Notarial y por usuarios previamente autorizados. Se
+llevará una bitácora de las consultas efectuadas.
+7
+
+
+Artículo 29.- Cuando la autorización a que se refiere el artículo anterior se otorgue a Notarios
+Públicos,  dicha  autorización  permitirá  el  envío  de  solicitudes  por  medios  electrónicos  con  la
+utilización de la Firma Electrónica Notarial. El Registro enviará por el mismo medio el acuse de
+recibo al propio Notario. Dicho acuse servirá como boleta de ingreso y la determinación que
+recaiga a la solicitud se enviará por el mismo medio, a fin de que el Notario pueda imprimir
+ambas.  El régimen jurídico de la utilización de la Firma Electrónica Notarial y de las Copias
+Certificadas Electrónicas en materia registral, se regirá por el Código, por la Ley del Notariado
+para el Estado de México y por esta Ley.
+Artículo 30.- Para garantizar la integridad, confidencialidad y disponibilidad de la información
+registral, el Sistema Informático contará con las medidas de seguridad necesarias, autorizaciones
+y procedimientos conforme a lo establecido en la Ley de Gobierno Digital del Estado de México y
+Municipios, su Reglamento y demás disposiciones aplicables.
+Artículo 31.- La información registral deberá ser consultada para la calificación y análisis de
+documentos,  por  parte  de  los  registradores  y  servidores  públicos  adscritos  a  las  áreas  de
+inscripciones,  anotaciones,  cancelaciones  y  expedición  de  certificaciones  e  informes,
+directamente a través del Sistema Informático y documental del archivo cuando así se requiera,
+tomando en consideración el tipo de predio que fue ingresado, conforme lo establecido en el
+artículo 21, fracción I de la presente Ley.
+TÍTULO CUARTO
+DEL PROCEDIMIENTO REGISTRAL
+CAPÍTULO PRIMERO
+DISPOSICIONES GENERALES
+Artículo 32.- Los formatos precodificados deberán ser presentados junto con el documento 
+requerido para la prestación del servicio.
+Los formatos precodificados serán autorizados por el Director General, quien determinará los
+requisitos que deberá contener y serán llenados por la parte usuaria del servicio con los datos que
+estos le requieran para inscribir, anotar o cancelar.
+Cuando se trate de oficios de autoridades administrativas o judiciales que directamente sean
+notificados a la oficina registral,  por algún proceso en los que se ordene alguna limitación,
+anotación en el asiento registral, no se procederá a requerir dicho formato precodificado.
+Artículo 33.- El procedimiento registral se inicia con la asignación del número de entrada, fecha,
+hora y trámite a la solicitud presentada.
+La fase de recepción podrá ser física o electrónica, debiéndose acreditar el pago de los derechos
+que se causen, cuando así proceda y consistirá, dependiendo el caso, de lo siguiente:
+I. Recepción física. El interesado presentará en oficialía de partes del Registro Público:
+1. El o los formatos precodificados respectivos, llenados bajo su responsabilidad, acompañado del
+testimonio original y señalando el tipo de predio que refiere el artículo 21, fracción I de la
+presente Ley.
+2. Documento  auténtico  y,  en ambos casos,  acompañarán  copia  legible  de  los  documentos
+autorizados en el instrumento, sujetándose a las siguientes reglas:
+A) Ingresado el documento, el Sistema Informático asignará al mismo, el número de entrada por
+orden de presentación, que será progresivo, fecha, hora y acto a que corresponda, lo que se hará
+constar en la solicitud de entrada y trámite de cada documento, de la cual se expedirán dos
+8
+
+
+ejemplares de dicho ingreso entregándose uno al solicitante, que le servirá como constancia para
+acreditar su entrada.
+La numeración será continua, incluso al iniciar cada año calendario. Por ningún motivo estará
+permitido emplear para documentos diversos el mismo número, salvo que se trate de un solo
+instrumento.
+B) Con la solicitud de entrada y trámite se turnará para calificación el formato precodificado,
+acompañado del testimonio o documento de conformidad con lo siguiente:
+1. El servidor público encargado de la calificación extrínseca registral procederá a la revisión y
+análisis del documento para determinar si procede a inscribir, anotar, cancelar, suspender o
+rechazar.
+2. El servidor público encargado de efectuar el análisis a los documentos para expedición de las
+certificaciones determinará si es procedente o improcedente, según sea el caso.
+En ambos casos, los servidores públicos verificarán el pago de los derechos que corresponda,
+conforme a lo establecido en las disposiciones fiscales y el tipo de predio de acuerdo al artículo 2,
+fracción I de la presente Ley.
+La calificación y análisis registral se realizará en la copia legible y autorizada del documento, y la
+revisión correspondiente se hará en cumplimiento al Código, la Ley Registral, su Reglamento y
+aquellas otras disposiciones jurídicas que así lo prevean.
+La forma precodificada presentada servirá como solicitud de petición, cumpliendo con el principio
+de rogación.
+C) Cuando se presenten varios documentos a inscribir, en los cuales el interesado señale en cada
+uno de los formatos precodificados de entrada del trámite que están vinculados entre sí y se
+presenten  al  mismo  tiempo,  deberán  acumularse  para  la  revisión  de  los  mismos  a  un  solo
+calificador.
+Los documentos que  sean presentados por el  interesado con  posterioridad  y se  encuentren
+relacionados con otros ya ingresados surtirán sus efectos de prelación desde la fecha de ingreso,
+sin ninguna responsabilidad para la oficina registral.
+Si de la calificación registral se desprende que faltó un documento que no fue ingresado por parte
+del interesado, procederá a suspender los documentos que se relacionen y que no sea posible su
+inscripción, anotación o cancelación.
+II.  Recepción electrónica. el notario público podrá enviar por medios telemáticos a través del
+sistema  informático,  el  formato  pre  codificado  respectivo,  llenado  bajo  su  responsabilidad,
+acompañado de la copia certificada electrónica en la que conste el acto a inscribir y deberá
+sujetarse a las siguientes reglas:
+A) El formato pre codificado deberá enviarse firmado electrónicamente por el notario público,
+acompañado  del  testimonio  y  la  copia  certificada  electrónica,  además  de  los  anexos  que
+dispongan el Código, la presente Ley Registral, su Reglamento y demás disposiciones legales
+aplicables.
+El Sistema Informático asignará al documento, el número de entrada por orden de presentación,
+que será progresivo, fecha, hora y acto que corresponda, generando con estos datos la boleta de
+ingreso, que surtirá efectos de solicitud de entrada y trámite, remitiéndose al notario por vía
+telemática de manera simultánea.
+B)  La  Copia  Certificada  Electrónica  que  remita  el  notario  público  deberá  incluir  las  notas
+complementarias del instrumento en las que indique que se ha cumplido con todos los requisitos
+9
+
+
+fiscales  y  administrativos  que  el  acto  requiera,  así  como  los  anexos  respectivos  para  su
+inscripción, anotación o cancelación, conforme lo establezca el Código, la presente Ley Registral,
+su Reglamento y demás disposiciones legales aplicables.
+Artículo 34.-  Una vez cumplidas las fases a que se refiere el artículo que precede, se pasará
+directamente a la fase de calificación extrínseca.
+La calificación registral consistirá en verificar únicamente que:
+I. El documento presentado sea de los que deben inscribirse o anotarse;
+II.  El  documento  satisfaga  los  requisitos de  forma  establecidos  en  la Ley que  lo rige  como
+necesarios para su validez;
+III. En el documento conste acreditada la identidad, capacidad y legitimación de los otorgantes
+que el acto consignado requiera, en su caso. Cuando por cualquier circunstancia alguno de los
+titulares registrales varíe su nombre, denominación o razón social, procederá la inscripción cuando
+así se hubiere hecho constar ante Notario Público;
+IV. Exista identidad entre el bien previamente inscrito y el descrito en el título. No habrá falta de
+identidad cuando no coincida la descripción en uno o algunos de los datos, si de los demás
+elementos comparados se desprende dicha identidad;
+V. No haya incompatibilidad entre el texto del documento y los asientos del registro, conforme a
+lo previsto por el artículo 8.30 del Código;
+VI.  Esté fijada la cantidad máxima que garantice un gravamen en el caso de obligaciones de
+monto indeterminado;
+VII. En el acto consignado en el instrumento se observe el tracto sucesivo, lo que significa que
+para inscribir o anotar cualquier  título deberá constar previamente inscrito el derecho de  la
+persona que otorgó aquel o de la que vaya a resultar afectada por la inscripción, a no ser que se
+trate de una inscripción de inmatriculación judicial;
+VIII. El documento cumpla con los requisitos que deba llenar de acuerdo con el Código, esta Ley u
+otras Leyes aplicables, como indispensables para su inscripción; y
+IX. No haya operado el cierre de registro, en términos del artículo 8.56 del Código.
+Verificado que el testimonio, Formato Precodificado o la Copia Certificada Electrónica, coincidan,
+con el contenido del libro o folio correspondiente al inmueble o persona jurídica colectiva, no
+podrán exigir otros datos, requisitos e información que la necesaria para el llenado del Formato
+Precodificado. El contenido y características del Formato Precodificado serán establecidos en el
+Reglamento.
+Se deberán inscribir o anotar, según corresponda, los documentos que se presenten al Registro
+para inscripción o anotación, dentro de un plazo máximo de diez días hábiles siguientes al de su
+presentación.
+Siendo el trámite por vía electrónica, se reducirá al menos a la mitad el plazo señalado en este
+artículo.
+Los inmuebles destinados a  la actividad  comercial  o industrial  de  bajo impacto y que sean
+menores a 2,000 metros cuadrados se inscribirán en un plazo máximo de un día hábil, una vez
+reflejado el pago respectivo.
+10
+
+
+Artículo 35.- El Registrador, dentro del plazo señalado en el artículo anterior, podrá suspender la
+inscripción  o  anotación,  según  sea  el  caso,  si  el  documento  contiene  defectos  subsanables,
+debiendo fundar y motivar su resolución, la que deberá ser publicada íntegramente en el Boletín.
+En este caso el documento podrá subsanarse en un plazo de diez días hábiles, a partir de la
+publicación a que se refiere el párrafo anterior, pudiéndolo hacer en el propio Registro Público y de
+no ser posible así, deberá devolver el documento objeto de inscripción o anotación mediante
+control  de  salida  y  de  reingreso  al  Notario  Público,  funcionario  o  interesado  que  lo  haya
+presentado, para ser subsanado, sin que por ello se pierda su prelación, o se considere rechazado
+su registro.
+El Notario Público, funcionario o interesado tendrá diez días hábiles contados a partir de que le sea
+entregado el documento para subsanarlo y reingresarlo y en caso de no hacerlo en ese plazo se
+denegará su inscripción.
+Cuando para subsanar el documento se deba obtener otro documento administrativo no esencial
+para  el  otorgamiento  del  acto,  que  deba  ser  expedido  por  autoridad  administrativa  y  en  el
+instrumento obre constancia de haberse solicitado previamente a su otorgamiento, el Registrador
+suspenderá la anotación o inscripción hasta en tanto dicha autoridad lo expida.
+Cuando la inscripción o anotación se solicite por la vía electrónica, se observará el procedimiento
+señalado en el párrafo anterior en lo posible, por la misma vía electrónica, dentro de los mismos
+plazos y con los mismos efectos.
+El Registrador no podrá denegar la práctica de Asientos Registrales, sin conceder previa audiencia
+al solicitante del servicio. Efectuada la audiencia, si el Registrador confirma la denegación, su
+resolución debidamente fundada y motivada se publicará íntegramente en el Boletín.
+La calificación del Registrador podrá recurrirse por el solicitante del servicio o cualquier interesado
+ante el Director General. Si éste confirma la calificación, cualquiera de ellos podrá reclamarla en
+juicio.
+Si mediante sentencia ejecutoriada se resuelve que el título fue mal calificado e indebidamente
+rechazado y se ordena que se registre, la inscripción se practicará de inmediato y surtirá sus
+efectos desde que por primera vez se presentó el título, debiéndose tener en cuenta lo dispuesto
+en los artículos 8.23 al 8.28 del Código.
+Artículo 36.- El Registrador autorizará con su firma los asientos que practique. Hecho el registro,
+serán devueltos los documentos al que los presentó, con nota de inscripción firmada por el
+Registrador que contendrá: fecha de inscripción, número de folio, así como el texto íntegro del
+asiento. Cuando la solicitud del asiento sea por vía electrónica, por la misma vía se emitirá y
+enviará la nota de inscripción, firmada por el Registrador electrónicamente, que contendrá los
+datos ya mencionados.
+El Registrador sólo inscribirá y anotará lo que expresamente se le solicite y sea inscribible, por lo
+que no podrá actuar de oficio, salvo en los casos establecidos por el Código y esta Ley.
+Artículo  37.- Una  vez  inscrito  un  documento  o  denegada  su  inscripción,  y  efectuada  la
+publicación a que se refiere el artículo 21, los interesados gozarán de un plazo de 30 días hábiles
+para retirar sus documentos. Los documentos que no sean retirados en dicho término, se remitirán
+a un Archivo del Estado de México, para su Resguardo por el plazo que establezca la Ley.
+Artículo 38.- Los documentos a que se refieren las fracciones II y III del artículo 8.10 del Código
+serán resguardados en archivo electrónico y formarán parte del Sistema Informático del Registro
+para los efectos legales conducentes.
+11
+
+
+Artículo  39.-  El  Registrador  no  calificará  la  legalidad  de  la  sentencia,  orden  judicial  o
+administrativa que decrete un asiento, pero si concurren circunstancias por las que legalmente no
+deba practicarse, dará cuenta de esta situación a la autoridad ordenadora.
+Si a pesar de ello ésta insiste en que se cumpla su mandamiento, se procederá conforme a lo
+ordenado tomándose razón en el asiento correspondiente.
+Cuando  habiéndose  prevenido  a  la  autoridad  ordenadora,  ésta  no  reitere  expresamente  su
+requerimiento en el plazo de tres meses contados a partir de la notificación correspondiente, se
+dará por concluido el procedimiento y se publicará esa determinación en el Boletín.
+En los supuestos anteriores no habrá responsabilidad para el Registrador.
+Artículo 40.- Los Asientos Registrales que se practicarán en los folios, son los siguientes:
+I. Notas de presentación;
+II. Anotaciones preventivas;
+III. Inscripciones; 
+IV. Cancelaciones; y
+V. Rectificaciones.
+Todos  éstos  se  ordenarán  cronológicamente  y  de  acuerdo  a  su  naturaleza;  igualmente  se
+asentarán el número y la fecha de cualquier solicitud de entrada y trámite.
+Artículo 41.-  Las anotaciones preventivas a que se refieren las fracciones I, II, III, IV y VIII del
+artículo 8.54 del Código, se practicarán mediante mandamiento judicial y contendrán:
+I. Autoridad ordenadora;
+II. Expediente;
+III. Naturaleza del procedimiento;
+IV. Acción deducida;
+V. Resolución a cumplimentar; y
+VI. En su caso, suerte principal y accesorios legales.
+Artículo 42.- Las anotaciones preventivas que se asienten por suspensión o denegación de las
+inscripciones, se consignarán en los términos de la fracción V del artículo 8.54 del Código. En este
+caso, el Registrador asentará de oficio y de inmediato la anotación preventiva ordenada la cual
+caducará en un plazo de dos años, a fin de que si la autoridad judicial ordena que se registre el
+título rechazado, la inscripción definitiva surta sus efectos desde la fecha de su presentación, en
+los términos previstos por los artículos 8.23 al 8.28 inclusive, del Código.
+ 
+Artículo 43.- Las anotaciones relativas a fianzas y contrafianzas, contendrán cuando menos los
+siguientes datos:
+I. La autoridad ordenadora, en su caso;
+II. El otorgante;
+III. La afianzadora;
+12
+
+
+IV. Objeto y cuantía; y
+V. Vigencia.
+Artículo 44.-  Las inscripciones a que se refiere la fracción VII del artículo 8.54 del Código, se
+practicarán conforme al texto del decreto expropiatorio, de ocupación temporal o de declaración
+de limitación de dominio, publicado en el Diario Oficial de la Federación o en el Periódico Oficial
+“Gaceta del Gobierno”.
+Artículo 45.-  Una vez publicado el decreto por el cual se expropie, incorpore, desincorpore,
+destine o se declare la ocupación temporal y/o limitación del dominio de bienes inmuebles, deberá
+registrarse mediante el procedimiento establecido en el Reglamento.
+Artículo 46.- Para la inscripción de inmuebles que hayan cambiado de circunscripción territorial
+como resultado de las modificaciones a los límites territoriales entre el Estado de México y otras
+entidades federativas, o entre Municipios, deberá constar en escritura pública la cancelación del
+antecedente registral de origen.
+Artículo 47.-  La Oficina Registral  que practique las nuevas inscripciones por encontrarse el
+inmueble dentro de su jurisdicción territorial, deberá presentar aviso a la oficina registral o al
+Registro de origen, señalando que procedió la inscripción del inmueble, informando cuál es el
+antecedente en el que practicó dicha inscripción.
+Artículo 48.- Los asientos de las resoluciones judiciales en materia de amparo que ordenen la
+suspensión provisional o definitiva, contendrán:
+I. El Juzgado o Tribunal que las haya dictado;
+II. El número de expediente y el número y fecha del oficio mediante el que se comunique a la
+oficina registral la resolución respectiva;
+III. El nombre de los quejosos;
+IV. La naturaleza y efecto de la suspensión;
+V. El acto reclamado;
+VI. Los nombres de los terceros perjudicados, si los hubiere;
+VII. Las garantías otorgadas para que surta efectos la suspensión; y
+VIII. Las demás circunstancias relativas al incidente respectivo, cuando así lo disponga el Tribunal
+o el Juez del conocimiento.
+Artículo 49.- Todo documento que se refiera a diversos inmuebles o distintos actos, podrá ser
+inscrito total o parcialmente, ya sea a solicitud de parte interesada o bien cuando alguna de las
+inscripciones sea denegada, mediante resolución fundada y motivada. En la nota que haga el
+Registrador en el documento que motivó la inscripción parcial hará mención de ello, dejando
+constancia en dicha nota de esa circunstancia.
+Artículo 50.- Para que surtan efectos los Asientos Registrales, deberán contener nombre y Firma
+Electrónica del Registrador.
+Si faltare cualquiera de estos requisitos, el Registrador deberá subsanar dicha omisión en un plazo
+máximo de cinco días hábiles, a solicitud de cualquier interesado, quien podrá exhibir testimonio,
+acta o cualquier documento auténtico que reproduzca el título que dio origen al asiento. 
+13
+
+
+Si la omisión fuere de un Registrador que hubiese cesado en el ejercicio de su cargo, otro en
+funciones practicará el asiento respectivo, en el plazo mencionado con anterioridad.
+En todo caso, la falta de nombre y/o firma del Registrador, podrá ser subsanada de oficio.
+CAPÍTULO SEGUNDO
+DEL REGISTRO INMOBILIARIO
+Artículo 51.- El inmueble es la unidad básica registral en el Registro, el cual constará en un folio
+real electrónico.
+Los Asientos Registrales vigentes con relación a un inmueble que consten en asientos de libros o
+imágenes digitalizadas, pasarán a integrar el folio real electrónico para inmuebles mediante el
+procedimiento de Traslado.
+En  el  caso  de  que  los  antecedentes  registrales  vigentes  deban  reponerse  por  completo,  se
+producirá la apertura de Folio Electrónico por reposición de antecedentes.
+Artículo 52.- Cuando se inscriba la escritura de subdivisión de un inmueble, se abrirán cuantos
+folios reales resulten de la misma, debiendo abrir invariablemente el folio matriz del predio,
+cuando éste aún obre su registro en el Sistema de Libros.
+De igual manera, cuando se trate de la inscripción de una escritura de lotificación, se abrirán en
+forma consecutiva, cuantos folios reales resulten, mismos que deberán tener como antecedente el
+número  de  folio  matriz,  en  el  que  conste  la  descripción  de  la  superficie  o  poligonal  total
+autorizada, en la inteligencia de que cuando dicha poligonal haya resultado de una fusión o de
+varios inmuebles con registro en Libros, éstos invariablemente también, deberán contar con su
+folio real, convirtiéndose en los antecedentes del folio matriz.
+Artículo 53.- Cuando se fusionen dos o más inmuebles, se procederá a cancelar los folios, que
+dieron origen a la fusión y se abrirá un nuevo Folio Real Electrónico para el predio resultante.
+Tratándose de inmuebles registrados en Libros, invariablemente deberán ser pasados a folio real y
+convertirse en los antecedentes del nuevo folio.
+Artículo 54.-  En cualquier otro caso en que el acto a inscribir se refiera a la agrupación o
+disgregación de un inmueble, se observará lo dispuesto en los dos artículos anteriores y se
+trasladarán  todos  los  asientos  vigentes  o  que  no  hayan  sido  expresamente  cancelados.  Se
+requerirá el permiso de subdivisión o fusión sólo cuando la legislación vigente en la fecha en que
+se hubiese formalizado dicho acto jurídico así lo hubiere exigido.
+Artículo  55.-  En  los  folios  reales  electrónicos  de  los  inmuebles  modificados  por  fusión  o
+subdivisión, se harán constar los actos realizados y el número de los nuevos folios que resultaren.
+Artículo  56.- Cuando  exista  discrepancia  entre  el  bien  materia  de  inscripción  con  sus
+antecedentes registrales, podrá acreditarse su identidad con documentos oficiales idóneos, como
+el  plano  o  la  certificación  de  clave  y  valor  catastral,  siempre  y  cuando  la  superficie  no  se
+incremente. En caso contrario, procederá la inscripción mediante resolución o diligencia judicial.
+No  se  entenderá  que  existe  discrepancia,  cuando  identificado  el  inmueble  en  el  documento
+correspondiente según sus antecedentes registrales, se haga mención adicional de los cambios de
+nomenclatura, denominación del fraccionamiento o colonia, así como del Municipio, entre otros
+casos, por haberse modificado los límites de éste.
+Artículo 57.- En el folio real electrónico se asentarán los actos jurídicos o hechos contenidos en
+los títulos o documentos a los que se refiere el Código; aquéllos por los que se constituyan,
+reconozcan, transmitan, modifiquen o extingan derechos reales distintos del de propiedad, así
+como:
+14
+
+
+I. Las enajenaciones en las que se sujete la transmisión de la propiedad a condiciones suspensivas
+o resolutorias, así como la cláusula rescisoria a que se refiere el artículo 7.592 del Código; 
+II. Las ventas con reserva de dominio a que se refiere el artículo 7.594 del Código, haciendo
+referencia expresa al pacto de reserva;
+III. El cumplimiento de las condiciones a que se refieren las dos fracciones anteriores; 
+IV. Los fideicomisos traslativos o de garantía;
+V. La constitución del Patrimonio de Familia;
+VI. Los contratos de arrendamiento con las prevenciones que establece el Código;
+VII. La prenda de frutos pendientes en los términos del artículo 7.1068 del Código;
+VIII. El nacimiento de la obligación futura y el cumplimiento de las condiciones a que se refieren
+los artículos del 7.1127 al 7.1130 inclusive, del Código;
+IX.  Las afectaciones o limitaciones a que dé lugar la aplicación del Código Administrativo del
+Estado de México; y
+X. Los que de manera expresa señalen otros ordenamientos.
+Artículo  58.- Para  mayor  exactitud  de  las  inscripciones  sobre  inmuebles  se  observará  lo
+dispuesto por el Código, con arreglo a lo siguiente:
+I. El acto o derecho se asentará con la denominación que se le dé en el documento; 
+II. Tratándose de hipotecas, los asientos se efectuarán de acuerdo con lo dispuesto por los
+artículos que contempla el Libro Séptimo, Tercera Parte, Título Décimo Quinto, Capitulo I del
+Código; 
+III. Cuando se trate de derechos, los asientos deberán contener todos los datos que según el
+documento, los determine o limite; 
+IV. Cuando se modifique la nomenclatura de las calles o la numeración de los inmuebles, los
+titulares registrales de éstos podrán solicitar la modificación relativa en el folio real electrónico
+correspondiente, mediante cualquier constancia expedida por autoridad del Estado de México que
+acredite lo anterior; y
+V. Los nombres propios que deban figurar en la inscripción se consignarán literalmente, según
+aparezca en el título respectivo. También se asentará la fecha de nacimiento de las partes, la
+Clave Única del Registro de Población y/o el Registro Federal de Contribuyentes, y cualquier otro
+dato de identificación cuando consten en el título.
+El Formato Precodificado a que se refiere el artículo 33 de la presente Ley, deberá ajustarse al
+contenido de esta disposición.
+Artículo 59.- Tratándose de la constitución del régimen de propiedad en condominio, el Notario
+Público que solicite su inscripción, ingresará mediante un archivo electrónico firmado con su Firma
+Electrónica Notarial, las descripciones de cada unidad privativa resultante.
+Cuando  se  trate  de  la  inscripción  de  actos  relativos  a  las  diversas  unidades  resultantes  de
+condominios, lotificaciones, conjuntos urbanos, modificaciones, o subdivisiones, en proceso de
+inscripción, no se requerirá un certificado por cada una de ellas, siempre que se cuente con
+certificado vigente respecto del inmueble del que provengan.
+15
+
+
+En estos casos, las notas de presentación a que se refiere los artículos 8.23 al 8.28 inclusive del
+Código, se harán en el folio del inmueble de que provengan, debiendo el Registro expresarlo así
+en los certificados o constancias que expida y trasladarlo así al folio de la unidad objeto del acto,
+en cuanto el mismo sea creado. Lo mismo se aplicará para el caso de fusiones y subdivisiones.
+CAPÍTULO TERCERO
+DEL REGISTRO DE LAS PERSONAS JURÍDICAS COLECTIVAS
+Artículo 60.- La persona jurídica colectiva será la unidad básica de este Registro, identificándose
+con un número único correspondiente a cada folio electrónico.
+Las personas a que se refiere este capítulo serán aquellas previstas por el artículo 8.73 del Código
+y deberán tener su domicilio en el Estado de México.
+Artículo  61.-  Las inscripciones referentes a la  constitución  de  personas jurídicas colectivas,
+deberán contener los datos siguientes:
+I. Número y fecha del Instrumento, y nombre y número del Notario Público ante quien se hubieren
+constituido; 
+II. El nombre de los otorgantes;
+III. La razón social o denominación;
+IV. El objeto, duración y domicilio;
+V. El capital social, si lo hubiere y la aportación con que cada socio deba contribuir;
+VI. La manera de distribuirse las utilidades y pérdidas, en su caso;
+VII. El nombre de los integrantes de los órganos de administración y las facultades que se les
+otorguen;
+VIII. El carácter de los socios y de su responsabilidad ilimitada cuando la tuvieren; y
+IX. La fecha y la firma del Registrador.
+El Formato Precodificado a que se refiere el artículo 34 de la presente Ley, deberá ajustarse al
+contenido de esta disposición.
+Artículo 62.- Las inscripciones de la constitución de fundaciones o asociaciones de asistencia
+privada,  además  de  los  requisitos  señalados  en  el  artículo  anterior  que  le  sean  aplicables,
+contendrán la resolución aprobatoria de su constitución conforme a lo dispuesto por la Ley de
+Instituciones de Asistencia Privada para el Estado de México.
+Artículo 63.- Las demás inscripciones que se practiquen en los folios de las personas jurídicas
+colectivas,  expresarán  los  datos  esenciales  del  acto  o  contrato  según  resulten  del  Título
+respectivo. Los acuerdos sociales que reformen cualquiera de los datos mencionados en alguna de
+las fracciones de la III a la VIII del artículo 61 anterior, deberán protocolizarse ante Notario Público
+e inscribirse en el Folio respectivo.
+Artículo 64.- Las inscripciones que se practiquen en los folios relativos a personas jurídicas
+colectivas, en tanto se inscriban en el Registro, surtirán efectos entre los socios y sólo en beneficio
+de terceros.
+16
+
+
+Artículo 65.- Para los casos no previstos en este capítulo, serán aplicables a los asientos a que el
+mismo se refiere, las demás disposiciones del Código y de esta Ley, en lo que fueren compatibles.
+CAPÍTULO CUARTO
+DE LA RECTIFICACIÓN, REPOSICIÓN Y CANCELACIÓN 
+DE LOS ASIENTOS Y FOLIOS
+Artículo 66.- Los errores materiales en los asientos registrales serán rectificados de oficio cuando
+de la revisión de los antecedentes se advierta que puedan corregirse con base en la información
+de los asientos con los cuales se encuentran relacionados, indicando las causas y motivos que
+generaron dicha rectificación.
+De lo contrario, se hará con vista al testimonio original, testimonio ulterior del instrumento que dio
+origen al asiento a rectificar, o bien copia certificada de la escritura o instrumento.
+No será necesaria esta confrontación y los errores podrán rectificarse de oficio o a petición del
+interesado,  cuando  se  cuente  con  respaldos  en  el  Sistema  Informático  registral,  incluyendo
+imágenes digitalizadas, legajos o con el texto de la inscripción con las que los asientos erróneos
+estén relacionados.
+El Registrador deberá hacer la rectificación en un plazo de cinco días hábiles, a partir de que le
+sea solicitada.
+Cuando para la rectificación de una anotación o inscripción sea necesaria la consulta de algún
+instrumento o documento que obre depositado en el Archivo General de Notarías, tal consulta
+deberá hacerla el Registrador directamente en el mencionado Archivo, sin necesidad de pago de
+derecho alguno, en un plazo de cinco días hábiles.
+Lo mismo se observará en tratándose de reposición de folios, asientos o inscripciones.
+Artículo 67.- Se equipara al error material, la práctica de un asiento en folio distinto a aquél en
+que debió practicarse. Su rectificación se hará aún de oficio mediante el Traslado del asiento al
+folio correcto cuando se advierta.
+Artículo 68.- Rectificado un asiento, se rectificarán todos los que estén relacionados y contengan
+el mismo error, siempre que sea susceptible de llevarse a cabo.
+Artículo  69.-  Procede  la  reposición  de  los  asientos  registrales,  cuando  por  su  destrucción,
+mutilación o extravío se haga imposible realizar su consulta a fin de establecer el tracto sucesivo
+correspondiente.
+La reposición se hará con vista en el testimonio original, copia certificada del Archivo General de
+Notarías o bien testimonio ulterior o copia certificada del instrumento que dio origen al asiento o
+folio a reponer en los que, cuando fueren indispensables, consten datos de su inscripción en el
+Registro. 
+Tratándose de documentos privados, en los casos en los que el  asiento documental que se
+pretenda reponer cuente con respaldos en el Sistema Informático, procederá la reposición sin que
+sea obligatorio para el interesado exhibir la documentación original con sellos de registro.
+Artículo  70.-  En  todos  los  procedimientos  de  reposición,  deberá  elaborarse  un  acta
+circunstanciada por el Registrador, haciendo constar la información de mutilación, destrucción o
+extravío del asiento o folio sujeto a reposición.
+Artículo 71.- Todo antecedente registral repuesto hará mención de dicha circunstancia en el Folio
+Electrónico que se genere. 
+Artículo 72.- Los derechos temporales o vitalicios inscritos, podrán cancelarse:
+17
+
+
+A) A petición de quien acredite el interés legítimo; o
+B) Por fallecimiento, por expiración del plazo o por cualquier otra forma de extinción que pueda
+comprobarse, sin necesidad de resolución judicial.
+Artículo 73.- Las anotaciones preventivas se cancelarán:
+I. Cuando se conviertan en inscripción definitiva;
+II. Por caducidad en los términos del artículo 8.48 del Código, sin prejuzgar sobre el derecho de
+que se trate y sin perjuicio de que dicha anotación pueda realizarse nuevamente;
+III. A petición del titular del derecho anotado o de quien haya solicitado su anotación;
+IV. A petición del Notario Público que haya solicitado la anotación a que se refiere el artículo 8.24
+del Código; y 
+V. Cuando así lo ordene la autoridad competente o por sentencia firme.
+Artículo 74.- Las anotaciones preventivas a que se refiere el artículo 8.48 del Código caducarán a
+los tres años contados a partir de la fecha de su asiento en el Registro, salvo aquellas en las que la
+Ley fije un plazo más breve.
+Artículo  75.- Las  anotaciones  preventivas  que  se  originen  por  resoluciones  judiciales  o
+administrativas de carácter definitivo, así como las declaraciones de utilidad pública, no caducan.
+Las inscripciones y anotaciones se cancelarán cuando exista constancia de que los derechos que
+se enteraron por la prestación del servicio registral han sido objeto de devolución parcial o total. 
+CAPÍTULO QUINTO
+DE LA PUBLICIDAD Y DE LAS NOTIFICACIONES
+Artículo 76.- Los asientos registrales son públicos.
+En  todos  los  casos  en  que  de  cualquier  forma  se  consulte  un  asiento,  deberá  quedar
+expresamente determinada la identidad del solicitante. 
+El Boletín se publicará de manera electrónica.
+Los informes a las autoridades se harán mediante oficio. Las notificaciones que procedan se harán
+mediante el Boletín.
+CAPÍTULO SEXTO
+DE LAS CERTIFICACIONES
+Artículo 77. El Registro en términos de lo dispuesto por el artículo 8.4 del Código, emitirá:
+A) Certificaciones:
+I. Certificado de existencia o inexistencia de gravámenes y limitaciones.
+II. Certificado de inscripción; 
+III. Certificado de no inscripción; 
+IV. Certificado de no propiedad; 
+V. Copias Certificadas de antecedentes registrales;
+18
+
+
+VI. Certificación Literal del Asiento.
+VII. Certificación de Secuencia Registral o Tracto Sucesivo.
+VIII. Certificación de Compulsa.
+B) Informe sobre existencia o inexistencia de disposición testamentaria.
+C) Expedición de copias simples.
+Artículo 78.-  Cuando las solicitudes de los interesados o los mandamientos de autoridad no
+expresen con claridad o precisión la especie de certificación que se requiere, los bienes, personas
+o periodos a que debe referirse y, en su caso, los datos del asiento sobre cuyos contenidos debe
+versar el certificado, se suspenderá el trámite y se notificará mediante publicación en el Boletín y
+a las autoridades por oficio, a fin de que produzcan las aclaraciones que el caso requiera, mismas
+que deberán realizarse en un plazo que no exceda de diez días hábiles contados a partir de dicha
+publicación.
+Artículo 79.- Durante los días y horas hábiles podrán realizarse todos los trámites en el Registro
+y permitirse la consulta de los asientos mediante la expedición de constancias y certificaciones. El
+Director General deberá proveer todos los medios para su debido cumplimiento. 
+Los trámites ante el Registro podrán realizarse vía electrónica en el portal transaccional que para
+tal efecto se habilite, constando en la solicitud la firma electrónica avanzada o el Sello Electrónico
+del interesado. La presentación de solicitudes podrá realizarse en día y hora hábil o inhábil.
+Si una solicitud fue presentada en día y hora inhábil, esta se tendrá por presentada el primer día y
+hora hábil siguiente al de su interposición.
+Si una solicitud fue presentada en día hábil pero hora inhábil está se tendrá por presentada el
+primer día y hora hábil siguiente al de su interposición.
+Se tendrá por días y horas hábiles, aquellos que establezca el Registro mediante un acuerdo, que
+deberá ser publicado en el Periódico Oficial “Gaceta del Gobierno”.
+Artículo 80.- Al expedirse un certificado de existencia o inexistencia de gravámenes, de acuerdo
+a lo previsto en los artículos 8.23 al 8.28 inclusive, del Código; en el mismo se harán constar todos
+los asientos vigentes y los avisos definitivos que no se hayan convertido en inscripción. A los
+certificados deberá acompañarse siempre copia fiel del folio correspondiente.
+Las certificaciones a que se refiere el párrafo anterior no podrán ser denegadas, debiéndose
+expedir en los términos de los asientos respectivos y en su caso, se hará mención en ellas de las
+discrepancias existentes entre la solicitud y los asientos registrales; tampoco podrán denegarse en
+los casos en que el antecedente registral, contenido en libro o folio, se encuentre en Resguardo,
+debiendo al contestarse indicar los motivos de tal Resguardo.
+Artículo 81. El certificado de existencia o inexistencia de gravámenes al que se refiere el artículo
+77, fracción l se expedirá a más tardar el quinto día hábil siguiente, contado a partir de aquel en
+que se haya presentado la solicitud y el pago correspondiente.
+Los certificados de existencia o inexistencia de gravámenes de actos traslativos de dominio,
+respecto de inmuebles destinados a la actividad comercial o industrial de bajo impacto, menores
+a 2,000 metros cuadrados, se expedirán en un plazo de un día hábil, una vez reflejado el pago
+respectivo.
+19
+
+
+Artículo 82.-  Cuando las certificaciones no concuerden con los asientos a que se refieren, se
+estará al texto de éstos, quedando a salvo la acción del perjudicado por aquéllas, para exigir la
+responsabilidad correspondiente conforme a lo dispuesto en el Código y en la presente Ley y
+demás ordenamientos aplicables.
+Artículo 83.- Para hacer constar la existencia de asientos se expedirán copias certificadas de los
+mismos.
+Artículo 84.- Cuando la solicitud de expedición de certificados de no inscripción tenga omisiones
+o deficiencias, el Registro lo notificará al interesado mediante publicación en el Boletín, a fin de
+que el solicitante dentro de un término de diez días contados a partir de la notificación las corrija,
+apercibido que de no hacerlo se tendrá por denegada la solicitud. 
+Artículo 85.-  Una vez recibida la solicitud del certificado de no inscripción, se expedirá en un
+plazo, que no exceda de cinco días.
+CAPÍTULO SÉPTIMO
+DEL PROCEDIMIENTO ADMINISTRATIVO DE INMATRICULACIÓN 
+Artículo  86.- El  procedimiento  administrativo  de  inmatriculación,  deberá  promoverse  por  el
+titular del derecho consignado en el documento que se exhiba o por persona legitimada para ello,
+ante la oficina registral que corresponda a la circunscripción del inmueble o en el portal que para
+tal efecto habilite el Registro.
+Artículo 87.- La inmatriculación iniciará con un escrito en formato físico o electrónico en el que el
+solicitante deberá expresar bajo protesta de decir verdad:
+I. Autoridad a la que se dirige;
+II. Nombre del peticionario y, en su caso, el de quien promueva en su nombre;
+III. Domicilio dentro de la circunscripción territorial de la oficina registral o correo electrónico para
+recibir notificaciones o señalar los estrados de la misma;
+IV. Descripción y ubicación del inmueble, con su denominación si la tiene; medidas, superficie y
+colindancias; nombres y domicilios de sus colindantes actuales, en su caso, señalando la población
+y el municipio; 
+V. Causa y origen de su posesión y acreditación del tiempo de ocupación del inmueble, fecha de
+adquisición del mismo, mención del nombre de la persona de quien adquirió la posesión y de ser
+posible el nombre del original o anterior poseedor;
+VI. Firma autógrafa, electrónica o el sello electrónico de la persona que suscribe el escrito.
+Artículo 88.- A la solicitud anterior se deberán agregar los siguientes documentos:
+I. Instrumento que la ley reconozca como válido para transmitir bienes inmuebles y que cumpla
+con los requisitos formales del Código y copia del traslado de dominio;
+II. Copia de identificación oficial del interesado promovente o del apoderado legal, en su caso;
+III. Certificado de no inscripción expedido por la oficina registral correspondiente, que demuestre
+que el inmueble no está inscrito a nombre de persona alguna,  que no forma parte de otro
+inmueble con mayor superficie, que esté inscrito a favor de una persona distinta a la señalada en
+la solicitud o bien que no sea del patrimonio estatal;
+IV. Constancia municipal que acredite que el inmueble de que trata la solicitud se encuentra al
+corriente en el pago del impuesto predial;
+20
+
+
+V. Plano descriptivo y de localización del inmueble o plano manzanero expedido por autoridad
+catastral municipal;
+VI. Certificación del Secretario del Ayuntamiento de posesión del inmueble y de que no forma
+parte de los bienes del patrimonio municipal;
+VII. Constancia o constancias expedidas por la autoridad agraria competente de que el inmueble
+no se encuentra ubicado en ejidos o tierras comunales;
+VIII. Documento que acredite la personalidad cuando no se gestione a nombre propio;
+IX. Comprobante de pago de derechos expedido por la oficina, institución bancaria o centro
+comercial autorizado o, en su caso, línea de captura que acredite el pago de los mismos; y
+X. Avalúo catastral de autoridad estatal o municipal o de especialista en valuación inmobiliaria
+con registro vigente, cuando proceda.
+Si el escrito en el que se promueve el procedimiento se presenta a través de la página de Internet
+que el Registro habilite, se podrán anexar los documentos descritos en las fracciones anteriores en
+formato electrónico.
+Si el encargado de la sustanciación del procedimiento de inmatriculación tiene un motivo fundado
+de que los documentos electrónicos anexados pudieran ser falsos, deberá requerir al interesado
+para que un plazo no mayor a tres días hábiles acuda a la oficina registral de su circunscripción
+territorial, para que se realice el cotejo de los documentos físicos con los exhibidos vía electrónica.
+Si el promovente del procedimiento de inmatriculación exhibe documentos falsos, ya sea en
+formatos físicos o digitales, el funcionario encargado de la tramitación de este deberá dar vista al
+Ministerio Público para los efectos conducentes.
+Artículo 89.-  Reunidos los requisitos señalados en los artículos 86 y 87 de la presente Ley, el
+Registrador  elaborará  cédula  que  contendrá  nombre  del  promovente,  número  de  orden  de
+presentación y número progresivo del expediente, que incluirá la referencia al año en que inicia,
+entregando copia al interesado.
+Para el caso de la presentación electrónica del escrito en el que se promueve el procedimiento de
+inmatriculación, el sistema generará un acuse de recibo en el que se encontrarán los datos
+descritos en el párrafo anterior.
+El número de expediente se anotará en todas las promociones y actuaciones que se produzcan
+con el mismo.
+Artículo 90. El Registrador estará facultado para requerir al solicitante de la inmatriculación, los
+datos,  documentos  o  constancias  que  sean  necesarios  cuando  considere  incompleta  la
+justificación del derecho del promovente, siguiendo las reglas establecidas en esta Ley, respecto
+de la entrega de documentos físicos o electrónicos.
+Para efectos del párrafo anterior, el Registrador dictará un acuerdo apercibiendo al solicitante para
+que en un término no mayor a quince días hábiles, exhiba o proporcione los datos, documentos o
+constancias solicitadas, el cual hará de su conocimiento a través de la publicación que se fije en
+los estrados de cada oficina registral y surtirá sus efectos a partir de la fecha de publicación del
+mismo.
+21
+
+
+Si en el plazo señalado no se cumple con lo requerido, se desechará la solicitud poniendo a
+disposición del interesado la misma y los documentos originales a ella agregados, cancelando, en
+consecuencia, los asientos de presentación respectivos.
+Artículo 91.- Una vez reunidos los requisitos señalados en los artículos 86 y 87 de la presente
+Ley, el Registrador dictará un acuerdo ordenando las notificaciones a los colindantes mencionados
+en la solicitud, habilitando para tal efecto al servidor público de la oficina registral que estime
+conveniente.
+Artículo 92.- El servidor público habilitado deberá asentar en la cédula de notificación la hora,
+día, mes y año, el nombre de la persona con quien se entendió la diligencia de notificación, quien
+se identificará plenamente, el punto cardinal con el que colinda el inmueble que ha sido solicitado
+inmatricular, así como la certificación de que fue realizada dicha notificación.
+La cédula contendrá además, el nombre de la persona y firma del colindante y del notificador, en
+su caso, la razón por la cual el colindante o la persona con quien se entendió la diligencia se negó
+a firmar.
+Si uno de los colindantes no se encuentra en el momento de la notificación, el servidor público
+habilitado  hará  la  notificación  en  términos  de  lo  dispuesto  por  el  Código  de  Procedimientos
+Administrativos del Estado de México.
+Artículo 93.- Una vez efectuada la notificación respectiva, el Registrador ordenará la publicación
+de un extracto de la solicitud de inmatriculación, a costa del interesado, por tres veces de tres en
+tres días, en el Periódico Oficial "Gaceta del Gobierno" y en el periódico de mayor circulación en el
+lugar de ubicación del inmueble.
+Artículo 94.- Para oponerse al procedimiento establecido en este Capítulo se requiere:
+I. Presentación de un escrito, en formato físico o electrónico, que deberá contener:
+a) Nombre y domicilio del oponente;
+b) Interés legítimo que le asista para oponerse;
+c) Causas y fundamentos en los que basa su oposición;
+II. Título, documento o constancia que le acredite como legítimo propietario o poseedor del bien
+inmueble que se pretenda inmatricular; y
+III. Que no se haya dictado la inmatriculación correspondiente.
+IV. Firma autógrafa o electrónica o el sello electrónico de la persona que suscribe el escrito.
+Si el expediente se encuentra en la Dirección General para su resolución, el Registrador remitirá
+de  inmediato  la oposición,  a efecto de  que el  Director General lo tome en  consideración  al
+momento de emitir la resolución respectiva.
+Los documentos descritos en la fracción II de este artículo podrán entregarse en formato físico o
+electrónico, siguiéndose las reglas establecidas en el artículo 79 de esta Ley.
+Artículo  95.-  Si  se  estima  fundada  la  oposición,  el  Registrador  dará  por  terminado  el
+procedimiento administrativo de inmatriculación o. en su caso, formulará un acuerdo mediante el
+cual se determine la continuación del procedimiento; en uno u otro casos se dejarán a salvo los
+derechos del promovente o del opositor, comunicándolo al Director General.
+22
+
+
+Artículo  96.-  Integrado  debidamente  el  expediente  de  inmatriculación  administrativa,  el
+Registrador lo enviará a la Dirección General para su resolución; el Registrador integrará dicho
+expediente sólo con los documentos previstos en la ley, los que se deriven de ésta o sean
+necesarios para la acreditación de un derecho.
+Artículo 97.- El Director General tendrá la facultad de requerir por una sola vez al Registrador,
+mediante acuerdo interno, para que se agreguen al expediente los documentos que considere
+necesarios en un término de cinco días hábiles y cuando estime que no se encuentra debidamente
+acreditada la procedencia de la inmatriculación, ésta se negará en definitiva, dejando a salvo los
+derechos del promovente.
+Artículo 98.- Con vista en el expediente respectivo, el Director General dictará resolución. Si ha
+procedido la inmatriculación, se ordenará su inscripción en la oficina registral que corresponda,
+previa asignación de folio, sello y registro de salida en el Libro de Gobierno.
+En caso contrario, emitirá una resolución negando la procedencia de la inmatriculación; con vista a
+la misma el Registrador dictará un acuerdo, haciéndolo del conocimiento al promovente a través
+de la oficina registral correspondiente
+CAPÍTULO OCTAVO 
+DEL RESGUARDO
+Artículo 99.- Cuando el Registrador detecte alguna anomalía u omisión en cualquiera de los libros
+o folios electrónicos, pondrá en Resguardo el libro o folio electrónico de que se trate, previa
+resolución  motivada  y  fundada,  que  al  efecto  dicte,  publicándose  ésta  con  sujeción  al
+procedimiento que se establece en los artículos siguientes.
+Asimismo, se dictaminará el Resguardo de aquellos documentos que carecen de los elementos y
+requisitos que puedan probar su correcta elaboración y validez como asientos registrales.
+Igualmente  se  pondrán  en  Resguardo  los  antecedentes  registrales  por  sentencia,  resolución
+judicial o administrativa que lo ordene.
+Artículo  100.-  Cuando  las  anomalías  u  omisiones  en  los  antecedentes  registrales  sean
+corregibles mediante los procedimientos establecidos en el Código, esta Ley o su reglamento, no
+serán objeto de Resguardo. 
+Artículo 101.- El Resguardo de los libros o folios electrónicos del Registro, pondrá en custodia y
+vigilancia el libro o folio de que se trate, previa resolución motivada y fundada, que al efecto se
+dicte.
+La resolución de resguardo:
+I. Se hará del conocimiento en un plazo de 10 días hábiles a partir de su fecha a quien aparezca
+como titular o titulares de la inscripción, a sus sucesores o causahabientes o acreedores, en su
+caso, o a su representante legal; 
+II. Se entregará un ejemplar de la resolución dentro del plazo señalado en el punto anterior:
+A) Tratándose de inmuebles, en la finca a que se refiere la inscripción o en el domicilio del titular
+registral;
+B) Tratándose de persona jurídica colectiva, en el domicilio de ésta o en cualquier domicilio de
+alguno de sus integrantes;
+III. Se publicará dentro del mismo plazo en el Boletín, el contenido íntegro de la resolución; y
+23
+
+
+IV. En  todo  caso  deberá  dejarse  constancia  de  la  resolución  en  el  folio  electrónico  o  libro
+respectivo. 
+Artículo 102.-  En el caso del  artículo anterior, el titular registral  del inmueble inscrito, sus
+sucesores o cualquier otro interesado, así como el representante legal de la persona jurídica
+colectiva de que se trate, podrán en cualquier momento, exhibir al Registro, los elementos que
+subsanen las anomalías u omisiones observadas en el folio electrónico o libro, en cuyo caso, el
+Registrador en un plazo no mayor a diez días hábiles dictará resolución que deje sin efecto el
+Resguardo, de todo lo cual, se dejará razón en el propio folio electrónico o libro, con lo que
+quedará liberado.
+En caso de demostrarse que la anomalía u omisión es imputable al propio Registro Público, el
+Registrador también dejará sin efecto el Resguardo, ordenando subsanar en un plazo de diez días
+hábiles la anomalía u omisión y asentará razón de todo ello en el folio electrónico o libro en
+cuestión, con lo que serán liberados.
+Artículo 103.-  Si los elementos presentados no son suficientes a juicio del Registrador para
+subsanar las anomalías u omisiones observadas en el folio electrónico o libro, el Registrador en un
+plazo no mayor de diez días hábiles, dictará nueva resolución fundada y motivada en el sentido de
+que el folio electrónico o libro continúe en Resguardo, se asentará en uno u otro, razón que así lo
+exprese, lo cual, no impedirá que se expidan certificaciones a que se refiere el artículo 77 de la
+presente Ley, en las que bajo la estricta responsabilidad del Registrador, se indicará que el folio
+electrónico o libro está sujeto a tal Resguardo. 
+En  todo  momento  el  interesado  podrá  aportar  nuevos  elementos  para  liberar  el  Resguardo.
+Igualmente el Registrador podrá liberar el folio electrónico o libro si así lo considera, dejando
+constancia siempre de la liberación.
+El interesado en cualquier momento podrá recurrir a la Autoridad Judicial competente a solicitar la
+liberación correspondiente.
+CAPÍTULO NOVENO
+DEL RECURSO DE INCONFORMIDAD
+Artículo 104.- El solicitante del servicio podrá interponer el recurso de inconformidad, contra la
+calificación del Registrador que suspenda o deniegue la inscripción, anotación, cancelación o
+liberación del Resguardo.
+Artículo 105.- El recurso de inconformidad, se sustanciará ante el Director General en la forma y
+términos  previstos  por  el  artículo  siguiente,  quien  ordenará  que  se  practique  la  anotación
+preventiva a que se refiere el Artículo 8.54 fracción V, del Código.
+Artículo 106.- El recurso de inconformidad deberá interponerse por escrito en formato físico o
+electrónico, en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la
+publicación de la suspensión o denegación por parte del Registrador en el Boletín. El Director
+General  en  un  plazo  no  mayor  de  quince  días  hábiles  siguientes  a  su  interposición,  previa
+audiencia del interesado, resolverá el recurso, dando por terminada la instancia.
+Los escritos deberán contener la firma autógrafa o electrónica avanzada o el sello electrónico de la
+persona que promueve el recurso de inconformidad, según el formato en el que sea presentada la
+promoción. Además se podrán presentar documentos en formato físico o electrónico, siguiéndose
+las reglas establecidas en esta Ley.
+El recurso de inconformidad será desechado de plano en los siguientes casos: 
+I. Cuando falte la firma del interesado. 
+24
+
+
+II. Ante la falta de legitimación del recurrente. 
+III. Cuando haya salida sin registro a petición de parte, una vez calificado. 
+IV. Cuando no se haya subsanado mediante los documentos idóneos.
+V. Cuando se interponga fuera de plazo.  
+Artículo 107.- Si la resolución del Director General fuese favorable al recurrente, se remitirá al
+Registrador  para  su  inmediato  cumplimiento.  En  todo  caso  de  suspensión  o  denegación,  el
+Registrador asentará, de inmediato, anotación preventiva que caducará en un plazo de dos años,
+a fin de que, si la autoridad jurisdiccional ordena que se registre el título rechazado, la inscripción
+definitiva surta sus efectos desde la fecha de su presentación, en los términos previstos por los
+artículos 8.23 al 8.28 inclusive, del Código.
+TÍTULO QUINTO
+CAPÍTULO ÚNICO
+DE LA RESPONSABILIDAD DEL PERSONAL DEL REGISTRO PÚBLICO
+Artículo 108.- El Director General, los Registradores y demás servidores públicos adscritos al
+Instituto, son responsables por los delitos o faltas que cometan en el ejercicio de su función, en los
+términos que previenen las leyes penales del fuero común y federales.
+De  la  responsabilidad  civil  en  que  incurran  en  el  ejercicio  de  sus  funciones  conocerán  los
+tribunales del fuero común. De la responsabilidad administrativa en que incurran por violación a
+los preceptos del Código, de esta Ley y su Reglamento, conocerán las autoridades competentes.
+En los supuestos establecidos en este capítulo se deberá observar lo dispuesto en el artículo 7.172
+del Código.
+Artículo 109.- La autoridad competente sancionará al Director General, Registradores y demás
+servidores públicos adscritos al Instituto, por las violaciones en que incurran a los preceptos del
+Código,  de  esta  Ley,  y  demás  disposiciones  aplicables,  conforme  lo  establece  la  Ley  de
+Responsabilidades Administrativas del Estado de México y Municipios.
+Artículo 110.- Se sancionará al Director General, a los Registradores y a los demás servidores
+adscritos al Instituto, con amonestación:
+I. Por retraso injustificado imputable al servidor público de que se trate en la realización de una
+actuación o desahogo de un trámite relacionado con un servicio solicitado;
+II. Por no anotar los avisos a que se refiere la presente Ley; y
+III. Cuando sin causa justificada se niegue la atención a los usuarios del servicio.
+Artículo 111.- Se sancionará al Director General, a los Registradores y a los demás servidores
+adscritos al Instituto, con multa de uno a doce veces el valor mensual de la Unidad de Medida y
+Actualización vigente en el momento del incumplimiento:
+I. Por reincidir, en la comisión de alguna de las faltas a que se refiere el artículo anterior; 
+II. Por provocar dolosamente un error en un asiento registral;
+25
+
+
+III. Por solicitar documentación que no se prevea en la presente Ley, su Reglamento y demás
+ordenamientos jurídicos aplicables en la materia
+Artículo 112.- Se sancionará con la cesación del ejercicio de la función a la que estén asignados
+los servidores públicos del Instituto, en los siguientes casos:
+I. Por incurrir reiteradamente en alguno de los supuestos señalados en el artículo anterior;
+II. Por incurrir en reiteradas deficiencias administrativas en el ejercicio de su función, y las mismas
+hayan  sido  oportunamente  advertidas  al  servidor  público  de  que  se  trate  por  la  autoridad
+competente, siendo aquél omiso en corregirlas;
+III. Por falta grave de probidad, o notorias deficiencias o vicios debidamente comprobados en el
+ejercicio de sus funciones; 
+IV. Por uso indebido del sistema registral; y
+V. Por permitir la suplantación de su persona o firma.
+Artículo  113.-  El  trámite,  procedimiento  y  emisión  de  las  resoluciones  respectivas  que  se
+consignan en este Capítulo se tramitarán ante el órgano de control interno correspondiente. 
+TÍTULO SEXTO
+CAPÍTULO ÚNICO
+DEL ARCHIVO GENERAL DE NOTARIAS
+Artículo 114.- El Archivo General de Notarías del Estado de México, depende del Instituto de la
+Función Registral, quién a través de la unidad correspondiente, ejercerá su administración y
+organización procurando la conservación del patrimonio histórico contenido en los protocolos
+notariales.
+Artículo  115.-  El  Archivo  tiene  a  su  cargo  la  custodia,  conservación  y reproducción  de  los
+documentos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos de los
+notarios y demás documentos que en él se depositen. El Archivo tiene su sede en la capital del
+Estado, pudiendo establecerse oficinas regionales de acuerdo a las necesidades del servicio.
+Artículo 116.- El Titular del Archivo, ejercerá las atribuciones que le son encomendadas en la Ley
+del Notariado del Estado de México, en su Reglamento y en el Manual General de Organización del
+Instituto de la Función Registral.
+Artículo  117.-  El  Archivo,  tiene  la  naturaleza  jurídica  de  ser  público,  cuando  se  trate  de
+solicitudes  de  consulta,  expedición  de  testimonios  ó  copias  certificadas  relacionadas  a
+documentos que tengan más de cincuenta años de antigüedad; y para los documentos que no
+tengan  esos  años,  sólo  se  podrán  mostrar  ó  expedir  reproducciones  a  los  solicitantes  que
+acrediten interés jurídico, a los Notarios Públicos y a las Autoridades Judiciales, Administrativas y
+Fiscales.
+Artículo 118.-  Si a la fecha de la consulta o de la petición de que se trate, la antigüedad del
+documento tiene más de cien años y menos de ciento cincuenta, los mismos únicamente podrán
+analizarse y consultarse bajo la supervisión estricta de un historiador designado para tal efecto
+por el Archivo. Para su reproducción, se requerirá la autorización del Director General.
+Si a la fecha de la consulta o de la petición de que se trate, la antigüedad del documento tiene
+más de ciento cincuenta años, los mismos únicamente podrán analizarse y consultarse bajo la
+supervisión  estricta  de  un  historiador  designado  para  tal  efecto  por  el  Archivo.  Para  su
+reproducción,  se  requerirá  la  autorización  del  Director  General,  a  través  de  los  acuerdos  o
+convenios respectivos. Esta reproducción sólo se llevará a cabo para fines científicos, docentes y
+26
+
+
+culturales, mediante tecnología que garantice el cuidado y la preservación de dichos documentos
+y a través de instituciones gubernamentales o de derecho privado, o particulares, peritos en el
+cuidado extremo de los mismos, y en la aplicación de dicha tecnología, con la participación y
+supervisión de un historiador designado por el Archivo.
+Artículo 119.-  El titular y los demás empleados del Archivo tendrán la obligación de guardar
+secreto de la información y trámites relacionados con la documentación que obre en el mismo. El
+incumplimiento de dicho secreto será sancionado administrativamente en los términos de la Ley
+de Responsabilidades Administrativas del Estado de México y Municipios y penalmente conforme
+lo prevengan las disposiciones penales aplicables.
+Artículo 120.- El titular del Archivo para la aplicación de las sanciones que procedan, comunicará
+oportunamente a la Dirección General del Instituto, los casos en que los Notarios en el ejercicio de
+sus funciones no cumplan con las disposiciones de la Ley del Notariado y otros ordenamientos,
+para los efectos que correspondan.
+Artículo 121.-  La pérdida, alteración, deterioro, aparición por extravío y la solicitud para la
+inutilización del sello de autorizar, se hará del conocimiento del Archivo conforme a lo dispuesto
+por el Artículo 49 de la Ley del Notariado del Estado de México.
+Artículo 122.- Si con motivo del ejercicio de las atribuciones que le correspondan al Archivo, su
+Titular se percata de que el instrumento sobre el cual se va a expedir alguna certificación, carece
+de los siguientes elementos:
+I. Sello al margen superior izquierdo en alguna de las hojas;
+II. Sello en la autorización preventiva o definitiva de la escritura; 
+III. Firma en la autorización preventiva o definitiva de la escritura;
+IV. Media firma o rúbrica en las notas marginales, en su caso;
+V. Leyenda “Ante mi”; y
+VI. Salvatura de lo entrerrenglonado o testado.
+Estos casos, el Titular del Archivo expedirá el testimonio o copia certificada solicitados, con la
+mención en la certificación de tales omisiones, con el señalamiento de tratarse de una escritura
+irregular y sin prejuzgar sobre las consecuencias legales de las mismas.
+Cuando el documento de que se trate, contenga firma ostensiblemente diferente a la del Notario
+que autoriza, se procederá en los mismos términos a que se refiere el párrafo que antecede.
+Con independencia de lo anterior, si el interesado consulta al Colegio de Notarios del Estado de
+México  acerca  de  la  posibilidad  de  regularizar  dichas  anomalías,  éste,  bajo  su  más  estricta
+responsabilidad, coadyuvará con él, ante la instancia competente.
+TÍTULO SÉPTIMO
+CAPÍTULO ÚNICO
+DE LA PROFESIONALIZACIÓN DE LOS SERVIDORES PÚBLICOS
+Artículo  123.-  El  instituto,  apoyado  por  Instituciones  Académicas  de  Enseñanza  Superior  y
+Especializadas, promoverá la capacitación, actualización y profesionalización del personal que
+labora en las Oficinas Registrales y en las Unidades Administrativas que forman el propio Instituto,
+para establecer el Servicio Profesional de Carrera. 
+T R A N S I T O R I O S
+27
+
+
+PRIMERO. - Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+SEGUNDO. - Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el
+Periódico Oficial “Gaceta del Gobierno”.
+TERCERO. - Se abroga el Reglamento del Registro Público de la Propiedad del Estado de México
+publicado en el Periódico Oficial “Gaceta del Gobierno” del Estado de México el día 18 de febrero
+del año 2009 y todas las disposiciones y criterios registrales que se opongan a la presente Ley
+quedan derogados.
+CUARTO. - Se reforma el Libro Octavo del Código Civil del Estado de México del 07 de junio del
+año 2002 y todas las disposiciones y criterios registrales que se opongan al presente Decreto
+quedan derogadas.
+QUINTO. - El Reglamento correspondiente a la presente Ley deberá expedirse en un plazo de 90
+días hábiles contados a partir de su publicación.
+SEXTO. - El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
+SÉPTIMO. - Los recursos en trámite a la entrada en vigor del presente Decreto, se acogerán a las
+disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
+OCTAVO. - El Traslado de información que se haga para la apertura de los Folios, con base en los
+datos de libros, imágenes digitalizadas, o cualquier otro documento del Acervo Registral, se hará
+en los términos existentes, sin calificación alguna. De todo traslado deberá dejarse constancia en
+su fuente, señalando el número de Folio que le corresponda e incluirá todos los asientos vigentes. 
+Además deberá asentarse el aviso definitivo, aún cuando no se haya convertido en inscripción,
+regla que deberá observarse en cualquier caso de apertura de Folio Real Electrónico.
+NOVENO. - Para el caso de errores en el traslado de la información registral, se estará a lo que
+dispone este Código Civil y la Ley Registral, en tratándose de la corrección de errores materiales. 
+DÉCIMO- Los documentos ingresados que obren en el Registro, ya sea inscritos, suspendidos o
+denegados, con una antigüedad mayor a diez años, contados a partir de la publicación de la
+presente Ley que no hayan sido retirados por los interesados, deberán remitirse a un Archivo en el
+Estado de México.
+DÉCIMO PRIMERO. - Respecto de todos los libros o legajos que se encuentren en resguardo a la
+entrada en vigor del presente Decreto, deberá procederse como se establece en la presente Ley,
+en un plazo no mayor de tres meses contados a partir de su publicación.
+DÉCIMO SEGUNDO. - Las referencias en Ley a anotaciones marginales se harán en el Folio.
+DÉCIMO  TERCERO.  -  Las  Oficinas  Registrales  mientras  no  operen  con  sistema  electrónico,
+seguirán haciendo sus funciones en soporte de papel.
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.  
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de
+México, a los once días del mes de agosto del año dos mil once.
+28
+
+
+APROBACION:
+11 de agosto de 2011
+PROMULGACION:
+18 de agosto de 2011
+PUBLICACION:
+18 de agosto de 2011
+VIGENCIA:
+Este  Decreto  entrará  en  vigor  a  los  quince  días  siguientes  al  de  su
+publicación en el Periódico Oficial “Gaceta del Gobierno”.
+TABLA DE REFORMAS, ADICIONES Y DEROGACIONES
+FE DE ERRATAS.- Publicada en la Gaceta del Gobierno el 31 de agosto de 2011.
+DECRETO 463.- Por el que se reforman las fracciones I, III y VI y los párrafos tercero y cuarto
+del artículo 21, el artículo 31, el artículo 32, el párrafo primero, la fracción I, incisos A, B y C, la
+fracción II incisos A y B del artículo 33, el primer párrafo y la fracción I del artículo 77, el artículo
+81, y se adicionan  los numerales 1 y 2, un segundo párrafo del inciso A, los numerales 1 y 2, los
+párrafos segundo, tercero y cuarto del inciso B, los párrafos segundo y. tercero del inciso C de la
+fracción I del artículo 33, un párrafo sexto al artículo 34, los incisos A y las fracciones VI, VII y VIII,
+B y C al artículo 77 y  la fracción III al artículo 111. Publicado en la Gaceta del Gobierno el 03 de
+julio de 2015.
+DECRETO 57.-  Por el que se reforma las fracciones III, XIII, XIV, XXIII y XXIV del artículo 3, el
+artículo 24, el artículo 30, el artículo 86, el primer párrafo y la fracción III del artículo 87, el
+segundo párrafo del artículo 89, el primer párrafo del artículo 90, la fracción I del artículo 94, el
+artículo 106, se adiciona la fracción XXV al artículo 3, cuatro párrafos al artículo 79, la fracción VI
+al artículo 87, tres párrafos al artículo 88, el segundo párrafo recorriéndose el subsecuente al
+artículo 89, la fracción IV y un tercer párrafo al artículo 94. Publicado en la Gaceta del Gobierno el
+06 de enero de 2016.
+FE DE ERRATAS DEL DECRETO NÚMERO 57 DE LA “LIX” LEGISLATURA DEL ESTADO DE
+MÉXICO,  PUBLICADO  EN  LA  “GACETA  DEL  GOBIERNO”  NÚMERO  2,  DE  FECHA  6  DE
+ENERO  DEL  AÑO  2016,  SECCIÓN  QUINTA.-  Publicada  en  el  Periódico  Oficial  “Gaceta  del
+Gobierno” el 3 de febrero de 2016.
+DECRETO 137.- Por el que se adiciona un segundo párrafo al artículo 75. Publicado en la Gaceta
+del Gobierno el 18 de octubre de 2016.
+DECRETO 178.- Por el  que se reforma el  párrafo primero del artículo 111.  Publicado en el
+Periódico Oficial Gaceta del Gobierno el 20 de diciembre de 2016.
+DECRETO 179.- Se reforma los artículos 44, 109 y 119 de la Ley Registral para el Estado de
+México. Publicado en el Periódico Oficial Gaceta del Gobierno el 22 de junio de 2023.
+29
+
+

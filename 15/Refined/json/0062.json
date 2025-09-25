@@ -1,0 +1,1783 @@
+{
+  "0062.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto número 252 LXI Legislatura LEY DEL NOTARIADO DEL ESTADO DE MÉXICO",
+    "Año_publicación": null,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- La presente Ley es de orden público y de interés social, tiene por objeto regular a la Institución del Notariado y la función de los notarios en el Estado de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Son autoridades para la aplicación de esta Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La persona titular del Poder Ejecutivo del Estado, y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La Consejería Jurídica, por sí o por conducto de la Dirección General de Procedimientos y Asuntos Notariales."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- Para los efectos del presente ordenamiento, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Archivo, al Archivo General de Notarías del Estado de México; I Bis. Firma Electrónica Notarial: a la Firma Electrónica de un Notario Público, la cual se considera con igual valor jurídico que su firma autógrafa y su sello de autorizar en términos de la Ley de Gobierno Digital del Estado de México y Municipios, la presente Ley y demás disposiciones aplicables."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Colegio, al Colegio de Notarios del Estado de México;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ley, a la Ley del Notariado del Estado de México; IV. Reglamento, al Reglamento de la Ley del Notariado del Estado de México;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Consejería Jurídica, a la Consejería Jurídica del Ejecutivo Estatal."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Plataforma notarial, a la herramienta tecnológica que contiene diversos sistemas automatizados de información que permite a los notarios realizar las funciones y actos jurídicos que prevé esta Ley y su Reglamento."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Función Notarial, conjunto de acciones de orden público que el notario realiza, derivado de la fe pública que le es delegada por el Estado, conforme a las disposiciones de esta ley, para garantizar el buen desempeño y la seguridad jurídica en el ejercicio de dicha actividad autenticadora al servicio de la sociedad."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Notario es el profesional del derecho a quien el Gobernador del Estado ha otorgado nombramiento para ejercer las funciones propias del notariado, investido de fe pública.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- El notario tiene a su cargo, en los casos en que no estén encomendadas expresa y exclusivamente a las autoridades, las siguientes funciones de orden público que le soliciten los interesados:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Dar formalidad a los actos jurídicos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dar fe de los hechos que le consten;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tramitar procedimientos no contenciosos en los términos de esta Ley; IV. Tramitar procedimientos de arbitraje, de conciliación y mediación en términos de las disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- La primera de estas funciones se llevará a cabo observando los requisitos del acto en su formación y autentificando la ratificación que de éstos hagan los interesados ante su presencia. La segunda, mediante su intervención de fedatario del hecho. La tercera y la cuarta, observando las formas y las disposiciones legales aplicables, tramitando los procedimientos conforme a la voluntad y acuerdo de las partes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- La función notarial se ejerce en el Estado de México por los notarios titulares de una notaría de número y por quienes los sustituyan conforme a esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- Los notarios podrán ejercer su función en todo el territorio del Estado, debiendo establecer su residencia en el municipio para el cual fueron nombrados; los actos que autoricen y los hechos de los que den fe pueden referirse a cualquier lugar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- El Gobernador del Estado determinará y podrá modificar el número de notarías y su residencia, escuchando la opinión del Colegio y atendiendo a los factores siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Población beneficiada y tendencias de su crecimiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Estimaciones sobre las necesidades notariales de la población;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Condiciones socioeconómicas de la población del lugar propuesto como residencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- La Consejería Jurídica requerirá a los Notarios de la entidad, a través del Colegio, para que realicen las funciones inherentes a su cargo en programas públicos de regularización de la tenencia de la tierra, de escrituración de vivienda de interés social progresiva y popular y otros que satisfagan necesidades colectivas, así como para prestar sus servicios en los casos y términos establecidos en la legislación electoral. Las autoridades estatales y municipales auxiliarán a los notarios del Estado, para el eficaz desempeño de estas funciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DE LOS ASPIRANTES A LA FUNCIÓN NOTARIAL",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "- Para ser aspirante al nombramiento de notario es necesario obtener constancia otorgada por la persona titular del Poder Ejecutivo del Estado, quien solo podrá otorgarla a quien satisfaga los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano por nacimiento, mayor de veintiocho años;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener una residencia efectiva e ininterrumpida en el territorio del Estado de México, cuando menos de cinco años anteriores a la fecha de solicitud;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ser profesional del derecho, con una antigüedad mínima en el ejercicio de cinco años anteriores a la fecha de solicitud; IV. Haber realizado prácticas de manera ininterrumpida por un período mínimo de un año en alguna notaría del Estado de México;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acreditar el curso de formación de aspirantes a notario que imparte el Colegio, o algún otro en Derecho Registral o Notarial que reconozca la Consejería Jurídica."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No padecer enfermedad que impida el ejercicio de las facultades intelectuales o que sea causa de incapacidad física para el desempeño de la función notarial;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ser de conducta honorable;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "No estar sujeto a proceso penal por delito intencional ni haber sido condenado en sentencia ejecutoriada por delito de la misma clase; IX. No haber sido suspendido o cesado del ejercicio de la función notarial en el Estado de México o en otra entidad de la República;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "No haber sido declarado en estado de quiebra o de concurso de acreedores, excepto que haya sido restituido; XI. Aprobar el examen para aspirante a notario en los términos de esta Ley y su Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- Solo los aspirantes podrán participar en los exámenes de oposición para obtener el nombramiento de notario. Se exime de la obligación de presentar examen de aspirante, a quien se haya desempeñado como Notario interino o provisional en el Estado de México, siempre y cuando cumpla con los requisitos enunciados en el artículo anterior; siempre que resulte aprobatoria la evaluación que practiquen la Consejería Jurídica y el Colegio, estando en ese caso, en posibilidad de presentar el examen de oposición.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DEL NOMBRAMIENTO DE NOTARIO",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "- Para obtener el nombramiento de notario deberán satisfacerse los requisitos",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tener constancia de aspirante a notario o, en su caso, haber aprobado la evaluación a que se refiere el párrafo segundo del artículo anterior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cumplir con los requisitos establecidos en el artículo 11 de la presente Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar el examen de oposición que para el efecto se realice. Atendiendo al interés social y a las necesidades de la función notarial, podrá ser Notario también, quien determine la persona titular del Poder Ejecutivo del Estado y haya sido evaluado por la Consejería Jurídica y el Colegio, en términos que para el efecto establezca el Reglamento de la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- - En las notarías de nueva creación o a las que se encuentren vacantes, en tanto se realiza el nombramiento del titular, la persona titular del Poder Ejecutivo del Estado podrá nombrar a un notario provisional de entre aquellos que hayan acreditado el examen para aspirante o se hayan desempeñado como notario interino o provisional en el Estado de México, o hayan sido evaluados por la Consejería Jurídica y por el Colegio. Si después de transcurrido un año, demuestra experiencia, capacidad y eficiencia en el desempeño de la función, habiendo sido evaluado a satisfacción de la Consejería Jurídica y el Colegio; la persona titular del Poder Ejecutivo del Estado lo podrá nombrar Notario titular.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Cuando una o más notarías se encuentren vacantes la persona titular del Poder Ejecutivo del Estado emitirá una convocatoria a examen de oposición para ocuparlas, la que se publicará en el Periódico Oficial “Gaceta del Gobierno” y en dos diarios de mayor circulación en la entidad, de conformidad a las disposiciones previstas en el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- - Los nombramientos de Notarios serán expedidos por la persona titular del Poder Ejecutivo del Estado, mediante acuerdo que contenga los siguientes datos: nombre y apellidos de la persona a quien se confiere, lugar de residencia, número de Notaría que le corresponda y fecha del nombramiento, el cual surtirá sus efectos a partir de su publicación en el Periódico Oficial “Gaceta del Gobierno” y en dos diarios de mayor circulación en la Entidad, y se registrará en la Consejería Jurídica, en el Archivo y ante el Colegio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- - En la Consejería Jurídica, en el Archivo y en el Colegio habrá un expediente de cada Notario, para su control correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Para el inicio de sus funciones el notario deberá cumplir con los requisitos",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Rendir la protesta de ley dentro de los diez días hábiles siguientes, contados a partir de la fecha de la publicación del acuerdo respectivo en el periódico oficial “Gaceta del Gobierno” y en dos diarios de mayor circulación en la entidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Otorgar fianza expedida por una institución de crédito autorizada a favor del Gobierno del Estado de México, misma que deberá actualizar anualmente, por una cantidad equivalente a doce mil veces el valor de la unidad de medida y actualización, la cual deberá exhibirse dentro de los primeros treinta días naturales de cada año. Los Notarios que se separen de la función notarial, de forma definitiva, por cualquier causa, deberán mantener vigente por tres años posterior a su separación, la fianza referida, para en su caso, responder de las obligaciones económicas derivadas del ejercicio de su función."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proveerse a su costa del protocolo y sello de autorizar; IV. Registrar el sello de autorizar, el sello electrónico, su firma autógrafa y su firma electrónica notarial, ante la Consejería Jurídica, el Archivo y el Colegio."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer la notaría en el lugar de su residencia e iniciar funciones dentro de los noventa días hábiles siguientes a su protesta, dando aviso a las autoridades que señala el Reglamento, al Colegio y a la comunidad, mediante publicación a su costa en el periódico oficial “Gaceta del Gobierno” y en dos diarios de mayor circulación en el Estado de México."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DE LOS DERECHOS, OBLIGACIONES E IMPEDIMENTOS DE LOS NOTARIOS",
+        "Artículos": [
+          {
+            "Artículo": 19,
+            "Texto": "- Son derechos de los notarios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer la función, de la cual solo podrán ser separados en los casos y términos previstos por esta Ley;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Percibir los honorarios que autorice el arancel por los actos, hechos y procedimientos en que intervengan;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Permutar sus notarías, previa autorización de la persona titular del Poder Ejecutivo del Estado, quien escuchará la opinión del Colegio;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Asociarse con otro notario del mismo lugar de residencia en los términos que autorice la persona titular del Poder Ejecutivo del Estado, quien escuchará la opinión del Colegio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Solicitar a la persona titular del Poder Ejecutivo del Estado su reubicación en una notaría vacante o de nueva creación, o la reubicación de su notaría en otro municipio, quien resolverá previa constancia de procedencia que sea expedida por la Consejería Jurídica en base al expediente del notario solicitante y escuchando la opinión del Colegio."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Separarse de su cargo en los términos que autoriza esta Ley;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Excusarse de actuar:\na) . En días festivos y horas que no sean de oficina, salvo que se trate de testamentos u otros casos de urgencia o de interés público.\nb) . Por causa justificada que le impida encargarse del asunto de que se trate, siempre que haya otra notaría en el mismo lugar de residencia."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Patrocinar a los interesados en procedimientos judiciales o administrativos para obtener el registro de instrumentos otorgados ante su fe, con las excepciones previstas por esta Ley y demás disposiciones jurídicas aplicables. IX. Los demás que le otorguen otros ordenamientos."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- Son obligaciones de los notarios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejercer la función notarial con probidad, diligencia, eficiencia e imparcialidad, constituyéndose en consejero de quienes solicitan sus servicios;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Guardar secreto de los actos pasados ante ellos, salvo de los que requieran la Consejería Jurídica, las autoridades jurisdiccionales o el Ministerio Público;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejercer sus funciones cuando sean solicitados o requeridos, siempre que no exista para ello algún impedimento o motivo de excusa; IV. Pertenecer al Colegio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Actualizar durante los primeros treinta días naturales de cada año la fianza a que se refiere la fracción II del artículo 18 de esta Ley, atendiendo a los criterios generales de incremento del valor de la Unidad de Medida y Actualización, debiendo mantenerla vigente durante los tres años siguientes a aquel en que haya dejado de ejercer la función en forma definitiva."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Sujetarse al arancel para el cobro de sus honorarios; VI bis. Promocionar y gestionar los incentivos otorgados por el Gobierno del Estado a los usuarios de servicios notariales relacionados con la apertura y funcionamiento de unidades económicas previstos en los ordenamientos jurídicos y programas emitidos para dicho efecto."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Abstenerse de actuar cuando no le sea aportada la documentación necesaria o no le sean cubiertos los montos por concepto de impuestos, derechos y gastos que se generen;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Mantener abiertas sus oficinas por lo menos ocho horas diarias en días hábiles y realizar guardias los fines de semana, días festivos e inhábiles en los casos previstos por la Ley; IX. Reanudar sus funciones dentro de los quince días hábiles siguientes al de la terminación de la licencia o de la suspensión;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Solicitar al Instituto de la Función Registral del Estado de México o registro público respectivo, certificado sobre la existencia o inexistencia de gravámenes o anotaciones cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que, sin serlo, sea inscribible. XI. Abstenerse de establecer oficina en lugar diverso al registrado ante la Consejería Jurídica, para atender al público en trámites relacionados con la notaría a su cargo. XII. Abstenerse de extraer de la Notaría a su cargo el Protocolo o parte de él, para efectos de maquila o por tratarse de oficina alterna, salvo por causa de fuerza mayor o en los casos previstos en esta Ley. XIII. Las demás que les imponga esta Ley y otros ordenamientos."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Son impedimentos de los notarios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desempeñar cualquier empleo, cargo o comisión pública o privada remunerada; ejercer como abogado postulante o agente de cambio; la actividad de comerciante, de corredor público o ministro de cualquier culto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Intervenir en actos por sí o en representación de otros, o su cónyuge, sus parientes consanguíneos o afines en línea recta sin limitación de grado, los consanguíneos en la colateral hasta al cuarto grado y los afines en la colateral hasta el segundo grado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejercer sus funciones cuando él, su cónyuge o alguno de sus parientes en los grados que expresa la fracción anterior, o personas de quienes alguno de ellos sea apoderado o representante legal en el acto que se trata de autorizar, tengan interés. Este impedimento se entenderá para el notario suplente, asociado e interino, cuando actúe en el protocolo del suplido, asociado o titular, respectivamente; IV. Recibir dinero o documentos a su nombre que representen numerario, a menos que se trate de honorarios o del monto de los impuestos y derechos que deban pagar con motivo del ejercicio de sus funciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Derogado."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los demás que establezcan otros ordenamientos."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Como excepción al artículo anterior, los notarios podrán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desempeñar la docencia y cargos de beneficencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Actuar en ejercicio de su profesión en asuntos propios, de su cónyuge, ascendientes, descendientes y demás parientes por consanguinidad o afinidad hasta el cuarto grado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desempeñar el cargo de secretario de asociaciones civiles o sociedades sin ser miembro del consejo directivo o de administración; IV. Ser tutor, curador o albacea;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dar consultas jurídicas de acuerdo a su función;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Patrocinar a los interesados en el trámite para obtener el registro de testimonios de escrituras, así como en los fiscales, administrativos y judiciales relacionados con los impuestos y derechos que causen los actos pasados ante ellos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DE LA SEPARACIÓN Y DE LA SUPLENCIA DE LOS NOTARIOS",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "- Dentro de los treinta días hábiles siguientes al de su protesta, los notarios de una misma residencia deberán celebrar convenios para suplirse recíprocamente en sus faltas temporales. Cuando sólo haya un notario, el convenio lo celebrará con los de las residencias más cercanas. Si los Notarios no celebran convenios de suplencia dentro del plazo que se les concede, la Consejería Jurídica determinará la forma de llevarla a cabo y quiénes deberán suplirse entre sí. No se podrá suplir a más de un Notario a la vez.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- - Los Notarios podrán separarse del ejercicio de su función hasta por quince días hábiles consecutivos o alternados cada seis meses, debiendo dar aviso por escrito de su separación y su regreso a la Consejería Jurídica y a quien deba suplirlos. No podrán acumularse los quince días de un semestre con los del siguiente, debiendo mediar entre ambos un período de por lo menos treinta días hábiles en el ejercicio de la función.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Los notarios asociados no quedan obligados a celebrar convenios de suplencia debiendo actuar recíprocamente en sus faltas temporales, lo que deberán estipular en el convenio de asociación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- Los convenios de suplencia serán registrados y publicados en la misma forma que el nombramiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- Los notarios podrán solicitar a la persona titular del Poder Ejecutivo del Estado licencia para separarse de su cargo, hasta por el término de un año. Esta licencia es renunciable. Cuando se haya obtenido esta licencia, no podrán solicitar otra igual hasta después de transcurrido un año en el ejercicio de la función notarial, salvo en el caso de enfermedad grave justificada, según lo dispuesto por la fracción II del artículo 40.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- La persona titular del Poder Ejecutivo del Estado concederá licencia por el tiempo que sea necesario cuando el notario sea designado para el desempeño de cargos de elección popular. Los Notarios deberán separarse temporalmente del ejercicio de la función notarial, cuando participen como candidatos en procesos electorales, a partir de la fecha de su registro como tales ante la autoridad electoral correspondiente, dando aviso por escrito a la Consejería Jurídica, para lo cual entrará en funciones el suplente. Concluido el período para el que el Notario fue electo o designado, se reincorporará al desempeño de la función notarial, previo aviso por escrito a la Consejería Jurídica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- En los casos de separación de los notarios por licencia o suspensión, la persona titular del Poder Ejecutivo del Estado, al conceder aquélla u ordenar ésta, designará notario de entre los aspirantes o a quien se haya desempeñado como notario interino o provisional, para que se haga cargo interinamente de la notaría de que se trate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- - En caso de que un Notario se separe temporalmente del desempeño de su función por enfermedad u otra razón imprevista, su suplente entrará de inmediato en funciones, previo aviso por escrito que cualquiera de los dos presente a la Consejería Jurídica. La suplencia se referirá al desempeño de la función notarial, sin que el suplente deba tomar a su cargo responsabilidades pecuniarias.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA DE LA ASOCIACIÓN DE NOTARIOS Y DE LA PERMUTA DE NOTARIAS",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "- Dos notarios titulares de un mismo lugar de residencia o de la residencia más cercana cuando haya uno solo, podrán asociarse por el tiempo que convengan, para actuar indistintamente en el protocolo del notario con mayor antigüedad en el ejercicio notarial. Cada notario usará su propio sello en sus actuaciones, quedando prohibida la intervención de ambos en un mismo acto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- - El convenio de asociación entre Notarios deberá presentarse a la Consejería Jurídica para su aprobación. Aprobado el convenio de asociación, la Consejería Jurídica con intervención de un representante del Colegio, asentará la razón de clausura extraordinaria a la que se refiere el artículo 74, haciendo constar que actuarán asociadamente cada uno en el protocolo del más antiguo",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- Los convenios de asociación dejarán sin efecto los de suplencia celebrados con anterioridad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- El convenio de asociación terminará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vencimiento del plazo fijado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Separación definitiva de uno de los asociados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acuerdo de los asociados; IV. Aviso escrito de uno a otro asociado con noventa días naturales de anticipación por lo menos a la fecha de su determinación, previo cumplimiento de las obligaciones contraidas por el notario que se separe."
+              }
+            ]
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- En caso de terminación del convenio de asociación, se procederá a asentar la razón de clausura extraordinaria, conforme al artículo 74 de esta Ley, para continuar actuando cada uno en su propio protocolo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- Cuando la terminación del convenio de asociación sea por separación definitiva de uno de los asociados, el otro continuará usando el mismo protocolo en que se haya actuado. Si el notario faltante fuere el de mayor antigüedad, el que continúe en funciones deberá tramitar ante la persona titular del Poder Ejecutivo del Estado, dentro de los 30 días hábiles siguientes, la expedición de nuevo nombramiento, pudiendo actuar en tanto lo obtiene con su sello y número anteriores. La notaría correspondiente al notario que sustituya al que falte quedará vacante.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- La celebración y la terminación del convenio de asociación deberán publicarse una sola vez en el periódico oficial “Gaceta del Gobierno” y los asociados antes de iniciar su actuación con ese carácter, darán aviso a las instancias a que se refiere el artículo 18 fracción V de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- Los convenios de permuta se celebrarán únicamente entre dos notarios titulares, quienes recibirán nuevo nombramiento, debiendo cumplir los requisitos señalados en el artículo 18 de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- En la permuta de notarías, la Consejería Jurídica con la intervención de un representante de Colegio, asentará en los protocolos de los Notarios permutantes la razón de clausura extraordinaria y realizará la entrega recepción de ambas notarías. Los sellos de los Notarios permutantes serán recogidos por la Consejería Jurídica y remitidos en el término de cinco días hábiles al Archivo, para su destrucción.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN CUARTA",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "- Son causas de suspensión de un notario en el ejercicio de su función:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser sujeto a proceso por delito patrimonial o grave en que haya sido declarado formalmente preso, hasta que se pronuncie resolución que haya causado ejecutoria;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Padecer enfermedad que lo imposibilite en forma transitoria para ejercer la función notarial, surtiendo efecto, en tal caso, la suspensión durante todo el tiempo que dure el impedimento, siempre que no exceda de dos años;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La sanción administrativa impuesta por la persona titular del Poder Ejecutivo del Estado por faltas comprobadas al notario, en la forma y términos previstos en esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- El nombramiento de notario terminará por cualquiera de las causas siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Renuncia escrita;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Muerte;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Imposibilidad del notario por enfermedad que exceda de dos años o por edad avanzada que le impida el desempeño de la función notarial; IV. Sentencia ejecutoriada que imponga una pena privativa de libertad por la comisión de delito patrimonial o grave;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Resolución de la persona titular del Poder Ejecutivo del Estado, en los términos y condiciones de esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- En los supuestos previstos en las fracciones II del artículo 40 y III del artículo 41, tan luego como la persona titular del Poder Ejecutivo del Estado tenga conocimiento de que un Notario está imposibilitado para ejercer la función notarial, solicitará a la Fiscalía General de Justicia la designación de dos peritos médicos, teniendo el Notario el derecho de nombrar a dos peritos médicos, quienes practicarán exámenes físicos y psicométricos al Notario, en presencia de un representante de la Consejería Jurídica y otro del Colegio y dictaminarán sobre el padecimiento, su duración, y si éste lo imposibilita para ejercer la función notarial, ajustándose a los términos y condiciones establecidos en el Reglamento. El dictamen será remitido a la persona titular del Poder Ejecutivo del Estado, quien resolverá la suspensión o la terminación, en su caso, haciéndolo del conocimiento del Colegio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- Los oficiales del Registro Civil y el Colegio, cuando conozcan del fallecimiento de un Notario, lo deberán comunicar inmediatamente a la Consejería Jurídica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- Cuando un juez declare la interdicción de un Notario, lo comunicará a la Consejería Jurídica y al Colegio, para los efectos de la fracción II del artículo 40.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- El juez que inicie proceso en contra de algún Notario por delito doloso, remitirá inmediatamente a la Consejería Jurídica y al Colegio copia certificada del auto de apertura a juicio o de vinculación a proceso y, en su oportunidad, de la sentencia ejecutoriada, para los efectos de los artículos 40 fracción I o 41 fracción IV de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- La declaratoria de terminación de la función de un Notario y de los interinatos, la hará la persona titular del Poder Ejecutivo del Estado, quien ordenará su publicación por una sola vez en el Periódico Oficial “Gaceta del Gobierno” y en uno de los periódicos de mayor circulación en la entidad. La Consejería Jurídica lo comunicará a las instancias a que se refiere el artículo 18 fracción V de la Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DEL SELLO DE AUTORIZAR",
+        "Artículos": [
+          {
+            "Artículo": 47,
+            "Texto": "- El Notario recabará autorización de la Consejería Jurídica para obtener su sello, que será de forma circular, con un diámetro de cuatro centímetros, con el Escudo Nacional en el centro e inscrito en rededor el nombre y apellidos del notario, número de la notaría y residencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- En caso de extravío, alteración o destrucción del sello, el Notario lo comunicará inmediatamente a la Consejería Jurídica, solicitando autorización para proveerse de otro a su costa, tomando en consideración las disposiciones que al respecto señale el Reglamento. Tratándose de extravío o robo, se presentará denuncia ante el Ministerio Público, dentro de las cuarenta y ocho horas siguientes al hecho.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- El sello alterado o el extraviado que se recupere, no podrá ser usado por el notario si ya tiene autorizado el nuevo y deberá entregarlo al Archivo en forma inmediata para su destrucción. El Archivo destruirá el sello del notario que termine en sus funciones, así como los que no reúnan los requisitos en esta Ley y su Reglamento. En caso de licencia o suspensión, el sello se remitirá al Archivo para su depósito mientras subsistan éstas. En todos los casos anteriores, el Titular del Archivo hará constar en acta tal hecho debiendo remitir copia a la notaría de que se trate.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DEL PROTOCOLO ORDINARIO, DEL ELECTRÓNICO, DEL ESPECIAL Y DEL ESPECIAL FEDERAL",
+        "Artículos": [
+          {
+            "Artículo": 50,
+            "Texto": "- Protocolo es el libro o conjunto de libros físicos o electrónicos que se forman con los folios físicos o electrónicos separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de ley, los actos y hechos jurídicos otorgados ante su fe, así como los libros de cotejos y sus correspondientes apéndices e índices. Los Protocolos pueden ser físicos o electrónicos, dependiendo del formato en el que se encuentren los folios que contengan los actos o hechos jurídicos en los que el notario haya otorgado su fe. El protocolo electrónico es el libro o conjunto de libros en formato digital, que se forma con folios electrónicos separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de la ley, los actos jurídicos que fueron realizados de forma electrónica y otorgados ante su fe, así como sus correspondientes apéndices e índices. Para el caso de los folios físicos, la Consejería Jurídica asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados, mismos que deberá sellar individualmente; y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.\nLa hoja en que conste esta razón deberá encuadernarse al principio de cada volumen autorizado. Para la entrega de folios electrónicos, por parte del Colegio, la Consejería Jurídica deberá crear una base de datos en la que se asienten los datos establecidos en el párrafo cuarto del presente\nartículo, misma que deberá ser compartida con el Colegio y el Archivo, para efecto de las autorizaciones de los folios. Para el resguardo de la base de datos, se deberán observar los lineamientos técnicos establecidos en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento, y otras disposiciones aplicables. La Consejería Jurídica comunicará al Colegio y al Archivo la fecha de autorización de los folios físicos y/o electrónicos para su control correspondiente",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- El protocolo pertenece al Estado. Los notarios lo tendrán en custodia bajo su más estricta responsabilidad por cinco años contados a partir de la fecha de autorización del siguiente libro o juego de libros ya sean físicos o electrónicos para seguir actuando. Transcurrido este término, remitirán los libros respectivos al Archivo, para su resguardo definitivo. Para el caso de los libros en formato electrónico, el Archivo deberá emitir los lineamientos bajo los cuales se realizará remisión de los mismos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- El Colegio, a costa de los notarios, los proveerá de los folios físicos y electrónicos necesarios para asentar los instrumentos con las siguientes características:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tendrán 34 centímetros de largo por 21.5 de ancho. Se asentarán en ellos las escrituras y actas, las firmas autógrafas, electrónica notarial, el sello electrónico y autorizaciones preventiva y definitiva correspondientes; y a continuación, en dichos folios se asentarán las notas complementarias en tanto exista espacio para ello. Si fuera necesario asentar alguna nota complementaria y no hubiera espacio en el folio del protocolo se asentará la mención pertinente al final de éste, y en fojas de papel común se efectuarán dichas notas complementarias que se agregarán al apéndice. Los folios de protocolo tendrán a los lados un espacio en blanco de 3 centímetros en su parte interna y de 2.5 centímetros en el exterior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Llevarán impreso en el ángulo superior derecho del anverso el número del folio, que será del 1 al 150; el número del volumen; el número de la notaría y la residencia;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Serán autorizados y sellados cada uno por la Consejería Jurídica. El protocolo electrónico tendrá las mismas características de forma que el protocolo físico, formándose por ciento cincuenta folios electrónicos que conservarán en la medida de lo posible las características de su contraparte física, será utilizado, inicialmente, en casos de cancelación de hipoteca, respecto de inmuebles adquiridos a través de instituciones públicas de vivienda social y con base en los lineamientos técnicos contenidos en la plataforma tecnológica operada por la Dirección General del Sistema Estatal de Informática, en términos de lo dispuesto por la Ley de Gobierno Digital del Estado de México y Municipios y demás disposiciones jurídicas aplicables. Asentando las firmas electrónicas de las partes y del notario que autoriza o de quien legalmente lo sustituya. Para efectos de lo contenido en el presente párrafo, la firma electrónica de las partes requiere del certificado digital de firma electrónica emitido por la Unidad Certificadora del Gobierno del Estado, en términos de la Ley de Gobierno Digital del Estado de México y Municipios y demás disposiciones jurídicas aplicables.\nSe tendrá por autorizados los protocolos electrónicos cuando en él se encuentre la Firma Electrónica Avanzada y el sello electrónico de la autoridad."
+              }
+            ]
+          },
+          {
+            "Artículo": 53,
+            "Texto": "- Los instrumentos, libros y apéndices que integren el protocolo deberán ser numerados progresivamente. Sólo podrán usarse al mismo tiempo hasta el número de folios que integren diez volúmenes. Los volúmenes estarán integrados por ciento cincuenta folios, debiendo asentarse en ellos los instrumentos en el orden progresivo de los volúmenes y al llegar al último, se regresará al primero. La numeración progresiva será a partir de la primera de la notaría, sin que se interrumpa por los cambios de notario o cuando no pase alguno de los instrumentos. El notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, salvo los que deban constar en el libro de cotejos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- Al iniciar la formación de un libro, el Notario asentará en una hoja en blanco, una razón con su sello y firma, la que deberá encuadernarse después de la autorización de la Consejería Jurídica, en la que hará constar la fecha en que se inicia, el número que le corresponda y la mención de que el libro se formará con las escrituras y actas notariales autorizadas por el notario o por quien legalmente lo sustituya. Tratándose del protocolo electrónico la autorización de su actuación debe aparecer al principio de cada libro electrónico con las mismas características del protocolo físico, junto con las firmas electrónicas avanzadas y sello electrónico de la autoridad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- Cuando con posterioridad a la iniciación de un libro haya cambio de notario, el que lo sustituya asentará a continuación de la clausura extraordinaria o bien, después del último instrumento extendido, una razón en ese sentido con su nombre y apellidos, debiendo constar con su sello y su firma autógrafa o electrónica notarial. Igual requisito se observará cuando se inicie una asociación o cuando un notario suplente, provisional o interino empiece o termine de actuar. En el protocolo electrónico la clausura extraordinaria se llevará a cabo en un folio electrónico donde se asentará la representación de la Consejería Jurídica, la fecha, el número que le corresponda y la mención de que el libro se formará con las escrituras y actas notariales autorizadas por el notario o por quien legalmente le sustituye.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- Antes de usar un folio, se pondrá el sello del notario o los de los notarios asociados en su anverso, al lazo izquierdo y en la parte superior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "- Todo instrumento se iniciará al principio del anverso del folio, utilizándose, a elección del notario, los procedimientos más eficientes de impresión, siempre que ésta resulte indeleble, legible y nítida, debiendo utilizar los folios por ambas caras.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- Los instrumentos, incluyendo los que contengan la razón de “NO PASO”, se ordenarán y protegerán por el notario provisionalmente en carpetas seguras. Cuando el notario tenga su protocolo en varios volúmenes, al llegar al último folio de cualquiera de los volúmenes en uso, dejará de usar el juego completo y se inutilizarán los folios en blanco. El notario encuadernará los folios físicos u ordenará los electrónicos, que integren los volúmenes de su protocolo, disponiendo de un máximo de tres meses para ello, a partir de la fecha de clausura ordinaria. Los libros electrónicos que conformarán el protocolo electrónico deberán ser resguardados por el notario en duplicado de manera ordenada, siguiendo el procedimiento señalado en el Reglamento\nde la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- Cuando un folio o solamente el anverso o su reverso resulten inutilizados, la impresión del texto del instrumento se continuará correctamente en el folio o en el anverso o reverso siguiente utilizable, según el caso. El folio inutilizado total o parcialmente deberá conservarse en el sitio que le corresponda, y el notario asentará al final del texto de la escritura la mención de haber sido inutilizado el folio o el anverso o reverso correspondientes, y se cruzará todo el espacio en caracteres grandes con la leyenda “ESTA PAGINA NO VALE” y la firma autógrafa o electrónica del notario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- El protocolo sólo se mostrará a los interesados. Las escrituras y actas en particular, sólo podrán mostrarse a quienes hayan intervenido en ellas o justifiquen representar sus derechos o a los herederos o legatarios, tratándose de disposiciones testamentarias después de la muerte del testador. Si para la redacción de un instrumento algún notario necesita dar fe de otro autorizado por distinto notario, podrá verificarlo en el protocolo respectivo de la notaría donde se encuentre o en el Archivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- Los folios donde consten las escrituras y actas y los libros, sus apéndices e índices deberán permanecer siempre en la notaría, excepto cuando el notario recabe firmas fuera de ella. Si alguna autoridad competente ordena la inspección del algún instrumento, ésta se efectuará en la notaría o en el Archivo, ante la presencia del notario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- Cada libro del protocolo tendrá su apéndice, que se formará con los documentos relacionados con las escrituras y actas asentadas en aquél. Los documentos del apéndice correspondientes a un libro del protocolo, se integrarán por legajos ordenados en uno o más volúmenes, en cuyas carátulas se pondrá el número del instrumento y volumen a que se refiera, indicando los documentos que se agregan y marcándose en cada uno la letra en el orden del alfabeto que les señale y distinga de los otros que forman el legajo. El notario agregará al apéndice copia certificada de las resoluciones que por mandato judicial se protocolicen y se considerará como un solo documento, devolviéndose el original a quien corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "- Los documentos del apéndice no podrán desglosarse y se entregarán debidamente encuadernados al Archivo cuando se remita el libro de protocolo al que correspondan. Por lo que hace a los archivos que comprende el apéndice digital, estos se entregarán ordenados en un archivo digital anexo, que se resguardará en el mismo medio electrónico diseñado para tal fin.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "- Los notarios tendrán obligación de llevar por duplicado y por cada juego de libros un índice de todos los instrumentos que autoricen por orden alfabético de apellidos de los otorgantes y de su representante, en su caso, con expresión de la naturaleza del acto o hecho, del número y fecha del instrumento y del número del folio en el cual se inició. El índice se formará una vez concluido el libro o juego de libros. Al entregar el libro o juego de libros al Archivo, el notario acompañará un ejemplar de su índice y el otro lo conservará en la notaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- Los Notarios llevarán además un protocolo que se denominará especial, autorizado por la Consejería Jurídica para operaciones en que los Gobiernos Federal y Estatal y los municipios sean parte, en el que se consignarán los actos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los celebrados con la finalidad de fomentar y constituir vivienda de interés social y popular progresiva;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Para regularizar la tenencia de la tierra;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los previstos por la Ley Agraria; IV. Los señalados en la legislación electoral;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los demás que les sean requeridos."
+              }
+            ]
+          },
+          {
+            "Artículo": 66,
+            "Texto": "- Los instrumentos y volúmenes del protocolo especial se numerarán progresivamente, en forma independiente del protocolo ordinario, sin interrupción, a partir del primero de ellos, asentando antes del número la leyenda “Protocolo Especial”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 67,
+            "Texto": "- Los notarios al obtener el nombramiento de Notario del Patrimonio Inmueble Federal, deberán sujetarse en lo conducente, a las disposiciones de esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "- En el protocolo del Patrimonio Inmueble Federal los notarios asentarán los actos jurídicos relacionados con los bienes inmuebles del dominio público o privado que formen parte del patrimonio nacional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "- Serán aplicables al protocolo especial las disposiciones de la presente Ley que regulan al ordinario. En el protocolo especial federal se estará a lo dispuesto en esta Ley, en lo que no se oponga a las leyes federales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 70,
+            "Texto": "- Los notarios, al autorizar un instrumento, certificarán una copia de éste que deberá ser fiel reproducción de los folios y la agregaran al apéndice, a efecto de que conste fehacientemente su otorgamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 71,
+            "Texto": "- La pérdida o destrucción total o parcial de algún folio o libro del protocolo deberá ser comunicada inmediatamente por el Notario a la Consejería Jurídica, quien autorizará su reposición y la restitución de los instrumentos en ellos contenidos en papel ordinario. En caso de pérdida o robo, el notario presentará denuncia ante el Ministerio Público, dentro de las cuarenta y ocho horas siguientes. La restitución se hará con base en la copia certificada mencionada en el artículo anterior o con el testimonio o las copias certificadas de los testimonios respectivos que a costa del notario expida el Registro Público de la Propiedad o se aporten por los interesados para ese fin. Si no es posible la restitución de alguno de los instrumentos, el notario podrá expedir testimonios ulteriores, copiando o reproduciendo íntegramente la copia mencionada en el artículo precedente, los obtenidos del Registro Público de la Propiedad o los que le sean facilitados por los interesados, haciendo constar al pie de los que expida, de donde fueron tomados y la causa de su expedición. En caso de pérdida o destrucción parcial o total de un apéndice, se procederá a su reposición obteniendo los documentos que lo integren de sus fuentes de origen o del lugar donde obren. El procedimiento de reposición se seguirá sin perjuicio de la probable responsabilidad del notario derivada de la pérdida o destrucción de los libros o apéndices.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DEL LIBRO DE COTEJOS",
+        "Artículos": [
+          {
+            "Artículo": 72,
+            "Texto": "- En el libro de cotejos se asentarán los datos que identifiquen el cotejo de documentos auténticos con su copia escrita, fotográfica, fotostática o de cualquier otra clase sin más formalidades que su anotación en el mismo. Se formará por el conjunto de ciento cincuenta folios separados, numerados y encuadernables, con su respectivo apéndice e índice, con las formalidades y requisitos que se determinan en el Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN TERCERA DE LA CLAUSURA DEL PROTOCOLO",
+        "Artículos": [
+          {
+            "Artículo": 73,
+            "Texto": "- Cuando el notario considere que ya no puede dar cabida a otro instrumento más en los folios restantes de algún volumen, cerrará simultáneamente todos los volúmenes que esté utilizando y asentará razón de clausura ordinaria en un plazo máximo de dos meses a partir de la fecha del último instrumento, en la que expresará el número de instrumentos contenidos en cada volumen, cuantos no pasaron; el número de folios utilizados y no utilizados, el número del primero y del último de los instrumentos autorizados y el lugar y día en que lo cierra. La razón se asentará en hoja en blanco que se encuadernará al final del volumen y será autorizada con su firma y sello, además se inutilizarán por medio de líneas diagonales los folios en blanco. En los libros electrónicos la razón de cierre se hará en un folio electrónico con las mismas características que su contraparte física.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 74,
+            "Texto": "- Cuando un Notario se separe de su notaría por alguna de las causas señaladas en esta Ley, así como en el caso de asociación o reubicación de notarios y permuta o reubicación de notarías, con intervención de un representante de la Consejería Jurídica y otro del Colegio se asentará razón de clausura extraordinaria en el folio siguiente al último utilizado de los volúmenes en uso, asentando los mismos datos que en la clausura ordinaria y agregando todas las circunstancias que estimen convenientes, firmando los que intervengan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "- El notario suspendido o el que deje de serlo, asistirá, en su caso, a la clausura del protocolo y a la entrega de la notaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 76,
+            "Texto": "- - En los casos de terminación del nombramiento de Notario, en tanto no sea designado otro, la Consejería Jurídica remitirá para su guarda al Archivo la documentación de la notaría de que se trate, conforme al inventario realizado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 77,
+            "Texto": "- El notario que reciba una notaría cuyo titular deje de actuar por cualquiera de las causas establecidas en esta Ley, lo hará por riguroso inventario. Se procederá en los mismos términos cuando un notario reciba su notaría al haber concluido la licencia o la suspensión.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LAS ESCRITURAS",
+        "Artículos": [
+          {
+            "Artículo": 78,
+            "Texto": "- Escritura es el instrumento original que el notario asienta en el protocolo físico o electrónico para hacer constar uno o más actos jurídicos, autorizados con firma autógrafa o electrónica y sello. Se entenderá también como escritura el acta que contenga un extracto con los elementos personales y materiales del documento en que se consigne un contrato o actos jurídicos, siempre que esté firmada en cada una de sus hojas por quienes en el intervengan y por el notario, quien además pondrá el sello, señalará el número de hojas de que se compone, así como la relación\ncompleta de sus anexos que se agregarán al apéndice y reúna los demás requisitos que señala este capítulo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 79,
+            "Texto": "- La redacción de las escrituras se sujetará a las formalidades siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se hará en idioma español, con letra clara, sin abreviaturas ni guarismos, salvo en el caso de transcripción literal o del uso de modismos; tratándose de números, las cifras se mencionarán también con letra;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando se presenten documentos redactados en idioma distinto al español, se traducirán por perito autorizado, a excepción de cuando el notario conozca el idioma, en cuyo caso él realizará la traducción; se agregará al apéndice el original o copia cotejada del documento con su respectiva traducción;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los espacios en blanco o huecos se cubrirán con líneas horizontales de tinta o con guiones continuos, al igual que los espacios en blanco existentes entre el final del texto y las firmas; IV. Las palabras, letras o signos que se hayan de testar se cruzarán con una línea horizontal que las deje legibles, pudiendo entrerrenglonarse lo que se deba agregar. Al final del texto de la escritura se salvarán, con la mención del número de palabras, letras o signos testados o entrerrenglonados, y se hará constar que lo primero no vale y lo segundo sí;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Llevará al inicio su número, el o los actos que se consignen y los nombres de los otorgantes;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expresará en el proemio el lugar y fecha y, en su caso, la hora en que se asiente la escritura, así como el nombre y apellidos del notario, el número de la notaría a su cargo, los nombres y apellidos de los comparecientes y el acto o actos que se consignen;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Resumirá los antecedentes del acto y certificará haber tenido a la vista los documentos que se hayan presentado para la formación de la escritura, con las siguientes modalidades:\na) . Si se trata de inmuebles, relacionará cuando menos el último título de propiedad y, en su caso, citará los datos de su inscripción registral, y determinará su naturaleza, ubicación, superficie con medidas y linderos, en cuanto sea posible.\nb) . No deberá modificarse en una escritura la descripción de un inmueble, si con ésta se incrementa el área de su antecedente de propiedad. La adición podrá ser hecha si se funda en resolución judicial o administrativa de la que así se desprenda."
+              },
+              {
+                "Fracción": "C",
+                "Texto": ". Cualquier error aritmético o de transcripción que conste en instrumento o en asiento registral podrá aclararse por la parte interesada en la escritura.\n\n. Siempre que alguien comparezca a nombre de otro, deberá declarar que sus facultades de representación son suficientes para el acto en que comparece, que son tal y como las asentó el notario y que dichas facultades no le han sido revocadas ni limitadas en forma alguna hasta esa fecha. Los apoderados de personas físicas deberán declarar que sus representados tienen capacidad legal. XI. De los comparecientes, el notario expresará las generales siguientes: Su nacionalidad y la de sus padres, nombre y apellidos, lugar y fecha de nacimiento, ocupación, estado civil y domicilio. Al expresar el nombre de una mujer casada, incluirá su apellido materno. En el supuesto de representación de personas físicas, el representante deberá declarar las generales del representado mencionadas. Tratándose de extranjeros, asentará sus nombres y apellidos como aparecen en el documento migratorio correspondiente; XII. Siempre hará constar bajo su fe respecto de los comparecientes, lo siguiente:\na) . Que acreditaron su identidad.\nb) . Que a su juicio tienen capacidad legal.\n\n. Que les fue leída la escritura."
+              },
+              {
+                "Fracción": "D",
+                "Texto": ". Al citar un instrumento otorgado ante otro fedatario, expresará el nombre de éste y el número de la notaría que corresponde, así como su número y fecha y, en su caso, los datos de inscripción registral.\ne) . En las protocolizaciones de actas de asamblea de personas morales, se relacionarán los antecedentes necesarios para acreditar su constitución, así como la validez y eficacia de los acuerdos tomados de conformidad con su régimen legal y estatutos.\n\n. Que les explicó el valor y las consecuencias legales del contenido de la escritura.\ne) . Que manifestaron su conformidad con el texto leído mediante la impresión de su firma; si alguno de ellos manifestare no saber o no poder firmar, imprimirá huella digital, firmando otra persona a su ruego y encargo. De estar imposibilitado para imprimir su huella digital, se hará constar esta circunstancia por el notario.\nf) . Los hechos que el notario presencie y que sean relevantes o integrantes del acto.\ng) . La fecha o fechas en que firmen o impriman huella digital y el notario autorice la escritura."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Redactará ordenadamente las declaraciones de los comparecientes, que serán siempre hechas bajo protesta de decir verdad; el notario los apercibirá de las penas en que incurren quienes declaran con falsedad; IX. Redactará con claridad las cláusulas relativas al acto que se otorgue; identificando con precisión los bienes que constituyan el objeto material del acto, así como los derechos y obligaciones que se deriven del mismo;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "En caso de que algún compareciente actúe en representación de otro, el notario observará lo siguiente:\na) . Si la representación es de persona moral, dejará acreditada la legal constitución de ésta, su designación y las facultades de representación suficientes, para lo cual no será necesario que el notario realice transcripciones textuales de los instrumentos.\nb) . Si la representación es de personas físicas, el notario solo relacionará suscintamente el instrumento que contenga el otorgamiento de las facultades de representación que se ostentan a favor de quien comparezca."
+              }
+            ]
+          },
+          {
+            "Artículo": 80,
+            "Texto": "- El notario deberá siempre cerciorarse de la identidad de los comparecientes y acreditarla, con los medios siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por propia declaración de que verificó personalmente su identidad, conforme a la media filiación contenida en la identificación oficial vigente con fotografía."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Con la declaración de dos testigos de identidad que a su vez se identifiquen;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Con la presentación de identificación oficial vigente con fotografía de la cual agregará una copia al apéndice."
+              }
+            ]
+          },
+          {
+            "Artículo": 81,
+            "Texto": "- Cuando se trate de comparecientes que no hablen ni entiendan el idioma español, el notario podrá autorizar el instrumento si conoce el idioma de aquéllos, haciendo constar que les ha traducido verbalmente su contenido y que su voluntad queda reflejada fielmente en el\ninstrumento. En el supuesto de que el notario no conozca el idioma de los comparecientes, éstos se asistirán por un intérprete nombrado por ellos, quien deberá rendir ante el notario protesta de cumplir fielmente su función.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 82,
+            "Texto": "- Si alguno de los otorgantes fuere sordo, leerá la escritura por si mismo. Si declarara no saber o no poder leer, designará un intérprete que lo lea y le dé a conocer su contenido. En este supuesto, el notario hará constar la forma en que los comparecientes le manifestaron comprender el contenido de la escritura, la cual también será firmada por el intérprete.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 83,
+            "Texto": "- Si el otorgante fuere mudo, manifestará por escrito su consentimiento con los términos de la escritura y en caso de no saber o no poder escribir, manifestará su consentimiento en presencia de dos testigos, a través de signos inequívocos, circunstancia que hará constar el notario en la escritura.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 84,
+            "Texto": "- Tratándose de invidentes o de personas que declaren no saber o no poder leer, éstos se impondrán de los términos y alcances de la escritura por la lectura clara que haga el notario, en presencia de dos testigos, debiendo realizarse una segunda lectura por parte de uno de los testigos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 85,
+            "Texto": "- Antes que la escritura sea firmada por los comparecientes, éstos podrán pedir al notario que se hagan en ella las adiciones o variaciones que estimen convenientes, en cuyo caso, el notario asentará los cambios y hará constar que les dio lectura y que les explicó las consecuencias legales de tales modificaciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 86,
+            "Texto": "- Firmada la escritura por los otorgantes y demás comparecientes, para lo cual deberá anotarse el nombre de quienes la suscriben, inmediatamente será autorizada por el notario preventivamente con la razón “ANTE MI”, su firma completa y su sello o, en su caso, autorizada definitivamente. Cuando la escritura no sea firmada en el mismo acto por todos los comparecientes, siempre que no se deba firmar en un solo acto por su naturaleza o por disposición legal, el notario irá asentando el “ANTE MI” con su firma, a medida que sea firmada por las partes, expresando la fecha en cada caso; y cuando todos la hayan firmado, imprimirá además su sello, con lo cual quedará autorizada preventivamente, o en su caso, definitivamente. En los actos jurídicos realizados por medios electrónicos, el notario la autorizará de forma preventiva con la razón ANTE MI y su firma electrónica notarial. El notario no podrá autorizar de manera parcial los actos realizados de forma electrónica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 87,
+            "Texto": "- Las escrituras asentadas por un notario podrán ser firmadas y autorizadas por otro notario que legalmente lo supla o sustituya, siempre que se cumpla lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Si la escritura ha sido firmada sólo por alguno o algunos de los otorgantes ante el primer notario, aparezca puesta por él la razón “ANTE MI” con su firma;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El notario que lo supla o sustituya, exprese el motivo de su intervención y haga suyas las certificaciones que el instrumento deba contener, con la sola excepción, en su caso, de las relativas a la identidad y capacidad de quienes hayan firmado ante el primer notario y a la lectura del instrumento a éstos."
+              }
+            ]
+          },
+          {
+            "Artículo": 88,
+            "Texto": "- El notario deberá autorizar definitivamente la escritura cuando estén pagados los impuestos que causó el acto y cumplidos aquellos requisitos que conforme a las leyes sean necesarios para la autorización de la misma. La autorización definitiva se pondrá al pie de la escritura, inmediatamente después de la autorización preventiva, y contendrá el lugar y la fecha en que se haga, así como la firma\nautógrafa o electrónica notarial y sello electrónico, en su caso. Esta autorización podrá ser suscrita por el notario que actúe en ese momento o, en su caso, por el titular del Archivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 89,
+            "Texto": "- Cuando el acto contenido en la escritura no cause ningún impuesto ni sea necesario que se cumpla con cualquier otro requisito legal para su autorización definitiva, el notario asentará esta razón.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 90,
+            "Texto": "- Los notarios se abstendrán de autorizar cualquier escritura, si ésta no es firmada por los comparecientes dentro del término de treinta días hábiles a partir de la fecha que haya sido extendida en el protocolo ordinario. En el protocolo especial y en el especial federal, el término será de sesenta días hábiles. Transcurridos los términos señalados, la escritura sin autorizar quedará sin efecto, y el notario pondrá al final del texto la razón de “NO PASO” e imprimirá su sello y firma. En el caso de actos jurídicos electrónicos el notario se abstendrá de autorizarlos si no son firmados electrónicamente de forma inmediata por los otorgantes. La escritura sin autorizar quedará sin efecto, y el notario pondrá al final del texto la razón de “NO PASÓ”, su firma electrónica notarial y sello electrónico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 91,
+            "Texto": "- Si la escritura contiene varios actos jurídicos y dentro del término que para cada caso establece el artículo anterior, se firma por los otorgantes uno o varios de dichos actos y deja de firmarse por los otorgantes de otro u otros actos, el notario pondrá la razón de autorización preventiva en lo concerniente a los actos cuyos otorgantes firmaron, e inmediatamente después asentará en nota complementaria la certificación de “NO PASO”, sólo respecto al acto no firmado, el cual quedará sin efecto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 92,
+            "Texto": "- Todas las razones y anotaciones complementarias de una escritura o acta serán rubricadas autógrafa o electrónicamente por el notario y numeradas ordinalmente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 93,
+            "Texto": "- Tratándose de poderes el Notario observará lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Siempre que el poder contenga facultades de dominio relacionadas o limitadas a un inmueble, deberá dar aviso del otorgamiento al Registro Nacional de Avisos de Poderes Notariales."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Previo al otorgamiento de cualquier acto que implique la transmisión de dominio en el cual cada una de las partes comparezcan a través de apoderado, deberá verificar la autenticidad, legitimidad, vigencia y alcance del mismo por los medios que considere más eficaces. Si dicho poder es de los que deben darse aviso al Registro Nacional de Avisos de Poderes Notariales, deberá consultar la base de datos de dicho registro mediante los sistemas establecidos al efecto."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El notario ante quien se revoque o renuncie un poder que haya sido otorgado ante otro notario, aun cuando sea de otra entidad federativa, tendrá la obligación de comunicárselo por correo certificado o por cualquier otro medio indubitable de comunicación, en el que conste de manera fehaciente el acuse de recibo respectivo, dentro de los quince días hábiles siguientes, a fin de que haga la anotación complementaria correspondiente en el protocolo en que se contenga y, en su caso, hará la misma comunicación al Archivo en que se encuentre depositado el protocolo. Cuando el poder revocado o renunciado haya sido otorgado ante su fe, lo hará constar en nota complementaria en el instrumento original. Adicionalmente, si el poder hubiese sido inscrito ante el Registro Nacional de Avisos de Poderes Notariales, el Notario deberá dar aviso a dicho registro de la revocación o renuncia, en igual plazo, mediante los sistemas establecidos al efecto."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Los avisos al Registro Nacional de Avisos de Poderes Notariales deberán contener:\na) Nombre completo del Notario, carácter, número y lugar de residencia.\nb) Número de instrumento, la revocación o renuncia, en su caso, el volumen y la fecha."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Nombre completo, nacionalidad y clave única de registro de población de los poderdantes y apoderados."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Tratándose de personas jurídicas colectivas, su denominación o razón social.\ne) Tipo de poder y facultades conferidas.\nf) Vigencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 94,
+            "Texto": "- Se prohibe a los notarios revocar o modificar el contenido de una escritura mediante razón complementaria. En estos casos, salvo prohibición expresa de la Ley, deberá extenderse nueva escritura y hacerla constar en nota complementaria en la escritura anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 95,
+            "Texto": "- El notario ante quien se otorgue un testamento público abierto o simplificado dará aviso al Archivo dentro de los diez días hábiles siguientes al de su otorgamiento, expresando la fecha del testamento, nombre y generales del testador; cuando el testador exprese el nombre de sus padres, se incluirá este dato en el aviso. Los notarios serán responsables de los daños y perjuicios que ocasione la dilación u omisión de dicho informe. Los jueces o los notarios ante quienes se tramite una sucesión, recabarán del Archivo, del Registro Público de la Propiedad, del Archivo Judicial y del Registro Nacional de Avisos de Testamento, la información de si en ellos se encuentra registrado testamento otorgado por la persona de cuya sucesión se trata. La omisión de este requisito los hará responsables de los daños y perjuicios que ocasionen. El formato de aviso de otorgamiento de testamento se llevará a cabo en términos de las disposiciones aplicables que para tal efecto se expidan. El Archivo, al recibir un aviso de testamento deberá darlo de alta por medios electrónicos en el sistema local y en el Registro Nacional de Avisos de Testamento a más tardar dentro de los diez días hábiles siguientes a la fecha de su recepción, el resultado de la búsqueda en el sistema local y en la base nacional, se deberá anexar al informe que se rinda sobre la existencia o inexistencia de testamentos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 96,
+            "Texto": "- Cuando ante un notario se vayan a otorgar diversos actos respecto de inmuebles con un mismo antecedente de propiedad, por tratarse de predios resultantes de fraccionamientos o de unidades sujetas al régimen de propiedad en condominio, se seguirán las reglas establecidas en el artículo 79 de esta Ley, con las excepciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En el primer instrumento, que se denominará de certificación de antecedentes, a solicitud de quien corresponda el notario relacionará todos los títulos y demás documentos necesarios para el otorgamiento de dichos actos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En las escrituras cuyo objeto sean predios resultantes de un fraccionamiento o unidades sujetas al régimen de condominio, el notario no relacionará ya los antecedentes que consten en el instrumento indicado en la fracción anterior, sino que hará mención de su otorgamiento y que conforme a él, quien enajena puede hacerlo legítimamente, describiendo sólo el inmueble materia de la operación, y únicamente citará el antecedente registral en el que haya quedado inscrita la lotificación en los casos de fraccionamientos o en la construcción del régimen de propiedad en condominio, cuando se trate de actos cuyos objetos sean las unidades del inmueble de que se trate, así como los relativos a gravámenes o fideicomisos que se extingan;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando la escritura o constitución del régimen de propiedad en condominio se haya otorgado en el protocolo del mismo notario ante quien se otorguen los actos sucesivos, dicha escritura hará los efectos de instrumento de certificación de antecedentes. Surtirán también esos efectos la escritura en la que por su operación anterior, consten en el mismo protocolo los antecedentes de propiedad de un inmueble; IV. Al expedir los testimonios de las escrituras donde se contengan los actos sucesivos, el notario deberá anexarles una certificación que contenga, en lo conducente, la relación de antecedentes que obren en el instrumento de certificación respectivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 97,
+            "Texto": "- Los actos, convenios y contratos sobre propiedad, posesión o cualquier otro derecho real que se realice respecto de inmuebles ubicados en territorio estatal, se protocolizarán preferentemente por notarios del Estado de México. Las licencias y autorizaciones que en materia de fraccionamientos, subdivisiones, fusiones, relotificaciones, condominios y conjuntos urbanos de interés social progresivo, social popular y residenciales, y demás que contemple el Código Administrativo del Estado de México, que expidan las autoridades estatales y municipales, se deberán preferentemente protocolizarse por notarios públicos del Estado de México, así como los demás actos jurídicos relacionados con las mismas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LAS ACTAS",
+        "Artículos": [
+          {
+            "Artículo": 98,
+            "Texto": "- Acta notarial es el instrumento original que el notario a solicitud de parte, asienta en el protocolo para hacer constar uno o varios hechos presenciados por él, autorizados con su firma y sello. Las ratificaciones de firma de documentos en idioma español deberán contener una descripción breve del documento al que se refiere, los nombres y el carácter con que comparecen las personas de cuyas firmas se trate y la mención expresa de que de dichos documentos se agrega un ejemplar al apéndice correspondiente, así como de los documentos con que acredite su personalidad. Tratándose de documentos redactados en otro idioma, se requerirá su traducción al español.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 99,
+            "Texto": "- Las disposiciones relativas a las escrituras serán aplicables a las actas cuando sean compatibles con su naturaleza o con los actos o hechos materia de aquéllas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 100,
+            "Texto": "- Cuando se solicite al notario que dé fe de varios hechos relacionados entre sí, que tengan lugar en diversos sitios o momentos, podrá asentarlos en una sola acta, una vez que todos se hayan realizado, o bien en dos o más actas correlacionadas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 101,
+            "Texto": "- Entre los hechos que debe consignar el notario en actas se encuentran los",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Notificaciones, interpelaciones, protestos de documentos mercantiles y otras diligencias en las que pueda intervenir el notario, según las leyes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Existencia e identidad de personas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Reconocimiento de firmas en documentos por personas identificadas por el notario; IV. Hechos materiales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Entrega, protocolización o existencia de documentos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Declaraciones de una o más personas que bajo protesta de decir verdad efectúen respecto de hechos que les consten, propios o de quien solicite la diligencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Reconocimiento de firmas y ratificación del contenido de documentos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En general, toda clase de hechos, abstenciones, estados y situaciones que guarden las personas y cosas que puedan ser apreciadas objetivamente. En las diligencias mencionadas en este artículo, cuando así proceda por la naturaleza de las mismas, el notario se identificará con la persona con quien la entienda, explicándole el motivo de su presencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 102,
+            "Texto": "- En las actas a que se refiere la fracción I del artículo anterior, bastará mencionar el nombre y apellidos de la persona con quien se practique la diligencia. No impedirá la actuación del notario el hecho de que dicha persona se niegue a identificarse o a recibir documentos relacionados con la diligencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 103,
+            "Texto": "- En los casos señalados en el artículo 101 de esta Ley, el notario autorizará el acta aún cuando no sea firmada por el solicitante, la cual deberá asentar en el protocolo en su notaría, dentro del siguiente día hábil.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 104,
+            "Texto": "- Las notificaciones que la Ley permita hacer por medio de notario, las hará personalmente en el domicilio de quien deba ser notificado y si éste no se encuentra, la hará con la persona que esté en el domicilio, por medio de instructivo que contenga relación suscinta del objeto de la notificación, cerciorándose previamente de que la persona tiene su domicilio en el lugar donde se le busca, haciéndose constar el nombre, si lo diera, de la persona que recibe el instructivo. Si no se encontrara a ninguna persona en el domicilio señalado, el notario practicará la notificación mediante instructivo que fijará en la puerta u otro lugar visible del domicilio, conjuntamente con el documento a notificar. Cuando el domicilio del notificado se localice en otra entidad federativa, las notificaciones se podrán realizar por correo certificado con acuse de recibo o por algún otro medio indubitable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 105,
+            "Texto": "- Tratándose del reconocimiento de firmas y de la ratificación del contenido de documentos, el notario hará constar lo percibido por él, así como la identidad de los comparecientes y que éstos tienen capacidad. La firma o su reconocimiento, con su respectiva ratificación del contenido podrán ser respecto de cualquier documento redactado en idioma distinto al español, sin necesidad de traducción y sin responsabilidad para el notario; en el acta respectiva se incluirá la declaración del interesado de que conoce en todos sus términos el contenido del documento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 106,
+            "Texto": "- Los notarios no podrán ratificar firmas de documentos traslativos de dominio de inmuebles. En los demás documentos cuyas firmas se ratifiquen, el notario deberá cerciorarse de que su contenido no contravenga otras disposiciones legales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 107,
+            "Texto": "- Cuando se trate de confrontar una copia de acta de partida parroquial o de archivos de cualquier culto religioso con su original asentado en el libro de registro respectivo, en el acta del notario se insertará o se agregará al apéndice el contenido de aquélla, y éste hará constar que concuerda con su original exactamente o especificará las diferencias que haya encontrado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 108,
+            "Texto": "- En las actas de protocolización de documentos o de diligencias jurisdiccionales, el notario podrá transcribir íntegramente su contenido, la parte relativa o los agregará en copia\ncertificada al apéndice en el legajo marcado con el número del acta y bajo la letra que le corresponda, haciendo constar en su caso, que los devuelve a la autoridad remitente o al interesado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DE LOS TESTIMONIOS, COPIAS CERTIFICADAS Y CERTIFICACIONES",
+        "Artículos": [
+          {
+            "Artículo": 109,
+            "Texto": "- Testimonio es la copia auténtica en la que el notario, bajo su firma y sello, reproduce el texto de la escritura o acta y sus documentos anexos. Se entiende por testimonio al documento físico o electrónico, en el cual obra una copia física o electrónica de la escritura que obra en el protocolo físico o electrónico del notario y que se encuentren firmados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 110,
+            "Texto": "- El notario por cualquier medio de reproducción, tecnología de información o impresión indeleble, podrá expedir testimonios de conformidad con las disposiciones previstas para tal efecto en el Reglamento. Para que un testimonio expedido a través de cualquier tecnología de información sea válido, se requiere que contenga la firma electrónica notarial. Expedido un testimonio no podrá testarse ni entrerrenglonarse, aunque se adviertan errores de copia o transcripción del instrumento original, asentado en el protocolo. De ser el caso, una vez constatado el error, el Notario hará mención en nota complementaria que consignará en el original y asentará certificación en el testimonio, haciendo constar la discrepancia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 111,
+            "Texto": "- Copia certificada es la reproducción establecida en formato físico o electrónico que de una escritura, un acta, sus documentos de apéndices o bien, de los documentos presentados por los interesados, expida un notario o el titular del Archivo, en su caso. Para que las copias certificadas expedidas a través de formatos electrónicos sean válidas, se necesita que contenga la firma electrónica notarial que las expidió.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 112,
+            "Texto": "- El notario podrá expedir copias certificadas de las escrituras o actas, a solicitud de las autoridades competentes, a petición de los otorgantes o para efectos de trámites administrativos y fiscales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 113,
+            "Texto": "- Certificación notarial es la razón en la que el notario hace constar un acto o hecho que obra en su protocolo, en un documento físico o electrónico que él mismo expide o en un documento preexistente, también lo será la afirmación de que una transcripción o reproducción coincide fielmente con su original. Para que una certificación notarial expedida en documento digital sea válida, se necesita que contenga la firma electrónica notarial que la expidió.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DEL VALOR JURÍDICO DE LOS DOCUMENTOS NOTARIALES, SUS EFECTOS Y NULIDAD",
+        "Artículos": [
+          {
+            "Artículo": 114,
+            "Texto": "- El valor jurídico de los instrumentos y actuaciones notariales se regirá por lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "En tanto no se declaren nulas por sentencia judicial ejecutoriada, las escrituras, actas, testimonios, documentos cotejados, copias certificadas y certificaciones, harán prueba plena respecto de su contenido y de que el notario observó las formalidades correspondientes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las correcciones no salvadas en las escrituras y actas se tendrán por no hechas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La protocolización de un documento acreditará la certeza de su existencia para todos los efectos legales; IV. Cuando haya diferencia entre las palabras y los guarismos prevalecerán aquéllas."
+              }
+            ]
+          },
+          {
+            "Artículo": 115,
+            "Texto": "- Las escrituras y actas serán nulas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Si el notario autorizante no está en el ejercicio de sus funciones al otorgarlas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Si el notario está impedido por ley para intervenir en el acto jurídico o hecho de que se trate;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Si son autorizadas por el notario fuera del territorio del Estado de México; IV. Si han sido redactadas en idioma distinto al español;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Si están autorizadas con la firma autógrafa o electrónica notarial y sello del notario, cuando deban contener razón de “NO PASO” por no estar firmadas por todos los que debieron hacerlo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cuando no estén autorizadas con la firma autógrafa o electrónica notarial y sello del notario;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Si el notario no constató la identidad de los otorgantes;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Si carece de algún requisito que produzca la nulidad del instrumento por disposición expresa de la ley. IX. Cuando la actuación del notario sea consecuencia de violencia física o moral. Con relación a lo dispuesto en la fracción II de este artículo, solamente será nulo el instrumento en lo referente al acto o hecho cuya autorización no le está permitida, pero tendrá validez respecto de los otros actos o hechos que contenga y que no estén en el mismo caso."
+              }
+            ]
+          },
+          {
+            "Artículo": 116,
+            "Texto": "- Fuera de los casos previstos en el artículo anterior, el instrumento no será nulo, aún cuando el notario pueda ser responsable por el incumplimiento de alguna disposición legal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 117,
+            "Texto": "- El cotejo acreditará la identidad del documento cotejado con el documento original exhibido, sin calificar sobre su autenticidad, validez o legalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 118,
+            "Texto": "- Los testimonios, copias certificadas o certificaciones serán nulos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando la escritura o acta sea declarada nula;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Si el notario no se encuentra en ejercicio de sus funciones o los autoriza fuera del territorio del Estado de México;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando no estén autorizados con la firma autógrafa o electrónica notarial y sello del notario. IV. Si carece de algún requisito que produzca la nulidad por disposición expresa de la ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LOS PROCEDIMIENTOS NO CONTENCIOSOS",
+        "Artículos": [
+          {
+            "Artículo": 119,
+            "Texto": "- Solo los notarios de la entidad podrán auxiliar al Poder Judicial del Estado para conocer de los procedimientos no contenciosos establecidos en la presente Ley, conforme a las disposiciones previstas en los Códigos Administrativo, Civil y de Procedimientos Civiles del Estado de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 120,
+            "Texto": "- Los procedimientos no contenciosos que podrán tramitarse ante notario, a elección de parte interesada, serán los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Procedimiento sucesorio testamentario;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Procedimiento sucesorio intestamentario."
+              }
+            ]
+          },
+          {
+            "Artículo": 121,
+            "Texto": "- El notario conocerá de estos procedimientos en tanto subsista el acuerdo entre los solicitantes, debiendo dejar de conocer del mismo si hay alguna oposición o controversia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 122,
+            "Texto": "- En la tramitación de los procedimientos señalados en este capítulo, deberán cumplirse las formalidades y disposiciones establecidas en el Reglamento y en otros ordenamientos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN PRIMERA DEL PROCEDIMIENTO SUCESORIO TESTAMENTARIO",
+        "Artículos": [
+          {
+            "Artículo": 123,
+            "Texto": "- Cuando en un testamento, todos los herederos instituidos sean personas con capacidad de ejercicio, el procedimiento sucesorio testamentario podrá tramitarse ante notario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 124,
+            "Texto": "- El albacea, si lo hubiere y los herederos, podrán solicitar al notario de su elección, la tramitación del procedimiento sucesorio testamentario, exhibiendo para tal efecto el acta de defunción del autor de la herencia, un testimonio del testamento y los demás requisitos que señale el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 125,
+            "Texto": "- Cuando en la tramitación de un procedimiento sucesorio testamentario surja conflicto de intereses entre los herederos, el notario se abstendrá de seguir conociendo del asunto y remitirá de inmediato las actuaciones al juez competente, para tramitar la sucesión.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN SEGUNDA DEL PROCEDIMIENTO SUCESORIO INTESTAMENTARIO",
+        "Artículos": [
+          {
+            "Artículo": 126,
+            "Texto": "- Cuando todos los herederos sean mayores de edad y no exista conflicto de intereses entre éstos, el procedimiento sucesorio intestamentario podrá tramitarse ante notario.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 127,
+            "Texto": "- Los presuntos herederos de acuerdo con el orden de prelación que establece el Código Civil del Estado de México, podrán solicitar al notario de su elección, la tramitación del procedimiento sucesorio intestamentario, exhibiendo para tal efecto el acta de defunción del autor de la herencia y los documentos del Registro Civil o las pruebas que legalmente acrediten su entroncamiento con éste.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 128,
+            "Texto": "- En caso de inconformidad de cualquiera de los presuntos herederos o de un tercero con la tramitación del procedimiento sucesorio intestamentario, el notario se abstendrá de seguir conociendo y remitirá de inmediato las actuaciones al juez competente, para tramitar la sucesión legítima.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DEL ARBITRAJE Y LA MEDIACION NOTARIAL",
+        "Artículos": [
+          {
+            "Artículo": 129,
+            "Texto": "- Los notarios podrán desempeñar funciones de árbitro o de mediador y conocerán de los asuntos que les soliciten los interesados conforme a los compromisos respectivos,\nobservando para su trámite las formas y restricciones que fije el Código de Procedimientos Civiles para el Estado de México, el Código de Comercio, Ley de Mediación, Conciliación y Promoción de la Paz Social para el Estado de México y otras disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 130,
+            "Texto": "- El Colegio coordinará a los notarios que desempeñen la función de árbitro, mediador o conciliador en términos de las disposiciones del Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DEL ARCHIVO GENERAL DE NOTARIAS",
+        "Artículos": [
+          {
+            "Artículo": 131,
+            "Texto": "- El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos físicos o electrónicos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Consejería Jurídica y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo a las necesidades del servicio. El Archivo conservará el patrimonio histórico contenido en los protocolos notariales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 132,
+            "Texto": "- El Archivo se formará:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Con los protocolos y documentos físicos o electrónicos que los notarios remitan para su depósito, conforme a las disposiciones de esta Ley y su Reglamento."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Con los sellos de los notarios que deban conservarse en depósito;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Con los demás documentos propios del Archivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 133,
+            "Texto": "El Archivo es público respecto de los documentos que lo integran con más de cincuenta años de antigüedad, y de ellos se expedirán testimonios o copias certificadas en formato físico o electrónico, a las personas que lo soliciten, previo pago de los derechos correspondientes, exceptuando aquéllos documentos sobre los que la ley imponga limitación o prohibición. De los documentos que no tengan esa antigüedad, sólo podrán mostrarse o expedirse reproducciones a las personas que acrediten tener interés jurídico, a los notarios o las autoridades judiciales, administrativas o fiscales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 134,
+            "Texto": "- El titular del Archivo tendrá las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Conservar y administrar el Archivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Desempeñar las funciones que le encomienda esta Ley, el Reglamento y su reglamento interno, respecto de la información concentrada en los libros y documentos del Archivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Celebrar convenios con instituciones públicas y privadas para acrecentar, conservar y difundir el acervo documental del Archivo; IV. Estudiar y proponer técnicas de conservación y métodos para el respaldo de la documentación e información que obre en el Archivo;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar y requerir el exacto cumplimiento por parte de los notarios de la entrega de protocolos, una vez transcurrido el plazo señalado en esta Ley;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expedir testimonios, copias simples o certificadas de las actas o escrituras contenidas en los protocolos y sus apéndices que obren en el Archivo, a petición de los notarios o de las personas\nque acrediten su interés jurídico o cuando así lo ordene la autoridad competente. Los testimonios, copias simples o certificadas y escrituras que se emitan a través de documentos electrónicos, deberán contener la firma electrónica avanzada y el sello electrónico del titular del Archivo."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Autorizar definitivamente las escrituras con su firma autógrafa o firma electrónica avanzada y el sello correspondiente cubriendo los requisitos previos o posteriores a aquella."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Llevar un registro de los testamentos que se otorguen ante notario, de los cuales hayan dado aviso en cumplimiento del artículo 95 de esta Ley, e informar de su existencia a las autoridades judiciales o notarios que lo soliciten; IX. Recibir los sellos deteriorados, alterados o recuperados después de su extravío o aquellos que no cumplan los requisitos revistos por la Ley o su Reglamento, para su destrucción;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Resguardar los sellos de los notarios que se hayan separado temporalmente de la función; XI. Dar apoyo a las autoridades judiciales y administrativas en el cumplimiento de sus funciones y atribuciones; XII. Integrar expedientes de las notarías y de los notarios en lo que corresponda, así como los registros de los actos relacionados con la función notarial que deban ser objeto de control; XIII. Informar a la Consejería Jurídica las irregularidades en los protocolos que entreguen los Notarios; XIV. Implementar las políticas y lineamientos técnicos que establezca el Consejo Estatal de Gobierno Digital. XV. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Consejería Jurídica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DEL COLEGIO DE NOTARIOS",
+        "Artículos": [
+          {
+            "Artículo": 135,
+            "Texto": "- Los notarios del Estado de México formarán parte del Colegio, el cual tendrá como sede la capital; contará con personalidad jurídica y patrimonio propios y colaborará con las autoridades, instituciones, organismos y colegios que lo soliciten.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 136,
+            "Texto": "- Corresponde al Colegio:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover la superación profesional de sus miembros y otorgarles reconocimientos cuando se distingan en el ejercicio de su función;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Preservar los valores jurídicos y éticos tutelados por la Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Auxiliar la persona titular del Poder Ejecutivo del Estado y a la Consejería Jurídica en la vigilancia del cumplimiento de esta Ley, su Reglamento y las disposiciones notariales que dicte; IV. Asesorar en materia notarial al Gobierno del Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Estudiar y opinar sobre los asuntos que le encomiende la persona titular del Poder Ejecutivo del Estado y la Consejería Jurídica;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Resolver las consultas que le formulen los notarios referentes al ejercicio de sus funciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer modificaciones a las disposiciones relacionadas con la Institución del Notariado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Expedir su Reglamento Interno, el cual deberá publicarse en el periódico oficial “Gaceta del Gobierno”; IX. Proveer a los notarios de los folios para el protocolo ordinario, electrónico, especial, especial federal y para el libro de cotejos y de los elementos que se puedan utilizar como medidas de seguridad en los documentos notariales."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Derogada. XI. Designar a los notarios que habrán de desempeñarse como árbitros o mediadores; XII. Designar en su representación a un notario para que asista a las inspecciones especiales; XIII. Impartir el curso de formación de aspirantes a Notario a través del Instituto de Estudios Notariales. XIV. Las demás que le confieran esta Ley y su Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 137,
+            "Texto": "- La administración y dirección del Colegio estará a cargo de un Consejo Directivo. Dicho Consejo estará integrado por un Presidente, que será electo por la Asamblea y los demás miembros que éste designe, de conformidad con lo que establece el Reglamento Interno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 138,
+            "Texto": "- EL Colegio contará con un órgano responsable de mantener y preservar los valores éticos y jurídicos inherentes a la función notarial que se denominará Comité de Preservación de los Valores Éticos, el cual se integrará por el Presidente en funciones y los Ex-presidentes del Colegio, cuya organización y funcionamiento se determinarán en el Reglamento Interno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 138,
+            "Texto": "- El Colegio establecerá el Instituto de Estudios Notariales, órgano responsable de promover la superación profesional de sus miembros, debiendo tramitar las autorizaciones necesarias de las autoridades educativas con la finalidad de realizar las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La formación de profesionales del Derecho, en el ámbito notarial y disciplinas vinculadas a su ejercicio, mediante la impartición de cursos, diplomados, especialidades, maestrías y doctorados, con reconocimiento de validez oficial;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar investigación jurídica en materia notarial, registral y disciplinas afines, así como difundirlas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desarrollar programas de vinculación académica con otras instituciones educativas, que contribuyan a elevar la calidad de los estudios que impartirá; IV. Promover y fomentar el conocimiento de la cultura notarial."
+              }
+            ]
+          },
+          {
+            "Artículo": 138,
+            "Texto": "- El colegio emitirá el reglamento que regule la organización y funcionamiento del Instituto de Estudios Notariales.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DEL FONDO DE GARANTÍA DEL NOTARIADO Derogado.",
+        "Artículos": [
+          {
+            "Artículo": 139,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 140,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 141,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 142,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 143,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LA SUPERVISIÓN NOTARIAL",
+        "Artículos": [
+          {
+            "Artículo": 144,
+            "Texto": "- Para ejercer la supervisión de la función notarial, la Consejería Jurídica tendrá a su cargo las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Practicar inspecciones ordinarias y especiales a las notarías del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Resolver las quejas presentadas en contra de los notarios;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Sancionar administrativamente a los notarios conforme a las disposiciones de la presente Ley; IV. Intervenir en la entrega y recepción de notarías;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Realizar estudios para identificar las necesidades del servicio notarial en el territorio del Estado;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Llevar los registros necesarios para el control documental de la actividad notarial;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Tramitar los asuntos relacionados con el notariado del Estado;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que le señalen esta Ley y otros ordenamientos."
+              }
+            ]
+          },
+          {
+            "Artículo": 145,
+            "Texto": "- Para vigilar que el funcionamiento de las notarías se realice con apego a la Ley, la Consejería Jurídica, al tener conocimiento por queja o por cualquier otro medio, que un notario ha incurrido en una probable contravención a la ley, podrá ordenar la práctica de visitas de inspección, por orden debidamente fundada y motivada, la cual contendrá fecha y hora para el desahogo de la misma, debiendo ser notificada en días y horas hábiles, con al menos 48 horas de anticipación al momento en que deba efectuarse la visita de inspección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 146,
+            "Texto": "- La Consejería Jurídica ordenará inspecciones ordinarias, que se programarán periódicamente, para vigilar el cumplimiento de las disposiciones jurídicas aplicables, que deberán practicarse cuando menos una vez al año e inspecciones especiales, cuando tenga conocimiento, por queja o por cualquier otro medio, de que un notario ha incurrido en una probable contravención a la ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 147,
+            "Texto": "- Las inspecciones se regirán por lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Previo mandamiento escrito debidamente fundado y motivado, en el que se expresará:\na) . El nombre y número del notario.\nb) . El nombre del servidor público o servidores públicos que deban efectuar la inspección. La sustitución, aumento o disminución de éstos se notificará al notario."
+              },
+              {
+                "Fracción": "C",
+                "Texto": ". El lugar, día y hora en que ha de verificarse."
+              },
+              {
+                "Fracción": "D",
+                "Texto": ". El objeto y alcance de la inspección.\ne) . El nombre, cargo y firma autógrafa de la autoridad que la emita."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La visita se realizará en el lugar señalado en el mandamiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los inspectores entregarán la orden al notario y si no estuviere presente, a quien se encuentre en el lugar en que deba practicarse la diligencia; IV. Al iniciarse la inspección, el servidor o servidores públicos que en ella intervengan se deberán identificar ante el notario o la persona con quien se entienda la diligencia, con credencial o documento vigente expedido por autoridad administrativa que los acredite para desempeñar su función;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La persona con quien se entienda la diligencia será requerida por los inspectores para que nombre a dos testigos que intervengan en la diligencia; si éstos no son nombrados o los señalados no aceptan servir como tales, los inspectores los designarán. Los testigos podrán ser sustituidos por motivos debidamente justificados en cualquier tiempo, siguiendo las mismas reglas para su nombramiento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los notarios o la persona con quien se entienda la diligencia, están obligados a permitir a los inspectores el acceso al lugar de la visita, así como poner a la vista la documentación y objetos relacionados con la función notarial que les requieran;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los inspectores harán constar en el acta que al afecto se levante, todas y cada una de las circunstancias, hechos u omisiones que se hayan observado en la diligencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El notario o la persona con quien se entienda la diligencia y los inspectores firmarán el acta, así como quienes hayan intervenido en la misma. Un ejemplar legible del documento se entregará al notario o a la persona con quien se entienda la diligencia. La negativa a firmar el acta o a recibir copia de la misma, se deberá hacer constar en el referido documento, sin que esta circunstancia afecte la validez del acta o de la diligencia practicada; IX. El notario o la persona con quien se entienda la inspección, podrá formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos u omisiones contenidos en el acta de la misma o bien, el notario podrá hacer uso de ese derecho por escrito, dentro del término de tres días hábiles a la fecha en que se hubiere levantado el acta;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Si la inspección fuera ordinaria, el notario deberá ser notificado por lo menos con cinco días de anticipación, y con cuarenta y ocho horas tratándose de inspección especial, pudiendo inclusive llevarse a cabo tal notificación por correo certificado con acuse de recibo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LA RESPONSABILIDAD DEL NOTARIO",
+        "Artículos": [
+          {
+            "Artículo": 148,
+            "Texto": "- Los notarios serán civilmente responsables de los daños y perjuicios que ocasionen en el ejercicio de su función, por las acciones u omisiones a lo dispuesto en las leyes, siempre que sean consecuencia directa e inmediata de su intervención. Los notarios podrán ser responsables penalmente, si como consecuencia de una sentencia ejecutoriada se declara la nulidad de un instrumento público otorgado ante su fe, por causas que le sean imputables y que puedan ser constitutivas de delito.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 149,
+            "Texto": "- El Ministerio Público comunicará a la Consejería Jurídica y al Colegio, el inicio de cualquier carpeta de investigación radicada en el territorio del Estado, en contra de algún Notario de la entidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 150,
+            "Texto": "- Los notarios tendrán la obligación de enterar oportunamente el monto de las contribuciones a cargo de terceros que les haya sido entregado para tal efecto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 151,
+            "Texto": "- La persona titular del Poder Ejecutivo del Estado por conducto de la Consejería Jurídica, determinará la responsabilidad administrativa en que incurran los notarios por contravenir los preceptos de esta Ley y su Reglamento y, atendiendo a su gravedad, podrá aplicar las sanciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Amonestación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Multa;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suspensión; IV. Revocación del nombramiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 152,
+            "Texto": "- Para aplicar las sanciones a que se refiere el artículo anterior, la Consejería Jurídica fundará y motivará su resolución, tomando en cuenta las circunstancias, la gravedad del caso y los antecedentes del notario. Dicha resolución se emitirá en un plazo que no exceda de un año a partir de que sea admitida la queja.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 153,
+            "Texto": "- La amonestación será por escrito y se impondrá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Retardar injustificadamente la entrega de testimonios o la realización de algún trámite o actuación solicitados y expensados por un cliente, previa queja por escrito;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Separarse del ejercicio de sus funciones sin dar aviso o sin haber obtenido la licencia correspondiente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No entregar al Archivo los libros, sus apéndices e índices, así como cualquier otro documento que deba remitirse, en el plazo que establece esta Ley; IV. No cumplir las obligaciones establecidas en el artículo 10 de esta Ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "No otorgar las facilidades necesarias a los inspectores en el ejercicio de sus atribuciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No atender los requerimientos formulados por la Consejería Jurídica para tratar asuntos relativos al ejercicio de su función, sin que medie causa justificada;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Incurrir en actos u omisiones que puedan ser subsanados;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "No cumplir con el Arancel que regule sus honorarios."
+              }
+            ]
+          },
+          {
+            "Artículo": 154,
+            "Texto": "Se impondrá multa:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "De trescientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, por incurrir en actos u omisiones que no puedan ser subsanados."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "De cuatrocientas uno a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, por:\na) . Ejercer sus funciones estando impedidos para ello en los casos señalados en las fracciones I, IV y VI del artículo 21 de esta Ley.\nb) . Negarse a ejercer sus funciones al ser requeridos, sin que medie causa justificada."
+              },
+              {
+                "Fracción": "C",
+                "Texto": ". Contravenir las disposiciones de la presente Ley que puedan traer como consecuencia la nulidad de una escritura, acta o testimonio."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "No promocionar y gestionar los incentivos otorgados por el Gobierno del Estado a los usuarios de servicios notariales, en términos de lo dispuesto por la fracción VI bis del artículo 20 de la presente Ley."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "De quinientas una a mil veces el valor diario de la Unidad de Medida y Actualización vigente, por:\na) . Haber recibido el monto de impuestos o derechos causados por la operación contenida en un instrumento y enterarlos en forma extemporánea.\nb) . Reincidir en alguna de las causales previstas en el artículo anterior dentro del término de un año a partir de la fecha de la primera infracción. Para los efectos de este artículo se entiende por Unidad de Medida y Actualización, la que será utilizada como unidad de cuenta, índice, base, medida o referencia que corresponda al momento de cometer la infracción, tomando en cuenta su valor diario."
+              }
+            ]
+          },
+          {
+            "Artículo": 155,
+            "Texto": "- La suspensión del notario hasta por un año, se impondrá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Desempeñar sus funciones por interpósita persona;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejercer sus funciones en contravención a lo dispuesto en las fracciones I y III del artículo 21 de esta Ley."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Derogado. IV. Revelar injustificada y dolosamente datos sobre los que deba guardar secreto profesional;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Reincidir en alguna de las causales previstas en el artículo anterior, con excepción de la establecida en la fracción III inciso b), dentro del término de un año a partir de la fecha de la primera infracción."
+              }
+            ]
+          },
+          {
+            "Artículo": 156,
+            "Texto": "- La revocación del nombramiento procederá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Incurrir en falta de probidad en el ejercicio de su función. Se consideran como faltas de probidad, además de la definición genérica contenida en el artículo 20 fracción I de la presente Ley, las siguientes:\na) . Haber recibido el monto de impuestos o derechos causados por la operación contenida en un instrumento y no enterarlos en la oficina fiscal recaudadora. Para los efectos de la presente disposición se entenderá que el notario ha incurrido en falta de probidad, si los montos citados no son pagados a más tardar ciento ochenta días después del término que por ley corresponda para ser enterados, sin que medie justificación legal alguna.\nb) . Permitir la suplantación de su persona o el uso por un tercero de su sello de autorizar o su firma autógrafa o electrónica notarial."
+              },
+              {
+                "Fracción": "C",
+                "Texto": ". Rendir informes falsos a la Consejería Jurídica, autoridades jurisdiccionales o al Ministerio Público."
+              },
+              {
+                "Fracción": "D",
+                "Texto": ". Reincidir en el supuesto establecido en la fracción III del artículo anterior.\ne) . Haber sido condenado por sentencia ejecutoriada por delito grave.\nf) . Establecer oficina en local diverso al registrado ante la Consejería Jurídica, para atender al público en trámites relacionados con la Notaría a su cargo.\ng) . Extraer de la Notaría a su cargo el Protocolo o parte de él, salvo por causa de fuerza mayor o en los casos previstos en esta Ley."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No iniciar funciones ni establecer oficina en el lugar que deba desempeñarlas, dentro de los noventa días hábiles siguientes al de su protesta;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No reanudar sus labores sin causa debidamente justificada, dentro de los quince días hábiles siguientes a la fecha del término de la licencia que se le haya concedido o de la sanción por suspensión que se le haya impuesto; IV. Dejar de actuar injustificadamente en su protocolo durante más de dos meses en un año calendario;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Haber sido condenado por sentencia ejecutoriada por delito patrimonial o grave;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "No constituir o conservar vigente la garantía y la fianza que responda de su actuación."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Reincidir en las causales señaladas en las fracciones I, II, III y IV del artículo anterior."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Reincidir en la causal señalada en el inciso d), fracción II del artículo 154. IX. No haber solicitado certificado sobre la existencia o inexistencia de gravámenes o anotaciones al otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Incumplir la obligación de cerciorarse y acreditar la identidad de los comparecientes, contenida en el artículo 80 de la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 157,
+            "Texto": "- Los procedimientos administrativos que se originen de la aplicación de las disposiciones de esta Ley y su Reglamento, se substanciarán conforme a lo dispuesto en el Código de Procedimientos Administrativos del Estado de México, en lo que no se opongan.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 157,
+            "Texto": "- Toda persona que tenga conocimiento de que algún Notario establezca oficinas para prestar servicios notariales fuera de su residencia, podrá formular denuncia ante las autoridades para la aplicación de esta Ley. Las autoridades para la aplicación de esta Ley procederán a verificar los hechos de la denuncia y, en su caso, a aplicar las sanciones correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 158,
+            "Texto": "- En los procedimientos administrativos para la aplicación de las sanciones consistentes en suspensión o revocación, se escuchara la opinión del Colegio.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DE LA RESPONSABILIDAD DE TERCEROS",
+        "Artículos": [
+          {
+            "Artículo": 159,
+            "Texto": "- Se sancionará con las penas que corresponde al delito de Usurpación de Funciones Públicas o de Profesiones establecido en el Código Penal del Estado de México, a quien sin nombramiento de notario del Estado:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se ostente como notario público;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Utilice publicidad o propaganda engañosa para ofrecer servicios de notaría;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ofrezca servicios que sólo puede prestar un notario;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Realice actividades exclusivas de la función notarial;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Al que siendo notario de otra entidad, introduzca al territorio del Estado por si o por interpósita persona sus libros de protocolo o folios, con la finalidad de llevar a cabo actos que únicamente pueden realizar notarios del Estado."
+              }
+            ]
+          },
+          {
+            "Artículo": 160,
+            "Texto": "- Se aplicará la pena que corresponda al delito de falso testimonio previsto en el Código Penal, a quien haga declaraciones falsas que consten en instrumento público otorgado ante notario del Estado de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 160,
+            "Texto": "- Si las personas interesadas en la contratación de los servicios de un notario público del Estado de México hacen entrega de documentos físicos o electrónicos, que éste presuma como falsos, deberá requerir a la persona que entregó dichos documentos para que se haga un cotejo de los mismos, con los instrumentos originales o con aquellas constancias que le hayan dado origen a dicho documento. Si el notario se cerciora que los solicitantes otorgaron documentos falsos, ya sea en formatos físicos o electrónicos, el notario deberá dar vista al Ministerio Público para los efectos conducentes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO ÚNICO DEL ARANCEL",
+        "Artículos": [
+          {
+            "Artículo": 161,
+            "Texto": "- La Consejería Jurídica expedirá y publicará anualmente en el Periódico Oficial \"Gaceta del Gobierno\" el Arancel al que los Notarios deberán sujetar el cobro de sus honorarios, el cual se determinará conforme a la Unidad de Medida y Actualización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 162,
+            "Texto": "- Para las escrituras o procedimientos no contenciosos en los que intervengan los organismos públicos cuya finalidad sea el fomento y construcción de vivienda de interés social y popular, así como de programas tendentes a la titulación de inmuebles u otros análogos y de aquellos en que sean parte el Gobierno del Estado, los ayuntamientos o los organismos auxiliares de carácter local, los honorarios no se sujetarán al arancel.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Sexto",
+            "Texto": "El Gobernador del Estado proveerá en la esfera administrativa la exacta observancia de la presente Ley, expidiendo a los notarios en funciones los nombramientos con arreglo a este ordenamiento. Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintidós días del mes de diciembre del año dos mil uno.\nAPROBACIÓN: 22 de diciembre de 2001 PROMULGACIÓN: 3 de enero del 2002 PUBLICACIÓN: 3 de enero del 2002 VIGENCIA: 4 de marzo de 2002 TABLA DE REFORMAS, ADICIONES Y DEROGACIONES\nDECRETO 517.- Por el que se reforma el artículo 95 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 31 de agosto del 2012; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO 51.- Por el que se adiciona la fracción IX al artículo 115 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 21 de febrero de 2013; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO 59.- Por el que se reforman los artículos 2 en su fracción II, 3 en su fracción V, 10 en su primer párrafo, 12 en su segundo párrafo, 14 en su segundo párrafo, 16, 17, 18 en su fracción IV, 20 en su fracción II, 21 en su fracción V, 23 en su segundo párrafo, 24 en su primer párrafo, 28 en sus párrafos segundo y tercero, 30, 32, 39, 42 en su primer párrafo, 43, 44, 45, 46, 47, 48 en su primer párrafo, 50 en sus párrafos segundo y cuarto, 52 en su fracción III, 54, 65 en su primer párrafo, 71 en su primer párrafo, 74, 76, 131 en su primer párrafo, 134 en sus fracciones XIII y XIV, 136 en sus fracciones III y V, 141 en su tercer párrafo, 144 en su primer párrafo, 145, 146, 149, 151 en su primer párrafo, 152, 153 en su fracción VI, 156 fracción I en su inciso c) y 161 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 25 de febrero de 2013; entrando en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO 217.- Por el que se adicionan los artículos 138 bis, 138 ter y se reforma el artículo 143 a la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 09 de mayo de 2014; entrando en vigor el día siguiente de su publicación en el periódico oficial \"Gaceta del\nDECRETO 57.- Por el que se reforma la fracción IV del artículo 18, la denominación de la Sección Primera del Capítulo Segundo intitulado “Del Protocolo”, el artículo 50, el primer párrafo del\nartículo 51, el primer párrafo y la fracción I del artículo 52, el artículo 55, el artículo 58, el artículo 59, el primer párrafo del artículo 78, el segundo párrafo del artículo 88, el artículo 92, el artículo 110, el artículo 111, el artículo 113, las fracciones V y VI del artículo 115, la fracción III del artículo 118, el primer párrafo del artículo 131, la fracción I del artículo 132, el artículo 133, las fracciones VI, VII y XIV del artículo 134, la fracción IX del artículo 136, el inciso b) de la fracción I del artículo 156, se adiciona la fracción I Bis al artículo 3, un último párrafo al artículo 51, un segundo, tercer y cuarto párrafos al artículo 52, un segundo párrafo al artículo 54, un segundo párrafo al artículo 55, un segundo párrafo al artículo 58, un segundo párrafo al artículo 63, un tercer párrafo al artículo 73, , se adiciona, un tercer y cuarto párrafos al artículo 86, un tercer y cuarto párrafos al artículo 90, un segundo párrafo al artículo 109, un segundo párrafo al artículo 110, un segundo párrafo al\nartículo 111, un segundo párrafo al artículo 113, la fracción XV al artículo 134 y el artículo 160 Bis de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 6 de enero de 2016, entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del FE DE ERRATAS DEL DECRETO NÚMERO 57 DE LA “LIX” LEGISLATURA DEL ESTADO DE MÉXICO, PUBLICADO EN LA “GACETA DEL GOBIERNO” NÚMERO 2, DE FECHA 6 DE ENERO DEL AÑO 2016, SECCIÓN QUINTA. Publicada en el Periódico Oficial “Gaceta del Gobierno” el 3 de febrero de 2016.\nDECRETO 119.- Por el que se reforman los artículos 9 en su primer párrafo; 11 en su fracción V; 14 en su primer párrafo; 18 en su fracción II; 19 en su fracción V; 20 en sus fracciones V y X; 50 en su cuarto párrafo; 52 en su fracción III y sus párrafos segundo y tercero; 74; 80 en su primer párrafo y las fracciones I y III; 145; 146; 152; 155 en su fracción II; 156 en su párrafo segundo de la fracción I y VI. Se adicionan las fracciones VI y VII al artículo 3; el segundo párrafo al artículo 13;\nlas fracciones VI Bis, XI, XII y XIII al artículo 20; el inciso d) de la fracción II del artículo 154; los incisos f) y g) a la fracción I y las fracciones VIII, IX y X del artículo 156; 157 Bis. Se derogan la fracción V del artículo 21; la fracción III del artículo 155 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 6 de septiembre de 2016, entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\", se exceptúa de lo anterior lo concerniente a la fianza establecida en dicho Decreto que será a partir del 2017.\nDECRETO 178.- Por el que se reforma la fracción I del artículo 140, las fracciones I, II, III y párrafo segundo del artículo 154 y el artículo 161 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 20 de diciembre de 2016; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO 225.- Por el que se reforman los artículos 2, fracción II, 5, fracción V, 18, fracción II, 19, fracción VIII, 20, fracción V, 93, 129, 130, 136, fracción XIII y 156, fracción IX, se adicionan la fracción IX al artículo 19, un tercer párrafo al artículo 110 y la fracción XIV al artículo 136 y se derogan la fracción X del artículo 136, el Capítulo Tercero del Título Quinto y los artículos 139, 140, 141, 142 y 143 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 1º de septiembre de 2017; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO 244.- Por el que se reforman los artículos 2 en su fracción II; 3 en su fracción V; 10 en su primer párrafo; 11 en su fracción V; 12 en su segundo párrafo; 13 en su último párrafo; 14; 16; 17; 18 en su fracción IV; 19 en su fracción V; 20 en sus fracciones II y XI; 23 en su segundo párrafo; 24 en su primer párrafo; 28 en sus párrafos segundo y tercero; 30; 32; 39; 42 en su primer párrafo; 43; 44; 45; 46; 47; 48 en su primer párrafo; 50 en sus párrafos cuarto, sexto y séptimo; 52 en su fracción III; 54 en su primer párrafo; 55 en su segundo párrafo; 65 en su primer párrafo; 71 en su primer párrafo; 74; 76; 131 en su primer párrafo; 134 en sus fracciones XIII y XV; 136 en sus fracciones III y V; 144 en su primer párrafo; 145; 146; 149; 151 en su primer párrafo; 152; 153 en su fracción VI; 156 fracción I incisos c) y f); 161, de la Ley del Notariado del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 13 de septiembre de 2017, entrando en vigor el quince de septiembre de dos mil diecisiete.\nDECRETO 179.- Se reforman las fracciones I y II del artículo 2 y el artículo 45 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 22 de junio de 2023; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO 252.- Se reforman las fracciones I y II del artículo 2, la fracción V del artículo 3, el párrafo primero del artículo 10, párrafo primero y la fracción V del artículo 11, el párrafo segundo del artículo 12, el párrafo segundo del artículo 13, artículos 14, 15, 16 y 17, la fracción IV del\nartículo 18, las fracciones III, IV y V del artículo 19, fracciones II y XI del artículo 20, el párrafo segundo del artículo 23, el párrafo primero del artículo 24, el párrafo primero del artículo 27, los artículos 28, 29, 30 y 32, el párrafo primero del artículo 36, el artículo 39, la fracción III del artículo 40, la fracción V del artículo 41, los artículos 42, 43, 44, 45, 46 y 47, el párrafo primero del artículo 48, los párrafos cuarto, sexto y séptimo del artículo 50, la fracción III del artículo 52, el párrafo primero del artículo 54, el párrafo segundo del artículo 55, el párrafo primero del artículo 65, el párrafo primero del artículo 71, los artículos 74 y 76, el párrafo primero del artículo 131, las fracciones XIII y XV del artículo 134, las fracciones III y V del artículo 136, el párrafo primero del\nartículo 144, los artículos 145, 146 y 149, el párrafo primero del artículo 151, el artículo 152, la fracción VI del artículo 153, los incisos c) y f) de la fracción I del artículo 156 y artículo 161 de la Ley del Notariado del Estado de México. Publicado en la Gaceta del Gobierno el 05 de abril de 2024; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

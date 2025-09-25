@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 39,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE SU NATURALEZA JURÍDICA Y SUS OBJETIVOS",
+    "CAPITULO SEGUNDO DE SUS FACULTADES",
+    "CAPÍTULO TERCERO DE SUS PROGRAMAS BÁSICOS",
+    "CAPÍTULO CUARTO DE SU ORGANIZACIÓN INTERNA",
+    "CAPÍTULO QUINTO DE SU PATRIMONIO",
+    "CAPÍTULO SEXTO GENERALIDADES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

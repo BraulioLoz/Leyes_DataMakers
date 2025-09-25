@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 24,
+  "n_perm_fracciones": 41,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DENOMINACIÓN, NATURALEZA Y OBJETO",
+    "CAPÍTULO SEGUNDO PATRIMONIO",
+    "CAPÍTULO TERCERO ADMINISTRACIÓN",
+    "CAPÍTULO CUARTO RÉGIMEN LABORAL Y DE SEGURIDAD SOCIAL"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

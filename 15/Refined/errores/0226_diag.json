@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 28,
+  "n_perm_fracciones": 57,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO CONSTITUCIÓN Y FINES",
+    "CAPÍTULO SEGUNDO PATRIMONIO",
+    "CAPÍTULO TERCERO ORGANIZACIÓN",
+    "CAPÍTULO TERCERO BIS DE LA PROCURADURÍA MUNICIPAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES",
+    "CAPÍTULO CUARTO",
+    "CAPÍTULO QUINTO PRERROGATIVAS Y FRANQUICIAS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

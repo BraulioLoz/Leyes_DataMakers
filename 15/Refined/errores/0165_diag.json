@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 36,
+  "n_perm_fracciones": 88,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE SU NATURALEZA JURÍDICA Y DE SU OBJETO",
+    "CAPÍTULO SEGUNDO DE SUS FACULTADES",
+    "CAPÍTULO TERCERO DE SUS PROGRAMAS DE LA CULTURA FÍSICA",
+    "CAPÍTULO CUARTO DE SU ORGANIZACIÓN",
+    "CAPÍTULO QUINTO DEL PATRIMONIO",
+    "CAPÍTULO SEXTO GENERALIDADES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

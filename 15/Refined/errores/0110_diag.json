@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 18,
+  "n_perm_fracciones": 45,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO NATURALEZA, OBJETO Y ATRIBUCIONES",
+    "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN DEL CONSEJO",
+    "CAPÍTULO TERCERO DE LA JUNTA DE GOBIERNO",
+    "CAPÍTULO CUARTO DEL VOCAL EJECUTIVO",
+    "CAPÍTULO QUINTO DEL PATRIMONIO DEL CONSEJO",
+    "CAPÍTULO SEXTO DEL FONDO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS ÍNDIGENAS",
+    "CAPÍTULO SÉPTIMO DEL PERSONAL"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

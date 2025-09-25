@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 19,
+  "n_perm_fracciones": 0,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE LOS SÍMBOLOS DEL ESTADO",
+    "CAPÍTULO SEGUNDO DEL ESCUDO",
+    "CAPÍTULO TERCERO DEL HIMNO DEL ESTADO DE MÉXICO",
+    "CAPÍTULO CUARTO DISPOSICIONES GENERALES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

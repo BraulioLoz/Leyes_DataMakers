@@ -1,0 +1,612 @@
+{
+  "0234.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto Número 252 Legislatura LXI LEY REGLAMENTARIA DEL ARTÍCULO 88 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO",
+    "Año_publicación": 2004,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "TÍTULO PRIMERO DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Las Disposiciones de esta Ley son de orden público, regirán en el Estado de México y su aplicación corresponde al Poder Judicial de la entidad, a través de la Sala Constitucional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Este ordenamiento tiene como objeto, reglamentar el artículo 88 Bis de la Constitución Política del Estado Libre y Soberano de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- La Sala Constitucional se integrará por cinco Magistrados del Pleno del Tribunal Superior de Justicia del Estado de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Los Magistrados integrantes de la Sala Constitucional serán designados por el Consejo de la Judicatura del Estado de México. La Sala elegirá anualmente en forma alterna entre sus miembros un presidente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- La Sala Constitucional se integrará cada vez que se requiera; iniciará sus funciones a más tardar tres días después a la fecha de presentación del escrito de demanda en la oficialía de partes común del propio Tribunal y estará en funciones hasta agotar el trámite de los asuntos de su competencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- Los plazos establecidos en la presente ley, se computarán de acuerdo con las siguientes reglas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Comenzarán a correr al día siguiente de su notificación, incluyéndose en ellos el día de su vencimiento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se contabilizarán solamente los días y horas hábiles; salvo que expresamente se establezcan plazos en días naturales; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Durante los periodos de receso y en los días en que sean suspendidas las labores del Tribunal, no correrá plazo alguno."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Las notificaciones a la persona Titular del Poder Ejecutivo del Estado de México, se entenderán con la persona titular de la Dependencia correspondiente o con la Consejería Jurídica del Gobierno Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- Transcurridos los plazos fijados para las partes, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse, sin necesidad de declaración en este sentido.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Cuando por razón del asunto se impongan multas, se hará sirviendo como base para su cálculo al valor de la Unidad de Medida y Actualización vigente según sea el caso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- Las audiencias se celebrarán con o sin la presencia de las partes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Para efectos de esta Ley, tratándose de controversias constitucionales y acciones de inconstitucionalidad, todo lo no previsto expresamente, se estará a lo que establece el Código de Procedimientos Administrativos del Estado. Respecto de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se apliquen normas de ejercicio de control difuso de constitucionalidad y convencionalidad, se observarán las disposiciones de la legislación procesal de la materia, para su trámite y\nresolución. En estos casos la Sala Constitucional resolverá también el fondo del asunto planteado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LAS DISPOSICIONES COMUNES PARA LAS PARTES",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "- Son partes en las Controversias Constitucionales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El actor: estado, poder o municipio, que promueva la Controversia Constitucional;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Demandado: estado, poder municipio que hubiere emitido y promulgado la disposición general o pronunciado el acto que sea objeto de la controversia; y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tercero Interesado: estado, poder o municipio que sin tener el carácter de actor o demandado, pudiera resultar afectado por la sentencia que se dictare."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Las partes a que se refiere el artículo anterior, comparecerán a juicio, en su caso, por conducto de las personas que hubieren designado para representarlos, de acuerdo a las disposiciones que los rigen. Asimismo, podrán mediante oficio acreditar delegados para que concurran a las audiencias, rindan pruebas, formulen alegatos y promuevan el recurso previsto en este ordenamiento, así como para recibir notificaciones. En el caso de la persona Titular del Poder Ejecutivo del Estado, quien la representará en juicio será la persona titular de la Dependencia correspondiente o la Consejería Jurídica del Gobierno Estatal.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LA DEMANDA Y SU CONTESTACION",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "- La demanda deberá formularse por escrito y presentarse en la oficialía de partes común del Tribunal Superior de Justicia, de acuerdo con los siguientes plazos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Respecto de actos de autoridad, dentro de los quince días siguientes a la fecha de su notificación en que se hizo sabedor de aquellos o tuvo conocimiento de los mismos; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Respecto de disposiciones generales, dentro de los cuarenta y cinco días siguientes a su publicación en los medios oficiales o dentro de los quince días siguientes al en que se produzca el primer acto de aplicación de la norma que dé lugar a la controversia."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- La demanda deberá contener los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Sala ante la que se promueve;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Nombre del estado, poder, municipio o la o el Presidente de la Comisión de Derechos Humanos del Estado de México, actor, domicilio para oír y recibir notificaciones y, en su caso, el cargo del servidor público que los representa;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El acto o disposición general cuya invalidez se demande, así como en su caso el medio oficial en que se hubiere publicado; IV. La autoridad demandada;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El nombre y domicilio del tercero interesado, si lo hubiere;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La fecha de notificación o cuando se tuvo conocimiento del acto impugnado, o bien, la fecha de publicación de la disposici6n general en el periódico oficial \"Gaceta de Gobierno\" o medio oficial en que se hubiere publicado;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los hechos que sustenten el acto o disposición impugnada;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los preceptos de la Constitución Local que se estimen violados; y IX. Los conceptos de invalidez."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- El actor deberá adjuntar a la demanda:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las copias simples necesarias de la demanda y de los documentos anexos para cada una de las partes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El documento que acredite su personalidad;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El documento o documentos en que la parte actora funde su derecho. Si no los tuviera a su disposición deberá señalar el archivo lugar en que se encuentren los originales."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- El escrito de contestación de demanda deberá contener como mínimo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La contestación de cada uno de los hechos narrados por la actora, afirmándolos o negándolos, expresando los que ignore o exponiendo cómo ocurrieron;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En su caso, las causales de improcedencia que estime actualizadas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las razones y fundamentos legales que se estimen pertinentes para sostener la validez de la disposición general o acto de que se trate."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Admitida la demanda, se correrá traslado de ella al estado, poder o municipio contra quien se proponga, así como al tercero interesado si lo hubiere, emplazándolos para que la contesten dentro de los treinta días siguientes a la fecha de su emplazamiento. En caso de ser varios los demandados, el término correrá individualmente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- El actor podrá ampliar su demanda dentro de los quince días siguientes al de la contestación si en esta última apareciere un hecho nuevo, o hasta antes de la fecha de cierre de la instrucción si apareciere un hecho superveniente. La ampliación de la demanda y su contestación se tramitarán en cuaderno por separado conforme a lo previsto para la demanda y contestación originales, y se resolverá en la misma sentencia. El plazo para contestar la ampliación de demanda será de quince días posteriores al en que fue notificada.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DE LA INSTRUCCIÓN",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "- Recibida la demanda, el Consejo de la Judicatura convocara a los cinco Magistrados que integran la Sala Constitucional, en caso de que no se encuentren en funciones, a fin de que conozcan y resuelvan el asunto planteado. El Presidente de la Sala designará al Magistrado Instructor, conforme al turno que corresponda, remitiéndole la demanda para el trámite respectivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Una vez designados y notificados, los magistrados que integraran la Sala Constitucional y habiéndose nombrado al Magistrado Instructor, este examinará el escrito de demanda y si encontrare motivo manifiesto e indudable de improcedencia, la desechará de plano.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Si los escritos de demanda, contestación, reconvención o ampliación fueren obscuros o irregulares, el Magistrado Instructor prevendrá a los promoventes para que subsanen las irregularidades dentro del plazo de tres días. De no subsanarse las irregularidades, el Magistrado Instructor desechará la demanda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- Habiendo transcurrido el plazo para contestar la demanda y, en su caso, la ampliación o la reconvención, el Magistrado Instructor señalará fecha para una audiencia de ofrecimiento, admisión y desahogo de pruebas, misma que deberá verificarse dentro de los quince días siguientes. El Magistrado Instructor podrá ampliar el término de celebración de la audiencia cuando la importancia y trascendencia del asunto así lo ameriten.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- Si la demanda o reconvención no se contestaren dentro del término legal respectivo, el Magistrado Instructor tendrá por confesados los hechos que el actor atribuye de manera precisa, salvo que por las pruebas rendidas legalmente o por hechos notorios, resulten desvirtuados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Las partes podrán ofrecer las pruebas a las que se refiere el Código de Procedimientos Administrativos para el Estado de México, excepto la confesional de posiciones y aquellas que sean contrarias a derecho. En cualquier caso, deberán desecharse de plano aquellas pruebas que no guarden relación con la controversia o no influyan en la sentencia definitiva.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- Las pruebas deberán ofrecerse y rendirse en la audiencia correspondiente, excepto la documental que podrá presentarse con anterioridad, sin perjuicio de que se haga relación de ella en la propia audiencia y se tenga como recibida en ese acto, aunque no exista gestión expresa del interesado. Las pruebas testimonial, pericial y de inspección judicial, deberán anunciarse diez días antes de la fecha de la audiencia, sin contar esta última ni la de ofrecimiento, exhibiendo copia de los interrogatorios para los testigos y el cuestionario para los peritos, a fin de que las partes puedan repreguntar en la audiencia o ampliar el cuestionario y nombrar perito. En ningún caso se admitirán más de tres testigos por cada hecho. Al promoverse la prueba pericial, el Magistrado Instructor designará al perito o peritos que estime conveniente de entre los que integran el Cuerpo de Peritos del propio Tribunal, para la práctica de la diligencia respectiva, sin perjuicio de que las partes puedan nombrar a su perito, dentro de los que se encuentran certificados por el Instituto de Servicios Periciales del Estado de México, o los del propio Tribunal. Los peritos no serán recusables, pero el nombrado por el Magistrado Instructor deberá excusarse de conocer cuando en él ocurra alguno de los impedimentos a los que se refiere la Ley Orgánica del Poder Judicial del Estado de México. En caso de no exhibirse los interrogatorios o cuestionarios se desechará la prueba.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- Los servidores públicos tienen la obligación de expedir con toda oportunidad las copias certificadas de los documentos que les soliciten las partes. Si aquellos no cumplieren con esa obligación, las partes podrán solicitar en cualquier momento, a través de la Sala, que requiera a los omisos con los apercibimientos de ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- En todo tiempo, el Magistrado Instructor podrá decretar pruebas para mejor proveer, fijando al efecto fecha para su desahogo; asimismo, podrá requerir a las partes para que proporcionen los informes o aclaraciones que estime necesarios para la mejor resolución del asunto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- Concluida la audiencia de ofrecimiento, admisión y desahogo de pruebas, las partes dentro del término de cinco días, podrán presentar alegatos por escrito.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- Una vez concluido el término de alegatos, el Magistrado Instructor, elaborará el proyecto de resolución respectivo, mismo que someterá a la consideración de los demás integrantes de la Sala Constitucional para resolver en definitiva.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DE LAS SENTENCIAS",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "- Las sentencias que dicte la Sala Constitucional deberán contener:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La fijación clara y precisa de los puntos controvertidos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El análisis de las causales de improcedencia o sobreseimiento del juicio, en su caso;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El análisis de todas y cada una de las cuestiones planteadas por las partes; IV. El examen y valoración de las pruebas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La mención de disposiciones legales que las sustenten; y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los puntos resolutivos, en los que se expresarán: la declaratoria de sobreseimiento del juicio; los actos cuya validez se reconozca o cuya invalidez se declare; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado; la validez o invalidez de la disposición legal, cuando sea procedente, o la condena que en su caso se decrete, fijando el término para el cumplimiento de las situaciones que se señalen."
+              }
+            ]
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- Las resoluciones dictadas en los procesos relativos a las Controversias Constitucionales que declaren la invalidez de disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los Municipios, tendrán efectos generales cuando sean emitidas por cuando menos cuatro votos de los integrantes de la Sala Constitucional.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- En cualquier otro caso, las resoluciones tendrán efectos única y exclusivamente para las partes en la controversia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- Dictada la sentencia, se ordenará notificar a las partes, y se mandará publicarla de manera Integra en el Boletín Judicial. Cuando en la sentencia se declare la invalidez de disposiciones generales, se ordenará su inserción en el periódico oficial, en el que tales normas se hubieren publicado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- Las sentencias producirán sus efectos a partir de la fecha que determine la Sala Constitucional; las sentencias que declaren la invalidez de normas generales no tendrán efectos retroactivos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO QUINTO DE LA EJECUCIÓN DE SENTENCIAS",
+        "Artículos": [
+          {
+            "Artículo": 36,
+            "Texto": "- Las partes condenadas informarán en el plazo otorgado en la sentencia, del cumplimiento de la misma a la Sala Constitucional, la cual resolverá si aquella ha quedado debidamente cumplida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- Cuando alguna autoridad aplique una disposición general o acto declarado inválido, cualquiera de las partes podrá denunciar el hecho ante la Sala Constitucional, quien dará vista a la autoridad señalada como responsable, para que en el plazo de quince días deje sin efecto el acto que se le reclama, o para que alegue lo que conforme a derecho corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- Lo dispuesto en el artículo anterior, se entenderá sin perjuicio de que la Sala Constitucional haga cumplir la ejecutoria de que se trate, dictando las providencias que estime necesarias.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- No podrá archivarse ningún expediente sin que quede cumplida la sentencia o se hubiere extinguido la materia de la ejecución.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEXTO DE LA IMPROCEDENCIA Y SOBRESEIMIENTO",
+        "Artículos": [
+          {
+            "Artículo": 40,
+            "Texto": "- Las controversias constitucionales son improcedentes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Contra resoluciones del Poder Judicial del Estado de México;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contra disposiciones generales o actos en materia electoral;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contra disposiciones generales o actos que sean materia de una controversia pendiente de resolver, siempre que exista identidad de partes, disposiciones generales o actos, aunque los conceptos de invalidez sean distintos; IV. Contra disposiciones generales o actos que hubieren sido materia de una ejecutoría dictada en otra controversia, o contra las resoluciones dictadas con motivo de su ejecución, siempre que exista identidad de partes, disposiciones generales o actos en los casos a que se refiere el"
+              }
+            ]
+          },
+          {
+            "Artículo": 88,
+            "Texto": ", fracción II de la Constitución Política del Estado Libre y Soberano de México;",
+            "Fracciones": [
+              {
+                "Fracción": "V",
+                "Texto": "Cuando hayan cesado los efectos de la norma general o acto materia de la controversia;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cuando no se haya agotado la vía legalmente prevista para la solución del propio conflicto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cuando la demanda se presentare fuera de los plazos previstos en esta ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cuando exista falta de interés jurídico; IX. Cuando existan actos consumados de forma irreparable;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cuando la disposición general o el acto impugnados no sean de la competencia de la Sala Constitucional; y XI. En los demás casos en que la improcedencia resulte de alguna disposición de la Ley. En todo caso, las causales de improcedencia deberán examinarse de oficio."
+              }
+            ]
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- El sobreseimiento procederá en los casos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando la parte actora se desista expresamente de la demanda interpuesta en contra de actos de alguna autoridad, sin que en ningún caso pueda hacerlo tratándose de disposiciones generales;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuando durante el juicio apareciere o sobreviniere alguna de las causales de improcedencia a que se refiere el artículo anterior;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cuando de las constancias de autos apareciere claramente demostrado que no existe la disposición general o acto materia de la controversia, o cuando no se probare la existencia de este último; y IV. Cuando por convenio entre las partes haya dejado de existir el acto materia de la controversia, sin que ningún caso ese convenio pueda recaer sobre disposiciones generales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SÉPTIMO DE LA SUSPENSIÓN",
+        "Artículos": [
+          {
+            "Artículo": 42,
+            "Texto": "- Tratándose de controversias constitucionales, el Magistrado Instructor, a petición de parte, podrá conceder la suspensión del acto que las motivare, hasta antes de que se dicte la sentencia definitiva. La suspensión se concederá con base en los elementos que sean proporcionados por las partes o recabados por el Magistrado Instructor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- Hasta en tanto no se dicte la sentencia definitiva, el Magistrado Instructor podrá modificar o revocar el auto de suspensión, siempre que ocurra un hecho superveniente que lo fundamente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- Para el otorgamiento de la suspensión deberán tomarse en cuenta las circunstancias y características particulares de la Controversia Constitucional. La resolución mediante la cual se otorgue, deberá señalar con precisión los alcances y efectos de la suspensión, los órganos obligados a cumplirla, los actos suspendidos, el territorio respecto del cual opere, el día en que deba surtir sus efectos y, en su caso, los requisitos para que surta efectos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "- La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren en tanto se pronuncia sentencia definitiva. No se otorgará la suspensión si se sigue perjuicio o un evidente interés social, si se contravienen disposiciones de orden público o se deja sin materia la controversia; además, en los casos en que con la misma se ponga en peligro la seguridad, las instituciones fundamentales, la economía o el orden jurídico del Estado, o pueda afectarse gravemente a la sociedad en una proporción mayor a los beneficios que con ella pudiera obtener el solicitante.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- Cuando alguna autoridad no cumpla la resolución en que se haya concedido la suspensión o cuando incurra en defecto o exceso en el cumplimiento de la misma, se aplicaran en lo conducente, las disposiciones relativas para la ejecución de la sentencia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO OCTAVO DEL RECURSO DE REVISIÓN",
+        "Artículos": [
+          {
+            "Artículo": 47,
+            "Texto": "- El recurso de revisión procederá en contra de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autos de la Sala que desechen una demanda o reconvención, su contestación o sus respectivas ampliaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las resoluciones en que se otorgue, niegue, modifique, revoque o tenga por cumplida la suspensión;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los autos que admitan o desechen pruebas; IV. Las sentencias dictadas en controversias constitucionales o acciones de Inconstitucionalidad que decidan la cuestión planteada; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las resoluciones que pongan fin al procedimiento de ejecución de sentencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- El recurso de revisión deberá interponerse ante la Sala Constitucional, dentro de los ocho días siguientes al en que surta efectos la notificación del auto o resolución recurrida. En el escrito correspondiente se expresarán los agravios que se le causen al recurrente, exhibiendo copia para cada una de las partes. Interpuesto el recurso de revisión se dará vista a la parte contraria, por el término de tres días, y transcurridos estos, la Sala Constitucional resolverá dentro de los cinco días siguientes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 49,
+            "Texto": "- Este título tiene por objeto regular el procedimiento, relativo a las Acciones de Inconstitucionalidad que sean interpuestas en contra de leyes, reglamentos estatales o municipales, bandos municipales o decretos de carácter general por considerarlos contrarios a la Constitución Política del Estado Libre y Soberano de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- Pueden interponer las Acciones de Inconstitucionalidad, en términos de la presente ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La persona Titular del Poder Ejecutivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los diputados integrantes de la Legislatura Estatal, cuando estén de acuerdo con ello al menos el treinta y tres por ciento de los miembros de la Legislatura;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Ayuntamientos del Estado, cuando tengan la aprobación de cuando menos el equivalente al treinta y tres por ciento de los integrantes del cabildo;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "La o el Presidente de la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- En el procedimiento relativo a las acciones de inconstitucionalidad se aplicará lo dispuesto en el título anterior cuando no se encuentre previsto expresamente en este título.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- El plazo para ejercitar las acciones de inconstitucionalidad será de cuarenta y cinco días naturales siguientes a la fecha de publicación de la norma impugnada en el medio oficial correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 53,
+            "Texto": "- La demanda deberá contener los siguientes requisitos formales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Sala ante la cual se promueve la Acción de Inconstitucionalidad;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los nombres y firmas de los actores, así como su domicilio para oír y recibir notificaciones;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Nombre y domicilio del órgano que haya emitido y promulgado la disposición general impugnada; IV. La norma general cuya invalidez se demanda y el medio oficial en que se hubiere publicado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La fecha de publicación de la norma impugnada;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los preceptos constitucionales que se estimen violados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los conceptos de invalidez."
+              }
+            ]
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- La parte actora deberá designar representante común, quien actuará durante todo el procedimiento. En caso de que no se designare, lo hará de oficio el Magistrado Instructor. Los representantes comunes podrán acreditar delegados para que hagan promociones, asistan a audiencias, rindan pruebas y ofrezcan alegatos, así como para que promuevan el recurso previsto en esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- La persona Titular del Poder Ejecutivo será representada por la persona titular de la Dependencia correspondiente o la Consejería Jurídica del Gobierno Estatal, considerando para tales efectos las competencias establecidas por las disposiciones legales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- En el procedimiento de las acciones de inconstitucionalidad no ha lugar a la suspensión de la norma impugnada, pero si ha lugar a la suspensión del acto reclamado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DEL PROCEDIMIENTO",
+        "Artículos": [
+          {
+            "Artículo": 57,
+            "Texto": "- Una vez cumplido lo dispuesto por el artículo quinto de la presente Ley, y conforme al diverso diecinueve, si el escrito inicial de demanda fuere oscuro o irregular, el Magistrado Instructor prevendrá al demandante para que realice las aclaraciones correspondientes dentro de los tres días siguientes. Una vez cumplida la prevención, el Magistrado Instructor dará vista a los órganos que hubieren emitido la norma y al órgano ejecutivo que la hubiere promulgado, para que dentro del plazo de ocho días rindan un informe que contenga las razones y fundamentos tendientes a sostener la validez de la norma impugnada o la improcedencia de la acción de inconstitucionalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- Tratándose de una acción de inconstitucionalidad en contra de leyes electorales, los plazos a que se refiere el artículo anterior serán de tres días para hacer aclaraciones y de cinco para rendir el informe que contenga las razones y fundamentos tendientes a sostener la constitucionalidad de la ley impugnada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- Las causales de improcedencia establecidas en el título anterior son aplicables a las acciones de inconstitucionalidad, con excepción de la relativa a las leyes o normas en materia electoral.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 60,
+            "Texto": "- Una vez rendidos los informes a que se refieren los artículos 57 y 58 de la presente Ley, o bien, si hubiere transcurrido el término establecido para tal efecto en los citados artículos, el Magistrado Instructor pondrá los autos a la vista de las partes con el objeto de que presenten sus alegatos, dentro del plazo de cinco días siguientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 61,
+            "Texto": "- El Magistrado Instructor, en todo momento hasta antes de dictarse la sentencia, podrá solicitar a las partes o a quien estime conveniente, todos aquellos elementos que a su juicio resulten necesarios para la mejor solución del asunto del que se trate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "- Una vez agotado el procedimiento que establece el presente Titulo, el Magistrado Instructor propondrá el proyecto de resolución definitiva del asunto de que se trate, a los integrantes de la Sala Constitucional, a efecto de que sea discutido y analizado en la sesión correspondiente, la cual deberá celebrarse dentro de los diez días siguientes al en que se hubiere agotado el procedimiento, debiendo dictarse el fallo definitivo, en un plaza no mayor a diez días, contados a partir de la fecha en que el Magistrado Instructor presente su proyecto de sentencia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DE LAS SENTENCIAS",
+        "Artículos": [
+          {
+            "Artículo": 63,
+            "Texto": "- En las sentencias relativas a las controversias constitucionales y acciones de inconstitucionalidad, la Sala Constitucional deberá corregir los errores en la cita de los preceptos invocados y examinará en su conjunto los razonamientos de las partes a fin de resolver la cuestión efectivamente planteada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "- Las resoluciones de la Sala Constitucional sólo podrán declarar la invalidez de las normas impugnadas, cuando sean aprobadas por cuando menos cuatro votos de los integrantes de la Sala. Si no se aprobaran por la mayoría indicada, la Sala Constitucional desestimará la acción ejercitada y ordenará el archivo del asunto.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

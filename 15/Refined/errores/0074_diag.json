@@ -1,0 +1,25 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 41,
+  "n_perm_fracciones": 51,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DISPOSICIONES GENERALES Objeto de la Ley",
+    "CAPÍTULO SEGUNDO DEROGADO",
+    "CAPÍTULO TERCERO INSTITUTO DE ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO Objeto del Instituto",
+    "CAPÍTULO CUARTO COMITÉ DIRECTIVO PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, EMBARGADOS, ABANDONADOS, DECOMISADOS O DE EXTINCIÓN DE DOMINIO Comité Técnico",
+    "CAPÍTULO QUINTO ADMINISTRACIÓN DE LOS BIENES Administración de los bienes",
+    "SECCIÓN PRIMERA DE LOS BIENES MUEBLES Protección de los bienes",
+    "SECCIÓN SEGUNDA DE LOS BIENES INMUEBLES Administración de bienes inmuebles",
+    "SECCIÓN TERCERA DE LAS EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS Administrador",
+    "CAPÍTULO SEXTO DESTINO FINAL DE LOS BIENES Destino final de los bienes",
+    "CAPÍTULO SÉPTIMO DEL PROCEDIMIENTO DE ENAJENACIÓN DE LOS BIENES Enajenación de los bienes",
+    "CAPÍTULO OCTAVO DEL RECURSO DE INCONFORMIDAD Recurso"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8,
+    "SECCIÓN": 3
+  }
+}

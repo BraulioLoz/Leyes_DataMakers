@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 17,
+  "n_perm_fracciones": 26,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DISPOSICIONES GENERALES",
+    "CAPÍTULO SEGUNDO DE LOS EJES RECTORES",
+    "CAPÍTULO TERCERO DEL CONSEJO MEXIQUENSE DE LA CULTURA DE LA LEGALIDAD",
+    "CAPÍTULO CUARTO DEL PRESUPUESTO DEL PROGRAMA DE FOMENTO DE CULTURA DE LA LEGALIDAD"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

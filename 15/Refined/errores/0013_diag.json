@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 13,
+  "n_perm_fracciones": 18,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LA PROTECCIÓN DE LOS MIGRANTES",
+    "CAPÍTULO III DE LAS MEDIDAS DE APOYO Y PROTECCIÓN A LOS MIGRANTES",
+    "CAPÍTULO IV DE LA COORDINACIÓN DE ASUNTOS INTERNACIONALES",
+    "CAPÍTULO V DEL REGISTRO ESTATAL DE MIGRANTES",
+    "CAPÍTULO VI DE LAS SANCIONES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

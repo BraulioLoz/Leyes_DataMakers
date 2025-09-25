@@ -1,0 +1,26 @@
+{
+  "n_chapters": 12,
+  "n_perm_articles": 37,
+  "n_perm_fracciones": 81,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "SECCIÓN PRIMERA OBLIGACIONES DE LOS TITULARES",
+    "SECCIÓN SEGUNDA SERVICIOS COMPLEMENTARIOS",
+    "SECCIÓN TERCERA REQUISITOS",
+    "SECCIÓN CUARTA VERIFICADOR EN JEFE",
+    "SECCIÓN QUINTA DE LOS ASISTENTES",
+    "SECCIÓN SEXTA DE LOS PARTICIPANTES",
+    "CAPÍTULO IV",
+    "CAPÍTULO I PROCEDIMIENTO ADMINISTRATIVO",
+    "CAPÍTULO II MEDIDAS DE SEGURIDAD",
+    "CAPÍTULO III SANCIONES",
+    "CAPÍTULO IV MEDIOS DE DEFENSA"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6,
+    "SECCIÓN": 6
+  }
+}

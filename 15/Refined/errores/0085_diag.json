@@ -1,0 +1,23 @@
+{
+  "n_chapters": 10,
+  "n_perm_articles": 26,
+  "n_perm_fracciones": 56,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LAS AUTORIDADES",
+    "CAPÍTULO III DE LAS ATRIBUCIONES DE LA SECRETARÍA DEL CAMPO",
+    "CAPÍTULO IV DEL CONSEJO DEL MAGUEY DEL ESTADO DE MÉXICO",
+    "CAPÍTULO V DERECHOS Y OBLIGACIONES DE LOS AGRICULTORES Y PRODUCTORES",
+    "CAPÍTULO VI DE LA INSPECCIÓN",
+    "CAPÍTULO VII DE LA ORGANIZACIÓN DE LOS AGRICULTORES Y PRODUCTORES",
+    "CAPÍTULO VIII DE LA CALIDAD DE LOS PRODUCTOS",
+    "CAPÍTULO IX DE LAS SANCIONES",
+    "CAPÍTULO X DE LOS RECURSOS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 10
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 27,
+  "n_perm_fracciones": 22,
+  "n_trans_caps": 1,
+  "n_trans_articles": 1,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LOS REQUISITOS DEL INDULTO NECESARIO Y POR GRACIA",
+    "CAPÍTULO III DE LA CONMUTACIÓN DE LA PENA DEROGADO",
+    "CAPÍTULO IV SUPUESTOS DE IMPROCEDENCIA",
+    "CAPÍTULO V DEL PROCEDIMIENTO",
+    "CAPÍTULO VI DE LAS MEDIDAS DE SEGURIDAD"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

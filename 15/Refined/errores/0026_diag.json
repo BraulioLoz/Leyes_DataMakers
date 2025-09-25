@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 49,
+  "n_perm_fracciones": 37,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO DISPOSICIONES GENERALES",
+    "CAPÍTULO I DE LA SOLICITUD Y REQUISITOS",
+    "CAPÍTULO II DEL DECRETO DE EXPROPIACIÓN",
+    "CAPÍTULO III DE LA EJECUCIÓN DEL DECRETO EXPROPIATORIO",
+    "CAPÍTULO I DE LA INDEMNIZACIÓN",
+    "CAPÍTULO II DEL DERECHO DE REVERSIÓN",
+    "CAPÍTULO III DE LOS MEDIOS DE IMPUGNACIÓN"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

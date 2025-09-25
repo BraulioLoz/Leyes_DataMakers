@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 15,
+  "n_perm_fracciones": 37,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPITULO PRIMERO De su Naturaleza Jurídica y de sus Objetivos",
+    "CAPITULO SEGUNDO De su Organización Interna",
+    "CAPITULO TERCERO De su Patrimonio",
+    "CAPITULO CUARTO Generalidades"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

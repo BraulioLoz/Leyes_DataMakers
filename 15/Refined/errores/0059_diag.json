@@ -1,0 +1,24 @@
+{
+  "n_chapters": 11,
+  "n_perm_articles": 60,
+  "n_perm_fracciones": 151,
+  "n_trans_caps": 1,
+  "n_trans_articles": 1,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO ÚNICO",
+    "CAPÍTULO I DE LOS PRINCIPIOS",
+    "CAPÍTULO II DE LOS DERECHOS",
+    "CAPÍTULO I DE LAS POLÍTICAS PÚBLICAS",
+    "CAPÍTULO II DE LAS INSTANCIAS RESPONSABLES",
+    "CAPÍTULO I DEL OBJETO, ATRIBUCIONES Y FUNCIONES",
+    "CAPÍTULO II DE SU INTEGRACIÓN Y ORGANIZACIÓN",
+    "CAPÍTULO I DE LA FAMILIA",
+    "CAPÍTULO II DE LA SOCIEDAD",
+    "CAPÍTULO III DE LAS INSTITUCIONES DE ATENCIÓN A LOS ADULTOS MAYORES",
+    "CAPÍTULO ÚNICO DEL PROCEDIMIENTO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 11
+  }
+}

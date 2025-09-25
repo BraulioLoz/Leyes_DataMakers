@@ -1,0 +1,731 @@
+{
+  "0084.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios LEY PARA LA PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL O DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO",
+    "Año_publicación": 2014,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DE LAS DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Las disposiciones de esta Ley son de orden público y observancia general en el territorio del Estado de México, y tienen por objeto establecer las medidas y procedimientos que garanticen la protección de sujetos intervinientes en el procedimiento penal o de extinción de dominio, cuando se encuentren en situación de riesgo objetivo por su participación o como resultado del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Para los efectos de esta Ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Colaboradores e informantes: a las personas que habiendo probablemente participado en la comisión de uno o varios delitos, acceden voluntariamente a aportar datos para la investigación y persecución de los delitos, que sean útiles para la localización y detención de miembros delictivos, así como la localización, objeto o productos de delitos, bienes propiedad del probable responsable de la comisión de un delito o de los que se conduzca como dueño o la localización de víctimas."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Estudio Técnico: al análisis elaborado por un grupo multidisciplinario de la Unidad que será el sustento para determinar acerca de la incorporación o separación de una persona al Programa de Protección a Sujetos que intervienen en el Procedimiento Penal del Estado de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Extinción de dominio: a la figura prevista en la Ley de Extinción de Dominio del Estado de México. Ley: a la Ley para la Protección de Sujetos que Intervienen en el Procedimiento Penal o de Extinción de Dominio del Estado de México."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Procurador: al Titular de la Procuraduría General de Justicia del Estado de México."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Procuraduría: a la Procuraduría General de Justicia del Estado de México."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Programa: al Programa de Protección a Sujetos que intervienen en el Procedimiento Penal o de Extinción de Dominio."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Riesgo: a la amenaza real e inminente que de actualizarse, expone la vida e integridad física del sujeto protegido, por su intervención en un procedimiento penal o de extinción de dominio. Unidad: a la Unidad de Protección de Sujetos que Intervienen en el Procedimiento Penal o de extinción de dominio, dependiente de la Procuraduría."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- Las dependencias y organismos auxiliares de la administración pública estatal y municipal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Procuraduría, por conducto del Titular de la Unidad, para la aplicación de las medidas de apoyo previstas en esta Ley, cuyo cumplimiento se les confiera.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- La administración y ejecución de las medidas de apoyo contempladas en el Programa son independientes del desarrollo del procedimiento penal o de extinción de dominio, estas solo servirán para determinar y eliminar los factores de riesgo de los sujetos a proteger.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- La información y documentación relacionadas con el sujeto protegido y con el Programa serán consideradas como confidenciales, en los términos que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos carácter estadístico, las cuales podrán ser proporcionadas en los términos de las leyes referidas, siempre y cuando no pongan en riesgo la seguridad de los sujetos protegidos. Los servidores públicos que presten sus servicios en la Unidad, así como las personas sujetas a las medidas de apoyo, sus familiares, personas cercanas, abogados y asesores legales, están obligados a no revelar información sobre la operación del Programa, el incumplimiento será causa de responsabilidad penal, civil o administrativa, según corresponda. La anterior obligación también comprende a los ex servidores públicos que hayan prestado sus servicios en la Unidad y a los sujetos que estuvieron dentro del Programa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- El Procurador y el Titular de la Unidad, de conformidad con sus atribuciones y con el fin de lograr el objeto de la Ley, podrán celebrar acuerdos, convenios o demás instrumentos jurídicos con personas físicas o jurídicas colectivas; así como con autoridades federales, del Distrito Federal, de las entidades federativas y de los municipios; organismos públicos autónomos, constitucionales, de los sectores social y privado e incluso internacionales, que resulten conducentes para otorgar la protección de las personas. Cuando se tenga que realizar la contratación o adquisición de servicios con particulares, los servidores públicos de la Unidad, no podrán otorgar información del sujeto protegido o del Programa, por poner en riesgo la seguridad pública o datos personales, salvo cuando sea indispensable para la prestación del servicio, en cuyo caso se establecerá una cláusula de confidencialidad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LOS PRINCIPIOS BÁSICOS",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "- La protección de sujetos se regirá por los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proporcionalidad y necesidad: a las medidas de apoyo otorgadas dentro del Programa establecido en esta Ley, las cuales deberán responder al nivel de riesgo en que se encuentre el sujeto protegido y solo se aplicarán las necesarias para garantizar su seguridad."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Confidencialidad: a la reserva que se mantendrá de todas las actuaciones relacionadas con las medidas de apoyo adoptadas por la Unidad, así como lo referente al Programa, los servidores y ex servidores públicos, los sujetos protegidos, sus familiares y personas con las que estos tengan contacto, además de sus abogados o asesores legales."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Voluntariedad: a la acción a través de la cual el sujeto expresará por escrito su voluntad de acogerse al Programa, recibir las medidas de apoyo, sus beneficios, así como cumplir con las obligaciones y acciones necesarias para el óptimo desarrollo del mismo e igualmente para su retiro del Programa. El sujeto protegido podrá solicitar su retiro, sin perjuicio de los casos en que proceda su separación del Programa por las causales establecidas en esta Ley y en las demás disposiciones aplicables. Temporalidad: a la permanencia de los sujetos protegidos al Programa, en cualquier etapa del procedimiento, desde la presentación de la denuncia hasta la ejecución de sentencia, estará condicionada al término que resulte de la evaluación periódica que realice la Unidad, en la que se analizará si subsisten los factores o circunstancias de riesgo que motivaron el acceso del sujeto protegido al Programa."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autonomía: el Titular de la Unidad gozará de libertad para dictar las medidas oportunas que garanticen la exacta aplicación de esta Ley."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Celeridad: el Titular de la Unidad adoptará sin dilación las decisiones relativas al ingreso o desincorporación de los sujetos protegidos al Programa, así como el otorgamiento, cambio o terminación de las medidas."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Gratuidad: la incorporación al Programa, las medidas de apoyo que se otorguen y sus beneficios, no generarán costo alguno para el sujeto protegido."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE LA UNIDAD DE PROTECCIÓN DE SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL O DE EXTINCIÓN DE DOMINIO",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "- La Procuraduría creará la Unidad especializada a quien le corresponde la aplicación del Programa. Al frente de la Unidad habrá un titular, quien será nombrado y removido por el Procurador.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Para el cumplimiento de la presente Ley, el Titular de la Unidad contará con las siguientes facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proyectar el Programa y proponer al Procurador los instrumentos jurídicos, técnicos y materiales que faciliten el funcionamiento y operación del mismo."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recibir y dictaminar las solicitudes de incorporación de los sujetos protegidos al Programa, para la aprobación del Procurador, en virtud de encontrarse en situación de riesgo objetivo por su intervención en un procedimiento penal o de extinción de dominio."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Instruir las prácticas de estudios jurídicos, de trabajo social, psicológicas, clínicas y, en general, de todos aquellos que sean necesarios para garantizar la idoneidad de la incorporación del sujeto protegido al Programa, así como para su permanencia y egreso. En caso de ser procedente, autorizar provisionalmente la incorporación al Programa, para su posterior aprobación definitiva del Procurador."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Llevar el registro y expedientes de los sujetos incorporados al Programa."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer vínculos de coordinación con el Ministerio Público, las demás instituciones de seguridad pública y las fuerzas armadas, a efecto de que se mantengan las medidas de protección que el primero de los mencionados haya dictado provisionalmente o las aprobadas por el Juez, o para que se establezcan las que estime necesarias para su debida protección, hasta en tanto se determine la incorporación del sujeto protegido al Programa y la aplicación de medidas de apoyo."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dictar o cumplir oportunamente las medidas de apoyo que resulten procedentes."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Dictaminar la desincorporación al Programa, modificación o terminación de las medidas de apoyo otorgadas, cuando se actualicen los supuestos establecidos en el Acuerdo respectivo, para la aprobación del Procurador. Vigilar la correcta aplicación de los recursos humanos, materiales, tecnológicos y financieros para el buen funcionamiento del Programa."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Informar al Procurador la ejecución de la incorporación y desincorporación de sujetos protegidos al Programa."
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Ejercer el mando directo e inmediato sobre el personal bajo su cargo y dictar las medidas que estime conducentes para el óptimo desempeño de sus funciones. XII. Vigilar que se efectúen las investigaciones y evaluaciones correspondientes para la emisión de los estudios técnicos. XIII. Supervisar la ejecución de medidas de apoyo y vigilar su cumplimiento. XIV. Designar al servidor público que será el enlace de comunicación en todo momento con el XV. Celebrar convenios o contratos con personas físicas o jurídicas colectivas, públicas o privadas, nacionales o internacionales, que resulten conducentes para brindar apoyo al XVI. Las demás que determinen otras disposiciones jurídicas y las que le encomiende el Procurador."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- Para el cumplimiento de las disposiciones de esta Ley, la Unidad contará con un grupo multidisciplinario de servidores públicos, integrado por licenciados en derecho, investigadores, médicos, psicólogos, trabajadores sociales y demás profesionistas que sean necesarios, así como agentes de la Policía de Investigación, quienes deberán ser capacitados para tal fin. Además, se implementarán procedimientos de selección adicionales a los aplicables del resto de los servidores públicos de la Procuraduría, que garanticen la idoneidad del personal a que se refiere esta Ley, así como su capacitación constante para el ejercicio del cargo. Asimismo, la Unidad contará con un área de análisis de riesgo que estará a cargo de la elaboración de los estudios técnicos de gabinete y de campo, necesarios para decidir el ingreso, permanencia y egreso del Programa. El personal de la Unidad deberá acreditar cada dos años los exámenes de control de confianza y la evaluación anual de desempeño para permanecer en servicio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Al grupo multidisciplinario adscrito a la Unidad, le corresponden las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer los criterios técnicos y proponer los manuales para la elaboración de los estudios técnicos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar el estudio técnico, en la materia que a cada uno de sus integrantes corresponda y realizar en conjunto la valoración integral del sujeto protegido."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Entregar al Titular de la Unidad el resultado del estudio técnico, así como la documentación que le de soporte. Recomendar, en caso de ser procedente, la medida de protección o apoyo pertinente que se deba aplicar."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ejecutar las medidas de apoyo que les sean encomendadas en el ámbito de la materia que les corresponda."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Realizar evaluaciones periódicas conjuntas para la continuidad, modificación o terminación de las medidas de apoyo, así como para la viabilidad de la desincorporación de los sujetos protegidos por el Programa."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que se establezcan en las disposiciones jurídicas aplicables, o las que les instruyan el Procurador o el Titular de la Unidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- Los agentes de la Policía de Investigación adscritos a la Unidad tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar las medidas de apoyo dictadas por el Titular de la Unidad, en el ámbito de su competencia."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Colaborar en la realización del estudio técnico, con visión policial."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Realizar sus actividades con respeto a los derechos humanos. Guardar absoluta confidencialidad de las cuestiones que tuvieran conocimiento con motivo del ejercicio de sus funciones, en términos de las disposiciones jurídicas aplicables. Lo anterior, se deberá observar aún después de que hayan dejado de prestar sus servicios como agentes de la Policía de Investigación."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Garantizar la protección de la integridad de la persona bajo su cuidado o custodia."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Informar inmediatamente al Titular de la Unidad cualquier incumplimiento de las obligaciones del sujeto protegido."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cumplir con su función conforme a la comisión asignada, por lo que se abstendrá de realizar cualquier acción que sea contraria a la finalidad de la medida de apoyo otorgada."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que disponga el Titular de la Unidad para el cumplimiento de la presente Ley."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DEL PROGRAMA DE PROTECCIÓN A SUJETOS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL O DE EXTINCIÓN DE DOMINIO",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "- El Programa tendrá aplicación exclusiva para casos en los que se encuentren relacionados los sujetos, que estén en una situación de riesgo por su participación de forma directa o indirecta en cualquier etapa del procedimiento penal derivados de los tipos penales de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Homicidio doloso."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Violación."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Secuestro. Trata de personas."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Feminicidio."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Extorsión."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Narcomenudeo."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los demás delitos graves establecidos en el Código Penal del Estado de México, en contra de la seguridad del Estado, el libre desarrollo de la personalidad y de la salud. Los calificados como graves, cometidos con medios violentos.\nEn los demás casos, corresponderá al Ministerio Público la aplicación de medidas de protección, distintas a las medidas de apoyo establecidas en el Programa de conformidad con las disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- El Programa contendrá los requisitos de ingreso y permanencia, causas de terminación y revocación, mecanismos de protección para la persona, así como los apoyos para solventar las necesidades personales básicas del sujeto protegido, cuando por su intervención en cualquier etapa del procedimiento penal o de extinción de dominio, así lo requiera.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DE LOS SUJETOS PROTEGIDOS",
+        "Artículos": [
+          {
+            "Artículo": 15,
+            "Texto": "- El Sujeto Protegido es la persona incorporada al Programa, por encontrarse en situación de riesgo por su intervención en algún procedimiento penal o de extinción de dominio. Este concepto abarca a las personas con vínculos de parentesco o afectivos con el testigo, víctima, ofendido, colaborador, perito o servidor público, que se vean en situación de riesgo o peligro por las actividades de aquellos en el proceso. Podrán ser sujetos de incorporación al Programa:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La víctima."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El ofendido."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los testigos. Los colaboradores e informantes."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los agentes del Ministerio Público."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los defensores."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Los policías."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Los peritos. Los jueces y magistrados del Poder Judicial."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las personas que tengan relación de parentesco o cercanía, con las señaladas en las fracciones anteriores y que por la colaboración o participación de aquellos en el procedimiento penal les genere situaciones inminentes de amenaza de riesgo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI DE LAS MEDIDAS DE APOYO",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "- Las Medidas de Apoyo son las acciones específicas ordenadas por el Titular de la Unidad de conformidad con esta Ley, para minimizar los riesgos objetivos detectados hacia el sujeto protegido, con motivo de la aplicación del Programa de Protección a Sujetos que intervienen en el Procedimiento Penal del Estado de México, mismas que se clasifican en medidas de asistencia y medidas de resguardo. Las medidas de apoyo previstas en el Programa serán de dos tipos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "De asistencia: tendrán como finalidad acompañar a los sujetos destinatarios del Estas medidas se realizarán a través de profesionales organizados interdisciplinariamente, de acuerdo con la problemática a abordar, procurando asegurar a la persona de que su\nintervención en el procedimiento penal o de extinción de dominio no significará un daño adicional o el agravamiento de su situación personal o patrimonial."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "De resguardo: tendrán como finalidad brindar las condiciones necesarias de seguridad para preservar la vida, la integridad física y la libertad de los sujetos comprendidos en la presente Ley. Las medidas descritas en las fracciones anteriores podrán aplicarse en forma indistinta, dependiendo de las circunstancias de cada caso."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- Las medidas de asistencia podrán consistir en:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tratamiento psicológico, médico o sanitario en forma regular y necesaria a los sujetos protegidos, a través de los servicios de asistencia y salud pública, velando en todo momento por el resguardo y protección de las mismas."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Asesoramiento jurídico gratuito a los sujetos protegidos, a fin de asegurar el debido conocimiento de las medidas de apoyo, así como los efectos de su ejecución, y demás derechos previstos por esta Ley."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Gestión de trámites personales y familiares del sujeto protegido. IV. Ayuda para recibir servicios de educación, salud, capacitación laboral y trabajo."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Apoyo económico para el alojamiento, transporte, alimentos, comunicación, atención sanitaria, mudanza, reinserción laboral, trámites, sistemas de seguridad, acondicionamiento de vivienda y demás gastos indispensables, dentro o fuera del Estado de México, mientras la persona se encuentre imposibilitada de obtenerlos por sus propios medios. La asistencia económica subsistirá por el tiempo necesario que determine el Titular de la Unidad, conforme al estudio técnico que se realice, así como a la evaluación de la subsistencia de las circunstancias que motivaron su apoyo."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cualquier otra medida de asistencia que de conformidad con la valoración de las circunstancias se estime necesaria adoptar, con la finalidad de garantizar la asistencia física y psicológica de la persona incorporada al Programa."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Las medidas de resguardo, además de las previstas en otros ordenamientos podrán consistir en:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Salvaguarda de la integridad personal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilancia."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Modo y mecanismos para el traslado de los sujetos protegidos a distintos lugares, asegurando en todo momento el resguardo de los mismos. Custodia policial o domiciliaria a los sujetos protegidos, que estará a cargo de la Policía de Investigación. En caso de urgencia se podrá solicitar el apoyo de la policía estatal, municipal o auxiliar."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Facilitar la reubicación, entendida como el cambio de domicilio o residencia, lugar de trabajo y centro de estudios del sujeto protegido."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Mecanismos de comunicación inmediata y avisos de emergencia, instalados en el domicilio del sujeto protegido o alarmas personales."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cambio de número telefónico del sujeto protegido."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Alojamiento temporal del sujeto protegido en lugares reservados o centros de protección, lo cual conlleva por protección, a no convivir con su familia o personas cercanas. Capacitación sobre medidas de asistencia y de resguardo."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "En los casos que así se justifique, previo acuerdo del Procurador, se podrá otorgar con base en las circunstancias del caso, la autorización para que ante las autoridades competentes se gestione confidencialmente una nueva identidad del sujeto protegido, dotándolo de la documentación soporte. XI. Facilitar la ejecución de las medidas procesales que el Ministerio Público pueda realizar o solicitar ante el órgano jurisdiccional, consistentes en:\na) La reserva de la identidad en las diligencias en que intervenga el sujeto protegido, imposibilitando que en las entrevistas se haga mención expresa a sus nombres, apellidos, domicilio, lugar de trabajo, profesión o cualquier otro dato que lo ponga en evidencia en términos de lo dispuesto en la legislación aplicable.\nb) El uso de métodos que imposibiliten la identificación visual o auditiva del sujeto, en las diligencias en que intervenga. La aplicación de esta medida, no deberá coartar la defensa adecuada del imputado."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "La utilización de procedimientos mecánicos o tecnológicos que permitan la participación de la persona en forma remota.\n\nOtras que considere la Unidad para garantizar la protección de los sujetos incorporados al Programa. Las autoridades penitenciarias estatales deberán otorgar todas las facilidades a la Unidad para garantizar las medidas de apoyo de los internos que se encuentran incorporados al Programa. Cuando el sujeto protegido o colaborador e informante se encuentre recluido en alguna prisión administrada por una entidad federativa, la Unidad, con apoyo de la Secretaría de Seguridad Ciudadana, podrá suscribir los convenios necesarios para garantizar la protección de los sujetos o colaboradores e informantes incorporados al XIII. Implementar cualquier otra medida de apoyo que de conformidad con la valoración de las circunstancias, se estime necesario adoptar con la finalidad de proteger la vida y la integridad física del sujeto protegido.\nCon el objeto de garantizar la seguridad del sujeto protegido, todos los requerimientos para la práctica de una diligencia ministerial o judicial en los que este intervenga, se solicitarán directamente al Titular del Centro Preventivo y de Readaptación Social, quien adoptará las medidas necesarias para presentarlo ante la autoridad correspondiente. En caso de existir algún impedimento o que no existan las condiciones de seguridad adecuadas para cumplimentar la diligencia, lo hará del conocimiento de la autoridad y, en su caso, solicitará una prórroga para su cumplimiento, que le deberá ser otorgada. Tratándose de diligencias ministeriales, las solicitudes deberán ser presentadas por el Titular de la Fiscalía a la que se encuentre asignado el Ministerio Público responsable de la investigación."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Se fije como domicilio de la persona protegida el de la Unidad.\ne) Otras que a juicio de la Unidad sean procedentes para garantizar la seguridad del XII. Tratándose de personas que se encuentren recluidas en prisión preventiva o en ejecución de sentencia, se solicitará a la autoridad competente las siguientes medidas:\na) Separarlos de la población general de la prisión, tratándose de colaboradores e informantes, se asignarán a áreas especiales dentro del Sistema Penitenciario Estatal.\nb) Trasladarlos a otro centro penitenciario con las mismas o superiores medidas de seguridad o de apoyo, cuando exista un riesgo fundado que se encuentra en peligro su integridad física."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- Las medidas de apoyo deberán ser viables y proporcionales a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La vulnerabilidad del sujeto protegido."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La situación de riesgo objetivo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La necesidad de llevar a juicio el caso. La trascendencia e idoneidad del testimonio."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La capacidad de la persona para adaptarse a las condiciones del Programa."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La capacidad del agente generador del riesgo de hacer efectivo el daño."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Otras circunstancias que justifiquen la medida."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DE LA APLICACIÓN DE LAS MEDIDAS DE APOYO",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "- Las medidas de apoyo se aplicarán en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tratándose de victimas u ofendidos, desde el momento en que se solicite su ingreso al Programa y hasta cualquier etapa procesal, inclusive en ejecución de sentencia."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Respecto a los demás sujetos contemplados en el artículo 15 de la presente Ley, desde el momento en que exista riesgo en su vida e integridad corporal, hasta en tanto desaparezcan los factores que la motivaron. El riesgo a que se hace referencia estará debidamente acreditado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII DE LA INCORPORACIÓN AL PROGRAMA",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "- La solicitud de incorporación al Programa la formularán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los subprocuradores o el titular de la Unidad Administrativa a la que éste adscrito el Agente del Ministerio Público a cargo de la investigación."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El Órgano Jurisdiccional."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El sujeto que requiera la protección."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Si el Ministerio Público o el Juez responsable del procedimiento penal o de extinción de dominio advierten que un sujeto se encuentra en situación de riesgo o peligro por su intervención en este podrán dictar provisionalmente las medidas de apoyo necesarias y remitirán\ninmediatamente a la Unidad, por cualquier medio idóneo, la solicitud de incorporación al Programa, para que se inicie el estudio técnico correspondiente y se puedan dictar las medidas de apoyo. En la solicitud se mencionará la importancia de la participación del sujeto que se requiera proteger en el procedimiento penal o de extinción de dominio, como justificación para su incorporación al Cuando la solicitud la realice el sujeto que requiera la protección, lo hará directamente ante el titular de la Subprocuraduría a la que este adscrito el agente del Ministerio Público a cargo de la investigación, para lo cual el Subprocurador o quien este designe, deberá recabar los datos necesarios para el llenado de la solicitud de incorporación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN I DE LA SOLICITUD DE INCORPORACIÓN AL PROGRAMA",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "- La solicitud de ingreso al Programa contendrá como mínimo los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre completo de la persona que se pretende incorporar al Programa, su dirección o lugar de ubicación."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Datos que identifiquen la investigación o proceso penal o de extinción de dominio en el que interviene."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Tipo de intervención en el procedimiento penal o de extinción de dominio. IV. Datos que hagan presumir que se encuentra en una situación de riesgo o la de personas cercanas a él."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Facilitar los datos de sus relaciones familiares, laborales, educativas y personales para elaborar los estudios técnicos."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Otorgar sus antecedentes, tales como: penales, patrimoniales, financieros y deudas u obligaciones de carácter civil o de cualquier otra materia, al momento de solicitar su incorporación al Programa."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cualquiera otra que se estime necesaria para justificar la necesidad de su protección. Si en la solicitud faltara algún dato y las circunstancias del caso así lo requieran, se iniciará el Estudio Técnico, previniendo al solicitante para que en un término de diez días hábiles entregue los datos faltantes, en caso contrario se cancelará el Estudio Técnico. Lo anterior, sin perjuicio de que pueda presentar una nueva solicitud."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN II DEL ESTUDIO TÉCNICO",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- Recibida la solicitud, el Titular de la Unidad realizará, por conducto de los servidores públicos que designe, el Estudio Técnico, el cual permitirá decidir sobre la procedencia de incorporación o no de una persona al Programa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "- Para la emisión del Estudio Técnico los servidores públicos encargados deberán considerar como mínimo lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El análisis del nexo entre la intervención del sujeto a proteger en el procedimiento penal o de extinción de dominio y los factores de riesgo en que se encuentre.\nEn los casos en que se haya concluido la participación del sujeto protegido en el procedimiento penal o de extinción de dominio y tratándose de ex servidores públicos, se realizará un estudio a fin de determinar si subsisten las condiciones de riesgo para su continuidad o desincorporación del Programa."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Que la información proporcionada por el sujeto protegido sea fidedigna y útil para la realización del Estudio Técnico."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Que las medidas de apoyo sean las idóneas para garantizar la seguridad de la persona protegida. IV. Las obligaciones legales que tenga la persona protegida con terceros."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los antecedentes penales que tuviere."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Que la admisión de la persona protegida no sea un factor que afecte la investigación, el proceso penal, el procedimiento de extinción de dominio o la seguridad del Programa."
+              }
+            ]
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El Titular de la Unidad una vez que analice el Estudio Técnico, emitirá la respuesta, a efecto de incorporar al sujeto protegido al Programa, y la medida de la protección, o bien, la no incorporación al Programa. La negativa de incorporación al Programa no será recurrible, sin embargo se podrá reevaluar la solicitud de incorporación, a solicitud de parte, siempre que esta se encuentre debidamente fundamentada y motivada, proporcionando hechos o evidencias nuevas o supervenientes que subsanen las deficiencias que originaron la negativa.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "SECCIÓN III DEL CONVENIO DE ENTENDIMIENTO",
+        "Artículos": [
+          {
+            "Artículo": 27,
+            "Texto": "- El Convenio de Entendimiento es el documento que suscriben el Titular de la Unidad y el sujeto que se va a proteger, quien de manera libre e informada, acepta voluntariamente ingresar al Programa de Protección a Sujetos que intervienen en el Procedimiento Penal del Estado de México, con las obligaciones y acciones que ello implica. Previo a la incorporación al Programa se deberá suscribir un Convenio de Entendimiento entre el particular y el Titular de la Unidad, el cual deberá contener lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La manifestación sin coacción, expresa de la voluntad del sujeto a su incorporación al Programa, con pleno conocimiento, de que las medidas de apoyo a otorgar no serán entendidas como pago, compensación o recompensas por su intervención en el procedimiento penal o de extinción de dominio."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las medidas de apoyo que sean temporales, las cuales se mantendrán mientras subsistan las circunstancias que le dieron origen."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El tipo de medidas de apoyo, sus efectos y alcances. IV. La facultad del Titular de la Unidad de mantener, modificar o suprimir todas o algunas de las medidas de apoyo durante cualquier etapa del procedimiento penal o de extinción de dominio, cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las obligaciones del sujeto protegido, quien deberá:\na) Proporcionar información veraz y oportuna para la investigación, comprometiéndose a rendir testimonio dentro del juicio, cuantas veces sea necesaria.\nb) Realizar las acciones solicitadas por la Unidad para garantizar su integridad y seguridad."
+              },
+              {
+                "Fracción": "C",
+                "Texto": "Mantener la confidencialidad de las condiciones y formas de operación del Programa, incluso cuando ya no pertenezca del mismo."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "Comprometerse a no contactar o permitir contacto con las personas no autorizadas por el Titular de la Unidad, con base en los estudios técnicos.\ne) Realizar cualquier otra acción necesaria para cumplir el fin del Programa y que esté prevista en el mismo."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las sanciones por infracciones cometidas por el sujeto protegido, incluida la separación del"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las causas de desincorporación al Programa."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cualquier otra que se estime necesaria, a consideración del Titular de la Unidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- El sujeto protegido será responsable de las consecuencias que se deriven, cuando por sus actos incumpla con las obligaciones que el Programa le impone.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- En caso de que el sujeto protegido sea un menor de edad o incapaz, el Convenio de Entendimiento deberá ser suscrito por el padre, tutor, quien ejerza la patria potestad o representación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- En caso de que sean incorporados al Programa de manera simultánea por un mismo hecho o circunstancia varios sujetos, el hecho de que alguno de ellos incumpla las obligaciones impuestas, no afectará a los demás que se encuentren relacionados con esta.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- El sujeto protegido que se incorpora al Programa no puede condicionar su ingreso o su estadía en el mismo, a la ejecución de determinada medida de apoyo a su favor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- Las obligaciones a las que queda sujeta la persona que se incorpora al Programa, además de las expresamente estipuladas en el Convenio de Entendimiento, son las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cumplir cada uno de los deberes que le establezca el Titular de la Unidad."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Abstenerse de divulgar su incorporación al Programa o informar acerca del funcionamiento del mismo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cooperar en las diligencias, que sean necesarias, a requerimiento del Ministerio Público o del Órgano Jurisdiccional. Utilizar correctamente las instalaciones, equipos y los demás recursos que el Programa ponga a su disposición para su protección."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Abstenerse de realizar conductas que puedan poner en peligro su seguridad y la efectividad del Programa."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Someterse a tratamientos médicos y de rehabilitación a que hubiere lugar, cuando el caso específico así lo requiera."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Mantener comunicación con el Titular de la Unidad, a través del enlace que al efecto se designe."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Abstenerse de entrar en contacto sin autorización con familiares que no se encuentren dentro del Programa, o con personas con quien hubiese sostenido relación antes de su\nincorporación al mismo, cuando la medida de apoyo consista en reubicación o cambio de identidad. Las demás que a consideración del Titular de la Unidad sean necesarias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IX DE LA CONCLUSIÓN DE LAS MEDIDAS DE APOYO Y DESINCORPORACIÓN DEL PROGRAMA",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "- La Unidad podrá mantener, modificar o dar por terminadas las medidas de apoyo durante cualquier etapa del procedimiento penal o de extinción de dominio, cuando exista la solicitud del sujeto protegido o se produzcan hechos o circunstancias acreditadas que así lo ameriten.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- El otorgamiento y mantenimiento de las medidas de apoyo está condicionado al cumplimiento de las obligaciones del sujeto protegido descritas en la presente Ley; su incumplimiento podrá dar lugar a la conclusión de las medidas de apoyo otorgadas o su desincorporación del Programa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- Se podrá dar por concluida alguna de las medidas de apoyo otorgadas o la desincorporación del Programa, cuando se actualice alguno de los siguientes supuestos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Renuncia de manera voluntaria a alguna de las medidas de apoyo o de su incorporación al Programa, por parte del sujeto protegido."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dejen de actualizarse las circunstancias de riesgo que originaron el otorgamiento de alguna de las medidas de apoyo o su incorporación al Programa."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Su estancia en el Programa sea un factor que afecte el desarrollo del procedimiento penal, el procedimiento de extinción de dominio o la seguridad del Programa. El sujeto protegido se haya conducido con falta de veracidad."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El sujeto protegido haya ejecutado un delito doloso durante su permanencia en el"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "El sujeto protegido no cumpla con las medidas de apoyo que le fueron otorgadas."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "El sujeto protegido se niegue a declarar, cuando esté obligada a ello."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "El sujeto protegido incumpla reiteradamente las obligaciones asumidas en el Convenio de Entendimiento. Las demás establecidas en el Convenio de Entendimiento. En el expediente del sujeto protegido, se deberá dejar constancia de las causales de terminación descritas en este artículo."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- La conclusión de las medidas de apoyo o la desincorporación al Programa será determinado por el Titular de la Unidad, en acuerdo con el Procurador o el servidor público en quien delegue esa facultad, cuando se actualice alguna de las causales enunciadas en el artículo anterior. Contra esta determinación no procederá recurso alguno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- La determinación de desincorporación al Programa o la conclusión de alguna de las medidas de apoyo, será notificada de manera personal y por escrito al sujeto protegido.\nEn caso de que se desconozca su ubicación y después de haber realizado una búsqueda no se haya logrado dar con su paradero, se levantará constancia de dicha circunstancia, se notificará por algún correo electrónico o teléfono se le informará de la determinación de desincorporación.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO X DE LOS DELITOS",
+        "Artículos": [
+          {
+            "Artículo": 38,
+            "Texto": "- A quien divulgue información relacionada con la aplicación, ejecución y personas relacionadas con el Programa, sin contar con la autorización correspondiente, se le aplicará una pena de cinco a diez años de prisión y de cien a doscientos días multa vigente en el área geográfica que corresponda. Si este delito es cometido por un servidor público o ex servidor público, la pena será de siete a quince años de prisión y de quinientos a mil días multa vigente en el área geográfica que corresponda, además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación hasta por un término igual al de la pena corporal. Estas sanciones se aplicarán sin perjuicio de otras responsabilidades en las que pueda incurrir.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

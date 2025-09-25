@@ -1,0 +1,398 @@
+{
+  "0177.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO MUNICIPAL DE CULTURA FISICA Y DEPORTE DE SAN JOSÉ DEL RINCÓN, MÉXICO.",
+    "Año_publicación": 2013,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DE SU NATURALEZA JURÍDICA Y SUS OBJETIVOS",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Se crea el Organismo Público Descentralizado denominado Instituto Municipal de Cultura Física y Deporte de San José del Rincón, como un organismo público con personalidad jurídica y patrimonio propios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- El domicilio legal del Instituto Municipal de Cultura Física y Deporte de San José del Rincón será el que el Ayuntamiento le designe, teniendo como base de concentración popular la unidad deportiva de la cabecera municipal sobre avenida mariposa monarca domicilio conocido.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- El Instituto Municipal de Cultura Física y Deporte de San José del Rincón, será manejado, entre otros, por personas que surjan del movimiento deportivo municipal, que conozcan y estén comprometidos con todos los deportistas y la sociedad en general del municipio de San José del Rincón, México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Para los efectos de la presente Ley se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ayuntamiento: Al Ayuntamiento de San José del Rincón, México;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo: Al Consejo Directivo del Instituto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Instituto: Al Organismo Público Descentralizado denominado Instituto Municipal de Cultura Física y Deporte de San José del Rincón; IV. Municipio: Al Municipio de San José del Rincón;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Reglamento: Al Reglamento del Instituto."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- El Instituto Municipal de Cultura Física y Deporte de San José del Rincón es sujeto de derechos y obligaciones, otorgándosele autonomía necesaria para asegurar el cumplimiento del deber del municipio de promover el deporte y la cultura física.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- El Instituto Municipal de Cultura Física y Deporte de San José del Rincón, tendrá los siguientes objetivos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Impulsar la práctica deportiva en todos los grupos y sectores del municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Propiciar la interacción familiar y social;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar la salud física, mental, cultural y social de la población del municipio; IV. Propiciar el uso adecuado y correcto de los tiempos libres;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Promover e impulsar el deporte para los adultos mayores y las personas con discapacidad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover el deporte de los trabajadores;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover el cambio de actitudes y aptitudes;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover y desarrollar la captación de recursos humanos para el deporte; IX. Elevar el nivel competitivo del deporte municipal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover la revaloración social del deporte y la cultura física; XI. Promover fundamentalmente el valor del deporte para el primer nivel de atención a la salud; XII. Promover la identidad del municipio de San José del Rincón, en el ámbito municipal, estatal, nacional e internacional a través del deporte; XIII. Fomentar la integración familiar y social; XIV. Facilitar a los deportistas el acceso a los servicios de salud."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Para el cumplimiento de su objeto, el Instituto realizará las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Integrar el padrón de Instalaciones Deportivas Municipales, en el que incluirán las características de cada una de ellas y los recursos materiales de los que disponen;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Integrar el sistema de evaluación y seguimiento a deportistas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar estudios en relación con las zonas susceptibles de ser utilizadas para actividades deportivas y recreativas dentro del municipio; IV. Participar con las autoridades competentes, en el diseño e instrumentación de programas de mejora a las instalaciones del Instituto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Diseñar programas que promuevan el desarrollo de la cultura física, las actividades recreativas y deportivas, dentro del territorio municipal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Administrar las instalaciones deportivas municipales, estableciendo los mecanismos y reglamentos con base en los cuales se utilizarán;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir donativos y realizar el cobro por la utilización de las instalaciones deportivas y municipales; destinando dichos recursos a los gastos operativos del Instituto, así como para la instrumentación de los programas de mantenimiento y mejora de dichas instalaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Gestionar el otorgamiento de los apoyos que sean necesarios para su adecuada operación y para la consecución de sus fines; IX. Contratar o convenir la celebración de eventos deportivos, funciones, prestación de servicios de entrenamiento y esparcimiento al interior de las instalaciones del Instituto;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales, para el desarrollo de proyectos deportivos y de cultura física; XI. Promover y ejecutar acciones para el reconocimiento público y la difusión de las actividades sobresalientes de los deportistas del municipio, en distintos ámbitos del acontecer municipal; XII. Las demás que establezca su reglamento y el Consejo."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- El Instituto estará sujeto a la Ley General de Cultura Física y Deporte, Ley de Cultura Física y Deporte del Estado de México, Ley del Trabajo de los Servidores Públicos del Estado y Municipios, Ley Orgánica Municipal del Estado de México y demás disposiciones legales aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE SU ORGANIZACIÓN INTERNA",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "- La dirección y administración del Instituto estará a cargo de un Consejo Directivo y un Director. Teniendo como apoyo para su administración las unidades y departamentos que se estimen necesarios para su operatividad y funcionalidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- El Consejo Directivo es el órgano superior de gobierno del Instituto y que se integra por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Un Presidente, que será el Presidente Municipal o quien éste designe, con derecho a voz y voto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Un Secretario Técnico, que será el Director del Instituto, con derecho a voz;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Cinco Vocales, quienes serán: a. El Regidor de la Comisión del Deporte. b. El Coordinador de Fútbol del Municipio. c. Tres vocales que designe el Ayuntamiento a propuesta del Presidente y/o el Director."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Los miembros del Consejo Directivo, durarán en su cargo, el periodo constitucional de la administración municipal para la cual fueren designados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- El Consejo Directivo sesionará de forma ordinaria por lo menos cada tres meses, y de manera extraordinaria cuantas veces sea necesario. Para que el Consejo pueda sesionar válidamente, se requerirá la presencia de la mitad de sus integrantes más uno, y sus resoluciones serán válidas cuando sean aprobadas por mayoría de votos o unanimidad de los presentes en la sesión; en caso de empate, el Presidente tiene el voto de calidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Son atribuciones del Consejo Directivo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Aprobar el Reglamento Interno del Instituto Municipal de Cultura Física de San José del Rincón;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer los lineamientos generales del Instituto;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aprobar, en su caso, los proyectos, planes y programas que proponga el Director para la consecución de sus objetivos; IV. Conocer y en su caso, aprobar los estados financieros y balances anuales, así como los informes generales;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Aprobar el presupuesto anual de ingresos y egresos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombrar o ratificar al Director del Instituto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Evaluar los planes y programas;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover la obtención de fuentes alternas de financiamiento; IX. Invitar a sus sesiones a otros servidores públicos de los gobiernos federal, estatal y municipal; cuando los eventos o asuntos así lo requieran;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que deriven de otros ordenamientos legales."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- El Director será nombrado por el Consejo Directivo a propuesta del Presidente Municipal o en su caso a petición expresa de la mayoría del Cabildo durante alguna sesión.\nPara ser Director General del Instituto se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno ejercicio de sus derechos, otorgándoles la preferencia a quienes residan o sean originarios del Municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener grado académico de licenciatura o en su caso acreditar ante el Consejo hasta el sexto semestre de la carrera;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demás que señale el reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Son facultades y obligaciones del Director, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Administrar y representar al Instituto Municipal ante las diferentes instancias de gobierno, asociaciones y autoridades que lo requieran;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Dar cumplimiento a los acuerdos del Consejo Directivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contratar y remover al personal del Instituto, señalándole sus funciones y obligaciones; IV. Vigilar el cumplimiento de los objetivos y programas el Instituto;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Celebrar acuerdos, convenios y contratos de coordinación para el cumplimiento de los planes y proyectos del Instituto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar ante el Consejo Directivo el proyecto del programa operativo del Instituto;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Presentar ante el Consejo Directivo el programa anual del presupuesto de ingresos y de egresos;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Adquirir, previa autorización del Consejo y conforme a las normas, los bienes necesarios para el correcto funcionamiento de los objetivos; IX. Prever lo necesario para el debido cumplimiento de los programas y el logro de los objetivos;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las que le confieren la presente Ley, el Reglamento Interno y el Consejo Directivo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE SUS FACULTADES",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "- El Instituto Municipal de Cultura Física y Deporte de San José del Rincón, tendrá las siguientes facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Crear escuelas populares de iniciación deportiva en pueblos, comunidades, barrios y colonias del municipio de San José del Rincón;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Crear el sistema municipal de becas académicas, económicas y alimenticias para deportistas distinguidos del municipio;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Crear torneos estudiantiles permanentes en los niveles, preescolar, primaria, secundaria y media superior; IV. Organizar clubes deportivos populares permanentes;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Involucrar a los sectores públicos social y privado en el deporte municipal;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar públicamente los programas deportivos municipales, sus objetivos metas, estrategias y resultados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Otorgar dirección técnica de calidad a representaciones municipales;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Otorgar asesorías al deporte formativo y de recreación; IX. Promover el uso de las instalaciones deportivas, públicas y privadas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover el desarrollo de instalaciones públicas y privadas; XI. Desarrollar corrientes sociales y deportivas del mérito; XII. Crear el registro municipal de instalaciones deportivas, deportistas, deportes, clubes, ligas y torneos deportivos; XIII. Crear el registro municipal de jueces, árbitros, entrenadores, médicos del deporte, psicólogos del deporte y escuelas del deporte; XIV. Brindar apoyo logístico a los eventos deportivos que se desarrollan en el municipio; XV. Las demás que las leyes de la materia le señalen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DE SU PATRIMONIO",
+        "Artículos": [
+          {
+            "Artículo": 17,
+            "Texto": "- El patrimonio del Instituto Municipal de Cultura Física y Deporte, se integra con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La asignación anual del porcentaje del total del presupuesto de egresos del Municipio que le asignen;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los bienes muebles e inmuebles que le asigne el Ayuntamiento y los que adquiera a través de recursos propios o terceros;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los ingresos que, en el ejercicio de sus atribuciones obtenga por la prestación de los servicios que establece la presente Ley y su reglamento; IV. Las aportaciones, participaciones, subsidios y apoyos que obtenga de los Gobiernos Federal, Estatal y Municipal, así como del sector privado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los legados, donaciones, derechos y demás bienes muebles o inmuebles que adquiera por cualquier título legal o jurídico, para el cumplimiento de su objeto;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las utilidades, intereses, dividendos, rendimiento de sus bienes y demás ingresos que obtengan por cualquier título legal. Los bienes inmuebles que formen parte del patrimonio del Instituto, serán inembargables, inalienables e imprescriptibles, y en ningún caso podrá constituirse gravamen sobre ellos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DEL CONTROL Y VIGILANCIA",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "- El control y vigilancia presupuestal y financiero del Instituto, queda a cargo de su Tesorero. Quien deberá elaborar un informe anual que será sometido a consideración del Consejo, a más tardar el primero de Julio de cada año.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- El Tesorero del Instituto de Cultura Física y Deporte será nombrado por el Consejo y deberá cumplir con los siguientes requisitos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno uso de sus derechos, teniendo preferencia a quienes residan o sean originarios del Municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener grado académico de Licenciatura o su semejante;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demás que señale el reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- El Instituto para los fines del control y vigilancia contará con un Contralor Interno, que tendrá las atribuciones que le señala la Ley de responsabilidades de los Servidores Públicos del Estado y Municipios, quién será nombrado por el Consejo a propuesta del Presidente.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Primero",
+            "Texto": "Publíquese la presente Ley en el Periódico Oficial “Gaceta del Gobierno”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Segundo",
+            "Texto": "La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": "Tercero",
+            "Texto": "El H. Ayuntamiento de San José del Rincón, México, proveerá lo necesario para la instalación del Consejo Directivo del Instituto Municipal de Cultura Física y Deporte. Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiséis días del mes de septiembre del año dos mil trece. APROBACIÓN: 26 de septiembre de 2013. PROMULGACIÓN: 01 de octubre de 2013. PUBLICACIÓN: 01 de octubre de 2013. VIGENCIA: 02 de octubre de 2013.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

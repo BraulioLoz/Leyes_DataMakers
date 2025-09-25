@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 32,
+  "n_perm_fracciones": 70,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DEL OBJETO Y LAS DEFINICIONES",
+    "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN DEL IMPLAN",
+    "CAPÍTULO TERCERO DEL CONSEJO DIRECTIVO",
+    "CAPÍTULO CUARTO DEL LAS SESIONES DEL CONSEJO DIRECTIVO",
+    "CAPÍTULO QUINTO DE LA PERSONA TITULAR DEL IMPLAN",
+    "CAPÍTULO SEXTO DEL CONSEJO CONSULTIVO CIUDADANO",
+    "CAPÍTULO SÉPTIMO DEL PATRIMONIO DEL IMPLAN",
+    "CAPÍTULO OCTAVO DE LAS GENERALIDADES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

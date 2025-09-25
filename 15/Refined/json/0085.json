@@ -1,0 +1,424 @@
+{
+  "0085.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto número 252 LXI Legislatura LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO",
+    "Año_publicación": 2014,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- La presente Ley es de orden público e interés social y tiene por objeto la protección del cultivo del maguey en el Estado de México, el fomento de su desarrollo sostenible, así como el impulso y fortalecimiento de las organizaciones de personas agricultoras y productoras.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Para efectos de la presente Ley se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Maguey: A la planta de origen mexicano de la familia Agavaceae con la que se obtienen diversos productos agroalimentarios nativos, considerada en todos sus subgéneros, grupos, especies, subespecies, variedades y formas."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Productor: A la persona física o jurídica colectiva que desarrolla el cultivo del maguey en cualquiera de sus especies para su explotación comercial. II Bis. Reglamento: Al Reglamento de la Ley para la Protección del Maguey en el Estado de México."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "SADER: A la Secretaría de Agricultura y Desarrollo Rural. IV. Secretaría: A la Secretaría del Campo."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Registro: Al Registro Estatal de Agricultores y Productores de Maguey."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ley: A la Ley para la Protección del Maguey en el Estado de México."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Producto: Al bien que resulta de un proceso productivo primario y consiste en la obtención de un fin principal de la explotación del maguey."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Subproducto: A los derivados del proceso de producción o maduración de la planta del"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LAS AUTORIDADES",
+        "Artículos": [
+          {
+            "Artículo": 3,
+            "Texto": "- Es autoridad competente para la aplicación de la Ley, la Secretaría. La Secretaría en coordinación con los Ayuntamientos ejercerá sus atribuciones en materia de aprovechamiento sostenible del maguey, sus productos y subproductos, de conformidad con lo previsto en esta Ley y las demás disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE LAS ATRIBUCIONES DE LA SECRETARÍA DEL CAMPO",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "- La Secretaría tendrá las siguientes facultades y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Regular la protección, conservación y restauración del maguey, así como la ordenación y aprovechamiento sostenible."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Presidir el Consejo del Maguey del Estado de México y realizar las acciones necesarias para su eficaz funcionamiento."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Coordinarse con los Ayuntamientos para la aplicación y ejecución de las políticas públicas de aprovechamiento sostenible del maguey, sus productos y subproductos. IV. Fomentar las actividades que protejan la biodiversidad del maguey mediante prácticas de aprovechamiento sostenible."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Capacitar y asesorar a las personas agricultoras en materia de conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Asesorar y apoyar a las personas productoras en el acceso a créditos con tasas preferenciales y seguros para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando siempre su bienestar y progreso."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Establecer y fomentar programas de investigación científica y proyectos de desarrollo tecnológico sobre el maguey, para beneficiar la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos, mediante convenios con instituciones educativas y de investigación, en beneficio del sector dedicado al maguey."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Diseñar, definir y otorgar, en el ámbito de su competencia, estímulos e incentivos económicos a las personas productoras, para la conservación, protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, de sus productos y subproductos, así como los lineamientos para su aplicación y evaluación. IX. Promover ante las autoridades competentes la declaración de periodos de veda magueyera, para prohibir la explotación de las poblaciones magueyeras con fines de extracción de mixiote y pencas, así como de recolección de gusano rojo, gusano blanco y demás variedades."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Promover en coordinación con las dependencias federales, municipales, organizaciones sociales y agropecuarias, así como organismos auxiliares, la difusión, vigilancia y control de aspectos sanitarios en la producción, industrialización, almacenaje, comercialización y movilización del maguey, sus productos y subproductos. XI. Llevar un control estadístico del cultivo de maguey en el Estado, que será publicado en la página de Internet de la Secretaría. XII. Coordinarse con las instancias respectivas para la aplicación de las disposiciones que permitan el control y la inspección del maguey y sus productos. XIII. Impulsar programas que permitan diversificar la comercialización de otros productos del maguey tales como mieles y jarabes, fibras, pulpa para forraje, sustratos para producción de hongos, insumos de alimentos forrajeros, “bagazos” y gusano rojo y blanco. XIV. Otorgar asesoría técnica a las personas agricultoras y productoras del maguey. XV. Elaborar y mantener actualizado el Registro. XVI. Realizar foros, exposiciones, ferias y cualquier otra actividad tendiente al fomento de la conservación, producción, cultivo, manejo, aprovechamiento sostenible y comercialización del maguey, sus productos y subproductos. XVII. Promover ante las autoridades e instituciones públicas en materia de seguridad pública y tránsito del Estado, las garantías de seguridad y libre tránsito de productores para el traslado y movilización del maguey, sus productos y subproductos, quienes deberán acreditar su legal procedencia y cumplir con los requisitos obligatorios en la materia."
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Las demás que le confiera esta Ley, su reglamento y las disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Los Ayuntamientos tendrán las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coadyuvar a la Secretaría en la elaboración y actualización del Registro."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover ante la comunidad en general la concientización del cuidado y preservación del"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover la participación de las personas agricultoras y productoras, en la política municipal de desarrollo y aprovechamiento sostenible del maguey. IV. Coordinarse con la Secretaría para la aplicación y ejecución de las políticas públicas de aprovechamiento sostenible del maguey y sus productos y subproductos."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Diseñar, desarrollar y aplicar incentivos para promover el desarrollo y aprovechamiento sostenible del maguey en el Municipio."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Desarrollar programas para apoyar viveros para la producción de plantas de maguey."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Hacer del conocimiento a las autoridades competentes, y en su caso denunciar, todo hecho, acto u omisión que contravenga esta Ley, su Reglamento, Normas y demás disposiciones aplicables en materia de protección y preservación del maguey."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Coadyuvar con la Federación en programas integrales de prevención y combate a la extracción clandestina del maguey y sus estructuras. IX. Garantizar, en el ámbito de su competencia, en materia de seguridad pública y tránsito, seguridad y libre tránsito de productores para el traslado y movilización del maguey y sus productos y subproductos, quienes deberán acreditar su legal procedencia y cumplir con los demás requisitos obligatorios en la materia, y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Las demás que le confiera esta Ley, su reglamento y demás disposiciones jurídicas aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DEL CONSEJO DEL MAGUEY DEL ESTADO DE MÉXICO",
+        "Artículos": [
+          {
+            "Artículo": 5,
+            "Texto": "- Se crea el Consejo del Maguey del Estado de México con el objeto de apoyar a la Secretaría en la ejecución de programas tendentes a incrementar la calidad y productividad del cultivo del maguey.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- El Consejo del Maguey del Estado de México estará integrado por la persona Titular de la Secretaría, quien lo presidirá; por presidentes de las asociaciones de personas agricultoras y productoras reconocidas por la Secretaría, así como personas representantes de la industria del maguey en el Estado. Se podrá invitar a un representante de la delegación en el Estado de México de la SADER. Para la elección de los representantes de las asociaciones de agricultores, productores y representantes de la industria del maguey, éstos deberán estar inscritos en el Registro, siendo elegidos bajo los principios de democracia y equidad de género, de conformidad con la Convocatoria emitida por la Secretaría para tal efecto. La participación de los integrantes del Consejo del Maguey del Estado de México será de carácter honorífico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- La Secretaría emitirá una convocatoria pública para la instalación del Consejo del Maguey del Estado de México, con treinta días de anticipación a su instalación, la cual se realizará en los términos señalados en dicha convocatoria. El Consejo aprobará los lineamientos sobre su funcionamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- El Consejo del Maguey del Estado de México se reunirá cuando menos dos veces al año o cuando sea convocado por la mitad más uno de sus miembros para tratar los siguientes asuntos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Estudiar y proponer medidas que tiendan al fomento, progreso, extensión, afianzamiento e incentivo del cultivo del maguey."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Estimular el diseño y ejecución de planes de expansión del sector con organismos regionales oficiales y privados, así como con otras entidades nacionales e internacionales."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Gestionar medidas que permitan la apertura de líneas de crédito a tasas de fomento para los productores agricultores y productores del maguey, ante las entidades integrantes del Sistema Financiero Mexicano. IV. Promover la explotación de la producción del maguey."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Realizar tareas de extensión que contribuyan al mejor conocimiento y perfeccionamiento de la actividad del sector."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Orientar a las autoridades estatales respecto a las medidas que deben adoptarse para la difusión y el cumplimiento de la presente Ley."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proponer programas que permitan una mejor comercialización de los productos del maguey."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Apoyar, en sus respectivas áreas, el desarrollo del cultivo del maguey."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DERECHOS Y OBLIGACIONES DE LOS AGRICULTORES Y PRODUCTORES",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "- Son derechos de los agricultores y productores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Disfrutar en igualdad de circunstancias de los apoyos que el Gobierno del Estado otorgue para el fomento y desarrollo del cultivo del maguey."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recibir asesorías técnicas por parte de las autoridades estatales y municipales, para la protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar de manera directa o indirecta en las decisiones que sobre la materia tome el Consejo del Maguey del Estado de México. IV. Recibir, en la comercialización de sus productos, un precio adecuado a la calidad de los mismos."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Obtener información veraz y oportuna sobre prácticas y productos permitidos o autorizados por las autoridades para el adecuado manejo de sus magueyes."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Ser asesorados y apoyados por parte de la Secretaría para la comercialización nacional e internacional del maguey, sus productos y subproductos."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Participar en la aplicación, evaluación y seguimiento de las políticas estatales y municipales de protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Conocer y estar informados sobre el avance de los programas de investigación científica y proyectos de desarrollo tecnológico sobre el maguey, y ser beneficiados con los resultados de éstos, para la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos, y IX. Los demás que le confieran la Ley y su reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- Son obligaciones de los productores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acatar las disposiciones legales y reglamentarias relativas al control del cultivo del maguey y productos relacionados."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Permitir las inspecciones que por cuestiones fitosanitarias dicten las autoridades estatales y federales, en los términos de la Ley y las demás disposiciones legales aplicables."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aplicar las medidas establecidas por la Secretaría para la protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sostenible del maguey, sus productos y subproductos. IV. Contar para las movilizaciones entre otros estados, además de la guía de tránsito y control estadístico, con el certificado fitosanitario de movilización nacional expedido por la SADER."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Llevar a cabo la trazabilidad en todo el ciclo de producción del maguey, sus productos y subproductos."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que le confiera la Ley y su reglamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI DE LA INSPECCIÓN",
+        "Artículos": [
+          {
+            "Artículo": 11,
+            "Texto": "- Con el objeto de vigilar que se cumplan las normas de sanidad e higiene, la Secretaría practicará periódicamente inspecciones en los cultivos de maguey.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- La Secretaría designará a los inspectores que sean necesarios para el cumplimiento de la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Las inspecciones se clasifican de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ordinarias: Aquellas que la autoridad programa en su plan anual de trabajo."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Extraordinarias: Aquellas que dicta la autoridad y que no están contempladas en su plan anual de trabajo, pero que en todo caso deberán estar debidamente motivadas y fundamentadas."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Especiales: Las que dicta la autoridad para verificar la posible aparición de un brote de enfermedades fitosanitarias."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- Los inspectores en el cumplimiento de su actividad tienen las siguientes facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Revisar los cultivos de maguey para vigilar el cumplimiento de las disposiciones de la Ley."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Planear, coordinar y dirigir las acciones de sanidad vegetal e inocuidad de inspección fitosanitaria, de asistencia técnica, de capacitación y de difusión de tecnología en materia de diagnóstico, prevención, control, erradicación de plagas y enfermedades del fomento de la producción de alimentos inocuos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demás que establezcan otras disposiciones jurídicas."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Está estrictamente prohibido a los inspectores:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir cualquier tipo de gratificación o dadiva en razón de su función."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coaccionar a los agricultores y productores para que les proporcionen productos a cambio de algún beneficio."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Extralimitarse de las facultades señaladas en el artículo anterior. El incumplimiento de las disposiciones de la Ley por parte de los servidores públicos propiciará las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, sin menoscabo de la responsabilidad civil o penal que en su caso se configure."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DE LA ORGANIZACIÓN DE LOS AGRICULTORES Y PRODUCTORES",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "- Los agricultores y productores del maguey podrán promover, con el apoyo del Consejo, la integración de organismos, asociaciones y uniones, que les permitan hacer frente a su problemática común y atender su desarrollo y tecnificación. Las que podrán ser de carácter estatal, regional o municipal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- Los organismos o asociaciones de agricultores y productores legalmente constituidas serán reconocidas por la Secretaría y las autoridades municipales, para la defensa y protección de sus agremiados.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Es obligación de las asociaciones colaborar con la Secretaría y las autoridades municipales para el levantamiento y actualización del inventario de las zonas productoras del maguey del Estado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- El objetivo principal de las asociaciones es velar por la preservación y cuidado de los cultivos de maguey de sus agremiados para lo cual mantendrán contacto permanente con las autoridades a efecto de obtener información oportuna que pueda ser útil para el cumplimiento de su labor.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- Además de lo dispuesto en los artículos anteriores las asociaciones tendrán las siguientes facultades y obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Preservar, fomentar y estimular la actividad del sector."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover campañas de difusión que propicie el rescate del concepto de mexicanidad asociado con el agave sin realizar acciones de apología al alcoholismo, así como la difusión de los otros productos del agave, diversos de las bebidas alcohólicas."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Participar en la elaboración de las políticas y programas de protección y de fomento a la producción del maguey en el Estado. IV. Estar representados en el Consejo del Maguey del Estado de México de conformidad con lo dispuesto en la Ley y en la convocatoria que se emita para su instalación."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer relación con asociaciones de otras actividades que pugnen por el establecimiento de programas complementarios."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII DE LA CALIDAD DE LOS PRODUCTOS",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "- El Consejo Estatal del Maguey del Estado de México establecerá controles de calidad e higiene en los centros de acopio y en empresas de semi-industrialización e\nindustrialización del maguey y de otros productos de éste, ya sea de manera directa o a través de convenios con otras autoridades estatales y/o federales competentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Es obligación de los agricultores y productores observar lo dispuesto por las normas oficiales mexicanas en lo relativo a su área de gestión. Las autoridades correspondientes brindarán la información necesaria en la materia a los agricultores y productores.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- La Secretaría promoverá proyectos de investigación que permitan elevar la calidad del maguey y sus productos.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IX DE LAS SANCIONES",
+        "Artículos": [
+          {
+            "Artículo": 24,
+            "Texto": "- El incumplimiento a las disposiciones previstas en la presente Ley, será sancionado en términos de las disposiciones legales aplicables.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO X DE LOS RECURSOS",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "- En contra de los actos y resoluciones de la autoridad en la materia, los particulares afectados tendrán derecho de interponer los medios de defensa establecidos en el Código de Procedimientos Administrativos del Estado de México.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

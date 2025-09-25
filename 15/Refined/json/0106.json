@@ -1,0 +1,505 @@
+{
+  "0106.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER MUNICIPAL DENOMINADO INSTITUTO MUNICIPAL DE PLANEACIÓN DE VALLE DE BRAVO, ESTADO DE MÉXICO.",
+    "Año_publicación": 2021,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DEL OBJETO Y LAS DEFINICIONES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Se crea el Organismo Público Descentralizado denominado Instituto Municipal de Planeación de Valle de Bravo, Estado de México, con personalidad jurídica y patrimonio propio, y autonomía técnica y de gestión, para el cumplimiento de su objeto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Las disposiciones de este ordenamiento son de carácter público e interés social, y regulan la creación, los objetivos, la administración y el funcionamiento del Instituto Municipal de Planeación de Valle de Bravo, Estado de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 3,
+            "Texto": "El Instituto Municipal de Planeación de Valle de Bravo, Estado de México tendrá su domicilio en la cabecera del municipio de Valle de Bravo, siendo el que el Ayuntamiento le asigne.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Para efectos de la presente Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ayuntamiento: Al Ayuntamiento Constitucional del Municipio de Valle de Bravo, México;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Consejo Directivo: Al Consejo Directivo del Instituto Municipal de Planeación de Valle Bravo, México;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Consejo Ciudadano: Al Consejo Consultivo Ciudadano del Instituto Municipal de Planeación de Valle de Bravo, México; IV. COPLADEMUN: Al Comité de Planeación para el Desarrollo Municipal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dependencias: A las Direcciones y unidades administrativas de la Administración Pública del Municipio;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Entidades: A los Organismos Públicos Descentralizados, Empresas de Participación Municipal, Fideicomisos Públicos Municipales y Consejos de la Administración Pública Municipal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "IMPLAN: Al Instituto Municipal de Planeación de Valle de Bravo, Estado de México;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Municipio: Al Municipio de Valle de Bravo, Estado de México; IX. Órgano de Vigilancia: Al Órgano cuyo titular designe el Consejo Directivo para vigilar la administración, operación, el cumplimiento de objetivos, planes y programas del IMPLAN, y"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Sistema Municipal de Planeación Integral: Al conjunto de instrumentos, planes, programas, proyectos y procedimientos técnicos, legales y administrativos, necesarios para la planeación y participación de la sociedad en el desarrollo integral del municipio en relación con el IMPLAN."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "El IMPLAN es un organismo público descentralizado que tiene por objeto coadyuvar como una entidad consultiva en la planeación municipal, para proponer las\nacciones de interés público y de apoyo técnico, consultivo y de gestión al Ayuntamiento en el ejercicio de sus atribuciones, conforme a la planeación estratégica del desarrollo, a través de la concertación, coordinación y participación de los sectores público y privado, para con ello, direccionar, racionalizar y optimizar la utilización de los recursos y las acciones para el desarrollo sostenible que mejore sustancialmente las condiciones de vida de los ciudadanos con una visión regional en corto, mediano y largo plazo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "El IMPLAN tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fortalecer y dar un carácter institucional al proceso de planeación estratégica Integral para el desarrollo a mediano y largo plazo del municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Orientar el desarrollo del municipio a través de la elaboración y evaluación del Plan y los Programas del Sistema Municipal de Planeación Integral;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar la continuidad del Plan y los Programas del Sistema Municipal de Planeación Integral; IV. Elaborar estudios y proyectos para fortalecer el proceso de toma de decisiones del Ayuntamiento;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Realizar y coadyuvar en las gestiones necesarias ante diversas instancias y los sectores públicos y privados para el logro de los objetivos del Ayuntamiento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Incorporar la participación ciudadana en el proceso de planeación;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ofrecer servicios especializados de alta calidad profesional a los usuarios de los sectores público, social y privado, en el ámbito de su competencia;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Emitir opiniones y recomendaciones en materia de planeación; IX. Asesorar en materia de planeación integral con visión de largo plazo, a las áreas de la Administración Pública Municipal;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar estudios técnicos, socioeconómicos, territoriales y ambientales que requiera el Ayuntamiento para tomar decisiones sobre el desarrollo local; XI. Elaborar los programas y proyectos estratégicos orientados al desarrollo territorial; XII. Brindar asistencia técnica y capacitación que requieran, el Ayuntamiento y las organizaciones sociales involucradas en el proceso de planeación local; XIII. Establecer relaciones de intercambio de información y colaboración con otras entidades públicas, privadas, académicas y sociales en materia de planeación municipal; XIV. Promover la planeación participativa, coordinando con el COPLADEMUN, las consultas y participación de la población, y el involucramiento de las dependencias, con la finalidad de elaborar, actualizar o modificar el Sistema Municipal de Planeación; XV. Asesorar al Ayuntamiento y a las dependencias de la administración pública municipal, en la instrumentación y aplicación de las normas que se deriven del Sistema Municipal de Planeación; XVI. Difundir el Sistema Municipal de Planeación, los proyectos de investigación y los sistemas de información; XVII. Planear a corto y largo plazo el desarrollo sostenible y equitativo con perspectiva integral, y"
+              },
+              {
+                "Fracción": "XVIII",
+                "Texto": "Proponer al Presidente Municipal las políticas, programas, proyectos y normas jurídicas en materia de desarrollo urbano, metropolitano, medio ambiente, social, y de la cuenca con desarrollo sostenible y sustentable que fomenten la equidad urbana, el urbanismo social y la gobernanza metropolitana."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Con el objetivo de cumplir con las atribuciones descritas en el artículo que antecede, el IMPLAN tendrá las principales líneas de acción siguientes:\n1. Planeación integral y sostenible a mediano y largo plazo del Municipio;\n2. Capacitación y asesoría para el fortalecimiento institucional del Ayuntamiento y a la administración pública municipal;\n3. Investigación y consultoría técnica para el desarrollo integral y sostenible del municipio;\n4. Elaboración, gestión, evaluación y aprobación de planes, programas y proyectos y estudios técnicos para el desarrollo integral y sostenible del municipio;\n5. Integración y operación de sistemas de información municipales;\n6. Colaboración institucional y participación ciudadana en la elaboración de planes, programas y proyectos para el desarrollo integral y sostenible del municipio en colaboración con el Ayuntamiento y el COPLADEMUN;\n7. Proponer la elaboración de la normatividad pública municipal;\n8. Planeación, gestión e instrumentación de políticas públicas en materia para el desarrollo integral y sostenible del municipio, y\n9. Aquellas que considere necesarias el Ayuntamiento, el Consejo Directivo o el Consejo Ciudadano.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN DEL IMPLAN",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "Para el despacho de los asuntos sometidos a su conocimiento, el IMPLAN se integrará por:\na) El Consejo Directivo;\nb) La persona Titular del IMPLAN, y",
+            "Fracciones": [
+              {
+                "Fracción": "C",
+                "Texto": "El Consejo Ciudadano."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DEL CONSEJO DIRECTIVO",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "El Consejo Directivo es el órgano de dirección del IMPLAN, el cual se integrará por personas servidoras públicas municipales y por los integrantes del Consejo Consultivo Ciudadano de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La o el Presidente Municipal, quien fungirá como presidente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La persona Titular del IMPLAN, quien fungirá como secretario técnico;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Por las personas titulares de las direcciones de Obras Públicas, de Desarrollo Urbano, Ecología y Conservación Ambiental, de Desarrollo Económico, de Desarrollo Social, de la Unidad de Información, Planeación, Programación y Evaluación, del Órgano de Control\nInterno, del Organismo de Agua Potable, Alcantarillado y Saneamiento, o sus equivalentes, mismas que fungirán como vocales, y IV. Por los integrantes del Consejo Ciudadano quienes fungirán como vocales. La o el Secretario Técnico será el enlace de las demás áreas de la administración pública, y en su caso, les comunicará los acuerdos respectivos que involucren las acciones correspondientes a las demás áreas administrativas."
+              }
+            ]
+          },
+          {
+            "Artículo": 10,
+            "Texto": "El Consejo Directivo sesionará de forma ordinaria cada tres meses, sin perjuicio de hacerlo de manera extraordinaria cuando la naturaleza del asunto así lo requiera o cuando lo solicite al menos el cincuenta por ciento de sus integrantes. Corresponde al Consejo Directivo el ejercicio de las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Revisar periódicamente el estado financiero y el inventario de bienes del IMPLAN;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Revisar y aprobar el presupuesto anual del IMPLAN y presentarlo al Ayuntamiento para su aprobación;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Revisar y aprobar el programa anual de trabajo del IMPLAN; IV. Vigilar el correcto funcionamiento del IMPLAN;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Autorizar el Reglamento Interno del IMPLAN y las demás disposiciones jurídicas relativas al funcionamiento interno del mismo para someterlas a la aprobación del Cabildo del Ayuntamiento;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Gestionar la obtención de recursos financieros para el buen cumplimiento de los objetivos del IMPLAN, y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Llamar a comparecer a las personas titulares de las dependencias administrativas municipales y organismos auxiliares a efecto de que informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Los cargos de miembro de Consejo Directivo serán honoríficos con excepción de la persona Titular del IMPLAN, quien percibirá el sueldo señalado en la Partida Presupuestal asignada para tal efecto.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Los miembros del Consejo Directivo tendrán derecho a voz y voto, con excepción del Secretario Técnico, quien solo tendrá derecho a voz, debiendo tomar sus acuerdos por mayoría de votos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Corresponde al Presidente del Consejo Directivo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presidir las Sesiones del Consejo Directivo, en su ausencia será suplido por el vocal que designe;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Vigilar que los acuerdos y disposiciones del Consejo Directivo se ejecuten en los términos aprobados;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejercer la representación legal de Consejo Directivo ante cualquier autoridad o persona pública o privada, y en su caso, otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente, pudiendo convenir en los mismos; IV. Designar a la persona Titular del IMPLAN;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Asistir como Presidente Honorario a las sesiones del Consejo Consultivo Ciudadano, con derecho a voz y voto, y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que le encomiende el Consejo Directivo o el Ayuntamiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Corresponde al Secretario Técnico del Consejo Directivo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asistir a las reuniones del Consejo Directivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar los citatorios correspondientes y el orden del día de las respectivas Sesiones Ordinarias y Extraordinarias del Consejo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Levantar y autorizar las actas de las sesiones celebradas por el Consejo Directivo asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ellas la firma de cada miembro asistente; IV. Autorizar con su firma los acuerdos que el Presidente dirija a nombre del Consejo Directivo, y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Levantar las actas correspondientes de los actos jurídicos que determine el Consejo Directivo, autorizándolos con su firma, de manera conjunta con el Presidente."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Corresponde a los Vocales:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asistir a las reuniones del Consejo Directivo con voz y voto;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer al Consejo Directivo los acuerdos que considere pertinentes para el cumplimiento del objeto, planes y programas del IMPLAN, y"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desempeñar las comisiones que les sean encomendadas por el Consejo Directivo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DEL LAS SESIONES DEL CONSEJO DIRECTIVO",
+        "Artículos": [
+          {
+            "Artículo": 16,
+            "Texto": "Para las reuniones del Consejo Directivo, el Secretario Técnico deberá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Por instrucciones del Presidente, convocar a los miembros del Consejo Directivo a las sesiones ordinarias, al menos con cinco días hábiles de anticipación, informándoles del día, la hora y el lugar para que tenga verificativo la reunión y con al menos veinticuatro horas de anticipación para las sesiones extraordinarias;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar el orden del día, el cual se integrará en el citatorio de la sesión para el conocimiento de los miembros del Consejo Directivo, debiéndose acompañar con la información que sustente cada uno de los asuntos a tratar en la sesión;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Vigilar que el quórum para sesionar sea al menos de la mitad más uno de los integrantes del Consejo Directivo, y IV. Levantar el acta respectiva de los acuerdos tomados misma que firmarán los miembros del Consejo Directivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Si después de transcurridos treinta minutos de la hora señalada para la reunión, no existe quórum, el Secretario Técnico convocará nuevamente a sesión, la cual deberá celebrarse dentro de los siguientes quince días. En la segunda convocatoria, la reunión será válida con la asistencia de los integrantes presentes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Será motivo de baja de un miembro del Consejo Directivo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La falta consecutiva a tres reuniones ordinarias sin causa justificada, debiéndose nombrar a quien lo sustituya, y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Por causa grave y justificada que considere el Presidente del Consejo Directivo."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Los miembros del Consejo Directivo deberán:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Guardar y respetar los acuerdos del Consejo Directivo;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Manejar con discreción la información que obtengan dentro de las reuniones del Consejo Directivo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Conducirse con verdad en las participaciones, exposiciones, comentarios y demás información que viertan al Consejo Directivo; IV. Actuar dentro del Consejo Directivo y fuera del mismo, en asuntos relacionados con éste, con probidad, esmero y transparencia, y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Procurar que no se comprometa la autonomía y postura del Consejo Directivo o del IMPLAN, por actuar con imprudencia o descuido inexcusable. El cumplimiento de lo anterior será evaluado por el propio Consejo Directivo a efecto de determinar las medidas a seguir, las cuales podrán ser desde una llamada de atención hasta la remoción del cargo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO QUINTO DE LA PERSONA TITULAR DEL IMPLAN",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "La persona Titular de IMPLAN tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar los trabajos técnicos requeridos por el Presidente Municipal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proporcionar asesoría y apoyo técnico a los integrantes de la Administración Pública Municipal para los procesos administrativos de planeación integral del desarrollo municipal;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Identificar la problemática en materia metropolitana, urbana, ambiental, social y de servicios públicos, y proponer, en su caso, posibles soluciones; IV. Apoyar en el proceso de integración, seguimiento, control y evaluación del Plan de Desarrollo Municipal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Vigilar la adecuada vinculación del Plan de Desarrollo Municipal con el presupuesto con base en resultados;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Integrar, proponer y. en su caso, dar seguimiento a las diferentes políticas públicas municipales con la participación de las diferentes unidades administrativas y descentralizadas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Realizar los proyectos y estudios necesarios para la dirección de las políticas públicas municipales orientadas a la equidad urbana y dinamización de la convivencia ciudadana;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Evaluar la procedencia de las propuestas de reconducción de la planeación sugeridas por las diferentes áreas; IX. Dirigir la integración de los informes sobre los resultados de la gestión;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Proveer lo necesario para que los estudios técnicos de cualquier especialidad requeridos por el Presidente Municipal para el desarrollo de sus funciones se lleven a cabo;"
+              },
+              {
+                "Fracción": "XI",
+                "Texto": "Coordinar los comités técnicos que le sean encargados por el Presidente Municipal; XII. Proponer al Presidente Municipal innovaciones y buenas prácticas en el gobierno y administración que corresponda; XIII. Coordinar lo necesario en la Administración Pública Municipal a efecto de que se cumplan las disposiciones en materia de planeación; XIV. Mediante convenio de colaboración que celebre el Ayuntamiento con instituciones de gobierno, órganos constitucionales autónomos, organismos internacionales, empresas privadas y públicas, academia y asociaciones civiles, utilizar información o bases de datos, que contribuyan a las funciones de planeación del desarrollo municipal, desarrollo urbano y metropolitano, ambiental, social y demás que se requieran de carácter participativas; XV. Representar legalmente al IMPLAN con las facultades de un apoderado general para pleitos y cobranzas, en actos de administración y de dominio, sustituir y delegar esta representación en uno o más apoderados que ejerzan en forma individual o conjunta, así como revocar dichos poderes. Para ejercer actos de dominio se requerirá la autorización expresa del Consejo Directivo de conformidad con las disposiciones jurídicas aplicables, y XVI. Las demás que deriven de otros acuerdos y ordenamientos legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 21,
+            "Texto": "El Titular del IMPLAN, para el cumplimiento de sus atribuciones y funciones se auxiliará de las unidades administrativas establecidas en el Reglamento Interno del IMPLAN.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "La persona Titular del IMPLAN durará en su cargo un periodo de tres años.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEXTO DEL CONSEJO CONSULTIVO CIUDADANO",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "El Consejo Consultivo Ciudadano es el órgano de consulta del IMPLAN, se integrará por el Presidente Municipal, quien será el Presidente Honorario del Consejo Consultivo Ciudadano, y por ocho personas de reconocida trayectoria en el ámbito urbano administrativo, de organizaciones no gubernamentales, o ciudadanos interesados en el desarrollo y la planeación integral del municipio, todos con derecho a voz y voto. El Consejo Ciudadano tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer al IMPLAN líneas y estrategias de planeación para el desarrollo integral del Municipio;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Analizar, evaluar y emitir opinión sobre los planes, programas y proyectos elaborados por el IMPLAN;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Promover y proponer mecanismos para incorporar la participación ciudadana en los procesos de planeación; IV. Promover la instrumentación de los Programas del Sistema Municipal de Planeación Integral ante los diversos órganos e instancias de gobierno a nivel federal, estatal y municipal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proponer proyectos para su incorporación al Programa Anual de Trabajo del IMPLAN, y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que el Consejo Directivo determine."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "El cumplimiento de sus funciones será evaluado por el propio Consejo Directivo a efecto de determinar las medidas a seguir.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Los Consejeros Ciudadanos serán electos en la primera sesión del IMPLAN a propuesta del Presidente del Consejo Directivo, los cuales deberán ser electos para un periodo de tres años. Una vez concluido su periodo, podrán ser ratificados cuatro de sus miembros a propuesta del Presidente del Consejo Directivo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "El Presidente del Consejo Ciudadano, será aquel que se designe a Propuesta del Presidente Municipal y sea ratificado por mayoría de votos por los demás integrantes del Consejo Directivo, el cual durará como Presidente tres años, pudiendo ser ratificado a propuesta del Presidente Municipal hasta por dos ocasiones. Será el encargado de realizar las respectivas invitaciones a la totalidad de los integrantes del Consejo Ciudadano para tratar los asuntos de su competencia en las sesiones y tendrá el voto de calidad en caso de empate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "No podrán formar parte del Consejo Ciudadano, aquellos que ocupen cargos, cualquiera que sea su denominación, en algún partido político, organización religiosa, o que se encuentre en ejercicio de sus funciones en la administración pública municipal, estatal o federal, a excepción de docentes, académicos o con cargo en alguna institución educativa.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SÉPTIMO DEL PATRIMONIO DEL IMPLAN",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "El patrimonio del IMPLAN se integrará con los siguientes recursos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los bienes muebles e inmuebles que el Ayuntamiento le asigne;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los recursos del presupuesto de egresos del Municipio que le sean asignados por el Ayuntamiento anualmente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los bienes y demás ingresos que el Gobierno del Estado de México, la Federación o cualquier otra Entidad o Institución pública, órgano autónomo, organismo internacional, empresa privada, institución académica o asociación civil le otorgue o destine; IV. Las aportaciones, donaciones, legados y las liberalidades que reciba de personas físicas o jurídicas colectivas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las concesiones, permisos, licencias y autorizaciones que les otorguen conforme a las Leyes y reglamentos, y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "En general los demás bienes, derechos e ingresos que obtengan por cualquier título legal."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "El IMPLAN llevará un libro de inventario debidamente autorizado y actualizado que contendrá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La descripción de los bienes muebles e inmuebles que forman su patrimonio, fecha y forma de su adquisición, y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Su destino y movimiento que llegasen a ocurrir."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO OCTAVO DE LAS GENERALIDADES",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "EL IMPLAN deberá elaborar su programa de trabajo anual para el ejercicio inmediato siguiente y lo someterá a la consideración del Ayuntamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "El IMPLAN estará sujeto a la Ley Orgánica Municipal del Estado de México, y a la Ley de Planeación del Estado de México y Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Las relaciones laborales entre el IMPLAN y sus trabajadores, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, y las demás disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

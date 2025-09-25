@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 23,
+  "n_perm_fracciones": 61,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE SU NATURALEZA DEL INSTITUTO",
+    "CAPÍTULO SEGUNDO EL OBJETO DEL INSTITUTO",
+    "CAPÍTULO TERCERO DE LAS ATRIBUCIONES DEL INSTITUTO",
+    "CAPÍTULO CUARTO DEL SISTEMA MUNICIPAL DE CULTURA FÍSICA Y DEPORTE",
+    "CAPÍTULO QUINTO DEL PROGRAMA MUNICIPAL DE CULTURA FÍSICA Y DEPORTE",
+    "CAPÍTULO SEXTO DE LA ORGANIZACIÓN DEL INSTITUTO",
+    "CAPÍTULO SÉPTIMO DEL PATRIMONIO DEL INSTITUTO.",
+    "CAPÍTULO OCTAVO DEL CONTROL Y VIGILANCIA DEL INSTITUTO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

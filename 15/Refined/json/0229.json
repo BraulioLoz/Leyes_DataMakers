@@ -1,0 +1,488 @@
+{
+  "0229.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto Número 252 LXI Legislatura LEY QUE REGULA EL USO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN PARA LA SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO",
+    "Año_publicación": 2014,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "La presente Ley es de orden e interés público y de observancia general en todo el territorio del Estado de México y tiene por objeto establecer las bases de coordinación entre las instituciones de seguridad pública del Gobierno del Estado de México y de los municipios de la entidad, en el uso y aprovechamiento de las tecnologías de la información y comunicación en el marco de los Sistemas Nacional y Estatal de Seguridad Pública, y sus fines son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Regular la ubicación, instalación y operación de equipos y sistemas tecnológicos a cargo de las instituciones de seguridad pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contribuir al mantenimiento del orden, la tranquilidad y la estabilidad en la convivencia, así como prevenir situaciones de emergencia o desastre e incrementar la seguridad pública;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Regular el uso y resguardo de la información obtenida, a través de equipos y sistemas tecnológicos en las materias de seguridad pública y procuración de justicia; IV. Regular las acciones de análisis de la información obtenida con equipos o sistemas tecnológicos en materia de seguridad pública, para generar inteligencia en la prevención de la delincuencia e infracciones administrativas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Establecer las bases para la estandarización u homologación de los equipos y sistemas tecnológicos en materia de seguridad pública."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de esta Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Centro de Control, Comando, Comunicación, Cómputo y Calidad: Conjunto de recursos humanos y de herramientas tecnológicas modernas, que facilitan el rápido acceso a los usuarios de seguridad pública."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Centros de Mando Municipal: A las áreas que se encargan de operar el sistema de emergencia 911, la consulta de la base de datos, así como de administrar y controlar el sistema de videovigilancia municipal."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Centros de Mando Regional: A las áreas que se encargan de administrar y operar el sistema de emergencia 911, la consulta de la base de datos, así como administrar y controlar el sistema de videovigilancia regional. IV. Consejo Estatal: Consejo Estatal de Seguridad Pública;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Equipos y Sistemas Tecnológicos: Conjunto de aparatos y dispositivos dentro de la categoría de tecnologías de la información y comunicación para la seguridad pública, adecuados para el tratamiento de voz e imagen;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Instituciones Policiales: Los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva y de centros de arraigo y las dependencias encargadas de la seguridad pública a nivel estatal y municipal;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Instituciones de Seguridad Pública: Las instituciones policiales, de Procuración de Justicia, del Sistema Penitenciario y demás dependencias encargadas de la seguridad pública a nivel estatal y municipal;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Inteligencia para la Prevención: Conocimiento obtenido a partir del acopio, procesamiento, diseminación y aprovechamiento de información, para la toma de decisiones en materia de IX. Ley: Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de México;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Ley de Protección: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios. XI. Ley de Seguridad: Ley de Seguridad del Estado de México; XII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios; XIII. Fiscalía: Fiscalía General de Justicia del Estado de México. XIV. Prestadores de Servicios: Son las personas físicas o jurídicas colectivas que prestan los servicios de seguridad privada. XV. Registro: Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública; XVI. Reglamento: Reglamento de la Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de México; XVII. Secretaría: Secretaría de Seguridad. XVIII. Secretariado Ejecutivo: Secretariado Ejecutivo del Sistema Estatal; XIX. Sistema Estatal de Informática: Dirección General del Sistema Estatal de Informática de la Secretaría de Finanzas del Gobierno del Estado de México;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Tecnología: Conjunto de recursos, procedimientos y técnicas usados para el procesamiento, almacenamiento y transmisión de la información, utilizados para apoyar tareas de seguridad pública."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Se crea el Registro, mismo que estará a cargo de la Secretaría, que integrará aquellos equipos y sistemas tecnológicos de las instituciones de seguridad pública, destinados a prevenir, inhibir y combatir conductas ilícitas para garantizar el orden y la tranquilidad de los habitantes del Estado de México. La organización del Registro y demás aspectos relacionados, estarán previstos en el Reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LAS INSTANCIAS DE COORDINACIÓN",
+        "Artículos": [
+          {
+            "Artículo": 4,
+            "Texto": "El Secretariado Ejecutivo, a través del Centro de Información y Estadística, tendrá las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Verificar el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezcan la presente Ley y el Reglamento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Realizar revisiones al Registro de Tecnologías;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proponer mejoras a los métodos de clasificación, procesamiento, validación, almacenamiento, resguardo y remisión de información estadística, que garantice la veracidad en los datos que reportan, en los términos establecidos en la presente Ley y su Reglamento; IV. Solicitar a la Secretaría informes de instalación y retiro de equipos y sistemas tecnológicos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que establezca esta Ley y demás disposiciones aplicables;"
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "La Secretaría tendrá las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley y el Reglamento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinarse con la Fiscalía o la autoridad municipal para la instalación de equipos y sistemas tecnológicos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir el dictamen correspondiente de los equipos y sistemas tecnológicos en materia de IV. Operar, administrar y actualizar el Registro de Tecnologías a través del Centro de Control, Comando, Comunicación, Cómputo y Calidad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos o sistemas tecnológicos;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que establezca esta Ley y demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "Corresponde a la autoridad municipal, las siguientes funciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proponer acciones derivadas de las disposiciones que en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley y el Reglamento;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Coordinarse con la Secretaría para la instalación de equipos y sistemas tecnológicos;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la presente Ley, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables; IV. Garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos o sistemas tecnológicos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Solicitar a la Secretaría la dictaminación de los equipos y sistemas tecnológicos en materia de"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las demás que establezca esta Ley y demás disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 7,
+            "Texto": "El Secretariado Ejecutivo, a través del Centro de Información y Estadística, verificará el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezcan la presente Ley, la Ley de Seguridad, la Ley",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Corresponde a la Secretaría proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley, la Ley de Seguridad, la Ley",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Corresponde a la Fiscalía y a los ayuntamientos proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley, la Ley de Seguridad, la Ley",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "Los prestadores de servicios coadyuvarán, en su carácter de auxiliares, a la seguridad pública en situaciones de emergencia, desastre o cuando así lo solicite la autoridad estatal o municipal, en los términos establecidos por la presente Ley, la Ley de Seguridad, la Ley",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "Las personas físicas y jurídicas colectivas que cuenten con la infraestructura tecnológica de captación o acopio de información susceptible de ser útil a los fines de la seguridad pública, podrán ser requeridas por la autoridad ministerial, judicial y administrativa para coadyuvar en la investigación de los delitos y faltas administrativas, así como para prevenir situaciones de emergencia o desastre.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE LOS LINEAMIENTOS A QUE SE SUJETARÁ LA COLOCACIÓN DE TECNOLOGÍA",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "La instalación de equipos y sistemas tecnológicos, previo análisis técnico basado en los criterios y prioridades establecidos en la presente Ley, se acordará entre la Secretaría, el municipio o la dependencia interesada. La instalación se realizará en lugares en los cuales sea posible prevenir, inhibir y combatir conductas ilícitas, para garantizar el orden y la tranquilidad de los habitantes del Estado de México. Los equipos y sistemas tecnológicos instalados conforme a lo establecido en la presente Ley, solo podrán ser retirados en aquellos casos en los que los municipios o las dependencias interesadas, previa justificación y en coordinación con la Secretaría, determinen que los equipos y sistemas tecnológicos instalados, ya sea por su ubicación o por sus características:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "No contribuyen al objeto y fines de la presente Ley."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se advierta un deterioro físico que imposibilite el adecuado cumplimiento de sus funciones, debiendo repararse o sustituirse en un término no mayor a treinta días naturales. Cuando la inversión realizada por el Gobierno del Estado de México o los municipios, en la instalación de equipos y sistemas tecnológicos o cualquier infraestructura que se encuentre dentro de la regulación de esta Ley, sea superior al promedio de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, no podrá ser modificada o retirada sin previo informe al Secretariado Ejecutivo. La Secretaría deberá informar y justificar al Secretariado Ejecutivo, en todos los casos que se determine, el retiro de equipos y sistemas tecnológicos."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "Queda prohibido a cualquier ente público la colocación de equipos y sistemas tecnológicos al interior de los domicilios particulares. Queda prohibida la instalación en cualquier lugar, de equipos y sistemas tecnológicos, con el objeto de obtener información personal o familiar. La autoridad podrá instalar los equipos tecnológicos fijos en bienes del dominio público del Estado de México o municipios. Para la instalación en cualquier otro lugar, se requerirá autorización por\nescrito del propietario o poseedor del lugar en el que se pretendan ubicar los equipos y sistemas tecnológicos. Dicha autorización será confidencial y deberá resguardarse junto con la información obtenida por los sistemas tecnológicos, de conformidad con lo dispuesto en la presente Ley, la Ley de Transparencia y la Ley de Protección. También queda prohibida la colocación de propaganda, mantas, lonas, carteles, espectaculares, estructuras, señalizaciones y en general, cualquier objeto que impida, distorsione, obstruya o limite el cumplimiento de las funciones de los equipos y sistemas tecnológicos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "Las instancias interesadas bajo su operación, resguardo y presupuesto, podrán solicitar a la Secretaría, de conformidad con lo establecido en el artículo 9 de la presente Ley, la instalación de equipos y sistemas tecnológicos para la seguridad pública en los bienes de uso común del Estado de México:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Titular de la Fiscalía, a propuesta de los subprocuradores, fiscales regionales y especiales, así como del Comisario General de la Policía de Investigación."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las dependencias de la Administración Pública del Estado de México que justifiquen la necesidad de su instalación, para prevenir situaciones de emergencia o desastre e incrementar la seguridad pública."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los Consejos Intermunicipales de Seguridad Pública. IV. Los presidentes municipales a propuesta de los Consejos Municipales de Seguridad Pública."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "Son criterios para la instalación y operación de equipos y sistemas tecnológicos los siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Zonas escolares, recreativas y lugares de mayor afluencia de público, turismo o comercio."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las áreas públicas de zonas, colonias y demás lugares de concentración o afluencia de personas o tránsito de las mismas, registradas con mayor incidencia delictiva en la estadística criminal de las instituciones de seguridad pública, de los municipios o de los sistemas de emergencia 911 y de denuncia anónima 089."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las colonias, manzanas, avenidas, calles y demás lugares que registren los delitos de mayor impacto para la sociedad. IV. Las intersecciones viales más conflictivas clasificadas por la Dirección General de Seguridad Pública y Tránsito de la Secretaría o por los municipios."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las zonas con mayor índice de percepción de inseguridad."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Las zonas con mayor vulnerabilidad a fenómenos de origen natural o humano identificados en los atlas de riesgo."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Cualquier instrumento de análisis diferente a la prevención, que permita la toma de decisiones en materia de seguridad pública, así como aquella información que posibilite su adecuada colocación, para el cumplimiento de sus fines."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las zonas registradas con mayor incidencia de infracciones administrativas."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "La solicitud de instalación o retiro, se hará por escrito, dirigida a la Secretaría o a la autoridad municipal correspondiente, quienes determinarán lo conducente en términos de la presente Ley y el reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "La información generada por la utilización de los equipos y sistemas tecnológicos, en poder de la Secretaría, los ayuntamientos o los prestadores de servicios, deberá ser preservada en la forma y plazos dispuestos en el Reglamento, especialmente la que sea utilizada en los casos previstos en el artículo 25 de esta Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DE LOS CENTROS DE CONTROL, COMANDO, COMUNICACIÓN, CÓMPUTO Y CALIDAD",
+        "Artículos": [
+          {
+            "Artículo": 18,
+            "Texto": "El Gobierno del Estado de México, a través de la Secretaría, regulará el Centro de Control, Comando, Comunicación, Cómputo y Calidad, así como los centros de Mando Regional y Municipal, para el manejo de la información obtenida con equipos y sistemas tecnológicos, los cuales estarán controlados, operados y sujetos de conformidad con lo establecido en la presente Ley, su Reglamento, la Ley de Seguridad y demás disposiciones aplicables. Los centros de Mando Municipal deberán estar en coordinación con la Secretaría, a través del Centro de Control, Comando, Comunicación, Cómputo y Calidad, por lo que su operación se regirá por las políticas y estándares que ésta establezca.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Los equipos y sistemas tecnológicos utilizados por las áreas de la administración pública central, por organismos auxiliares del Gobierno del Estado de México, por los municipios y por las instituciones de seguridad privada, se incorporarán al Registro. Las instituciones de seguridad pública, municipios, personas físicas y jurídicas colectivas que presten los servicios de seguridad privada, deberán estandarizar y homologar sus equipos y sistemas tecnológicos entre sí, a fin de procurar que los datos recabados estén homologados con las bases de datos nacionales y estatales que se establezcan en el marco de los sistemas Nacional y Estatal de Seguridad Pública.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "La videovigilancia tiene por objeto regular el uso, localización y operación de videocámaras para grabar o captar imágenes con o sin sonido, en lugares públicos o en lugares privados con acceso al público, en materia de seguridad pública. Las formas de captación y grabación por los cuerpos de seguridad pública estatal, municipal y de seguridad privada que sean autorizados, se establecerán de conformidad con el Reglamento. La videovigilancia en vías públicas, será función exclusiva de los cuerpos de seguridad pública estatal y municipal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "Toda persona tiene derecho a que se le informe en qué lugares se realizarán las actividades de videovigilancia y que autoridad o prestador de servicio de seguridad privada las realiza; para tal efecto, se deberán colocar anuncios pictográficos que contengan la leyenda “Este Lugar es Videovigilado”, el nombre de la autoridad o prestador de servicio y en caso de realizar grabaciones, el término en que se destruirán, así como indicar los derechos de acceso, rectificación y oposición que se pueden ejercer en términos de esta Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DEL SISTEMA DE EMERGENCIA Y DE DENUNCIA ANÓNIMA",
+        "Artículos": [
+          {
+            "Artículo": 22,
+            "Texto": "Los sistemas de emergencia y de denuncia anónima 089, operarán el 911 como\nnúmero único para la atención a la ciudadanía. El Centro de Control, Comando, Comunicación, Cómputo y Calidad, establecerá las políticas necesarias para la administración, operación y evaluación de los mismos, a efecto de unificar y difundir entre la población los dígitos de acceso, debiendo los municipios alinearse a tales disposiciones conforme a lo dispuesto en el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- El sistema de emergencia 911, es un número gratuito de atención telefónica, diseñado para recibir las llamadas de emergencia de la ciudadanía, que contará con personal\naltamente capacitado laborando las 24 horas los 365 días del año y es el medio de canalización directa entre el usuario y las corporaciones de auxilio.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "El sistema de denuncia anónima 089, es un número de atención telefónica diseñado para realizar de manera anónima las denuncias de la comisión de delitos, que contará con personal altamente capacitado laborando las 24 horas los 365 días del año y es el medio de canalización directa entre el usuario y las corporaciones correspondientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "Las Instituciones de Seguridad Pública, implementarán los métodos de clasificación, procesamiento, validación, almacenamiento, resguardo y remisión de información, que garantice la veracidad en los datos que reportan, en los términos establecidos por las disposiciones aplicables en la materia y en su caso, en el Reglamento de esta Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI DE LA DICTAMINACIÓN DE INFRAESTRUCTURA Y SISTEMAS TECNOLÓGICOS",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "La Administración Pública Estatal deberá contar con dictámenes técnicos en la adquisición de equipo para telecomunicaciones, cómputo, software y servicios relacionados con éstos, emitidos por la Agencia Digital del Estado de México. Para el aprovechamiento y actualización de los equipos y sistemas tecnológicos de la Administración Pública Estatal y Municipal en materia de Seguridad Pública, la Secretaría, a través de su unidad administrativa competente, será la encargada de dictaminar las especificaciones técnicas de los bienes a adquirir en los procesos de adquisición, con el fin de fortalecer y hacer eficientes los mecanismos de coordinación. Los municipios deberán solicitar el dictamen técnico a la Secretaría y cumplir con los lineamientos de operación que se establezcan para tal efecto. Cuando se trate de equipos y sistemas tecnológicos necesarios para la procuración de justicia, la emisión del dictamen técnico corresponderá a la Fiscalía.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "La Secretaría, para la emisión del dictamen técnico, observará los siguientes criterios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La homologación y estandarización del uso de equipos y sistemas tecnológicos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El cumplimiento de normas de seguridad informática."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las demás que se señalen en el Reglamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DE LA RESERVA, CONTROL, ANÁLISIS Y UTILIZACIÓN DE LA INFORMACIÓN OBTENIDA CON TECNOLOGÍA",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "La información en materia de seguridad pública compuesta por imágenes o sonidos captados a través de equipos o sistemas tecnológicos, podrá ser utilizada en:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La prevención de los delitos e infracciones administrativas."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La investigación de los delitos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La imposición de sanciones por infracciones administrativas. IV. Reacción inmediata, en los casos en que, a través de la información obtenida con equipos y sistemas tecnológicos, se aprecie la comisión de un hecho delictuoso o infracción administrativa y\nse esté en posibilidad jurídica y material de asegurar al presunto responsable, de conformidad con las leyes aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "Los particulares previa autorización de la Secretaría, podrán conectar sus equipos y sistemas tecnológicos privados al sistema que para el efecto disponga la Secretaría, con la finalidad primaria de atender eventos con reacción inmediata, de conformidad con los requisitos establecidos en el Reglamento. Toda información obtenida con equipos o sistemas tecnológicos de particulares conectados al sistema implementado por la Secretaría, deberá recibir el tratamiento establecido en la presente Ley y su Reglamento, la Ley de Seguridad, la Ley de Transparencia y la Ley de Protección.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "Los prestadores de servicios en el Estado de México que utilicen tecnología a través de la cual se capte información, tendrán las obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Inscribir en el Registro, así como en el Registro Estatal de Empresas de Seguridad Privada, la utilización de estos sistemas tecnológicos en materia de seguridad pública."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proporcionar a la Secretaría, en un plazo de cinco días hábiles contados a partir del momento en que se registró un hecho delictuoso o falta administrativa, copia fiel de la información obtenida con sus sistemas tecnológicos, y que se relacione con lo establecido en el artículo 25 de la presente Ley, así como un informe emitido por el permisionario, bajo protesta de decir verdad, en el que se mencionen las circunstancias en que se captó dicha información, el tramo de la grabación, cinta o cualquier otro medio electrónico en el que se aprecian esos hechos y una descripción de los mismos. No tendrán esta obligación los prestadores de servicios que obtengan información con los equipos y sistemas tecnológicos registrados ante la Secretaría y que capten hechos probablemente constitutivos de delito o conducta antisocial, perseguibles solo por querella de parte ofendida."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "Los particulares tienen las obligaciones y limitaciones en la utilización de equipos y sistemas tecnológicos, en la obtención, resguardo y difusión de información captada con ellos, establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las Leyes federales y locales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "Las instituciones de seguridad pública podrán convenir con la Federación, con las demás entidades federativas o con los municipios, para la utilización conjunta de equipos y sistemas tecnológicos o procedimientos para la obtención de información.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "Toda información obtenida por las instituciones de seguridad pública, con el uso de equipos y sistemas tecnológicos, deberá registrarse de conformidad con lo establecido en la presente Ley, en la Ley de Transparencia, en la Ley de Protección y en la Ley de Seguridad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "Toda información recabada por las instituciones de seguridad pública, con apego a la presente Ley, se considerará reservada en los siguientes casos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Cuando su divulgación implique la revelación de normas, procedimientos, métodos, fuentes, especificaciones técnicas, sistemas, tecnología o equipos útiles para la prevención o el combate a la delincuencia."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cuya revelación pueda ser utilizada para actualizar o potenciar una amenaza a la seguridad pública o a las instituciones del Estado de México."
+              }
+            ]
+          },
+          {
+            "Artículo": 35,
+            "Texto": "Toda información recabada por las instituciones de seguridad pública con el uso de equipos y sistemas tecnológicos, deberá ser remitida a petición de cualquier autoridad judicial o administrativa que la requiera para el cumplimiento de sus atribuciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "Las instituciones de seguridad pública deberán garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos y sistemas tecnológicos, mediante la Cadena de Custodia correspondiente. Los servidores públicos estatales y municipales que tengan bajo su custodia la información a que hace referencia este artículo, serán responsables directamente de su guarda, inviolabilidad e inalterabilidad.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII DE LOS DATOS O MEDIOS DE PRUEBA OBTENIDOS CON EQUIPOS Y SISTEMAS TECNOLÓGICOS",
+        "Artículos": [
+          {
+            "Artículo": 37,
+            "Texto": "La información obtenida con equipos y sistemas tecnológicos en términos de esta Ley, podrá constituir un dato o medio de prueba en los procedimientos seguidos ante las autoridades competentes y la legislación aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "Las instituciones de seguridad pública deberán acompañar la información obtenida con equipos y sistemas tecnológicos regulados por esta Ley, autentificada por escrito, en las remisiones y puestas a disposición ante la autoridad competente, precisando su origen y las circunstancias en que se allegó de ella.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "La información recabada por las instituciones de seguridad pública a través del uso de equipos y sistemas tecnológicos, sólo puede ser suministrada o intercambiada cuando ésta reúna todos y cada uno de los requisitos exigidos en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "En el Estado de México, está prohibido el suministro o intercambio de información en poder de Instituciones de Seguridad Pública, obtenida a través del uso de equipos y sistemas tecnológicos, o de productos de inteligencia para la prevención, derivada de dicha información, con personas físicas o jurídico colectivas, cualquiera que sea su naturaleza.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IX DE LA FORMACIÓN DE UNA CULTURA DEL USO Y APROVECHAMIENTO DE TECNOLOGÍA",
+        "Artículos": [
+          {
+            "Artículo": 41,
+            "Texto": "Todo equipo y sistema tecnológico relacionado con servicios de alerta pública, deberá contar previamente con un plan operativo que establezca con precisión las acciones de coordinación entre dependencias responsables, la participación que corresponde a la población, antes, durante y después de una situación de emergencia o desastre, de conformidad con la legislación aplicable en la materia de que se trate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "En el informe anual del Consejo Estatal, la Secretaría dará a conocer los resultados obtenidos en la seguridad pública, con la utilización de equipos y sistemas tecnológicos.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Quinto",
+            "Texto": "Los ayuntamientos de los municipios del Estado tendrán la obligación de inscribir en el Registro, sus tecnologías en materia de seguridad, ante la Secretaría, dentro de los sesenta días naturales posteriores a la vigencia de la presente Ley. SEXTO. El Ejecutivo del Estado y los ayuntamientos, para el cumplimiento de la presente Ley proveerán lo conducente en el ámbito de sus competencias. SÉPTIMO. El Ejecutivo del Estado a través de la Secretaría de Finanzas adoptará las medidas necesarias, de conformidad con las atribuciones del Código Financiero del Estado de México y Municipios y que permitan el cumplimiento de la presente Ley en el marco del Presupuesto de Egresos del Ejercicio fiscal de 2014 aprobado por esta Legislatura. OCTAVO. La Legislatura del Estado de México, al aprobar el presupuesto de egresos, destinará los recursos necesarios para el cumplimiento de la presente Ley. NOVENO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley. Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintinueve días del mes de abril de dos mil catorce.\nAPROBACIÓN: 29 de abril de 2014. PROMULGACIÓN: 14 de mayo de 2014. PUBLICACIÓN: 14 de mayo de 2014. VIGENCIA: La presente Ley, entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Periódico Oficial \"Gaceta del Gobierno\". TABLA DE REFORMAS, ADICIONES Y DEROGACIONES\nDECRETO 178.- Por el que se reforma el segundo párrafo de la fracción 11 del artículo 12. Publicado en la Gaceta del Gobierno el 20 de diciembre de 2016.\nDECRETO 179.- Se reforman las fracciones I, II, III, X, XIII, XIV y XVII del artículo 2, las fracciones II y IV del artículo 5, los artículos 9 y 10, la fracción I del artículo 14, la fracción II del artículo 15, el\nartículo 17, la denominación del Capítulo IV, los artículos 18, 22 y 23, los párrafos segundo y cuarto del artículo 26 y los párrafos primero y segundo del artículo 30 de la Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de México. Publicado en la Gaceta del Gobierno el 22 de junio de 2023.\nDECRETO 252.- Se reforma el párrafo primero del artículo 26 de la Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de México. Publicado en la Gaceta del Gobierno el 05 de abril de 2024.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

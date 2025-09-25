@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 28,
+  "n_perm_fracciones": 75,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II DEL CONSEJO PARA PREVENIR, ATENDER Y COMBATIR EL SECUESTRO EN EL ESTADO DE MÉXICO",
+    "CAPÍTULO III DE LAS AUTORIDADES RESPONSABLES",
+    "CAPÍTULO IV DE LOS DERECHOS DE LAS VÍCTIMAS Y OFENDIDOS",
+    "CAPÍTULO V DE LOS DELITOS Y LA NORMATIVIDAD APLICABLE"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

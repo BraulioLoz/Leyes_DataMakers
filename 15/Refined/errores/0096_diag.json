@@ -1,0 +1,20 @@
+{
+  "n_chapters": 7,
+  "n_perm_articles": 22,
+  "n_perm_fracciones": 44,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE LAS DISPOSICIONES GENERALES",
+    "CAPÍTULO SEGUNDO DE LAS ATRIBUCIONES DEL BANCO",
+    "CAPÍTULO TERCERO DE LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN",
+    "CAPÍTULO CUARTO DE LA JUNTA DE GOBIERNO",
+    "CAPÍTULO QUINTO DEL DIRECTOR GENERAL",
+    "CAPÍTULO SEXTO DEL PATRONATO",
+    "CAPÍTULO SÉPTIMO DEL CONSEJO TÉCNICO CONSULTIVO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7
+  }
+}

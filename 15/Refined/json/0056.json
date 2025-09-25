@@ -1,0 +1,710 @@
+{
+  "0056.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios LEY DE VIGILANCIA DE MEDIDAS CAUTELARES Y DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO EN EL ESTADO DE MÉXICO",
+    "Año_publicación": 2015,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Las disposiciones comprendidas en esta Ley son de orden público, interés social y de observancia general en el Estado de México, por las autoridades judiciales y administrativas encargadas de la aplicación de la misma.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- El objeto de la Ley es regular la ejecución, control y vigilancia de las medidas cautelares del proceso penal y las condiciones de la suspensión condicional del proceso, así como la coordinación entre autoridades judiciales y administrativas, para evitar la materialización de los riesgos que sustentan aquéllas, a través de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Evaluar el nivel de riesgo que un imputado representa al seguir en libertad en un proceso penal, a fin de determinar la idoneidad de las medidas cautelares proporcionadas al caso, en concordancia con lo previsto en el Código de Procedimientos Penales para el Estado de México."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Administrar, aplicar y supervisar el cumplimiento de las medidas cautelares."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Gestionar, aplicar y supervisar el cumplimiento de las condiciones impuestas con motivo de la suspensión condicional del proceso. IV. Las demás atribuciones que se prevean en esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- En todo lo no previsto en esta Ley, se aplicará supletoriamente el Código Penal del Estado de México y el Código de Procedimientos Penales para el Estado de México. Serán admisibles y válidas aquellas formas que resulten adecuadas para lograr los fines del mismo, siempre que no se contrapongan a sus disposiciones ni a los principios constitucionales y de derechos humanos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Para los efectos, aplicación e interpretación de esta Ley se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autoridad: a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Centro Estatal: al Centro Estatal de Medidas Cautelares."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de México. IV. Condiciones: al sometimiento del imputado a una o varias de las condiciones que refiere el Código de Procedimientos Penales que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse, pueda dar lugar a la extinción de la acción penal."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Imputado: al imputado o acusado sujeto al procedimiento penal, en los términos del Código de Procedimientos Penales."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Juez: al Juez de Control, Juez de Juicio Oral, Tribunal de Juicio Oral o Juez de Ejecución de Sentencias, previstos en la Ley Orgánica del Poder Judicial del Estado de México."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ley: a la Ley de Vigilancia de Medidas Cautelares y de la Suspensión Condicional del Proceso en el Estado de México."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Localizadores electrónicos: a los dispositivos electrónicos que permiten monitorear la ubicación geográfica de la persona que lo porte y así verificar el cumplimiento de la medida cautelar. IX. Medidas cautelares: a las restricciones de la libertad personal o de otros derechos, previstas en el Código de Procedimientos Penales, las cuales son impuestas por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima, ofendido o del testigo, así como evitar la obstaculización del procedimiento."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- La aplicación de las medidas cautelares se regirá bajo los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Proporcionalidad: la forma de ejecución y supervisión de las medidas cautelares debe ser proporcional al derecho que se pretenda proteger, al peligro que se trate de evitar y a la pena que pudiera llegar a imponerse; en el caso de las condiciones, también su forma de ejecución y de supervisión debe ser proporcional al objetivo que se persigue."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Provisionalidad: la forma de ejecución y de supervisión debe considerar la temporalidad o vigencia, prevista por el juzgador."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Instrumentalidad: la ejecución y supervisión de las medidas cautelares estarán orientados a la consecución de fines de carácter procesal y las posibilidades del obligado y de la autoridad. IV. Contingencia: la aplicación y vigilancia debe ser eficaz a la exigencia del caso concreto y cumplir con su finalidad."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Mínima injerencia: la forma de ejecución y de supervisión de las medidas cautelares será lo menos restrictiva posible para asegurar que el imputado cumpla con sus obligaciones procesales y se proteja la seguridad de la investigación, de las víctimas, los testigos y de la sociedad, lo mismo sucederá en las condiciones en cuanto a su propia finalidad."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- Se le garantizará al imputado el respeto de los derechos humanos que la Constitución Política de los Estados Unidos Mexicanos reconoce a su favor, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de México, el Código de Procedimientos Penales, esta Ley y demás disposiciones aplicables, durante la ejecución y supervisión de las medidas cautelares y de la suspensión condicional del proceso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "- Toda persona que se encuentre cumpliendo alguna de las medidas cautelares o condiciones, a excepción de la prisión preventiva, podrá ejercer sus derechos políticos, civiles, sociales, económicos y culturales en los términos y modalidades que el juez haya fijado, salvo que sean incompatibles con el objeto del cumplimiento de la medida procesal o restringidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y las disposiciones legales que de ellas emanen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 8,
+            "Texto": "- La investigación, análisis y evaluación de riesgos procesales del imputado tiene por objeto brindar información relevante y de calidad que auxilie a las partes y al Juez a determinar la idoneidad y proporcionalidad de la medida cautelar solicitada, así como para resolver sobre su imposición, modificación o extinción. Para los efectos de este artículo, se entenderá que la información es relevante en la medida en que esta contenga datos concretos relacionados con los criterios de riesgo procesal que señala el Código de Procedimientos Penales. Asimismo, se entenderá que la información proporcionada es de calidad en la medida en que ésta se base en métodos de verificación que garanticen la veracidad de los datos proporcionados.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II AUTORIDADES",
+        "Artículos": [
+          {
+            "Artículo": 9,
+            "Texto": "- Los poderes Judicial y Ejecutivo del Estado vigilarán en el ámbito de sus respectivas competencias el cumplimiento y aplicación de esta Ley, a través del juez de control, juez de juicio oral, tribunal de juicio oral o juez de ejecución de sentencias y del Centro Estatal, así como la organización y funcionamiento de las instituciones destinadas a la ejecución y vigilancia de las medidas cautelares y condiciones de la suspensión del proceso. Para practicar la evaluación de riesgo, el Ministerio Público requerirá al Centro Estatal para que realice la evaluación del imputado, y entregue su opinión técnica dentro de las veinticuatro horas posteriores a la recepción de la solicitud, al Ministerio Público y en su caso, al defensor del imputado. Para el cumplimiento de las medidas cautelares o condiciones, el Juez remitirá a la Autoridad y a las diversas instancias que resulten competentes, las resoluciones en las que se determinen para su ejecución y vigilancia por conducto de sus unidades administrativas o en coordinación con las autoridades auxiliares. Las dependencias, entidades y ayuntamientos tendrán la intervención que señala la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 10,
+            "Texto": "- Corresponde a la Autoridad por conducto del Centro Estatal, cumplimentar las decisiones judiciales en el ámbito administrativo, a través de las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar el procedimiento de investigación y evaluación de riesgos procesales, conforme a lo previsto en esta Ley."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Llevar el registro de todas las medidas cautelares y condiciones de la suspensión condicional del proceso impuestas a que se refiere el Código de Procedimientos Penales."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Vigilar y coordinar la ejecución de las medidas cautelares y el cumplimiento de las condiciones impuestas conforme a lo establecido en la presente Ley. IV. Informar al Ministerio Público sobre la ejecución, cumplimiento o incumplimiento de la medida cautelar impuesta o de las condiciones a cumplir. La información deberá incluirse a la carpeta de investigación."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Solicitar la intervención de las instituciones policiales para el cumplimiento de las medidas cautelares y de las condiciones."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Comunicar inmediatamente a la autoridad judicial y al Ministerio Público cualquier actuación o incidencia que se presente y que afecte derechos fundamentales y garantías de los imputados, de las víctimas o testigos."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que esta Ley u otros ordenamientos le confieran."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Son autoridades coadyuvantes en el ámbito de su competencia, todas las dependencias y entidades del Poder Ejecutivo, las Instituciones de Asistencia Privada que realicen alguna acción compatible con el objeto de la presente Ley y se sujetarán a lo dispuesto en la misma.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- Corresponde a los ayuntamientos auxiliar en la ejecución de las medidas cautelares y condiciones cuando se trate de imputados que residan en el lugar donde ejerzan su autoridad, en los casos previstos en esta Ley.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III AUTORIDAD DE EJECUCIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO",
+        "Artículos": [
+          {
+            "Artículo": 13,
+            "Texto": "- El Centro Estatal es la autoridad de ejecución y suspensión de medidas cautelares y de la suspensión condicional del proceso, es una unidad administrativa de la Autoridad, que tiene como fin cumplir los objetivos de la presente Ley. La evaluación que realice el Centro Estatal estará encaminada a salvaguardar el riesgo objetivo de afectación al proceso, la víctima, los testigos o la sociedad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- El Centro Estatal deberá basar su actuación en los siguientes principios:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Presunción de inocencia: siempre tratará como inocente a toda persona sujeta a una medida cautelar o condición."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Imparcialidad: no inclinarse a favor o en contra de alguna de las partes."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Objetividad: los reportes de evaluación y supervisión se basarán en información concreta y actual, sin discriminar a las personas por motivos de raza, discapacidad, religión, origen nacional o étnico, género, orientación sexual, condición social, tipo de delito por el que se le investiga o cualquier otro motivo. IV. Subsidiariedad: elaborará sus recomendaciones partiendo de la premisa del cumplimiento efectivo de las medidas o condiciones que sean menos restrictivas para el imputado y con ello, se proteja la seguridad de la investigación, de las víctimas, los testigos y de terceros."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proporcionalidad: establecerá la forma de cumplimiento y supervisión, considerando sean proporcionales a los fines de asegurar la comparecencia del imputado y proteger a la víctima, a la sociedad y al proceso."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Confidencialidad: protegerá la información recabada de los imputados y de terceros, evitando que sea utilizada como prueba de culpabilidad durante el proceso o en diversos asuntos. Las opiniones e informes que emita no podrá ser utilizada en juicio para acreditar o no la existencia del hecho delictuoso o la participación o intervención del imputado."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Legalidad: los reportes y actividades de supervisión se regirán por lo estipulado en las disposiciones jurídicas aplicables."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Dignidad: respetará en todo momento la dignidad del imputado y de la víctima, evitando la estigmatización independientemente del delito por el que estén siendo procesados. Los servidores públicos deberán dirigirse a las personas por su nombre. IX. Obligatoriedad y responsabilidad: está obligado a reportar de manera inmediata al Ministerio Público el incumplimiento por parte del imputado de las medidas cautelares o condiciones impuestas por el Juez. Su omisión tendrá consecuencias legales en materia de responsabilidad de los servidores públicos. Igualmente, rendirán informes de cumplimiento de las medidas cautelares o condiciones a petición de las partes."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Interinstitucionalidad: el trabajo coordinado con las instituciones del sistema de justicia penal y las auxiliares, es fundamental para el adecuado cumplimiento del objeto de esta Ley. XI. Neutralidad deberá abstenerse de emitir enjuiciamientos de valor o prejuicios de cualquier tipo al emitir la evaluación."
+              }
+            ]
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Para efectos de ejecución y supervisión de medidas cautelares, el Centro Estatal intervendrá desde el inicio de la investigación, tratándose de investigaciones con detenido y en el supuesto de que ésta se genere sin detenido, su intervención iniciará hasta en tanto alguna de las partes pretenda solicitar ante el Juez de Control la aplicación de una medida cautelar. Tratándose de condiciones, intervendrá cuando alguna de la partes solicite la suspensión condicional del proceso.\nLa intervención inicial se basará en la recolección de información a través de los archivos y medios de información públicos o los previstos en esta Ley y luego, de ser posible, por la entrevista, para dotar de insumos a las partes a efecto de que estos puedan sustentar la aplicación de la medida cautelar o condición más idónea y proporcional al caso concreto. Durante el proceso, el Centro Estatal seguirá generando información a las partes en el proceso penal que pudiera servir para la modificación, revocación o sustitución de las medidas cautelares inicialmente decretadas. Una vez impuesta la medida cautelar por el Juez de Control, el Centro Estatal se encargará de instrumentar su ejecución y de vigilar el cumplimiento de dicha medida por parte del imputado, dará seguimiento a la medida impuesta e informará al Juez y, en su caso, a las partes de forma periódica sobre el cumplimiento o incumplimiento de la misma. Lo anterior aplicará, en lo conducente, para la suspensión condicional del proceso. Las evaluaciones, informes, reportes y opiniones técnicas rendidas por el Centro Estatal tendrán carácter orientador, más no serán vinculatorios para el órgano jurisdiccional al momento de resolver las peticiones relativas a las medidas cautelares o condiciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- Con el objeto de cumplir con las atribuciones antes señaladas, el Centro Estatal tendrá las siguientes obligaciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Hacer comparecer cuando medie orden judicial a los imputados con fines de notificación, información, registro y control de las medidas cautelares o \"condiciones decretadas, así como acudir en cualquier momento a los domicilios que aquéllos proporcionaron, con el objeto de constatar esa información."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Requerir la información y documentación del imputado sujeto a medidas cautelares o condiciones a las autoridades auxiliares o a cualquier otra persona o autoridad, en su caso, a la víctima, preferentemente por conducto de su asesor legal, e integrar un informe técnico para su remisión al juez, al Ministerio Público o a las partes, en el que se especifiquen las circunstancias particulares del cumplimiento, incumplimiento o irregularidad en las medidas cautelares y condiciones decretadas, así como la imposibilidad material para la ejecución de dichas medidas."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Implementar en coordinación con las autoridades auxiliares, programas y protocolos orientados a la eficacia y cumplimiento de las medidas cautelares y condiciones. IV. Las demás facultades conferidas en esta y otras leyes."
+              }
+            ]
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- El Centro Estatal estará a cargo de un Director General, quien será nombrado y removido por el Titular del Poder Ejecutivo del Estado y se integrará por las unidades administrativas y personal que requiera para el cumplimiento de su objeto, con cobertura en cada Distrito Judicial, de conformidad con su disponibilidad presupuestal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Para ser Director General del Centro Estatal se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Poseer al día del nombramiento, título y cédula profesional y tener por lo menos 3 años de ejercicio profesional."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito doloso que amerite pena privativa de la libertad. IV. No haber sido suspendido, inhabilitado, ni destituido por resolución firme como servidor público."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- El Director General del Centro Estatal tendrá las facultades siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar al Centro Estatal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Emitir por sí o por conducto del personal que autorice las opiniones de evaluación a que se refiere esta Ley, sobre la necesidad de imponer medidas cautelares, la forma de ejecutarlas y de vigilar su cumplimiento, así como de modificarlas o revocarlas, y lo relativo a las condiciones."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Elaborar el programa de trabajo del Centro Estatal. IV. Coordinarse con las autoridades competentes del orden federal, estatal o municipal para el cumplimiento de las atribuciones del Centro Estatal."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Desarrollar las estrategias que permitan una ejecución y supervisión efectiva de las medidas cautelares o condiciones que hayan sido impuestas."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Reportar mensualmente cuando sea requerido o lo estime oportuno, a la Procuraduría General de Justicia del Estado, el cumplimiento de las medidas cautelares o condiciones cuya ejecución o vigilancia se le encomiende. VII Las demás que le confieran otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO A PRUEBA",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "- Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución auxiliar observa o se da cuenta de la inobservancia o de cualquier irregularidad en su ejecución, dará aviso inmediato al Centro Estatal, que a su vez, si lo estima cierto, informará a las partes a efecto de que, en su caso, puedan solicitar al Juez de Control la revisión de la medida cautelar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- Cuando se modifiquen, sustituyan o cancelen las medidas cautelares impuestas al imputado, el Juez de Control informará al Centro Estatal dicha determinación, así como de la revocación o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Para fines de la presente Ley, la comunicación entre el Ministerio Público, la defensa y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto del Centro Estatal, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, su cumplimiento, la sustitución, modificación o cancelación de las primeras, así como de la revocación o cesación provisional de las segundas.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V EJECUCIÓN Y SUPERVISIÓN DE LAS MEDIDAS CAUTELARES Y CONDICIONES",
+        "Artículos": [
+          {
+            "Artículo": 23,
+            "Texto": "- La etapa de ejecución y supervisión de medidas cautelares y condiciones, comprende todas las acciones destinadas a asegurar su cumplimiento y lograr el fin que se persigue con su aplicación, así como todo lo relativo al trámite y resolución de los incidentes que se presenten durante esta fase.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- Corresponderá al Centro Estatal diseñar e instrumentar la ejecución del plan personal, supervisar y evaluar el cumplimiento de las medidas cautelares distintas a la prisión preventiva, así como de las condiciones acordadas en la suspensión condicional del proceso, y dar aviso inmediato al Ministerio Público en caso de incumplimiento, para ello podrá auxiliarse de las instituciones policiales.\nLa ejecución y supervisión de las medidas cautelares o condiciones impuestas por la autoridad jurisdiccional corresponderán al Centro Estatal desde el momento en que concluye la audiencia respectiva. En el cumplimiento de las medidas cautelares o condiciones dictadas durante el proceso o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el órgano jurisdiccional, en su caso, remitirá sus resoluciones al Centro Estatal, las que de conformidad a la naturaleza de aquéllas y en el ámbito de su competencia, las ejecutará o, en su caso, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o de las personas e instituciones privadas, dando cuenta sobre su aplicación a la autoridad judicial correspondiente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI INVESTIGACIÓN Y EVALUACIÓN DE RIESGOS PARA LA APLICACIÓN DE LAS MEDIDAS CAUTELARES",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "- La evaluación de riesgos procesales es el análisis realizado por personal especializado en la materia, de manera objetiva, imparcial y neutral acerca de las circunstancias personales, laborales, socioeconómicas y demás que la autoridad determine, a petición de las partes, a efecto de solicitar la medida cautelar idónea y proporcional al imputado. La Autoridad a través del Centro Estatal realizará la evaluación de riesgos procesales conforme a lo previsto en esta Ley y demás disposiciones aplicables, con respecto a sus derechos humanos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- Para formular la evaluación inicial de riesgo, así como las posteriores recomendaciones relativas a las medidas cautelares, el personal del Centro Estatal consultará las fuentes de información pública sobre el imputado, en su caso, realizará una entrevista al imputado, con la finalidad de recabar, información básica sobre su identidad, domicilio y familia, debiendo realizar tareas de verificación de los datos proporcionados por el imputado. Antes de iniciar la entrevista, se le hará saber al imputado el objetivo de la misma y su derecho a que su defensor esté presente, al cual puede renunciar ya que no se trata de un acto procesal sino administrativo, toda la información que proporcione tendrá el carácter de confidencial. La información deberá incluir datos sobre la historia personal del imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, cumplimientos anteriores respecto de condiciones judiciales, antecedentes y cualquier otra circunstancia que se considere relevante. En ningún caso, las preguntas profundizarán en la detención o los hechos por el cual la persona está detenida. La entrevista deberá realizarse en un lugar privado y con la seguridad adecuada. El Centro Estatal definirá la forma de realizar el registro de la información obtenida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- En caso de detención por flagrancia o caso urgente, por delito que tenga pena privativa de la libertad, el Ministerio Público notificará inmediatamente al Centro Estatal para que pueda entrevistar al detenido antes de la audiencia de control de detención. Dicha entrevista podrá llevarse a cabo a través de sistemas de comunicación a distancia o videoconferencia. Cuando se ejecute una orden de aprehensión, el Ministerio Público le informará al Centro Estatal quien deberá realizar la evaluación de riesgo a la persona aprehendida antes de la audiencia de formulación de imputación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- Cuando el Ministerio Público solicite a la autoridad judicial una audiencia para formular la imputación a una persona que se encuentra en libertad, deberá pedir al Juez de Control que le haga saber a la persona citada que debe entrevistarse con personal del Centro Estatal para los fines que señala esta Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- El personal del Centro Estatal deberá recabar información adicional de fuentes públicas y privadas disponibles, a efecto de elaborar la opinión técnica de riesgo a que se refiere esta Ley, como resultado del análisis de evaluación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- La información recopilada durante la entrevista deberá ser verificada por parte del Centro Estatal, pudiendo utilizar enunciativamente los siguientes instrumentos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Entrevista a familiares, amigos y compañeros de trabajo."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Entrevistas por cualquier medio a las referencias otorgadas por el imputado."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Visita domiciliaria al centro de trabajo o institución educativa donde se encuentre o haya estado el imputado. IV. Rastreo de información del imputado en fuentes publicas."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Consulta de información a otras personas o autoridades."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Una vez recabada la información del imputado y realizadas las tareas de verificación que resulten procedentes, el entrevistador elaborará la opinión técnica en el que se consigne el grado de riesgo que representa para el desarrollo de la investigación del delito, el riesgo o peligro que pueda correr la víctima o terceros, así como el riesgo de no comparecencia, concluyendo con la recomendación de la medida cautelar considerada idónea y proporcional. La opinión técnica será entregada con la debida oportunidad a las partes intervinientes, tendrá como finalidad ser un mecanismo auxiliar para el debate sobre la medida cautelar que en su caso se realice, pero no será vinculatorio. En caso de urgencia, la opinión técnica podrá hacerse de manera verbal en una audiencia ante el Juez, con la presencia de las partes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- La información que se recabe con motivo de la evaluación de riesgo no podrá ser usada en la investigación del delito. Lo anterior, salvo que se trate de un delito que esté en curso o sea inminente su comisión, y peligre la integridad personal o la vida de una persona. En este caso, el entrevistador quedará relevado del deber de confidencialidad y podrá darlo a conocer a las policías y al agente del Ministerio Público competente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII EJECUCIÓN, VIGILANCIA Y SEGUIMIENTO DE MEDIDAS CAUTELARES",
+        "Artículos": [
+          {
+            "Artículo": 33,
+            "Texto": "- Cuando el Juez haya impuesto la medida cautelar de garantía económica durante el procedimiento, esta se podrá hacer en cualquiera de las formas previstas en el Código de Procedimientos Penales.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- Al dictarse la medida cautelar de presentación periódica, el Juez determinará si el registro de la presentación es ante el Juzgado, con la periodicidad que determine, a efecto de informar sobre sus actividades, o bien, que la presentación será ante el Centro Estatal o autoridad diversa. La presentación a que se refiere el párrafo anterior, se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el Juez.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- En caso de que la presentación periódica del imputado deba hacerse ante autoridad distinta a la jurisdiccional, acudirá ante el Centro Estatal o la autoridad determinada por el Juez, con la periodicidad que se haya establecido, a efecto de informar sobre sus actividades, debiendo dejar constancia de su presentación. La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el Juez. Al dictarse la medida, el Juez de Control dará\naviso inmediato al Centro Estatal, a fin de estar en posibilidades de ejecutarla o registrar ante quién será la presentación. El Centro Estatal informará oportunamente al Ministerio Público sobre el cumplimiento de la medida, quien integrará el informe a la carpeta de investigación para hacerlo del conocimiento de la defensa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- Cuando se determine la medida cautelar de prohibición de salir del país sin autorización, el Juez requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, de aviso a las autoridades en materia de migración y relaciones exteriores, y a las consulares de otros países para hacer efectiva la medida. El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida. El Centro Estatal establecerá un lugar específico para el resguardo del pasaporte y demás documentos requeridos por la autoridad para el fin de esta medida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- Si la medida cautelar impuesta consiste en la prohibición de salir sin autorización de la localidad de residencia del imputado o de alguna circunscripción territorial, el Juez comunicará el proveído al Centro Estatal, a las policías estatales y municipales competentes, y se prevendrá al imputado para que se presente ante la institución policial del municipio de su localidad, con la periodicidad que el propio Juez establezca al fijar la medida. Durante la ejecución de esta medida, el imputado deberá comunicar al Centro Estatal su cambio de domicilio y cualquier otra circunstancia que permita su localización. En caso de incumplimiento, el Centro Estatal dará aviso oportuno al Juez y al Ministerio Público para los efectos procesales a que haya lugar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- Cuando el juez ordene la medida cautelar de resguardo en el domicilio con las modalidades que disponga, lo comunicará directamente al Centro Estatal y a la policía estatal para que se cumpla con las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio ante la autoridad judicial el cumplimiento de las obligaciones contraídas. El Juez de Control que ordene el resguardo del imputado en el domicilio de este, podrá determinar que la Autoridad u otras instituciones policiales ejerzan vigilancia en el domicilio correspondiente. En este caso, remitirá el proveído a la autoridad vigilante para que rinda informe al Juez de Control, con la periodicidad que este señale. El Centro Estatal vigilará el cumplimiento de la medida cautelar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "- Al pronunciarse sobre la imposición de la medida cautelar de someterse al cuidado o vigilancia de una persona o institución determinada, o bien en internamiento en esta última', se remitirá la resolución a dicha persona o institución, o en su caso a la Secretaría de Salud, indicando las modalidades que deberán cumplirse y la periodicidad con que se informará sobre su cumplimiento, el Centro Estatal vigilará su cumplimiento. Durante la ejecución, la Secretaría de Salud podrá emitir opinión sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Cuando el Juez ordene la colocación de un localizador electrónico al imputado, lo comunicará directamente al Centro Estatal, a efecto de que dicha autoridad lo instale en el imputado y lo monitoree. La ejecución de la medida estará sujeta a las disposiciones administrativas correspondientes y a la disponibilidad de dispositivos. Para la colocación del localizador electrónico, cuando el juez lo ordene en beneficio del imputado, éste o un familiar deberán pagar el costo de su operación u otorgar garantía que responda por el costo del dispositivo transmisor y de la unidad transmisora para el caso de pérdida, o de destrucción total o parcial del correspondiente localizador electrónico.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- La resolución que imponga al imputado la prohibición de concurrir a determinadas reuniones o de acercarse a ciertos lugares se comunicará al Centro Estatal, así como a las instituciones policiales estatales y del municipio correspondiente, indicando específicamente las restricciones impuestas al imputado para el cumplimiento de esa determinación, con la finalidad de que sea ejercida la vigilancia pertinente. La autoridad ejecutora informará al Juez de Control y al Centro Estatal, sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- Al imponerse la medida de prohibición de convivencia, acercamiento o comunicación con personas determinadas, se aplicará, en lo conducente, lo dispuesto en el\nartículo anterior.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "- Al decretar la medida cautelar de separación inmediata del domicilio, el Juez ordenará la notificación urgente de su resolución a la Autoridad o a otras instituciones policiales en el Estado y el municipio correspondiente, para su efectivo cumplimiento, haciéndole saber que la separación se acompaña de la prohibición expresa al imputado, de aproximarse al domicilio o lugar de convivencia del que ha sido separado, o la orden de que no se acerque a la víctima u ofendido ni se comunique por otros medios con ella. Podrá establecerse por un plazo de hasta seis meses, pero podrá prorrogarse hasta por tres períodos iguales, si así lo ordena el juez. Esta medida no exime al imputado de sus obligaciones alimentarias en caso de ser procedentes. La medida podrá interrumpirse cuando haya conciliación entre la víctima u ofendido e imputado, siempre que así lo ordene la autoridad jurisdiccional. Cuando se trate de víctima u ofendido menor de edad, el cese por conciliación solo procederá cuando el niño o adolescente, con representación del Sistema para el Desarrollo Integral de la Familia del Estado de México, así lo manifieste personalmente a la autoridad judicial y esta así lo ordene. Para levantar la medida cautelar personal, el imputado deberá comprometerse formalmente a no incurrir en hechos que puedan afectar a la víctima u ofendido, bajo apercibimiento de adoptar otras medidas cautelares de mayor alcance y dar vista al Ministerio Público para que promueva lo conducente ante el Juez de lo Familiar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "- Cuando el Juez de Control aplique la medida de suspensión temporal en el ejercicio del cargo, se remitirá al superior jerárquico del imputado la comunicación para que ejecute materialmente la medida, el Centro Estatal verificará el cumplimiento de esta medida cautelar.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "El Juez de Control que haya impuesto al imputado la medida cautelar de abstenerse de realizar una determinada conducta o actividad, remitirá a la autoridad competente el proveído correspondiente, a fin de que ejecute materialmente la medida. Si se trata de suspensión temporal en el ejercicio de la profesión, oficio o actividad el Juez dará aviso a la Dirección General de Profesiones de la Secretaría de Educación Pública o a la autoridad competente que regule el oficio o actividad, para los efectos conducentes. En ambos casos, junto con el proveído de suspensión se remitirán los datos necesarios para la efectiva ejecución de la medida y el Centro Estatal podrá recabar del imputado o de las autoridades correspondientes, los informes que se estimen necesarios para verificar el cumplimiento de la suspensión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 46,
+            "Texto": "- Al decidir sobre la medida cautelar consistente en garantía económica, el Juez deberá tomar en cuenta el peligro de sustracción del imputado a juicio, el peligro de obstaculización del desarrollo de la investigación y el riesgo para la víctima u ofendido, para los testigos o para la comunidad. Adicionalmente deberá considerar las características del imputado,\nsu capacidad económica y la posibilidad de cumplimiento de las obligaciones procesales a su cargo. El Juez hará la estimación de modo que constituya un motivo eficaz para que el imputado cumpla sus obligaciones y deberá fijar un plazo razonable para exhibir la garantía. Las garantías económicas se regirán por las reglas generales previstas en el Código de Procedimientos Penales y demás disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- Cuando el Juez imponga la medida cautelar de exhibición de garantía económica durante el procedimiento y esta se cumpla a través del depósito en efectivo, el imputado u otro garante constituirán el depósito del monto fijado en la cuenta bancaria del Fondo Auxiliar para la Administración de Justicia. El certificado de depósito se presentará dentro del plazo fijado por la autoridad judicial y quedará bajo la custodia del Juez, asentándose constancia de ello. Cuando por razón de la hora o por ser día inhábil no pueda verificarse el depósito directamente en la cuenta mencionada, el Juez recibirá la cantidad exhibida y la mandará depositar por conducto del Administrador del Juzgado, el primer día hábil siguiente, conservando bajo su responsabilidad el certificado de depósito del cual proporcionará una copia al imputado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el imputado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor catastral deberá ser superior al monto de la suma fijada como garantía. La garantía hipotecaria se otorgará ante notario público y una vez que se haya solicitado la inscripción en el Instituto de la Función Registral del Estado de México, y no haya gravamen con mejor prelación, surtirá efectos. El testimonio de la escritura pública con el sello de ingreso de la solicitud de inscripción se presentará al Juez para su resguardo. El Centro Estatal verificará la inscripción del gravamen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- Cuando se imponga la medida cautelar de inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero se realizará a través de orden de autoridad judicial a la autoridad financiera de que se trate, correspondiendo al Ministerio Público y al Centro Estatal vigilar que se cumplan las disposiciones legales y solicitar en su caso, información sobre la aplicación y cumplimiento a las autoridades competentes en materia financiera.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- Cuando la medida cautelar de garantía económica consista en prenda, deberá formalizarse documentalmente ante el Juez de Control correspondiente. En este tipo de garantía bastará la entrega jurídica de los bienes, salvo que haya necesidad de la entrega material, en cuyo caso el Centro Estatal dará cumplimiento al mandato judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- El embargo se regirá en lo conducente por las reglas generales de esta figura, previstas en el Código de Procedimientos Civiles del Estado de México y demás disposiciones aplicables. El Centro Estatal en coordinación con la unidad competente para administrar los bienes embargados, preservarán los bienes embargados, de conformidad con la instrucción judicial y las disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 52,
+            "Texto": "- Cuando el supervisor de una medida cautelar distinta a la garantía económica o prisión preventiva, detecte su incumplimiento deberá informar a las partes de forma inmediata a fin de que, en su caso, puedan solicitar la revisión de la medida. Si el incumplimiento constituye una falta administrativa o un delito, y existe flagrancia, se procederá conforme la legislación de la materia.\nEl Ministerio Público que reciba el reporte del Centro Estatal, deberá adoptar las medidas que el caso amerite y solicitar audiencia para revisión de la medida cautelar impuesta en el plazo más breve posible. En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida esta sea citado para comparecer ante el Juez e incumpla la cita, el Juez requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva la garantía a favor del Fondo Auxiliar para la Administración de Justicia. Si el imputado incumple con la medida cautelar impuesta, distinta a la prisión preventiva o garantía económica, el Centro Estatal deberá informar a la policía y al Ministerio Público para que, en su caso, solicite al Juez de Control la comparecencia del imputado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII SEGUIMIENTO DE MEDIDAS CAUTELARES",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "- Para el ejercicio de sus facultades, el Centro Estatal podrá convocar a reuniones de trabajo al imputado y su defensor, al agente del Ministerio Público, a la víctima y su asesor legal, a representantes de las dependencias, entidades y ayuntamientos que le auxilien y adicionalmente al:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Instituto de la Defensoría Pública del Estado de México."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Poder Judicial del Estado de México. Las reuniones tendrán por objeto recibir las sugerencias o recomendaciones que las áreas puedan tener con motivo de su respectivo ámbito de competencia sobre el diseño, ejecución y seguimiento de las medidas cautelares y de la suspensión condicional del proceso."
+              }
+            ]
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- Una vez decretada la medida cautelar por el Juez, el imputado deberá ser entrevistado por personal del Centro Estatal para su ingreso en el sistema de seguimiento de medidas cautelares. El imputado no puede negar la información idónea requerida, ya que ésta no se utilizará en el proceso penal. En la entrevista de ingreso, el personal del Centro Estatal deberá hacer del conocimiento del imputado la forma de la ejecución y la naturaleza de la supervisión, según las condiciones impuestas por el Juez, aclarando las consecuencias en caso de incumplimiento. En la misma entrevista deberá confirmar los datos generales del imputado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 55,
+            "Texto": "- En el caso de que el Ministerio Público, la víctima u ofendido, o bien la defensa e incluso el imputado soliciten la modificación, sustitución o revocación de la medida cautelar impuesta, el Centro Estatal podrá, a solicitud del Juez, efectuar una reevaluación de riesgos, de conformidad con lo previsto en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "- En todo caso, el Juez notificará la imposición de una medida cautelar o condición al Centro Estatal y las obligaciones a cumplir, a efecto de que lleve a cabo la supervisión de las mismas. A petición de parte, el Centro Estatal elaborará reportes de cumplimiento con el fin de que sean utilizados para solicitar la revocación, sustitución o modificación de la medida cautelar o de las condiciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "- El personal del Centro Estatal supervisara el cumplimiento de las obligaciones impuestas por los jueces en aquellas medidas cautelares, distintas a la prisión preventiva, que ameriten seguimiento, así como aquellas que se desprendan de la suspensión del proceso a\nprueba, para lo cual se auxiliarán de la policía y demás autoridades o instituciones que estime conveniente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "- El Centro Estatal podrá suscribir convenios de colaboración con instituciones u organizaciones públicas o de la sociedad civil, a fin de llevar a cabo la supervisión de las condiciones impuestas por el Juez, en los que se establezca los fines de la colaboración en funciones de supervisión, así como las facultades de las partes firmantes. Todas las instituciones públicas o de la sociedad civil involucradas en las labores de supervisión deberán recibir capacitación en temas de derechos humanos y justicia penal impartida por el Centro Estatal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- En el supuesto de que el supervisor de medidas cautelares y de la suspensión condicional del proceso, advierta que existe un riesgo objetivo e inminente de fuga o de afectación a la integridad personal de los intervinientes, deberá informar sin demora a la policía y a las partes de forma inmediata a efecto de que estas puedan solicitar al Juez de Control la revisión de la medida cautelar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IX EJECUCIÓN DE LAS CONDICIONES DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO",
+        "Artículos": [
+          {
+            "Artículo": 60,
+            "Texto": "- La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir, durante la suspensión del proceso a prueba, además de las aplicables en igual forma que para las medidas cautelares, y en los términos que señala el Código de Procedimientos Penales, se llevará a cabo de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Residir en un lugar determinado: se comunicará tal circunstancia a la Autoridad y al Municipio que corresponda, y se prevendrá al imputado para que se presente ante dichas autoridades con la periodicidad que el Juez A establezca al imponer la medida. En caso de incumplimiento, la Autoridad y el Director de Seguridad Pública Municipal darán aviso inmediato al Centro Estatal para los actos legales a que haya lugar."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Abstenerse de viajar al extranjero: se requerirá al inculpado, la entrega del pasaporte si lo tuviere, y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la imposición de la medida cautelar a la Secretaría General de Gobierno para que, en ejercicio de sus atribuciones, de aviso a las autoridades en materia de relaciones exteriores, migratorias y consulares de otros países para hacer efectiva la medida."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Frecuentar o dejar de visitar determinados lugares o personas: se comunicará a la Autoridad, a fin de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación en la que indicará específicamente las restricciones impuestas. IV. Abstenerse de consumir drogas, estupefacientes o abusar de las bebidas alcohólicas: el imputado quedará sujeto a la revisión del Centro Estatal y con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes le brindará el tratamiento para la deshabituación al consumo, y practicará, periódicamente o en cualquier momento, exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Participar en programas especiales para la prevención y el tratamiento de adicciones: quedará sujeto a la revisión por parte del Centro Estatal y con el auxilio de la Secretaría de Salud, la que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento; lo anterior, sin perjuicio de los programas aplicados por la suspensión condicional del procedimiento a prueba para personas que presentan abuso y dependencia de sustancias psicoactivas, en los cuales se podrá colaborar."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Aprender una profesión u oficio, o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control: quedará sujeta a la revisión por parte del Centro Estatal y con el auxilio de la Secretaría de Educación que dará seguimiento a la incorporación del imputado a alguno de los centros o instituciones públicas que ofrezcan servicios educativos o de capacitación para el trabajo, informando al Centro Estatal sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Prestar servicio social a favor del Estado o de instituciones de beneficencia pública: quedará sujeta a la revisión del Centro Estatal y con auxilio de la Secretaría de Desarrollo Social, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente e informará sobre su cumplimiento."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Someterse a tratamiento médico o psicológico de preferencia en instituciones públicas: se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento o sometimiento al cuidado o vigilancia de una persona o institución determinada. IX. Tener un trabajo o empleo, o adquirir en el plazo que el Juez de Control determine un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia: si la condición consiste en conseguir trabajo, oficio o empleo se dará intervención a la Secretaría del Trabajo."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "No poseer ni portar armas: al decretarse esta condición, se dará aviso a las instituciones de seguridad pública en el Estado para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Control para los efectos procesales correspondientes. XI. No conducir vehículos: se dará aviso de la prohibición a la Secretaría de Movilidad para que realice los trámites correspondientes en relación a la licencia de conducir; asimismo, se le informará a las autoridades de Tránsito Estatal o Municipal, para los efectos de que dicha información esté en su base de datos y vigile a la persona que se le impuso esta condición. XII. Cumplir con los deberes de deudor alimentario: en su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO X AUTORIDADES AUXILIARES",
+        "Artículos": [
+          {
+            "Artículo": 61,
+            "Texto": "- Corresponde a las autoridades auxiliares colaborar con el Centro Estatal y las autoridades competentes en la aplicación de esta Ley, en las siguientes acciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ejecutar las medidas cautelares y condiciones en la forma y términos previstos por la Ley y por el Juez, y de acuerdo a la naturaleza y modalidades específicas de las mismas."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Establecer en coordinación con el Centro Estatal de programas y protocolos orientados a la eficacia y cumplimiento de las medidas cautelares y condiciones a su cargo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Opinar con base en un dictamen técnico debidamente justificado, sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar las medidas cautelares o condiciones sometidas a su vigilancia. IV. Informar al Centro Estatal o a la autoridad competente sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada en relación con la ejecución o vigilancia de las medidas cautelares o condiciones cuya aplicación o vigilancia les hubiere sido encomendada."
+              }
+            ]
+          },
+          {
+            "Artículo": 62,
+            "Texto": "Sin perjuicio de las facultades que competen al Centro Estatal, corresponde a los integrantes de las instituciones policiales del Estado, auxiliar en la ejecución de las medidas cautelares impuestas al imputado de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Prohibición de salir de la localidad en la cual reside del ámbito territorial que fije el Juez o del país, sin autorización."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Prohibición de convivir, acercarse o comunicarse con personas determinadas, víctimas, ofendidos o testigos. IV. Presentarse periódicamente ante la autoridad que el Juez designe."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Separación inmediata del domicilio."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Abstenerse de realizar la conducta o actividad por las que podría ser inhabilitado, suspendido o destituido, si la calificación jurídica del hecho admite la aplicación de tales sanciones."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Resguardo en el propio domicilio."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Residir en un lugar determinado. IX. Someterse a la vigilancia que determine el Juez de Control."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "No poseer ni portar armas. XI. No conducir vehículos."
+              }
+            ]
+          },
+          {
+            "Artículo": 63,
+            "Texto": "Corresponde a los ayuntamientos, a través de sus instituciones, dependencias y entidades proporcionar auxilio al Juez y al Centro Estatal en la ejecución de las medidas cautelares o condiciones impuestas, cuando se trate de imputados que residan en el lugar donde ejerzan su autoridad, de conformidad con lo dispuesto en el artículo anterior.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO XI FALTAS ADMINISTRATIVAS Y MEDIDAS DISCIPLINARIAS",
+        "Artículos": [
+          {
+            "Artículo": 64,
+            "Texto": "- Sin perjuicio de las responsabilidades previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, serán consideradas como faltas:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "No entregar en tiempo y forma el estudio de riesgo a las partes procesales del caso."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No realizar la supervisión del cumplimiento de la medida cautelar o condición conforme el mandato judicial y lo dispuesto por la normatividad aplicable."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Incumplir orden legítima que reciba del Centro Estatal. IV. No dar aviso oportuno a las policías y a las partes procesales ante un incumplimiento de las medidas cautelares o condiciones."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Otorgar beneficio o prerrogativa a algún sujeto a medida cautelar o condición."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Tratar a un imputado, víctima u ofendido en forma que agravie a su dignidad o producir malos tratos."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Inferir o proferir golpes, amenazas o injurias a cualquier miembro del personal o a un imputado sujeto a medida cautelar o condición."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "No auxiliar debidamente a las autoridades que así lo requieran para el cumplimiento de una medida cautelar o condición, en el ámbito de sus atribuciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 65,
+            "Texto": "- Para los efectos previstos en la presente Ley, se considerarán como medidas disciplinarias que puede imponer el superior jerárquico, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Apercibimiento que es el llamado de atención preventivo que se da por escrito al servidor público y que se agrega al expediente personal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Amonestación que es la reconvención privada o pública que se hace al servidor público."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suspensión que será el impedimento para desempeñar el cargo hasta por un término de treinta días sin goce de sueldo."
+              }
+            ]
+          },
+          {
+            "Artículo": 66,
+            "Texto": "Antes de imponer la medida disciplinaria que corresponda se deberá verificar la falta, otorgar garantía de audiencia al probable infractor y levantar el acta correspondiente, en los términos de las disposiciones aplicables. Si con motivo del procedimiento para el correctivo disciplinario, se advierten hechos que son constitutivos de ilícitos, se deberá dar vista al Ministerio Público.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 41,
+  "n_perm_fracciones": 40,
+  "n_trans_caps": 1,
+  "n_trans_articles": 4,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I",
+    "CAPITULO II DE LA CREACIÓN, MODIFICACIÓN Y EXTINCIÓN DE LOS ORGANISMOS AUXILIARES",
+    "CAPÍTULO III DEL CONTROL Y VIGILANCIA POR PARTE DEL EJECUTIVO DEL ESTADO",
+    "CAPÍTULO IV Del Control y Vigilancia por parte de los Órganos de Gobierno."
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

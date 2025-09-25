@@ -1,0 +1,22 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 47,
+  "n_perm_fracciones": 58,
+  "n_trans_caps": 1,
+  "n_trans_articles": 6,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "TÍTULO PRIMERO DE LA UNIVERSIDAD",
+    "TÍTULO SEGUNDO DE LA COMUNIDAD UNIVERSITARIA",
+    "TÍTULO TERCERO DE LA ACADEMIA",
+    "CAPITULO I DE LOS ÓRGANOS DE GOBIERNO",
+    "CAPÍTULO II DE LOS PROCESOS DE RENOVACIÓN EN EL GOBIERNO",
+    "TÍTULO QUINTO DE LA ADMINISTRACIÓN Y PATRIMONIO UNIVERSITARIOS",
+    "CAPÍTULO I NATURALEZA Y ATRIBUCIONES DEL ÓRGANO INTERNO DE CONTROL",
+    "CAPÍTULO II DE LA RESPONSABILIDAD DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL"
+  ],
+  "chapter_kind_breakdown": {
+    "TÍTULO": 4,
+    "CAPÍTULO": 4
+  }
+}

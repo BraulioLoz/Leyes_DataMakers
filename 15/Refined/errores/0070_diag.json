@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 30,
+  "n_perm_fracciones": 77,
+  "n_trans_caps": 1,
+  "n_trans_articles": 7,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO Órganos del Poder Judicial",
+    "CAPÍTULO SEGUNDO Tribunal Superior de Justicia Residencia",
+    "CAPÍTULO TERCERO Salas y tribunales de alzada",
+    "CAPÍTULO CUARTO Tribunales especializados, de enjuiciamiento y juzgados de primera instancia"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

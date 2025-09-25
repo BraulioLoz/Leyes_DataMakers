@@ -1,0 +1,21 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 25,
+  "n_perm_fracciones": 71,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I NATURALEZA Y OBJETO DE LA LEY",
+    "CAPÍTULO II APLICACIÓN DE LA NORMA",
+    "CAPÍTULO III SUJETOS DE LA NORMA",
+    "CAPÍTULO IV CONSEJO PARA PREVENIR Y ERRADICAR LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO",
+    "CAPÍTULO V DE LA PREVENCIÓN, ATENCIÓN, ASISTENCIA Y TRATAMIENTO",
+    "CAPÍTULO VI CULTURA ESTATAL DE LA NO VIOLENCIA",
+    "CAPÍTULO VII DEL PROGRAMA ANUAL DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MÉXICO",
+    "CAPÍTULO VIII DE LAS RESPONSABILIDADES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 8
+  }
+}

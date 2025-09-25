@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 38,
+  "n_perm_fracciones": 23,
+  "n_trans_caps": 1,
+  "n_trans_articles": 2,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DISPOSICIONES GENERALES",
+    "CAPÍTULO II ASUNTOS JUDICIALES, CIVILES Y MERCANTILES",
+    "CAPÍTULO III ASUNTOS JUDICIALES PENALES",
+    "CAPÍTULO IV ASUNTOS ADMINISTRATIVOS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

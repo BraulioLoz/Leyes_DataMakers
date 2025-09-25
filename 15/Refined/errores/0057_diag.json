@@ -1,0 +1,25 @@
+{
+  "n_chapters": 12,
+  "n_perm_articles": 45,
+  "n_perm_fracciones": 113,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DE LAS DISPOSICIONES GENERALES",
+    "CAPÍTULO II DE LAS DEFINICIONES",
+    "CAPÍTULO III DE LAS AUTORIDADES",
+    "CAPÍTULO I DE LA POLÍTICA ESTATAL DE VIVIENDA",
+    "CAPÍTULO II DE LOS PROGRAMAS DE VIVIENDA",
+    "CAPÍTULO III DEL SISTEMA ESTATAL DE VIVIENDA",
+    "CAPÍTULO I DE LA COORDINACIÓN GUBERNAMENTAL",
+    "CAPÍTULO II DE LA CONCERTACIÓN CON EL SECTOR SOCIAL Y PRIVADO",
+    "CAPÍTULO III DE LA PARTICIPACIÓN SOCIAL",
+    "CAPÍTULO I DE LOS INSTRUMENTOS ECONÓMICOS",
+    "CAPÍTULO II DEL FONDO DE LA VIVIENDA SOCIAL",
+    "CAPÍTULO ÚNICO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 12
+  }
+}

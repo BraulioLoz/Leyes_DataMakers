@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 20,
+  "n_perm_fracciones": 58,
+  "n_trans_caps": 1,
+  "n_trans_articles": 3,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DE SU NATURALEZA JURÍDICA Y SUS OBJETIVOS",
+    "CAPÍTULO II DE SU ORGANIZACIÓN INTERNA",
+    "CAPÍTULO III DE SUS FACULTADES",
+    "CAPÍTULO IV DE SU PATRIMONIO",
+    "CAPÍTULO V DEL CONTROL Y VIGILANCIA"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}

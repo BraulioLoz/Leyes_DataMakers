@@ -1,0 +1,22 @@
+{
+  "n_chapters": 8,
+  "n_perm_articles": 14,
+  "n_perm_fracciones": 51,
+  "n_trans_caps": 1,
+  "n_trans_articles": 1,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I NATURALEZA JURÍDICA Y OBJETO",
+    "CAPÍTULO II DE LAS ATRIBUCIONES DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA",
+    "CAPÍTULO I DE LA DIRECCIÓN GENERAL",
+    "CAPÍTULO II DE LA ORGANIZACIÓN Y FUNCIONAMIENTO",
+    "CAPÍTULO III DEL SISTEMA DE VERIFICACIONES Y ESTADÍSTICA",
+    "CAPÍTULO I DE LOS REQUISITOS",
+    "CAPÍTULO II DE LAS FUNCIONES",
+    "TÍTULO CUARTO DE LAS RESPONSABILIDADES"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 7,
+    "TÍTULO": 1
+  }
+}

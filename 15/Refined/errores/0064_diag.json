@@ -1,0 +1,17 @@
+{
+  "n_chapters": 4,
+  "n_perm_articles": 19,
+  "n_perm_fracciones": 11,
+  "n_trans_caps": 1,
+  "n_trans_articles": 1,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DE LOS PRINCIPIOS GENERALES",
+    "CAPÍTULO SEGUNDO DEL PROGRAMA",
+    "CAPÍTULO TERCERO DEL MECANISMO DE SEGUIMIENTO Y EVALUACIÓN DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+    "CAPÍTULO CUARTO DE LAS INSTANCIAS EJECUTORAS"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 4
+  }
+}

@@ -1,0 +1,1081 @@
+{
+  "0027.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto número 58 LXl Legislatura LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO",
+    "Año_publicación": null,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO UNICO DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Esta Ley es de orden público e interés general y tiene por objeto regular la actuación, organización, funcionamiento y atribuciones del Órgano Superior de Fiscalización del Estado de México, como la Entidad Estatal de Fiscalización, su competencia en materia de revisión y fiscalización de los fondos y fideicomisos públicos, cuentas públicas, deuda pública, y de los actos relativos al ejercicio y aplicación de los recursos públicos de las entidades fiscalizables del Estado de México, en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México. Adicionalmente, la evaluación y vigilancia por parte de la Legislatura; así como sus atribuciones para promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción y todas aquéllas que se establezcan en otras leyes aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Para los efectos de la presente Ley, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Poderes Públicos del Estado: Los poderes Legislativo, Judicial y Ejecutivo comprendiendo sus unidades y dependencias;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Municipios: A los Municipios del Estado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Órgano Superior: Al Órgano Superior de Fiscalización del Estado de México; Comisión: A la Comisión de Vigilancia de la Legislatura del Estado;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Entidades Fiscalizables: A los Poderes Públicos, Municipios, organismos autónomos, organismos auxiliares, fideicomisos públicos asimilados y simples, privados y en general cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Organismos Autónomos: A los organismos que por disposición constitucional estén dotados de autonomía;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Organismos Auxiliares: A los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos asimilados de la administración pública estatal y municipal."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Cuenta Pública: Los informes que rinden anualmente a la Legislatura, el Gobernador y los Presidentes Municipales, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior según corresponda; Gestión Financiera: A la actividad de las Entidades Fiscalizables respecto de la administración, manejo, custodia y aplicación de los recursos públicos que utilicen para alcanzar los objetivos contenidos en sus planes y programas, en el periodo que corresponde a una cuenta pública;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Fiscalización: A la revisión que realiza el órgano Superior, conforme a esta Ley y las disposiciones constitucionales y legales aplicables. Informe Trimestral: Al documento físico o electrónico que trimestralmente presentan las entidades fiscalizables, a través de las tesorerías municipales y de la Secretaría de Finanzas o equivalentes, sobre la situación económica, las finanzas públicas y, en su caso, respecto a la deuda pública, para su análisis por el Órgano Superior; Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Órgano Superior, por conducto de la Comisión, presenta a la Legislatura; Informe de Auditoría: Al documento técnico mediante el cual se presentan los datos que identifican los resultados finales obtenidos con las observaciones determinadas en la auditoría a la entidad fiscalizada; XIII Bis. Informe de Seguimiento: Al documento técnico en el que se notifica a las entidades fiscalizadas la situación que guardan las observaciones o, en su caso, su solventación, a la conclusión de la etapa de aclaración; Informes Específicos: aquellos que rinda el Órgano Superior a la Legislatura en Pleno. Revisiones contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de México de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquellas que realice de manera posterior a la presentación de cuentas públicas. Auditoría de Desempeño: A la revisión sistemática, interdisciplinaria, organizada, objetiva, propositiva, independiente y comparativa del impacto social de la gestión pública, de los programas y de la congruencia entre lo propuesto y lo obtenido, conforme a los indicadores establecidos en los Presupuestos de Egresos aprobados para el ejercicio fiscal correspondiente y tomando en cuenta los planes de desarrollo. Evaluación de desempeño: Al análisis y valoración del grado de eficacia, eficiencia, resultados e impacto de las políticas y programas públicos, conforme a los indicadores establecidos en los Presupuestos de Egresos y a los Planes de Desarrollo. XVIII. Recomendaciones: A las sugerencias de acciones de mejora identificadas como áreas de oportunidad, con el objeto de lograr una adecuada administración de los recursos públicos. Recomendaciones de desempeño: A las sugerencias de acciones de mejora para el desempeño de las entidades fiscalizables y sus servidores públicos en el cumplimiento de objetivos y metas institucionales y programáticas, con énfasis en el diseño, instrumentación y resultado de indicadores estratégicos y de gestión."
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Unidad: Unidad Técnica de Evaluación y Control. Medios Electrónicos: A la tecnología que permita transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, microondas o de cualquier otra naturaleza; XXII. Documento electrónico: Al soporte escrito con caracteres alfanuméricos, archivo de imagen, video, audio o cualquier otro formato tecnológicamente disponible, que contenga información en lenguaje natural o convencional, intercambiado por medios electrónicos, con el que sea posible dar constancia de un hecho y que esté signado con la firma electrónica avanzada y/o en el que se encuentre plasmado el sello electrónico;"
+              },
+              {
+                "Fracción": "XXIII",
+                "Texto": "Expediente digital: Al conjunto de documentos electrónicos que, sujetos a los requisitos de esta ley, se utilicen en la gestión electrónica de trámites, servicios, procesos y procedimientos administrativos y jurisdiccionales; XXIV. Plataforma Digital: Solución de comunicación personalizada en línea que posibilita la estrategia digital del Órgano Superior, mediante la ejecución de diversas actividades en un mismo lugar a través de internet. Para su uso es asignado un usuario y contraseña encriptada, información que es intransferible ya que forma parte de la cadena de seguridad que se registra en cada movimiento realizado."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- La revisión y fiscalización de las cuentas públicas, es facultad de la Legislatura. Para efectos de la fiscalización, se auxiliará del Órgano Superior, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable. El Órgano Superior para su operación contará con un presupuesto que será no menor del 14 por ciento del presupuesto aprobado a la Legislatura. El Órgano Superior será vigilado y supervisado por una Comisión de la Legislatura, en los términos de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Son sujetos de fiscalización:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los Poderes Públicos del Estado;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los municipios del Estado de México;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los organismos autónomos; Los organismos auxiliares;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, y aquellos que manejen recursos del Estado, Municipios, o en su caso provenientes de la federación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- La fiscalización que realice el Órgano Superior se podrá realizar de manera contemporánea en los casos que corresponda. En el caso de las cuentas públicas, la fiscalización se llevará a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditorías sea comunicado a la Comisión y publicado en el Periódico Oficial “Gaceta del Gobierno” a más tardar el 20 de febrero. Para efectos del párrafo anterior, el Órgano Superior podrá solicitar la información que considere necesaria para la adecuada planeación de la fiscalización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "El Órgano Superior en el ejercicio de sus atribuciones, desarrollará la función de fiscalización conforme a los principios de legalidad, definitividad, imparcialidad, confiabilidad y de máxima publicidad. Asimismo, deberá fiscalizar las acciones de las entidades fiscalizables en materia de fondos, recursos públicos y deuda pública de conformidad con las leyes aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades\nFederativas y los Municipios, el Código Financiero del Estado de México y Municipios, el Código Administrativo del Estado de México, el Código de Procedimientos Administrativos del Estado de México, la Ley de Planeación del Estado de México y Municipios, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Coordinación Fiscal, así como las demás disposiciones relativas a los sistemas Nacional y Estatal Anticorrupción.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LAS ATRIBUCIONES",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "- El Órgano Superior tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Fiscalizar, en todo momento, respecto del año inmediato anterior, los ingresos y egresos de las entidades fiscalizables a efecto de comprobar que su recaudación, administración, desempeño, niveles de deuda y aplicación se apegue a las disposiciones legales, administrativas, presupuestales, financieras y de planeación aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Fiscalizar, en todo momento, respecto del año inmediato anterior, el ejercicio, la custodia y aplicación de los recursos estatales y municipales, así como los recursos federales, en términos de los convenios correspondientes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Revisar las cuentas públicas de las entidades fiscalizables y entregar a la Legislatura, a través de la Comisión, el informe de resultados y los informes de auditorías que correspondan. Requerir y revisar de manera casuística y concreta, la información y documentación relativa a ejercicios anteriores al de la cuenta pública en revisión, sin que con este motivo se entienda para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Verificar que las entidades fiscalizables que hubieren recaudado, manejado, administrado o ejercido recursos públicos, se hayan conducido conforme a los programas aprobados y montos autorizados; y que los egresos se hayan ejercido con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas aplicables;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Practicar auditorías de desempeño en el cumplimiento de los objetivos contenidos en los programas, conforme a los indicadores que correspondan y evaluar la eficacia, eficiencia y economía en el uso de los recursos públicos por las entidades fiscalizables, la congruencia del ejercicio de los presupuestos con los programas y de estos con los planes y políticas públicas conforme a los estándares internacionales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Ejercer las atribuciones previstas en la legislación relativa a los sistemas nacional y estatal anticorrupción."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Corroborar que las operaciones realizadas por las entidades fiscalizables sean acordes con las leyes de ingresos y presupuestos de egresos del Estado y municipios, y se hayan efectuado con apego a las disposiciones legales aplicables; Revisar que los subsidios otorgados por las entidades fiscalizables, con cargo a sus presupuestos, se hayan aplicado a los objetivos autorizados;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Realizar, de acuerdo con el programa anual de auditorías aprobado, las auditorías y revisiones, conforme a las normas profesionales homologadas emitidas por el Sistema Nacional de Fiscalización, el Sistema Estatal de Fiscalización y otras normas de auditoría, procedimientos de auditoría, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, que le permitan la práctica idónea de las auditorias y revisiones, que respondan a los estándares internacionales, con apego a las disposiciones legales, reglamentarias y administrativas aplicables. El Órgano Superior podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que en su caso realice, deberán referirse a la información definitiva presentada en las cuentas públicas estatal y municipales. Una vez que le sean entregadas, podrá realizar las modificaciones al programa anual de las auditorías que se requieran y lo hará de conocimiento a la Comisión. Los procesos de fiscalización a que hace referencia esta Ley se podrán realizar de manera presencial o por expedientes digitales a través de una plataforma digital; para tal efecto, el Órgano Superior emitirá los lineamientos correspondientes. Establecer los lineamientos, criterios, procedimientos, métodos y sistemas, así como todas aquellas disposiciones de carácter general para las acciones de control y evaluación, necesarios para la fiscalización de las cuentas públicas y los informes trimestrales; Fiscalizar las obras públicas y servicios relacionados con las mismas que, por sí o por conducto de terceros realicen las entidades fiscalizables de conformidad con la ley de la materia. Fiscalizar la adquisición, enajenación y arrendamiento de bienes, así como la contratación de servicios de cualquier naturaleza, que realicen las entidades fiscalizables de conformidad con la ley de la materia. Verificar que las cuentas públicas, los informes trimestrales y la información económica, financiera y, en su caso, la deuda pública, se hayan presentado de conformidad con lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables; Rendir los informes a la Comisión sobre el resultado de la revisión de los informes trimestrales sobre los ingresos obtenidos y aplicación de recursos de las entidades fiscalizables, así como de las revisiones a las que se refieren las fracciones I y II del presente artículo; Requerir, según corresponda, a los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los órganos internos de control de las entidades fiscalizables, en términos de las disposiciones legales aplicables, los dictámenes de acciones de control y evaluación por ellos practicadas, relacionados con las cuentas públicas que el Órgano Superior esté fiscalizando, así como las observaciones y recomendaciones formuladas, las sanciones impuestas y los seguimientos practicados; Requerir, según corresponda, por conducto de los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los órganos internos de control de las entidades fiscalizables, a los profesionistas independientes y auditores externos que sean autorizados legalmente, los dictámenes de las auditorías y revisiones por ellos practicadas; XVIII. Requerir, en su caso, a los terceros que hubieren contratado obras, bienes o servicios, mediante cualquier título legal, con las entidades fiscalizables, la información relacionada\ncon la documentación justificativa y comprobatoria de las cuentas públicas, con la única finalidad de realizar la compulsa correspondiente; Requerir a las entidades fiscalizables la información, documentos físicos y/o electrónicos necesarios para los actos de fiscalización, así como solicitar a otras autoridades el auxilio o colaboración para el cumplimiento de sus atribuciones. La negativa a entregar información al Órgano Superior, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley General de Responsabilidades Administrativas y Ley de"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Ejercer las atribuciones de la autoridad investigadora a que se refiere la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Ejercer las atribuciones de la autoridad substanciadora a que se refiere la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios. XXII. Promover ante las autoridades competentes el fincamiento e imposición de las responsabilidades a que se refiere el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, así como presentar las denuncias o querellas penales que correspondan, en cualquier momento cuando se cuenten con los elementos que establezcan las leyes de la materia, con sustento en un expediente técnico. XXIII. Conocer las denuncias presentadas en contra de los servidores públicos de las entidades fiscalizables o de los que hayan dejado de serlo, conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios y previo análisis de procedencia, revisar los actos denunciados, durante el ejercicio fiscal en curso, así como de ejercicios anteriores o en su caso remitirlas a la autoridad competente. XXIV. Obtener derivado del ejercicio de las atribuciones previstas en esta Ley y otras disposiciones legales aplicables, copias de los documentos originales que se tengan a la vista y certificarlas a través de cotejo con sus originales, así como solicitar la documentación en copias certificadas. XXV. Conocer y en su caso formular recomendaciones sobre los sistemas, procedimientos, controles y métodos de contabilidad, normas de control interno y de registros contables de los libros y documentos justificativos y comprobatorios del ingreso y gasto público de las entidades fiscalizables; XXVI. Asesorar y proporcionar asistencia técnica de manera permanente a las entidades fiscalizables, así como promover y realizar cursos y seminarios de capacitación y actualización; XXVII. Establecer coordinación, en términos de esta Ley, con: a. Las Secretarías de Finanzas y de la Contraloría, con las contralorías de los municipios y sus organismos auxiliares, órganos internos de control de los Poderes Legislativo y Judicial y de los organismos autónomos, a fin de determinar los procedimientos necesarios que permitan el eficaz cumplimiento de sus respectivas atribuciones. b. Los órganos de fiscalización dependientes de las legislaturas de las entidades federativas y del Congreso de la Unión, para lograr el mejor cumplimiento de sus respectivas atribuciones, gozando de facultades para celebrar convenios de\ncooperación técnica o administrativa y en los aspectos relacionados con la capacitación de su personal; y c. Las demás dependencias y organismos públicos y privados que en la aplicación de las leyes deban coordinarse con el Órgano Superior, así como aquellas personas físicas y jurídicas colectivas vinculadas a las entidades fiscalizables por virtud de cualquier acto jurídico. XXVIII. Suscribir acuerdos y convenios de coordinación y de cooperación técnica, administrativa o de capacitación, con los órganos de fiscalización equivalentes, dependientes de las legislaturas de las entidades federativas y del Congreso de la Unión, así como con las demás dependencias y organismos públicos y privados, así como con aquellas personas físicas y jurídicas colectivas vinculadas con las entidades fiscalizables, informando de ello a la Comisión; XXIX. Implementar los sistemas de información necesarios para el cumplimiento de sus atribuciones."
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Vigilar que las Remuneraciones de los servidores públicos del Estado y Municipios, se ajusten a lo establecido en los catálogos generales de puestos y tabuladores de remuneraciones aprobados por la Legislatura del Estado o por los ayuntamientos respectivos; XXXI. Proporcionar a solicitud de los Ayuntamientos, asesoría técnica, información y orientación en materia de catálogos generales de puestos y de tabuladores de remuneraciones; XXXII. Proporcionar a la Comisión de Planeación y Gasto Público de la Legislatura, para el cumplimiento de sus atribuciones, la información, asesoría técnica, orientación y demás apoyo que le solicite en materia de catálogos generales de puestos y tabuladores de remuneraciones de los servidores públicos estatales y municipales; XXXIII. Verificar el cumplimiento de las disposiciones en materia de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria por parte de los entes públicos en términos de la legislación en la materia. XXXIV. Revisar la veracidad de la información enviada por la Secretaría de Finanzas o su equivalente para cada ente público, a la Secretaría de Hacienda y Crédito Público para la evaluación del Sistema de Alertas referido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. XXXV. Verificar que la publicación de la información financiera de cada ente público se realice de conformidad con los principios establecidos en la Ley General de Contabilidad Gubernamental y por las normas y criterios contables expedidos por el Consejo Nacional de Armonización Contable. XXXVI. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- Los servidores públicos del Órgano Superior deberán observar las disposiciones en materia de transparencia y protección de datos personales, así como guardar reserva de sus actuaciones, documentos y observaciones, hasta que se rindan los informes de resultados. Igual obligación deberán cumplir los profesionistas independientes y auditores externos que contrate el Órgano Superior, con excepción de los requerimientos hechos por autoridades competentes. Los servidores públicos, los profesionistas independientes y auditores externos, cuando incumplan la obligación de reserva, serán sancionados en términos de la legislación aplicable.\nLos servidores públicos cuando incumplan con la obligación de reserva, serán sancionados con la destitución del cargo, independientemente de las responsabilidades administrativas o penales que resulten en términos de las disposiciones aplicables. Los profesionistas independientes y auditores externos, serán responsables de los daños y/o perjuicios que se ocasionen, sin perjuicio de las responsabilidades penales en que incurran.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DEL AUDITOR SUPERIOR",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "- El Órgano Superior estará a cargo de un Auditor Superior, que será designado y removido por las dos terceras partes de los miembros presentes de la Legislatura, a propuesta de la Junta de Coordinación Política.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- Para ser Auditor Superior se requiere:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, con una residencia efectiva en el Estado de México de por lo menos tres años anteriores a la fecha de la designación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Tener más de treinta años de edad al día de su nombramiento;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "No haber sido, durante los tres años anteriores a su designación, titular de dependencias u organismos auxiliares del Poder Ejecutivo del Estado, Magistrado, Juez, Presidente Municipal, integrante de tribunales administrativos, organismos autónomos estatales o dirigente de partido político alguno; Poseer título y cédula profesional legalmente expedidos en cualquiera de las siguientes licenciaturas: Contaduría Pública, Derecho, Economía, Administración Pública, Administración de Empresas, o cualquier otra relacionada con las actividades de contraloría, transparencia o rendición de cuentas y contar con una experiencia mínima de cinco años en las mismas;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Contar con experiencia de por lo menos cinco años en materia de control, auditoría financiera y evaluación;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Gozar de buena reputación y no haber sido condenado por sentencia ejecutoriada por delito doloso; y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "No haber sido destituido o inhabilitado para ocupar cargo público, como resultado de un procedimiento administrativo, cuya resolución haya quedado firme."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "- El Auditor Superior será nombrado de conformidad al procedimiento siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Comisión emitirá convocatoria pública abierta para que se presenten los profesionistas que aspiren a desempeñar el cargo de Auditor Superior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Concluido el plazo fijado en la convocatoria, la Comisión procederá a la revisión y análisis de cada una de las propuestas, para determinar las que cumplan con los requisitos establecidos en la presente Ley;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La Comisión entrevistará por separado a los aspirantes que cumplan con los requisitos y los someterá a una evaluación integral; Con base en las entrevistas y la evaluación practicada, la Comisión publicará los resultados en la Gaceta Parlamentaria y procederá a integrar, dentro de los cinco días hábiles siguientes a la evaluación, la terna que presentará a la Junta de Coordinación Política y ésta al Pleno de la Legislatura, debiendo establecer, para los efectos de la votación respectiva, el orden de prelación de los integrantes de la terna; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "El Pleno de la Legislatura elegirá de entre los integrantes de la terna en la siguiente sesión, a quien deba desempeñar el cargo de Auditor Superior. Cuando conforme al orden de prelación, alguno de los candidatos obtenga la aprobación de la mayoría establecida en la Constitución, se dará por concluida la votación. En caso de que ninguno de los aspirantes de la terna obtenga la aprobación de las dos terceras partes de los integrantes de la Legislatura, la Comisión presentará otra, con nuevas propuestas, y así sucesivamente hasta que se designe al Auditor Superior."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El Auditor Superior tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Representar legalmente al Órgano Superior ante toda clase de autoridades y personas, tanto físicas como jurídicas colectivas, e intervenir en toda clase de juicios y recursos en que éste sea parte;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ejercer las atribuciones del Órgano Superior, en términos de la Constitución Política del Estado Libre y Soberano de México, la presente Ley, el Reglamento y demás disposiciones legales aplicables;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Emitir y entregar a la Legislatura, por conducto de la Comisión, los informes relativos a la revisión de las cuentas públicas, en los plazos y términos previstos por la Ley; así como publicar en la página de internet oficial del Órgano Superior dichos documentos el día de su entrega a la Comisión; Formular los pliegos de observaciones y recomendaciones necesarias a las entidades fiscalizables, así como verificar su debida cumplimentación;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Substanciar los procedimientos de auditoría por denuncia conforme a lo establecido por la presente Ley y el Reglamento, dando informe del resultado a la Comisión;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Presentar denuncias y querellas penales en contra de servidores públicos y quienes hayan dejado de serlo, conforme a lo establecido por esta Ley y coadyuvar con el Ministerio Público en términos de la legislación penal, así como iniciar ante las autoridades competentes el fincamiento de otras responsabilidades; El Auditor Superior estará obligado a guardar el sigilo de los procedimientos; así como a informar a la Junta de Coordinación Política el estado que guarden las denuncias;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Imponer medios de apremio y, promover la imposición de las responsabilidades administrativas que correspondan, en los casos establecidos por esta Ley, el Reglamento y demás ordenamientos jurídicos aplicables."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Promover el fincamiento e imposición de las demás responsabilidades y sanciones a que hubiere lugar ante las instancias competentes;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Establecer los criterios generales para contratar las cauciones o garantías que deben otorgar los servidores públicos obligados a ello. Dichas cauciones o garantías deberán mantenerse vigentes hasta tres años después de la conclusión de sus cargos; Expedir el Reglamento Interior del Órgano Superior; Expedir los manuales de organización y de procedimientos que se requieran; Elaborar el Plan Anual de Metas del Órgano Superior, y hacerlo del conocimiento de la Comisión;\nPresentar a la Comisión el anteproyecto de presupuesto anual del Órgano Superior, conforme a las previsiones de gasto y recursos necesarios para el cumplimiento de las atribuciones de éste, a fin de que se integre a la iniciativa de presupuesto de egresos en los términos de la legislación aplicable; Administrar y ejercer el presupuesto aprobado, con sujeción a las disposiciones legales aplicables; Informar a la Legislatura, por conducto de la Comisión, del presupuesto ejercido por el Órgano Superior, durante el primer trimestre del año siguiente al ejercido. Nombrar y remover a los servidores públicos del Órgano Superior, de conformidad con lo previsto en el Reglamento y demás disposiciones aplicables, en el caso de los Auditores Especiales informar a la Comisión. XVIII. Autorizar, conforme al Reglamento, a profesionistas independientes y auditores externos, para auxiliar en el desahogo de las funciones sustantivas del Órgano Superior; Solicitar a las autoridades correspondientes, el auxilio necesario para el ejercicio de sus funciones, en términos de esta Ley y la legislación aplicable;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Expedir certificaciones de los documentos que obren en sus archivos, que no estén clasificados conforme a la legislación aplicable, ni sean materia de reserva; Promover acciones tendientes al establecimiento del servicio civil de carrera; y XXII. Substanciar la etapa aclaratoria a que se refiere esta Ley. XXIII. Rendir un informe anual de gestión a la Legislatura por conducto de la Comisión. XXIV. Dar seguimiento a la evolución de la deuda de las entidades fiscalizables; XXV. Las demás que señalen las disposiciones legales aplicables y el Reglamento."
+              }
+            ]
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto las señaladas en las fracciones VII, X, XIV, XVI y XXIII del artículo anterior y aquéllas que por disposición de la presente Ley y del Reglamento, deban ser ejercidas exclusivamente por él mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- Auditor Superior durará en su encargo ocho años, comenzando el 1 de enero siguiente al año de su elección y podrá ser nombrado nuevamente por una sola vez hasta por un período igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.\nPara ser nombrado nuevamente se deberá considerar el informe anual de gestión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "El Auditor Superior requerirá de licencia de la Legislatura, o en su caso de la Diputación Permanente, para ausentarse temporal o definitivamente de su cargo. Las faltas temporales que requieren licencia, serán mayores a los quince días naturales y no excederán de sesenta días naturales. El Auditor Superior será suplido durante sus ausencias temporales por los Auditores Especiales de conformidad a lo establecido en el Reglamento. En caso de falta definitiva o remoción del Auditor Superior, ocurridas dentro de los siete primeros años del periodo, la comisión dará cuenta a la Legislatura para que conforme al procedimiento señalado en esta Ley, se nombre a quien concluirá el encargo por lo que reste del periodo.\nSi la falta definitiva o remoción del Auditor Superior, se presenta dentro del último año del periodo, la Legislatura nombrará sin mayor trámite a un Auditor sustituto que deberá concluir el periodo; quien así sea designado, podrá ser nombrado para el periodo inmediato siguiente, de conformidad con el procedimiento establecido en el artículo 12 de esta Ley. El Auditor sustituto deberá reunir los mismos requisitos que la Ley exige para el Auditor Superior. En cualquier caso, hasta en tanto se hace la designación de Auditor Superior, a propuesta de la Comisión, uno de los Auditores Especiales cubrirá la ausencia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "Queda prohibido al Auditor Superior y a los Auditores Especiales, durante el ejercicio de su cargo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser dirigente de partido político alguno;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Participar en actos políticos partidistas o hacer cualquier tipo de promoción o proselitismo político;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Desempeñar otro empleo, cargo o comisión en los sectores público, privado o social, salvo los no remunerados de carácter docente, artístico, de beneficencia y en asociaciones científicas; y Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la cual sólo deberá utilizarse para los fines a que se encuentra afecta."
+              }
+            ]
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Son causas de remoción del Auditor Superior, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ubicarse en los supuestos de prohibición establecidos en el artículo anterior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Incumplir con las atribuciones no delegables de su cargo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Utilizar en beneficio propio o de terceros, la documentación o información clasificada como confidencial o reservada en los términos de Ley; Sustraer, destruir, ocultar o utilizar indebidamente la documentación o información que por razón de su cargo, tenga a su cuidado o custodia o que exista en el Órgano Superior, con motivo del ejercicio de sus atribuciones;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Omitir formular pliegos para el fincamiento de responsabilidades resarcitorias, cuando corresponda fincarlas al Órgano Superior y se tengan elementos para presumir la existencia de la responsabilidad y para identificar al presunto responsable;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Admitir la injerencia de agentes externos en los actos y resoluciones derivados del ejercicio de las atribuciones del Órgano Superior;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dejar de señalar si existe responsabilidad sobre actos u omisiones derivadas del uso y manejo de recursos públicos, así como dejar sin causa justificada de determinar responsabilidades resarcitorias o de imponer medidas de apremio en el ámbito de su competencia y en los casos previstos en la presente Ley y disposiciones reglamentarias,\ncuando esté debidamente comprobado el daño patrimonial o el incumplimiento a sus determinaciones;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Conducirse con parcialidad en el proceso de revisión de la cuenta pública y en los procedimientos de fiscalización e imposición de medidas de apremio a que se refiere esta Ley; y Ausentarse por más de quince días naturales sin mediar licencia de la Legislatura o, en su caso, de la Diputación Permanente."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Incumpla con las disposiciones previstas en esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- Cuando la Comisión tenga conocimiento de alguna o algunas de las causas a que se refiere el artículo anterior, solicitará la remoción del Auditor Superior al Pleno de la Legislatura, por conducto de la Junta de Coordinación Política.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- La remoción del Auditor Superior se sujetará al procedimiento siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La Junta de Coordinación Política citará al Auditor Superior a garantía de audiencia;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "En el citatorio se expresará el lugar día y hora en que se realizará la audiencia, la causa o causas de remoción, el derecho del compareciente de aportar pruebas y de alegar en la audiencia por sí o por medio de defensor;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Entre la fecha de citación y de la audiencia, deberá mediar un plazo no menor de cinco días hábiles; En la audiencia la Junta de Coordinación Política dará a conocer al compareciente las constancias que obran en el expediente respectivo; se admitirán y desahogarán las pruebas que éste ofrezca y se escucharán sus alegatos, levantándose el acta correspondiente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En el ofrecimiento, admisión y desahogo de pruebas, se aplicarán las reglas establecidas en el Código de Procedimientos Administrativos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "En caso de que el citado no comparezca en el día y hora señalados en el citatorio, se tendrá por satisfecha la garantía de audiencia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Dentro de los treinta días hábiles siguientes al desahogo de la garantía de audiencia, la Junta de Coordinación Política con auxilio de la Comisión, preparará un proyecto de resolución, para ser sometido al Pleno de la Legislatura en la siguiente sesión; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En caso de que se acredite fehacientemente alguna o algunas de las causas establecidas en esta Ley, se requerirá del voto de las dos terceras partes de los integrantes de la Legislatura, para que proceda la remoción del Auditor Superior."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DE LA ORGANIZACIÓN E INTEGRACIÓN DEL ÓRGANO SUPERIOR",
+        "Artículos": [
+          {
+            "Artículo": 21,
+            "Texto": "En el desempeño de sus funciones, el Auditor Superior será auxiliado por los Auditores Especiales, Titulares de Unidades, Directores, Auditores y demás servidores públicos que señale el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Para ser Auditor Especial deberán reunirse los requisitos que esta Ley establece para el Auditor Superior, con excepción del plazo mínimo de experiencia en materia de control, auditoría financiera y evaluación, que será de dos años. Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- Sin perjuicio del ejercicio directo por parte del Auditor Superior, los Auditores Especiales tendrán las facultades genéricas siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Planear, conforme a los programas aprobados por el Auditor Superior, las actividades relacionadas con la revisión de las cuentas públicas; y elaborar los análisis que sirvan para la preparación del informe de resultados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Requerir a las entidades fiscalizables y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ordenar y practicar auditorias, visitas e inspecciones a las entidades fiscalizables, en todo momento y conforme al programa aprobado por el Auditor Superior; Formular pliegos de observaciones, en los términos de esta Ley;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Determinar y cuantificar los daños y perjuicios causados a las haciendas públicas o al patrimonio de las entidades fiscalizables que detecten en ejercicio de sus funciones, y formular los pliegos correspondientes, para que se inicien los procedimientos resarcitorios a que haya lugar;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Preparar las denuncias y querellas penales, con los elementos y pruebas con que cuente respecto de hechos presuntamente constitutivos de delito, observados en ejercicio de sus funciones;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Informar al Auditor Superior, de las demás responsabilidades y sanciones a que hubiere lugar;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Designar al personal encargado de practicar las auditorías, visitas e inspecciones a su cargo o, en su caso, celebrar los contratos de prestación de servicios de conformidad con la presente Ley y el Reglamento; Revisar y analizar la información incluida en las cuentas públicas;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Formular los proyectos de informes de resultados, así como los demás documentos que se les indique; y Realizar la evaluación de desempeño de los programas gubernamentales y municipales. Promover y coadyuvar a la generación de indicadores de las entidades fiscalizables.\nSolicitar en su caso, la información necesaria para el cumplimiento de sus atribuciones. Formular las recomendaciones que deriven de los resultados de la revisión de los programas a cargo del Estado y de los Municipios, los cuales se notificarán a las entidades fiscalizables. Formular los proyectos de informes de resultados, así como los demás documentos inherentes a sus atribuciones. Dar seguimiento a la evolución de la deuda de las entidades fiscalizables. Las demás que señale esta Ley, el Reglamento y demás disposiciones jurídicas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 24,
+            "Texto": "El Auditor Superior y los Auditores Especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación del Órgano Superior o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 25,
+            "Texto": "El Órgano Superior, contará con una autoridad investigadora, con las funciones y atribuciones previstas en la Ley General de Responsabilidades Administrativas y la Ley de",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El Órgano Superior contará con una Unidad de Asuntos Jurídicos cuyo titular tendrá las siguientes facultades:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Asesorar y representar en materia jurídica al Órgano Superior;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Substanciar el procedimiento de responsabilidad administrativa que proceda y remitirlo, en su caso, al Tribunal de Justicia Administrativa del Estado de México, conforme a lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Presentar las denuncias o querellas penales, en los casos que procedan. Ejercitar las acciones judiciales en los juicios en los que el Órgano Superior sea parte, contestar demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos del propio Órgano, dando el debido seguimiento a los procesos y juicios en que actúe;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dar respuesta a las consultas y solicitudes que realicen las entidades fiscalizables, otras autoridades y los particulares."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Elaborar y someter a la consideración del Auditor Superior, los requerimientos relacionados con el cumplimiento de obligaciones periódicas de las entidades fiscalizables, así como los medios de apremio que, conforme a las disposiciones legales aplicables, proceda imponer a los servidores públicos de las entidades fiscalizables, diversas a las previstas en las Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Conocer y substanciar el recurso de revisión, hasta ponerlo en estado de resolución para firma del Auditor Superior, en los casos que proceda."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las demás que le señale esta Ley, el Reglamento y las disposiciones legales y administrativas aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 27,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 28,
+            "Texto": "- Son causas de remoción de los Auditores Especiales y del Titular de la Unidad de Asuntos Jurídicos, además de las establecidas en esta Ley para el Auditor Superior, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Incumplir con las atribuciones propias de su cargo; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Ausentarse por más de quince días naturales, sin contar con la licencia del Auditor Superior. Derogado."
+              }
+            ]
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- El Órgano Superior propondrá a la Comisión su proyecto de presupuesto anual, el cual será remitido por el Auditor Superior a más tardar el 15 de agosto de cada año, para su inclusión en el proyecto de presupuesto de egresos del Poder Legislativo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DE LA COMISIÓN DE VIGILANCIA",
+        "Artículos": [
+          {
+            "Artículo": 30,
+            "Texto": "- La Comisión coordinará las relaciones entre la Legislatura y el Órgano Superior, evaluará el desempeño de este último; constituirá el enlace que permita garantizar la debida coordinación entre ambos, y podrá solicitarle información sobre el seguimiento de los trabajos de fiscalización. La Comisión a través de la Unidad realizará la evaluación de desempeño del Órgano Superior, la cual deberá entregar a la Legislatura a más tardar el 30 de abril.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Son facultades de la Comisión, las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Revisar, analizar, aclarar y discutir la cuenta pública del Estado, municipios y demás entidades fiscalizables, así como examinar el Informe de Resultados de la Cuenta Pública elaborados por el Órgano Superior. Para tales efectos, deben realizarse reuniones de trabajo de la propia Comisión y con la presencia del Auditor Superior y el personal del propio Órgano Superior, que así se considere;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Evaluar el cumplimiento del plan anual de metas del Órgano Superior;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Evaluar el cumplimiento de los objetivos y metas de los programas del Órgano Superior; Proporcionar a los Diputados integrantes de la Legislatura, la información que requieran del Órgano Superior en un plazo no mayor de diez días hábiles;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Ordenar la práctica de auditorías especiales que no formen parte de los programas anuales de auditorías y determinar sus alcances, y el resultado obtenido de las auditorias especiales, deberá ser entregado por el Órgano de Fiscalización a la Comisión de Vigilancia dentro de los diez días hábiles posteriores a la conclusión del mismo."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Citar, por conducto de su Presidente, al Auditor Superior para conocer en lo específico los informes de las revisiones practicadas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proporcionar a los integrantes de la Legislatura del Estado, la información requerida por éstos, respecto de la integración, funcionamiento y ejercicio de atribuciones del Órgano Superior, en un plazo no mayor a diez días hábiles;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Recibir a más tardar el 15 de agosto, el proyecto del presupuesto anual del Órgano Superior; Recibir y enviar a la Junta de Coordinación Política el informe del ejercicio del presupuesto del Órgano Superior de Fiscalización del Estado de México para los efectos legales conducentes;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Evaluar la gestión y el desempeño del Órgano Superior respecto del cumplimiento de sus atribuciones, conforme lo establecido en la Constitución del Estado, esta Ley y el Reglamento que le correspondan; y proveer lo necesario para garantizar su autonomía técnica y de gestión. Dar seguimiento a las observaciones y recomendaciones emitidas por el Órgano Superior, así como a los procedimientos y demás acciones promovidas, relacionadas con la revisión y fiscalización de las cuentas públicas. Dictaminar y turnar a la Junta de Coordinación Política la solicitud de licencia o remoción del Auditor Superior, de acuerdo con la presente Ley; Recibir y analizar las solicitudes de auditorías presentadas por la ciudadanía y acordar, de ser procedente, la instrucción al Órgano Superior para practicarlas, y Las demás que establezca esta Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- La solicitud ciudadana para la práctica de auditorías a que se refiere la fracción XV del artículo anterior, deberá cumplir con los requisitos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Solicitud de auditoría;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Hechos, actos u omisiones que la motivan;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Señalamiento de la autoridad a quien se atribuyan los hechos, actos u omisiones; Pruebas que justifican la acción;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Domicilio para recibir notificaciones, y"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Nombre y firma de la persona solicitante. La Unidad apoyará en la revisión y análisis técnico para desechar o confirmar la procedencia de dichas solicitudes de auditoría, en un plazo máximo de diez días hábiles posteriores a su recepción. La Comisión hará del conocimiento de la Junta de Coordinación Política la presentación de dichas solicitudes y deberá reunirse una vez que la Unidad entregue los resultados de su análisis de procedencia y en su caso solicitará las auditorías al Órgano Superior."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LA UNIDAD TÉCNICA DE EVALUACIÓN Y CONTROL",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "- Para el ejercicio de sus facultades, la Comisión se auxiliará de la Unidad, la cual estará encargada de vigilar el estricto cumplimiento de las atribuciones de los servidores públicos del Órgano Superior y que éstos se apeguen a lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y a las demás disposiciones legales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- El Titular de la Unidad será designado por la Legislatura, por convocatoria emitida por la Junta de Coordinación Política en los términos del reglamento de la Unidad. Durará cuatro años en su encargo y podrá desempeñar nuevamente ese cargo por otro periodo igual. En caso de ausencia temporal del Titular de la Unidad, que exceda treinta días naturales, la Junta de Coordinación Política, a propuesta de la Comisión, designará a un encargado de despacho, el cual no podrá durar en su encargo más de ciento veinte días naturales. En caso de remoción o ausencia definitiva ocurrida durante la primera mitad de su encargo, se aplicará lo dispuesto en el primer párrafo del presente artículo, y si ocurriera en la segunda mitad, el Titular será designado por la Legislatura, a propuesta de la Junta de Coordinación Política.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Tratándose de posibles faltas no graves, graves o delitos, cometidos por servidores públicos del Órgano Superior, la Unidad actuará en términos de las disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- La Unidad tendrá las siguientes atribuciones:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar que el desempeño de los servidores públicos del Órgano Superior esté apegado a esta Ley y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proponer a la Comisión los indicadores y métodos de evaluación del Órgano Superior, así como el sistema de seguimiento a los mismos e informar sus resultados a la Comisión;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe de Resultados de las cuentas públicas y demás documentos que le envíe el Órgano Superior; Recibir quejas por posibles faltas administrativas de los servidores públicos del Órgano Superior, iniciar investigaciones y proceder conforme a la Ley de Responsabilidades Administrativas del Estado de México y Municipios;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Participar en los actos de entrega-recepción de los servidores públicos de mando superior del Órgano Superior;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad; así como los sistemas de seguimiento a las acciones y observaciones que promuevan tanto la Unidad como la Comisión, y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las demás que le atribuyan esta ley y las disposiciones legales y reglamentarias aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 31,
+            "Texto": "- Para el correcto ejercicio de sus funciones de la Unidad, dispondrá de los servidores públicos, unidades administrativas y áreas suficientes, en función del reglamento.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LAS CUENTAS PÚBLICAS",
+        "Artículos": [
+          {
+            "Artículo": 32,
+            "Texto": "Las cuentas públicas estatal y municipales, deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en el Código Financiero del Estado de México y\nMunicipios, el Manual Único de Contabilidad Gubernamental para las Dependencias y Entidades Públicas del Gobierno y Municipios del Estado de México, y demás disposiciones aplicables. El Gobernador del Estado, por conducto del titular de la dependencia competente, presentará a la Legislatura la cuenta pública del Gobierno del Estado del ejercicio fiscal inmediato anterior, a más tardar el treinta de abril de cada año. Los presidentes municipales presentarán a la Legislatura las cuentas públicas de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año. Si el día del vencimiento de los plazos señalados, corresponde a un día inhábil, se podrá presentar al día hábil inmediato siguiente. La Legislatura deberá remitir las Cuentas Públicas al Órgano Superior el día hábil siguiente a su recepción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- La Secretaría de Finanzas y las tesorerías municipales, en el ámbito de sus respectivas atribuciones, expedirán las bases y normas de carácter administrativo para la baja de documentos justificativos y comprobatorios para efecto de guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia. Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en que aquellos se apliquen.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- El Órgano Superior conservará en su poder las cuentas públicas del Estado y de los municipios de cada ejercicio fiscal, así como los informes de resultados de su revisión y los informes de auditoría y de denuncias que correspondan, en tanto no prescriban las responsabilidades derivadas de las irregularidades que se observen en las operaciones objeto de revisión. Asimismo, conservará las copias autógrafas de los pliegos que formule y copias de los trámites que hubiere realizado ante las instancias competentes para la presentación de denuncias o querellas penales derivadas del ejercicio de sus funciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DE LA REVISIÓN, FISCALIZACIÓN Y CALIFICACIÓN DE LAS CUENTAS PÚBLICAS",
+        "Artículos": [
+          {
+            "Artículo": 35,
+            "Texto": "- La revisión, fiscalización y calificación de las cuentas públicas tiene por objeto determinar:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Si los programas y su ejecución se ajustaron a los términos y montos aprobados;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Si las cantidades correspondientes a los ingresos o a los egresos, se ajustan o corresponden a los conceptos y a las partidas respectivas;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "El cumplimiento de los programas autorizados; Si los recursos provenientes del financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por la Ley y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La gestión financiera de las entidades fiscalizables, en sus programas y procesos concluidos;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Si la gestión financiera cumple con las leyes, decretos, reglamentos y demás disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Si se ajustan a la Ley la recaudación, administración, manejo y aplicación de recursos estatales y municipales, y los federales en términos de los convenios respectivos; los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizables celebraron o realizaron; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las conductas que den lugar al fincamiento de responsabilidades administrativas y, en su caso, a la imposición de sanciones. Si se remitieron a la Legislatura en los plazos dispuestos en esta Ley."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Si su contenido cumple con lo dispuesto en la Ley General de Contabilidad Gubernamental, el Código Financiero del Estado de México y Municipios, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás normatividad aplicable. Si su contenido corresponde con el contenido del presupuesto de egresos del ejercicio fiscal respectivo. Si las entidades públicas presentaron en la cuenta pública información sobre la aplicación de los recursos de gestión y de origen federal de forma suficiente y transparente, en términos de los convenios y normatividad correspondiente. Si las entidades públicas presentaron en la cuenta pública información sobre la aplicación de recursos destinados a programas sociales de forma suficiente y transparente, y con alusión a los resultados obtenidos. Si los resultados de desempeño de todos los programas presupuestarios obtuvieron parámetros satisfactorios reflejados en la Matriz de Indicadores para Resultados."
+              }
+            ]
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- Las cuentas públicas serán remitidas a la Legislatura, su Presidente deberá hacerlas del conocimiento de sus integrantes y de la Comisión, quien la remitirá al Órgano Superior para su revisión y fiscalización superior en la forma y plazos establecidos por la Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "Respecto de los informes trimestrales el Órgano Superior, podrá emitir los resultados de la fiscalización de acuerdo con lo que se señale en el Reglamento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 39,
+            "Texto": "El Órgano Superior, en ejercicio de sus atribuciones de fiscalización, podrá realizar revisiones y auditorías en relación con el ejercicio fiscal sujeto a revisión.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Revisado por la Comisión el Informe de Resultados referido en el artículo 50 del presente ordenamiento, y una vez que se haya elaborado y aprobados por el Pleno de la Legislatura los dictámenes correspondientes, el Órgano Superior procederá en términos de lo dispuesto en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley de El dictamen relativo a las cuentas públicas deberá contener un análisis pormenorizado y estar sustentado en las conclusiones técnicas de los informes de resultados de las Cuentas Públicas, recuperando las discusiones técnicas realizadas en la Comisión. Su estructura considerará antecedentes, considerandos y resolutivos. Si el dictamen de las cuentas públicas es aprobado por el Pleno de la Legislatura, quedará concluida la revisión correspondiente. De no aprobarse, la Comisión sesionará de forma extraordinaria para analizar y discutir nuevamente el contenido de dicho informe. Al efecto, la Comisión podrá solicitar mayor información al Órgano Superior sobre la aplicación de los recursos públicos y los resultados obtenidos con ellos, sin que se entienda, para todos los efectos legales, como una modificación al Informe de Resultados. Por consiguiente, formulará un nuevo dictamen que deberá presentar al Pleno de la Legislatura para su respectiva calificación.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- Cuando conforme a esta Ley y demás disposiciones legales aplicables, los órganos internos de control de las entidades fiscalizables deban colaborar con el Órgano Superior en lo que concierne a la revisión de las cuentas públicas, deberá establecerse una coordinación entre ésta y aquéllos, a fin de garantizar el intercambio de información que sea necesario y otorgar las facilidades que permitan al Órgano Superior el ejercicio de sus funciones.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- La información que proporcionen las entidades fiscalizables al Órgano Superior, sólo será utilizada para el cumplimiento de las disposiciones previstas en esta Ley. El Órgano Superior tendrá acceso a todo tipo de documentos, datos, libros, archivos físicos y electrónicos, así como a la documentación justificativa y comprobatoria y demás información que resulte necesaria para la revisión y fiscalización, sin importar el carácter de confidencial o reservado de la misma, quedando bajo su custodia y responsabilidad dicha información de conformidad con lo que establecen las leyes de la materia, que obren en poder de:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las entidades fiscalizables."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Los órganos internos de control."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los auditores externos de las entidades fiscalizables. IV. Las instituciones de crédito, fideicomisos u otras figuras del sector financiero."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las autoridades hacendarias.\nEl Órgano Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de recursos públicos y la deuda pública, estando obligado a mantener la misma reserva, en términos de las disposiciones jurídicas aplicables. Cuando esta Ley no prevea plazo específico para la atención de sus requerimientos de información, el Órgano Superior, otorgará un plazo de cinco a diez días hábiles, contados a partir del día hábil siguiente a aquel en que surta efectos la notificación. Cuando las entidades fiscalizables, derivado de la complejidad de la información solicitada, requieran de un plazo mayor para su atención, deberán solicitar la prórroga debidamente justificada ante el Órgano Superior; el plazo que se otorgue será improrrogable. Esta ampliación no podrá exceder el plazo previsto originalmente"
+              }
+            ]
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- Los servidores públicos, así como cualquier entidad, persona física o jurídico colectiva, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite el Órgano Superior para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. De no proporcionar la información, los responsables serán sancionados en los términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en su caso, en términos de la legislación penal aplicable. Cuando los servidores públicos y las personas físicas y jurídico colectiva, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por las leyes penales aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 43,
+            "Texto": "Las auditorías, revisiones, visitas e inspecciones que se efectúen en los términos de este título, se practicarán por el personal expresamente comisionado por el Órgano Superior, que estará formado por servidores públicos adscritos al Órgano o por profesionistas independientes y auditores externos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 44,
+            "Texto": "Las personas a que se refiere el artículo anterior, tendrán el carácter de representantes del Órgano Superior en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente la orden o el oficio de comisión respectivo e identificarse plenamente como personal actuante del mismo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 45,
+            "Texto": "Durante sus actuaciones, los comisionados que hubieren intervenido en las revisiones, deberán levantar acta circunstanciada, en presencia de dos testigos, en la que harán constar los hechos u omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en los términos de Ley. Asimismo, podrán solicitar la documentación en copias certificadas e integrarán el expediente técnico correspondiente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DE LAS CUENTAS PÚBLICAS MUNICIPALES",
+        "Artículos": [
+          {
+            "Artículo": 46,
+            "Texto": "- Sin perjuicio de las atribuciones que en materia de cuenta pública tienen conferidas los Presidentes Municipales, los municipios coordinarán sus acciones con el Órgano Superior a través de sus Síndicos y Tesoreros.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- Los Presidentes Municipales y los Síndicos estarán obligados a informar al Órgano Superior, a más tardar el 25 de febrero de cada año, el Presupuesto de Egresos Municipal que haya aprobado el Ayuntamiento correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- La cuenta pública de los municipios, deberá firmarse por el Presidente Municipal, él o los Síndicos según corresponda; el Tesorero y el Secretario del Ayuntamiento. Los informes trimestrales deberán firmarse por el presidente municipal, el tesorero y el secretario del ayuntamiento. Quienes firmen la cuenta pública o el informe de que se trate y no estén de acuerdo con su contenido, tendrán derecho a asentar las observaciones que tengan respecto del documento en cuestión en el cuerpo del mismo, debiendo fundar y motivar cada una de ellas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "Los informes trimestrales o la cuenta pública municipal, según corresponda, así como la documentación comprobatoria y justificativa que los ampare, quedarán a disposición de los sujetos obligados a firmarlos, para que puedan revisarlos y en su caso, anotar sus observaciones. Dichos informes serán revisados por los síndicos sin que se requiera su firma para la remisión. Los tesoreros municipales deberán notificar por escrito esta situación a los sujetos obligados a firmar dichos documentos y apercibirlos de que en caso de que no acudan a hacerlo, se tendrá por aceptada la documentación de que se trate en los términos señalados en el informe o cuenta pública respectiva. Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipal, cuando menos con cinco o con treinta días de anticipación a su presentación, según se trate de los informes o de la cuenta pública, respectivamente.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DEL INFORME DE RESULTADOS",
+        "Artículos": [
+          {
+            "Artículo": 50,
+            "Texto": "- El Órgano Superior tendrá un plazo improrrogable que vence el 15 de noviembre del año en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a su entrega; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e información.\nLa revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del\ndecreto que tenga por fiscalizadas y calificadas las cuentas públicas del Estado y municipios a más tardar el 30 de noviembre del año en que se presente dicho informe. La calificación no suspende el trámite de las acciones promovidas o que se promuevan, por parte del Órgano Superior de Fiscalización del Estado de México, mismas que seguirán el procedimiento de acuerdo a las disposiciones legales aplicables. La Comisión vigilara la publicación del Informe de Resultados, de todas y cada una de las reuniones de trabajo que realice para analizarlo y del decreto que emita la Legislatura, de manera inmediata a que cada uno acontezca. La Comisión dará seguimiento a los informes emitidos por el Órgano Superior, que incluirán de forma cualitativa y cuantitativa las observaciones y recomendaciones así como a los procedimientos resarcitorios y demás acciones promovidas, por el OSFEM de la siguiente forma:\na) Número de auditorías, tipo de auditoria, alcance y planeación de la misma.\nb) La identificación de la entidad fiscalizable.",
+            "Fracciones": [
+              {
+                "Fracción": "C",
+                "Texto": "Las observaciones resarcitorias y el seguimiento de los mismos hasta su total conclusión."
+              },
+              {
+                "Fracción": "D",
+                "Texto": "El comportamiento de la entidad fiscalizable respecto a las observaciones realizadas.\ne) El cumplimiento de los programas auditados mediante auditoria del desempeño."
+              }
+            ]
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- El informe a que se refiere el artículo anterior, deberá contener como mínimo lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El resultado de la revisión de la respectiva cuenta pública;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, respecto de la consecución de sus objetivos y metas, así como de la satisfacción de las necesidades correspondientes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Los resultados de la gestión financiera; La comprobación de que las entidades fiscalizadas, se ajustaron a lo dispuesto en las respectivas leyes de ingresos, presupuestos de egresos y en las demás normas aplicables en la materia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "En su caso, el análisis de las desviaciones presupuestales;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Los comentarios de los auditados;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Las irregularidades que se detecten en el uso y manejo de los recursos; y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Las observaciones y recomendaciones que se deriven de la revisión. Para el caso de las revisiones contemporáneas, el Órgano Superior deberá informar a la Comisión sobre los resultados obtenidos de las mismas, en un plazo no mayor a noventa días hábiles, contados a partir del día hábil siguiente a aquél en que reciba la solicitud.\nEl informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 52,
+            "Texto": "El Órgano Superior en el informe de resultados, dará cuenta por medio de la Comisión, a la Legislatura de los pliegos de las observaciones que hubiere formulado, así como de los procedimientos que las autoridades competentes hubieren iniciado para el fincamiento de responsabilidades y la imposición de sanciones.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO QUINTO DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACIÓN",
+        "Artículos": [
+          {
+            "Artículo": 53,
+            "Texto": "- Si del ejercicio de las atribuciones de fiscalización del Órgano Superior, se detecta alguna probable irregularidad procederá a emitir las observaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acciones y previsiones, incluidas solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía General de Justicia del Estado de México y denuncias de juicio político; atendiendo a los principios del debido proceso, así como a la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recomendaciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 53,
+            "Texto": "- El Órgano Superior, previo a la presentación del Informe de Resultados, entregará a las entidades fiscalizadas los resultados preliminares que se deriven de la fiscalización de la Cuenta Pública, a efecto de que dichas entidades presenten, en un plazo no mayor a cinco días hábiles, las justificaciones y aclaraciones que correspondan. Una vez que el Órgano Superior valore las justificaciones, aclaraciones y demás información a que hace referencia el párrafo anterior, en un plazo máximo de 10 días hábiles posteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar las observaciones preliminares, para efectos de la emisión de los resultados finales. Posterior a la entrega de los resultados finales, el Órgano Superior contará con treinta días hábiles a efecto de notificar a las entidades fiscalizadas el informe de auditoría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 54,
+            "Texto": "- La etapa de aclaración tiene como finalidad que la entidad fiscalizada, solvente o aclare el contenido de las observaciones. La etapa de aclaración se desarrollará de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Órgano Superior, formulará y entregará el contenido de las observaciones dentro de los informes de auditoría; para que la entidad fiscalizada, dentro del plazo de treinta días hábiles, aclare, solvente o manifieste lo que a su derecho convenga;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "A través de las solicitudes de aclaración, el Órgano Superior, requerirá a la entidad fiscalizada para que presente, dentro del plazo a que se refiere la fracción anterior, la información adicional para atender las observaciones que se hayan realizado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Si las observaciones que derivaron en una solicitud de aclaración han quedado solventadas, el Órgano Superior, emitirá el dictamen de solventación, de lo contrario, formulará el pliego de observaciones, otorgando el plazo previsto en la fracción I de este artículo. IV. Derogada."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Una vez agotado el procedimiento previo, investigado y substanciado, el Órgano Superior, promoverá el informe de presunta responsabilidad administrativa ante el Tribunal de Justicia Administrativa del Estado de México; la denuncia de hechos ante la Fiscalía General de Justicia del\nEstado de México, la denuncia de juicio político ante la Legislatura, o los informes de auditoría ante el órgano interno de control competente, en los términos del Título Quinto de esta Ley. El Órgano Superior deberá emitir el informe de seguimiento, en un plazo máximo de ciento veinte días hábiles contados a partir de la conclusión de la etapa de aclaración señalada en la fracción I, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo se tendrán por atendidas las acciones."
+              }
+            ]
+          },
+          {
+            "Artículo": 54,
+            "Texto": "Con relación a las recomendaciones, el proceso de su atención se desarrollará de la siguiente manera:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Órgano Superior en las reuniones de resultados preliminares y finales con las entidades fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes, las actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención, lo anterior, sin perjuicio de que el Órgano Superior podrá emitir recomendaciones en los casos en que no logre acuerdos con las entidades fiscalizadas; y"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La información, documentación o consideraciones aportadas por las entidades fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar su improcedencia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO PRIMERO DE LAS RESPONSABILIDADES",
+        "Artículos": [
+          {
+            "Artículo": 55,
+            "Texto": "A través del informe de presunta responsabilidad administrativa, una vez investigado y substanciado, el Órgano Superior promoverá ante el Tribunal de Justicia Administrativa del Estado de México, en los términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, investigaciones y/o denuncias, así como sanciones a los particulares, incluidos los de situación especial, vinculados con dichas faltas. Cuando el Órgano Superior detecte probables faltas administrativas y éstas no sean graves, por medio de las promociones de responsabilidad administrativa dará vista a la Secretaría de la Contraloría del Estado de México o a los órganos internos de control, remitiendo el expediente integrado, para que éstos continúen la investigación respectiva y, en su caso, inicie el proceso de responsabilidad administrativa correspondiente, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía General de Justicia del Estado de México, la posible comisión de hechos delictivos. A través de la denuncia de juicio político, hará del conocimiento de la Legislatura la presunción de actos u omisiones de los servidores públicos a que se refiere el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, y el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 56,
+            "Texto": "Las responsabilidades derivadas de la aplicación de la Ley General de Responsabilidades Administrativas, de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y de esta Ley, se fincarán independientemente de las que siendo de\nnaturaleza diversa, procedan con base en otras leyes y de las sanciones de carácter penal que imponga la autoridad judicial.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 57,
+            "Texto": "El fincamiento de las responsabilidades resarcitorias a que haya lugar con motivo de la aplicación de esta Ley, se substanciará con arreglo al procedimiento previsto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios. Lo anterior, sin perjuicio de la promoción de las demás responsabilidades administrativas que, en su caso, por faltas administrativas, se deriven de los actos de fiscalización.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 58,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 59,
+            "Texto": "- El Órgano Superior, para hacer cumplir sus determinaciones, podrá imponer de manera fundada y motivada, los medios de apremio siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "II. Multa de 100 a 150 veces el valor diario de la unidad de medida y actualización, la cual podrá duplicarse o triplicarse en cada ocasión, hasta alcanzar 1,500 veces el valor diario de la unidad de medida y actualización;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Auxilio de la fuerza pública; y"
+              }
+            ]
+          },
+          {
+            "Artículo": 60,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO SEGUNDO DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS (DEROGADO)",
+        "Artículos": [
+          {
+            "Artículo": 61,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 62,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 63,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 64,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 65,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 66,
+            "Texto": "Derogado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO TERCERO DEL MEDIO DE IMPUGNACIÓN",
+        "Artículos": [
+          {
+            "Artículo": 67,
+            "Texto": "Procede el recurso de revisión, en contra de los actos y resoluciones del Órgano Superior, distintos a los que se rigen conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 68,
+            "Texto": "El recurso de revisión se presentará por escrito ante el Órgano Superior, dentro del plazo de 15 días hábiles, contando a partir de la fecha en que el afectado haya tenido conocimiento del acto o resolución que se impugne.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 69,
+            "Texto": "Con la interposición del recurso de revisión podrán suspenderse los actos o resoluciones impugnados, siempre que:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Lo solicite el recurrente y éste garantice, por cualquier medio, el monto correspondiente."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Con la suspensión no se siga perjuicio al interés social ni se contravengan disposiciones de orden público."
+              }
+            ]
+          },
+          {
+            "Artículo": 70,
+            "Texto": "- El escrito de recurso contendrá:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Nombre y domicilio del recurrente, en su caso, la persona o personas que éste autorice para recibir notificaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Descripción del acto o resolución impugnado, autoridad que lo emitió y fecha en que se tuvo conocimiento del mismo;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Razones o motivos de la inconformidad; Señalamiento de las pruebas que en su caso se ofrezcan; y"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Firma del recurrente, requisito sin el cual, no se dará trámite al recurso. Al escrito del recurso, deberán acompañarse copia del escrito que contenga el acto o resolución impugnado, así como las pruebas documentales ofrecidas. En materia de notificaciones y de pruebas, se aplicarán las reglas establecidas en el Código de Procedimientos Administrativos."
+              }
+            ]
+          },
+          {
+            "Artículo": 71,
+            "Texto": "El Órgano Superior o la autoridad que conozca del recurso de revisión, resolverá en definitiva dentro de un plazo de cuarenta y cinco días hábiles siguientes a la fecha de interposición del recurso.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 72,
+            "Texto": "- Las resoluciones que se dicten en materia del recurso de revisión no admitirán medio de defensa ordinario alguno.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 73,
+            "Texto": "- Derogado.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO CUARTO DE LA PRESCRIPCIÓN",
+        "Artículos": [
+          {
+            "Artículo": 74,
+            "Texto": "Las facultades del Órgano Superior prescribirán en los términos que dispone la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 75,
+            "Texto": "- Para el caso del procedimiento administrativo de ejecución, la prescripción será de cinco años. Cualquier gestión de cobro que haga la autoridad competente al responsable, interrumpe la prescripción, la que comenzará a computarse a partir de dicha gestión.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": [
+      {
+        "Capítulo": "Capítulo Único",
+        "Artículos": [
+          {
+            "Artículo": "Tercero",
+            "Texto": "Se abroga la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México, publicada en el Periódico Oficial Gaceta del Gobierno el 15 de octubre de\n1991. CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en este decreto. QUINTO.- Toda referencia a la Contaduría General de Glosa en las disposiciones legales o administrativas, contratos, convenios o actos, expedidas o celebrados con anterioridad a la vigencia del presente decreto, se entenderá hecha al Órgano Superior de Fiscalización del Estado de México. SEXTO.- Los procedimientos iniciados por la Contaduría General de Glosa, que se encuentren en trámite al entrar en vigor este ordenamiento, se resolverán por el Órgano Superior de Fiscalización, conforme a las disposiciones de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México. SÉPTIMO.- Dentro de un plazo que no exceda al día 25 de septiembre del año dos mil cinco, la Legislatura del Estado designará al Auditor Superior del Estado de México, designación que deberá ser publicada en el periódico oficial \"Gaceta del Gobierno\" al día siguiente de efectuarse ésta, previa emisión de la convocatoria a que se refiere el artículo 12 fracción I de la Ley de Fiscalización Superior del Estado de México. En tanto se nombra al Auditor Superior, dicha función será ejercida, provisionalmente, por el Contador General de Glosa de la Legislatura. OCTAVO.- El Órgano Superior de Fiscalización dentro del plazo que no exceda de noventa días naturales, contados a partir de la vigencia del presente decreto, expedirá su reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia del Órgano Superior de Fiscalización. NOVENO.- Las cuentas públicas del Estado y Municipios relativas al ejercicio fiscal de dos mil cuatro, serán revisadas, fiscalizadas y calificadas, de acuerdo con las disposiciones aplicables de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México y demás leyes en la materia aplicables. DECIMO.- La H. Legislatura del Estado de México proveerá lo necesario para determinar el presupuesto necesario para la operación del Órgano Superior de Fiscalización. DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la Contaduría General de Glosa pasarán a formar parte de la Comisión de Vigilancia de la Legislatura del Estado. DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Órgano Superior de Fiscalización, quedando a salvo sus derechos laborales. DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Órgano Superior de Fiscalización, quedando destinados al cumplimiento de sus fines. Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. Dado en el Recinto Oficial del Poder Legislativo, Explanada del Palacio Municipal, en la cabecera municipal de Zacualpan, México, a los veintinueve días del mes de julio del año dos mil cuatro.\nAPROBACIÓN: 29 de julio de 2004 PUBLICACIÓN: 26 de agosto de 2004 VIGENCIA: 28 de agosto de 2004 REFORMAS Y ADICIONES FE DE ERRATAS: Publicada en la Gaceta del Gobierno el 6 de octubre del 2004.\nDECRETO No. 116.- Por el que se reforman los Transitorios Séptimo y Octavo del Decreto\nnúmero 69 de fecha 29 de julio del 2004, por el que esta H. Legislatura expide la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 22 de diciembre del 2004; entrando en vigor al día siguiente de su publicación.\nDECRETO No. 126.- Por el que se reforma el decreto número 116 de la \"LV\" Legislatura por el que se reformaron los artículo séptimo y octavo transitorios del decreto número 69, por el que se expidió la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 11 de febrero del 2005; entrando en vigor al día siguiente de su publicación.\nDECRETO No. 240 EN SU ARTICULO CUARTO.- Por el que se adicionan las fracciones XXX, XXXI y XXXII, recorriéndose la actual XXX para ser XXXIII al artículo 8 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 21 de julio del 2006, entrando en vigor al día siguiente de su publicación.\nDECRETO No. 26.- Por el que se reforman los artículos 5, 8 en sus fracciones I, II, VII, XV, 23 en su fracción III, 24 en sus fracciones I, II, IV. Se adicionan una fracción XV al artículo 2 y un penúltimo párrafo al artículo 51, de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno de fecha 16 de enero del 2007, entrando en vigor al día siguiente de su publicación.\nDECRETO No. 33.- Por el que se reforman los artículos 3 en su primer párrafo, 31 en su fracción I, 40 y 50 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 31 de enero del 2007, entrando en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.\nDECRETO No. 79 EN SU ARTÍCULO PRIMERO.- Por el que se adiciona la fracción V recorriéndose la sucesiva para pasar a ser la fracción VI, al artículo 4 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 12 de mayo de 2010; entrando en vigor el día hábil inmediato siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO No. 433.- Por el que se reforma el artículo 50 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 24 de abril de 2012; entrando en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.\nDECRETO No. 495 EN SU ARTÍCULO PRIMERO.- Por el que se reforma la fracción XXI del\nartículo 8, la fracción I del artículo 55 y la fracción I del artículo 62 y se deroga la fracción IV del\nartículo 62 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 24 de agosto del 2012; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO No. 7 EN SU ARTÍCULO TERCERO.- Por el que se reforman los artículos 47, 48 y 49 en su primer párrafo de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 11 de octubre de 2012; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO No. 39.- Por el que se reforma el inciso a) y se adiciona un último párrafo al artículo 73 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 19 de diciembre de 2012; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO No. 101 EN SU ARTÍCULO PRIMERO.- Por el que se reforman los artículos 14 y 73 en sus incisos a) y b) y en su último párrafo y, se adiciona un primer párrafo a la fracción III del\nartículo 26, recorriéndose el actual primero para ser segundo y el segundo pasa a ser tercero, de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 15 de julio de 2013; entrando en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO No. 209 EN SU ARTÍCULO PRIMERO.- Por el que se reforma la fracción X del artículo 13 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 21 de abril de 2014; entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.\nDECRETO No. 227 EN SU ARTÍCULO OCTAVO.- Por el que se reforman los artículos 2, fracción XI, 8, fracción XXVII, inciso a., y 33, primer párrafo de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 14 de mayo de 2014; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO No. 353 EN SU ARTÍCULO PRIMERO.- Por el que se reforman los artículos 13 en su fracción III, 31 en su fracción 1, 36, 40, 50 y 52 de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 16 de diciembre de 2014; entrando en vigor al día siguiente al de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO NÚMERO 48 EN SU ARTÍCULO ÚNICO. Por el que se reforma el artículo 15 de la Ley de Fiscalización Superior del Estado. Publicado en la Gaceta del Gobierno el 14 de diciembre de 2015, entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO NÚMERO 136 EN SU ARTÍCULO TERCERO. Por el que se reforma la fracción XXXIII del artículo 8 y se adicionan las fracciones XXXIV, XXXV y XXXVI del referido artículo, de la Ley de Fiscalización Superior del Estado de México. Publicado en la Gaceta del Gobierno el 11 de octubre de 2016, entrando en vigor al día siguiente de su publicación. FE DE ERRATAS: Publicado en la Gaceta del Gobierno el 11 de octubre de 2016.\nDECRETO NÚMERO 178 EN SU ARTÍCULO TRIGÉSIMO NOVENO. Por el que se reforma la fracción II del artículo 59 de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 20 de diciembre de 2016, entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO NÚMERO 186 EN SU ARTÍCULO PRIMERO.- Por el que se reforman los artículos 2 en su fracción V; 3 en su párrafo segundo y tercero; 4 en su fracción V y VI; 8 en sus fracciones VI, X y XIV; 9 en su párrafo primero; 10; 11 en su fracción V; 13 en sus fracciones X, XI, XII, XV y XVI; 15; 21; 22 en su párrafo primero; 30; 31 en sus fracciones, II, III, IX y XI; 32 en su párrafo primero; 50 en su párrafo segundo; y 51 en su párrafo segundo; se adicionan a los artículos 2 la fracción XVI; 3 el párrafo tercero recorriendo el subsecuente; 5 un párrafo segundo; 13 en su fracción VI un párrafo segundo; 32 un párrafo tercero; 42 un párrafo segundo y`, 50 un párrafo cuarto; y se derogan de los artículos 22 su párrafo segundo: 28 su párrafo segundo; 31 sus fracciones XIII y XIV y 73 de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 21 de diciembre de 2016, entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO NÚMERO 207 EN SU ARTÍCULO SEXTO. Por el que se reforman los artículos 1; 2 en sus fracciones X, XIII y XIV; 5 en su primer párrafo; 6; 7; 8 en sus fracciones I, III, IV, VII, X, XI, XII,\nXIII, XIV, XV, XIX, XX, XXI, XXII, XXIII, XXIV y XXIX; 13 en sus fracciones V, VII, XVII y XXII; 14; 16 en sus párrafos tercero y cuarto; 17 en su primer párrafo; 21; 23 en su fracción XI; 24; 25; 26 en sus fracciones II, III, V, VI y VII; 31 en sus fracciones X y XI; 37; 39; 40; 42 en su segundo párrafo; 43; 44; 45; 52; La denominación del Título Quinto; 53; 54 en sus fracciones I, II, III y IV; 55; 56; 57; 59 en su fracción IV; 67; 68; 69 en su fracción I; 71 y 74. Se adicionan las fracciones XVII, XVIII y XIX al artículo 2; las fracciones XXIII, XXIV y XXV al artículo XIII, un segundo párrafo al artículo 15; la fracción X al artículo 18; las fracciones XII, XIII, XIV, XV, XVI y XVII al artículo 23; un último párrafo al artículo 42. Se derogan la fracción VIII del artículo 13; el artículo 27; el artículo 38; el artículo 58; el artículo 60; El Capítulo Tercero y los artículos 61; 62; 63; 64; 65 y 66 de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 30 de mayo de 2017. Entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO NÚMERO 18 EN SU ARTÍCULO QUINTO. Por el que se reforma el artículo 4 en su fracción V de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 31 de diciembre de 2018; entrando en vigor el 1 de enero de\n2019. DECRETO NÚMERO 85 EN SU ARTÍCULO PRIMERO. Por el que se reforma la denominación del\nTítulo Tercero y del Capítulo Primero; la fracción I del artículo 31; la denominación del Título Cuarto y del Capítulo Segundo; el primer párrafo del artículo 35; el artículo 40; los párrafos primero y segundo del artículo 50; y se adicionan la fracción XX al artículo 2; el segundo párrafo al\nartículo 30; la fracción XV, recorriéndose la subsecuente al artículo 31; el artículo 31 Bis; el\nCapítulo Segundo al Título Tercero denominado de la Unidad Técnica de Evaluación y Control y los artículos 31 Ter; 31 Quater; 31 Quinquies; 31 Sexies y 31 Septies; las fracciones IX, X, XI, XII, XIII y XIV al artículo 35; un párrafo tercero recorriéndose los subsecuentes al artículo 50, de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 1 de octubre de 2019; entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO NÚMERO 102 ARTÍCULO ÚNICO. Por el que se reforman las fracciones III y IV del\nartículo 11 y la fracción I del artículo 17 de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 20 de diciembre de 2019; entrando en vigor al día siguiente de su publicación en el Periódico Oficial \"Gaceta del Gobierno\".\nDECRETO NÚMERO 118 EN SU ARTÍCULO QUINTO. Por el que se reforma el artículo 2 en sus fracciones V y VII, de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 23 de diciembre de 2019, entrará en vigor el 1 de enero de 2020.\nDECRETO NÚMERO 158 EN SU ARTÍCULO ÚNICO. Por el que se reforma la fracción XXXII del\nartículo 8 de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 23 de julio de 2020; entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO NÚMERO 169 EN SU ARTÍCULO ÚNICO. Por el que se reforman la fracción XI del\nartículo 2, el artículo 7, las fracciones XI, XIV, XV y el primer párrafo de la fracción XIX del artículo 8, la fracción XIII del artículo 13, los artículos 25, 32, 37, el segundo párrafo del artículo 48, el primer párrafo del artículo 49, los párrafos primero y segundo del artículo 50, los artículos 53, 54 y 55, la denominación del TÍTULO CUARTO, DE LAS CUENTAS PÚBLICAS, SU REVISIÓN, FISCALIZACIÓN Y CALIFICACIÓN; se adicionan las fracciones XXI, XXII, XXIII y XXIV al artículo 2, los párrafos segundo y tercero a la fracción X del artículo 8, las fracciones I y II al artículo 53, el\nartículo 54 Bis, el CAPÍTULO QUINTO nombrado DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACIÓN, reubicándose en este los artículos 53 y 54, se recorre la numeración de los capítulos del TÍTULO QUINTO, quedando de la siguiente manera: CAPÍTULO PRIMERO “DE LAS RESPONSABILIDADES”, CAPÍTULO SEGUNDO “DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS”, CAPÍTULO TERCERO “DEL MEDIO DE IMPUGNACIÓN” y CAPÍTULO CUARTO “DE LA PRESCRIPCIÓN”; todos de la Ley de Fiscalización\nSuperior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 27 de julio de 2020; entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO NÚMERO 239 ARTÍCULO ÚNICO. Por el que se reforma el párrafo segundo de la fracción XIX del artículo 8 y la fracción II del artículo 59; se adiciona el artículo 42 Bis; y se derogan las fracciones I y IV del artículo 59 de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 3 de febrero de 2021; entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.\nDECRETO NÚMERO 58 ARTÍCULO PRIMERO. Se reforma el párrafo primero del artículo 1, las fracciones VIII, XI y XIII del artículo 2, el párrafo primero del artículo 5, el párrafo primero y las fracciones I, II, XVI y XVII del artículo 8, la fracción III del artículo 13, el párrafo primero del artículo 32, los artículos 34, 40 y 41, los párrafos primero y segundo del artículo 50, el párrafo segundo del\nartículo 51, el párrafo primero del artículo 53, el párrafo primero y las fracciones I y III del artículo 54, se adiciona una fracción XIII Bis al artículo 2, un segundo párrafo al artículo 5, recorriéndose el subsecuente, un quinto párrafo al artículo 32, los párrafos cuarto y quinto al artículo 42, un\nartículo 53 Bis, un párrafo segundo al artículo 54, y se deroga la fracción IV del artículo 54, de la Ley de Fiscalización Superior del Estado de México. Publicado en el Periódico Oficial “Gaceta del Gobierno” el 25 de mayo de 2022; entrando en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ]
+  }
+}

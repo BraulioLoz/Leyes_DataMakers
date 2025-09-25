@@ -1,0 +1,38 @@
+{
+  "n_chapters": 25,
+  "n_perm_articles": 170,
+  "n_perm_fracciones": 301,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DEL OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY Del objeto de la Ley",
+    "CAPÍTULO SEGUNDO DEL PROGRAMA ESTATAL DE PROTECCIÓN DE DATOS PERSONALES Coordinación y evaluación de las acciones relativas a la política pública transversal",
+    "CAPÍTULO PRIMERO DE LOS PRINCIPIOS EN MATERIA DE PROTECCIÓN Principios",
+    "CAPÍTULO SEGUNDO DEL AVISO DE PRIVACIDAD Comunicación del Aviso de Privacidad",
+    "CAPÍTULO TERCERO DE LOS SISTEMAS Y EL TRATAMIENTO Sistemas de Datos Personales",
+    "CAPÍTULO PRIMERO DE LOS DEBERES Medidas de seguridad administrativas, físicas y técnicas",
+    "CAPÍTULO SEGUNDO DE LAS MEDIDAS DE SEGURIDAD Naturaleza de las medidas de seguridad y registro del nivel de seguridad",
+    "CAPÍTULO TERCERO DE LAS VIOLACIONES A LA SEGURIDAD DE LOS DATOS PERSONALES Plan de Contingencia y Plan de Trabajo",
+    "CAPÍTULO ÚNICO DE LA RELACIÓN ENTRE EL RESPONSABLE Y EL ENCARGADO Limitación de la Actuación del Encargado",
+    "CAPÍTULO ÚNICO DISPOSICIONES APLICABLES A LAS TRANSFERENCIAS Y REMISIONES DE DATOS PERSONALES Disposiciones específicas para transferencias y remisiones",
+    "CAPÍTULO ÚNICO MEJORES PRÁCTICAS Y ACCIONES PREVENTIVAS De las mejores prácticas",
+    "CAPÍTULO ÚNICO TRATAMIENTO DE DATOS PERSONALES POR INSTANCIAS DE SEGURIDAD PÚBLICA, PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA Obtención y tratamiento de datos por autoridades de Seguridad Pública",
+    "CAPÍTULO PRIMERO DEL SISTEMA NACIONAL Del Sistema Nacional",
+    "CAPÍTULO SEGUNDO DEL INSTITUTO COMO ORGANISMO GARANTE Del Instituto",
+    "CAPÍTULO TERCERO DE LOS CRITERIOS DE INTERPRETACIÓN De los criterios de interpretación",
+    "CAPÍTULO CUARTO DEL CENTRO DE ATENCIÓN TELEFÓNICA Del Centro de Atención Telefónica",
+    "CAPÍTULO ÚNICO DE LA ORGANIZACIÓN DE LOS SUJETOS OBLIGADOS EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES De la Unidad de Transparencia",
+    "CAPÍTULO PRIMERO DERECHOS ARCO, PORTABILIDAD Y LIMITACIÓN DEL TRATAMIENTO Derechos ARCO",
+    "CAPÍTULO SEGUNDO DEL EJERCICIO DE DERECHOS ARCO Y LOS DERECHOS RELACIONADOS EN LA MATERIA Legitimación para Ejercer los Derechos ARCO",
+    "CAPÍTULO PRIMERO DISPOSICIONES APLICABLES A LOS MEDIOS DE IMPUGNACIÓN Medios de interposición",
+    "CAPÍTULO SEGUNDO DEL RECURSO DE REVISIÓN Procedimiento para Sustanciar los Recursos de Revisión",
+    "CAPÍTULO TERCERO DE LA FACULTAD DE ATRACCIÓN DEL INSTITUTO NACIONAL De la Facultad de Atracción",
+    "CAPÍTULO ÚNICO DE LAS FACULTADES DE VERIFICACIÓN De las Facultades de Verificación y Vigilancia",
+    "CAPÍTULO PRIMERO DE LAS MEDIDAS DE APREMIO Cumplimiento de las resoluciones del Instituto",
+    "CAPÍTULO SEGUNDO DE LAS RESPONSABILIDADES Supuestos de responsabilidad"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 25
+  }
+}

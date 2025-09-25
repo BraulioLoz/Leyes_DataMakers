@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 24,
+  "n_perm_fracciones": 42,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO NATURALEZA Y OBJETO",
+    "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN",
+    "CAPÍTULO TERCERO DEL PATRIMONIO",
+    "CAPÍTULO CUARTO DEL PATRONATO",
+    "CAPÍTULO QUINTO DEL PERSONAL DEL TECNOLÓGICO",
+    "CAPÍTULO SEXTO DEL ALUMNADO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "0091.JSON": {
+    "Decreto": "LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO",
+    "Año_publicación": 2018,
+    "Título": "LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "Las disposiciones de esta Ley son de orden público, interés social y observancia general, y tienen por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género y de derechos humanos de la infancia y juventud, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir el acoso físico, moral y emocional escolar, dentro de la educación básica."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Diseñar mecanismos, instrumentos y procedimientos tendentes a garantizar el derecho de los estudiantes que integran la comunidad educativa a una vida libre de acoso escolar promoviendo su convivencia pacífica."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Fomentar la participación de la comunidad escolar y de la sociedad civil, para lograr que se cumpla el objeto y principios de esta Ley. IV. Coadyuvar en el seguimiento en el diseño e instrumentación de las políticas públicas en materia de prevención y atención del acoso escolar, que formulen las autoridades educativas federales o locales."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fomentar y en su caso implementar programas estatales de coordinación interinstitucional para prevenir, detectar, atender y eliminar el acoso escolar."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Promover la corresponsabilidad social, la adición comunitaria y la promoción de valores, para garantizar un ambiente libre de acoso escolar del Estado. La actuación de las autoridades ante los casos de acoso escolar, estará enmarcada en lo dispuesto por la Ley General de Derechos de Niñas, Niños y Adolescentes."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "Los principios y ejes rectores de esta Ley, son:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El interés superior de la infancia."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "El respeto a la dignidad humana y a los Derechos Humanos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La prevención del acoso. IV. La no discriminación."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Interdependencia."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La igualdad."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Resolución no violenta de conflictos."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "La cohesión comunitaria. IX. La promoción de la cultura de paz."
+              },
+              {
+                "Fracción": "X",
+                "Texto": "La Tolerancia. XI. La coordinación interinstitucional."
+              },
+              {
+                "Fracción": "XII",
+                "Texto": "El pluriculturalismo y reconocimiento de la diversidad. Dichos principios serán la base para el diseño, ejecución, seguimiento y evaluación de las políticas públicas que realicen las autoridades competentes así como todas las acciones que lleven a cabo los sectores privado y social para prevenir y atender el acoso escolar."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "Para efectos de esta Ley, además de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, se entenderá por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Comunidad educativa: la conformada por las y los estudiantes, así como por el personal docente, directivos escolares, personal administrativo de las escuelas, padres de familia y, en su caso, tutores."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Cultura de la paz: el conjunto de valores, actitudes, comportamientos, modos de vida y acciones que reflejan el respeto de la vida de la persona humana, de su dignidad y sus derechos, el rechazo del acoso en todas sus formas de terrorismo y la adhesión a los principios de libertad, justicia, solidaridad, tolerancia y entendimiento tanto entre los pueblos como entre los grupos y las personas."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Estudiante: Toda persona que curse sus estudios en algún Plantel Educativo de educación básica, público o privado del Estado de México. IV. Ley: La Ley para Prevenir y Atender el Acoso Escolar en el Estado de México."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Protocolo: Al Protocolo para Prevenir, Detectar, Atender y Erradicar el Acoso Escolar, documento rector en la materia expedido por la Secretaría de Educación, Ciencia, Tecnología e Innovación del Estado de México."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Programa Nacional: Programa Nacional de Protección de los Derechos de las Niñas, Niños y Adolescentes."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Receptor de acoso escolar: Estudiante contra quien se efectúa el acoso escolar."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Secretaría: Secretaría de Educación, Ciencia, Tecnología e Innovación del Estado de México. IX. Acoso Escolar: Cualquier forma de actividad violenta dentro del entorno escolar que incluye el acoso escolar, el abuso verbal, abuso a través de plataformas digitales, el abuso físico, que atenta contra la dignidad de los integrantes de la comunidad educativa, generando repercusiones físicas, emocionales, morales y sociales."
+              }
+            ]
+          },
+          {
+            "Artículo": 4,
+            "Texto": "Son autoridades del Estado competentes para la aplicación de la presente Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "El Gobernador del Estado, a través de la Secretaría."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las demás autoridades educativas que la Ley de Educación del Estado de México reconoce."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "En plena observancia a la Ley de Derechos de Niñas, Niños y Adolescentes del Estado de México, las autoridades establecidas en el artículo anterior, podrán solicitar la colaboración en la atención de casos de acoso escolar, de manera enunciativa, más no limitativa a las instancias siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Secretaría de Salud."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Secretaría de Bienestar."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Secretaría de Seguridad. IV. Sistema para el Desarrollo Integral de la Familia del Estado de México."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Fiscalía General de Justicia del Estado."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Comisión de Derechos Humanos del Estado de México."
+              }
+            ]
+          },
+          {
+            "Artículo": 6,
+            "Texto": "El Gobernador del Estado por conducto de la Secretaría tendrá la facultad de suscribir convenios de colaboración con instancias estatales, nacionales y extranjeras a fin de cumplir los objetivos de la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 7,
+            "Texto": "Corresponde a la Secretaría:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Elaborar y difundir material educativo para la prevención y atención del acoso escolar, así como coordinar campañas de información sobre dicho tema."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Elaborar y expedir el Protocolo de actuación, aplicable ante los actos de acoso en el ambiente escolar, así como su revisión y actualización anual."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Aplicar una encuesta semestral entre la comunidad educativa para identificar los centros educativos con mayor incidencia de acoso escolar, la cual servirá como apoyo en la instrumentación de acciones para atender dichos problemas. IV. Llevar a cabo estudios, investigaciones, informes y diagnósticos que permitan conocer la incidencia del fenómeno de acoso escolar."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Difundir el Protocolo mencionado en la presente Ley, y recibir reportes de acoso escolar."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Establecer mecanismos gratuitos de asesoría, orientación, y reporte de casos de acoso escolar."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Fomentar la participación de organizaciones de la sociedad civil, asociaciones de padres de familia, y vecinales con el objeto de fomentar su participación en acciones para prevenir y eliminar el acoso escolar."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Hacer del conocimiento de las autoridades competentes los casos de acoso escolar que puedan resultar constitutivas de infracciones o delitos; y IX. Las demás que señalen las disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 8,
+            "Texto": "Corresponde a los Ayuntamientos:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Coordinar y mantener comunicación con las autoridades correspondientes para enfrentar el acoso escolar."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Implementar programas de asesoría jurídica y psicológica a los receptores de acoso escolar."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Realizar campañas de difusión sobre cultura de paz en los ámbitos familiar, educativo, comunitario, social y familiar. IV. Las demás que le señalen las disposiciones legales aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "Corresponde a las autoridades escolares en cada plantel educativo:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Vigilar el cumplimiento e implementación del Protocolo, a fin de atender y reducir la incidencia del acoso escolar en cada plantel educativo."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Promover la cultura de la paz entre los miembros de la comunidad escolar."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Dar a conocer a la Secretaría y a las autoridades competentes, los actos constitutivos de acoso escolar para su debida atención. IV. Coadyuvar en las diligencias que las autoridades competentes realicen como parte de la investigación que corresponda en los casos de acoso escolar."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Notificar a los padres o tutores de los generadores o receptores de acoso escolar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DEFINICIÓN, CARACTERÍSTICAS Y MODALIDADES DEL ACOSO ESCOLAR",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "El acoso escolar es toda conducta intencional, direccionada, frecuente y en desigualdad de poder ya sea física, de edad, social, económica entre otras que se ejerce entre alumnos y en el entorno escolar, con el objeto de someter, explotar y causar daño. Dicha conducta genera entre quien o quienes ejercen acoso y quien o quienes la reciben una relación jerárquica de dominación - sumisión, en la que el estudiante generador del acoso vulnera en forma constante los derechos fundamentales del estudiante acosado, pudiendo ocasionarle repercusiones en su salud, interfiere en el rendimiento escolar, integración social genera depresión, inseguridad, baja autoestima, entre otras consecuencias que ponen en riesgo su integridad física y mental; perjudica la disposición de un estudiante a participar o aprovechar los programas o actividades educativos del plantel educativo, al hacerle sentir un temor razonable a sufrir algún daño de cualquier tipo. También se considera acoso escolar cuando se ocasiona daño o menoscabo en las pertenencias del estudiante, como la sustracción, desaparición, ocultamiento o retención de sus objetos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 11,
+            "Texto": "El acoso escolar se identificará por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Comportamiento intencional y dañino, provocando presión hacia el receptor, quien se encuentra en situación de indefensión, aún cuando éstos no sean reportados."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Predominio de un desequilibrio de poder entre los que participan."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Persistencia de dichas acciones de forma reiterada, cuya duración va desde unas semanas a meses. IV. Realización de dichas acciones por una o varias personas contra otro u otros, sin que intermedie necesariamente provocación alguna por parte de la víctima."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Provocación de algún tipo de daño en el receptor."
+              }
+            ]
+          },
+          {
+            "Artículo": 12,
+            "Texto": "Las modalidades en términos de esta Ley en que se identificará el acoso escolar son las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Acoso física directa: toda acción que de manera intencional cause daño corporal."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acoso física indirecta: toda acción u omisión que ocasiona daño o menoscabo en las pertenencias del estudiante."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Acoso psicoemocional: toda acción u omisión dirigida a desvalorar, intimidar o controlar las acciones y comportamientos que provoquen en quien la recibe, alteraciones auto cognitivas y auto valorativas que integran su autoestima o alteraciones en alguna esfera de su estructura psíquica. IV. Acoso verbal: toda acción no corporal en la que se emplea el lenguaje, que de manera intencional o no, transgrede la dignidad del receptor."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Acoso cibernético: la que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del menor hacia otras personas con la finalidad de propinar un daño."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Acoso Sexual: cualquier acto de carácter erótico o sexual, cometido entre las y los estudiantes, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las niñas, niños o adolescentes y comprende la invasión física del cuerpo humano, pudiendo incluir actos que no involucren penetración o incluso contacto físico y aquellos que se ejerzan mediante el uso de Tecnologías de la Información y Comunicación para las actividades escolares. El acoso sexual puede comprender, más no limitarse, a toda forma de violencia verbal y psicológica, exposición a materiales de índole sexual, agresión sexual, violación, abuso sexual, comentarios o insinuaciones sexuales no deseadas y acciones para comercializar o utilizar de cualquier modo la sexualidad de una persona mediante coacción."
+              }
+            ]
+          },
+          {
+            "Artículo": 13,
+            "Texto": "El acoso escolar se encuentra prohibido y será considerado como tal, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Se lleve a cabo dentro de las instalaciones de un plantel educativo, en las inmediaciones, o en otro lugar donde los sujetos tengan una relación por la pertenencia al mismo plantel educativo o a planteles educativos distintos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Se lleve a cabo durante el desenvolvimiento de un programa o actividad escolar a cargo de un plantel educativo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Suceda en el interior de un vehículo de transporte escolar. IV. Se lleve a cabo a través de cualquier red social, aplicación o plataforma electrónica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DEL PROTOCOLO PARA PREVENIR, DETECTAR, ATENDER Y ERRADICAR EL ACOSO ESCOLAR",
+        "Artículos": [
+          {
+            "Artículo": 14,
+            "Texto": "El Protocolo es el instrumento rector que establecerá los mecanismos de actuación aplicados por la comunidad escolar en los centros escolares, que será elaborado, expedido y autorizado por la Secretaría.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "El Protocolo debe diseñarse para que sea aplicado en todos los niveles de educación básica. El contenido del Protocolo tendrá como base las acciones previstas en la Ley de Educación, además de las siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Prevención."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Detección."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Atención. IV. Eliminación. Sin detrimento de lo anterior, la Secretaría podrá incluir otras acciones o procedimientos a seguir cuando lo estime necesario y conveniente para prevenir, detectar, atender y erradicar el acoso escolar, y en estricto apego a las Leyes pertinentes. Tratándose de actos de acoso sexual, dentro del Protocolo se integrarán las directrices de atención de primer contacto, bajo un marco de perspectiva de género y preservación del interés superior de la niñez."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "Cada tres meses, (a partir de cada ciclo escolar), las instituciones educativas deberán remitir un informe a la Secretaría que contenga los casos de acoso que se hayan presentado, sus causas, así como las acciones tomadas y se anexarán las copias de los reportes recibidos y toda la documentación que respalde el actuar de la autoridad escolar correspondiente en la resolución de los incidentes. En caso de incumplimiento, la Secretaría deberá dar vista al órgano interno de control que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "La Secretaría deberá determinar en cada caso concreto, a qué autoridad u organismo público o privado canalizará la atención del mismo; determinación que hará del conocimiento, de la persona titular de la Dirección del plantel educativo que corresponda.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "Cualquier medida contra el acoso escolar, tendrá como finalidad su prevención, detección, atención y eliminación. Las autoridades escolares coadyuvarán en garantizar a los estudiantes el pleno respeto a su dignidad e integridad física y moral dentro de la convivencia escolar, en la aplicación de cualquiera de este tipo de medidas.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 19,
+            "Texto": "Los alumnos, personal directivo, docente, administrativo y de apoyo, así como los padres de familia que durante el ciclo escolar se destaquen por su comportamiento para prevenir, detectar, atender y erradicar el acoso escolar, serán reconocidos puntalmente por las autoridades del plantel educativo.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DERECHOS, PROHIBICIONES Y OBLIGACIONES DE LA COMUNIDAD ESCOLAR",
+        "Artículos": [
+          {
+            "Artículo": 20,
+            "Texto": "La normatividad aplicable a los planteles educativos deberá especificar derechos, obligaciones y prohibiciones tendientes a prevenir y erradicar el acoso escolar, a través de medidas de carácter disuasivo, correctivo y educativo.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "La persona receptora de cualquier tipo y modalidad de acoso escolar tiene derecho a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con protección inmediata y efectiva por parte de las autoridades del Gobierno del Estado de México cuando se encuentre en riesgo su integridad física o psicológica."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención."
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Contar con asesoría y representación jurídica gratuita y expedita."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir información, atención y acompañamiento médico y psicológico."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia."
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "A ser canalizada a las instancias correspondientes para su atención oportuna según sean las circunstancias y las necesidades de cada caso."
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "En caso de riesgo grave a que se dicten medidas preventivas tendientes a salvaguardar su integridad física y asegurar su derecho a la vida, integridad y dignidad. IX. A la reparación del daño moral y, en su caso, a recibir una indemnización o el pago de daños y perjuicios."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "La persona que por sus actos se define como generadora de acoso escolar tiene derecho a:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad, al ser receptores de acoso en otros contextos."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención. IV. Contar con asesoría psicológica y representación jurídica gratuita y expedita."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Recibir información, atención y acompañamiento médico y psicológico por las instancias correspondientes, según sean las circunstancias y las necesidades de cada caso."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia."
+              }
+            ]
+          },
+          {
+            "Artículo": 22,
+            "Texto": "La persona que por sus actos se define como generadora de acoso escolar deberá garantizar el cumplimiento de lo dispuesto en la fracción IX del artículo 21 de la presente Ley de conformidad con las disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "Las autoridades, en el ámbito de su competencia, deberán adoptar todas las medidas pertinentes que aseguren a las personas integrantes de la comunidad educativa la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "Los padres de familia o tutores de los generadores, deberán asistir a los tratamientos que sean indicados por los directores escolares y atenderán la problemática de acoso escolar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V EL REPORTE",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "Será prioridad y obligación de la comunidad escolar hacer de conocimiento de las autoridades educativas competentes cualquier situación constitutiva o presumiblemente constitutiva de acoso escolar.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI INFRACCIONES Y SANCIONES",
+        "Artículos": [
+          {
+            "Artículo": 26,
+            "Texto": "El incumplimiento a las disposiciones previstas en la presente Ley será sancionado conforme a las disposiciones jurídicas aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "El personal docente, administrativo y directivo escolar, se hará acreedor a sanciones en términos de la legislación aplicable, cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Tolere, consienta y permita el acoso escolar."
+              },
+              {
+                "Fracción": "II",
+                "Texto": "No tome las medidas para intervenir en los casos de acoso escolar de conformidad con lo que se señala en el Protocolo."
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Oculte a los padres o tutores de los generadores o receptores de acoso escolar, los casos del mismo. IV. Proporcione información falsa u oculte información a las autoridades competentes, sobre hechos de violaciones a esta Ley."
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Cometa otra acción u omisión contrarias a este ordenamiento."
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Se viole la confidencialidad de los datos contenidos en los expedientes de los estudiantes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

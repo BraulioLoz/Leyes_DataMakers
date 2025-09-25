@@ -1,0 +1,19 @@
+{
+  "n_chapters": 6,
+  "n_perm_articles": 27,
+  "n_perm_fracciones": 53,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO PRIMERO DISPOSICIONES GENERALES",
+    "CAPÍTULO SEGUNDO DE LA ORGANIZACIÓN DEL HOSPITAL",
+    "CAPÍTULO TERCERO DEL PATRIMONIO DEL HOSPITAL",
+    "CAPÍTULO CUARTO DEL PATRONATO DEL HOSPITAL",
+    "CAPÍTULO QUINTO DEL CONSEJO CONSULTIVO DEL HOSPITAL",
+    "CAPÍTULO SEXTO DEL PERSONAL ADSCRITO AL HOSPITAL"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 6
+  }
+}

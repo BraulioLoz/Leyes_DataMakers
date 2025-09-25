@@ -1,0 +1,754 @@
+{
+  "0058.JSON": {
+    "Decreto": "Secretaría de Asuntos Parlamentarios Última reforma Decreto número 271 LX Legislatura LEY DE VOLUNTAD ANTICIPADA DEL ESTADO DE MÉXICO",
+    "Año_publicación": 2013,
+    "Título": "",
+    "Capítulos": [
+      {
+        "Capítulo": "CAPÍTULO I DISPOSICIONES GENERALES",
+        "Artículos": [
+          {
+            "Artículo": 1,
+            "Texto": "- Esta Ley es de orden público, interés social y de aplicación obligatoria en el Estado de México.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- La presente Ley tiene por objeto:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Garantizar, proteger, regular y respetar el derecho de las personas a decidir y planificar de forma anticipada, informada, libre, y en previsión de una futura incapacidad que le impida tomar decisiones por sí mismas derivados de una enfermedad o accidente, los tratamientos o procedimientos médicos que desea recibir o rechazar, cuando se encuentre en fase terminal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Garantizar el derecho de acceso de las personas con enfermedad terminal a la atención médica de cuidados paliativos, a través de personal especializado, tecnología e insumos para satisfacer la demanda;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Reconocer, respetar, promover y garantizar los derechos de las y los pacientes en fase terminal, así como, los derechos de sus familiares, previstos en la presente Ley; IV. Promover y garantizar el respeto a la autonomía y a la dignidad de las y los pacientes en fase terminal;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Brindar asistencia tanatológica a las y los pacientes en fase terminal, así como a sus familiares;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Señalar las obligaciones de las y los médicos y del personal de salud para el otorgamiento de cuidados paliativos, así como para llevar a cabo la voluntad anticipada de los pacientes en fase terminal, en los términos de la presente Ley, y"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Determinar las facultades y obligaciones de las instituciones de salud para la prestación de cuidados paliativos, así como para llevar a cabo la voluntad anticipada de los pacientes en fase terminal, en los términos de la presente Ley."
+              }
+            ]
+          },
+          {
+            "Artículo": 2,
+            "Texto": "- Son principios rectores en la aplicación de esta Ley:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Autodeterminación;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Autonomía;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Derechos humanos; IV. El derecho de la persona enferma terminal a recibir cuidados paliativos integrales y un adecuado tratamiento del dolor en la fase final;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "La dignidad e integridad de la persona;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "La garantía de que el sometimiento a cuidados paliativos, no supone menoscabo alguno a una atención integral y digna;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "La preservación de la intimidad y confidencialidad de la persona enferma, y"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "No discriminación y el acceso pleno a los servicios de salud del enfermo."
+              }
+            ]
+          },
+          {
+            "Artículo": 3,
+            "Texto": "- La Secretaria de Salud, a través de la Coordinación de Voluntades Anticipadas, en el ámbito de sus respectivas competencias, son las autoridades responsables de verificar el cumplimiento de lo dispuesto en la presente Ley.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 4,
+            "Texto": "- Para los efectos de esta Ley, se entiende por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Escritura de voluntad anticipada: Documento público otorgado ante notaria o notario público en el que una persona con capacidad de ejercicio y en pleno uso de sus facultades mentales, manifiesta su decisión libre, consciente e informada, de ser sometida, o no, a medios, tratamientos o procedimientos médicos o cuidados paliativos en caso de llegar a encontrase en fase terminal;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Acta de voluntad anticipada: Al documento en el que se asienta la declaración de voluntad anticipada ante el personal de salud autorizado y ante dos testigos, en los términos del formato que para los efectos legales y conducentes emita la Secretaría;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Asistencia tanatológica: A la atención profesional e integral proporcionada por un equipo interdisciplinario, tanto a la/el paciente en situación terminal, como a sus familiares, a fin de comprender la situación médica y las consecuencias de aplicar o no los cuidados paliativos, así como para enfrentar la muerte y el duelo; IV. Autonomía: Facultad de las personas de decidir y planificar de forma anticipada, informada y libre, la atención médica, los cuidados paliativos, tratamientos o procedimientos médicos que desea recibir o rechazar, cuando se encuentre en fase terminal, misma que debe respetarse en toda intervención médica;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Código Civil: Al Código Civil del Estado de México;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Código Penal: Al Código Penal del Estado de México;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Comisión: A la Comisión de Bioética del Estado de México;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Comité: Al Comité de Bioética de cada institución de salud; IX. Consentimiento informado: Al acto a través del cual una persona, con capacidad legal, admite o permite libre, expresa y conscientemente, después de recibir la información adecuada, asequible y suficiente, la realización de determinadas actuaciones que le conciernen en términos de esta Ley;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinación: A la Coordinación de Voluntades Anticipadas del Estado de México; XI. Cuidados paliativos: Al cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo, al control del dolor y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales de la o el paciente; XII. Declaración de voluntad anticipada: A la expresión del consentimiento plenamente informado, anticipado y voluntario, que toda persona capaz, mayor de edad y en pleno uso de sus facultades mentales, asienta en los términos de esta Ley, en un acta o en una escritura; XIII. Diagnóstico: Determinación médica sobre la naturaleza de la enfermedad de un paciente, basada en la valoración de sus signos, síntomas, estudios clínicos y demás datos sobre el probable curso, duración y posibles secuelas de la enfermedad; XIV. Enfermedad en estado terminal: Todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para la o el paciente sea menor a seis meses;"
+              },
+              {
+                "Fracción": "XV",
+                "Texto": "Familiares: A la o el cónyuge, concubina o concubinario, descendientes consanguíneos o civiles hasta el cuarto grado, ascendientes consanguíneos o civiles hasta el cuarto grado, dependientes económicos y parientes colaterales hasta el cuarto grado; XVI. Formato: Al Formato emitido y autorizado por la Secretaría de Salud para que la o el paciente con enfermedad terminal manifieste su Voluntad Anticipada; XVII. Instituciones de salud: A los hospitales, clínicas y todo establecimiento del sector público, privado y social que preste servicios médicos y atención hospitalaria y que forme parte del sistema de salud; XVIII. Ley: A la Ley de Voluntad Anticipada del Estado de México; XIX. Médica o médico tratante: La persona autorizada por la autoridad competente y que cuenta con cédula profesional para ejercer la medicina, responsable de indicar o prescribir un tratamiento de cuidados paliativos, el cual deberá ser explicado en forma comprensible al paciente en fase terminal, así como a la familia o representantes del mismo;"
+              },
+              {
+                "Fracción": "XX",
+                "Texto": "Medios extraordinarios: Los que constituyen una carga demasiado grave para el paciente en fase terminal y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo, así como los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello; XXI. Medios ordinarios: Los que son útiles para conservar la vida de la o el paciente en fase terminal y que no constituyen para él una carga grave o desproporcionada a los beneficios que se pueden obtener; XXII. Muerte digna: Al derecho del paciente en fase terminal de recibir los cuidados paliativos que mejoren el proceso de su muerte, con el objeto de no prolongar su agonía y fallecer sin dolor ni intervención médica intrusiva, contando con asistencia física, psicológica y en su caso, espiritual; XXIII. Notario: A la/el notario/a público del Estado de México; XXIV. Obstinación terapéutica: Toda medida desproporcionada o inútil con el objeto de alargar la vida de un paciente con una enfermedad terminal; XXV. Paciente: A la o el paciente en fase terminal producto de una enfermedad o de un accidente; es decir, a aquél que tiene diagnosticada una enfermedad incurable e irreversible, cuyo pronóstico de vida sea inferior a seis meses o cuyas secuelas de un accidente conlleven de forme inminente a la muerte del paciente; XXVI. Personal autorizado: A las y los profesionales de las instituciones de salud públicas, sociales y privadas, preferentemente especialistas en salud mental, habilitadas o habilitados y capacitadas o capacitados por la Secretaría, para que conforme a esta Ley asistan a las personas en la formulación de las actas de voluntad anticipada en el Estado de México; XXVII. Personal de salud: A las/los profesionales, especialistas, técnicas/os, auxiliares y demás trabajadoras/es que laboran en la prestación de los servicios de salud; XXVIII. Procedimientos: A las formas de llevar a cabo los actos o intervenciones médicas; XXIX. Pronóstico: Al juicio de la o el médico tratante respecto a los cambios que pueden sobrevenir en el transcurso de una enfermedad y sobre la duración y término de la misma;"
+              },
+              {
+                "Fracción": "XXX",
+                "Texto": "Representante: La o las personas con capacidad de ejercicio que deben verificar el cumplimiento de una declaración de voluntad anticipada;"
+              },
+              {
+                "Fracción": "XXXI",
+                "Texto": "Secretaría: A la Secretaría de Salud del Estado de México; XXXII. Sistema digitalizado: Al medio tecnológico que será empleado para la gestión informática de las declaraciones de voluntad anticipada del Estado de México, al que tendrán acceso las instituciones de salud, con el objeto de garantizar el cumplimiento oportuno de la presente Ley; XXXIII. Terapéutica: Se refiere al tratamiento de enfermedades físicas y mentales, el alivio de los síntomas de las enfermedades y la modificación o regulación beneficiosa del estado físico y mental del organismo; XXXIV. Tratamiento: Conjunto de medios que se utilizan para aliviar o curar una enfermedad, y XXXV. Voluntad anticipada: Al acto a través del cual una persona física, encontrándose en una situación de enfermedad terminal o previendo esta situación, expresa su voluntad en una declaración unilateral, de manera anticipada, sobre lo que desea para sí en relación con el o los tratamientos y cuidados de salud respectivos, ya sea en un acta o en una escritura de voluntad anticipada, en los términos que la presente Ley establece."
+              }
+            ]
+          },
+          {
+            "Artículo": 5,
+            "Texto": "- En los casos en que sea necesario y en cualquier momento, el personal autorizado, la/el médica/o tratante y el personal de salud que corresponda, deben permitir la intervención de las/los intérpretes o traductoras/es que requiera la persona o la/el paciente en situación terminal que habrá de realizar su Declaración de Voluntad Anticipada, o las personas autorizadas en el",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 16,
+            "Texto": "e esta Ley o los representantes para el cumplimiento de su cargo. Cuando las/los interesadas/os no puedan hacer la designación de las/los intérpretes o traductoras/es, la Coordinación debe realizar las gestiones necesarias, a efecto de proporcionarlos gratuitamente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 6,
+            "Texto": "- En lo no previsto por esta Ley, se observará la Ley General de Salud y las demás disposiciones aplicables de la materia.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO II DE LOS DERECHOS DE LAS/LOS PACIENTES",
+        "Artículos": [
+          {
+            "Artículo": 7,
+            "Texto": "- Las/los pacientes tienen los derechos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir un trato digno, respetuoso y profesional, procurando preservar su calidad de vida;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y sobre los tipos de tratamientos por los que puede optar, según la enfermedad que padezca;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Recibir por escrito la información necesaria para obtener una segunda opinión sobre el diagnóstico y pronóstico de su enfermedad, así como sobre los medios, procedimientos, tratamientos y cuidados relacionados con ésta; IV. A que toda la información relativa a su enfermedad se maneje confidencialmente;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Dar su consentimiento informado, por escrito, para la aplicación o no de tratamientos, medicamentos y cuidados paliativos, adecuados a su enfermedad, necesidades y calidad de vida;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Recibir atención médica integral;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Recibir atención hospitalaria y ambulatoria;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Ingresar a las instituciones de salud cuando requiera atención médica;"
+              },
+              {
+                "Fracción": "IX",
+                "Texto": "Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Renunciar, abandonar o negarse en cualquier momento a recibir o continuar con tratamientos o medios desproporcionados; XI. Solicitar a la/el médica/o tratante que le administre medicamentos que mitiguen el dolor; XII. Optar por recibir los cuidados paliativos en un domicilio particular; XIII. Recibir asistencia tanatológica con el fin de comprender la situación y consecuencias de la enfermedad, así como para enfrentar la pérdida de la vida; XIV. Recibir los servicios espirituales cuando lo solicite ella o él, su familia, representante legal o persona de su confianza; XV. A que se le proporcionen servicios de orientación y asesoramiento a ella o él, a su familia o persona de su confianza, así como de seguimiento, respecto de su estado de salud; XVI. A que se respete su voluntad, contenida en el acta o en la escritura de voluntad anticipada; XVII. Los demás que señale la Ley General de Salud, esta Ley, así como otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO III DE LOS DERECHOS Y OBLIGACIONES DEL PERSONAL DE SALUD",
+        "Artículos": [
+          {
+            "Artículo": 8,
+            "Texto": "- El personal de salud tiene los derechos siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir un trato respetuoso por parte de las/los pacientes, familiares, representantes y personas cercanas;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Recibir formación, capacitación y actualización, humana y técnica, a efecto de proporcionar adecuadamente el plan de cuidados paliativos y atención a las/los pacientes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Ejercer la objeción de conciencia, cuando sus creencias religiosas o convicciones personales sean contrarias a las disposiciones contenidas en alguna acta o escritura de voluntad anticipada, haciéndolo del conocimiento del Comité de Bioética. En estos casos será obligación de las instituciones de salud, garantizar y vigilar la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor, a fin de dar cumplimiento a las declaraciones de voluntad anticipada; IV. Los demás que señale esta Ley, así como otras disposiciones aplicables."
+              }
+            ]
+          },
+          {
+            "Artículo": 9,
+            "Texto": "- El personal de salud responsable de dar cumplimiento a las disposiciones establecidas en las actas o escrituras de voluntad anticipada tiene las obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Informar a las/los pacientes, familiares y personas cercanas, los derechos que tienen en términos de la Ley General de Salud, esta Ley y demás disposiciones aplicables;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Hacer saber a la/el paciente, familiar o representantes de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tiene, como posibles efectos secundarios, disminuir el tiempo de vida;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Brindar un trato digno, respetuoso y profesional a las/los pacientes, familiares, representantes y personas cercanas;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Informar oportunamente a la/el paciente o a quien corresponda, en términos del artículo 14 de esta Ley, cuando el tratamiento terapéutico no dé resultados;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proporcionar a la/el paciente y, en su caso, a sus familiares, representantes, personas cercanas, la información sobre el diagnóstico, evolución, pronóstico, medios, procedimientos, tratamientos y cuidados de la enfermedad;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Entregar a la/el paciente y, en su caso, a sus familiares, representantes o personas cercanas, un resumen del expediente clínico, de conformidad con las disposiciones en la materia;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Proporcionar a la/el paciente o, en su caso, a la persona que corresponda en términos del"
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "e esta Ley, información oportuna, veraz, suficiente y adecuada a su entendimiento, a efecto de que pueda formular la declaración de voluntad anticipada o las decisiones correspondientes;",
+            "Fracciones": [
+              {
+                "Fracción": "VIII",
+                "Texto": "Informar a la/el paciente o a quien corresponda, en términos del artículo 16 de la presente Ley, de inmediato y antes de su aplicación, los alcances y consecuencias de los tratamientos existentes para aliviar el dolor y los síntomas de su enfermedad; IX. Brindar oportuna y verazmente a las/los representantes toda la información que requieran y que sea necesaria, a efecto de que puedan verificar el cumplimiento de la declaración de voluntad anticipada;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Cumplir en sus términos las disposiciones contenidas en las declaraciones de voluntad anticipada, las de la presente Ley y demás disposiciones aplicables; XI. Establecer canales de comunicación con el Centro Estatal de Trasplantes, a efecto de dar cumplimiento oportuno a las directrices derivadas de las actas o escrituras de voluntad anticipada, o de las decisiones asumidas por las personas autorizadas en términos del artículo 16 de esta Ley, referentes a la donación total o parcial de órganos, tejidos y células para realizar trasplantes, o a la utilización de cadáveres o parte de ellos, con fines de docencia e investigación, en términos de lo dispuesto en la Ley General de Salud y demás disposiciones en la materia; XII. Informar a la Coordinación sobre el cumplimiento de las declaraciones de voluntad anticipada; XIII. Las demás que señale esta Ley, así como otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IV DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD",
+        "Artículos": [
+          {
+            "Artículo": 10,
+            "Texto": "- Las instituciones de salud tienen las facultades y obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Otorgar los servicios e instalaciones de calidad para la debida atención a las/los pacientes y, en especial, para el desarrollo del plan de cuidados paliativos, cuando se cuente con los recursos para brindarlos;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Proporcionar asesoría, orientación y seguimiento a las/los pacientes, familiares y personas cercanas, cuando el plan de cuidados paliativos se realice en un domicilio particular. Para tal efecto, la Secretaría pondrá en operación los medios que estime convenientes;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Brindar a las/los pacientes la atención debida y las opciones disponibles, proveyéndoles de los cuidados necesarios para evitarles el sufrimiento durante el curso de su enfermedad; IV. Destinar áreas especializadas dentro de las instituciones de salud, para ejecutar el plan de cuidados paliativos, tanto de internamiento como ambulatorio;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proporcionar los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico hasta la muerte;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Impulsar la creación y desarrollo de redes de apoyo social, dentro de la comunidad de la institución de salud, y entre sus usuarios;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Promover la formación, capacitación y actualización permanente de médicas/os y personal de salud sobre el respeto a los derechos y a la dignidad de las/ los pacientes, de los cuidados paliativos y de la asistencia tanatológica;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Diseñar programas e implementar acciones para fomentar la cultura de los cuidados paliativos y de la asistencia tanatológica; IX. Remitir a la Coordinación las actas y las escrituras de voluntad anticipada;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Poner en operación una línea telefónica de acceso gratuito para que se oriente, asesore y dé seguimiento a la/el paciente, a sus familiares o persona de confianza; XI. Las demás que señale esta Ley, así como otras disposiciones en la materia."
+              }
+            ]
+          },
+          {
+            "Artículo": 11,
+            "Texto": "- La Secretaría adoptará las medidas necesarias para que los cuidados paliativos formen parte de los servicios básicos que presten las instituciones de salud en el Estado de México, a fin de proporcionar atención médica integral a las/los pacientes.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO V DE LA VOLUNTAD ANTICIPADA",
+        "Artículos": [
+          {
+            "Artículo": 12,
+            "Texto": "- Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, realizar su declaración de voluntad anticipada ante notaria/o, mediante escritura de voluntad anticipada, documento que puede ser revocado en cualquier momento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 13,
+            "Texto": "- Toda/o paciente, mayor de edad y en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, realizar su declaración de voluntad anticipada, mediante acta de voluntad anticipada, documento que puede ser revocado en cualquier momento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 14,
+            "Texto": "- La/el paciente que desee tener su acta de voluntad anticipada, debe suscribir el Formato ante el personal de salud autorizado y ante dos testigos, en los términos que para los efectos legales y conducentes emita la Secretaría, mismo que deberá ser notificado a la Coordinación, dentro de los cinco días naturales siguientes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 15,
+            "Texto": "- El personal autorizado, para asistir a una/un paciente en la realización de un acta de voluntad anticipada, tendrá las obligaciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Informar sobre la gratuidad del trámite;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Verificar documentalmente la identidad de la/el signatario;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Constatar que la/el paciente se encuentre en pleno uso de sus facultades mentales; IV. Confirmar que el paciente no actúa bajo error, dolo, mala fe, lesión o violencia;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Brindar información veraz, suficiente y adecuada;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Proveer lo necesario para que le sea proporcionada la información especializada que requiera;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Brindar asesoría y orientar a la/el paciente en el llenado del Formato, respetando su voluntad, y cuidando que no existan hojas o espacios en blanco, enmendaduras, tachaduras, así como abreviaturas o cifras."
+              }
+            ]
+          },
+          {
+            "Artículo": 16,
+            "Texto": "- El personal autorizado podrá trasladarse a las instituciones de salud donde lo requieran, a efecto de asistir a las/los pacientes, o a quienes corresponda, en términos de esta Ley, para que realicen las declaraciones de voluntad anticipada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 17,
+            "Texto": "- Si la/el paciente es menor de edad o se encuentra incapacitada/o para expresar su voluntad, las decisiones derivadas de los derechos señalados serán asumidos por sus padres, por quienes ejerzan la patria potestad, por la/el tutora/or y, a falta de estos, por la/el representante legal.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 18,
+            "Texto": "- Cuando la/el paciente no cuente con declaración de voluntad anticipada y no pueda expresar personalmente su voluntad, la decisión será asumida por:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "La/el cónyuge;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La concubina o el concubinario;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Las/los hijas/os mayores de edad o emancipados; IV. Los padres;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las/los hermanas/os mayores de edad o emancipados;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Cualquier pariente consanguíneo hasta cuarto grado. Cuando atendiendo al orden de prelación concurran dos o más de las personas referidas, se requerirá unanimidad en la decisión. Para los efectos de este artículo, se deben presentar ante el personal de salud que corresponda los documentos con los que se acredite el parentesco o relación a que haya lugar, debiendo asentarse dicha decisión ante dos testigos. La persona que asuma la decisión en términos del presente artículo, fungirá a su vez como representante de la/el paciente."
+              }
+            ]
+          },
+          {
+            "Artículo": 19,
+            "Texto": "- Están impedidas/os para tomar las decisiones a que se refiere esta Ley, en favor de una/un paciente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las personas que recibieron en su contra alguna demanda, denuncia o querella formulada por la/el paciente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las personas que interpusieron alguna demanda, denuncia o querella en contra de la/el paciente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La/el concubina/rio o la/el cónyuge que se encuentre separado del paciente por más de un año o que esté en proceso de divorcio; IV. El médico tratante o el personal de la institución de salud. En los casos en que se actualice alguno de los supuestos previstos en este artículo, cualquier persona o el interesado, bajo protesta de decir verdad, lo hará saber al personal de salud, a efecto de que se haga constar ante dos testigos, para los efectos legales conducentes. En estos casos, las decisiones a que se refiere este artículo, quedarán automáticamente canceladas."
+              }
+            ]
+          },
+          {
+            "Artículo": 20,
+            "Texto": "- Cuando la persona desee una escritura de voluntad anticipada debe comparecer ante la/el notaria/o, quien verificará su identidad, que se encuentre en pleno uso de sus facultades y libre de cualquier coacción.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 21,
+            "Texto": "- La/el solicitante de escritura de voluntad anticipada debe expresar de modo claro y terminante su voluntad a la/el notaria/o, quien redactará los términos de la escritura, sujetándose estrictamente a la voluntad de la/el primera/o, leyéndola en voz alta para que ésta/e manifieste si está conforme. Si lo estuviere, la firmarán la/el solicitante, la/el notaria/o, las/los testigos y la/el traductora/or, según sea el caso, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgada. La/el solicitante, asistirá al acto acompañada/o de aquel o aquellos que haya de nombrar como representantes.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 22,
+            "Texto": "- Cuando la/el solicitante no hable o entienda lo suficiente el español, la/el notaria/o deberá nombrar, a costa de la/el primera/o, una/un traductora/or que concurrirá al acto y le explicará los términos y condiciones en que se suscribe. En caso de que la/el solicitante fuere sordomuda/o, y supiera el lenguaje de señas, la/el notaria/o deberá nombrar, a costa de la/el solicitante, una/un intérprete que concurrirá al acto y auxiliará en el acto protocolario. Cuando la/el solicitante sea ciega/o se dará lectura a la escritura dos veces; una por la/el notaria/o, y otra, por una/uno de los testigos u otra persona que la/el solicitante designe. Si la/el solicitante no puede o no sabe leer, concurrirá al acto una persona de su confianza que pueda verificar que se asiente su voluntad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 23,
+            "Texto": "- La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal de la/el paciente y el inicio de tratamientos enfocados, de manera exclusiva, a la disminución de su dolor o malestar. En este caso, la/el médica/o especialista en el padecimiento de la/el paciente interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de su vida, dejando que su padecimiento evolucione naturalmente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 24,
+            "Texto": "- El acta y la escritura de voluntad anticipada debe contener las formalidades y requisitos establecidos por la normativa aplicable, para que toda persona o paciente con capacidad legal exprese su consentimiento, plenamente informado, anticipado y voluntario, en relación con:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Los medios, procedimientos, tratamientos y cuidados paliativos que desea aceptar o rechazar, en caso de que sea diagnosticada/o con una enfermedad en estado terminal y concurran situaciones clínicas en las cuales no pueda expresar personalmente su voluntad, a efecto de evitar la obstinación terapéutica y procurar una muerte digna;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "La aceptación o rechazo de someterse a medidas diagnósticas, preventivas, terapéuticas, rehabilitatorias o paliativas con fines de investigación, en caso de ser diagnosticada/o con una enfermedad en estado terminal y concurran situaciones clínicas en las cuales no pueda expresar personalmente su voluntad, de conformidad con lo dispuesto por la Ley General de Salud y demás"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La aceptación o rechazo para que, después de perder la vida, se donen total o parcialmente sus órganos, tejidos y células para realizar trasplantes, o se utilice su cadáver o parte de él con fines de docencia e investigación, en términos de lo dispuesto en la Ley General de Salud y demás disposiciones en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VI DE LOS REPRESENTANTES",
+        "Artículos": [
+          {
+            "Artículo": 25,
+            "Texto": "- La persona que formule su declaración de voluntad anticipada deberá designar de uno hasta tres representantes, los cuales deben aceptar dicho cargo en el mismo acto para que, en el orden de prelación que se indique, verifiquen el cumplimiento de la voluntad.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 26,
+            "Texto": "- El cargo de representante es honorífico, voluntario y gratuito; quien lo acepte, adquiere el deber jurídico de desempeñarlo puntual y cabalmente.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 27,
+            "Texto": "- Están impedidos para desempeñar el cargo de representantes de una/un paciente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Las personas que recibieron en su contra alguna demanda, denuncia o querella formulada por la/el paciente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Las personas que interpusieron alguna demanda, denuncia o querella en contra de la/el paciente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "La/el concubina/rio o la/el cónyuge que se encuentre separado del paciente por más de un año o que esté en proceso de divorcio. En los casos en que se actualice alguno de los supuestos previstos en este artículo, cualquier persona o los mismos representantes, bajo protesta de decir verdad, lo harán saber al personal de salud, a efecto de que se haga constar ante dos testigos. En estos casos, la representación a que se refiere este artículo, quedará automáticamente cancelada."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VII DE LA REVOCACIÓN, MODIFICACIÓN Y NULIDAD DE LA DECLARACIÓN DE VOLUNTAD ANTICIPADA",
+        "Artículos": [
+          {
+            "Artículo": 28,
+            "Texto": "- La declaración de voluntad anticipada únicamente puede ser revocada o modificada por la/el signataria/o de la misma, en cualquier momento, cumpliendo con los mismos requisitos para su otorgamiento.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 29,
+            "Texto": "- En caso de que existan dos o más declaraciones de voluntad anticipada realizadas por la misma persona, será válida la última.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 30,
+            "Texto": "- La declaración de voluntad anticipada será nula cuando:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Su contenido no sea congruente con lo establecido por la Ley General de Salud y demás"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Concurra alguno de los vicios del consentimiento, en términos de lo dispuesto por el Código Civil;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Contemple el pedimento para asistir o provocar intencionalmente la muerte, particularmente, por cuanto hace al homicidio por móviles de piedad y el suicidio asistido, conforme lo señala el Código Penal; IV. La/el signataria/o no exprese clara e inequívocamente su voluntad;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que señalen otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO VIII DEL CUMPLIMIENTO DE LA DECLARACIÓN DE VOLUNTAD ANTICIPADA",
+        "Artículos": [
+          {
+            "Artículo": 31,
+            "Texto": "- El diagnóstico y pronóstico relativos a una/un paciente deben ser emitidos por la/el médica/o tratante y, preferentemente, ratificarse por otro especialista en la enfermedad de que se trate.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 32,
+            "Texto": "- Las instituciones de salud deben tener acceso al sistema digitalizado para consultar la existencia de alguna acta o escritura de voluntad anticipada, relacionada con alguna/algún paciente para que, en su caso, sea cumplida.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 33,
+            "Texto": "- La/el médica/o tratante y el personal de salud autorizado sólo tendrán permitido acceder y dar cumplimiento a las disposiciones contenidas en la declaración de voluntad anticipada de una persona, cuando ésta sea diagnosticada con una enfermedad en estado terminal y no pueda expresar personalmente su voluntad, o cuando fallezca para que, en su caso, se atienda la voluntad en relación con el destino de sus órganos, tejidos, células o cadáver, de conformidad con la legislación y normatividad en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 34,
+            "Texto": "- En caso de que una/un paciente no pueda expresar personalmente su voluntad, su familiar o los representantes, en los términos de esta Ley, deben solicitar a la/el médica/o tratante o al personal de salud, que se cumplan las disposiciones establecidas en la declaración de voluntad anticipada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 35,
+            "Texto": "- La declaración de voluntad anticipada se debe agregar al expediente clínico de la/el paciente, a efecto de que el personal de salud cumpla con sus disposiciones en los términos prescritos.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 36,
+            "Texto": "- Cuando no sea posible la localización o presencia de representantes o cuando éstos rechacen desempeñar el cargo, dicha circunstancia se hará constar, a efecto de que el Comité de Bioética sea el responsable de verificar el cumplimiento de la declaración de voluntad anticipada.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 37,
+            "Texto": "- Cuando los recursos de una institución de salud no le permitan garantizar el cumplimiento de las disposiciones de alguna declaración de voluntad anticipada y de la presente Ley, la/el médica/o tratante y la/el directora/or de dicha Institución deben realizar las gestiones necesarias, a efecto de que la/el paciente pueda ser trasladado a otra Institución que lo garantice.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 38,
+            "Texto": "- La declaración de voluntad anticipada debe prevalecer sobre la opinión y las indicaciones que puedan realizar las/los familiares, las/los representantes y el personal de salud.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO IX DE LOS CUIDADOS PALIATIVOS A LAS Y LOS PACIENTES",
+        "Artículos": [
+          {
+            "Artículo": 39,
+            "Texto": "- Los cuidados paliativos se deben proporcionar, por la/el médica/o tratante, desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista. La Secretaría deberá contar con un modelo de atención en materia de cuidados paliativos, además promoverá dichos modelos en los hospitales particulares.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 40,
+            "Texto": "- Los cuidados paliativos pueden ser proporcionados en las instituciones de salud o en domicilios particulares, bajo prescripción y supervisión médica.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 41,
+            "Texto": "- La/el médica/o tratante podrá suministrar fármacos paliativos, con el objeto de aliviar el dolor de la/el paciente, de acuerdo con lo estipulado en la normativa en la materia.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 42,
+            "Texto": "- La/el paciente, incluso durante el desarrollo del plan de cuidados paliativos, puede solicitar, de manera verbal, el reinicio del tratamiento curativo; en tal caso, deberá ratificarlo por escrito ante el personal de salud que corresponda.",
+            "Fracciones": []
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO X DE LA ASISTENCIA TANATOLÓGICA",
+        "Artículos": [
+          {
+            "Artículo": 43,
+            "Texto": "- La/el paciente, así como sus familiares, representantes y personas cercanas, tienen derecho a que la institución de salud les brinde, de acuerdo a sus requerimientos, la asistencia tanatológica que contemple, cuando menos, lo siguiente:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Promover la autonomía de la/el paciente;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Contribuir al mejoramiento de la calidad de vida de la/el paciente;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Proporcionar atención especializada cuando su ánimo esté deteriorado; IV. Disminuir el aislamiento de la/el paciente, facilitando las visitas y el descanso de los familiares, representantes y personas cercanas, cuando resulte necesaria la hospitalización;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proporcionar apoyo profesional para afrontar la enfermedad, la muerte y el duelo;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Permitir que se brinden a la/el paciente, los servicios espirituales que soliciten ella o él, sus familiares, representantes y personas cercanas;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Realizar las gestiones necesarias ante las instituciones públicas o privadas correspondientes, para que se proporcione la orientación y la asesoría jurídica que requieran;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Participar en redes de apoyo social dentro de la comunidad de la institución de salud y sus usuarios; IX. Las demás que sean procedentes de acuerdo con los conocimientos clínicos fundamentados y las disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO XI DEL COMITÉ DE BIOÉTICA",
+        "Artículos": [
+          {
+            "Artículo": 44,
+            "Texto": "- El Comité es el órgano interdisciplinario de cada institución de salud, integrado de conformidad con la Ley General de Salud y demás disposiciones aplicables, con las funciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Realizar la promoción y difusión de los derechos que tienen las/los pacientes;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Conocer y opinar sobre el plan de cuidados paliativos de las/los pacientes, a efecto de que estos sean interdisciplinarios e integrales;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Supervisar, en la esfera de su competencia, el cumplimiento de las disposiciones de las declaraciones de voluntad anticipada, de esta Ley y de las demás disposiciones en la materia; IV. Coordinarse con la Comisión para promover y difundir los beneficios establecidos en esta Ley y otras disposiciones aplicables;"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Las demás que señale esta Ley, así como otras disposiciones en la materia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO XII DE LA COORDINACIÓN DE VOLUNTADES ANTICIPADAS DEL ESTADO DE MÉXICO",
+        "Artículos": [
+          {
+            "Artículo": 45,
+            "Texto": "- La Coordinación es el órgano administrativo adscrito a la Secretaría que tiene las atribuciones siguientes:",
+            "Fracciones": [
+              {
+                "Fracción": "I",
+                "Texto": "Recibir, registrar, digitalizar, archivar y resguardar las declaraciones de voluntad anticipada, así como sus modificaciones o revocaciones;"
+              },
+              {
+                "Fracción": "II",
+                "Texto": "Operar, mantener, mejorar, evaluar y actualizar el sistema digitalizado;"
+              },
+              {
+                "Fracción": "III",
+                "Texto": "Difundir y distribuir los formatos que faciliten el trámite para realizar las declaraciones de voluntad anticipada;"
+              },
+              {
+                "Fracción": "IV",
+                "Texto": "Garantizar a las instituciones de salud el acceso al sistema digitalizado y, en su caso, al contenido de las declaraciones de voluntad anticipada, en los términos de esta Ley y demás"
+              },
+              {
+                "Fracción": "V",
+                "Texto": "Proporcionar información respecto a la voluntad anticipada encaminada al bienestar social, mediante la capacitación a instituciones públicas, privadas, sociales y civiles, así como a las personas que lo soliciten directamente;"
+              },
+              {
+                "Fracción": "VI",
+                "Texto": "Expedir copias certificadas de las declaraciones de voluntad anticipada, en términos de esta Ley y demás disposiciones correspondientes;"
+              },
+              {
+                "Fracción": "VII",
+                "Texto": "Coordinar a los Comités de Bioética para garantizar la exacta observancia de las disposiciones contenidas en las declaraciones de voluntad anticipada y de la presente Ley;"
+              },
+              {
+                "Fracción": "VIII",
+                "Texto": "Supervisar el cumplimiento de las declaraciones de voluntad anticipada, de esta Ley y demás disposiciones en la materia; IX. Hacer del conocimiento de las autoridades competentes las irregularidades que advierta en el cumplimiento de las declaraciones de voluntad anticipada;"
+              },
+              {
+                "Fracción": "X",
+                "Texto": "Coordinarse con la Comisión para promover y difundir los beneficios establecidos en esta Ley; XI. Elaborar y ejecutar programas de investigación, estudio, capacitación, enseñanza, promoción y difusión de los derechos que tienen las y los pacientes; XII. Proponer al Secretario de Salud los proyectos de leyes, reglamentos, decretos, acuerdos, convenios y contratos, sobre los asuntos de su competencia; XIII. Coordinarse con las instituciones federales que correspondan para garantizar el cumplimiento de las disposiciones contenidas en las declaraciones de voluntad anticipada, de la Ley General de Salud, de esta Ley y de la normativa en la materia; XIV. Las demás que señale esta Ley, así como otras disposiciones aplicables."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Capítulo": "CAPÍTULO XIII DE LAS RESPONSABILIDADES",
+        "Artículos": [
+          {
+            "Artículo": 46,
+            "Texto": "- Las/los notarias/os y cualquier otra persona que redacte declaraciones de voluntad anticipada deberán evitar dejar hojas en blanco o servirse de abreviaturas o cifras. El incumplimiento de esto, implicará las responsabilidades que la legislación correspondiente establezca.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 47,
+            "Texto": "- El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado de la/el paciente, sin su consentimiento o, en su caso, el de su familia o representante será sancionado conforme a las leyes aplicables.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 48,
+            "Texto": "- Por ningún motivo y al amparo de esta Ley, se ejercerá la práctica de la eutanasia entendida como homicidio por piedad, así como el suicidio asistido conforme lo señala la normatividad aplicable.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 49,
+            "Texto": "- Ninguna persona, profesional o personal de salud que haya actuado en concordancia con las disposiciones establecidas en la Ley General de Salud, la presente Ley y la normativa en la materia, estará sujeto a responsabilidad civil, penal o administrativa.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 50,
+            "Texto": "- Queda prohibido suministrar fármacos, medicamentos u otras sustancias con la finalidad de acortar la vida del paciente; así como aplicar tratamientos que provoquen de manera intencional la muerte.",
+            "Fracciones": []
+          },
+          {
+            "Artículo": 51,
+            "Texto": "- Las/los médicas/os tratantes, en ningún caso y por ningún motivo implementaran medios extraordinarios al enfermo en situación terminal, sin su consentimiento.",
+            "Fracciones": []
+          }
+        ]
+      }
+    ],
+    "Transitorios": []
+  }
+}

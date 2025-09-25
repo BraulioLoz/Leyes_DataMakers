@@ -1,0 +1,16 @@
+{
+  "n_chapters": 3,
+  "n_perm_articles": 11,
+  "n_perm_fracciones": 3,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "Capítulo I Disposiciones Generales",
+    "Capítulo II Procedimiento para instaurar y disolver el Gobierno de Coalición",
+    "Capítulo III De las facultades de la Legislatura Local para la integración del Gobierno de Coalición"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 3
+  }
+}

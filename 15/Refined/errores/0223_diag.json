@@ -1,0 +1,18 @@
+{
+  "n_chapters": 5,
+  "n_perm_articles": 22,
+  "n_perm_fracciones": 64,
+  "n_trans_caps": 0,
+  "n_trans_articles": 0,
+  "n_trans_fracciones": 0,
+  "chapter_labels": [
+    "CAPÍTULO I DE LA NATURALEZA JURÍDICA Y OBJETIVOS DEL INSTITUTO",
+    "CAPÍTULO II DE LAS POLÍTICAS PÚBLICAS Y EL PROGRAMA",
+    "CAPÍTULO III DE LA ORGANIZACIÓN DEL INSTITUTO",
+    "CAPÍTULO IV DEL PATRIMONIO DEL INSTITUTO",
+    "CAPÍTULO V DEL CONTROL INTERNO"
+  ],
+  "chapter_kind_breakdown": {
+    "CAPÍTULO": 5
+  }
+}
